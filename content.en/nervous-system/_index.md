@@ -24,7 +24,7 @@ NERVOUS SYSTEM 15
 
 10th\_Science Unit-15.indd 218 06-12-2021 18:40:47
 
-www.tntextbooks.in
+
 
 
 
@@ -58,7 +58,7 @@ Cyton
 
 10th\_Science Unit-15.indd 219 06-12-2021 18:40:48
 
-www.tntextbooks.in
+
 
 
 
@@ -130,7 +130,7 @@ In this way, the electrical signal reaches the brain or spinal cord. The respons
 
 10th\_Science Unit-15.indd 220 06-12-2021 18:40:48
 
-www.tntextbooks.in
+
 
 
 
@@ -180,7 +180,7 @@ Meninges
 
 10th\_Science Unit-15.indd 221 06-12-2021 18:40:48
 
-www.tntextbooks.in
+
 
 
 
@@ -247,7 +247,7 @@ that determine our brain’s integrity and the ability are Essential Fatty Acids
 
 10th\_Science Unit-15.indd 222 06-12-2021 18:40:48
 
-www.tntextbooks.in
+
 
 
 
@@ -298,7 +298,7 @@ Electroencephalogram (EEG) is an instrument which records the electrical impulse
 
 10th\_Science Unit-15.indd 223 06-12-2021 18:40:48
 
-www.tntextbooks.in
+
 
 
 
@@ -365,7 +365,7 @@ Peripheral nervous system is formed by the nerves arising from the brain and the
 
 10th\_Science Unit-15.indd 224 06-12-2021 18:40:49
 
-www.tntextbooks.in
+
 
 
 
@@ -423,7 +423,7 @@ You must say the colour of the word but not the name of the word.
 
 10th\_Science Unit-15.indd 225 06-12-2021 18:40:49
 
-www.tntextbooks.in
+
 
 
 
@@ -492,7 +492,7 @@ response to a stimulus which is not under the voluntary control of the brain.
 
 10th\_Science Unit-15.indd 226 06-12-2021 18:40:49
 
-www.tntextbooks.in
+
 
 
 
@@ -581,7 +581,7 @@ structure of a neuron.
 
 10th\_Science Unit-15.indd 227 06-12-2021 18:40:49
 
-www.tntextbooks.in
+
 
 
 
@@ -650,7 +650,7 @@ Spinal Nerves
 
 10th\_Science Unit-15.indd 228 06-12-2021 18:40:49
 
-www.tntextbooks.in
+
 
 
 

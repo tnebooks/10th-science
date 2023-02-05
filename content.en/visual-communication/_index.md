@@ -30,7 +30,7 @@ At the end of this lesson the students will be able to:
 
 10th\_Science Unit-23 .indd 329 06-12-2021 18:56:43
 
-www.tntextbooks.in
+
 
 
 
@@ -67,7 +67,7 @@ animations, cartoons and games easily. Scratch is a visual programming language.
 
 10th\_Science Unit-23 .indd 330 06-12-2021 18:56:43
 
-www.tntextbooks.in
+
 
 
 
@@ -114,7 +114,7 @@ Click the green flag at the top right corner of the stage to run your program.
 
 10th\_Science Unit-23 .indd 331 06-12-2021 18:56:44
 
-www.tntextbooks.in
+
 
 
 
@@ -151,7 +151,7 @@ you don’t like it, click the speaker icon to choose a different sound from the
 
 10th\_Science Unit-23 .indd 332 06-12-2021 18:56:44
 
-www.tntextbooks.in
+
 
 
 
@@ -200,7 +200,7 @@ www.tntextbooks.in
 
 10th\_Science Unit-23 .indd 333 06-12-2021 18:56:44
 
-www.tntextbooks.in
+
 
 
 

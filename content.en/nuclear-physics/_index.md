@@ -39,7 +39,7 @@ After learning this unit, students will be able to
 
 10th\_Science\_Unit-6.indd 74 12/9/2021 12:57:25 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -90,7 +90,7 @@ This kind of radioactivity was discovered by Irene Curie and F.Joliot in 1934. A
 
 10th\_Science\_Unit-6.indd 75 12/9/2021 12:57:26 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -156,7 +156,7 @@ Exhibited by elements with atomic number less than 83.
 
 10th\_Science\_Unit-6.indd 76 12/9/2021 12:57:26 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -247,7 +247,7 @@ They travel with the speed of light.
 
 10th\_Science\_Unit-6.indd 77 12/9/2021 12:57:26 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -328,7 +328,7 @@ U235. Of these two, U238 does not undergo fission
 
 10th\_Science\_Unit-6.indd 78 12/9/2021 12:57:26 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -391,7 +391,7 @@ In the uncontrolled chain reaction the number of neutrons multiplies indefinitel
 
 10th\_Science\_Unit-6.indd 79 12/9/2021 12:57:26 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -455,7 +455,7 @@ The energy released in a nuclear fission process is about 200 MeV.
 
 10th\_Science\_Unit-6.indd 80 12/9/2021 12:57:26 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -497,7 +497,7 @@ Hydrogen bomb is based on the principle of nuclear fusion. A hydrogen bomb is al
 
 10th\_Science\_Unit-6.indd 81 12/9/2021 12:57:27 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -559,7 +559,7 @@ Only light and heat energy is emitted.
 
 10th\_Science\_Unit-6.indd 82 12/9/2021 12:57:27 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -618,7 +618,7 @@ used in the environments where exposure to radiation may occur such as nuclear p
 
 10th\_Science\_Unit-6.indd 83 12/9/2021 12:57:27 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -689,7 +689,7 @@ Indian Atomic Energy Commission (AEC) was established in August 1948 by the
 
 10th\_Science\_Unit-6.indd 84 12/9/2021 12:57:28 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -782,7 +782,7 @@ substance, which undergoes 3.7 × 1010 disintegrations in one second. This is ac
 
 10th\_Science\_Unit-6.indd 85 12/9/2021 12:57:28 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -839,7 +839,7 @@ a. Bequerel b. Irene Curie c. Roentgen d. Neils Bohr
 
 10th\_Science\_Unit-6.indd 86 12/9/2021 12:57:28 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -946,7 +946,7 @@ iii. The chain reaction in a nuclear reactor is not controlled
 
 10th\_Science\_Unit-6.indd 87 12/9/2021 12:57:28 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1017,7 +1017,7 @@ reaction d. Fusion reaction Atom bomb
 
 10th\_Science\_Unit-6.indd 88 12/9/2021 12:57:28 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1098,7 +1098,7 @@ field of agriculture?
 
 10th\_Science\_Unit-6.indd 89 12/9/2021 12:57:28 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1129,7 +1129,7 @@ www.tntextbooks.in
 
 10th\_Science\_Unit-6.indd 90 12/9/2021 12:57:29 PM
 
-www.tntextbooks.in
+
 
 
 

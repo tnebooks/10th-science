@@ -33,7 +33,7 @@ STRUCTURAL ORGANISATION OF ANIMALS13
 
 10th\_Science Unit-13.indd 187 06-12-2021 18:39:56
 
-www.tntextbooks.in
+
 
 
 
@@ -81,7 +81,7 @@ A. Dorsal View B. Ventral view
 
 10th\_Science Unit-13.indd 188 06-12-2021 18:39:57
 
-www.tntextbooks.in
+
 
 
 
@@ -169,7 +169,7 @@ The last chamber of crop opens into stomach. The stomach leads into intestine wh
 
 10th\_Science Unit-13.indd 189 06-12-2021 18:39:57
 
-www.tntextbooks.in
+
 
 
 
@@ -251,7 +251,7 @@ Female genital aperture
 
 10th\_Science Unit-13.indd 190 06-12-2021 18:39:57
 
-www.tntextbooks.in
+
 
 
 
@@ -318,7 +318,7 @@ The ova are budded off from the ovary. From each ovary runs a short oviduct. The
 
 10th\_Science Unit-13.indd 191 06-12-2021 18:39:57
 
-www.tntextbooks.in
+
 
 
 
@@ -410,7 +410,7 @@ blood circulation and breaking up blood clots. It is surprising that they can be
 
 10th\_Science Unit-13.indd 192 06-12-2021 18:39:58
 
-www.tntextbooks.in
+
 
 
 
@@ -489,7 +489,7 @@ Lungs and heart lie in the thoracic cavity, whereas, abdominal cavity encloses d
 
 10th\_Science Unit-13.indd 193 06-12-2021 18:39:58
 
-www.tntextbooks.in
+
 
 
 
@@ -570,7 +570,7 @@ Gall bladder
 
 10th\_Science Unit-13.indd 194 06-12-2021 18:39:59
 
-www.tntextbooks.in
+
 
 
 
@@ -625,7 +625,7 @@ CNS consists of brain and spinal cord. PNS is formed of 12 pairs of cranial nerv
 
 10th\_Science Unit-13.indd 195 06-12-2021 18:40:00
 
-www.tntextbooks.in
+
 
 
 
@@ -671,7 +671,7 @@ consists of a pair of ovaries which are small
 
 10th\_Science Unit-13.indd 196 06-12-2021 18:40:01
 
-www.tntextbooks.in
+
 
 
 
@@ -757,7 +757,7 @@ c) Reproductive system d) Respiratory system
 
 10th\_Science Unit-13.indd 197 06-12-2021 18:40:01
 
-www.tntextbooks.in
+
 
 
 
@@ -828,7 +828,7 @@ _granulosa_. 2. How does leech respire? 3. Write the dental formula of rabbit. 4
 
 10th\_Science Unit-13.indd 198 06-12-2021 18:40:01
 
-www.tntextbooks.in
+
 
 
 
@@ -970,7 +970,7 @@ Reproduction
 
 10th\_Science Unit-13.indd 199 06-12-2021 18:40:01
 
-www.tntextbooks.in
+
 
 
 

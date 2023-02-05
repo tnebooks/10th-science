@@ -36,7 +36,7 @@ At the end of this lesson the students will be able to:
 
 10th\_Science Unit-22.indd 315 06-12-2021 18:56:12
 
-www.tntextbooks.in
+
 
 
 
@@ -87,7 +87,7 @@ India has an area of 752.3 lakh hectare classified as reserved forests and 215.1
 
 10th\_Science Unit-22.indd 316 06-12-2021 18:56:12
 
-www.tntextbooks.in
+
 
 
 
@@ -160,7 +160,7 @@ in Tamil Nadu was the first Indian woman to strike an International reputation a
 
 10th\_Science Unit-22.indd 317 06-12-2021 18:56:12
 
-www.tntextbooks.in
+
 
 
 
@@ -224,7 +224,7 @@ Fossil fuels are found inside the earth’s crust and are energy rich substances
 
 10th\_Science Unit-22.indd 318 06-12-2021 18:56:12
 
-www.tntextbooks.in
+
 
 
 
@@ -281,7 +281,7 @@ to provide power. The various devices used for harnessing sun’s energy are cal
 
 10th\_Science Unit-22.indd 319 06-12-2021 18:56:12
 
-www.tntextbooks.in
+
 
 
 
@@ -347,7 +347,7 @@ gases emitted.
 
 10th\_Science Unit-22.indd 320 06-12-2021 18:56:12
 
-www.tntextbooks.in
+
 
 
 
@@ -407,7 +407,7 @@ The electrical energy is derived from water flow, water falling from a height. H
 
 10th\_Science Unit-22.indd 321 06-12-2021 18:56:12
 
-www.tntextbooks.in
+
 
 
 
@@ -462,7 +462,7 @@ kallanai Dam, also known as Grand Anicut, is the fourth oldest dam in the world,
 
 10th\_Science Unit-22.indd 322 06-12-2021 18:56:13
 
-www.tntextbooks.in
+
 
 
 
@@ -527,7 +527,7 @@ Computer components - 66% Telecommunication components - 12 % Electronic compone
 
 10th\_Science Unit-22.indd 323 06-12-2021 18:56:13
 
-www.tntextbooks.in
+
 
 
 
@@ -574,7 +574,7 @@ Solid wastes mainly include municipal wastes, hospital wastes, industrial wastes
 
 10th\_Science Unit-22.indd 324 06-12-2021 18:56:13
 
-www.tntextbooks.in
+
 
 
 
@@ -635,7 +635,7 @@ rain water for future purpose is known as rainwater harvesting.
 
 10th\_Science Unit-22.indd 325 06-12-2021 18:56:13
 
-www.tntextbooks.in
+
 
 
 
@@ -696,7 +696,7 @@ i. Tar ii. Coal iii. Petroleum a) i only b) i and ii c) ii and iii d) i, ii and 
 
 10th\_Science Unit-22.indd 326 06-12-2021 18:56:13
 
-www.tntextbooks.in
+
 
 
 
@@ -767,7 +767,7 @@ by degradation of biomass, yet we need to conserve them. Why?
 
 10th\_Science Unit-22.indd 327 06-12-2021 18:56:13
 
-www.tntextbooks.in
+
 
 
 
@@ -820,7 +820,7 @@ Non Renewable Renewable
 
 10th\_Science Unit-22.indd 328 06-12-2021 18:56:13
 
-www.tntextbooks.in
+
 
 
 

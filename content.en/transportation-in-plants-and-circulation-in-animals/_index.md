@@ -21,7 +21,7 @@ CIRCULATION IN ANIMALS14
 
 10th\_Science Unit-14.indd 200 06-12-2021 18:40:22
 
-www.tntextbooks.in
+
 
 
 
@@ -114,7 +114,7 @@ Root cap
 
 10th\_Science Unit-14.indd 201 06-12-2021 18:40:23
 
-www.tntextbooks.in
+
 
 
 
@@ -182,7 +182,7 @@ Plant
 
 10th\_Science Unit-14.indd 202 06-12-2021 18:40:24
 
-www.tntextbooks.in
+
 
 
 
@@ -265,7 +265,7 @@ The mechanism of translocation of sugars from source to sink is through pressure
 
 10th\_Science Unit-14.indd 203 06-12-2021 18:40:24
 
-www.tntextbooks.in
+
 
 
 
@@ -324,7 +324,7 @@ Dews like water droplets on the leaves of grass seen in the early mornings, when
 
 10th\_Science Unit-14.indd 204 06-12-2021 18:40:25
 
-www.tntextbooks.in
+
 
 
 
@@ -385,7 +385,7 @@ these cells. The agranulocytes are of two types: (i) Lymphocytes (ii) Monocytes
 
 10th\_Science Unit-14.indd 205 06-12-2021 18:40:25
 
-www.tntextbooks.in
+
 
 
 
@@ -465,7 +465,7 @@ Internal valves are present
 
 10th\_Science Unit-14.indd 206 06-12-2021 18:40:25
 
-www.tntextbooks.in
+
 
 
 
@@ -549,7 +549,7 @@ Arteriole Venule
 
 10th\_Science Unit-14.indd 207 06-12-2021 18:40:25
 
-www.tntextbooks.in
+
 
 
 
@@ -611,7 +611,7 @@ However, in some animals the oxygenated and deoxygenated blood are mixed and pas
 
 10th\_Science Unit-14.indd 208 06-12-2021 18:40:25
 
-www.tntextbooks.in
+
 
 
 
@@ -647,7 +647,7 @@ Atrioventricular bundle was discovered by His (1893). So is called Bundle of His
 
 10th\_Science Unit-14.indd 209 06-12-2021 18:40:26
 
-www.tntextbooks.in
+
 
 
 
@@ -713,7 +713,7 @@ produced by the internal organs of human body. The heart sound is heard by placi
 
 10th\_Science Unit-14.indd 210 06-12-2021 18:40:26
 
-www.tntextbooks.in
+
 
 
 
@@ -763,7 +763,7 @@ The concept of blood grouping was developed by **Karl Landsteiner** (1900). He i
 
 10th\_Science Unit-14.indd 211 06-12-2021 18:40:26
 
-www.tntextbooks.in
+
 
 
 
@@ -835,7 +835,7 @@ metabolites and returns proteins to the blood from tissue spaces.
 
 10th\_Science Unit-14.indd 212 06-12-2021 18:40:26
 
-www.tntextbooks.in
+
 
 
 
@@ -899,7 +899,7 @@ a) O group b) AB group c) A or B group d) all blood group
 
 10th\_Science Unit-14.indd 213 06-12-2021 18:40:26
 
-www.tntextbooks.in
+
 
 
 
@@ -976,7 +976,7 @@ the heart muscle.
 
 10th\_Science Unit-14.indd 214 06-12-2021 18:40:26
 
-www.tntextbooks.in
+
 
 
 
@@ -1061,7 +1061,7 @@ water, they swell up. Name and define the phenomenon involved in this change.
 
 10th\_Science Unit-14.indd 215 06-12-2021 18:40:26
 
-www.tntextbooks.in
+
 
 
 
@@ -1128,7 +1128,7 @@ Importance of transpiration
 
 10th\_Science Unit-14.indd 216 06-12-2021 18:40:26
 
-www.tntextbooks.in
+
 
 
 
@@ -1223,7 +1223,7 @@ www.tntextbooks.in
 
 10th\_Science Unit-14.indd 217 06-12-2021 18:40:28
 
-www.tntextbooks.in
+
 
 
 

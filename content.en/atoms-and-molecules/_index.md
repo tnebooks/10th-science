@@ -29,7 +29,7 @@ ATOMS AND MOLECULES 7
 
 10th\_Science\_Unit-7.indd 91 06-12-2021 18:37:14
 
-www.tntextbooks.in
+
 
 
 
@@ -84,7 +84,7 @@ Modern methods of determination of atomic mass by Mass Spectrometry uses C-12 as
 
 10th\_Science\_Unit-7.indd 92 06-12-2021 18:37:15
 
-www.tntextbooks.in
+
 
 
 
@@ -150,7 +150,7 @@ is mentioned that the atomic mass of carbon is 12 amu, it refers to the average 
 
 10th\_Science\_Unit-7.indd 93 06-12-2021 18:37:16
 
-www.tntextbooks.in
+
 
 
 
@@ -240,7 +240,7 @@ Let us consider oxygen. Oxygen gas exists in two allotropic forms: Oxygen (O2) a
 
 10th\_Science\_Unit-7.indd 94 06-12-2021 18:37:16
 
-www.tntextbooks.in
+
 
 
 
@@ -355,7 +355,7 @@ Complete the following table by filling the appropriate values /terms
 
 10th\_Science\_Unit-7.indd 95 06-12-2021 18:37:16
 
-www.tntextbooks.in
+
 
 
 
@@ -443,7 +443,7 @@ So far we discussed about matters in terms of individual atoms and molecules. At
 
 10th\_Science\_Unit-7.indd 96 06-12-2021 18:37:16
 
-www.tntextbooks.in
+
 
 
 
@@ -516,7 +516,7 @@ Let us understand the percentage composition of oxygen and hydrogen by taking
 
 10th\_Science\_Unit-7.indd 97 06-12-2021 18:37:17
 
-www.tntextbooks.in
+
 
 
 
@@ -594,7 +594,7 @@ molecules? ii. Which has the lowest number of molecules?
 
 10th\_Science\_Unit-7.indd 98 06-12-2021 18:37:17
 
-www.tntextbooks.in
+
 
 
 
@@ -684,7 +684,7 @@ Atomic masses of H = 1, O = 16
 
 10th\_Science\_Unit-7.indd 99 06-12-2021 18:37:17
 
-www.tntextbooks.in
+
 
 
 
@@ -787,7 +787,7 @@ Number of moles = Mass Molecular mass
 
 10th\_Science\_Unit-7.indd 100 06-12-2021 18:37:17
 
-www.tntextbooks.in
+
 
 
 
@@ -902,7 +902,7 @@ Number of moles = Number of molecules Avogadro’s number
 
 10th\_Science\_Unit-7.indd 101 06-12-2021 18:37:17
 
-www.tntextbooks.in
+
 
 
 
@@ -967,7 +967,7 @@ molecular mass of H2SO4
 
 10th\_Science\_Unit-7.indd 102 06-12-2021 18:37:17
 
-www.tntextbooks.in
+
 
 
 
@@ -1052,7 +1052,7 @@ i) A and R are correct, R explains the A. ii) A is correct, R is wrong. iii) A i
 
 10th\_Science\_Unit-7.indd 103 06-12-2021 18:37:17
 
-www.tntextbooks.in
+
 
 
 
@@ -1141,7 +1141,7 @@ i. How many moles of Calcium carbonate are involved in this reaction?
 
 10th\_Science\_Unit-7.indd 104 06-12-2021 18:37:17
 
-www.tntextbooks.in
+
 
 
 
@@ -1186,7 +1186,7 @@ Isotones
 
 10th\_Science\_Unit-7.indd 105 06-12-2021 18:37:17
 
-www.tntextbooks.in
+
 
 
 

@@ -22,7 +22,7 @@ Heredity is transmission of characters, from one generation to the next generati
 
 10th\_Science Unit-18.indd 261 06-12-2021 18:45:03
 
-www.tntextbooks.in
+
 
 
 
@@ -90,7 +90,7 @@ Based on these observations it was confirmed by Mendel that ‘factors’ are pa
 
 10th\_Science Unit-18.indd 262 06-12-2021 18:45:04
 
-www.tntextbooks.in
+
 
 
 
@@ -197,7 +197,7 @@ Punnett square is a checker board form devised by a British geneticist R.C.Punne
 
 10th\_Science Unit-18.indd 263 06-12-2021 18:45:05
 
-www.tntextbooks.in
+
 
 
 
@@ -315,7 +315,7 @@ Phenotypic ra�o of F2 genera�on - 9:3:3:1
 
 10th\_Science Unit-18.indd 264 06-12-2021 18:45:05
 
-www.tntextbooks.in
+
 
 
 
@@ -367,7 +367,7 @@ sequences of nucleotides found in chromosomes. As a cell divides every time, the
 
 10th\_Science Unit-18.indd 265 06-12-2021 18:45:05
 
-www.tntextbooks.in
+
 
 
 
@@ -426,7 +426,7 @@ Equal arm
 
 10th\_Science Unit-18.indd 266 06-12-2021 18:45:06
 
-www.tntextbooks.in
+
 
 
 
@@ -482,7 +482,7 @@ hydrogen bonds (A = T)
 
 10th\_Science Unit-18.indd 267 06-12-2021 18:45:06
 
-www.tntextbooks.in
+
 
 
 
@@ -541,7 +541,7 @@ Parent DNA
 
 10th\_Science Unit-18.indd 268 06-12-2021 18:45:06
 
-www.tntextbooks.in
+
 
 
 
@@ -591,7 +591,7 @@ or **number of chromosomes** is called chromosomal mutation. This may result in
 
 10th\_Science Unit-18.indd 269 06-12-2021 18:45:06
 
-www.tntextbooks.in
+
 
 
 
@@ -646,7 +646,7 @@ the chromosomes are classified as telocentric, acrocentric, sub metacentric and 
 
 10th\_Science Unit-18.indd 270 06-12-2021 18:45:07
 
-www.tntextbooks.in
+
 
 
 
@@ -719,7 +719,7 @@ elongated knob-like appendages known as telomere.
 
 10th\_Science Unit-18.indd 271 06-12-2021 18:45:07
 
-www.tntextbooks.in
+
 
 
 
@@ -784,7 +784,7 @@ generation?
 
 10th\_Science Unit-18.indd 272 06-12-2021 18:45:07
 
-www.tntextbooks.in
+
 
 
 
@@ -845,7 +845,7 @@ https://www.genome.gov https://www. genetics.edu.au https://www.bioexplorer.net/
 
 10th\_Science Unit-18.indd 273 06-12-2021 18:45:07
 
-www.tntextbooks.in
+
 
 
 

@@ -24,7 +24,7 @@ Many theories have been postulated to explain the origin of life. The views on t
 
 10th\_Science Unit-19.indd 274 06-12-2021 18:47:12
 
-www.tntextbooks.in
+
 
 
 
@@ -129,7 +129,7 @@ Insect wing
 
 10th\_Science Unit-19.indd 275 06-12-2021 18:47:13
 
-www.tntextbooks.in
+
 
 
 
@@ -183,7 +183,7 @@ Life had evolved along with evolution of earth towards the end of 18th century. 
 
 10th\_Science Unit-19.indd 276 06-12-2021 18:47:14
 
-www.tntextbooks.in
+
 
 
 
@@ -232,7 +232,7 @@ leaves from trees. The continuous stretching of their neck and forelimbs resulte
 
 10th\_Science Unit-19.indd 277 06-12-2021 18:47:14
 
-www.tntextbooks.in
+
 
 
 
@@ -288,7 +288,7 @@ c. **Environmental struggle:** Natural conditions like extreme heat or cold, dro
 
 10th\_Science Unit-19.indd 278 06-12-2021 18:47:14
 
-www.tntextbooks.in
+
 
 
 
@@ -346,7 +346,7 @@ iv. Fossil plants can be used in the field of descriptive and comparative anatom
 
 10th\_Science Unit-19.indd 279 06-12-2021 18:47:14
 
-www.tntextbooks.in
+
 
 
 
@@ -411,7 +411,7 @@ This method was discovered by **W.F. Libby** (1956). Carbon consumption of anima
 
 10th\_Science Unit-19.indd 280 06-12-2021 18:47:14
 
-www.tntextbooks.in
+
 
 
 
@@ -462,7 +462,7 @@ The organisms which live in extreme environmental conditions on earth are called
 
 10th\_Science Unit-19.indd 281 06-12-2021 18:47:14
 
-www.tntextbooks.in
+
 
 
 
@@ -515,7 +515,7 @@ a. Charles Darwin b. Ernst Haeckel c. Jean Baptiste Lamarck d. Gregor Mendel
 
 10th\_Science Unit-19.indd 282 06-12-2021 18:47:14
 
-www.tntextbooks.in
+
 
 
 
@@ -590,7 +590,7 @@ organs from analogous organs? 3. How does fossilization occur in plants?
 
 10th\_Science Unit-19.indd 283 06-12-2021 18:47:14
 
-www.tntextbooks.in
+
 
 
 
@@ -659,7 +659,7 @@ Origin of life
 
 10th\_Science Unit-19.indd 284 06-12-2021 18:47:14
 
-www.tntextbooks.in
+
 
 
 
@@ -731,7 +731,7 @@ Replacement
 
 10th\_Science Unit-19.indd 285 06-12-2021 18:47:16
 
-www.tntextbooks.in
+
 
 
 

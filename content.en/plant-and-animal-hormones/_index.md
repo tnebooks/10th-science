@@ -42,7 +42,7 @@ PLANT AND ANIMAL HORMONES16
 
 10th\_Science Unit-16.indd 229 06-12-2021 18:42:15
 
-www.tntextbooks.in
+
 
 
 
@@ -88,7 +88,7 @@ From his experiments Went concluded that a chemical diffusing from the tip of co
 
 10th\_Science Unit-16.indd 230 06-12-2021 18:42:15
 
-www.tntextbooks.in
+
 
 
 
@@ -151,7 +151,7 @@ induces sudden shoot elongation followed by flowering. This is called bolting.
 
 10th\_Science Unit-16.indd 231 06-12-2021 18:42:16
 
-www.tntextbooks.in
+
 
 
 
@@ -228,7 +228,7 @@ As the banana continues to ripen in the first bag, it produces ethylene gas. The
 
 10th\_Science Unit-16.indd 232 06-12-2021 18:42:16
 
-www.tntextbooks.in
+
 
 
 
@@ -290,7 +290,7 @@ Pituitary Gland
 
 10th\_Science Unit-16.indd 233 06-12-2021 18:42:16
 
-www.tntextbooks.in
+
 
 
 
@@ -348,7 +348,7 @@ Exposure to light at night, especially short-wavelength light, can decrease mela
 
 10th\_Science Unit-16.indd 234 06-12-2021 18:42:18
 
-www.tntextbooks.in
+
 
 
 
@@ -422,7 +422,7 @@ Parathyroid gland
 
 10th\_Science Unit-16.indd 235 06-12-2021 18:42:18
 
-www.tntextbooks.in
+
 
 
 
@@ -509,7 +509,7 @@ The outer part is the adrenal cortex and the inner part is the adrenal medulla. 
 
 10th\_Science Unit-16.indd 236 06-12-2021 18:42:19
 
-www.tntextbooks.in
+
 
 
 
@@ -581,7 +581,7 @@ The sex glands are of two types the testes and the ovaries. The testes are prese
 
 10th\_Science Unit-16.indd 237 06-12-2021 18:42:19
 
-www.tntextbooks.in
+
 
 
 
@@ -669,7 +669,7 @@ concerned with maturation and ripening of fruits.
 
 10th\_Science Unit-16.indd 238 06-12-2021 18:42:19
 
-www.tntextbooks.in
+
 
 
 
@@ -738,7 +738,7 @@ a) Pineal gland b) Pituitary gland c) Thyroid gland d) Adrenal gland
 
 10th\_Science Unit-16.indd 239 06-12-2021 18:42:19
 
-www.tntextbooks.in
+
 
 
 
@@ -829,7 +829,7 @@ kidneys.
 
 10th\_Science Unit-16.indd 240 06-12-2021 18:42:19
 
-www.tntextbooks.in
+
 
 
 
@@ -915,7 +915,7 @@ eyeball and an increased body temperature. Name the endocrine gland involved and
 
 10th\_Science Unit-16.indd 241 06-12-2021 18:42:19
 
-www.tntextbooks.in
+
 
 
 
@@ -990,7 +990,7 @@ www.tntextbooks.in
 
 10th\_Science Unit-16.indd 242 06-12-2021 18:42:20
 
-www.tntextbooks.in
+
 
 
 

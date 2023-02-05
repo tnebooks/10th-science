@@ -43,7 +43,7 @@ LAWS OF MOTION1
 
 10th\_Science\_Unit-1.indd 1 06-12-2021 17:28:44
 
-www.tntextbooks.in
+
 
 
 
@@ -97,7 +97,7 @@ b) Inertia of motion: The resistance of a body to
 
 10th\_Science\_Unit-1.indd 2 06-12-2021 17:28:44
 
-www.tntextbooks.in
+
 
 
 
@@ -167,7 +167,7 @@ a force. Unit of momentum in SI system is kg m s–1 and in C.G.S system its uni
 
 10th\_Science\_Unit-1.indd 3 06-12-2021 17:28:45
 
-www.tntextbooks.in
+
 
 
 
@@ -234,7 +234,7 @@ Fnet = 0 since (F1 = F2)
 
 10th\_Science\_Unit-1.indd 4 06-12-2021 17:28:47
 
-www.tntextbooks.in
+
 
 
 
@@ -320,7 +320,7 @@ When a number of like or unlike parallel forces act on a rigid body and the body
 
 10th\_Science\_Unit-1.indd 5 06-12-2021 17:28:47
 
-www.tntextbooks.in
+
 
 
 
@@ -382,7 +382,7 @@ Force is required to produce the acceleration of a body. In a uniform circular m
 
 10th\_Science\_Unit-1.indd 6 06-12-2021 17:28:47
 
-www.tntextbooks.in
+
 
 
 
@@ -444,7 +444,7 @@ There is no change in the linear momentum of a system of bodies as long as no ne
 
 10th\_Science\_Unit-1.indd 7 06-12-2021 17:28:48
 
-www.tntextbooks.in
+
 
 
 
@@ -510,7 +510,7 @@ Propulsion of rockets is based on the law of conservation of linear momentum as 
 
 10th\_Science\_Unit-1.indd 8 06-12-2021 17:28:48
 
-www.tntextbooks.in
+
 
 
 
@@ -588,7 +588,7 @@ Rearranging the equation (1.14), the mass of the Earth is obtained as follows: M
 
 10th\_Science\_Unit-1.indd 9 06-12-2021 17:28:49
 
-www.tntextbooks.in
+
 
 
 
@@ -656,7 +656,7 @@ A person in a moving lift
 
 10th\_Science\_Unit-1.indd 10 06-12-2021 17:28:49
 
-www.tntextbooks.in
+
 
 
 
@@ -710,7 +710,7 @@ Astronauts are not floating but falling freely around the earth due to their hug
 
 10th\_Science\_Unit-1.indd 11 06-12-2021 17:28:49
 
-www.tntextbooks.in
+
 
 
 
@@ -807,7 +807,7 @@ From the centre of the Earth, the object is placed at twice the radius of the ea
 
 10th\_Science\_Unit-1.indd 12 06-12-2021 17:28:49
 
-www.tntextbooks.in
+
 
 
 
@@ -870,7 +870,7 @@ brake is applied in a moving vehicle. This can be explained by \_\_\_\_\_\_\_\_\
 
 10th\_Science\_Unit-1.indd 13 06-12-2021 17:28:49
 
-www.tntextbooks.in
+
 
 
 
@@ -953,7 +953,7 @@ gravitation.
 
 10th\_Science\_Unit-1.indd 14 06-12-2021 17:28:49
 
-www.tntextbooks.in
+
 
 
 
@@ -1024,7 +1024,7 @@ Link: http://amrita.olabs.edu.in/?sub=1&brch=1&sim=44&cnt=4
 
 10th\_Science\_Unit-1.indd 15 06-12-2021 17:28:50
 
-www.tntextbooks.in
+
 
 
 

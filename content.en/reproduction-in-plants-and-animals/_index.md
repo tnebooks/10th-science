@@ -42,7 +42,7 @@ PLANTS AND ANIMALS17
 
 10th\_Science Unit-17.indd 243 06-12-2021 18:43:11
 
-www.tntextbooks.in
+
 
 
 
@@ -83,7 +83,7 @@ atleast one cell, may give rise to a new filament of the algae by cell division 
 
 10th\_Science Unit-17.indd 244 06-12-2021 18:43:11
 
-www.tntextbooks.in
+
 
 
 
@@ -141,7 +141,7 @@ The two outermost whorls calyx and corolla are **non–essential** or **accessor
 
 10th\_Science Unit-17.indd 245 06-12-2021 18:43:11
 
-www.tntextbooks.in
+
 
 
 
@@ -245,7 +245,7 @@ Female gamete
 
 10th\_Science Unit-17.indd 246 06-12-2021 18:43:12
 
-www.tntextbooks.in
+
 
 
 
@@ -323,7 +323,7 @@ WaterPollen grain
 
 10th\_Science Unit-17.indd 247 06-12-2021 18:43:12
 
-www.tntextbooks.in
+
 
 
 
@@ -390,7 +390,7 @@ Organs of the reproductive system are divided into primary and secondary (access
 
 10th\_Science Unit-17.indd 248 06-12-2021 18:43:13
 
-www.tntextbooks.in
+
 
 
 
@@ -453,7 +453,7 @@ The number of primordial follicles in new born female child ranges over 7 millio
 
 10th\_Science Unit-17.indd 249 06-12-2021 18:43:13
 
-www.tntextbooks.in
+
 
 
 
@@ -511,7 +511,7 @@ Midpiece
 
 10th\_Science Unit-17.indd 250 06-12-2021 18:43:14
 
-www.tntextbooks.in
+
 
 
 
@@ -577,7 +577,7 @@ LH and FSH decrease, Corpus luteum produces progesterone and its level increases
 
 10th\_Science Unit-17.indd 251 06-12-2021 18:43:14
 
-www.tntextbooks.in
+
 
 
 
@@ -639,7 +639,7 @@ If fertilization does not occur, corpus luteum degenerates, the egg disintegrate
 
 10th\_Science Unit-17.indd 252 06-12-2021 18:43:16
 
-www.tntextbooks.in
+
 
 
 
@@ -697,7 +697,7 @@ motivate couples to accept contraceptive methods and to have small family norms,
 
 10th\_Science Unit-17.indd 253 06-12-2021 18:43:17
 
-www.tntextbooks.in
+
 
 
 
@@ -748,7 +748,7 @@ techniques are terminal methods to prevent any pregnancy. This procedure in male
 
 10th\_Science Unit-17.indd 254 06-12-2021 18:43:17
 
-www.tntextbooks.in
+
 
 
 
@@ -814,7 +814,7 @@ to avoid infections due to microbes from vagina and sweat from genitals.
 
 10th\_Science Unit-17.indd 255 06-12-2021 18:43:17
 
-www.tntextbooks.in
+
 
 
 
@@ -877,7 +877,7 @@ measures. The devices used for contraception are called contraceptive devices.
 
 10th\_Science Unit-17.indd 256 06-12-2021 18:43:17
 
-www.tntextbooks.in
+
 
 
 
@@ -948,7 +948,7 @@ reproduction.
 
 10th\_Science Unit-17.indd 257 06-12-2021 18:43:17
 
-www.tntextbooks.in
+
 
 
 
@@ -1048,7 +1048,7 @@ to produce pollen tube that carries two gametes. What is the purpose of carrying
 
 10th\_Science Unit-17.indd 258 06-12-2021 18:43:17
 
-www.tntextbooks.in
+
 
 
 
@@ -1119,7 +1119,7 @@ towards her parents was correct? If so, Why?
 
 10th\_Science Unit-17.indd 259 06-12-2021 18:43:17
 
-www.tntextbooks.in
+
 
 
 
@@ -1213,7 +1213,7 @@ www.tntextbooks.in
 
 10th\_Science Unit-17.indd 260 06-12-2021 18:43:19
 
-www.tntextbooks.in
+
 
 
 

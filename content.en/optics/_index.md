@@ -44,7 +44,7 @@ At the end of this lesson, students will be able to: ‹ state the laws of refra
 
 10th\_Science\_Unit-2.indd 16 06-12-2021 17:29:23
 
-www.tntextbooks.in
+
 
 
 
@@ -103,7 +103,7 @@ Angle of refraction is the smallest for red and the highest for violet. From Sne
 
 10th\_Science\_Unit-2.indd 17 06-12-2021 17:29:23
 
-www.tntextbooks.in
+
 
 
 
@@ -160,7 +160,7 @@ Mie scattering is responsible for the white appearance of the clouds. When white
 
 10th\_Science\_Unit-2.indd 18 06-12-2021 17:29:24
 
-www.tntextbooks.in
+
 
 
 
@@ -215,7 +215,7 @@ All these lenses are shown in Figure 2.2 given below:
 
 10th\_Science\_Unit-2.indd 19 06-12-2021 17:29:24
 
-www.tntextbooks.in
+
 
 
 
@@ -282,7 +282,7 @@ When an object is placed at the center of curvature, a real and inverted image i
 
 10th\_Science\_Unit-2.indd 20 06-12-2021 17:29:24
 
-www.tntextbooks.in
+
 
 
 
@@ -409,7 +409,7 @@ When an object is placed at infinity, a virtual image is formed at the focus. Th
 
 10th\_Science\_Unit-2.indd 21 06-12-2021 17:29:25
 
-www.tntextbooks.in
+
 
 
 
@@ -530,7 +530,7 @@ Like spherical mirrors, we have magnification for spherical lenses. Spherical le
 
 10th\_Science\_Unit-2.indd 22 06-12-2021 17:29:25
 
-www.tntextbooks.in
+
 
 
 
@@ -618,7 +618,7 @@ A concave lens is thinner in the middle than at edges.
 
 10th\_Science\_Unit-2.indd 23 06-12-2021 17:29:25
 
-www.tntextbooks.in
+
 
 
 
@@ -688,7 +688,7 @@ The minimum distance required to see the objects distinctly without strain is ca
 
 10th\_Science\_Unit-2.indd 24 06-12-2021 17:29:25
 
-www.tntextbooks.in
+
 
 
 
@@ -740,7 +740,7 @@ Because of this, an aged person cannot see the nearby objects clearly. So, it is
 
 10th\_Science\_Unit-2.indd 25 06-12-2021 17:29:26
 
-www.tntextbooks.in
+
 
 
 
@@ -804,7 +804,7 @@ _B_
 
 10th\_Science\_Unit-2.indd 26 06-12-2021 17:29:26
 
-www.tntextbooks.in
+
 
 
 
@@ -872,7 +872,7 @@ The image in an astronomical telescope is inverted. So, it is not suitable for v
 
 10th\_Science\_Unit-2.indd 27 06-12-2021 17:29:26
 
-www.tntextbooks.in
+
 
 
 
@@ -997,7 +997,7 @@ _f_ = _d_ × _D_ _d_ − D
 
 10th\_Science\_Unit-2.indd 28 06-12-2021 17:29:27
 
-www.tntextbooks.in
+
 
 
 
@@ -1070,7 +1070,7 @@ image.
 
 10th\_Science\_Unit-2.indd 29 06-12-2021 17:29:27
 
-www.tntextbooks.in
+
 
 
 
@@ -1151,7 +1151,7 @@ formed by a convex lens when the object is placed between F and 2F.
 
 10th\_Science\_Unit-2.indd 30 06-12-2021 17:29:27
 
-www.tntextbooks.in
+
 
 
 
@@ -1212,7 +1212,7 @@ Dispersion Scattering of light Optical Instruments
 
 10th\_Science\_Unit-2.indd 31 06-12-2021 17:29:27
 
-www.tntextbooks.in
+
 
 
 

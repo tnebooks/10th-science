@@ -28,7 +28,7 @@ of aqueous solutions. ‹ recognize the importance of pH in everyday life. ‹ e
 
 10th\_Science\_Unit-10.indd 137 12/9/2021 1:03:08 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -85,7 +85,7 @@ The phases or the physical state of the substances in a chemical reaction are de
 
 10th\_Science\_Unit-10.indd 138 12/9/2021 1:03:08 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -149,7 +149,7 @@ Most of the combination reactions are exothermic in nature. Because, they involv
 
 10th\_Science\_Unit-10.indd 139 12/9/2021 1:03:08 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -214,7 +214,7 @@ Light
 
 10th\_Science\_Unit-10.indd 140 12/9/2021 1:03:09 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -265,7 +265,7 @@ Which of the metals displaces hydrogen gas from hydrochloric acid? Silver or Zin
 
 10th\_Science\_Unit-10.indd 141 12/9/2021 1:03:09 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -336,7 +336,7 @@ Single compound is the reactant
 
 10th\_Science\_Unit-10.indd 142 12/9/2021 1:03:09 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -389,7 +389,7 @@ You know that innumerable changes occur every day around us. Are all they perman
 
 10th\_Science\_Unit-10.indd 143 12/9/2021 1:03:09 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -434,7 +434,7 @@ In this reaction, solid coal burns with oxygen and gets converted into carbon di
 
 10th\_Science\_Unit-10.indd 144 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -521,7 +521,7 @@ Can the rate of a reaction be changed? The rate of a reaction can be changed. Fo
 
 10th\_Science\_Unit-10.indd 145 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -578,7 +578,7 @@ In a reversible reaction, both forward and backward reactions take place simulta
 
 10th\_Science\_Unit-10.indd 146 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -623,7 +623,7 @@ in equilibrium with each other. When you open the bottle, the gaseous CO2 can es
 
 10th\_Science\_Unit-10.indd 147 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -692,7 +692,7 @@ Tomato juice 4.2 Coffee 5.6
 
 10th\_Science\_Unit-10.indd 148 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -757,7 +757,7 @@ of 7.0 to 7.8. Living organisms can survive only in a narrow range of pH change.
 
 10th\_Science\_Unit-10.indd 149 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -826,7 +826,7 @@ One mole of NaOH would give one mole of OH– ions. Therefore,
 
 10th\_Science\_Unit-10.indd 150 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -883,7 +883,7 @@ pH = –log1010–8 = –(–8 × log1010) = –(–8 × 1) = 8 **Example 5:** I
 
 10th\_Science\_Unit-10.indd 151 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -944,7 +944,7 @@ acid, \_\_\_\_\_\_\_\_ gas is evolved.
 
 10th\_Science\_Unit-10.indd 152 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1019,7 +1019,7 @@ heating into ‘B’ and a gas ‘C’. On passing the gas ‘C’ through water
 
 10th\_Science\_Unit-10.indd 153 12/9/2021 1:03:10 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1064,7 +1064,7 @@ http://aravindguptatoys.com/filims.html
 
 10th\_Science\_Unit-10.indd 154 12/9/2021 1:03:11 PM
 
-www.tntextbooks.in
+
 
 
 

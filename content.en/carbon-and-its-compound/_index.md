@@ -32,7 +32,7 @@ CARBON AND ITS COMPOUNDS
 
 10th\_Science\_Unit-11.indd 155 06-12-2021 18:38:50
 
-www.tntextbooks.in
+
 
 
 
@@ -144,7 +144,7 @@ Figure 11.1 depicts the classification of organic compounds based on the pattern
 
 10th\_Science\_Unit-11.indd 156 06-12-2021 18:38:51
 
-www.tntextbooks.in
+
 
 
 
@@ -243,7 +243,7 @@ Aromatic Compounds E.g Benzene
 
 10th\_Science\_Unit-11.indd 157 06-12-2021 18:38:51
 
-www.tntextbooks.in
+
 
 
 
@@ -323,7 +323,7 @@ A series of compounds containing the same functional group is called a **class o
 
 10th\_Science\_Unit-11.indd 158 06-12-2021 18:38:51
 
-www.tntextbooks.in
+
 
 
 
@@ -404,7 +404,7 @@ Dimethyl ether, CH3OCH3
 
 10th\_Science\_Unit-11.indd 159 06-12-2021 18:38:51
 
-www.tntextbooks.in
+
 
 
 
@@ -476,7 +476,7 @@ is divided into two parts such as **(a) Primary suffix and (b) Secondary suffix.
 
 10th\_Science\_Unit-11.indd 160 06-12-2021 18:38:51
 
-www.tntextbooks.in
+
 
 
 
@@ -582,7 +582,7 @@ CH2− −
 
 10th\_Science\_Unit-11.indd 161 06-12-2021 18:38:52
 
-www.tntextbooks.in
+
 
 
 
@@ -690,7 +690,7 @@ Obtain the IUPAC name of the following compounds systematically:
 
 10th\_Science\_Unit-11.indd 162 06-12-2021 18:38:53
 
-www.tntextbooks.in
+
 
 
 
@@ -821,7 +821,7 @@ Pentanoic acid (CH3CH2CH2CH2 COOH)
 
 10th\_Science\_Unit-11.indd 163 06-12-2021 18:38:53
 
-www.tntextbooks.in
+
 
 
 
@@ -915,7 +915,7 @@ K2Cr2O7 / H +
 
 10th\_Science\_Unit-11.indd 164 06-12-2021 18:38:53
 
-www.tntextbooks.in
+
 
 
 
@@ -997,7 +997,7 @@ Acetic acid, in lower concentration, (vinegar) is used as a food additive, a fla
 
 10th\_Science\_Unit-11.indd 165 06-12-2021 18:38:54
 
-www.tntextbooks.in
+
 
 
 
@@ -1067,7 +1067,7 @@ This is the oldest method. But, it is still widely used in the small scale prepa
 
 10th\_Science\_Unit-11.indd 166 06-12-2021 18:38:54
 
-www.tntextbooks.in
+
 
 
 
@@ -1122,7 +1122,7 @@ A soap molecule contains two chemically distinct parts that interact differently
 
 10th\_Science\_Unit-11.indd 167 06-12-2021 18:38:54
 
-www.tntextbooks.in
+
 
 
 
@@ -1187,7 +1187,7 @@ carbon chain are not fully biodegradable by micro-organisms present in water. So
 
 10th\_Science\_Unit-11.indd 168 06-12-2021 18:38:55
 
-www.tntextbooks.in
+
 
 
 
@@ -1243,7 +1243,7 @@ Soaps are biodegradable. Most of the detergents are non-biodegradable.
 
 10th\_Science\_Unit-11.indd 169 06-12-2021 18:38:55
 
-www.tntextbooks.in
+
 
 
 
@@ -1333,7 +1333,7 @@ Carbocyclic **\-** Ethene
 
 10th\_Science\_Unit-11.indd 170 06-12-2021 18:38:55
 
-www.tntextbooks.in
+
 
 
 
@@ -1432,7 +1432,7 @@ https://www.tutorvista.com/ https://www.topperlearning.com/ http://www.chem4kids
 
 10th\_Science\_Unit-11.indd 171 06-12-2021 18:38:56
 
-www.tntextbooks.in
+
 
 
 
@@ -1525,7 +1525,7 @@ URL: https://play.google.com/store/apps/details?id=com.budgietainment.oc or Scan
 
 10th\_Science\_Unit-11.indd 172 06-12-2021 18:38:56
 
-www.tntextbooks.in
+
 
 
 

@@ -37,7 +37,7 @@ BIOTECHNOLOGY 20
 
 10th\_Science Unit-20.indd 286 06-12-2021 18:55:11
 
-www.tntextbooks.in
+
 
 
 
@@ -88,7 +88,7 @@ Cowpea Pusa Komal Bacterial blight
 
 10th\_Science Unit-20.indd 287 06-12-2021 18:55:11
 
-www.tntextbooks.in
+
 
 
 
@@ -160,7 +160,7 @@ It is a process of introducing high yielding varieties of plants from one place 
 
 10th\_Science Unit-20.indd 288 06-12-2021 18:55:11
 
-www.tntextbooks.in
+
 
 
 
@@ -224,7 +224,7 @@ _d. Raphano brassica_ is an allotetraploid by colchicine treatment.
 
 10th\_Science Unit-20.indd 289 06-12-2021 18:55:11
 
-www.tntextbooks.in
+
 
 
 
@@ -280,7 +280,7 @@ A **breed** is a group of animals of common origin within a species that has cer
 
 10th\_Science Unit-20.indd 290 06-12-2021 18:55:11
 
-www.tntextbooks.in
+
 
 
 
@@ -346,7 +346,7 @@ animals
 
 10th\_Science Unit-20.indd 291 06-12-2021 18:55:12
 
-www.tntextbooks.in
+
 
 
 
@@ -400,7 +400,7 @@ Using this strategy several enzymes, hormones and vaccines can be produced
 
 10th\_Science Unit-20.indd 292 06-12-2021 18:55:12
 
-www.tntextbooks.in
+
 
 
 
@@ -453,7 +453,7 @@ In contrast to differentiated cells, stem cells are undifferentiated or unspecia
 
 10th\_Science Unit-20.indd 293 06-12-2021 18:55:12
 
-www.tntextbooks.in
+
 
 
 
@@ -497,7 +497,7 @@ Sometimes cells, tissues and organs in the body may be permanently damaged or lo
 
 10th\_Science Unit-20.indd 294 06-12-2021 18:55:12
 
-www.tntextbooks.in
+
 
 
 
@@ -559,7 +559,7 @@ Salmon or Rainbow trout or Tilapia growth hormone gene
 
 10th\_Science Unit-20.indd 295 06-12-2021 18:55:12
 
-www.tntextbooks.in
+
 
 
 
@@ -626,7 +626,7 @@ unspecialised mass of cells and can be used for the treatment known as stem cell
 
 10th\_Science Unit-20.indd 296 06-12-2021 18:55:12
 
-www.tntextbooks.in
+
 
 
 
@@ -697,7 +697,7 @@ plants enriched with desirable nutrients is called \_\_\_\_\_\_\_\_\_\_.
 
 10th\_Science Unit-20.indd 297 06-12-2021 18:55:12
 
-www.tntextbooks.in
+
 
 
 
@@ -772,7 +772,7 @@ https://www.embibe.com/study/transgenic- cow-rosie-concept https://en.wikipedia.
 
 10th\_Science Unit-20.indd 298 06-12-2021 18:55:12
 
-www.tntextbooks.in
+
 
 
 
@@ -849,7 +849,7 @@ Mass selection
 
 10th\_Science Unit-20.indd 299 06-12-2021 18:55:12
 
-www.tntextbooks.in
+
 
 
 

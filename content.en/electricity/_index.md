@@ -32,7 +32,7 @@ At the end of this lesson, students will be able to: ‹ Make an electric circui
 
 10th\_Science\_Unit-4.indd 42 06-12-2021 18:29:11
 
-www.tntextbooks.in
+
 
 
 
@@ -99,7 +99,7 @@ Used to provide protection to the electrical components. It also serves as a ref
 
 10th\_Science\_Unit-4.indd 43 06-12-2021 18:29:11
 
-www.tntextbooks.in
+
 
 
 
@@ -167,7 +167,7 @@ The potential difference between two points is one volt, if one joule of work is
 
 10th\_Science\_Unit-4.indd 44 06-12-2021 18:29:11
 
-www.tntextbooks.in
+
 
 
 
@@ -220,7 +220,7 @@ The SI unit of resistance is ohm and it is represented by the symbol Ω.
 
 10th\_Science\_Unit-4.indd 45 06-12-2021 18:29:11
 
-www.tntextbooks.in
+
 
 
 
@@ -290,7 +290,7 @@ Conductivity is more for conductors than for insulators. But, the resistivity is
 
 10th\_Science\_Unit-4.indd 46 06-12-2021 18:29:11
 
-www.tntextbooks.in
+
 
 
 
@@ -360,7 +360,7 @@ the ends of each resistor is given by: V = V1 + V2 + V3
 
 10th\_Science\_Unit-4.indd 47 06-12-2021 18:29:11
 
-www.tntextbooks.in
+
 
 
 
@@ -429,7 +429,7 @@ Combining equations (4.16) and (4.17), you have
 
 10th\_Science\_Unit-4.indd 48 06-12-2021 18:29:12
 
-www.tntextbooks.in
+
 
 
 
@@ -480,7 +480,7 @@ The difference between series and parallel circuits may be summed as follows in 
 
 10th\_Science\_Unit-4.indd 49 06-12-2021 18:29:12
 
-www.tntextbooks.in
+
 
 
 
@@ -543,7 +543,7 @@ If one appliance is disconnected, others will work independently.
 
 10th\_Science\_Unit-4.indd 50 06-12-2021 18:29:12
 
-www.tntextbooks.in
+
 
 
 
@@ -612,7 +612,7 @@ The electricity produced in power stations is distributed to all the domestic an
 
 10th\_Science\_Unit-4.indd 51 06-12-2021 18:29:12
 
-www.tntextbooks.in
+
 
 
 
@@ -643,7 +643,7 @@ The fuse wire or MCB will disconnect the circuit in the event of an overloading 
 
 10th\_Science\_Unit-4.indd 52 06-12-2021 18:29:12
 
-www.tntextbooks.in
+
 
 
 
@@ -690,7 +690,7 @@ LED Television is one of the most important applications of Light Emitting Diode
 
 10th\_Science\_Unit-4.indd 53 06-12-2021 18:29:13
 
-www.tntextbooks.in
+
 
 
 
@@ -757,7 +757,7 @@ Resistance, R = = = 400 Ω
 
 10th\_Science\_Unit-4.indd 54 06-12-2021 18:29:13
 
-www.tntextbooks.in
+
 
 
 
@@ -822,7 +822,7 @@ a) The switch produces electricity. b) Closing the switch completes the circuit.
 
 10th\_Science\_Unit-4.indd 55 06-12-2021 18:29:13
 
-www.tntextbooks.in
+
 
 
 
@@ -905,7 +905,7 @@ difference.
 
 10th\_Science\_Unit-4.indd 56 06-12-2021 18:29:13
 
-www.tntextbooks.in
+
 
 
 
@@ -974,7 +974,7 @@ https://www.physicsclassroom.com/calcpad/ circuits
 
 10th\_Science\_Unit-4.indd 57 06-12-2021 18:29:13
 
-www.tntextbooks.in
+
 
 
 
@@ -1013,7 +1013,7 @@ Note:
 
 10th\_Science\_Unit-4.indd 58 06-12-2021 18:29:14
 
-www.tntextbooks.in
+
 
 
 

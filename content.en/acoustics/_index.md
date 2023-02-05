@@ -25,12 +25,6 @@ By touching a ringing bell or a musical instrument while it is producing music, 
 
 10th\_Science\_Unit-5.indd 59 06-12-2021 18:30:26
 
-www.tntextbooks.in
-
-
-
-
-  
 
 60**10th Standard Science**
 
@@ -84,7 +78,7 @@ When you talk about the velocity associated with any wave, there are two velocit
 
 10th\_Science\_Unit-5.indd 60 06-12-2021 18:30:27
 
-www.tntextbooks.in
+
 
 
 
@@ -184,7 +178,7 @@ sound in air be double the velocity of sound in air at 0o C?
 
 10th\_Science\_Unit-5.indd 61 06-12-2021 18:30:27
 
-www.tntextbooks.in
+
 
 
 
@@ -255,7 +249,7 @@ A perpendicular line drawn at the point of incidence is called the normal. The a
 
 10th\_Science\_Unit-5.indd 62 06-12-2021 18:30:27
 
-www.tntextbooks.in
+
 
 
 
@@ -296,7 +290,7 @@ When sound waves are reflected from a plane surface, the reflected waves travel 
 
 10th\_Science\_Unit-5.indd 63 06-12-2021 18:30:27
 
-www.tntextbooks.in
+
 
 
 
@@ -373,7 +367,7 @@ tape, a sound receiver, and a stop watch.
 
 10th\_Science\_Unit-5.indd 64 06-12-2021 18:30:27
 
-www.tntextbooks.in
+
 
 
 
@@ -433,7 +427,7 @@ The whistle of a fast moving train appears to increase in pitch as it approaches
 
 10th\_Science\_Unit-5.indd 65 06-12-2021 18:30:27
 
-www.tntextbooks.in
+
 
 
 
@@ -528,7 +522,7 @@ Here, v is the velocity of sound waves in the given medium. Let us consider diff
 
 10th\_Science\_Unit-5.indd 66 06-12-2021 18:30:27
 
-www.tntextbooks.in
+
 
 
 
@@ -656,7 +650,7 @@ _\=_ × 90 = 100 Hz 10
 
 10th\_Science\_Unit-5.indd 67 06-12-2021 18:30:27
 
-www.tntextbooks.in
+
 
 
 
@@ -755,7 +749,7 @@ _n_ 2
 
 10th\_Science\_Unit-5.indd 68 06-12-2021 18:30:28
 
-www.tntextbooks.in
+
 
 
 
@@ -820,7 +814,7 @@ An echo is the sound reproduced due to the reflection of the original sound wave
 
 10th\_Science\_Unit-5.indd 69 06-12-2021 18:30:28
 
-www.tntextbooks.in
+
 
 
 
@@ -893,7 +887,7 @@ region - (d) Ultrasonography
 
 10th\_Science\_Unit-5.indd 70 06-12-2021 18:30:28
 
-www.tntextbooks.in
+
 
 
 
@@ -964,7 +958,7 @@ day than on a dry day?
 
 10th\_Science\_Unit-5.indd 71 06-12-2021 18:30:28
 
-www.tntextbooks.in
+
 
 
 
@@ -1021,7 +1015,7 @@ object, an echo is produced. Let the distance between the reflecting surface and
 
 10th\_Science\_Unit-5.indd 72 06-12-2021 18:30:28
 
-www.tntextbooks.in
+
 
 
 
@@ -1098,7 +1092,7 @@ CONCEPT MAP**Concept Map**
 
 10th\_Science\_Unit-5.indd 73 06-12-2021 18:30:28
 
-www.tntextbooks.in
+
 
 
 

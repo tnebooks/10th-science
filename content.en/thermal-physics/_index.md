@@ -31,7 +31,7 @@ At the end of this lesson, students will be able to ‹ Understand the concept o
 
 10th\_Science\_Unit-3.indd 32 06-12-2021 18:27:54
 
-www.tntextbooks.in
+
 
 
 
@@ -81,7 +81,7 @@ During the process of transferring heat energy, the body at lower temperature is
 
 10th\_Science\_Unit-3.indd 33 06-12-2021 18:27:55
 
-www.tntextbooks.in
+
 
 
 
@@ -145,7 +145,7 @@ Lo - Original length
 
 10th\_Science\_Unit-3.indd 34 06-12-2021 18:27:55
 
-www.tntextbooks.in
+
 
 
 
@@ -218,7 +218,7 @@ gain energy and are forced further apart. The extent of expansion varies from su
 
 10th\_Science\_Unit-3.indd 35 06-12-2021 18:27:55
 
-www.tntextbooks.in
+
 
 
 
@@ -279,7 +279,7 @@ P α 1/V
 
 10th\_Science\_Unit-3.indd 36 06-12-2021 18:27:55
 
-www.tntextbooks.in
+
 
 
 
@@ -346,7 +346,7 @@ _PV = constant (3.1)_
 
 10th\_Science\_Unit-3.indd 37 06-12-2021 18:27:55
 
-www.tntextbooks.in
+
 
 
 
@@ -421,7 +421,7 @@ A container whose capacity is 70 ml is filled with a liquid up to 50 ml. Then, t
 
 10th\_Science\_Unit-3.indd 38 06-12-2021 18:27:55
 
-www.tntextbooks.in
+
 
 
 
@@ -500,7 +500,7 @@ required to raise the temperature of \_\_\_\_\_\_\_ of water through\_\_\_\_\_\_
 
 10th\_Science\_Unit-3.indd 39 06-12-2021 18:27:55
 
-www.tntextbooks.in
+
 
 
 
@@ -587,7 +587,7 @@ http://aplusphysics.com/courses/honors/ thermo/thermal\_physics.html
 
 10th\_Science\_Unit-3.indd 40 06-12-2021 18:27:55
 
-www.tntextbooks.in
+
 
 
 
@@ -612,7 +612,7 @@ www.tntextbooks.in
 
 10th\_Science\_Unit-3.indd 41 06-12-2021 18:27:56
 
-www.tntextbooks.in
+
 
 
 

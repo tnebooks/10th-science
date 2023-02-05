@@ -36,7 +36,7 @@ SOLUTIONS
 
 10th\_Science\_Unit-9.indd 124 06-12-2021 18:38:08
 
-www.tntextbooks.in
+
 
 
 
@@ -78,7 +78,7 @@ We know that substances normally exist in three physical states (phases) i.e., s
 
 10th\_Science\_Unit-9.indd 125 06-12-2021 18:38:10
 
-www.tntextbooks.in
+
 
 
 
@@ -125,7 +125,7 @@ The amount of the solute that can be dissolved in the given amount of solvent is
 
 10th\_Science\_Unit-9.indd 126 06-12-2021 18:38:10
 
-www.tntextbooks.in
+
 
 
 
@@ -200,7 +200,7 @@ When we compare two solutions having same solute and solvent, the one which cont
 
 10th\_Science\_Unit-9.indd 127 06-12-2021 18:38:12
 
-www.tntextbooks.in
+
 
 
 
@@ -273,7 +273,7 @@ The common examples for solubility of gases in liquids are carbonated beverages,
 
 10th\_Science\_Unit-9.indd 128 06-12-2021 18:38:12
 
-www.tntextbooks.in
+
 
 
 
@@ -364,7 +364,7 @@ You can notice that in the commercial products that we come across in our daily 
 
 10th\_Science\_Unit-9.indd 129 06-12-2021 18:38:12
 
-www.tntextbooks.in
+
 
 
 
@@ -463,7 +463,7 @@ Its water of crystallization is 7. When magnesium sulphate heptahydrate crystals
 
 10th\_Science\_Unit-9.indd 130 06-12-2021 18:38:13
 
-www.tntextbooks.in
+
 
 
 
@@ -542,7 +542,7 @@ Deliquescent substances are crystalline solids.
 
 10th\_Science\_Unit-9.indd 131 06-12-2021 18:38:13
 
-www.tntextbooks.in
+
 
 
 
@@ -658,7 +658,7 @@ Mass of the solute + Mass of the solvent
 
 10th\_Science\_Unit-9.indd 132 06-12-2021 18:38:13
 
-www.tntextbooks.in
+
 
 
 
@@ -755,7 +755,7 @@ Volume of ethanol = 20 × 200
 
 10th\_Science\_Unit-9.indd 133 06-12-2021 18:38:13
 
-www.tntextbooks.in
+
 
 
 
@@ -812,7 +812,7 @@ a. homogeneous b. heterogeneous c. homogeneous and heterogeneous d. non homogene
 
 10th\_Science\_Unit-9.indd 134 06-12-2021 18:38:13
 
-www.tntextbooks.in
+
 
 
 
@@ -885,7 +885,7 @@ water, Sarath dissolves 50 g of same sugar in 250 ml of cold water. Who will get
 
 10th\_Science\_Unit-9.indd 135 06-12-2021 18:38:13
 
-www.tntextbooks.in
+
 
 
 
@@ -966,7 +966,7 @@ Deliquescence
 
 10th\_Science\_Unit-9.indd 136 06-12-2021 18:38:14
 
-www.tntextbooks.in
+
 
 
 

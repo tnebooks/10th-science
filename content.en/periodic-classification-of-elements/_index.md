@@ -31,7 +31,7 @@ PERIODIC CLASSIFICATION OF ELEMENTS
 
 10th\_Science\_Unit-8.indd 106 06-12-2021 18:37:42
 
-www.tntextbooks.in
+
 
 
 
@@ -81,7 +81,7 @@ As you have studied the features of the modern periodic table in standard IX, he
 
 10th\_Science\_Unit-8.indd 107 06-12-2021 18:37:42
 
-www.tntextbooks.in
+
 
 
 
@@ -154,7 +154,7 @@ ist ry
 
 10th\_Science\_Unit-8.indd 108 06-12-2021 18:37:45
 
-www.tntextbooks.in
+
 
 
 
@@ -218,7 +218,7 @@ Properties such as atomic radius, ionic radius, ionisation energy, electronegati
 
 10th\_Science\_Unit-8.indd 109 06-12-2021 18:37:45
 
-www.tntextbooks.in
+
 
 
 
@@ -284,7 +284,7 @@ Na Na+ Cl Cl–
 
 10th\_Science\_Unit-8.indd 110 06-12-2021 18:37:46
 
-www.tntextbooks.in
+
 
 
 
@@ -348,7 +348,7 @@ Along the period, from left to right in the periodic table, the electronegativit
 
 10th\_Science\_Unit-8.indd 111 06-12-2021 18:37:46
 
-www.tntextbooks.in
+
 
 
 
@@ -426,7 +426,7 @@ There are four major types of separation of ores based on the nature of the ore.
 
 10th\_Science\_Unit-8.indd 112 06-12-2021 18:37:46
 
-www.tntextbooks.in
+
 
 
 
@@ -516,7 +516,7 @@ Haematite ( Fe2O3) Siderite(FeCO3) Rock salt (NaCl) Zinc blende (ZnS)
 
 10th\_Science\_Unit-8.indd 113 06-12-2021 18:37:49
 
-www.tntextbooks.in
+
 
 
 
@@ -596,7 +596,7 @@ Thermal decomposition of metal oxide into metal
 
 10th\_Science\_Unit-8.indd 114 06-12-2021 18:37:49
 
-www.tntextbooks.in
+
 
 
 
@@ -686,7 +686,7 @@ dry air. On heating at 800 °C, aluminium burns very brightly forming it’s oxi
 
 10th\_Science\_Unit-8.indd 115 06-12-2021 18:37:49
 
-www.tntextbooks.in
+
 
 
 
@@ -744,7 +744,7 @@ The chief ore of copper is copper pyrite. It yields nearly 76% of the world prod
 
 10th\_Science\_Unit-8.indd 116 06-12-2021 18:37:49
 
-www.tntextbooks.in
+
 
 
 
@@ -820,7 +820,7 @@ Iron is chiefly extracted from haematite ore (Fe2O3)
 
 10th\_Science\_Unit-8.indd 117 06-12-2021 18:37:49
 
-www.tntextbooks.in
+
 
 
 
@@ -897,7 +897,7 @@ ferrous nitrate and ammonium nitrate. 4 Fe + 10 HNO3 → 4 Fe(NO3)2 + NH4NO3 + 3
 
 10th\_Science\_Unit-8.indd 118 06-12-2021 18:37:49
 
-www.tntextbooks.in
+
 
 
 
@@ -978,7 +978,7 @@ Cables , aircraftparts, propeller
 
 10th\_Science\_Unit-8.indd 119 06-12-2021 18:37:50
 
-www.tntextbooks.in
+
 
 
 
@@ -1069,7 +1069,7 @@ It is a railway bridge which connects the town of Rameshwaram on Pamban Island t
 
 10th\_Science\_Unit-8.indd 120 06-12-2021 18:37:50
 
-www.tntextbooks.in
+
 
 
 
@@ -1122,7 +1122,7 @@ c) 18th d) 16th
 
 10th\_Science\_Unit-8.indd 121 06-12-2021 18:37:50
 
-www.tntextbooks.in
+
 
 
 
@@ -1203,7 +1203,7 @@ with O2 at < 1370 K gives B, a black coloured compound. At a temperature > 1370 
 
 10th\_Science\_Unit-8.indd 122 06-12-2021 18:37:50
 
-www.tntextbooks.in
+
 
 
 
@@ -1270,7 +1270,7 @@ Sulphide ore
 
 10th\_Science\_Unit-8.indd 123 06-12-2021 18:37:50
 
-www.tntextbooks.in
+
 
 
 

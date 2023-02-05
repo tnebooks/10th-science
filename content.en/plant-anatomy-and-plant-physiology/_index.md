@@ -40,7 +40,7 @@ PLANT ANATOMY AND PLANT PHYSIOLOGY
 
 10th\_Science\_Unit-12.indd 173 06-12-2021 18:39:20
 
-www.tntextbooks.in
+
 
 
 
@@ -117,7 +117,7 @@ Vascular Tissue System Vascular tissues - Xylem tissue - Phloem tissue
 
 10th\_Science\_Unit-12.indd 174 06-12-2021 18:39:20
 
-www.tntextbooks.in
+
 
 
 
@@ -189,7 +189,7 @@ Inner Phloem
 
 10th\_Science\_Unit-12.indd 175 06-12-2021 18:39:20
 
-www.tntextbooks.in
+
 
 
 
@@ -281,7 +281,7 @@ Cortex
 
 10th\_Science\_Unit-12.indd 176 06-12-2021 18:39:21
 
-www.tntextbooks.in
+
 
 
 
@@ -375,7 +375,7 @@ Pith
 
 10th\_Science\_Unit-12.indd 177 06-12-2021 18:39:21
 
-www.tntextbooks.in
+
 
 
 
@@ -456,7 +456,7 @@ Epidermis
 
 10th\_Science\_Unit-12.indd 178 06-12-2021 18:39:22
 
-www.tntextbooks.in
+
 
 
 
@@ -522,7 +522,7 @@ The transverse section of a monocot leaf reveals the following structures.
 
 10th\_Science\_Unit-12.indd 179 06-12-2021 18:39:22
 
-www.tntextbooks.in
+
 
 
 
@@ -602,7 +602,7 @@ plastids Leucoplast - colourless plastids
 
 10th\_Science\_Unit-12.indd 180 06-12-2021 18:39:22
 
-www.tntextbooks.in
+
 
 
 
@@ -672,7 +672,7 @@ Dark reaction or biosynthetic pathway is takes place in **stroma**. During this 
 
 10th\_Science\_Unit-12.indd 181 06-12-2021 18:39:23
 
-www.tntextbooks.in
+
 
 
 
@@ -725,7 +725,7 @@ Inner mitochondrial membrane is semi permeable membrane and regulates the passag
 
 10th\_Science\_Unit-12.indd 182 06-12-2021 18:39:23
 
-www.tntextbooks.in
+
 
 
 
@@ -805,7 +805,7 @@ C6H12O6 + 6O**2** → 6CO2 + 6H2O + ATP
 
 10th\_Science\_Unit-12.indd 183 06-12-2021 18:39:23
 
-www.tntextbooks.in
+
 
 
 
@@ -870,7 +870,7 @@ alternate radii constitute a vascular bundle called \_\_\_\_\_\_\_\_\_\_\_\_.
 
 10th\_Science\_Unit-12.indd 184 06-12-2021 18:39:23
 
-www.tntextbooks.in
+
 
 
 
@@ -951,7 +951,7 @@ www.science daily.com www.britannica.com
 
 10th\_Science\_Unit-12.indd 185 06-12-2021 18:39:23
 
-www.tntextbooks.in
+
 
 
 
@@ -1024,7 +1024,7 @@ Aecting factors
 
 10th\_Science\_Unit-12.indd 186 06-12-2021 18:39:25
 
-www.tntextbooks.in
+
 
 
 

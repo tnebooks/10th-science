@@ -24,7 +24,7 @@ HEALTH AND DISEASES21
 
 10th\_Science Unit-21.indd 300 06-12-2021 18:55:37
 
-www.tntextbooks.in
+
 
 
 
@@ -73,7 +73,7 @@ The Ministry of Women and Child Development championed the introduction of the P
 
 10th\_Science Unit-21.indd 301 06-12-2021 18:55:37
 
-www.tntextbooks.in
+
 
 
 
@@ -120,7 +120,7 @@ A drug that modifies the physical, biological, psychological or social behaviour
 
 10th\_Science Unit-21.indd 302 06-12-2021 18:55:38
 
-www.tntextbooks.in
+
 
 
 
@@ -189,7 +189,7 @@ Family members, friends and society on the whole have a very important role to p
 
 10th\_Science Unit-21.indd 303 06-12-2021 18:55:38
 
-www.tntextbooks.in
+
 
 
 
@@ -244,7 +244,7 @@ Anti Tobacco Act was passed on May 1st 2004. By 2030 tobacco is expected to be s
 
 10th\_Science Unit-21.indd 304 06-12-2021 18:55:39
 
-www.tntextbooks.in
+
 
 
 
@@ -298,7 +298,7 @@ Diabetes mellitus is a chronic metabolic disorder. In Greek (Diabetes – runnin
 
 10th\_Science Unit-21.indd 305 06-12-2021 18:55:39
 
-www.tntextbooks.in
+
 
 
 
@@ -352,7 +352,7 @@ Diet, hypoglycemic drugs, insulin injection and exercise are the management opti
 
 10th\_Science Unit-21.indd 306 06-12-2021 18:55:40
 
-www.tntextbooks.in
+
 
 
 
@@ -404,7 +404,7 @@ Treatment Insulin administration is necessary Can be controlled by diet, exercis
 
 10th\_Science Unit-21.indd 307 06-12-2021 18:55:40
 
-www.tntextbooks.in
+
 
 
 
@@ -457,7 +457,7 @@ Prepare a chart showing the food items which are preferable and which should be 
 
 10th\_Science Unit-21.indd 308 06-12-2021 18:55:40
 
-www.tntextbooks.in
+
 
 
 
@@ -518,7 +518,7 @@ The treatment of cancer involves the following methods: **Surgery:** Tumours are
 
 10th\_Science Unit-21.indd 309 06-12-2021 18:55:40
 
-www.tntextbooks.in
+
 
 
 
@@ -578,7 +578,7 @@ educating people on the consequences of AIDS.
 
 10th\_Science Unit-21.indd 310 06-12-2021 18:55:40
 
-www.tntextbooks.in
+
 
 
 
@@ -637,7 +637,7 @@ a) Carcinoma b) Sarcoma c) Leukemia d) Lymphoma
 
 10th\_Science Unit-21.indd 311 06-12-2021 18:55:40
 
-www.tntextbooks.in
+
 
 
 
@@ -718,7 +718,7 @@ of an alcoholic.
 
 10th\_Science Unit-21.indd 312 06-12-2021 18:55:40
 
-www.tntextbooks.in
+
 
 
 
@@ -785,7 +785,7 @@ https://www.ncpcr.gov.in
 
 10th\_Science Unit-21.indd 313 06-12-2021 18:55:40
 
-www.tntextbooks.in
+
 
 
 
@@ -840,7 +840,7 @@ www.tntextbooks.in
 
 10th\_Science Unit-21.indd 314 06-12-2021 18:55:40
 
-www.tntextbooks.in
+
 
 
 
