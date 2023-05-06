@@ -23,7 +23,7 @@ By touching a ringing bell or a musical instrument while it is producing music, 
 
 5 ACOUSTICS
 
-10th\_Science\_Unit-5.indd 59 06-12-2021 18:30:26
+10th\_Science\_Unit-5.indd 59 
 
 
 60**10th Standard Science**
