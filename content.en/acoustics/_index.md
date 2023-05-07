@@ -146,31 +146,6 @@ Speed of sound waves in different media are given in table 5.1.
 
 **Speed of sound (in ms–1)**
 
-1
-
-Solid
-
-Copper 5010
-
-2 Iron 5950
-
-3 Aluminium 6420
-
-4
-
-Liquid
-
-Kerosene 1324
-
-5 Water 1493
-
-6 Sea water 1533
-
-7 Gas
-
-Air (at 0o C) 331
-
-8 Air (at 20o C) 343
 
 **Example Problem 5.1** 1\. At what temperature will the velocity of
 
