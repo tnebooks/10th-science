@@ -3,15 +3,18 @@ title: 'VISUAL COMMUNICATION'
 weight: 23
 ---
 
-**INTRODUCTION**
+## INTRODUCTION
 
 In general, whenever we think of computers, the things that come to our mind is computer screen, keyboard , mouse and CPU. We learnt about computer and parts of a computer as introductory part in standard VI. Apart from that, software and hardware also plays vital role in the working of computer. Now, shall we learn how to operate the computer?
+
+![Irregular binary](1.1.png "")
+
 
 The reason we prefer computer is its speed and the ability to store data. How can we save data and information in computer? We can save
 
 them in folders which accommodate multiple files or a single file. Let us understand the terminologies like file and folder before moving further.
 
-## FILE
+### FILE
 
 
 The output we get from any application is commonly referred as ‘file’. Therefore the application for the specific purposes determines the nature of the file.
@@ -20,26 +23,15 @@ The output we get from any application is commonly referred as ‘file’. There
 
 At the end of this lesson the students will be able to:
 
-� Differentiate a File from a Folder
+- Differentiate a File from a Folder
 
-� Know how to create a File and a Folder
+- Know how to create a File and a Folder
 
-� Use the software application to create Animation
+- Use the software application to create Animation
 
 23 VISUAL COMMUNICATION
 
-10th\_Science Unit-23 .indd 329 06-12-2021 18:56:43
-
-
-
-
-
-
-  
-
-330**10th Standard Science**
-
-### FOLDER
+#### FOLDER
 
 
 A folder is a storage space that contains multiple files. We can create files as per the user’s need. For clear understanding, we can take the example of a bookshelf in a library. The individual book can be considered as a ‘file’ and the whole set of books in a shelf can be considered as folders. When we right click on the mouse, the popup menu appears on the screen with multiple options. Select ‘NEW’ option and a secondary menu comes up with another set of options. Select ‘Folder’ option in the menu. You can now save your file(s) in the newly created folder.
@@ -48,9 +40,9 @@ More people are using Windows and LINUX operating systems in their computers. We
 
 We use ‘Guide Board’ to go to the unknown places like that when we ‘On’ the computer click the ‘START’ button at the left corner of the computer, it shows the list of all programs in the computer. Now select the required program and create the required files.
 
-**How can we create Files?** For example if the computer is operating
+**How can we create Files?**
 
-on the Windows OS, we can collect our notes in ‘Notepad’ application and draw pictures in ‘Paint’ application.
+ For example if the computer is operating on the Windows OS, we can collect our notes in ‘Notepad’ application and draw pictures in ‘Paint’ application.
 
 As per it’s name we can type notes in ‘Notepad’ and save the created files in a folder. Likewise in the ‘Paint’ app we can draw and edit pictures. With these pictures, let us see how we can create image gallery, animations and graphics easily.
 
@@ -65,16 +57,7 @@ Instead of saying a story like ‘once upon a time there was a king’ we can un
 
 animations, cartoons and games easily. Scratch is a visual programming language. It
 
-10th\_Science Unit-23 .indd 330 06-12-2021 18:56:43
-
-
-
-
-
-
-  
-
-331 **Visual Communication**
+**Visual Communication**
 
 was developed in the Massachusetts Institute of Technology (MIT) Media Lab to make programming easier and more fun to learn.
 
