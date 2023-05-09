@@ -1,5 +1,5 @@
 ---
-title: 'VISUAL COMMUNICATION'
+title: 'VISUAL'
 weight: 23
 ---
 
