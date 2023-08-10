@@ -45,7 +45,9 @@ jobs:
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.KEY }}
+          password: ${{ secrets.PASSWORD }}
           source: "gurukulam/site/public"
           target: ${{ secrets.TARGET_DIR }}
-          strip_components: 3
+          strip_components: 3  
+
+
