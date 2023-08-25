@@ -49,7 +49,7 @@ PLANTS AND ANIMALS17
 
   
 
-244**10th Standard Science**
+
 
 daughter plant. It has only mitotic division, no gametic fusion and daughter plants are genetically similar to the parent plant.
 
@@ -148,7 +148,7 @@ The two outermost whorls calyx and corolla are **non–essential** or **accessor
 
   
 
-246**10th Standard Science**
+
 
 **Figure 17.8** Structure of Anther and Pollen grain
 
@@ -330,7 +330,7 @@ WaterPollen grain
 
   
 
-248**10th Standard Science**
+
 
 3. **Pollination by Animals** When pollination takes place with the
 
@@ -460,7 +460,7 @@ The number of primordial follicles in new born female child ranges over 7 millio
 
   
 
-250**10th Standard Science**
+
 
 **Figure 17.14** L.S of human ovary
 
@@ -592,7 +592,7 @@ LH and FSH decrease, Corpus luteum produces progesterone and its level increases
 | Lutealphase |15 –28  daythth |Emptied Graafian follicle develops into corpus luteum |Endometrium is prepared for implantation if fertilization of egg takes place, if fertilization does not occur corpus luteum degenerates, uterine wall ruptures, bleeding starts and unfertilized egg is expelled |LH and FSH decrease, Corpus luteum produces progesterone  and its level increases followed by a decline, if menstrual bleeding occurs |
   
 
-252**10th Standard Science**
+
 
 induced by the pituitary hormones (LH and FSH) and ovarian hormones (estrogen and progesterone).
 
@@ -704,7 +704,7 @@ motivate couples to accept contraceptive methods and to have small family norms,
 
   
 
-254**10th Standard Science**
+
 
 • Importance of breast feeding • Prevention of reproductive tract infections
 
@@ -821,7 +821,7 @@ to avoid infections due to microbes from vagina and sweat from genitals.
 
   
 
-256**10th Standard Science**
+
 
 **TEXTBOOK EVALUATION**
 
@@ -962,7 +962,7 @@ reproduction.
 | Fra g men t at io n |Yeast |
   
 
-258**10th Standard Science**
+
 
 3\. Yeast reproduces asexually by means of multiple fission.
 
@@ -1133,7 +1133,7 @@ towards her parents was correct? If so, Why?
 
   
 
-260**10th Standard Science**
+
 
 **Cells alive**
 

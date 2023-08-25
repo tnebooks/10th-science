@@ -30,7 +30,7 @@ UNIT 11
 
 CARBON AND ITS COMPOUNDS
 
-10th\_Science\_Unit-11.indd 155 06-12-2021 18:38:50
+
 
 
 
@@ -39,7 +39,7 @@ CARBON AND ITS COMPOUNDS
 
   
 
-156**10th Standard Science**
+
 
 � Mostly organic compounds form covalent bonds in nature.
 
@@ -142,7 +142,7 @@ CH2
 
 Figure 11.1 depicts the classification of organic compounds based on the pattern of carbon arrangements and their bonding in organic compounds:
 
-10th\_Science\_Unit-11.indd 156 06-12-2021 18:38:51
+
 
 
 
@@ -241,7 +241,7 @@ Aromatic Compounds E.g Benzene
 
 **Figure 11.1 Classification of organic compounds**
 
-10th\_Science\_Unit-11.indd 157 06-12-2021 18:38:51
+
 
 
 
@@ -259,7 +259,7 @@ Aromatic Compounds E.g Benzene
 | 5 |Pentane (C H )5 12 |Pentene (C H )5 10 |Pentyne (C H )5 8 |
   
 
-158**10th Standard Science**
+
 
 ### Characteristics of hydrocarbons:
 
@@ -321,7 +321,7 @@ CH3-CH3 CH3-CH2-OH Ethane Ethanol Hydrocarbon Alcohol
 
 A series of compounds containing the same functional group is called a **class of organic compounds.** Table 11.2 shows various classes or families of organic compounds and their functional groups:
 
-10th\_Science\_Unit-11.indd 158 06-12-2021 18:38:51
+
 
 
 
@@ -402,7 +402,7 @@ Ether –O–R R-O-R
 
 Dimethyl ether, CH3OCH3
 
-10th\_Science\_Unit-11.indd 159 06-12-2021 18:38:51
+
 
 
 
@@ -421,7 +421,7 @@ Dimethyl ether, CH3OCH3
 | Ether |–O–R |R-O-R |Dimethyl ether, CH OCH3 3 |
   
 
-160**10th Standard Science**
+
 
 ## NOMENCLATURE OF ORGANIC COMPOUNDS
 
@@ -474,7 +474,7 @@ Prefix Root Word Suffix IUPAC Name
 
 is divided into two parts such as **(a) Primary suffix and (b) Secondary suffix. The primary** suffix comes after the root word. It represents **the nature in carbon to carbon bonding of the parent chain**. If all the bonds between the carbon atoms of the parent chain are single, then suffix ‘ane’ has to be used. Suffix ‘ene’ and ‘yne’ are used for the compounds containing double
 
-10th\_Science\_Unit-11.indd 160 06-12-2021 18:38:51
+
 
 
 
@@ -580,7 +580,7 @@ CH2− −
 
 **Step 2: There is a substituent. So, the**
 
-10th\_Science\_Unit-11.indd 161 06-12-2021 18:38:52
+
 
 
 
@@ -597,7 +597,7 @@ CH2− −
 | Carboxylic acid |−COOH |-oic acid |
   
 
-162**10th Standard Science**
+
 
 carbon chain is numbered from the end, which is closest to substituent. (Rule 2)
 
@@ -688,7 +688,7 @@ Obtain the IUPAC name of the following compounds systematically:
 
 (c) ClCH2-CH2-CH 2-CH3
 
-10th\_Science\_Unit-11.indd 162 06-12-2021 18:38:53
+
 
 
 
@@ -819,7 +819,7 @@ Pentanone (CH3COCH2CH2 CH3)
 
 Pentanoic acid (CH3CH2CH2CH2 COOH)
 
-10th\_Science\_Unit-11.indd 163 06-12-2021 18:38:53
+
 
 
 
@@ -838,7 +838,7 @@ Pentanoic acid (CH3CH2CH2CH2 COOH)
 | 5 |Pentanol(CH CH CH CH CH OH)3 2 2 2  2 |Pentanal(CH CH CH CH CHO)3 2 2 2 |Pentanone(CH COCH CH CH )3 2 2  3 |Pentanoic acid(CH CH CH CH COOH)3 2 2 2 |
   
 
-164**10th Standard Science**
+
 
 95.5% of ethanol and 4.5% of water. This is called **rectified spirit. This mixture is then refluxed** over quicklime for about 5 to 6 hours and then allowed to stand for 12 hours. On distillation of this mixture, pure alcohol (100%) is obtained. This is called absolute alcohol.
 
@@ -913,7 +913,7 @@ like bacteria, fungi, etc., by including it in many hand sanitizers.
 
 K2Cr2O7 / H +
 
-10th\_Science\_Unit-11.indd 164 06-12-2021 18:38:53
+
 
 
 
@@ -995,7 +995,7 @@ NaOH / CaOCH3COONa CH4 ↑ + Na2CO3
 
 Acetic acid, in lower concentration, (vinegar) is used as a food additive, a flavoring agent and a preservative.
 
-10th\_Science\_Unit-11.indd 165 06-12-2021 18:38:54
+
 
 
 
@@ -1004,7 +1004,7 @@ Acetic acid, in lower concentration, (vinegar) is used as a food additive, a fla
 
   
 
-166**10th Standard Science**
+
 
 **Ethanoic acid is used**
 
@@ -1065,7 +1065,7 @@ Soaps, which are prepared by the **_saponification of oils or fats with potassiu
 
 This is the oldest method. But, it is still widely used in the small scale preparation of
 
-10th\_Science\_Unit-11.indd 166 06-12-2021 18:38:54
+
 
 
 
@@ -1120,7 +1120,7 @@ vi) Certain chemicals that give out a pleasant smell are also added to make the 
 
 A soap molecule contains two chemically distinct parts that interact differently with
 
-10th\_Science\_Unit-11.indd 167 06-12-2021 18:38:54
+
 
 
 
@@ -1129,7 +1129,7 @@ A soap molecule contains two chemically distinct parts that interact differently
 
   
 
-168**10th Standard Science**
+
 
 water. It has one **polar end**, which is a **_short head_** with a carboxylate group (–COONa) and one **non-polar end** having the **_long tail made of the hydrocarbon_** **_chain_**.
 
@@ -1185,7 +1185,7 @@ carbon chain are not fully biodegradable by micro-organisms present in water. So
 
 2\. They are relatively more expensive than soap.
 
-10th\_Science\_Unit-11.indd 168 06-12-2021 18:38:55
+
 
 
 
@@ -1241,7 +1241,7 @@ Soaps are biodegradable. Most of the detergents are non-biodegradable.
 
 ™ Detergents are sodium salts of sulphonic acids. Thus instead of –COOH group in soaps, detergents contain –SO3H group
 
-10th\_Science\_Unit-11.indd 169 06-12-2021 18:38:55
+
 
 
 
@@ -1261,7 +1261,7 @@ Soaps are biodegradable. Most of the detergents are non-biodegradable.
 | Soaps are biodegradable. |Most of the detergents are non-biodegradable. |
   
 
-170**10th Standard Science**
+
 
 **TEXTBOOK EVALUATION**
 
@@ -1331,7 +1331,7 @@ Soap **\-** Furan
 
 Carbocyclic **\-** Ethene
 
-10th\_Science\_Unit-11.indd 170 06-12-2021 18:38:55
+
 
 
 
@@ -1430,7 +1430,7 @@ structural formula.
 
 https://www.tutorvista.com/ https://www.topperlearning.com/ http://www.chem4kids.com/
 
-10th\_Science\_Unit-11.indd 171 06-12-2021 18:38:56
+
 
 
 
@@ -1439,7 +1439,7 @@ https://www.tutorvista.com/ https://www.topperlearning.com/ http://www.chem4kids
 
   
 
-172**10th Standard Science**
+
 
 **Carbon and its**
 
@@ -1523,7 +1523,7 @@ URL: https://play.google.com/store/apps/details?id=com.budgietainment.oc or Scan
 
 **Concept Map**
 
-10th\_Science\_Unit-11.indd 172 06-12-2021 18:38:56
+
 
 
 

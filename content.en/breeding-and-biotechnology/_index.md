@@ -102,7 +102,7 @@ Cowpea Pusa Komal Bacterial blight
 | Cowpea |Pusa Komal |Bacterial blight |
   
 
-288**10th Standard Science**
+
 
 ### Plant Breeding for Insects/Pests Resistance
 
@@ -231,7 +231,7 @@ _d. Raphano brassica_ is an allotetraploid by colchicine treatment.
 
   
 
-290**10th Standard Science**
+
 
 ### Mutation Breeding
 
@@ -353,7 +353,7 @@ animals
 
   
 
-292**10th Standard Science**
+
 
 ## Genetic Engineering
 
@@ -460,7 +460,7 @@ In contrast to differentiated cells, stem cells are undifferentiated or unspecia
 
   
 
-294**10th Standard Science**
+
 
 Parkinson’s disease and Alzheimer’s disease **neuronal stem cells** can be used to replace the damaged or lost neurons.
 
@@ -578,7 +578,7 @@ Salmon or Rainbow trout or Tilapia growth hormone gene
 | Increased growth in shes |Salmon or Rainbow trout or Tilapia growth hormone gene |Transgenic sh (gene expressed) |
   
 
-296**10th Standard Science**
+
 
 **TEXTBOOK EVALUATION**
 
@@ -704,7 +704,7 @@ plants enriched with desirable nutrients is called \_\_\_\_\_\_\_\_\_\_.
 
   
 
-298**10th Standard Science**
+
 
 **Reason:** Desired genes are inserted without introducing the undesriable genes in target organisms.
 

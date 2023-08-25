@@ -49,7 +49,7 @@ PLANT AND ANIMAL HORMONES16
 
   
 
-230**10th Standard Science**
+
 
 **Types of Plant Hormones** There are five major
 
@@ -163,7 +163,7 @@ induces sudden shoot elongation followed by flowering. This is called bolting.
 
   
 
-232**10th Standard Science**
+
 
 3\. Gibberellins promote the **production of male flowers in monoecious plants** (Cucurbits).
 
@@ -297,7 +297,7 @@ Pituitary Gland
 
   
 
-234**10th Standard Science**
+
 
 **b. Thyroid stimulating hormone (TSH)** TSH controls the growth of thyroid
 
@@ -429,7 +429,7 @@ Parathyroid gland
 
   
 
-236**10th Standard Science**
+
 
 **Functions of Parathormone** The parathormone regulates calcium and
 
@@ -588,7 +588,7 @@ The sex glands are of two types the testes and the ovaries. The testes are prese
 
   
 
-238**10th Standard Science**
+
 
 **Testes** Testes are the reproductive glands of the
 
@@ -745,7 +745,7 @@ a) Pineal gland b) Pituitary gland c) Thyroid gland d) Adrenal gland
 
   
 
-240**10th Standard Science**
+
 
 **III a) Match Column I with Columns II and III**
 
@@ -922,7 +922,7 @@ eyeball and an increased body temperature. Name the endocrine gland involved and
 
   
 
-242**10th Standard Science**
+
 
 **Concept Map**
 

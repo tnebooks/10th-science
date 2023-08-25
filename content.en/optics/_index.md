@@ -42,7 +42,7 @@ At the end of this lesson, students will be able to: ‹ state the laws of refra
 
 2 OPTICS
 
-10th\_Science\_Unit-2.indd 16 06-12-2021 17:29:23
+
 
 
 
@@ -101,7 +101,7 @@ The band of colours is termed as spectrum. This spectrum consists of following c
 
 Angle of refraction is the smallest for red and the highest for violet. From Snell’s law, we know that the angle of refraction is determined in terms of the refractive index of the medium. Hence, the refractive index of the medium is different for different coloured lights. This indicates that the refractive index of a medium is dependent on the wavelength of the light.
 
-10th\_Science\_Unit-2.indd 17 06-12-2021 17:29:23
+
 
 
 
@@ -110,7 +110,7 @@ Angle of refraction is the smallest for red and the highest for violet. From Sne
 
   
 
-18**10th Standard Science**
+
 
 ## SCATTERING OF LIGHT
 
@@ -158,7 +158,7 @@ Mie scattering is caused by pollen, dust, smoke, water droplets, and other parti
 
 Mie scattering is responsible for the white appearance of the clouds. When white light falls on the water drop, all the colours are equally scattered which together form the white light.
 
-10th\_Science\_Unit-2.indd 18 06-12-2021 17:29:24
+
 
 
 
@@ -213,7 +213,7 @@ All these lenses are shown in Figure 2.2 given below:
 
 **Figure 2.2** Types of lenses
 
-10th\_Science\_Unit-2.indd 19 06-12-2021 17:29:24
+
 
 
 
@@ -222,7 +222,7 @@ All these lenses are shown in Figure 2.2 given below:
 
   
 
-20**10th Standard Science**
+
 
 ## IMAGES FORMED DUE TO REFRACTION THROUGH A CONVEX AND CONCAVE LENS
 
@@ -280,7 +280,7 @@ B B´
 
 When an object is placed at the center of curvature, a real and inverted image is formed at the other center of curvature. The size of the image is the same as that of the object (Figure 2.8).
 
-10th\_Science\_Unit-2.indd 20 06-12-2021 17:29:24
+
 
 
 
@@ -407,7 +407,7 @@ When an object is placed at infinity, a virtual image is formed at the focus. Th
 
 **Figure 2.12 Concave lens-Object at infinity**
 
-10th\_Science\_Unit-2.indd 21 06-12-2021 17:29:25
+
 
 
 
@@ -452,7 +452,7 @@ When an object is placed at infinity, a virtual image is formed at the focus. Th
 | F1 O |
   
 
-22**10th Standard Science**
+
 
 **Object anywhere on the principal axis at a finite distance**
 
@@ -528,7 +528,7 @@ direction as that of incident light are taken as positive.
 
 Like spherical mirrors, we have magnification for spherical lenses. Spherical lenses produce magnification and it is defined as the ratio of the height of the image to the
 
-10th\_Science\_Unit-2.indd 22 06-12-2021 17:29:25
+
 
 
 
@@ -616,7 +616,7 @@ A concave lens is thinner in the middle than at edges.
 
 4 It is used to treat hypermeteropia. It is used to treat myopia.
 
-10th\_Science\_Unit-2.indd 23 06-12-2021 17:29:25
+
 
 
 
@@ -633,7 +633,7 @@ A concave lens is thinner in the middle than at edges.
 | 4 |It is used to treat hypermeteropia. |It is used to treat myopia. |
   
 
-24**10th Standard Science**
+
 
 ## HUMAN EYE
 
@@ -686,7 +686,7 @@ human eye cannot distinguish them separately. It is called persistence of vision
 
 The minimum distance required to see the objects distinctly without strain is called least distance of distinct vision. It is called as near point of eye. It is 25 cm for normal human eye.
 
-10th\_Science\_Unit-2.indd 24 06-12-2021 17:29:25
+
 
 
 
@@ -738,7 +738,7 @@ weak and the eye-lens become rigid (inflexible) andso the eye loses its power of
 
 Because of this, an aged person cannot see the nearby objects clearly. So, it is also called as ‘old age hypermetropia’.
 
-10th\_Science\_Unit-2.indd 25 06-12-2021 17:29:26
+
 
 
 
@@ -747,7 +747,7 @@ Because of this, an aged person cannot see the nearby objects clearly. So, it is
 
   
 
-26**10th Standard Science**
+
 
 Some persons may have both the defects of vision - myopia as well as hypermetropia. This can be corrected by ‘bifocal lenses’. In which, upper part consists of concave lens (to correct myopia) used for distant vision and the lower part consists of convex lens (to correct hypermetropia) used for reading purposes.
 
@@ -802,7 +802,7 @@ _B_
 
 **Figure 2.18** Image formation in simple microscope
 
-10th\_Science\_Unit-2.indd 26 06-12-2021 17:29:26
+
 
 
 
@@ -870,7 +870,7 @@ The image in an astronomical telescope is inverted. So, it is not suitable for v
 
 **Figure 2.19** Image formation in compound microscope
 
-10th\_Science\_Unit-2.indd 27 06-12-2021 17:29:26
+
 
 
 
@@ -879,7 +879,7 @@ The image in an astronomical telescope is inverted. So, it is not suitable for v
 
   
 
-28**10th Standard Science**
+
 
 **Points to Remember**
 
@@ -995,7 +995,7 @@ _f_ = _d_ × _D_ _d_ − D
 
 \= 0.3 m
 
-10th\_Science\_Unit-2.indd 28 06-12-2021 17:29:27
+
 
 
 
@@ -1068,7 +1068,7 @@ lens cause ‘hypermetropia’ 4. The convex lens always gives small virtual
 
 image.
 
-10th\_Science\_Unit-2.indd 29 06-12-2021 17:29:27
+
 
 
 
@@ -1077,7 +1077,7 @@ image.
 
   
 
-30**10th Standard Science**
+
 
 9\. Why does the sky appear in blue colour? 10. Why are traffic signals red in colour?
 
@@ -1149,7 +1149,7 @@ formed by a convex lens when the object is placed between F and 2F.
 
 8\. What are the causes of ‘Myopia’?
 
-10th\_Science\_Unit-2.indd 30 06-12-2021 17:29:27
+
 
 
 
@@ -1210,7 +1210,7 @@ Dispersion Scattering of light Optical Instruments
 
 **Step1 Step2 Step3 Step4**
 
-10th\_Science\_Unit-2.indd 31 06-12-2021 17:29:27
+
 
 
 

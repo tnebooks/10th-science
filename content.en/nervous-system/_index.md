@@ -65,7 +65,7 @@ Cyton
 
   
 
-220**10th Standard Science**
+
 
 **Activity 1**
 
@@ -187,7 +187,7 @@ Meninges
 
   
 
-222**10th Standard Science**
+
 
 Meningitis is an inflammation of the meninges. It can occur when fluid surrounding the
 
@@ -314,7 +314,7 @@ Electroencephalogram (EEG) is an instrument which records the electrical impulse
 | Pons and medulla |Role in sleep-awake cycle, cardiovascular, respirator y and digestive control centers |
   
 
-224**10th Standard Science**
+
 
 ## Cerebrospinal Fluid
 
@@ -446,7 +446,7 @@ You must say the colour of the word but not the name of the word.
 | 9 |7 |19 |6 |15 |5 |8 |13 |11 |25 |3 |23 |0 |
   
 
-226**10th Standard Science**
+
 
 **Points to Remember**
 
@@ -594,7 +594,7 @@ structure of a neuron.
 | C. Cerebellum |Cyton |
   
 
-228**10th Standard Science**
+
 
 2\. Illustrate the structure and functions of brain.
 

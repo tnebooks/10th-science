@@ -3,7 +3,31 @@ title: 'LAWS OF MOTION'
 weight: 1
 ---
 
-**INTRODUCTION**
+# Learning Objectives
+
+At the end of this lesson students will be able to: 
+- Understand the concepts of force and motion.
+
+- Explain inertia and its types.
+
+- State the three laws of Newton.
+
+- Apply Newtonian concept of force and motion.
+
+- Define force, momentum and impulse.
+
+- Distinguish between mass and weight
+
+- Analyze weightlessness and the principle of conservation of momentum.
+
+- Explain the law of gravitation and its applications.
+
+- Understand the variations in 'g' due to height and depth.
+
+- Solve numerical problems related to force and motion
+
+
+# INTRODUCTION
 
 Human beings are so curious about things around them. Things around us are related to one another. Some bodies are at rest and some are in motion. Rest and motion are interrelated terms.
 
@@ -17,52 +41,21 @@ One answer for all the above questions is ‘Force’. In a common man’s under
 
 Let us define force in a more scientific manner using the three laws proposed by Sir Isaac Newton. These laws help you to understand the motion of a body and also to predict the future course of its motion, if you know the forces acting on it. Before Newton formulated his three laws of motion, a different perception about the force and motion of bodies prevailed. Let us first look at these ideas and then eventually learn about Newton’s laws in this unit.
 
-**Learning Objectives**
 
-At the end of this lesson students will be able to: � Understand the concepts of force and motion.
+Mechanics is the branch of physics that deals with the effect of force on bodies. It is divided into two branches, namely, statics and dynamics.
 
-� Explain inertia and its types.
-
-� State the three laws of Newton.
-
-� Apply Newtonian concept of force and motion.
-
-� Define force, momentum and impulse.
-
-� Distinguish between mass and weight
-
-� Analyze weightlessness and the principle of conservation of momentum.
-
-� Explain the law of gravitation and its applications.
-
-� Understand the variations in 'g' due to height and depth.
-
-� Solve numerical problems related to force and motion
-
-LAWS OF MOTION1
-
-10th\_Science\_Unit-1.indd 1 06-12-2021 17:28:44
-
-
-
-
-
-
-  
-
-2**10th Standard Science**
-
-_Mechanics_ is the branch of physics that deals with the effect of force on bodies. It is divided into two branches, namely, statics and dynamics.
-
-**Statics:** It deals with the bodies, which are at rest under the action of forces. **Dynamics:** It is the study of moving bodies under the action of forces. Dynamics is further divided as follows. **Kinematics:** It deals with the motion of bodies without considering the cause of motion. **Kinetics:** It deals with the motion of bodies considering the cause of motion.
+**Statics:** It deals with the bodies, which are at rest under the action of forces. 
+**Dynamics:** It is the study of moving bodies under the action of forces. Dynamics is further divided as follows. 
+**Kinematics:** It deals with the motion of bodies without considering the cause of motion. **Kinetics:** It deals with the motion of bodies considering the cause of motion.
 
 ## FORCE AND MOTION
 
 
-According to _Aristotle_ a Greek Philosopher and Scientist, the natural state of earthly bodies is ‘rest’. He stated that a moving body naturally comes to rest without any external influence of the force. Such motions are termed as **‘natural motion’ (Force independent).** He also proposed that a force (a push or a pull) is needed to make the bodies to move from their natural state (rest) and behave contrary to their own natural state called as **‘violent motion’ (Force dependent)**. Further, he said, when two differnt mass bodies are dropped from a height, the heavier body falls faster than the lighter one.
+According to Aristotle a Greek Philosopher and Scientist, the natural state of earthly bodies is ‘rest’. He stated that a moving body naturally comes to rest without any external influence of the force. Such motions are termed as **‘natural motion’ (Force independent).** He also proposed that a force (a push or a pull) is needed to make the bodies to move from their natural state (rest) and behave contrary to their own natural state called as **‘violent motion’ (Force dependent)**. Further, he said, when two differnt mass bodies are dropped from a height, the heavier body falls faster than the lighter one.
 
-_Galileo_ proposed the following concepts about force, motion and inertia of bodies: (i) The natural state of all earthly bodies
+Galileo proposed the following concepts about force, motion and inertia of bodies:
 
+(i) The natural state of all earthly bodies
 is either the state of rest or the state of uniform motion.
 
 (ii) A body in motion will continue to be in the same state of motion as long as no external force is applied.
@@ -72,7 +65,6 @@ is either the state of rest or the state of uniform motion.
 (iv) When dropped from a height in vacuum, bodies of different size, shape and mass fall at the same rate and reach the ground at the same time.
 
 ## INERTIA
-
 
 While you are travelling in a bus or in a car, when a sudden brake is applied, the upper part of your body leans in the forward direction. Similarly, when the vehicle suddenly is move forward from rest, you lean backward. This is due to, any body would like to continue to be in its state of rest or the state of motion. This is known as ‘inertia’.
 
@@ -84,6 +76,9 @@ Take a glass tumbler and place a small cardboard on it as shown in the figure. N
 
 The cardboard falls off the ground and the coin falls into the glass tumbler.
 
+
+![ ](image.png)
+
 **Inertia of rest**
 
 In activity described above, the inertia of the coin keeps it in the state of rest when the cardboard moves. Then, when the cardboard has moved, the coin falls into the tumbler due to gravity. This happen due to ‘inertia of rest’.
@@ -91,114 +86,60 @@ In activity described above, the inertia of the coin keeps it in the state of re
 ### Types of Inertia
 
 
-a) Inertia of rest: The resistance of a body to change its state of rest is called inertia of rest.
+a)**Inertia of rest:** The resistance of a body to change its state of rest is called inertia of rest.
 
-b) Inertia of motion: The resistance of a body to
+b) **Inertia of motion:** The resistance of a body to change its state of motion is called inertia of motion.
 
-10th\_Science\_Unit-1.indd 2 06-12-2021 17:28:44
-
-
-
-
-
-
-  
-
-3 **Laws of motion**
-
-## NEWTON’S LAWS OF MOTION
-
-
-### Newton’s First Law
-
-
-This law states that every body continues **to be in its state of rest or the state of uniform motion along a straight line unless it is acted upon by some external force.** It gives the definition of force as well as inertia.
-
-### Force
-
-
-Force is an external effort in the form of push or pull, which: 1. produces or tries to produce the motion of
-
-a static body. 2. stops or tries to stop a moving body. 3. changes or tries to change the direction of
-
-motion of a moving body. Force has both magnitude and direction.
-
-So, it is a vector quantity.
-
-### Types of forces
-
-
-Based on the direction in which the forces act, they can be classified into two types as: (a) Like parallel forces and (b) Unlike parallel forces. (a) **Like parallel forces:** Two or more forces of
-
-equal or unequal magnitude acting along the same direction, parallel to each other are called like parallel forces.
-
-(b) **Unlike parallel forces:** If two or more equal forces or unequal forces act along opposite directions parallel to each other, then they are called unlike parallel forces. Action of forces are given in Table 1.1.
-
-### Resultant Force
-
-
-When several forces act simultaneously on the same body, then the combined effect of the multiple forces can be represented by a single force, which is termed as ‘_resultant force_’. It is equal to the vector sum (adding the magnitude of the forces with their direction) of all the forces.
-
-change its state of motion is called inertia of motion.
-
-c) Inertia of direction: The resistance of a body to change its direction of motion is called inertia of direction.
+c) **Inertia of direction:** The resistance of a body to change its direction of motion is called inertia of direction.
 
 ### Examples of Inertia
 
 
-� An athlete runs some distance before jumping. Because, this will help him jump longer and higher. (Inertia of motion)
+- An athlete runs some distance before jumping. Because, this will help him jump longer and higher. (Inertia of motion)
 
-� When you make a sharp turn while driving a car, you tend to lean sideways, (Inertia of direction).
+- When you make a sharp turn while driving a car, you tend to lean sideways, (Inertia of direction).
 
-� When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down, (Inertia of rest).
+- When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down, (Inertia of rest).
 
 **Figure 1.1** Inertia of motion
 
-## LINEAR MOMENTUM
+  ## LINEAR MOMENTUM
 
 
 The impact of a force is more if the velocity and the mass of the body is more. To quantify the impact of a force exactly, a new physical quantity known as linear momentum is defined. The linear momentum measures the impact of a force on a body.
 
 **The product of mass and velocity of a moving body gives the magnitude of linear momentum. It acts in the direction of the velocity of the object.** Linear momentum is a vector quantity.
 
-Linear Momentum = mass × velocity p = mv . . . . . . . . . . (1.1) It helps to measure the magnitude of
+Linear Momentum = mass × velocity p = mv . . . . . . . . . . (1.1)
 
-a force. Unit of momentum in SI system is kg m s–1 and in C.G.S system its unit is g cm s-1.
-
-10th\_Science\_Unit-1.indd 3 06-12-2021 17:28:45
+ It helps to measure the magnitude of a force. Unit of momentum in SI system is kg m s^–1^ and in C.G.S system its unit is g cm s^-1^.
 
 
+## NEWTON’S LAWS OF MOTION
 
+### Newton’s First Law
 
+This law states that every body continues **to be in its state of rest or the state of uniform motion along a straight line unless it is acted upon by some external force.** It gives the definition of force as well as inertia.
 
+### Force
 
-  
+Force is an external effort in the form of push or pull, which: 
 
-4**10th Standard Science**
+1. produces or tries to produce the motion of a static body. 
 
-If the resultant force of all the forces acting on a body is equal to zero, then the body will be in equilibrium. Such forces are called **balanced forces**. If the resultant force is not equal to zero, then it causes the motion of the body due to **unbalanced forces Examples:** Drawing water from a well, force applied with a crow bar, forces on a weight balance, etc.
+2. stops or tries to stop a moving body. 3. changes or tries to change the direction of
+motion of a moving body. Force has both magnitude and direction. So, it is a vector quantity.
 
-A system can be brought to equilibrium by applying another force, which is equal to the resultant force in magnitude, but opposite in direction. Such force is called as ‘**Equilibrant**’.
+### Types of forces
+Based on the direction in which the forces act, they can be classified into two types as: (a) Like parallel forces and (b) Unlike parallel forces.
 
-**1.4.5 Rotating Effect of Force**
+(a) **Like parallel forces:** Two or more forces of equal or unequal magnitude acting along the same direction, parallel to each other are called like parallel forces.
 
-Have you observed the position of the handle in a door? It is always placed at the edge of door and not at some other place. Why? Have you tried to push a door by placing your hand closer to the hinges or the fixed edge? What do you observe?
+(b) **Unlike parallel forces:** If two or more equal forces or unequal forces act along opposite directions parallel to each other, then they are called unlike parallel forces. Action of forces are given in Table 1.1.
 
-The door can be easily opened or closed when you apply the force at a point far away from the fixed edge. In this case, the effect of the force you apply is to turn the door about the fixed edge. This turning effect of the applied force is more when the distance between the fixed edge and the point of application of force is more.
+### Resultant Force
 
-_Hinges_
-
-_Axis of rotation_ +z
-
-_z_
-
-_dO_
-
-F
-
-**Figure 1.3 Rotating effect of a force**
-
-The axis of the fixed edge about which the door is rotated is called as the ‘_axis of rotation_’. Fix one end of a rod to the floor/wall, and apply a force at the other end tangentially.
+When several forces act simultaneously on the same body, then the combined effect of the multiple forces can be represented by a single force, which is termed as ‘resultant force’. It is equal to the vector sum (adding the magnitude of the forces with their direction) of all the forces.
 
 **(a)** Unlike parallel forces – Tug of war
 
@@ -208,65 +149,31 @@ The axis of the fixed edge about which the door is rotated is called as the ‘_
 
 **Figure 1.2 Combined effect of forces**
 
+If the resultant force of all the forces acting on a body is equal to zero, then the body will be in equilibrium. Such forces are called **balanced forces**. If the resultant force is not equal to zero, then it causes the motion of the body due to **unbalanced forces Examples:** Drawing water from a well, force applied with a crow bar, forces on a weight balance, etc.
+
+A system can be brought to equilibrium by applying another force, which is equal to the resultant force in magnitude, but opposite in direction. Such force is called as ‘**Equilibrant**’.
+
+### Rotating Effect of Force
+
+Have you observed the position of the handle in a door? It is always placed at the edge of door and not at some other place. Why? Have you tried to push a door by placing your hand closer to the hinges or the fixed edge? What do you observe?
+
+The door can be easily opened or closed when you apply the force at a point far away from the fixed edge. In this case, the effect of the force you apply is to turn the door about the fixed edge. This turning effect of the applied force is more when the distance between the fixed edge and the point of application of force is more.
+
+
+**Figure 1.3 Rotating effect of a force**
+
+The axis of the fixed edge about which the door is rotated is called as the ‘axis of rotation’. Fix one end of a rod to the floor/wall, and apply a force at the other end tangentially.
+
+
+The rod will be turned about the fixed point is called as ‘*point of rotation*’.
+
+
 **Table 1.1** Action of forces
 
 **Action of forces Diagram Resultant force (Fnet)**
 
-Parallel forces are acting in the same direction
-
-F1
-
-F2
-
-Fnet = F1 + F2
-
-Parallel unequal forces are acting in opposite directions
-
-F1 F2
-
-Fnet = F1 – F2 (if F1 > F2) Fnet = F2 – F1 (if F2 > F1) Fnet is directed along the greater force.
-
-Parallel equal forces are acting in opposite directions in the same line of action (F1 = F2)
-
-F1 F2 Fnet = F1 – F2
-
-Fnet = 0 since (F1 = F2)
-
-10th\_Science\_Unit-1.indd 4 06-12-2021 17:28:47
-
-
-
-
-
-
-
-
-
-|------|
-
-
-
-| Action of forces |Diagram |Resultant force (F )net |
-|------|------|------|
-| Para llel f orces a re ac ting in t he s amedirection |FF12 |F  = F  + Fnet 1 2 |
-| Para llel un equal f orces a re ac ting inopposite dir ections |F F1 2 |F  = F  – F  (if F  > F )F  = F  – F  (if F  > F )F  is dir ected a longthe g reater f orce.net 1 2 1 2net 2 1 2 1net |
-| Parallel equal forces are acting in oppositedirections in the same line of action (F  = F )1 2 |F F1 2 |F  = F  – FF  = 0 sin ce (F  = F )net 1 2net 1 2 |
-
-
-
-|------|------|
-
-
-
-
-  
-
-5 **Laws of motion**
-
-The rod will be turned about the fixed point is called as ‘_point of rotation_’.
 
 ### Moment of the Force
-
 
 The rotating or turning effect of a force about a fixed point or fixed axis is called **moment of the force** about that point or **torque** **(τ)**. It is measured by the product of the force (F) and the perpendicular distance (d) between the fixed point or the fixed axis and the line of action of the force. τ = F × d . . . . . . . . . . (1.2)
 
@@ -292,14 +199,7 @@ negative if it is rotate in the clockwise direction. They are shown in Figures 1
 
 **Figure 1.4 (a)** Clockwise moment
 
-s s
-
-F F
-
-F F
-
 ### Application of Torque
-
 
 **1\. Gears:** A gear is a circular
 
@@ -309,54 +209,28 @@ wheel with teeth around its rim. It helps to change the speed of rotation of a w
 
 Since there is a difference in the weight of the persons sitting on it, the heavier person lifts the lighter person. When the heavier person comes closer to the pivot point (fulcrum) the distance of the line of action of the force decreases. It causes less amount of torque to act on it. This enables the lighter person to lift the heavier person.
 
-**3\. Steering Wheel** A small steering wheel enables you to
-
-manoeuore a car easily by transferring a torque to the wheels with less effort.
+**3\. Steering Wheel** A small steering wheel enables you to manoeuore a car easily by transferring a torque to the wheels with less effort.
 
 ### Principle of Moments
 
-
 When a number of like or unlike parallel forces act on a rigid body and the body is in equilibrium, then the algebraic sum of the moments in the clockwise direction is equal to the algebraic sum of the moments in the anticlockwise direction. In other words, at
-
-10th\_Science\_Unit-1.indd 5 06-12-2021 17:28:47
-
-
-
-
-
-
-  
-
-6**10th Standard Science**
-
 equilibrium, the algebraic sum of the moments of all the individual forces about any point is equal to zero.
 
-clockwise moment
 
-anticlockwise momentF1
-
-_d_1 _d_2
-
-F2
 
 **Figure 1.5** Principle of moments
 
-P
-
 In the illustration given in figure 1.5, the force F1 produces an anticlockwise rotation at a distance d1 from the point of pivot P (called fulcrum) and the force F2 produces a clockwise rotation at a distance d2 from the point of pivot P. The principle of moments can be written as follows:
 
-Moment in clockwise direction
+Moment in clockwise direction \= Moment in anticlockwise direction
 
-\= Moment in anticlockwise direction
-
-F1 × d1 = F2 × d2 . . . . . . . . (1.4)
+F~1~ × d~1~ = F~2~ × d~2~ . . . . . . . . (1.4)
 
 ## NEWTON’S SECOND LAW OF MOTION
 
-
 According to this law, “**the force acting on a body is directly proportional to the rate of change of linear momentum of the body and the change in momentum takes place in the direction of the force**”.
 
-This law helps us to measure the amount of force. So, it is also called as ‘_law of force_’. Let, ‘m’ be the mass of a moving body, moving along a straight line with an initial speed ‘u’ After a time interval of ‘t’, the velocity of the body changes to ‘v’ due to the impact of an unbalanced external force F. Initial momentum of the body Pi = mu Final momentum of the body Pf = mv Change in momentum Δp = Pf –Pi = mv – mu By Newton’s second law of motion,
+This law helps us to measure the amount of force. So, it is also called as ‘*law of force*’. Let, ‘m’ be the mass of a moving body, moving along a straight line with an initial speed ‘u’ After a time interval of ‘t’, the velocity of the body changes to ‘v’ due to the impact of an unbalanced external force F. Initial momentum of the body Pi = mu Final momentum of the body Pf = mv Change in momentum Δp = Pf –Pi = mv – mu By Newton’s second law of motion,
 
 Force, F ∝ rate of change of momentum F ∝ change in momentum / time
 
@@ -380,50 +254,30 @@ Force is required to produce the acceleration of a body. In a uniform circular m
 
 **Definition of 1 dyne: The amount of force** required for a body of mass 1 gram produces an acceleration of 1 cm _s_–2, **1 dyne = 1 gcm_s_–2;** also **1 N = 105 dyne.**
 
-10th\_Science\_Unit-1.indd 6 06-12-2021 17:28:47
-
-
-
-
-
-
-  
-
-7 **Laws of motion**
-
 **Unit force:** The amount of force required to produce
+an acceleration of 1 m_s_–2 in a body of mass 1 kg is called ‘_unit force_’. 
 
-an acceleration of 1 m_s_–2 in a body of mass 1 kg is called ‘_unit force_’. **Gravitational unit of force:**
-
-In the SI system of units, gravitational unit of force is kilogram force, represented by kg f. In the CGS system its unit is gram force, represented by g f.
+**Gravitational unit of force:** In the SI system of units, gravitational unit of force is kilogram force, represented by kg f. In the CGS system its unit is gram force, represented by g f.
 
 **1 kgf = 1 kg × 9.8 m_s_\-2 = 9.8 N; 1 gf = 1 g × 980 cm_s_\-2 = 980 dyne**
 
 ## Impulse
 
-
 A large force acting for a very short interval of time is called as ‘**Impulsive force’**. When a force F acts on a body for a period of time t, then the product of force and time is known as ‘**impulse**’ represented by ‘J’
 
-Impulse, J = F × t (1.7) By Newton’s second law F = Δp / t (Δ refers to change) Δp = F × t (1.8) From 1.7 and 1.8 **J = Δp** Impulse is also equal to the magnitude of
-
-change in momentum. Its unit is kgm_s_–1 or Ns. Change in momentum can be achieved in
-
-two ways. They are: i. a large force acting for a short period of
-
+Impulse, J = F × t (1.7) By Newton’s second law F = Δp / t (Δ refers to change) Δp = F × t (1.8) From 1.7 and 1.8 **J = Δp** Impulse is also equal to the magnitude of change in momentum. Its unit is kgm_s_–1 or Ns. Change in momentum can be achieved in two ways. They are: i. a large force acting for a short period of
 time and ii. a smaller force acting for a longer period
-
 of time.
 
 **Examples:**
 
-� Automobiles are fitted with springs and shock absorbers to reduce jerks while moving on uneven roads.
+- Automobiles are fitted with springs and shock absorbers to reduce jerks while moving on uneven roads.
 
-� In cricket, a fielder pulls back his hands while catching the ball. He experiences a smaller force for a longer interval of time to catch the ball, resulting in a lesser impulse on his hands.
+- In cricket, a fielder pulls back his hands while catching the ball. He experiences a smaller force for a longer interval of time to catch the ball, resulting in a lesser impulse on his hands.
 
 **Figure 1.6** Example of impulsive force
 
 ## NEWTON’S THIRD LAW OF MOTION
-
 
 Newton’s third law states that **‘for every action, there is an equal and opposite reaction. They always act on two different bodies’.**
 
@@ -431,63 +285,17 @@ If a body A applies a force FA on a body B, then the body B reacts with force FB
 
 **Examples:**
 
-� When birds fly they push the air downwards with their wings (Action) and the air pushes the bird upwards (Reaction).
+- When birds fly they push the air downwards with their wings (Action) and the air pushes the bird upwards (Reaction).
 
-� When a person swims he pushes the water using the hands backwards (Action), and the water pushes the swimmer in the forward direction (Reaction).
+- When a person swims he pushes the water using the hands backwards (Action), and the water pushes the swimmer in the forward direction (Reaction).
 
-� When you fire a bullet, the gun recoils backward and the bullet is moving forward (Action) and the gun equalises this forward action by moving backward (Reaction).
+- When you fire a bullet, the gun recoils backward and the bullet is moving forward (Action) and the gun equalises this forward action by moving backward (Reaction).
 
 ## PRINCIPLE OF CONSERVATION OF LINEAR MOMENTUM
 
-
 There is no change in the linear momentum of a system of bodies as long as no net external force acts on them.
 
-10th\_Science\_Unit-1.indd 7 06-12-2021 17:28:48
-
-
-
-
-
-
-  
-
-8**10th Standard Science**
-
-filled with a fuel (either liquid or solid) in the propellant tank. When the rocket is fired, this fuel is burnt and a hot gas is ejected with a high speed from the nozzle of the rocket, producing a huge momentum. To balance this momentum, an equal and opposite reaction force is produced in the combustion chamber, which makes the rocket project forward.
-
-While in motion, the mass of the rocket gradually decreases, until the fuel is completely burnt out. Since, there is no net external force acting on it, the linear momentum of the system is conserved. The mass of the rocket decreases with altitude, which results in the gradual increase in velocity of the rocket. At one stage, it reaches a velocity, which is sufficient to just escape from the gravitational pull of the Earth. This velocity is called escape _velocity. (This topic will be discussed in detail_ in higher classes).
-
-## GRAVITATION
-
-
-### Newton’s universal law of gravitation
-
-
-This law states that **every particle of matter in this universe attracts every other particle with a force. This force is directly proportional to the product of their masses and inversely proportional to the square of the distance between the centers of these masses. The direction of the force acts along the line joining the masses**.
-
-Force between the masses is always attractive and it does not depend on the medium where they are placed.
-
-**Figure 1.8** Gravitational force between two masses
-
-_m_1 _m_2_F_1
-
-_r_
-
-_F_2
-
 Let us prove the law of conservation of linear momentum with the following illustration:
-
-**u1**
-
-**m1 A**
-
-**m2 m1 m2 m1 m2**
-
-**u2 v1 v2FA FB**
-
-**B A B A B**
-
-**Figure 1.7** Conservation of linear momentum
 
 **Proof:** Let two bodies A and B having masses
 
@@ -506,18 +314,23 @@ Hence the law of conservation linear momentum is proved.
 ## ROCKET PROPULSION
 
 
-Propulsion of rockets is based on the law of conservation of linear momentum as well as Newton’s III law of motion. Rockets are
+Propulsion of rockets is based on the law of conservation of linear momentum as well as Newton’s III law of motion. Rockets are filled with a fuel (either liquid or solid) in the propellant tank. When the rocket is fired, this fuel is burnt and a hot gas is ejected with a high speed from the nozzle of the rocket, producing a huge momentum. To balance this momentum, an equal and opposite reaction force is produced in the combustion chamber, which makes the rocket project forward.
 
-10th\_Science\_Unit-1.indd 8 06-12-2021 17:28:48
+While in motion, the mass of the rocket gradually decreases, until the fuel is completely burnt out. Since, there is no net external force acting on it, the linear momentum of the system is conserved. The mass of the rocket decreases with altitude, which results in the gradual increase in velocity of the rocket. At one stage, it reaches a velocity, which is sufficient to just escape from the gravitational pull of the Earth. This velocity is called escape velocity. (This topic will be discussed in detail_ in higher classes).
 
+## GRAVITATION
 
+### Newton’s universal law of gravitation
 
+This law states that **every particle of matter in this universe attracts every other particle with a force. This force is directly proportional to the product of their masses and inversely proportional to the square of the distance between the centers of these masses. The direction of the force acts along the line joining the masses**.
 
+Force between the masses is always attractive and it does not depend on the medium where they are placed.
 
+**Figure 1.8** Gravitational force between two masses
 
-  
+_
+**Figure 1.7** Conservation of linear momentum
 
-9 **Laws of motion**
 
 Let, m1 and m2 be the masses of two bodies A and B placed _r_ metre apart in space
 
@@ -557,13 +370,6 @@ R2
 
 **Figure 1.9** Relation between g and G Earth
 
-Object R
-
-F
-
-M
-
-m
 
 Here, the radius of the body considered is negligible when compared with the Earth’s radius. Now, the same force can be obtained from Newton’s second law of motion. According to this law, the force acting on the body is given by the product of its mass and acceleration (called as weight). Here, acceleration of the body is under the action of gravity hence a = g
 
@@ -586,23 +392,12 @@ Rearranging the equation (1.14), the mass of the Earth is obtained as follows: M
 
 (1.11)
 
-10th\_Science\_Unit-1.indd 9 06-12-2021 17:28:49
-
-
-
-
-
-
-
-
 | Fm |
 |------|------|------|------|
 | R |
+ 
 
 
-  
-
-10**10th Standard Science**
 
 ### Variation of acceleration due to gravity (g):
 
@@ -654,7 +449,7 @@ _W_ **Figure 1.10**
 
 A person in a moving lift
 
-10th\_Science\_Unit-1.indd 10 06-12-2021 17:28:49
+
 
 
 
@@ -663,7 +458,6 @@ A person in a moving lift
 
   
 
-11 **Laws of motion**
 
 **Table 1.2 Apparent weight of a person in a moving lift**
 
@@ -708,13 +502,6 @@ Astronauts are not floating but falling freely around the earth due to their hug
 
 **Figure 1.12** Weightlessness of astronauts
 
-10th\_Science\_Unit-1.indd 11 06-12-2021 17:28:49
-
-
-
-
-
-
 
 
 | Case 1: Li is moving upward with an acceleration 'a' |Case 2: Li is moving downward withan acceleration 'a' |Case 3: Li is at rest . |Case 4: Li is falling down freely |
@@ -724,7 +511,7 @@ Astronauts are not floating but falling freely around the earth due to their hug
 | Apparent weight  is greater  than the actual weight. |Apparent weight is lesser  than the actual weight. |Apparent weight is equalto the actual weight. |Apparent weight is equal to zero . |
   
 
-12**10th Standard Science**
+
 
 ### Application of Newton’s law of gravitation
 
@@ -741,25 +528,25 @@ of stars is called ‘Wobble’ lead to the disturbance in the motion of a plane
 
 **Points to Remember**
 
-� Mechanics is divided into statics and dynamics.
+- Mechanics is divided into statics and dynamics.
 
-� Ability of a body to maintain its state of rest or motion is called Inertia.
+- Ability of a body to maintain its state of rest or motion is called Inertia.
 
-� Moment of the couple is measured by the product of any one of the forces and the perpendicular distance between two forces.
+- Moment of the couple is measured by the product of any one of the forces and the perpendicular distance between two forces.
 
-� SI unit of force is newton (N). C.G.S unit is dyne.
+- SI unit of force is newton (N). C.G.S unit is dyne.
 
-� When a force F acts on a body for a period of time t, then the product of force and time is known as ‘impulse’.
+- When a force F acts on a body for a period of time t, then the product of force and time is known as ‘impulse’.
 
-� The unit of weight is newton or kg f � The weight of a body is more at the poles
+- The unit of weight is newton or kg f - The weight of a body is more at the poles
 
-than at the equatorial region. � Mass of a body is defined as the quantity of
+than at the equatorial region. - Mass of a body is defined as the quantity of
 
 matter contained in the object. Its SI unit is kilogram (kg).
 
-� Apparent weight is the weight of the body acquired due to the action of gravity and other external forces on the body.
+- Apparent weight is the weight of the body acquired due to the action of gravity and other external forces on the body.
 
-� Whenever a body or a person falls freely under the action of Earth’s gravitational force alone, it appears to have zero weight. This state is referred to as ‘weightlessness’.
+- Whenever a body or a person falls freely under the action of Earth’s gravitational force alone, it appears to have zero weight. This state is referred to as ‘weightlessness’.
 
 **SOLVED PROBLEMS Problem-1:** Calculate the velocity of a moving body of mass 5 kg whose linear momentum is 2.5 _kg_ _m_ _s_–1.
 
@@ -804,17 +591,6 @@ R 2
 or h = R. Rʹ = 2R
 
 From the centre of the Earth, the object is placed at twice the radius of the earth.
-
-10th\_Science\_Unit-1.indd 12 06-12-2021 17:28:49
-
-
-
-
-
-
-  
-
-13 **Laws of motion**
 
 **I. Choose the correct answer**
 
@@ -867,17 +643,6 @@ brake is applied in a moving vehicle. This can be explained by \_\_\_\_\_\_\_\_\
 4\. Turning a nut with a spanner having a short handle is so easy than one with a long handle.
 
 5\. There is no gravity in the orbiting space station around the Earth. So the astronauts feel weightlessness.
-
-10th\_Science\_Unit-1.indd 13 06-12-2021 17:28:49
-
-
-
-
-
-
-  
-
-14**10th Standard Science**
 
 **IV. Match the following**
 
@@ -951,7 +716,7 @@ derive its mathematical expression 7. Give the applications of universal law
 
 gravitation.
 
-10th\_Science\_Unit-1.indd 14 06-12-2021 17:28:49
+
 
 
 
@@ -960,7 +725,7 @@ gravitation.
 
   
 
-15 **Laws of motion**
+15 
 
 **IX. HOT Questions**
 
@@ -972,9 +737,9 @@ gravitation.
 
 **REFERENCE BOOKS**
 
-� Concept of physics-HC verma
+- Concept of physics-HC verma
 
-� Interactive physics(Newton’s law)MTG learning.
+- Interactive physics(Newton’s law)MTG learning.
 
 **INTERNET RESOURCES**
 
@@ -1022,7 +787,7 @@ Link: http://amrita.olabs.edu.in/?sub=1&brch=1&sim=44&cnt=4
 
 **Steps**
 
-10th\_Science\_Unit-1.indd 15 06-12-2021 17:28:50
+
 
 
 

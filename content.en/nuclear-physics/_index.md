@@ -37,7 +37,7 @@ After learning this unit, students will be able to
 
 ‹ Identify the precautionary measures while handling a radioactive material.
 
-10th\_Science\_Unit-6.indd 74 12/9/2021 12:57:25 PM
+
 
 
 
@@ -88,7 +88,7 @@ The phenomenon by which even light elements are made radioactive, by artificial 
 
 This kind of radioactivity was discovered by Irene Curie and F.Joliot in 1934. Artificial radioactivity is induced in certain lighter elements like boron, aluminium etc., by bombarding them with radiations such as 'alpha particles' emitted during the natural radioactivity of uranium. This also results in the emission of invisible radiations and elementary particles. During such a disintegration, the nucleus which undergoes disintegration is called 'parent nucleus' and that which is produced after the disintegration is called a 'daughter nucleus'. The particle, which
 
-10th\_Science\_Unit-6.indd 75 12/9/2021 12:57:26 PM
+
 
 
 
@@ -97,7 +97,7 @@ This kind of radioactivity was discovered by Irene Curie and F.Joliot in 1934. A
 
   
 
-76**10th Standard Science**
+
 
 is used to induce the artificial disintegration is termed as projectile and the particle which is produced after the disintegration is termed as ejected particle. When the projectile hits the parent nucleus, it is converted into an unstable nucleus, which in turn decays spontaneously emitting the daughter nucleus along with an ejected particle.
 
@@ -154,7 +154,7 @@ Exhibited by elements with atomic number less than 83.
 
 5 This cannot be controlled. This can be controlled.
 
-10th\_Science\_Unit-6.indd 76 12/9/2021 12:57:26 PM
+
 
 
 
@@ -245,7 +245,7 @@ Their speed can go up to 9/10 times the speed of light.
 
 They travel with the speed of light.
 
-10th\_Science\_Unit-6.indd 77 12/9/2021 12:57:26 PM
+
 
 
 
@@ -264,7 +264,7 @@ They travel with the speed of light.
 | Speed |eir speed ranges from 1/10 to 1/20 times the speed of light. |eir speed can go up to 9/10 times the speed of light. |ey travel with the speed of light. |
   
 
-78**10th Standard Science**
+
 
 ### Alpha decay
 
@@ -326,7 +326,7 @@ nuclear fission when they absorb a neutron. For example, natural uranium consist
 
 U235. Of these two, U238 does not undergo fission
 
-10th\_Science\_Unit-6.indd 78 12/9/2021 12:57:26 PM
+
 
 
 
@@ -389,7 +389,7 @@ In the controlled chain reaction the number of neutrons released is maintained t
 
 In the uncontrolled chain reaction the number of neutrons multiplies indefinitely and causes fission in a large amount of the fissile
 
-10th\_Science\_Unit-6.indd 79 12/9/2021 12:57:26 PM
+
 
 
 
@@ -398,7 +398,7 @@ In the uncontrolled chain reaction the number of neutrons multiplies indefinitel
 
   
 
-80**10th Standard Science**
+
 
 ### Atom bomb
 
@@ -453,7 +453,7 @@ electron when it is accelerated using an electric potential of one volt.
 
 The energy released in a nuclear fission process is about 200 MeV.
 
-10th\_Science\_Unit-6.indd 80 12/9/2021 12:57:26 PM
+
 
 
 
@@ -495,7 +495,7 @@ Fusion reaction that takes place in the cores of the Sun and other stars results
 
 Hydrogen bomb is based on the principle of nuclear fusion. A hydrogen bomb is always designed to have an inbuilt atom bomb which creates the high temperature and pressure required for fusion when it explodes. Then, fusion takes place in the hydrogen core and leads to the release of a very large amount of energy in an uncontrolled manner. The energy released in a hydrogen bomb (or fusion bomb) is much higher than that released in an atom bomb (or fission bomb).
 
-10th\_Science\_Unit-6.indd 81 12/9/2021 12:57:27 PM
+
 
 
 
@@ -504,7 +504,7 @@ Hydrogen bomb is based on the principle of nuclear fusion. A hydrogen bomb is al
 
   
 
-82**10th Standard Science**
+
 
 Sun fuses about 620 million metric tons of hydrogen each second and radiates about
 
@@ -557,7 +557,7 @@ Fission leads to emission of gamma radiation. This triggers the mutation in the 
 
 Only light and heat energy is emitted.
 
-10th\_Science\_Unit-6.indd 82 12/9/2021 12:57:27 PM
+
 
 
 
@@ -616,7 +616,7 @@ The International Commission on Radiological Protection (ICRP) has recommended c
 
 used in the environments where exposure to radiation may occur such as nuclear power plants and medical imaging facilities. Pocket dosimeter is used to provide the wearer with an immediate reading of his/her exposure to X-rays and γ rays.
 
-10th\_Science\_Unit-6.indd 83 12/9/2021 12:57:27 PM
+
 
 
 
@@ -625,7 +625,7 @@ used in the environments where exposure to radiation may occur such as nuclear p
 
   
 
-84**10th Standard Science**
+
 
 ### Preventive measures
 
@@ -687,7 +687,7 @@ fissionable materials into fissionable materials.
 
 Indian Atomic Energy Commission (AEC) was established in August 1948 by the
 
-10th\_Science\_Unit-6.indd 84 12/9/2021 12:57:28 PM
+
 
 
 
@@ -780,7 +780,7 @@ substance, which undergoes 3.7 × 1010 disintegrations in one second. This is ac
 
 1 3.7 × 1010
 
-10th\_Science\_Unit-6.indd 85 12/9/2021 12:57:28 PM
+
 
 
 
@@ -789,7 +789,7 @@ substance, which undergoes 3.7 × 1010 disintegrations in one second. This is ac
 
   
 
-86**10th Standard Science**
+
 
 ™ **Rutherford (Rd)** is defined as the quantity of a radioactive substance which produces 106 disintegrations in one second. 1 Rd = 106 disintegrations per second. ™ The SI unit of
 
@@ -837,7 +837,7 @@ a. Bequerel b. Irene Curie c. Roentgen d. Neils Bohr
 
 5\. \_\_\_\_\_\_\_\_\_\_\_\_ isotope is used for the treatment of cancer.
 
-10th\_Science\_Unit-6.indd 86 12/9/2021 12:57:28 PM
+
 
 
 
@@ -944,7 +944,7 @@ ii. The chain reaction in a nuclear reactor is controlled
 
 iii. The chain reaction in a nuclear reactor is not controlled
 
-10th\_Science\_Unit-6.indd 87 12/9/2021 12:57:28 PM
+
 
 
 
@@ -953,7 +953,7 @@ iii. The chain reaction in a nuclear reactor is not controlled
 
   
 
-88**10th Standard Science**
+
 
 **IV. Match the following Match: I** a. BARC Kalpakkam b. India’s first atomic power Apsara
 
@@ -1015,7 +1015,7 @@ reaction d. Fusion reaction Atom bomb
 
 **Reason**: In a nuclear fusion, the nuclei of the reactants combine releasing high energy.
 
-10th\_Science\_Unit-6.indd 88 12/9/2021 12:57:28 PM
+
 
 
 
@@ -1096,7 +1096,7 @@ field of agriculture?
 
 2\. http://www.newworldencyclopedia.org/ entry/Nuclear\_physics
 
-10th\_Science\_Unit-6.indd 89 12/9/2021 12:57:28 PM
+
 
 
 
@@ -1105,7 +1105,7 @@ field of agriculture?
 
   
 
-90**10th Standard Science**
+
 
 **Cells alive** URL: https://play.google.com/store/apps/details?id=com.CowboyBebop. AtomPhys&hl=en or Scan the QR Code.
 
@@ -1127,7 +1127,7 @@ field of agriculture?
 
 **Nuclear decays.**
 
-10th\_Science\_Unit-6.indd 90 12/9/2021 12:57:29 PM
+
 
 
 

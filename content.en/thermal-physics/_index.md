@@ -29,7 +29,7 @@ The temperature measured in relation to absolute zero using the kelvin scale is 
 
 At the end of this lesson, students will be able to ‹ Understand the concept of heat and temperature ‹ Know the absolute scale of temperature ‹ Understand the thermal energy and the thermal equilibrium ‹ Classification of expansion of substances ‹ Know the fundamental laws of gases ‹ Distinguish between real gas and ideal gas ‹ Derive the ideal gas equation ‹ Solve the numerical problems
 
-10th\_Science\_Unit-3.indd 32 06-12-2021 18:27:54
+
 
 
 
@@ -79,7 +79,7 @@ During the process of transferring heat energy, the body at lower temperature is
 
 **_Heat gained = Heat lost_**
 
-10th\_Science\_Unit-3.indd 33 06-12-2021 18:27:55
+
 
 
 
@@ -88,7 +88,7 @@ During the process of transferring heat energy, the body at lower temperature is
 
   
 
-34**10th Standard Science**
+
 
 ### Other units of Heat energy
 
@@ -143,7 +143,7 @@ Lo - Original length
 
 αL - Coefficient of linear expansion.
 
-10th\_Science\_Unit-3.indd 34 06-12-2021 18:27:55
+
 
 
 
@@ -216,7 +216,7 @@ Different materials possess different coefficient of cubical expansion. Table 3.
 
 gain energy and are forced further apart. The extent of expansion varies from substance to substance. For a given rise in temperature, a liquid will have more expansion than a solid and a gaseous substance has the highest expansion when compared with the other two. The coefficient of cubical expansion of liquid is independent of temperature whereas its value for gases depends on the temperature of gases.
 
-10th\_Science\_Unit-3.indd 35 06-12-2021 18:27:55
+
 
 
 
@@ -234,7 +234,7 @@ gain energy and are forced further apart. The extent of expansion varies from su
 | 5 |Mercur y |18.2 × 10–5 |
   
 
-36**10th Standard Science**
+
 
 When a liquid is heated, it is done by keeping the liquid in some container and supplying heat energy to the liquid through the container. The thermal energy supplied will be partly used in expanding the container and partly used in expanding the liquid. Thus, what we observe may not be the actual or real expansion of the liquid. Hence, for liquids, we can define real expansion and apparent expansion.
 
@@ -277,7 +277,7 @@ _When the temperature of a gas is kept constant, the volume of a fixed mass of g
 
 P α 1/V
 
-10th\_Science\_Unit-3.indd 36 06-12-2021 18:27:55
+
 
 
 
@@ -344,7 +344,7 @@ The ideal gas equation is an equation, which relates all the properties of an id
 
 _PV = constant (3.1)_
 
-10th\_Science\_Unit-3.indd 37 06-12-2021 18:27:55
+
 
 
 
@@ -353,7 +353,7 @@ _PV = constant (3.1)_
 
   
 
-38**10th Standard Science**
+
 
 According to Charles’s law,
 
@@ -419,7 +419,7 @@ of state is PV = RT. Here, R is known as universal gas constant whose value is 8
 
 A container whose capacity is 70 ml is filled with a liquid up to 50 ml. Then, the liquid in the container is heated. Initially, the level of the liquid falls from 50 ml to 48.5 ml. Then we heat more, the level of the liquid rises to 51.2 ml. Find the apparent and real expansion.
 
-10th\_Science\_Unit-3.indd 38 06-12-2021 18:27:55
+
 
 
 
@@ -498,7 +498,7 @@ required to raise the temperature of \_\_\_\_\_\_\_ of water through\_\_\_\_\_\_
 
 1\. For a given heat in liquid, the apparent expansion is more than that of real expansion.
 
-10th\_Science\_Unit-3.indd 39 06-12-2021 18:27:55
+
 
 
 
@@ -507,7 +507,7 @@ required to raise the temperature of \_\_\_\_\_\_\_ of water through\_\_\_\_\_\_
 
   
 
-40**10th Standard Science**
+
 
 2\. Thermal energy always flows from a system at higher temperature to a system at lower temperature.
 
@@ -585,7 +585,7 @@ If you keep ice at 0° C and water at 0° C in either of your hands, in which ha
 
 http://aplusphysics.com/courses/honors/ thermo/thermal\_physics.html
 
-10th\_Science\_Unit-3.indd 40 06-12-2021 18:27:55
+
 
 
 
@@ -610,7 +610,7 @@ http://aplusphysics.com/courses/honors/ thermo/thermal\_physics.html
 
 **In this activity you will be able to verify pressure is proportional to reciprocal of volume (Boyle’s law).**
 
-10th\_Science\_Unit-3.indd 41 06-12-2021 18:27:56
+
 
 
 

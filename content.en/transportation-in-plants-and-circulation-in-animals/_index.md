@@ -121,7 +121,7 @@ Root cap
 
   
 
-202**10th Standard Science**
+
 
 ## Pathway of Water Absorbed by Roots
 
@@ -272,7 +272,7 @@ The mechanism of translocation of sugars from source to sink is through pressure
 
   
 
-204**10th Standard Science**
+
 
 photosynthesis) is converted to sucrose. Sucrose moves into the companion cells, then into the living phloem sieve tube cells by active transport. This process produces a hypertonic condition in the phloem. Water in the adjacent xylem moves into the phloem by osmosis. As osmotic pressure builds up, the phloem sap moves to areas of lower pressure. By active transport sucrose moves into the cells where it is utilised or stored. As sugars are removed, the osmotic pressure decreases and water moves out of the phloem.
 
@@ -392,7 +392,7 @@ these cells. The agranulocytes are of two types: (i) Lymphocytes (ii) Monocytes
 
   
 
-206**10th Standard Science**
+
 
 **_(i) Lymphocytes_** These are about 20-25% of the total leucocytes.
 
@@ -556,7 +556,7 @@ Arteriole Venule
 
   
 
-208**10th Standard Science**
+
 
 arises the **pulmonary trunk** which bifurcates to form right and left pulmonary arteries. The right and left pulmonary arteries supply deoxygenated **blood to the lungs of the respective side. The left** ventricle is longer and narrower than the right ventricle. The walls are about three times thicker than the right ventricle. The left ventricle gives rise to aorta. The oxygenated blood is supplied by the aorta to various organs of the body. The **coronary arteries** supply blood to the heart.
 
@@ -654,7 +654,7 @@ Atrioventricular bundle was discovered by His (1893). So is called Bundle of His
 
   
 
-210**10th Standard Science**
+
 
 **Activity 3**
 
@@ -770,7 +770,7 @@ The concept of blood grouping was developed by **Karl Landsteiner** (1900). He i
 
   
 
-212**10th Standard Science**
+
 
 persons do not have Rh antigen on the surface of RBC. Antibodies developed against this Rh antigen is called **Rh antibodies.**
 
@@ -906,7 +906,7 @@ a) O group b) AB group c) A or B group d) all blood group
 
   
 
-214**10th Standard Science**
+
 
 9\. **‘Heart of heart’** is called
 
@@ -1068,7 +1068,7 @@ water, they swell up. Name and define the phenomenon involved in this change.
 
   
 
-216**10th Standard Science**
+
 
 **REFERENCE BOOKS**
 

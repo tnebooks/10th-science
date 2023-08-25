@@ -23,10 +23,10 @@ By touching a ringing bell or a musical instrument while it is producing music, 
 
 5 ACOUSTICS
 
-10th\_Science\_Unit-5.indd 59 
 
 
-60**10th Standard Science**
+
+
 
 Suppose you and your friend are on the Moon. Will you be able to hear any sound produced by your friend? As the Moon does not have air, you will not be able to hear any sound produced by your friend. Hence, you understand that the sound produced due to the vibration of different bodies needs a material medium like air, water, steel, etc, for its propagation. Hence, sound can propagate through a gaseous medium or a liquid medium or a solid medium.
 
@@ -76,7 +76,7 @@ Light waves travel in air with a speed of 3 × 108 ms–1.
 
 When you talk about the velocity associated with any wave, there are two velocities, namely particle velocity and wave velocity. SI unit of velocity is ms-1
 
-10th\_Science\_Unit-5.indd 60 06-12-2021 18:30:27
+
 
 
 
@@ -151,7 +151,7 @@ Speed of sound waves in different media are given in table 5.1.
 
 sound in air be double the velocity of sound in air at 0o C?
 
-10th\_Science\_Unit-5.indd 61 06-12-2021 18:30:27
+
 
 
 
@@ -172,7 +172,7 @@ sound in air be double the velocity of sound in air at 0o C?
 | 8 |Air (a t 20  C)o |343 |
   
 
-62**10th Standard Science**
+
 
 **Solution**: Let To C be the required temperature. Let v1
 
@@ -222,7 +222,7 @@ In the above Figure 5.4, the sound waves that travel towards the reflecting surf
 
 A perpendicular line drawn at the point of incidence is called the normal. The angle which the incident sound wave makes with the normal is called the angle of incidence, ‘i’. The angle which the reflected wave makes with the normal is called the angle of reflection, ‘r’.
 
-10th\_Science\_Unit-5.indd 62 06-12-2021 18:30:27
+
 
 
 
@@ -263,7 +263,7 @@ What is meant by rarer and denser medium? The medium in which the velocity of so
 
 When sound waves are reflected from a plane surface, the reflected waves travel in a direction, according to the law of reflection. The intensity of the reflected wave is neither decreased nor increased. But, when the sound waves are reflected from the curved surfaces, the intensity of the reflected waves is changed. When reflected from a convex surface, the reflected waves are diverged out and the intensity is decreased. When sound is reflected from a concave surface, the reflected waves are converged and focused at a point. So the intensity of reflected waves is concentrated at a point. Parabolic surfaces are used when it is required to focus the sound at a particular point. Hence, many halls are designed with parabolic reflecting surfaces. In elliptical surfaces, sound from one focus will always be reflected to the other focus, no matter where it strikes the wall.
 
-10th\_Science\_Unit-5.indd 63 06-12-2021 18:30:27
+
 
 
 
@@ -272,7 +272,7 @@ When sound waves are reflected from a plane surface, the reflected waves travel 
 
   
 
-64**10th Standard Science**
+
 
 This principle is used in designing whispering halls. In a whispering hall, the speech of a person standing in one focus can be heard clearly by a listener standing at the other focus.
 
@@ -340,7 +340,7 @@ Thus the minimum distance required to hear an echo is 1/20th part of the magnitu
 
 tape, a sound receiver, and a stop watch.
 
-10th\_Science\_Unit-5.indd 64 06-12-2021 18:30:27
+
 
 
 
@@ -400,7 +400,7 @@ The whistle of a fast moving train appears to increase in pitch as it approaches
 
 (ii) The source moves towards or away from a stationary listener
 
-10th\_Science\_Unit-5.indd 65 06-12-2021 18:30:27
+
 
 
 
@@ -409,7 +409,7 @@ The whistle of a fast moving train appears to increase in pitch as it approaches
 
   
 
-66**10th Standard Science**
+
 
 (iii) Both source and listener move towards or away from one other
 
@@ -495,7 +495,7 @@ v − vs
 
 Here, v is the velocity of sound waves in the given medium. Let us consider different possibilities of motions of the source and the listener. In all such cases, the expression for the apparent frequency is given in table 5.2.
 
-10th\_Science\_Unit-5.indd 66 06-12-2021 18:30:27
+
 
 
 
@@ -623,7 +623,7 @@ _\=_ × 90 = 100 Hz 10
 
 2\. A source producing a sound of frequency 500 Hz is moving towards a listener with a velocity of 30 ms–1. The speed of the sound is 330 ms–1. What will be the frequency heard by listener?
 
-10th\_Science\_Unit-5.indd 67 06-12-2021 18:30:27
+
 
 
 
@@ -640,7 +640,7 @@ _\=_ × 90 = 100 Hz 10
 | 8 |Listener a t restS ource m oves a wayf rom t he li stener |a) Distance b et ween s ource a ndlistener in creases.b) Apparent f requen c y i s les s t hanac tual f requen c y.c) v  = 0 in c ase-2.L |vn'  = nv + vs |
   
 
-68**10th Standard Science**
+
 
 **Solution:** When the source is moving towards the stationary listener, the expression for apparent frequency is
 
@@ -722,7 +722,7 @@ _n_ 2
 
 **_Vs = V_**
 
-10th\_Science\_Unit-5.indd 68 06-12-2021 18:30:28
+
 
 
 
@@ -787,7 +787,7 @@ An echo is the sound reproduced due to the reflection of the original sound wave
 
 **“The apparent frequency” is the frequency** of the sound as heard by the listener.
 
-10th\_Science\_Unit-5.indd 69 06-12-2021 18:30:28
+
 
 
 
@@ -796,7 +796,7 @@ An echo is the sound reproduced due to the reflection of the original sound wave
 
   
 
-70**10th Standard Science**
+
 
 **TEXTBOOK EVALUATION**
 
@@ -860,7 +860,7 @@ liquids.
 
 region - (d) Ultrasonography
 
-10th\_Science\_Unit-5.indd 70 06-12-2021 18:30:28
+
 
 
 
@@ -931,7 +931,7 @@ day than on a dry day?
 
 7\. A strong sound signal is sent from a ship towards the bottom of the sea. It is received back after 1s.What is the depth of sea given that the speed of sound in water 1450 ms–1?
 
-10th\_Science\_Unit-5.indd 71 06-12-2021 18:30:28
+
 
 
 
@@ -940,7 +940,7 @@ day than on a dry day?
 
   
 
-72**10th Standard Science**
+
 
 **IX. Answer in Detail** 1\. What are the factors that affect the speed
 
@@ -988,7 +988,7 @@ object, an echo is produced. Let the distance between the reflecting surface and
 
 1\. http://people.bath.ac.uk/ensmjc/Notes/ acoustics.pdf
 
-10th\_Science\_Unit-5.indd 72 06-12-2021 18:30:28
+
 
 
 
@@ -1065,7 +1065,7 @@ Infrasonics
 
 CONCEPT MAP**Concept Map**
 
-10th\_Science\_Unit-5.indd 73 06-12-2021 18:30:28
+
 
 
 

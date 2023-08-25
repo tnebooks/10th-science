@@ -29,7 +29,7 @@ Heredity is transmission of characters, from one generation to the next generati
 
   
 
-262**10th Standard Science**
+
 
 at the age of 18, he entered the Augustinian Monastery at Brunn as a priest. From there he went to the University of Vienna for training in physics, mathematics and natural science. Mendel returned to the monastery in 1854 and continued to work as a priest and teach in high school. In his leisure time he started his famous experiments on the garden pea plant. He conducted his experiments in the monastery for about nine years from 1856 to 1865. He had worked on nearly 10000 pea plants of 34 different varieties. Mendel noted that they differ from one another in many ways.
 
@@ -214,7 +214,7 @@ Punnett square is a checker board form devised by a British geneticist R.C.Punne
 | Phenotype |Tall : Dwarf 3 : 1 |
   
 
-264**10th Standard Science**
+
 
 **round yellow**, **round-green**, **wrinkled yellow** and wrinkled-green seeds.
 
@@ -374,7 +374,7 @@ sequences of nucleotides found in chromosomes. As a cell divides every time, the
 
   
 
-266**10th Standard Science**
+
 
 ### Types of Chromosomes based on the position of Centromere
 
@@ -489,7 +489,7 @@ hydrogen bonds (A = T)
 
   
 
-268**10th Standard Science**
+
 
 ### DNA Replication
  DNA replication is one of the basic process
@@ -598,7 +598,7 @@ or **number of chromosomes** is called chromosomal mutation. This may result in
 
   
 
-270**10th Standard Science**
+
 
 **Figure 18.10** Euploidy
 
@@ -726,7 +726,7 @@ elongated knob-like appendages known as telomere.
 
   
 
-272**10th Standard Science**
+
 
 **IV. Match the following**
 

@@ -104,7 +104,7 @@ Click the green flag at the top right corner of the stage to run your program.
 
   
 
-332**10th Standard Science**
+
 
 **Adding Sound** 1\. Click Sprite1 in the sprite list and click the
 

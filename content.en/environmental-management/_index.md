@@ -48,7 +48,7 @@ At the end of this lesson the students will be able to:
 
   
 
-316**10th Standard Science**
+
 
 management of nature and its resources is termed as **conservation**.
 
@@ -167,7 +167,7 @@ in Tamil Nadu was the first Indian woman to strike an International reputation a
 
   
 
-318**10th Standard Science**
+
 
 **Info bits Wildlife Conservation Initiatives In India.** � Project Tiger and Project Elephant
 
@@ -288,7 +288,7 @@ to provide power. The various devices used for harnessing sun’s energy are cal
 
   
 
-320**10th Standard Science**
+
 
 **Solar Cells** Solar cells (Photovoltaic devices) is made
 
@@ -414,7 +414,7 @@ The electrical energy is derived from water flow, water falling from a height. H
 
   
 
-322**10th Standard Science**
+
 
 **Hydropower plants** converts the kinetic energy of flowing water into electricity. This is called hydroelectricity.
 
@@ -534,7 +534,7 @@ Computer components - 66% Telecommunication components - 12 % Electronic compone
 
   
 
-324**10th Standard Science**
+
 
 Electronic equipments contain many hazardous heavy metals such as lead, cadmium that can cause severe soil and groundwater pollution.
 
@@ -642,7 +642,7 @@ rain water for future purpose is known as rainwater harvesting.
 
   
 
-326**10th Standard Science**
+
 
 **TEXTBOOK EVALUATION**
 
@@ -774,7 +774,7 @@ by degradation of biomass, yet we need to conserve them. Why?
 
   
 
-328**10th Standard Science**
+
 
 **REFERENCE BOOKS**
 

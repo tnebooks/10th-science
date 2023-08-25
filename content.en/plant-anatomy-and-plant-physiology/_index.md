@@ -38,7 +38,7 @@ stem, leaf. ‹‹ Name the different pigments found in chloroplast. ‹‹ Elab
 
 PLANT ANATOMY AND PLANT PHYSIOLOGY
 
-10th\_Science\_Unit-12.indd 173 06-12-2021 18:39:20
+
 
 
 
@@ -47,7 +47,7 @@ PLANT ANATOMY AND PLANT PHYSIOLOGY
 
   
 
-174**10th Standard Science**
+
 
 Cuticle is present on the outer wall of epidermis to check evaporation of water. Trichomes and root hairs are the epidermal outgrowths.
 
@@ -115,7 +115,7 @@ Vascular Tissue System Vascular tissues - Xylem tissue - Phloem tissue
 
 • Transport of food
 
-10th\_Science\_Unit-12.indd 174 06-12-2021 18:39:20
+
 
 
 
@@ -187,7 +187,7 @@ Inner Phloem
 
 **Conjoint, Bicollateral Concentric and Amphicribral Concentric and Amphivasal**
 
-10th\_Science\_Unit-12.indd 175 06-12-2021 18:39:20
+
 
 
 
@@ -196,7 +196,7 @@ Inner Phloem
 
   
 
-176**10th Standard Science**
+
 
 **ii. Cortex:** It is multilayered large zone, composed of parenchymatous cells with intercellular spaces. It stores water and food material.
 
@@ -279,7 +279,7 @@ Pith
 
 Cortex
 
-10th\_Science\_Unit-12.indd 176 06-12-2021 18:39:21
+
 
 
 
@@ -373,7 +373,7 @@ Pith
 
 **A sector enlarged Figure 12.4** Transverse section of Dicot stem
 
-10th\_Science\_Unit-12.indd 177 06-12-2021 18:39:21
+
 
 
 
@@ -391,7 +391,7 @@ Pith
 | 5 |Conjunctive TissueEx. |ParenchymaBean |SclerenchymaMaize |
   
 
-178**10th Standard Science**
+
 
 and extending to the centre is called **ground tissue. It is not differentiated into** endodermis, cortex, pericycle and pith.
 
@@ -454,7 +454,7 @@ Epidermis
 
 **(i) Upper epidermis: This is the outermost layer** made of single layered parenchymatous cells without intercellular spaces. The outer wall of the cells are cuticularized. Stomata are less in number.
 
-10th\_Science\_Unit-12.indd 178 06-12-2021 18:39:22
+
 
 
 
@@ -520,7 +520,7 @@ The transverse section of a monocot leaf reveals the following structures.
 
 **(iii) Vascular bundles:** Large number of vascular bundles are present, some of which are small and some are large.
 
-10th\_Science\_Unit-12.indd 179 06-12-2021 18:39:22
+
 
 
 
@@ -529,7 +529,7 @@ The transverse section of a monocot leaf reveals the following structures.
 
   
 
-180**10th Standard Science**
+
 
 ### Structure of Chloroplast
 
@@ -600,7 +600,7 @@ Chloroplast - green coloured plastids Chromoplast - yellow, red, orange coloured
 
 plastids Leucoplast - colourless plastids
 
-10th\_Science\_Unit-12.indd 180 06-12-2021 18:39:22
+
 
 
 
@@ -670,7 +670,7 @@ released from glucose is used to make ATP (Adenosine Triphosphate)
 
 Dark reaction or biosynthetic pathway is takes place in **stroma**. During this reaction CO2 is reduced into carbohydrates with the help of light generated ATP and NADPH2. This is also called as **Calvin cycle** and is carried out in the absence of light. It is called dark reaction.
 
-10th\_Science\_Unit-12.indd 181 06-12-2021 18:39:23
+
 
 
 
@@ -686,7 +686,7 @@ Dark reaction or biosynthetic pathway is takes place in **stroma**. During this 
 | NADP |Nicotinamide Adenine Dinucleotide Phosphate |
   
 
-182**10th Standard Science**
+
 
 In Calvin cycle the inputs are CO2 from the atmosphere and the ATP and NADPH2 produced from light reaction.
 
@@ -723,7 +723,7 @@ Oxysome
 
 Inner mitochondrial membrane is semi permeable membrane and regulates the passage of materials into and out of the mitochondria. It is rich in enzymes and carrier proteins. It consists of 80% proteins and lipids.
 
-10th\_Science\_Unit-12.indd 182 06-12-2021 18:39:23
+
 
 
 
@@ -803,7 +803,7 @@ C6H12O6 + 6O**2** → 6CO2 + 6H2O + ATP
 
 **c. Electron Transport Chain: This is** accomplished through a system of electron carrier complex called **electron transport chain** (ETC) located on the inner membrane of the mitochondria. NADH2 and FADH2 molecules formed during glycolysis and Krebs cycle are oxidised to NAD+ and FAD+ to release the energy via electrons. The electrons, as they move through the system, release energy which is trapped by ADP to synthesize ATP. This is called **oxidative phosphorylation**. In this
 
-10th\_Science\_Unit-12.indd 183 06-12-2021 18:39:23
+
 
 
 
@@ -812,7 +812,7 @@ C6H12O6 + 6O**2** → 6CO2 + 6H2O + ATP
 
   
 
-184**10th Standard Science**
+
 
 process, O2 the ultimate acceptor of electrons gets reduced to water.
 
@@ -868,7 +868,7 @@ called \_\_\_\_\_\_\_\_\_\_\_\_. 2. Xylem and phloem are arranged in an
 
 alternate radii constitute a vascular bundle called \_\_\_\_\_\_\_\_\_\_\_\_.
 
-10th\_Science\_Unit-12.indd 184 06-12-2021 18:39:23
+
 
 
 
@@ -949,7 +949,7 @@ of photosynthesis recycles many of its own reactions and identify the recycled r
 
 www.science daily.com www.britannica.com
 
-10th\_Science\_Unit-12.indd 185 06-12-2021 18:39:23
+
 
 
 
@@ -958,7 +958,7 @@ www.science daily.com www.britannica.com
 
   
 
-186**10th Standard Science**
+
 
 **Concept Map**
 
@@ -1022,7 +1022,7 @@ Aecting factors
 
 • Explore and complete the other levels gradually.
 
-10th\_Science\_Unit-12.indd 186 06-12-2021 18:39:25
+
 
 
 

@@ -40,7 +40,7 @@ STRUCTURAL ORGANISATION OF ANIMALS13
 
   
 
-188**10th Standard Science**
+
 
 ## The Indian Cattle Leech (_Hirudinaria granulosa_)
 
@@ -186,7 +186,7 @@ The last chamber of crop opens into stomach. The stomach leads into intestine wh
 | Posterior sucker |27  - 33th rd |
   
 
-190**10th Standard Science**
+
 
 **Food, Feeding and Digestion** The leech feeds by sucking the blood of
 
@@ -325,7 +325,7 @@ The ova are budded off from the ovary. From each ovary runs a short oviduct. The
 
   
 
-192**10th Standard Science**
+
 
 **Development** (i) Internal fertilization takes place. This is
 
@@ -496,7 +496,7 @@ Lungs and heart lie in the thoracic cavity, whereas, abdominal cavity encloses d
 
   
 
-194**10th Standard Science**
+
 
 ### Digestive System
 
@@ -632,7 +632,7 @@ CNS consists of brain and spinal cord. PNS is formed of 12 pairs of cranial nerv
 
   
 
-196**10th Standard Science**
+
 
 Brain is situated in the cranial cavity and covered by three membranes called an outer **duramater**, an inner **piamater** and a middle arachnoid membrane. The brain is divided into **forebrain** (prosencephalon), **midbrain** (mesencephalon) and **hindbrain** (rhombencephalon).
 
@@ -764,7 +764,7 @@ c) Reproductive system d) Respiratory system
 
   
 
-198**10th Standard Science**
+
 
 7\. The animals which give birth to young ones are a) Oviparous b) Viviparous c) Ovoviviparous d) All the above
 

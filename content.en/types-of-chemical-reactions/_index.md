@@ -26,7 +26,7 @@ of aqueous solutions. ‹ recognize the importance of pH in everyday life. ‹ e
 
 10 TYPES OF CHEMICAL REACTIONS
 
-10th\_Science\_Unit-10.indd 137 12/9/2021 1:03:08 PM
+
 
 
 
@@ -35,7 +35,7 @@ of aqueous solutions. ‹ recognize the importance of pH in everyday life. ‹ e
 
   
 
-138**10th Standard Science**
+
 
 equal in the given equation. On balancing the number of atoms, the following equation can be obtained:
 
@@ -83,7 +83,7 @@ The phases or the physical state of the substances in a chemical reaction are de
 
 **s** Solid **l** Liquid **g** Gas **aq** Aqueous Solution
 
-10th\_Science\_Unit-10.indd 138 12/9/2021 1:03:08 PM
+
 
 
 
@@ -147,7 +147,7 @@ SiO2(s) + CaO(s) → CaSiO3(s)
 
 Most of the combination reactions are exothermic in nature. Because, they involve the formation of new bonds, which releases a huge amount of energy in the form of heat.
 
-10th\_Science\_Unit-10.indd 139 12/9/2021 1:03:08 PM
+
 
 
 
@@ -156,7 +156,7 @@ Most of the combination reactions are exothermic in nature. Because, they involv
 
   
 
-140**10th Standard Science**
+
 
 **(b) Decomposition reactions** In a decomposition reaction, a single
 
@@ -212,7 +212,7 @@ Electricity
 
 Light
 
-10th\_Science\_Unit-10.indd 140 12/9/2021 1:03:09 PM
+
 
 
 
@@ -263,7 +263,7 @@ By referring the activity series, try to answer the following questions:
 
 Which of the metals displaces hydrogen gas from hydrochloric acid? Silver or Zinc. Give the chemical equation of the reaction and Justify your answer.
 
-10th\_Science\_Unit-10.indd 141 12/9/2021 1:03:09 PM
+
 
 
 
@@ -272,7 +272,7 @@ Which of the metals displaces hydrogen gas from hydrochloric acid? Silver or Zin
 
   
 
-142**10th Standard Science**
+
 
 **Activity 10.1**
 
@@ -334,7 +334,7 @@ Elements or compounds may be the reactants
 
 Single compound is the reactant
 
-10th\_Science\_Unit-10.indd 142 12/9/2021 1:03:09 PM
+
 
 
 
@@ -387,7 +387,7 @@ Many thousands of reactions fall under these five categories and further you wil
 
 You know that innumerable changes occur every day around us. Are all they permanent? For example, liquid water freezes into ice, but then ice melts into liquid water. In other words, freezing is reversed. So, it is not a permanent change. Moreover, it is a physical change. Physical changes can be reversed easily. Can chemical changes be reversed? Can the products be converted into reactants? Let us consider the burning of a wood. The carbon compounds present in the wood are burnt into carbon dioxide gas and water. Can we get back the wood immediately from carbon dioxide and water? We cannot. So, it is a permanent change. In most of the cases, we cannot. But, some chemical reactions can be reversed. Our mobile phone gets energy from its lithium ion battery by chemical reactions. It is called discharging. On recharging the mobile, these chemical reactions are reversed. Thus, chemical reactions may be reversed under suitable conditions. Hence, they are
 
-10th\_Science\_Unit-10.indd 143 12/9/2021 1:03:09 PM
+
 
 
 
@@ -396,7 +396,7 @@ You know that innumerable changes occur every day around us. Are all they perman
 
   
 
-144**10th Standard Science**
+
 
 grouped into two categories such as reversible and irreversible reactions.
 
@@ -432,7 +432,7 @@ C**(s)** + O**2(g)** → CO**2(g)** + Heat Coal Oxygen Carbon dioxide
 
 In this reaction, solid coal burns with oxygen and gets converted into carbon dioxide gas and water. As the product is a gas, as soon as it is formed it escapes out of the reaction container. It is extremely hard to decompose a gas into a solid. Thus, the backward reaction is not possible in this case. So, it is an irreversible reaction. Table 10.2 provides the
 
-10th\_Science\_Unit-10.indd 144 12/9/2021 1:03:10 PM
+
 
 
 
@@ -519,7 +519,7 @@ Faster the reaction, more will be the amount of the product in a specified time.
 
 Can the rate of a reaction be changed? The rate of a reaction can be changed. For
 
-10th\_Science\_Unit-10.indd 145 12/9/2021 1:03:10 PM
+
 
 
 
@@ -537,7 +537,7 @@ Can the rate of a reaction be changed? The rate of a reaction can be changed. Fo
 | It is relatively slow. |It is fast. |
   
 
-146**10th Standard Science**
+
 
 example, iron gets rusted faster in an acid than in water. Important factors that affect rate of a reaction are (i) Nature of the reactants (ii) Concentration of the reactants (iii) Temperature (iv) Catalyst (v) Pressure (vi) Surface area of the reactants
 
@@ -576,7 +576,7 @@ In a reversible reaction, both forward and backward reactions take place simulta
 
 **Rate of forward reaction = Rate of backward reaction**
 
-10th\_Science\_Unit-10.indd 146 12/9/2021 1:03:10 PM
+
 
 
 
@@ -621,7 +621,7 @@ When the bottle is sealed, the dissolved carbon dioxide (in the form of carbonic
 
 in equilibrium with each other. When you open the bottle, the gaseous CO2 can escape. So, the dissolved CO2 begins to undissolve back to the gas phase trying to replace the gas that was lost, when you opened the bottle. That’s why if you leave it open long enough, it will goes ‘flat’. All the CO2 will be gone, blown away in the air.
 
-10th\_Science\_Unit-10.indd 147 12/9/2021 1:03:10 PM
+
 
 
 
@@ -630,7 +630,7 @@ in equilibrium with each other. When you open the bottle, the gaseous CO2 can es
 
   
 
-148**10th Standard Science**
+
 
 ## IONIC PRODUCT OF WATER
 
@@ -690,7 +690,7 @@ Tomato juice 4.2 Coffee 5.6
 
 **How can we measure the pH of a given solution using pH Paper**
 
-10th\_Science\_Unit-10.indd 148 12/9/2021 1:03:10 PM
+
 
 
 
@@ -755,7 +755,7 @@ A more common method of measuring pH in a school laboratory is by using the pH p
 
 of 7.0 to 7.8. Living organisms can survive only in a narrow range of pH change. Different body fluids have different pH values. For example, pH of blood is ranging from 7.35 to 7.45. Any increase or decrease in this value leads to diseases. The ideal pH for blood is 7.4.
 
-10th\_Science\_Unit-10.indd 149 12/9/2021 1:03:10 PM
+
 
 
 
@@ -764,7 +764,7 @@ of 7.0 to 7.8. Living organisms can survive only in a narrow range of pH change.
 
   
 
-150**10th Standard Science**
+
 
 ## pH CALCULATION
 
@@ -824,7 +824,7 @@ NaOH(aq) → Na+ (aq) + OH–
 
 One mole of NaOH would give one mole of OH– ions. Therefore,
 
-10th\_Science\_Unit-10.indd 150 12/9/2021 1:03:10 PM
+
 
 
 
@@ -881,7 +881,7 @@ pH = –log1010–8 = –(–8 × log1010) = –(–8 × 1) = 8 **Example 5:** I
 
  Pure water is a weak electrolyte.
 
-10th\_Science\_Unit-10.indd 151 12/9/2021 1:03:10 PM
+
 
 
 
@@ -890,7 +890,7 @@ pH = –log1010–8 = –(–8 × log1010) = –(–8 × 1) = 8 **Example 5:** I
 
   
 
-152**10th Standard Science**
+
 
 **TEXTBOOK EVALUATION**
 
@@ -942,7 +942,7 @@ called \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. 2. When lithium metal is placed in hy
 
 acid, \_\_\_\_\_\_\_\_ gas is evolved.
 
-10th\_Science\_Unit-10.indd 152 12/9/2021 1:03:10 PM
+
 
 
 
@@ -1017,7 +1017,7 @@ its characteristics?
 
 heating into ‘B’ and a gas ‘C’. On passing the gas ‘C’ through water, it becomes acidic. Identify A, B and C.
 
-10th\_Science\_Unit-10.indd 153 12/9/2021 1:03:10 PM
+
 
 
 
@@ -1034,7 +1034,7 @@ heating into ‘B’ and a gas ‘C’. On passing the gas ‘C’ through water
 | C H  + 4O → 2CO  + 2H O  + Heat2 4(g) 2(g) 2(g) 2 (g) |ermal decomposition |
   
 
-154**10th Standard Science**
+
 
 2\. Can a nickel spatula be used to stir copper sulphate solution? Justify your answer.
 
@@ -1062,7 +1062,7 @@ http://aravindguptatoys.com/filims.html
 
 **Concept Map**
 
-10th\_Science\_Unit-10.indd 154 12/9/2021 1:03:11 PM
+
 
 
 

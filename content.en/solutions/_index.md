@@ -34,7 +34,7 @@ FeSO4
 
 SOLUTIONS
 
-10th\_Science\_Unit-9.indd 124 06-12-2021 18:38:08
+
 
 
 
@@ -76,7 +76,7 @@ A solution must at least be consisting of two components (a solute and a solvent
 
 We know that substances normally exist in three physical states (phases) i.e., solid, liquid and gas. In binary solutions, both the solvent and solute may exist in any of these physical states. But the solvent constitutes the major part of the solution. Its physical state is the primary factor which determine the characteristics of the solution. Therefore, there are different types of binary solutions as listed in Table 9.1.
 
-10th\_Science\_Unit-9.indd 125 06-12-2021 18:38:10
+
 
 
 
@@ -85,7 +85,7 @@ We know that substances normally exist in three physical states (phases) i.e., s
 
   
 
-126**10th Standard Science**
+
 
 ### Based on the type of solvent
 
@@ -123,7 +123,7 @@ The amount of the solute that can be dissolved in the given amount of solvent is
 
 **(i)** **Saturated solution:** A solution in which no more solute can be dissolved in a definite amount of the solvent at a given temperature is called saturated solution. e.g. 36 g of sodium chloride in 100 g of water at 25°C forms saturated solution.
 
-10th\_Science\_Unit-9.indd 126 06-12-2021 18:38:10
+
 
 
 
@@ -198,7 +198,7 @@ It is another kind of classification of unsaturated solutions. It expresses the 
 
 When we compare two solutions having same solute and solvent, the one which contains higher amount of solute per the given amount of solvent is said to be ‘**concentrated solution**’
 
-10th\_Science\_Unit-9.indd 127 06-12-2021 18:38:12
+
 
 
 
@@ -207,7 +207,7 @@ When we compare two solutions having same solute and solvent, the one which cont
 
   
 
-128**10th Standard Science**
+
 
 **Solubility is defined as the number of** grams of a solute that can be dissolved in 100 g of a solvent to form its saturated solution at a given temperature and pressure. For example, 36 g of sodium chloride need to be dissolved in 100 g of water to form its saturated solution at 25°C. Thus the solubility of NaCl in water is 36 g at 25°C. The solubility is mathematically expressed as
 
@@ -271,7 +271,7 @@ Effect of pressure is observed only in the case of solubility of a gas in a liqu
 
 The common examples for solubility of gases in liquids are carbonated beverages, i.e. soft drinks, household cleaners containing
 
-10th\_Science\_Unit-9.indd 128 06-12-2021 18:38:12
+
 
 
 
@@ -362,7 +362,7 @@ You can notice that in the commercial products that we come across in our daily 
 
 **Figure 9.7** Ointment (w/w percent)
 
-10th\_Science\_Unit-9.indd 129 06-12-2021 18:38:12
+
 
 
 
@@ -376,7 +376,7 @@ You can notice that in the commercial products that we come across in our daily 
 
   
 
-130**10th Standard Science**
+
 
 ## Hydrated salts and Water of Crystallization
 
@@ -461,7 +461,7 @@ Its water of crystallization is 7. When magnesium sulphate heptahydrate crystals
 
 (b)(a)
 
-10th\_Science\_Unit-9.indd 130 06-12-2021 18:38:13
+
 
 
 
@@ -540,7 +540,7 @@ Hygroscopic substances may be amorphous solids or liquids.
 
 Deliquescent substances are crystalline solids.
 
-10th\_Science\_Unit-9.indd 131 06-12-2021 18:38:13
+
 
 
 
@@ -556,7 +556,7 @@ Deliquescent substances are crystalline solids.
 | Hyg ros copic s ubstances m ay b e a mor phoussolid s or liq uid s. |Deliq ues cent s ubstances a re cr ystallin e s olid s. |
   
 
-132**10th Standard Science**
+
 
 Mass of the solute = 1.5 g Mass of the solvent = 15 g
 
@@ -656,7 +656,7 @@ Mass of the solute + Mass of the solvent
 
 \= 1600 116
 
-10th\_Science\_Unit-9.indd 132 06-12-2021 18:38:13
+
 
 
 
@@ -753,7 +753,7 @@ Volume of ethanol = 20 × 200
 
 \= 40 ml
 
-10th\_Science\_Unit-9.indd 133 06-12-2021 18:38:13
+
 
 
 
@@ -762,7 +762,7 @@ Volume of ethanol = 20 × 200
 
   
 
-134**10th Standard Science**
+
 
 **I. Choose the correct answer.** 1\. A solution is a \_\_\_\_\_\_\_\_\_\_ mixture.
 
@@ -810,7 +810,7 @@ a. homogeneous b. heterogeneous c. homogeneous and heterogeneous d. non homogene
 
 **TEXTBOOK EVALUATION**
 
-10th\_Science\_Unit-9.indd 134 06-12-2021 18:38:13
+
 
 
 
@@ -883,7 +883,7 @@ water, Sarath dissolves 50 g of same sugar in 250 ml of cold water. Who will get
 
 1\. h t t p s : / /www.cwcboe .o rg / cms / l i b / NJ01001185/Centricity/Domain/203/ Solutions%20Suspensions%20and%20 Colloids.pdf
 
-10th\_Science\_Unit-9.indd 135 06-12-2021 18:38:13
+
 
 
 
@@ -892,7 +892,7 @@ water, Sarath dissolves 50 g of same sugar in 250 ml of cold water. Who will get
 
   
 
-136**10th Standard Science**
+
 
 URL: https://play.google.com/store/apps/details?id=air.thix.sciencesense.beaker or Scan the QR Code.
 
@@ -964,7 +964,7 @@ Deliquescence
 
 **Concept Map**
 
-10th\_Science\_Unit-9.indd 136 06-12-2021 18:38:14
+
 
 
 

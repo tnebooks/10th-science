@@ -29,7 +29,7 @@ ClH
 
 PERIODIC CLASSIFICATION OF ELEMENTS
 
-10th\_Science\_Unit-8.indd 106 06-12-2021 18:37:42
+
 
 
 
@@ -79,7 +79,7 @@ As you have studied the features of the modern periodic table in standard IX, he
 
 ‹ **Seventh period** (Atomic number 87 to 118): Like the sixth period, this period also accommodates 32 elements. Recently 4 elements have been included by IUPAC.
 
-10th\_Science\_Unit-8.indd 107 06-12-2021 18:37:42
+
 
 
 
@@ -88,7 +88,7 @@ As you have studied the features of the modern periodic table in standard IX, he
 
   
 
-108**10th Standard Science**
+
 
 **Fi gu**
 
@@ -152,7 +152,7 @@ he m
 
 ist ry
 
-10th\_Science\_Unit-8.indd 108 06-12-2021 18:37:45
+
 
 
 
@@ -216,7 +216,7 @@ Properties such as atomic radius, ionic radius, ionisation energy, electronegati
 
 (b)
 
-10th\_Science\_Unit-8.indd 109 06-12-2021 18:37:45
+
 
 
 
@@ -238,7 +238,7 @@ Properties such as atomic radius, ionic radius, ionisation energy, electronegati
 | 18 |Noble gases |
   
 
-110**10th Standard Science**
+
 
 (a)). In non-metallic elements, their atomic radius is known as **Covalent radius.** It is defined as half the distance between the **adjacent nuclei of two covalently bonded atoms of the same element in a molecule (**Figure 8.2 (b)). For example, let us consider H2 molecule. The distance between the two hydrogen nuclei of the molecule is 0.74 Å. So its covalent radius is 0.74/2 = 0.37 Å.
 
@@ -282,7 +282,7 @@ Na Na+ Cl Cl–
 
 **Figure 8.5** Relative ionic radii of cation and anion
 
-10th\_Science\_Unit-8.indd 110 06-12-2021 18:37:46
+
 
 
 
@@ -346,7 +346,7 @@ If the difference is greater than 1.7, the bond is considered to be more ionic.
 
 Along the period, from left to right in the periodic table, the electronegativity increases because of the increase in the nuclear charge which in turn attracts the electrons more strongly. On moving down a group, the electronegativity of the elements decreases because of the increased number of valence shells.
 
-10th\_Science\_Unit-8.indd 111 06-12-2021 18:37:46
+
 
 
 
@@ -355,7 +355,7 @@ Along the period, from left to right in the periodic table, the electronegativit
 
   
 
-112**10th Standard Science**
+
 
 **Periodic Property In Periods In Groups**
 
@@ -424,7 +424,7 @@ reducing the roasted metallic oxide from the metal in its molten condition. In t
 
 There are four major types of separation of ores based on the nature of the ore. The
 
-10th\_Science\_Unit-8.indd 112 06-12-2021 18:37:46
+
 
 
 
@@ -514,7 +514,7 @@ Cuprite(Cu2O) Magnesite ((MgCO3) Fluorspar(CaF2) Iron pyrite (FeS2)
 
 Haematite ( Fe2O3) Siderite(FeCO3) Rock salt (NaCl) Zinc blende (ZnS)
 
-10th\_Science\_Unit-8.indd 113 06-12-2021 18:37:49
+
 
 
 
@@ -530,7 +530,7 @@ Haematite ( Fe2O3) Siderite(FeCO3) Rock salt (NaCl) Zinc blende (ZnS)
 | Haematite ( Fe O )2 3 |Siderite(FeCO3) |Rock salt (NaCl) |Zinc blende (ZnS) |
   
 
-114**10th Standard Science**
+
 
 The ore is treated with a suitable reagent such that the ore is soluble in it but the impurities are not. The impurities are removed by filtration. The solution of the ore, ie., the filtrate is treated with a suitable reagent which precipitates the ore. E.g. Bauxite Al2O3.2H2O, (the ore of aluminium).
 
@@ -594,7 +594,7 @@ Chemical reduction of metal oxide into metal using coke
 
 Thermal decomposition of metal oxide into metal
 
-10th\_Science\_Unit-8.indd 114 06-12-2021 18:37:49
+
 
 
 
@@ -684,7 +684,7 @@ dry air. On heating at 800 °C, aluminium burns very brightly forming it’s oxi
 
 **ii. Reaction with water:** Water does not react with aluminium due to the layer of oxide on it. When steam is passed over red hot aluminium, hydrogen is produced. 2 Al + 3 H2O → Al2O3 + 3 H2↑ (steam) (aluminium oxide)
 
-10th\_Science\_Unit-8.indd 115 06-12-2021 18:37:49
+
 
 
 
@@ -693,7 +693,7 @@ dry air. On heating at 800 °C, aluminium burns very brightly forming it’s oxi
 
   
 
-116**10th Standard Science**
+
 
 **iii. Reaction with alkalis:** It reacts with strong caustic alkalis forming aluminates. 2 Al + 2 NaOH +2 H2O → 2 NaAlO2 + 3 H2↑ (Sodium meta aluminate)
 
@@ -742,7 +742,7 @@ The chief ore of copper is copper pyrite. It yields nearly 76% of the world prod
 
 **v. Refining: Blister copper contains 98%** of pure copper and 2% of impurities and is purified by electrolytic refining. This method is used to get metal of a high degree of purity. For electrolytic refining of copper, we use:
 
-10th\_Science\_Unit-8.indd 116 06-12-2021 18:37:49
+
 
 
 
@@ -818,7 +818,7 @@ Iron is chiefly extracted from haematite ore (Fe2O3)
 
 **ii. Roasting and Calcination: The** concentrated ore is strongly heated in a limited supply of air in a reverberatory furnace. As a result, moisture is driven out and sulphur, arsenic and phosphorus impurities are oxidized off.
 
-10th\_Science\_Unit-8.indd 117 06-12-2021 18:37:49
+
 
 
 
@@ -827,7 +827,7 @@ Iron is chiefly extracted from haematite ore (Fe2O3)
 
   
 
-118**10th Standard Science**
+
 
 **iii. Smelting (in a Blast Furnace): The** charge consisting of roasted ore, coke and limestone in the ratio 8:4:1 is smelted in a blast furnace by introducing it through the hopper arrangement at the top. There are three important regions in the furnace.
 
@@ -895,7 +895,7 @@ v. **Reaction with acids:** With dilute HCl and dilute H2SO4 it liberates H2 gas
 
 ferrous nitrate and ammonium nitrate. 4 Fe + 10 HNO3 → 4 Fe(NO3)2 + NH4NO3 + 3 H2O
 
-10th\_Science\_Unit-8.indd 118 06-12-2021 18:37:49
+
 
 
 
@@ -976,7 +976,7 @@ Nickel steel (Fe,C,Ni)
 
 Cables , aircraftparts, propeller
 
-10th\_Science\_Unit-8.indd 119 06-12-2021 18:37:50
+
 
 
 
@@ -1003,7 +1003,7 @@ Cables , aircraftparts, propeller
 | Nickel steel (Fe,C,Ni) |Cables , aircraparts, propeller |
   
 
-120**10th Standard Science**
+
 
 ## CORROSION
 
@@ -1067,7 +1067,7 @@ It is a railway bridge which connects the town of Rameshwaram on Pamban Island t
 
 **Figure 8.12** Pamban Bridge
 
-10th\_Science\_Unit-8.indd 120 06-12-2021 18:37:50
+
 
 
 
@@ -1120,7 +1120,7 @@ c) 18th d) 16th
 
 8\. Which of the following have inert gases 2 electrons in the outermost shell. a) He b) Ne c) Ar d) Kr
 
-10th\_Science\_Unit-8.indd 121 06-12-2021 18:37:50
+
 
 
 
@@ -1129,7 +1129,7 @@ c) 18th d) 16th
 
   
 
-122**10th Standard Science**
+
 
 9\. Neon shows zero electron affinity due to \_\_\_\_\_. a) stable arrangement of neutrons b) stable configuration of electrons c) reduced size d) increased density
 
@@ -1201,7 +1201,7 @@ with O2 at < 1370 K gives B, a black coloured compound. At a temperature > 1370 
 
 4\. State two conditions necessary for rusting of iron.
 
-10th\_Science\_Unit-8.indd 122 06-12-2021 18:37:50
+
 
 
 
@@ -1268,7 +1268,7 @@ Sulphide ore
 
 **CONCEPT MAP**
 
-10th\_Science\_Unit-8.indd 123 06-12-2021 18:37:50
+
 
 
 

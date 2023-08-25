@@ -27,7 +27,7 @@ molecules present in it. � grasp the idea of mole concept and solve many probl
 
 ATOMS AND MOLECULES 7
 
-10th\_Science\_Unit-7.indd 91 06-12-2021 18:37:14
+
 
 
 
@@ -36,7 +36,7 @@ ATOMS AND MOLECULES 7
 
   
 
-92**10th Standard Science**
+
 
 � Atoms may not always combine in a simple whole number ratio (E.g. Glucose C6H12O6 C:H:O = 6:12:6 or 1:2:1 and Sucrose C12H22O11 C:H:O = 12:22:11).
 
@@ -82,7 +82,7 @@ of the mass of one Carbon-12 atom1
 
 Modern methods of determination of atomic mass by Mass Spectrometry uses C-12 as standard. For most of the elements, the relative atomic mass is very closer to a whole number and it is rounded off to a whole number, to make calculations easier. Table 7.1 lists some of the elements of periodic table and their Ar values.
 
-10th\_Science\_Unit-7.indd 92 06-12-2021 18:37:15
+
 
 
 
@@ -148,7 +148,7 @@ Average atomic mass of carbon
 
 is mentioned that the atomic mass of carbon is 12 amu, it refers to the average atomic mass of the carbon isotopes, not the mass of the individual atoms of carbon.
 
-10th\_Science\_Unit-7.indd 93 06-12-2021 18:37:16
+
 
 
 
@@ -157,7 +157,7 @@ is mentioned that the atomic mass of carbon is 12 amu, it refers to the average 
 
   
 
-94**10th Standard Science**
+
 
 **Table 7.2** Atomic mass of some elements
 
@@ -238,7 +238,7 @@ The molecule that consist of atoms of different elements is called heteroatomic 
 
 Let us consider oxygen. Oxygen gas exists in two allotropic forms: Oxygen (O2) and Ozone (O3). In oxygen molecule, there are two oxygen atoms. So its atomicity is two. Since both the atoms are similar, oxygen (O2) is a homodiatomic molecule. Other elements
 
-10th\_Science\_Unit-7.indd 94 06-12-2021 18:37:16
+
 
 
 
@@ -353,7 +353,7 @@ Complete the following table by filling the appropriate values /terms
 
 17 Cl-37 (25 %)
 
-10th\_Science\_Unit-7.indd 95 06-12-2021 18:37:16
+
 
 
 
@@ -379,7 +379,7 @@ Complete the following table by filling the appropriate values /terms
 | Hetero |
   
 
-96**10th Standard Science**
+
 
 Relative Molecular Mass is only a ratio. So, it has no unit. If the molecular mass of a com- pound is expressed in grams, it is called **_Gram Molecular Mass._**
 
@@ -441,7 +441,7 @@ Even though atoms are the basic components of molecules, they differ in many asp
 
 So far we discussed about matters in terms of individual atoms and molecules. Atomic mass units provide a relative scale for the masses of the elements. Since the atoms have such small masses, no usable scale can be devised to weigh them in the calibrated units of atomic mass units. In any real situation, we deal with macroscopic samples containing enormous number of atoms. Therefore, it is convenient to have a special unit to describe a very large number of atoms. The idea of a ‘unit’ to denote a particular number of objects is not new. For example, **the pair (2 items) and the dozen (12 items)**, are all familiar units. Chemists measure atoms and molecules in ‘moles’. So, you can now understand that ‘mole’ denotes a number of particles.
 
-10th\_Science\_Unit-7.indd 96 06-12-2021 18:37:16
+
 
 
 
@@ -514,7 +514,7 @@ The percentage composition of a compound represents the mass of each element pre
 
 Let us understand the percentage composition of oxygen and hydrogen by taking
 
-10th\_Science\_Unit-7.indd 97 06-12-2021 18:37:17
+
 
 
 
@@ -523,7 +523,7 @@ Let us understand the percentage composition of oxygen and hydrogen by taking
 
   
 
-98**10th Standard Science**
+
 
 the example of H2O. It can be calculated using the formula
 
@@ -592,7 +592,7 @@ Under same conditions of temperature and pressure if you collect 3 litre of O2, 
 
 molecules? ii. Which has the lowest number of molecules?
 
-10th\_Science\_Unit-7.indd 98 06-12-2021 18:37:17
+
 
 
 
@@ -682,7 +682,7 @@ Now on cross multiplication, you have
 
 Atomic masses of H = 1, O = 16
 
-10th\_Science\_Unit-7.indd 99 06-12-2021 18:37:17
+
 
 
 
@@ -691,7 +691,7 @@ Atomic masses of H = 1, O = 16
 
   
 
-100**10th Standard Science**
+
 
 Gram molecular mass of H2O = (1 × 2) + (16 × 1) = 2 + 16 Gram molecular mass of H2O = 18 g
 
@@ -785,7 +785,7 @@ Number of moles = Mass Molecular mass
 
 4) 5 × 1023 molecules of glucose ? Molecular mass of glucose = 180
 
-10th\_Science\_Unit-7.indd 100 06-12-2021 18:37:17
+
 
 
 
@@ -900,7 +900,7 @@ Number of moles = Number of molecules Avogadro’s number
 
 \= no. of moles × molar volume = 0.5 × 22.4 = 11.2 litres.
 
-10th\_Science\_Unit-7.indd 101 06-12-2021 18:37:17
+
 
 
 
@@ -909,7 +909,7 @@ Number of moles = Number of molecules Avogadro’s number
 
   
 
-102**10th Standard Science**
+
 
 **VI. Calculation based on % composition** Calculate % of S in H2SO4
 
@@ -965,7 +965,7 @@ molecular mass of H2SO4
 
 5\. Which of the following represents 1 amu? a. Mass of a C – 12 atom b. Mass of a hydrogen atom c. 1/12th of the mass of a C – 12 atom d. Mass of O – 16 atom
 
-10th\_Science\_Unit-7.indd 102 06-12-2021 18:37:17
+
 
 
 
@@ -1050,7 +1050,7 @@ i) A and R are correct, R explains the A. ii) A is correct, R is wrong. iii) A i
 
 **1\. Assertion: The Relative Atomic mass of** aluminium is 27 **Reason:** An atom of aluminium is 27 times heavier than 1/12th of the mass of the C – 12 atom.
 
-10th\_Science\_Unit-7.indd 103 06-12-2021 18:37:17
+
 
 
 
@@ -1059,7 +1059,7 @@ i) A and R are correct, R explains the A. ii) A is correct, R is wrong. iii) A i
 
   
 
-104**10th Standard Science**
+
 
 ii. Calculate the gram molecular mass of calcium carbonate involved in this reaction
 
@@ -1139,7 +1139,7 @@ CaCO3 → CaO + CO2
 
 i. How many moles of Calcium carbonate are involved in this reaction?
 
-10th\_Science\_Unit-7.indd 104 06-12-2021 18:37:17
+
 
 
 
@@ -1184,7 +1184,7 @@ Isotopes Isobars
 
 Isotones
 
-10th\_Science\_Unit-7.indd 105 06-12-2021 18:37:17
+
 
 
 

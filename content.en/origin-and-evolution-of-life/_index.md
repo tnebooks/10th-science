@@ -136,7 +136,7 @@ Insect wing
 
   
 
-276**10th Standard Science**
+
 
 and developmental pattern. The function of the wings of a bat, the wings of a bird and wings of an insect are similar, but their basic structures are different.
 
@@ -244,7 +244,7 @@ leaves from trees. The continuous stretching of their neck and forelimbs resulte
 
   
 
-278**10th Standard Science**
+
 
 the world, a number of islands including the **Galapagos island and Pacific island. Darwin** made elaborate observations on nature of the land, plants and animals of the regions he visited. He further worked for a period of 20 years to develop the theory of natural selection.
 
@@ -353,7 +353,7 @@ iv. Fossil plants can be used in the field of descriptive and comparative anatom
 
   
 
-280**10th Standard Science**
+
 
 **Kaspar Maria Von Sternberg** He is the “**Father of Paleobotany**” (1761–
 
@@ -469,7 +469,7 @@ The organisms which live in extreme environmental conditions on earth are called
 
   
 
-282**10th Standard Science**
+
 
 **Points to Remember**
 
@@ -597,7 +597,7 @@ organs from analogous organs? 3. How does fossilization occur in plants?
 
   
 
-284**10th Standard Science**
+
 
 **IX Higher Order Thinking Skills (HOTS)** 1\. Arun was playing in the garden. Suddenly
 

@@ -80,7 +80,7 @@ The Ministry of Women and Child Development championed the introduction of the P
 
   
 
-302**10th Standard Science**
+
 
 **Legal Counsel: The family or the guardian** of the child victim shall be entitled to free assistance of a legal counsel for such offence. **Rehabilitation:** Enrolling in schools and resuming their education is an important step towards rehabilitation of the child. It is essential that the child’s life is gradually returned to normal after the incidence of abuse. **Community based efforts:** Conducting awareness campaign on child abuse and its prevention.
 
@@ -196,7 +196,7 @@ Family members, friends and society on the whole have a very important role to p
 
   
 
-304**10th Standard Science**
+
 
 ## Tobacco Abuse
 
@@ -305,7 +305,7 @@ Diabetes mellitus is a chronic metabolic disorder. In Greek (Diabetes – runnin
 
   
 
-306**10th Standard Science**
+
 
 by **increased blood glucose level** due to **insufficient, deficient or failure of insulin secretion. This is the most common pancreatic** endocrine disorder. The incidence of Type-1 and Type-2 diabetes is increasing worldwide.
 
@@ -420,7 +420,7 @@ Treatment Insulin administration is necessary Can be controlled by diet, exercis
 | Treatment |Insulin administration is necessar y |Can be controlled by diet, exercise and medicine |
   
 
-308**10th Standard Science**
+
 
 **Causes and risk factors**: Obesity is due to genetic factors, physical inactivity, eating habits (overeating) and endocrine factors. Obesity is a positive risk factor in development of hypertension, diabetes, gall bladder disease, coronary heart disease and arthritis.
 
@@ -525,7 +525,7 @@ The treatment of cancer involves the following methods: **Surgery:** Tumours are
 
   
 
-310**10th Standard Science**
+
 
 ### Preventive measures for Cancer
 
@@ -644,7 +644,7 @@ a) Carcinoma b) Sarcoma c) Leukemia d) Lymphoma
 
   
 
-312**10th Standard Science**
+
 
 8\. Metastasis is associated with a) Malignant tumour b) Benign tumour c) Both (a) and (b) d) Crown gall tumour
 
@@ -792,7 +792,7 @@ https://www.ncpcr.gov.in
 
   
 
-314**10th Standard Science**
+
 
 **Concept Map**
 

@@ -30,7 +30,7 @@ At the end of this lesson, students will be able to: ‹ Make an electric circui
 
 4 ELECTRICITY
 
-10th\_Science\_Unit-4.indd 42 06-12-2021 18:29:11
+
 
 
 
@@ -97,7 +97,7 @@ Ground connection
 
 Used to provide protection to the electrical components. It also serves as a reference point to measure the electric potential.
 
-10th\_Science\_Unit-4.indd 43 06-12-2021 18:29:11
+
 
 
 
@@ -118,7 +118,7 @@ Used to provide protection to the electrical components. It also serves as a ref
 | Groundconnection |Used t o provide p rotection t o t he e le ctric alcomp onents. It a lso s er ves a s a r eference p ointto m easure t he e le ctric p otential. |
   
 
-44**10th Standard Science**
+
 
 In this circuit, if the switch is ‘on’, the bulb glows. If it is switched off, the bulb does not glow. Therefore, the circuit must be closed in order that the current passes through it. The potential difference required for the flow of charges is provided by the battery. The electrons flow from the negative terminal to the positive terminal of the battery.
 
@@ -165,7 +165,7 @@ The potential difference between two points is one volt, if one joule of work is
 
 **Solved Problem-2 The work done in moving a charge of 10 C** across two points in a circuit is 100 J. What is the potential difference between the points?
 
-10th\_Science\_Unit-4.indd 44 06-12-2021 18:29:11
+
 
 
 
@@ -218,7 +218,7 @@ From Ohm’s Law, = R.
 
 The SI unit of resistance is ohm and it is represented by the symbol Ω.
 
-10th\_Science\_Unit-4.indd 45 06-12-2021 18:29:11
+
 
 
 
@@ -227,7 +227,7 @@ The SI unit of resistance is ohm and it is represented by the symbol Ω.
 
   
 
-46**10th Standard Science**
+
 
 **_Resistance of a conductor is said to be one ohm if a current of one ampere flows through it when a potential difference of one volt is maintained across its ends_**.
 
@@ -288,7 +288,7 @@ Its unit is ohm–1 metre–1. It is also represented as mho metre–1. The cond
 
 Conductivity is more for conductors than for insulators. But, the resistivity is less for
 
-10th\_Science\_Unit-4.indd 46 06-12-2021 18:29:11
+
 
 
 
@@ -358,7 +358,7 @@ V1 = I R1 (4.7) V2 = I R2 ( 4.8) V3 = I R3 (4.9) The sum of the potential differ
 
 the ends of each resistor is given by: V = V1 + V2 + V3
 
-10th\_Science\_Unit-4.indd 47 06-12-2021 18:29:11
+
 
 
 
@@ -376,7 +376,7 @@ the ends of each resistor is given by: V = V1 + V2 + V3
 | Rubber |to10 1013 16 |
   
 
-48**10th Standard Science**
+
 
 Using equations (4.7), (4.8) and (4.9), we get V = I R1 + I R2 + I R3 (4.10) The effective resistor is a single resistor,
 
@@ -427,7 +427,7 @@ Combining equations (4.16) and (4.17), you have
 
 \= + + (4.18)
 
-10th\_Science\_Unit-4.indd 48 06-12-2021 18:29:12
+
 
 
 
@@ -478,7 +478,7 @@ The difference between series and parallel circuits may be summed as follows in 
 
 **Figure 4.8** Series-parallel combination of resistors
 
-10th\_Science\_Unit-4.indd 49 06-12-2021 18:29:12
+
 
 
 
@@ -487,7 +487,7 @@ The difference between series and parallel circuits may be summed as follows in 
 
   
 
-50**10th Standard Science**
+
 
 ## HEATING EFFECT OF CURRENT
 
@@ -541,7 +541,7 @@ If one appliance is disconnected, others will work independently.
 
 **Table 4.3 Difference between series and parallel circuit**
 
-10th\_Science\_Unit-4.indd 50 06-12-2021 18:29:12
+
 
 
 
@@ -610,7 +610,7 @@ Electricity is consumed both in houses and industries. Consumption of electricit
 
 The electricity produced in power stations is distributed to all the domestic and industrial consumers through overhead and underground
 
-10th\_Science\_Unit-4.indd 51 06-12-2021 18:29:12
+
 
 
 
@@ -619,7 +619,7 @@ The electricity produced in power stations is distributed to all the domestic an
 
   
 
-52**10th Standard Science**
+
 
 cables. The diagram, which shows the general scheme of a domestic electric circuit, is given in Figure 4.10.
 
@@ -641,7 +641,7 @@ and frequency 50 Hz. In countries like USA and UK, domestic circuits are supplie
 
 The fuse wire or MCB will disconnect the circuit in the event of an overloading and short circuiting. Over loading happens when a large number of appliances are connected in series to
 
-10th\_Science\_Unit-4.indd 52 06-12-2021 18:29:12
+
 
 
 
@@ -688,7 +688,7 @@ required. **_One way of overcoming the energy crisis_**
 
 LED Television is one of the most important applications of Light Emitting Diodes. An LED TV is actually an LCD TV (Liquid Crystal Display) with LED display.
 
-10th\_Science\_Unit-4.indd 53 06-12-2021 18:29:13
+
 
 
 
@@ -697,7 +697,7 @@ LED Television is one of the most important applications of Light Emitting Diode
 
   
 
-54**10th Standard Science**
+
 
 An LED display uses LEDs for backlight and an array of LEDs act as pixels. LEDs emitting white light are used in monochrome (black and white) TV; Red, Green and Blue (RGB) LEDs are used in colour television. The first LED television screen was developed by James P. Mitchell in 1977. It was a monochromatic display. But, after about three decades, in 2009, SONY introduced the first commercial LED Television.
 
@@ -755,7 +755,7 @@ Resistance, R = = = 400 Ω
 
 **3.** In the circuit diagram given below, three resistors R1, R2 and R3 of 5 Ω, 10 Ω and 20 Ω respectively are connected as shown. Calculate:
 
-10th\_Science\_Unit-4.indd 54 06-12-2021 18:29:13
+
 
 
 
@@ -820,7 +820,7 @@ a) The switch produces electricity. b) Closing the switch completes the circuit.
 
 4\. Kilowatt hour is the unit of a) resistivity b) conductivity c) electrical energy d) electrical power
 
-10th\_Science\_Unit-4.indd 55 06-12-2021 18:29:13
+
 
 
 
@@ -829,7 +829,7 @@ a) The switch produces electricity. b) Closing the switch completes the circuit.
 
   
 
-56**10th Standard Science**
+
 
 **II. Fill in the blanks** 1\. When a circuit is open, \_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -903,7 +903,7 @@ difference.
 
 4\. Distinguish between the resistivity and conductivity of a conductor.
 
-10th\_Science\_Unit-4.indd 56 06-12-2021 18:29:13
+
 
 
 
@@ -972,7 +972,7 @@ https://www.elprocus.com/basic-electrical- circuits-and-their-working-for-electr
 
 https://www.physicsclassroom.com/calcpad/ circuits
 
-10th\_Science\_Unit-4.indd 57 06-12-2021 18:29:13
+
 
 
 
@@ -981,7 +981,7 @@ https://www.physicsclassroom.com/calcpad/ circuits
 
   
 
-58**10th Standard Science**
+
 
 **ICT CORNER Ohm’s Law**
 
@@ -1011,7 +1011,7 @@ Note:
 
 2\. Read theory, procedure and animation to get the theory by clicking the corresponding tab.
 
-10th\_Science\_Unit-4.indd 58 06-12-2021 18:29:14
+
 
 
 
