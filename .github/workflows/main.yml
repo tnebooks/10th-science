@@ -1,6 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Development Build
-
+name: Publishing
 on:
   # Runs on pushes targeting the default branch
   push:
@@ -25,7 +24,8 @@ jobs:
       - name: Build Theme
         run: |
           git clone https://github.com/techatpark/gurukulam
-          rm -rf gurukulam/site/content.* && rm -rf gurukulam/site/static/ && rm -rf gurukulam/site/layouts/index.html
+          find gurukulam/site/content.*/** -maxdepth 0 -type d -not -name courses -not -name "books"  -exec rm -rf {} \;
+          rm -rf gurukulam/site/static/ && rm -rf gurukulam/site/layouts/index.html
           BOOK_PATH=$(git config --get remote.origin.url | cut -d. -f2 | cut -c 5-)
           for dir in content.*/; do mkdir -p temp/books/$BOOK_PATH && mv $dir/** temp/books/$BOOK_PATH && mv temp/** $dir/; done
           cp -rf content.* gurukulam/site/
@@ -33,7 +33,7 @@ jobs:
 
       - name: Run Hugo
         working-directory: gurukulam/site
-        run: env BUILD_PRODUCTION="Y" hugo --themesDir ../..
+        run: env BUILD_PRODUCTION=Y hugo --themesDir ../..
  
       - name: Build Theme
         run: |
@@ -48,6 +48,4 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           source: "gurukulam/site/public"
           target: ${{ secrets.TARGET_DIR }}
-          strip_components: 3  
-
-
+          strip_components: 3
