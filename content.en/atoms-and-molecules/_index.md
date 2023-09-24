@@ -2,6 +2,21 @@
 title: 'ATOMS AND MOLECULES'
 weight: 7
 ---
+# ATOMS AND MOLECULES
+
+**Learning Objectives**
+
+At the end of the lesson the students will be able to: 
+- acquire the ability to learn about the atoms and molecules. 
+- comprehend atomic mass and molecular mass. 
+- have information about gram atomic mass and gram molecular mass. 
+- perceive the intended meaning of Avogadro’s hypothesis of gases. 
+- interpret the application of Avogadro’s hypothesis. 
+- determine the atomicity of a molecule. 
+- interpret the relation between vapour density and relative molecular mass. - have the facts about the relationship between the volume of a gas and the number of molecules present in it. 
+- grasp the idea of mole concept and solve many problems using it. 
+- calculate the percentage of composition of a compund.
+
 
 **INTRODUCTION**
 
@@ -9,40 +24,22 @@ You have learnt, in your lower classes that matter is around us everywhere. Matt
 
 The first scientific theory of the atom was proposed by John Dalton. Few of the postulates of Dalton’s theory about an atom were found incorrect by the later on studies made by J.J. Thomson, Rutherford, Neils Bohr and Schrodinger. In the light of the result of the researches most of the limitations of the Dalton’s theory were
 
-removed and a new theory known as the modern atomic theory was put forward. **‘The main postulates of modern atomic theory’** are as follows: � An atom is no longer indivisible (after
+removed and a new theory known as the modern atomic theory was put forward. **‘The main postulates of modern atomic theory’** are as follows: 
 
+- An atom is no longer indivisible (after
 the discovery of the electron, proton, and neutron).
 
-� Atoms of the same element may have different atomic mass. (discovery of **isotopes** 17Cl35, 17Cl37).
+- Atoms of the same element may have different atomic mass. (discovery of **isotopes** 17Cl35, 17Cl37).
 
-� Atoms of different elements may have same atomic masses (discovery of **Isobars** 18Ar40, 20Ca40).
+- Atoms of different elements may have same atomic masses (discovery of **Isobars** 18Ar40, 20Ca40).
 
-� Atoms of one element can be transmuted into atoms of other elements. In other words, atom is no longer indestructible (discovery of artificial transmutation).
+- Atoms of one element can be transmuted into atoms of other elements. In other words, atom is no longer indestructible (discovery of artificial transmutation).
 
-**Learning Objectives**
+- Atoms may not always combine in a simple whole number ratio (E.g. Glucose C6H12O6 C:H:O = 6:12:6 or 1:2:1 and Sucrose C12H22O11 C:H:O = 12:22:11).
 
-At the end of the lesson the students will be able to: � acquire the ability to learn about the atoms and molecules. � comprehend atomic mass and molecular mass. � have information about gram atomic mass and gram molecular mass. � perceive the intended meaning of Avogadro’s hypothesis of gases. � interpret the application of Avogadro’s hypothesis. � determine the atomicity of a molecule. � interpret the relation between vapour density and relative molecular mass. � have the facts about the relationship between the volume of a gas and the number of
+- Atom is the **smallest particle** t**hat takes part in a chemical reaction.**
 
-molecules present in it. � grasp the idea of mole concept and solve many problems using it. � calculate the percentage of composition of a compund.
-
-ATOMS AND MOLECULES 7
-
-
-
-
-
-
-
-
-  
-
-
-
-� Atoms may not always combine in a simple whole number ratio (E.g. Glucose C6H12O6 C:H:O = 6:12:6 or 1:2:1 and Sucrose C12H22O11 C:H:O = 12:22:11).
-
-� Atom is the **smallest particle** t**hat takes part in a chemical reaction.**
-
-� The mass of an atom can be converted into energy (E = mc2).
+- The mass of an atom can be converted into energy (E = mc2).
 
 The modern atomic theory is the basis for all the studies of chemical and physical processes that involve atoms. You have studied the most fundamental ideas about an atom in your lower classes. Let us discuss some more concepts about atoms in this lesson.
 
@@ -60,60 +57,27 @@ Atomic mass unit is one-twelfth of the mass of a carbon-12 atom; an isotope of c
 ### Relative Atomic Mass (RAM)
 
 
-As an atom is very small, its absolute mass cannot be determined directly. The early pioneers of chemistry used to measure the atomic mass of an atom relative to an atom of another element. They measured the masses of equal number of atoms of two or more elements at a time, to determine their relative masses. They established one element as a standard, gave it an arbitrary value of atomic mass and using this value they measured the relative mass of other elements. The mass obtained by this way is called relative atomic mass. In the beginning, the mass of hydrogen atom was chosen as a standard and masses of other atoms were compared with it, because of the existence of isotopic character of hydrogen (1H
+As an atom is very small, its absolute mass cannot be determined directly. The early pioneers of chemistry used to measure the atomic mass of an atom relative to an atom of another element. They measured the masses of equal number of atoms of two or more elements at a time, to determine their relative masses. They established one element as a standard, gave it an arbitrary value of atomic mass and using this value they measured the relative mass of other elements. The mass obtained by this way is called relative atomic mass. In the beginning, the mass of hydrogen atom was chosen as a standard and masses of other atoms were compared with it, because of the existence of isotopic character of hydrogen (<sub>1</sub>H<sup>1</sup>,<sub>1</sub>H<sup>2</sup>,<sub>1</sub>H<sup>3</sup>). Later hydrogen atom was replaced by oxygen atom as the standard. Now, the stable isotope of carbon (C-12) with atomic mass 12 is used as the standard for measuring the relative atomic mass of an element.
 
-1, 1H 2, 1H
-
-3). Later hydrogen atom was replaced by oxygen atom as the standard. Now, the stable isotope of carbon (C-12) with atomic mass 12 is used as the standard for measuring the relative atomic mass of an element.
-
-**Relative atomic mass of an element is the ratio between the average mass of its isotopes to 1**
-
-**12th part of the mass of a**
-
-**carbon-12 atom. It is denoted as Ar. It is otherwise called “Standard Atomic Weight”.**
+**Relative atomic mass of an element is the ratio between the average mass of its isotopes to 1/12<sub>th</sub> part of the mass of a carbon-12 atom. It is denoted as Ar. It is otherwise called “Standard Atomic Weight”.**
 
 **Relative Atomic Mass**
 
-**(Ar)** \= Average mass of the isotopes of the element
+**(A<sub>r</sub>)** = Average mass of the isotopes of the element / 1/12<sup>th</sup>of the mass of one Carbon-12 atom1
 
-of the mass of one Carbon-12 atom1
-
-12th
-
-Modern methods of determination of atomic mass by Mass Spectrometry uses C-12 as standard. For most of the elements, the relative atomic mass is very closer to a whole number and it is rounded off to a whole number, to make calculations easier. Table 7.1 lists some of the elements of periodic table and their Ar values.
-
-
-
-
-
-
-
-
-  
-
-93 **Atoms and molecules**
-
-**Element Symbol Ar**
-
-Hydrogen H 1
-
-Carbon C 12
-
-Nitrogen N 14
-
-Oxygen O 16
-
-Sodium Na 23
-
-Magnesium Mg 24
-
-Sulphur S 32
+Modern methods of determination of atomic mass by Mass Spectrometry uses C-12 as standard. For most of the elements, the relative atomic mass is very closer to a whole number and it is rounded off to a whole number, to make calculations easier. Table 7.1 lists some of the elements of periodic table and their A<sup>r</sup> values.
 
 **Table 7.1** Relative atomic mass of elements (C-12 Scale)
+![Alt text](image.png)
+
+**DO YOU KNOW**
 
 Relative Atomic Mass is only a ratio, so it has no unit. If the atomic mass of an element is expressed in grams, it is called as **Gram Atomic Mass**
 
-Gram Atomic Mass of hydrogen = 1 g Gram Atomic Mass of carbon = 12 g Gram Atomic Mass of nitrogen = 14 g Gram Atomic Mass of oxygen = 16 g
+Gram Atomic Mass of hydrogen = 1 g 
+Gram Atomic Mass of carbon = 12 g 
+Gram Atomic Mass of nitrogen = 14 g 
+Gram Atomic Mass of oxygen = 16 g
 
 ### Average Atomic Mass (AAM)
 
@@ -124,128 +88,29 @@ How can one measure the atomic mass of an element? It is somewhat more complicat
 
 But, the abundance of isotopes of each element may differ. So, the abundancy of all these isotopes are taken into consideration while calculating the atomic mass. Then, what do we mean by a weighted average? Let us
 
-consider an element which exists as a mixture of 50% of an isotope having a mass of 9 amu, and 50% of another isotope having a mass of 10 amu. Then, its average atomic mass is calculated by the following equation: Average atomic mass
+consider an element which exists as a mixture of 50% of an isotope having a mass of 9 amu, and 50% of another isotope having a mass of 10 amu. Then, its average atomic mass is calculated by the following equation: 
 
-\= (Mass of 1st isotope × % abundance of 1st isotope) + (Mass of 2nd isotope × % abundance of 2nd isotope)
+Average atomic mass = (Mass of 1st isotope × % abundance of 1st isotope) + (Mass of 2nd isotope × % abundance of 2nd isotope)
 
 Thus, for the given element the average
 
-atomic mass = (9 × )50 100 (10 × )50
+atomic mass = (9 × 50 / 100) (10 × 50 / 100)
+            = 4.5 + 5 
+            = 9.5 amu 
 
-100+
-
-\= 4.5 + 5 = 9.5 amu **(Note:** In the calculations involving
-
-percentages, you need to convert percentage abundance into fractional abundance. For example, 50 percent is converted into 50/100 or 0.50 as shown in the a foresaid calculation.)
+**(Note:** In the calculations involving percentages, you need to convert percentage abundance into fractional abundance. For example, 50 percent is converted into 50/100 or 0.50 as shown in the a foresaid calculation.)
 
 The atomic masses of elements, given in the periodic table, are average atomic masses. Sometimes, the term atomic weight is used to mean average atomic mass. It is observed, from the periodic table that atomic masses of most of the elements are not whole numbers. For instance, the atomic mass of carbon given in the periodic table is 12.01 amu, not 12.00 amu. The reason is that while calculating the atomic mass of carbon, both of its natural isotopes such as carbon-12. and carbon-13 are considered. The natural abundance of C-12 and C-13 are 98.90 % and 1.10 % respectively. The average of the atomic mass of carbon is calculated as follows:
 
 Average atomic mass of carbon
 
-\= (12 × )98.9 100 + (13 × )1.1
+= (12 × 98.9 / 100) + (13 × 1.1 / 100) 
+= (12 × 0.989) + (13 × 0.011) 
+= 11.868 + 0.143 = 12.011 amu 
 
-100 = (12 × 0.989) + (13 × 0.011) = 11.868 + 0.143 = 12.011 amu So it is important to understand that if it
-
-is mentioned that the atomic mass of carbon is 12 amu, it refers to the average atomic mass of the carbon isotopes, not the mass of the individual atoms of carbon.
-
-
-
-
-
-
-
-
-  
-
-
+So it is important to understand that if it is mentioned that the atomic mass of carbon is 12 amu, it refers to the average atomic mass of the carbon isotopes, not the mass of the individual atoms of carbon.
 
 **Table 7.2** Atomic mass of some elements
-
-**Atomic Number Name Symbol**
-
-**Atomic Mass**
-
-**(amu)**
-
-1 Hydrogen H 1.008
-
-2 Helium He 4.003
-
-3 Lithium Li 6.941
-
-4 Beryllium Be 9.012
-
-5 Boron B 10.811
-
-**Calculation of average atomic mass – Solved Examples Example 1:** Oxygen is the most abundant element in both the Earth’s crust and the human body. It exists as a mixture of three stable isotopes in nature as shown in Table 7.3:
-
-**Table 7.3** Isotopes of oxygen
-
-Isotope Mass (amu) % abundance
-
-8O 16 15.9949 99.757
-
-8O 17 16.9991 0.038
-
-8O 18 17.9992 0.205
-
-The atomic mass of oxygen = (15.9949 × 0.99757) + (16.9991 ×
-
-0.00038) + (17.9992 × 0.00205) = 15.999 amu.
-
-**Example 2:** Boron naturally occurs as a mixture of boron-10 (5 protons + 5 neutrons) and boron-11 (5 protons + 6 neutrons) isotopes. The percentage abundance of B-10 is 20 and that of B-11 is 80. Then, the atomic mass of boron is calculated as follows:
-
-Atomic mass of
-
-boron = (10 × )20 100
-
-\+ (11 × )80 100
-
-\= (10 × 0.20) + (11 × 0.80) = 2 + 8.8 = 10.8 amu
-
-## MOLECULE AND MOLECULAR MASS
-
-
-Except noble gases, atoms of most of the elements are found in the combined form with itself or atoms of other elements. It is called as a molecule. **A molecule is a combination of two or more atoms held together by strong chemical forces of attraction, i.e. chemical bonds.**
-
-**Conceptual**
-
-**Thoughts**
-
-**All compounds are molecules;**
-
-**but,all molecules are not compounds**
-
-**why?**
-
-**7.2.1 Classification of molecules**
-
-A molecule may contain atoms of the same element or may contain atoms of two or more elements joined in a fixed ratio, in accordance with the law of definite proportions. Thus, a molecule may be an **element or a compound**. If the molecule is made of similar kind of atoms, then it is called **homoatomic molecule**.
-
-The molecule that consist of atoms of different elements is called heteroatomic **molecule.** A compound is a heteroatomic molecule. The number of atoms present in the molecule is called its ‘**atomicity**’**.**
-
-**Table 7.4 Classification of molecules**
-
-**Atomicity No. of atoms present Name**
-
-1 1 Monoatomic
-
-2 2 Diatomic
-
-3 3 Triatomic
-
-\>3 >3 Polyatomic
-
-Let us consider oxygen. Oxygen gas exists in two allotropic forms: Oxygen (O2) and Ozone (O3). In oxygen molecule, there are two oxygen atoms. So its atomicity is two. Since both the atoms are similar, oxygen (O2) is a homodiatomic molecule. Other elements
-
-
-
-
-
-
-
-
-
 
 | Atomic Number |Name |Symbol |Atomic Mass(amu) |
 |------|------|------|------|
@@ -255,6 +120,10 @@ Let us consider oxygen. Oxygen gas exists in two allotropic forms: Oxygen (O2) a
 | 4 |B er yllium |Be |9.012 |
 | 5 |B oron |B |10.811 |
 
+**Calculation of average atomic mass – Solved Examples**
+**Example 1:** Oxygen is the most abundant element in both the Earth’s crust and the human body. It exists as a mixture of three stable isotopes in nature as shown in Table 7.3:
+
+**Table 7.3** Isotopes of oxygen
 
 | Isotope |Mass (amu) |% abundance |
 |------|------|------|
@@ -262,6 +131,34 @@ Let us consider oxygen. Oxygen gas exists in two allotropic forms: Oxygen (O2) a
 | O178 |16.9991 |0.038 |
 | O188 |17.9992 |0.205 |
 
+The atomic mass of oxygen = (15.9949 × 0.99757) + (16.9991 ×
+0.00038) + (17.9992 × 0.00205)
+                          = 15.999 amu.
+
+**Example 2:** Boron naturally occurs as a mixture of boron-10 (5 protons + 5 neutrons) and boron-11 (5 protons + 6 neutrons) isotopes. The percentage abundance of B-10 is 20 and that of B-11 is 80. Then, the atomic mass of boron is calculated as follows:
+
+Atomic mass of
+
+boron = (10 × 20 / 100) + (11 × 80 / 100)
+
+    = (10 × 0.20) + (11 × 0.80) 
+    = 2 + 8.8 
+    = 10.8 amu
+
+## MOLECULE AND MOLECULAR MASS
+
+
+Except noble gases, atoms of most of the elements are found in the combined form with itself or atoms of other elements. It is called as a molecule. **A molecule is a combination of two or more atoms held together by strong chemical forces of attraction, i.e. chemical bonds.**
+
+![Alt text](image-3.png)
+
+**7.2.1 Classification of molecules**
+
+A molecule may contain atoms of the same element or may contain atoms of two or more elements joined in a fixed ratio, in accordance with the law of definite proportions. Thus, a molecule may be an **element or a compound**. If the molecule is made of similar kind of atoms, then it is called **homoatomic molecule**.
+
+The molecule that consist of atoms of different elements is called heteroatomic **molecule.** A compound is a heteroatomic molecule. The number of atoms present in the molecule is called its ‘**atomicity**’**.**
+
+**Table 7.4 Classification of molecules**
 
 | Atomicity |No. of atoms present |Name |
 |------|------|------|
@@ -271,144 +168,88 @@ Let us consider oxygen. Oxygen gas exists in two allotropic forms: Oxygen (O2) a
 | >3 |>3 |Polyatomic |
   
 
-95 **Atoms and molecules**
+Let us consider oxygen. Oxygen gas exists in two allotropic forms: Oxygen (O2) and Ozone (O3). In oxygen molecule, there are two oxygen atoms. So its atomicity is two. Since both the atoms are similar, oxygen (O2) is a homodiatomic molecule. Other elements.
 
-that exist as diatomic molecules are hydrogen (H2), nitrogen (N2) and halogens: fluorine (F2), chlorine (Cl2), bromine (Br2) and iodine (I2).
+**Activity 7.1**
 
-Oxygen Ozone (homodiatomic molecule) (homotriatomic molecule)
+Complete the following table by filling the appropriate values /terms
+
+| Element |No. of Protons |No. of Neutrons |Mass Number |Stable Isotopes (abundance) |Atomic Mass (amu) |
+|------|------|------|------|------|------|
+|| 7 |||N-14 (99.6 %) |
+||| 8 ||N-15 (0.4 %) |
+| Silicon |14 ||28 |Si-28 (92.2 %) |
+| Silicon |14|| |Si-29 (4.7 %) |
+| Silicon||16 ||Si-30 (3.1 %) |
+| |17 |||Cl-35 (75 %) |
+| | 17|||Cl-37 (25 %) |
+
+that exist as diatomic molecules are hydrogen (H<sup>2</sup>), nitrogen (N<sup>2</sup>) and halogens: fluorine (F<sup>3</sup>), chlorine (Cl<sup>2</sup>), bromine (Br<sup>2</sup>) and iodine (I<su>2</sub>).
+
+![Alt text](image-5.png)
 
 **Figure 7.1** Homoatomic molecules
 
-Ozone (O3) contains three oxygen atoms and hence it is called homotriatomic molecule. If a molecule contains more than three atoms, then it is called **polyatomic molecule**.
+Ozone (O<sup>3</sup>) contains three oxygen atoms and hence it is called homotriatomic molecule. If a molecule contains more than three atoms, then it is called **polyatomic molecule**.
 
 Conisder hydrogen chloride. It consists of two atoms, but of different elements, i.e. hydrogen and chlorine. So, its atomicity is two. It is a heterodiatomic molecule. Similarly, the water molecule contains two hydrogen atoms and one oxygen atom. So its atomicity is three. It is a heterotriatomic molecule.
 
-H Cl
-
-Hydrogen Chloride (Heterodiatomic Molecule)
-
-H H O
-
-Water (Heterotriatomic Molecule)
+![Alt text](image-6.png)
 
 **Figure 7.2** Heteroatomic molecules
 
+---
 **Activity 7.2**
 
 **Classify the following molecules based on their atomicity and fill in the table:**
 
 Fluorine (F2), Carbon dioxide (CO2), Phosphorous (P4), Sulphur (S8), Ammonia (NH3), Hydrogen iodide (HI), Sulphuric Acid (H2SO4), Methane (CH4), Glucose (C6H12O6), Carbon monoxide (CO)
 
-**Molecule Di -**
-
-**atomic Tri -**
-
-**atomic Poly -**
-
-**atomic**
-
-Homo
-
-Hetero
-
-**7.2.2   Relative Molecular Mass  (RMM)**
-
-As the molecules are made of atoms, they also have their own mass. The mass of the molecule of an element or compound is measured in the C-12 scale and hence called relative molecular mass.
-
-**The Relative Molecular Mass of a molecule is the ratio between the mass of one molecule of the substance to 1**
-
-**12th mass of an**
-
-**atom of Carbon -12.**
-
-**Activity 7.1**
-
-Complete the following table by filling the appropriate values /terms
-
-**Element No. of**
-
-**Protons No. of**
-
-**Neutrons Mass**
-
-**Number Stable Isotopes**
-
-**(abundance) Atomic Mass**
-
-**(amu)**
-
-7 N-14 (99.6 %)
-
-8 N-15 (0.4 %)
-
-**Silicon**
-
-**14 28 Si-28 (92.2 %)**
-
-**14 Si-29 (4.7 %)**
-
-**16 Si-30 (3.1 %)**
-
-17 Cl-35 (75 %)
-
-17 Cl-37 (25 %)
-
-
-
-
-
-
-
-
-
-
-| Element |No. of Protons |No. of Neutrons |Mass Number |Stable Isotopes (abundance) |Atomic Mass (amu) |
-|------|------|------|------|------|------|
-| 7 |N-14 (99.6 %) |
-| 8 |N-15 (0.4 %) |
-| Silicon |14 |28 |Si-28 (92.2 %) |
-| 14 |Si-29 (4.7 %) |
-| 16 |Si-30 (3.1 %) |
-| 17 |Cl-35 (75 %) |
-| 17 |Cl-37 (25 %) |
-
-
 | Mole cule |Di - atomic |Tri - atomic |Poly - atomic |
 |------|------|------|------|
 | Homo |
 | Hetero |
-  
+---
 
+## 7.2.2   Relative Molecular Mass  (RMM)
 
+As the molecules are made of atoms, they also have their own mass. The mass of the molecule of an element or compound is measured in the C-12 scale and hence called relative molecular mass.
+
+**The Relative Molecular Mass of a molecule is the ratio between the mass of one molecule of the substance to 1 /12<sub>th</sub> mass of anatom of Carbon -12.**
+
+---
+**DO YOU KNOW**
 
 Relative Molecular Mass is only a ratio. So, it has no unit. If the molecular mass of a com- pound is expressed in grams, it is called **_Gram Molecular Mass._**
 
-Gram Molecular Mass of water = 18 g Gram Molecular Mass of carbon dioxide = 44 g Gram Molecular Mass of ammonia = 17 g Gram Molecular Mass of HCl = 36.5 g
+Gram Molecular Mass of water = 18 g 
+Gram Molecular Mass of carbon dioxide = 44 g 
+Gram Molecular Mass of ammonia = 17 g 
+Gram Molecular Mass of HCl = 36.5 g
+
+---
 
 The relative molecular mass is obtained by adding together the relative atomic masses of all the atoms present in a molecule.
 
 **Calculation of relative molecular mass – Solved examples:**
 
-**Example 1:** Relative molecular mass of sulphuric acid (H2SO4) is calculated as follows: Sulphuric acid conatins 2 atoms of hydrogen, 1 atom of sulphur and 4 atoms of oxygen.
+**Example 1:** Relative molecular mass of sulphuric acid (H<sub>2</sub>SO<sub>4</sub>) is calculated as follows: Sulphuric acid conatins 2 atoms of hydrogen, 1 atom of sulphur and 4 atoms of oxygen.
 
-Therefore, Relative molecular mass of sulphuric acid = (2 × mass of hydrogen) +
+Therefore, Relative molecular mass of sulphuric acid = (2 × mass of hydrogen) +(1 × mass of sulphur) + (4 × mass of oxygen)
 
-(1 × mass of sulphur) + (4 × mass of oxygen)
-
-\= (2 × 1) + (1 × 32) + (4 × 16) = 98 i.e., one molecule of H2SO4 is 98 times as
-
-heavy as 1 12th
-
-of the mass of a carbon –12.
+    = (2 × 1) + (1 × 32) + (4 × 16) 
+    = 98 
+i.e., one molecule of (H<sub>2</sub>SO<sub>4</sub>) is 98 times as heavy a 1 /12<sup>th</sup> of the mass of a carbon –12.
 
 **Example 2:** Relative molecular mass of water (H2O) is calculated as follows: A water molecule is made of 2 atoms of hydrogen and one atom of oxygen.
 
-So, the relative molecular mass of water = (2 × mass of hydrogen) + (1 × mass of
+So, the relative molecular mass of water = (2 × mass of hydrogen) + (1 × mass of oxygen) 
 
-oxygen) = (2 × 1) + (1 × 16) = 18 i.e., one molecule of H2O is 18 times as
+= (2 × 1) + (1 × 16) 
 
-heavy as 1 12th
+= 18 
 
+i.e., one molecule of H2O is 18 times as heavy as 1 12th
 of the mass of a carbon –12.
 
 ## DIFFERENCE BETWEEN ATOMS AND MOLECULES
@@ -418,90 +259,63 @@ Even though atoms are the basic components of molecules, they differ in many asp
 
 **Table 7.5 Difference between atoms and** molecules
 
-**Atom Molecule**
-
-**An atom is the smallest particle of an element**
-
-**A molecule is the smallest particle of an element or compound.**
-
-**Atom does not exist in free state except in noble gas**
-
-**Molecule exists in a free a state**
-
-**Except some of noble gas, other atoms are highly reactive**
-
-**Molecules are less reactive**
-
-**Atom does not have a chemical bond**
-
-**Atoms in a molecule are held by chemical bonds**
-
-## MOLE CONCEPT
-
-
-So far we discussed about matters in terms of individual atoms and molecules. Atomic mass units provide a relative scale for the masses of the elements. Since the atoms have such small masses, no usable scale can be devised to weigh them in the calibrated units of atomic mass units. In any real situation, we deal with macroscopic samples containing enormous number of atoms. Therefore, it is convenient to have a special unit to describe a very large number of atoms. The idea of a ‘unit’ to denote a particular number of objects is not new. For example, **the pair (2 items) and the dozen (12 items)**, are all familiar units. Chemists measure atoms and molecules in ‘moles’. So, you can now understand that ‘mole’ denotes a number of particles.
-
-
-
-
-
-
-
-
-
-
 | Atom |Mole cule |
 |------|------|
 | An atom is the smallest particle of an element |A molecule is the smallest particle of an element or compound. |
 | Atom does not exist in free state except in  noble gas |Molecule exists in a free a state |
 | Except some of noblegas, other atoms arehighly reactive |Molecules are less reactive |
 | Atom does not have a chemical bond |Atoms in a molecule are held by chemical bonds |
-  
 
-97 **Atoms and molecules**
+## MOLE CONCEPT
+
+So far we discussed about matters in terms of individual atoms and molecules. Atomic mass units provide a relative scale for the masses of the elements. Since the atoms have such small masses, no usable scale can be devised to weigh them in the calibrated units of atomic mass units. In any real situation, we deal with macroscopic samples containing enormous number of atoms. Therefore, it is convenient to have a special unit to describe a very large number of atoms. The idea of a ‘unit’ to denote a particular number of objects is not new. For example, **the pair (2 items) and the dozen (12 items)**, are all familiar units. Chemists measure atoms and molecules in ‘moles’. So, you can now understand that ‘mole’ denotes a number of particles.
 
 In the SI system, the **_mole (mol)_ is _the amount of a substance that contains as many elementary entities (atoms, molecules, or other particles) as there are atoms in exactly 12 g (or 0.012 kg) of the carbon-12 isotope. The_** actual number of atoms in 12 g of carbon-12 is determined experimentally. This is called **Avogadro’s Number (NA), named after an Italian** scientist **Amedeo Avogadro** who proposed its significance. Its value is 6.023 × 1023. So one mole of a substance contains ## × 1023
- entities. Thus, 5 moles of oxygen molecules contain 5 × 6.023 ×1023
-
-molecules. **Mole Concept: The study of the collection**
-
-of particles by using mole as the counting unit, in order to express the mass and volume of such unit particles in a bulk of matter is known as **mole concept**.
+ entities. Thus, 5 moles of oxygen molecules contain 5 × 6.023 ×1023 molecules. 
+ 
+ **Mole Concept:** The study of the collection of particles by using mole as the counting unit, in order to express the mass and volume of such unit particles in a bulk of matter is known as **mole concept**.
 
 The number of moles of a substance can be calculated by various means depending on the data available, as follows:
 
-� Number of moles of molecules.
+- Number of moles of molecules.
 
-� Number of moles of atoms.
+- Number of moles of atoms.
 
-� Number of moles of a gas (Standard molar volume at STP = 22.4 litre).
+- Number of moles of a gas (Standard molar volume at STP = 22.4 litre).
 
-� Number of moles of ions.
+- Number of moles of ions.
 
-**Note:** STP-Standard Temperature and
+**Note:** 
 
-Pressure(273.15 K,1.00 atm)
+STP-Standard Temperature and Pressure(273.15 K,1.00 atm)
 
-**Mole of atoms:** One mole of an element contains
+**Mole of atoms:** 
 
-6.023 × 1023 atoms and it is equal to its gram atomic mass.
+mole of an element contains 6.023 × 10<sup>23</sup> atoms and it is equal to its gram atomic mass.
 
-i.e., one mole of oxygen atom contains 6.023 × 1023 atoms of oxygen and its gram atomic mass is 16 g.
+i.e., one mole of oxygen atom contains 6.023 × 10<sup>23</su> atoms of oxygen and its gram atomic mass is 16 g.
 
-**Mole of molecules:** One mole of matter contains 6.023 × 1023
+**Mole of molecules:** One mole of matter contains 6.023 × 10<sup>23</sup>
 
 molecules and it is equal to its gram molecular mass.
 
-i.e., one mole of oxygen molecule contains 6.023 × 1023 molecules of oxygen and its gram molecular mass is 32 g.
+i.e., one mole of oxygen molecule contains 6.023 × 10<sup>23</sup> molecules of oxygen and its gram molecular mass is 32 g.
 
-**Molar volume:** One mole of any gas occupies 22.4 litre or
+**Molar volume:** 
 
-22400 ml at S.T.P. This volume is called as molar volume.
+One mole of any gas occupies 22.4 litre or 22400 ml at S.T.P. This volume is called as molar volume.
 
-**Calculation of number of moles by Different modes** Number of moles = Mass / Atomic Mass
+**Calculation of number of moles by Different modes** 
 
-\= Mass / Molecular mass = Number of Atoms / 6.023 × 1023
+Number of moles 
 
-\= Number of Molecules / 6.023 × 1023
+= Mass / Atomic Mass
+
+= Mass / Molecular mass = Number of Atoms / 6.023 × 10<sup>23</sup>
+
+= Number of Molecules / 6.023 × 10<sup>23</sup>
+
+![Alt text](image-8.png)
 
 **Figure 7.3** Mole concept
 
@@ -512,24 +326,11 @@ So for, we were dealing with the number of entities present in a given substance
 
 The percentage composition of a compound represents the mass of each element present in 100 g of the compound.
 
-Let us understand the percentage composition of oxygen and hydrogen by taking
-
-
-
-
-
-
-
-
-  
-
-
-
-the example of H2O. It can be calculated using the formula
+Let us understand the percentage composition of oxygen and hydrogen by taking the example of H2O. It can be calculated using the formula
 
 Mass % of an element
 
-\= _mass of that element in the compound_
+= mass of that element in the compound /
 
 × 100 _molecular mass of the compound_
 
@@ -541,7 +342,7 @@ Mass % of hydrogen = 2 × 100
 
 Mass % of oxygen = 16 × 100
 
-18 = 88.89 %
+18 = 88.89 %// to do
 
 This percentage composition is useful to determine the empirical formula and molecular formula.
 
@@ -555,29 +356,35 @@ Mass % of carbon = 12 × 100
 
 Mass % of hydrogen = 4 × 100
 
-16 = 25 %
+16 = 25 % // todo
 
 ## AVOGADRO HYPOTHESIS
 
 
 In 1811 Avogadro framed a hypothesis based on the relationship between the number of molecules present in equal volumes of gases in different conditions.
 
-The Avogadro’s law states that “equal **_volumes of all gases under similar conditions of temperature and pressure contain equal number of molecules”_**
+The Avogadro’s law states that “equal **volumes of all gases under similar conditions of temperature and pressure contain equal number of molecules”**
 
 It follows that the volume of any given gas must be proportional to the number of molecules in it. If ‘V’ is the volume and ‘n’ is the
 
 number of molecules of a gas, then Avogadro law is represented, mathematically, as follows:
 
-V α n V = constant × n Thus, one litre (1 dm3) of hydrogen contains
+V α n 
+V = constant × n 
+ 
+ Thus, one litre (1 dm3) of hydrogen contains
 
 the same number of molecules as in one litre of oxygen, i.e. the volume of the gas is directly proportional to the number of molecules of the gas.
+![Alt text](image-9.png)
 
 **Figure 7.4 Avogadro Hypothesis**
 
-**Explanation** Let us consider the reaction between
+**Explanation** 
 
+Let us consider the reaction between
 hydrogen and chlorine to form hydrogen chloride gas
 
+//todo
 H2(g) + Cl2(g) → 2 HCl(g)
 
 1 vol + 1 vol → 2 volumes
@@ -586,35 +393,26 @@ According to Avogadro’s law 1 volume of any gas is occupied by “n” number 
 
 1 molecule of hydrogen chloride gas is made up of ½ molecule of hydrogen and ½ molecule of chlorine. Hence, the molecules can be subdivided. This law is in agreement with Dalton’s atomic theory.
 
+---
 **Activity 7.3**
 
 Under same conditions of temperature and pressure if you collect 3 litre of O2, 5 litre of Cl2 and 6 litre of H2, i. Which has the highest number of
 
 molecules? ii. Which has the lowest number of molecules?
 
-
-
-
-
-
-
-
-  
-
-99 **Atoms and molecules**
-
+---
 ## APPLICATIONS OF AVOGADRO’S LAW
 
 
-i. It explains Gay-Lussac’s law. ii. It helps in the determination of atomicity of
+i. It explains Gay-Lussac’s law. 
 
-gases. iii. Molecular formula of gases can be derived
+ii. It helps in the determination of atomicity of gases. 
 
-using Avogadro’s law iv. It determines the relation between molecular
+iii. Molecular formula of gases can be derived using Avogadro’s law 
 
-mass and vapour density. v. It helps to determine gram molar volume of
+iv. It determines the relation between molecular mass and vapour density. 
 
-all gases (i.e, 22.4 litre at S.T.P)
+v. It helps to determine gram molar volume of all gases (i.e, 22.4 litre at S.T.P)
 
 ## RELATIONSHIP BETWEEN VAPOUR DENSITY AND RELATIVE MOLECULAR MASS
 
@@ -623,18 +421,18 @@ all gases (i.e, 22.4 litre at S.T.P)
 
 The Relative Molecular Mass of a gas or vapour is the ratio between the mass of one molecule of the gas or vapour to mass of one atom of Hydrogen.
 
-**ii. Vapour Density:** Vapour density is the ratio of the mass
+**ii. Vapour Density:** 
 
+Vapour density is the ratio of the mass
 of a certain volume of a gas or vapour, to the mass of an equal volume of hydrogen, measured under the same conditions of temperature and pressure.
 
-Vapour Density (V.D.)
-
-\= Mass of a given volume of gas or vapour at S.T.P. Mass of the same volume of hydrogen
+Vapour Density (V.D.) = Mass of a given volume of gas or vapour at S.T.P./ Mass of the same volume of hydrogen
+//todo
 
 According to Avogadro's law, equal volumes of all gases contain equal number of molecules.
 
 Thus, let the number of molecules in one volume = n, then
-
+//todo
 V.D. at S.T.P
 
 \= Mass of ‘n’ molecules of a gas or vapour at
@@ -670,15 +468,17 @@ V.D. = Relative molecular mass 2
 Now on cross multiplication, you have
 
 2 × vapour density = Relative molecular mass of a gas (Or) Relative molecular mass = 2 × Vapour density
-
+// todo
 ## SOLVED PROBLEMS
 
 
 **I. Calculation of molecular mass** Calculate the gram molecular mass of the following.
-
+//todo
 1) H2O 2) CO2 3) Ca3 (PO4)2
 
-**Solution: 1) H2O**
+**Solution:** 
+
+1) H<sub>2</sub>O
 
 Atomic masses of H = 1, O = 16
 
@@ -927,270 +727,29 @@ molecular mass of H2SO4
 
 \= 32.65 %
 
+//todo
+
 **Points to Remember**
 
-� Two or more forms of an element having the same atomic number, but different mass number are called Isotopes (17Cl35, 17Cl37).
+- Two or more forms of an element having the same atomic number, but different mass number are called Isotopes (17Cl35, 17Cl37).
 
-� Atoms of different elements having the same mass number, but different atomic numbers are called Isobars (18Ar40, 20Ca40).
+- Atoms of different elements having the same mass number, but different atomic numbers are called Isobars (18Ar40, 20Ca40).
 
-� Atoms of different elements having the same number of neutrons, but different atomic number and different mass number are called Isotones ( 6C
+- Atoms of different elements having the same number of neutrons, but different atomic number and different mass number are called Isotones ( 6C
 
 13, 7N 14 ).
 
-� Relative atomic mass of an element is the ratio between the mass of one atom of the element to 1/12th of the mass of the atom of carbon -12.
+- Relative atomic mass of an element is the ratio between the mass of one atom of the element to 1/12th of the mass of the atom of carbon -12.
 
-� Average atomic mass of an element is calculated by adding the masses of its isotopes, each multiplied by their natural abundance on the Earth.
+- Average atomic mass of an element is calculated by adding the masses of its isotopes, each multiplied by their natural abundance on the Earth.
 
-� Relative molecular mass of a molecule is the ratio between the mass of one molecule of the substance to 1/12th of the mass of the atom of carbon – 12.
+- Relative molecular mass of a molecule is the ratio between the mass of one molecule of the substance to 1/12th of the mass of the atom of carbon – 12.
 
-� The Avogadro’s law states that “equal volumes of all gases under similar conditions of temperature and pressure contain equal number of molecules”.
+- The Avogadro’s law states that “equal volumes of all gases under similar conditions of temperature and pressure contain equal number of molecules”.
 
-� The vapour density is defined as “the ratio between the masses of equal volumes of a gas (or a vapour) and hydrogen under the same condition”.
+- The vapour density is defined as “the ratio between the masses of equal volumes of a gas (or a vapour) and hydrogen under the same condition”.
 
-� Atomicity of a monoatomic element = Molecular mass / Atomic Mass.
+- Atomicity of a monoatomic element = Molecular mass / Atomic Mass.
 
-� Molecular mass = 2 × Vapour density.
-
-**TEXTBOOK EVALUATION**
-
-**I. Choose the best answer.**
-
-1\. Which of the following has the smallest mass? a. 6.023 × 1023 atoms of He b. 1 atom of He c. 2 g of He d. 1 mole atoms of He
-
-2\. Which of the following is a triatomic molecule? a. Glucose b. Helium c. Carbon dioxide d. Hydrogen
-
-3\. The volume occupied by 4.4 g of CO2 at S.T.P a. 22.4 litre b. 2.24 litre c. 0.24 litre d. 0.1 litre
-
-4\. Mass of 1 mole of Nitrogen atom is a. 28 amu b. 14 amu c. 28 g d. 14 g
-
-5\. Which of the following represents 1 amu? a. Mass of a C – 12 atom b. Mass of a hydrogen atom c. 1/12th of the mass of a C – 12 atom d. Mass of O – 16 atom
-
-
-
-
-
-
-
-
-  
-
-103 **Atoms and molecules**
-
-6\. Which of the following statement is incorrect? a. 12 gram of C – 12 contains Avogadro’s
-
-number of atoms. b. One mole of oxygen gas contains
-
-Avogadro’s number of molecules. c. One mole of hydrogen gas contains
-
-Avogadro’s number of atoms. d. One mole of electrons stands for
-
-6.023 × 1023 electrons.
-
-7\. The volume occupied by 1 mole of a diatomic gas at S.T.P is a. 11.2 litre b. 5.6 litre c. 22.4 litre d. 44.8 litre
-
-8\. In the nucleus of 20Ca40, there are
-
-a. 20 protons and 40 neutrons b. 20 protons and 20 neutrons c. 20 protons and 40 electrons d. 40 protons and 20 electrons
-
-9\. The gram molecular mass of oxygen molecule is a. 16 g b. 18 g c. 32 g d. 17 g
-
-10\. 1 mole of any substance contains \_\_\_\_ molecules. a. 6.023 × 1023 b. 6.023 × 10-23
-
-c. 3.0115 × 1023 d. 12.046 × 1023
-
-**II. Fill in the blanks**
-
-1\. Atoms of different elements having \_\_\_\_\_\_\_ mass number, but \_\_\_\_\_\_\_\_ atomic numbers are called isobars.
-
-2\. Atoms of different elements having same number of \_\_\_\_\_\_\_\_\_\_\_ are called isotones.
-
-3\. Atoms of one element can be transmuted into atoms of other element by \_\_\_\_\_\_\_\_
-
-4\. The sum of the numbers of protons and neutrons of an atom is called its \_\_\_\_\_\_\_\_\_\_
-
-5\. Relative atomic mass is otherwise known as \_\_\_\_\_\_\_\_\_\_
-
-6\. The average atomic mass of hydrogen is \_\_\_\_\_\_\_\_\_\_\_ amu.
-
-7\. If a molecule is made of similar kind of atoms, then it is called \_\_\_\_\_\_\_\_\_\_\_\_ atomic molecule.
-
-8\. The number of atoms present in a molecule is called its \_\_\_\_\_\_\_\_\_\_\_\_
-
-9\. One mole of any gas occupies \_\_\_\_\_\_\_\_ ml at S.T.P
-
-10 Atomicity of phosphorous is \_\_\_\_\_\_\_\_\_\_\_
-
-**III. Match the following**
-
-1\. 8 g of O2 - 4 moles
-
-2\. 4 g of H2 - 0.25 moles
-
-3\. 52 g of He - 2 moles
-
-4\. 112 g of N2 - 0.5 moles
-
-5\. 35.5 g of Cl2 - 13 moles
-
-**IV. True or False: (If false give the correct statement)**
-
-1\. Two elements sometimes can form more than one compound.
-
-2\. Noble gases are Diatomic 3. The gram atomic mass of an element has
-
-no unit 4. 1 mole of Gold and Silver contain same
-
-number of atoms 5. Molar mass of CO2 is 42g.
-
-**V. Assertion and Reason:**
-
-**Answer the following questions using the data given below:**
-
-i) A and R are correct, R explains the A. ii) A is correct, R is wrong. iii) A is wrong, R is correct. iv) A and R are correct, R doesn’t explains A.
-
-**1\. Assertion: The Relative Atomic mass of** aluminium is 27 **Reason:** An atom of aluminium is 27 times heavier than 1/12th of the mass of the C – 12 atom.
-
-
-
-
-
-
-
-
-  
-
-
-
-ii. Calculate the gram molecular mass of calcium carbonate involved in this reaction
-
-iii. How many moles of CO2 are there in this equation?
-
-**IX. Solve the following problems**
-
-1\. How many grams are there in the following?
-
-i. 2 moles of hydrogen molecule, H2
-
-ii. 3 moles of chlorine molecule, Cl2
-
-iii. 5 moles of sulphur molecule, S8
-
-iv. 4 moles of phosphorous molecule, P4
-
-2\. Calculate the % of each element in calcium carbonate. (Atomic mass: C-12, O-16, Ca -40)
-
-3\. Calculate the % of oxygen in Al2(SO4)3. (Atomic mass: Al-27, O-16, S -32)
-
-4\. Calculate the % relative abundance of B -10 and B -11, if its average atomic mass is 10.804 amu.
-
-**REFERENCE BOOKS**
-
-1) Petrucci, Ralph H et.al. General Chemistry: Principles & Modern Applications (9th Edition). Upper Saddle River, NJ: Pearson Prentice Hall, 2007. Print.
-
-2) Raymond Chang. (2010). Chemistry. New York, NY: The Tata McGraw Hill Companies. Inc.
-
-3) Julia Burdge. (2011). Chemistry. New York, NY: The Tata McGraw Hill Companies.Inc.
-
-**INTERNET RESOURCES**
-
-https://www2.estrellamountain.edu/faculty/ farabee/biobk/BioBookCHEM1.html
-
-https://www.toppr.com/guides/chemistry/ atoms-and-molecules/
-
-**2\. Assertion: The Relative Molecular Mass of** Chlorine is 35.5 a.m.u.
-
-**Reason: The natural abundance of Chlorine** isotopes are not equal.
-
-**VI. Short answer questions**
-
-1\. Define: Relative atomic mass. 2. Write the different types of isotopes of
-
-oxygen and its percentage abundance. 3. Define: Atomicity 4. Give any two examples for heterodiatomic
-
-molecules. 5. What is Molar volume of a gas?
-
-6\. Find the percentage of nitrogen in ammonia.
-
-**VII. Long answer questions**
-
-1\. Calculate the number of water molecule present in one drop of water which weighs 0.18 g.
-
-2\. N2 + 3 H2 → 2 NH3
-
-(The atomic mass of nitrogen is 14, and that of hydrogen is 1)
-
-1 mole of nitrogen (\_\_\_\_\_\_\_g) + 3 moles of hydrogen ( \_\_\_\_\_\_\_\_\_ g) →
-
-2 moles of ammonia ( \_\_\_\_\_\_\_\_\_ g)
-
-3\. Calculate the number of moles in
-
-i) 27g of Al ii) 1.51 × 1023 molecules of NH4Cl
-
-4\. Give the salient features of “Modern atomic theory”.
-
-5\. Derive the relationship between Relative molecular mass and Vapour density.
-
-**VIII. HOT question**
-
-1\. Calcium carbonate is decomposed on heat- ing in the following reaction
-
-CaCO3 → CaO + CO2
-
-i. How many moles of Calcium carbonate are involved in this reaction?
-
-
-
-
-
-
-
-
-  
-
-105 **Atoms and molecules**
-
-**CONCEPT MAP**
-
-Atoms and Molecules
-
-Atom
-
-Atomic Mass
-
-Relative Atomic Mass
-
-Average Atomic Mass
-
-Mole Concept
-
-Molecule
-
-Molecular Mass
-
-Relative Molecular
-
-Mass
-
-Modern Atomic Theory
-
-Avogadro’s Hypothesis
-
-Gay-Lussac’s law Atomicity of molecule
-
-Determine molecular formula Relation between M.M and V.D
-
-Isotopes Isobars
-
-Isotones
-
-
-
-
-
-
-
-
-
-
+- Molecular mass = 2 × Vapour density.
 
