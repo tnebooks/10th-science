@@ -12,6 +12,8 @@ In general, whenever we think of computers, the things that come to our mind is 
 
 The reason we prefer computer is its speed and the ability to store data. How can we save data and information in computer? We can save
 
+![Alt text](image.png)
+
 them in folders which accommodate multiple files or a single file. Let us understand the terminologies like file and folder before moving further.
 
 ### FILE
@@ -19,17 +21,6 @@ them in folders which accommodate multiple files or a single file. Let us unders
 
 The output we get from any application is commonly referred as ‘file’. Therefore the application for the specific purposes determines the nature of the file.
 
-**Learning Objectives**
-
-At the end of this lesson the students will be able to:
-
-- Differentiate a File from a Folder
-
-- Know how to create a File and a Folder
-
-- Use the software application to create Animation
-
-23 VISUAL COMMUNICATION
 
 #### FOLDER
 
@@ -40,26 +31,25 @@ More people are using Windows and LINUX operating systems in their computers. We
 
 We use ‘Guide Board’ to go to the unknown places like that when we ‘On’ the computer click the ‘START’ button at the left corner of the computer, it shows the list of all programs in the computer. Now select the required program and create the required files.
 
+![Alt text](image-1.png)
+
 **How can we create Files?**
 
- For example if the computer is operating on the Windows OS, we can collect our notes in ‘Notepad’ application and draw pictures in ‘Paint’ application.
+For example if the computer is operating on the Windows OS, we can collect our notes in ‘Notepad’ application and draw pictures in ‘Paint’ application.
 
 As per it’s name we can type notes in ‘Notepad’ and save the created files in a folder. Likewise in the ‘Paint’ app we can draw and edit pictures. With these pictures, let us see how we can create image gallery, animations and graphics easily.
+![Alt text](image-2.png)
 
 Pictures and audio-visuals gives us more understanding than teaching and writing on the black board. Is it right?
+
+![Alt text](image-3.png)
 
 Instead of saying a story like ‘once upon a time there was a king’ we can understand the concept easily by seeing the video and also it registers firmly in the minds of the students. The device which helps in explaining the concepts easily through pictures is known as ‘Visual Communication Device’. For example photos, audio -visuals, drawings, animations all these can be created easily with the help of computer. Cinema is a good example for ‘Visual Communication Device’.
 
 ## SCRATCH
 
 
-**Introduction** ‘Scratch’ is a software used to create
-
-animations, cartoons and games easily. Scratch is a visual programming language. It
-
-**Visual Communication**
-
-was developed in the Massachusetts Institute of Technology (MIT) Media Lab to make programming easier and more fun to learn.
+**Introduction** ‘Scratch’ is a software used to create animations, cartoons and games easily. Scratch is a visual programming language. It was developed in the Massachusetts Institute of Technology (MIT) Media Lab to make programming easier and more fun to learn.
 
 **Scratch Environment Editor** The Scratch editor has three main parts:
 
@@ -67,9 +57,11 @@ They are Stage, Sprite and Script editor.
 
 **Stage**: Stage is the background appearing when we open the scratch window. The background will most often be white. You can change the background colour as you like.
 
-**Sprite: The characters on the background of a** Scratch window are known as Sprite. Usually acat appears as a sprite when the Scratch window is opened. The software provides facilities to make alternations in sprite.
+**Sprite:** The characters on the background of a Scratch window are known as Sprite. Usually acat appears as a sprite when the Scratch window is opened. The software provides facilities to make alternations in sprite.
 
 **Script editor / costume editor:** Where you edit your programs or your sprite’s pictures.
+
+![Alt text](image-4.png)
 
 You should see a single window with at least the following three panes: the Stage (top left), the Sprite List (bottom left), and the Scripts tab (right), which contains the Blocks tab and the Scripts Area. The right pane also contains two additional tabs, Costumes and Sounds.
 
@@ -81,110 +73,65 @@ You should see a single window with at least the following three panes: the Stag
 
 • **Block palette:** Where you choose the block to use.
 
-When the Costumes tab is chosen, the costume
+When the Costumes tab is chosen, the costume editor is shown (outlined in red):
 
-editor is shown (outlined in red):
+![Alt text](image-5.png)
 
 **Movement and Loops** _Click File/New to create a new project and enter a project name ._
 
 Click the menu **Script → Event, drag a when green flag clicked block to the scripts** area. Your scripts area should look like this:
 
+![Alt text](image-6.png)
+
 Click the menu **Script → Motion** menu, drag a **goto x: 0 y: 0** block to the scripts area and snap it to the bottom of the when green flag **clicked** block. Your script should look like this:
+
+![Alt text](image-7.png)
 
 **Add a move 10 steps block to the bottom of your script and change the 10 into 100.**
 
+![Alt text](image-8.png)
+
 Click the green flag at the top right corner of the stage to run your program.
 
-10th\_Science Unit-23 .indd 331 06-12-2021 18:56:44
+**Adding Sound** 
+1. Click Sprite1 in the sprite list and click the Sounds tab. 
 
+2. Try the meow sound already there. If you don’t like it, click the speaker icon to choose a different sound from the sound library.
 
+3. Click the Scripts tab and find the play sound block from the Sound menu. Add this block to the when space key pressed script. (Select the sound you want from the drop-down list.)
 
+4. Run your program.
 
-
-
-  
-
-
-
-**Adding Sound** 1\. Click Sprite1 in the sprite list and click the
-
-Sounds tab. 2. Try the meow sound already there. If
-
-you don’t like it, click the speaker icon to choose a different sound from the sound library.
-
-3\. Click the Scripts tab and find the play sound block from the Sound menu. Add this block to the when space key pressed script. (Select the sound you want from the drop-down list.)
-
-4\. Run your program.
-
-**Example:** Program for print the word “Hello” with sound
+**Example:** 
+Program for print the word “Hello” with sound
+![Alt text](image-9.png)
 
 1\. Click events in script option
 
-2\. Drag tab to script area
+![Alt text](image-10.png)
+
+2\. Drag ![Alt text](image-11.png) tab to script area
+
+![Alt text](image-12.png)
 
 3\. Click Looks in script option. Drag “say” to script area.
 
+![Alt text](image-13.png)
+
 4\. Type “Hello “ word in say tab.
 
+![Alt text](image-14.png)
+
 5\. Click sounds in script option. Drag play sound to script area. Choose the hello sound from the audio file.
+
+![Alt text](image-15.png)
 
 6\. From File menu choose the Save option.
 
 7\. Click the green flag at the top right corner of the stage window to run the program
 
-10th\_Science Unit-23 .indd 332 06-12-2021 18:56:44
-
-
-
-
-
-
-  
-
-333 **Visual Communication**
+![Alt text](image-16.png)
 
 **Output:**
 
-**I. Choose the best answer**
-
-1\. Which software is used to create animation ? a) Paint b) PDF c) MS Word d) Scratch
-
-2\. All files are stored in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_ a) Folder b) box c) Pai d) scanner
-
-3\. Which is used to build scripts? a) Script area b) Block palette c) stage d) sprite
-
-4\. Which is used to edit programs? a) Inkscape b) script editor c) stage d) sprite
-
-5\. Where you will create category of blocks? a) Block palette b) Block menu c) Script area d) sprite
-
-**TEXTBOOK EVALUATION**
-
-**II. Match the Following**
-
-1\. Script Area Type notes
-
-2\. Folder Animation software
-
-3\. Scratch Edit programs
-
-4\. Costume editor Store files
-
-5\. Notepad Build Scripts
-
-**III. Answer the following**
-
-1\. What is Scratch?
-
-2\. Write a short note on editor and its main parts?
-
-3\. What is Stage?
-
-4\. What is Sprite?
-
-10th\_Science Unit-23 .indd 333 06-12-2021 18:56:44
-
-
-
-
-
-
+![Alt text](image-17.png)
