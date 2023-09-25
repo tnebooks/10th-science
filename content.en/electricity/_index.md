@@ -3,7 +3,19 @@ title: 'ELECTRICITY'
 weight: 4
 ---
 
-**10th Standard Science**
+# Electricity
+
+**Learning Objectives**
+
+At the end of this lesson, students will be able to: 
+
+‹ Make an electric circuit. 
+‹ Differentiate between electric potential and potential difference. 
+‹ Infer what electrical resistivity and conductivity mean. 
+‹ Know the effective resistance of a system of resistors connected in series and parallel. 
+‹ Understand the heating effect of the electric current. 
+‹ Define electric power and electric energy and explain domestic electric circuits. 
+‹ Know the modern appliances such as LED bulb and LED television.
 
 **INTRODUCTION**
 
@@ -16,58 +28,38 @@ The motion of electric charges (electrons) through a conductor (e.g., copper wir
 
 the flow of water through a channel or flow of air from a region of high pressure to a region of low pressure.
 
+![Alt text](image.png)
+
 In a similar manner, the electric current passes from the positive terminal (higher electric potential) of a battery to the negative terminal (lower electric potential) through a wire as shown in the Figure 4.1.
 
 **4.1.1   Definition of electric  current**
 
-Electric current is often termed as ‘current’ and it is represented by the symbol ‘I’. It is defined as the rate of flow of charges in a **conductor. This means that the electric current** represents the amount of charges flowing in any cross section of a conductor (say a metal wire) in unit time. If a net charge ‘Q’ passes through any cross section of a conductor in
+Electric current is often termed as ‘current’ and it is represented by the symbol ‘I’. **It is defined as the rate of flow of charges in a conductor.** This means that the electric current** represents the amount of charges flowing in any cross section of a conductor (say a metal wire) in unit time. If a net charge ‘Q’ passes through any cross section of a conductor time ‘t’, then the current flowing through the conductor is
 
-**Figure 4.1** Electron flow
-
-**Learning Objectives**
-
-At the end of this lesson, students will be able to: ‹ Make an electric circuit. ‹ Differentiate between electric potential and potential difference. ‹ Infer what electrical resistivity and conductivity mean. ‹ Know the effective resistance of a system of resistors connected in series and parallel. ‹ Understand the heating effect of the electric current. ‹ Define electric power and electric energy and explain domestic electric circuits. ‹ Know the modern appliances such as LED bulb and LED television.
-
-4 ELECTRICITY
-
-
-
-
-
-
-
-
-
-
-
-|------|
-
-  
-
-43 **Electricity**
-
-time ‘t’, then the current flowing through the conductor is
-
-I = (4.1)
+I = Q / t
 
 **4.1.2  SI unit of electric current**
 
 The SI unit of electric current is ampere (A). The current flowing through a conductor is said to be one ampere, when a charge of one coulomb flows across any cross-section of a conductor, in one second. Hence,
 
-1 ampere = .
+1 ampere = .//todo
 
-**Solved Problem-1** A charge of 12 coulomb flows through a
+**Solved Problem-1** 
 
+A charge of 12 coulomb flows through a
 bulb in 5 second. What is the current through the bulb?
 
-**Solution:** Charge Q = 12 C, Time t = 5 s. Therefore,
+**Solution:**
+//todo
+Charge Q = 12 C, Time t = 5 s. Therefore,
 
 current I = = = 2.4 A
 
 ## ELECTRIC CIRCUIT
 
 
-An electric circuit is a closed conducting loop (or) path, which has a network of electrical components through which electrons are able to flow. This path is made using electrical wires so as to connect an electric appliance to a source of electric charges (battery). A schematic diagram of an electric circuit comprising of a battery, an electric bulb, and a switch is given in Figure 4.2.
+An electric circuit is a closed conducting loop (or) path, which has a network of electrical components through which electrons are able to flow. This path is made using electrical wires so as to connect an electric appliance to a source of electric charges (battery). A schematic diagram of an electric circuit comprisisng of a battery, an electric bulb, and a switch is given in Figure 4.2.
+![Alt text](image-1.png)
 
 **Figure 4.2** A simple electric circuit
 
