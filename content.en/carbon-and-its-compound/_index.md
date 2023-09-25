@@ -2,12 +2,22 @@
 title: 'CARBON AND ITS COMPOUND'
 weight: 11
 ---
+# CARBON AND ITS COMPOUND
+
+**Learning Objectives**
+
+After studying this lesson, the student will be able to: 
+� know the importance of organic compounds. 
+� classify the organic compounds and name them based on IUPAC rules. 
+� identify the functional groups of organic compounds. 
+� explain the preparation, properties and uses of ethanol and ethanoic acids. 
+� know the composition and preparation of soap and detergent. 
+� understand the cleansing action of soap and detergents. 
+� differentiate soap and detergents.
 
 **INTRODUCTION**
 
-You have studied, in your lower classes, that carbon is an inseparable element in human life as we use innumerable number of carbon compounds in our day to day life. Because, the food we eat, medicines we take when ill, clothes we wear; domestic and automobile fuels, paint, cosmetics, automobile parts, etc., that we use contain carbon compounds. The number of carbon compounds found in nature and man-made, is much higher than that of any other element in the periodic table. Infact there are more than 5 million compounds of carbon. The unique nature of carbon, such as catenation, tetravalency and multiple bonding, enables it to combine with itself or other elements like hydrogen, oxygen, nitrogen,sulphur etc., and hence form large number of compounds. All these compounds are made of covalent bonds. These compounds
-
-are called **organic compounds.** In this lesson, you will learn about carbon compounds.
+You have studied, in your lower classes, that carbon is an inseparable element in human life as we use innumerable number of carbon compounds in our day to day life. Because, the food we eat, medicines we take when ill, clothes we wear; domestic and automobile fuels, paint, cosmetics, automobile parts, etc., that we use contain carbon compounds. The number of carbon compounds found in nature and man-made, is much higher than that of any other element in the periodic table. Infact there are more than 5 million compounds of carbon. The unique nature of carbon, such as catenation, tetravalency and multiple bonding, enables it to combine with itself or other elements like hydrogen, oxygen, nitrogen,sulphur etc., and hence form large number of compounds. All these compounds are made of covalent bonds. These compounds are called **organic compounds.** In this lesson, you will learn about carbon compounds.
 
 ## GENERAL CHARACTERISTICS OF ORGANIC COMPOUNDS
 
@@ -18,28 +28,10 @@ Everything in this world has unique character, similarly organic compounds are u
 
 � They are mostly insoluble in water, but soluble in organic solvents such as ether, carbon tetrachloride, toluene, etc.
 
-� They are highly inflammable in nature � Organic compounds are less reactive
+� They are highly inflammable in nature 
 
+� Organic compounds are less reactive
 compared to inorganic compounds. Hence, the reactions involving organic compounds proceed at slower rates.
-
-**Learning Objectives**
-
-After studying this lesson, the student will be able to: � know the importance of organic compounds. � classify the organic compounds and name them based on IUPAC rules. � identify the functional groups of organic compounds. � explain the preparation, properties and uses of ethanol and ethanoic acids. � know the composition and preparation of soap and detergent. � understand the cleansing action of soap and detergents. � differentiate soap and detergents.
-
-UNIT 11
-
-CARBON AND ITS COMPOUNDS
-
-
-
-
-
-
-
-
-  
-
-
 
 � Mostly organic compounds form covalent bonds in nature.
 
@@ -47,9 +39,7 @@ CARBON AND ITS COMPOUNDS
 
 � They exhibit the phenomenon of isomerism, in which a single molecular formula represents several organic compounds that differ in their physical and chemical properties
 
-� They are volatile in nature. � Organic compounds can be prepared in the
-
-laboratory
+� They are volatile in nature. � Organic compounds can be prepared in the laboratory
 
 ## CLASSIFICATION OF ORGANIC COMPOUNDS BASED ON THE PATTERN OF CARBON CHAIN
 
@@ -58,100 +48,29 @@ What is the significance of classification? There are millions of organic compou
 
 Organic chemistry is the chemistry of catenated carbon compounds. The carbon atoms present in organic compounds are linked with each other through covalent bonds and thus exist as chains. By this way, organic compounds are classified into two types as follows:
 
-**1\. Acyclic or Open chain compounds:** These are the compounds in which the carbon
+**1\. Acyclic or Open chain compounds:** 
 
-atoms are linked in a linear pattern to form the chain. If all the carbon atoms in the chain are connected by single bonds, the compound is called as **saturated.** If one or more double bonds or triple bonds exist between the carbon atoms, then the compound is said to **unsaturated**.
+These are the compounds in which the carbon atoms are linked in a linear pattern to form the chain. If all the carbon atoms in the chain are connected by single bonds, the compound is called as **saturated.** If one or more double bonds or triple bonds exist between the carbon atoms, then the compound is said to **unsaturated**.
 
-CH3-CH2-CH3 CH3-CH=CH2
-
-Propane Propene Saturated compound Unsaturated compound
+![Alt text](image.png)
 
 **2\. Cyclic Compounds:** Organic compounds in which the chain of carbon atoms is closed or cyclic are called **cyclic compounds.** If the chain contains only carbon atoms, such compounds are called **carbocyclic** (Homocyclic) **compounds.** If the chain contains carbon and other atoms like oxygen, nitrogen, sulphur, etc., these compounds are called **heterocyclic compounds.** Carbocyclic compounds are further subdivided into **alicyclic** and **aromatic compounds.** Alicyclic compounds contain one or more carbocyclic rings which may be saturated or unsaturated whereas aromatic compounds contain one or more benzene rings (ring containing alternate double bonds between carbon atoms). E.g.
 
 **Carbo (Homo) cyclic compounds**
 
-o **Furan**
-
-Heterocyclic Compound
-
-**Benzene** Aromatic Compound
-
-**Cyclobutane** Alicyclic Compound
-
-or
-
-or or
-
-CH
-
-CH
-
-CH
-
-CH
-
-HC O
-
-HC
-
-HC
-
-HC C H
-
-H CH2C
-
-H2C CH2
-
-CH2
-
-**Hetrocyclic compounds**
-
-o **Furan**
-
-Heterocyclic Compound
-
-**Benzene** Aromatic Compound
-
-**Cyclobutane** Alicyclic Compound
-
-or
-
-or or
-
-CH
-
-CH
-
-CH
-
-CH
-
-HC O
-
-HC
-
-HC
-
-HC C H
-
-H CH2C
-
-H2C CH2
-
-CH2
+![Alt text](image-1.png)
 
 Figure 11.1 depicts the classification of organic compounds based on the pattern of carbon arrangements and their bonding in organic compounds:
 
 
-
-
-
-
-
-
+| No. of carbon atoms |Alkane (C H )n 2n + 2 |Alkene (C H )n 2n |Alkyne (C H )n 2n - 2 |
+|------|------|------|------|
+| 1 |Methane (CH )4 |- |- |
+| 2 |Ethane(C H )2 6 |Ethene(C H )2 4 |Ethyne(C H )2 2 |
+| 3 |Propane(C H )3 8 |Propene (C H )3 6 |Propyne(C H )3 4 |
+| 4 |Butane(C H )4 10 |Butene (C H )4 8 |Butyne(C H )4 6 |
   
-
-157 **Carbon and its Compounds**
+![Alt text](image-2.png)
 
 ## CLASSES OF ORGANIC COMPOUNDS (BASED ON THE KIND OF ATOMS)
 
@@ -163,90 +82,13 @@ Other than carbon, organic compounds contain atoms like hydrogen, oxygen, nitrog
 
 The organic compounds that are composed of only carbon and hydrogen atoms are called **hydrocarbons. The carbon atoms join together** to form the framework of the compounds. These are regarded as the parent organic compounds and all other compounds are considered to be derived from hydrocarbons by replacing one or more hydrogen atoms with other atoms or group of atoms. Hydrocarbons are, further, sub divided into three classes such as:
 
-**(a) Alkanes: These are hydrocarbons, which** contain only single bonds. They are represented by the general formula **CnH2n + 2** (where n = 1,2, 3, ……). The simplest alkane (for n=1) is methane (CH4). Since, all are single bonds in alkanes, they are saturated compounds.
+**(a) Alkanes:** These are hydrocarbons, which contain only single bonds. They are represented by the general formula **CnH2n + 2** (where n = 1,2, 3, ……). The simplest alkane (for n=1) is methane (CH4). Since, all are single bonds in alkanes, they are saturated compounds.
 
-**(b) Alkenes: The hydrocarbons, which contain** one or more C=C bonds are called alkenes. These are unsaturated compounds. They are represented by the general formula CnH2n. The simplest alkene contains two carbon atoms (n=2) and is called ethylene (C2H4).
+**(b) Alkenes:** The hydrocarbons, which contain one or more C=C bonds are called alkenes. These are unsaturated compounds. They are represented by the general formula CnH2n. The simplest alkene contains two carbon atoms (n=2) and is called ethylene (C2H4).
 
-**(c) Alkynes: The hydrocarbons containing carbon** to carbon triple bond are called alkynes. They are also unsaturated as they contain triple bond between carbon atoms. They have the general formula **CnH2n – 2.** Acetylene (C2H2) is the simplest alkyne, which contains two carbon atoms. Table 11.1 lists the first five hydrocarbons of each class:
+**(c) Alkynes:** The hydrocarbons containing carbon to carbon triple bond are called alkynes. They are also unsaturated as they contain triple bond between carbon atoms. They have the general formula **CnH2n – 2.** Acetylene (C2H2) is the simplest alkyne, which contains two carbon atoms. Table 11.1 lists the first five hydrocarbons of each class:
 
 **Table 11.1 Hydrocarbons containing 1to 5 carbon atoms**
-
-**No. of carbon atoms**
-
-**Alkane (CnH2n + 2)**
-
-**Alkene (CnH2n)**
-
-**Alkyne (CnH2n - 2)**
-
-1 Methane (CH4)
-
-\- -
-
-2 Ethane (C2H6)
-
-Ethene (C2H4)
-
-Ethyne (C2H2)
-
-3 Propane (C3H8)
-
-Propene (C3H6)
-
-Propyne (C3H4)
-
-4 Butane (C4H10)
-
-Butene (C4H8)
-
-Butyne (C4H6)
-
-5 Pentane (C5H12)
-
-Pentene (C5H10)
-
-Pentyne (C5H8)
-
-**Organic compounds**
-
-Acyclic or Open chain compounds
-
-Cyclic or Closed chain compounds
-
-Heterocyclic Compounds (Ring
-
-containing carbon and other element)
-
-E.g Pyridine, Furan
-
-Carbocyclic Compounds (Only cabon
-
-ring)
-
-Unsaturated (double or triple
-
-bond) Ethene CH2 = CH2 Ethyne CH CH
-
-Saturated (Compounds
-
-containing C-C bonds)
-
-E.g.Ethane C2H6
-
-Alicyclic Compounds
-
-E.g Cyclobutane
-
-Aromatic Compounds E.g Benzene
-
-**Figure 11.1 Classification of organic compounds**
-
-
-
-
-
-
-
 
 
 
@@ -257,8 +99,6 @@ Aromatic Compounds E.g Benzene
 | 3 |Propane(C H )3 8 |Propene (C H )3 6 |Propyne(C H )3 4 |
 | 4 |Butane(C H )4 10 |Butene (C H )4 8 |Butyne(C H )4 6 |
 | 5 |Pentane (C H )5 12 |Pentene (C H )5 10 |Pentyne (C H )5 8 |
-  
-
 
 
 ### Characteristics of hydrocarbons:
@@ -280,9 +120,7 @@ Aromatic Compounds E.g Benzene
 
 � They are insoluble in water.
 
-**Test to identify saturated and unsaturated compounds:** � Take the given sample solution in a test
-
-tube.
+**Test to identify saturated and unsaturated compounds:** � Take the given sample solution in a test tube.
 
 � Add a few drops of bromine water and observe any characteristic change in colour.
 
@@ -290,17 +128,7 @@ tube.
 
 � Saturated compounds do not decolourise bromine.
 
-ALKANE
-
-**ADDITION OF BROMINE WATER TO ALKANES AND ALKENES**
-
-Does not react with bromine water, and
-
-does not decolourise bromine water
-
-ALKENE Will react with bromine water, and as such also
-
-decolourises bromine water
+![Alt text](image-3.png)
 
 **Figure 11.2** Test to identify unsaturated compounds
 
@@ -311,26 +139,24 @@ The structural frameworks of organic compounds are made of carbon and hydrogen, 
 
 **A functional group is an atom or group of atoms in a molecule, which gives its characteristic chemical properties.**
 
-The chemical properties of an organic compound depend on its functional group whereas its physical properties rely on remaining part of the structure. Carbon to carbon multiple bonds (C=C, C C) also are considered as functional groups as many of the properties are influenced by these bonds. Other functional groups include, –OH, –CHO, –COOH, etc.
+The chemical properties of an organic compound depend on its functional group whereas its physical properties rely on remaining part of the structure. Carbon to carbon multiple bonds (C=C, C=C)//todo  also are considered as functional groups as many of the properties are influenced by these bonds. Other functional groups include, –OH, –CHO, –COOH, etc.
 
 For example, ethane is a hydrocarbon having molecular formula C2H6. If one of its hydrogen is replaced by –OH group, you will get an alcohol. Leaving the functional group, the rest of the structure is represented by ‘**R’.** Thus an alcohol is represented by ‘R-OH’
 
-CH3-CH3 CH3-CH2-OH Ethane Ethanol Hydrocarbon Alcohol
-
-**Functional Group**
+![Alt text](image-4.png)
 
 A series of compounds containing the same functional group is called a **class of organic compounds.** Table 11.2 shows various classes or families of organic compounds and their functional groups:
 
+**Table 11.2 Classes of organic compounds based on functional group**
 
-
-
-
-
-
-
-  
-
-159 **Carbon and its Compounds**
+| Class of thecompound |Functional group |C ommon Formula |Examples |
+|------|------|------|------|
+| Alcohol |–OH |R-OH |Ethanol, CH CH OH3 2 |
+| Aldehyde |O−C−H|| |R-CHO |Acetaldehyde, CH CHO3 |
+| Ketone |O−C−|| |R–CO- R |Acetone, CH CO CH3 3 |
+| Carboxylic acid |O−C−OH|| |R-COOH |Acetic acid, CH COOH3 |
+| Ester |O−C−OR|| |R-COOR |Methyl acetate, CH COOC H3 3 |
+| Ether |–O–R |R-O-R |Dimethyl ether, CH OCH3 3 |
 
 ## HOMOLOGOUS SERIES
 
@@ -366,62 +192,6 @@ If you observe the above series. you can notice that each successive member has 
 
 � All the members can be prepared by a common method.
 
-**Table 11.2 Classes of organic compounds based on functional group**
-
-**Class of the compound**
-
-**Functional group Common Formula Examples**
-
-Alcohol –OH R-OH Ethanol, CH3CH2OH
-
-Aldehyde O || −C−H
-
-R-CHO Acetaldehyde, CH3 CHO
-
-Ketone
-
-O || −C−
-
-R–CO-R Acetone, CH3COCH3
-
-Carboxylic acid
-
-O || −C−OH
-
-R-COOH Acetic acid, CH3COOH
-
-Ester
-
-O || −C−OR
-
-R-COOR Methyl acetate,
-
-CH3COOCH3
-
-Ether –O–R R-O-R
-
-Dimethyl ether, CH3OCH3
-
-
-
-
-
-
-
-
-
-
-| Class of thecompound |Functional group |C ommon Formula |Examples |
-|------|------|------|------|
-| Alcohol |–OH |R-OH |Ethanol, CH CH OH3 2 |
-| Aldehyde |O−C−H|| |R-CHO |Acetaldehyde, CH CHO3 |
-| Ketone |O−C−|| |R–CO- R |Acetone, CH CO CH3 3 |
-| Carboxylic acid |O−C−OH|| |R-COOH |Acetic acid, CH COOH3 |
-| Ester |O−C−OR|| |R-COOR |Methyl acetate, CH COOC H3 3 |
-| Ether |–O–R |R-O-R |Dimethyl ether, CH OCH3 3 |
-  
-
-
 
 ## NOMENCLATURE OF ORGANIC COMPOUNDS
 
@@ -436,52 +206,18 @@ In ancient days, the names of organic compounds were related to the natural thin
 
 The IUPAC name of the any organic compound consists of three parts:
 
-**i. Root word ii. Prefix iii. Suffix** These parts are combined as per the
+**i. Root word 
+ii. Prefix 
+iii. Suffix 
 
+These parts are combined as per the
 following sequence to get the IUPAC name of the compound:
 
-Prefix Root Word Suffix IUPAC Name
+![Alt text](image-5.png)
 
 **(i) Root word:** It is the basic unit, which describes the carbon skeleton. It gives the number of carbon atoms present in the parent chain of the compound and the pattern of their arrangement. Based on the number of carbon atoms present in the carbon skeleton, most of the names are derived from Greek numerals (except the first four). Table 11.3 shows the root words for the parent chain of hydrocarbons containing 1to10 carbon atoms:
 
 **Table 11.3** Root words of hydrocarbons
-
-**No. of carbon atoms Root word 1 Meth- 2 Eth- 3 Prop- 4 But- 5 Pent- 6 Hex- 7 Hept- 8 Oct- 9 Non-**
-
-**10 Dec-**
-
-**(ii) Prefix: The prefix represents the** substituents or branch present in the parent chain. Atoms or group of atoms, other than hydrogen, attached to carbon of the parent chain are called substituents. Table 11.4 presents the major substituents of organic compounds and respective prefix used for them:
-
-**Table 11.4 Prefix for IUPAC Name**
-
-**Substituent Prefix used**
-
-**\-F Fluoro**
-
-**\-Cl Chloro**
-
-**\-Br Bromo**
-
-**\-I Iodo**
-
-**\-NH2 Amino**
-
-**\-CH3 Methyl**
-
-**\-CH2CH3 Ethyl**
-
-**(iii) Suffix** The suffix forms the end of the name. It
-
-is divided into two parts such as **(a) Primary suffix and (b) Secondary suffix. The primary** suffix comes after the root word. It represents **the nature in carbon to carbon bonding of the parent chain**. If all the bonds between the carbon atoms of the parent chain are single, then suffix ‘ane’ has to be used. Suffix ‘ene’ and ‘yne’ are used for the compounds containing double
-
-
-
-
-
-
-
-
-
 
 | No. of carbon atoms |Root word |
 |------|------|
@@ -496,6 +232,9 @@ is divided into two parts such as **(a) Primary suffix and (b) Secondary suffix.
 | 9 |Non- |
 | 10 |Dec- |
 
+**(ii) Prefix: The prefix represents the** substituents or branch present in the parent chain. Atoms or group of atoms, other than hydrogen, attached to carbon of the parent chain are called substituents. Table 11.4 presents the major substituents of organic compounds and respective prefix used for them:
+
+**Table 11.4 Prefix for IUPAC Name**
 
 | Substituent |Prex used |
 |------|------|
@@ -508,25 +247,14 @@ is divided into two parts such as **(a) Primary suffix and (b) Secondary suffix.
 | -CH CH2 3 |Ethyl |
   
 
-161 **Carbon and its Compounds**
+**(iii) Suffix** 
+The suffix forms the end of the name. It is divided into two parts such as **(a) Primary suffix and (b) Secondary suffix. The primary** suffix comes after the root word. It represents **the nature in carbon to carbon bonding of the parent chain**. If all the bonds between the carbon atoms of the parent chain are single, then suffix ‘ane’ has to be used. Suffix ‘ene’ and ‘yne’ are used for the compounds containing double
+
 
 and triple bonds respectively. The secondary **suffix describes the functional group of the compound**.
 
 **Table 11.5 Suffix for IUPAC Name**
-
-**Class of the Compound**
-
-**Functional group Suffix used**
-
-**Alcohol** −OH -ol
-
-**Aldehyde** −CHO -al
-
-**Ketone** O || −C−
-
-\-one
-
-**Carboxylic acid** −COOH -oic acid
+![Alt text](image-6.png)
 
 ### IUPAC rules for naming organic compounds:
 
@@ -554,11 +282,11 @@ Let us try to name, systematically, some of the linear and substituted hydrocarb
 
 Step 1: It is a five- carbon chain and hence the root word is ‘Pent’. (Rule 1) Step 2: All the bonds between carbon atoms are single bonds, and thus the suffix is ‘ane’. So, its name is **Pent + ane = Pentane**
 
-**Example 2:** CH3 | CH3−CH−CH2−CH2−CH3
+**Example 2:** CH3 | //todo              CH3−CH−CH2−CH2−CH3
 
 **Step 1: The longest chain contains five** carbon atoms and hence the root word is ‘Pent’.
 
-**Step 2: There is a substituent. So, the carbon** chain is numbered from the left end, which is closest to the substituent. (Rule 2)
+**Step 2: There is a substituent. So, the carbon** chain is numbered from the left end, which is closest to the substituent. (Rule 2)//todo
 
 CH3 1 |2 3 4 5 CH3−CH−CH2−CH2−CH3
 
@@ -568,7 +296,7 @@ CH3 1 |2 3 4 5 CH3−CH−CH2−CH2−CH3
 
 The name of the compound is **2-Methyl + pent +ane = 2-Methylpentane**
 
-**Example 3:**
+**Example 3:**//todo
 
 CH3− CH− CH2− CH2− CH2 − CH3
 
@@ -589,17 +317,11 @@ CH2− −
 
 
 
-| Class of the C ompound |Functional group |Sux used |
-|------|------|------|
-| Alcohol |−OH |-ol |
-| Aldehyde |−CHO |-al |
-| Ketone |O−C−|| |-one |
-| Carboxylic acid |−COOH |-oic acid |
-  
 
 
 
-carbon chain is numbered from the end, which is closest to substituent. (Rule 2)
+
+carbon chain is numbered from the end, which is closest to substituent. (Rule 2) //todo
 
 CH3− CH− CH2− CH2− CH2 − CH3
 
@@ -638,7 +360,7 @@ Hence the name of the compound is **3-Methyl + hept + ane = 3 –Methylheptane**
 **Step 2: There is a carbon to carbon double** bond. The suffix is ‘ene’.
 
 **Step 3: The carbon chain is numbered from** the end such that double bond has the lowest locant number as shown below: (Rule 3):
-
+//todo
 CH3− CH2− CH2− CH= CH2
 
 5 4 3 2 1
@@ -688,23 +410,21 @@ Obtain the IUPAC name of the following compounds systematically:
 
 (c) ClCH2-CH2-CH 2-CH3
 
-
-
-
-
-
-
-
-  
-
-163 **Carbon and its Compounds**
+| No. of carbons atoms |IUPAC Name |
+|------|------|------|------|------|
+| Alcohols |Aldehydes |Ketones |Carboxylic acid |
+| 1 |Methanol(CH OH)3 |Methanal(HCHO) |- |Methanoic acid(HCOOH) |
+| 2 |Ethanol(CH CH OH)3 2 |Ethanal(CH CHO)3 |- |Ethanoic acid(CH COOH)3 |
+| 3 |Propanol(CH CH CH OH)3 2 2 |Propanal(CH CH CHO)3 2 |Propanone(CH COCH )3 3 |Propanoic acid(CH CH COOH)3 2 |
+| 4 |Butanol(CH CH CH CH OH)3 2 2 2 |Butanal(CH CH CH CHO)3 2 2 |Butanone(CH COCH CH )3 2 3 |Butanoic acid(CH CH CH COOH)3 2 2 |
+| 5 |Pentanol(CH CH CH CH CH OH)3 2 2 2  2 |Pentanal(CH CH CH CH CHO)3 2 2 2 |Pentanone(CH COCH CH CH )3 2 2  3 |Pentanoic acid(CH CH CH CH COOH)3 2 2 2 |
 
 ## ETHANOL (CH3CH2OH)
 
 
-Ethanol is commonly known as alcohol. All alcoholic beverages and some cough syrups contain ethanol. Its molecular formula is C2H5OH. Its structural formula is
+Ethanol is commonly known as alcohol. All alcoholic beverages and some cough syrups contain ethanol. Its molecular formula is C2H5OH. Its structural formula 
 
-Ethanol
+//todo
 
 H—C—C—O—H
 
@@ -736,7 +456,7 @@ Molasses usually contains enough nitrogenous matter to act as food for yeast dur
 **(iii) Addition of Yeast**
 
 The solution obtained in step (ii) is collected in large ‘fermentation tanks’ and yeast is added to it. The mixture is kept at about 303K for a few days. During this period, the enzymes invertase and zymase present in yeast, bring about the conversion of sucrose into ethanol.
-
+//todo
 C12H22O11 + H2O C6H12O6 + C6H12O6
 
 C6H12O6 2C2H5OH + 2 CO2
@@ -770,82 +490,21 @@ fructoseglucose
 ethanol
 
 The fermented liquid is technically called **wash**.
+//todo
 
 **(iv) Distillation of 'Wash'**
 
 The fermented liquid (i.e. wash), containing 15 to 18 percent alcohol, is now subjected to fractional distillation. The main fraction drawn is an aqueous solution of ethanol which contains
 
-**Table 11.6 IUPAC Name of various classes of compounds**
-
-**No. of carbons atoms**
-
-**IUPAC Name**
-
-**Alcohols Aldehydes Ketones Carboxylic acid**
-
-1 Methanol (CH3OH)
-
-Methanal (HCHO) - Methanoic acid
-
-(HCOOH)
-
-2 Ethanol (CH3CH2OH)
-
-Ethanal (CH3CHO) - Ethanoic acid
-
-(CH3COOH)
-
-3 Propanol (CH3CH2CH2OH)
-
-Propanal (CH3CH2CHO)
-
-Propanone (CH3COCH3)
-
-Propanoic acid (CH3CH2COOH)
-
-4 Butanol (CH3CH2CH2CH2OH)
-
-Butanal (CH3CH2CH2CHO)
-
-Butanone (CH3COCH2CH3)
-
-Butanoic acid (CH3CH2CH2COOH)
-
-5 Pentanol (CH3CH2CH2CH2 CH2OH)
-
-Pentanal (CH3CH2CH2CH2 CHO)
-
-Pentanone (CH3COCH2CH2 CH3)
-
-Pentanoic acid (CH3CH2CH2CH2 COOH)
-
-
-
-
-
-
-
-
-
-
-| No. of carbons atoms |IUPAC Name |
-|------|------|------|------|------|
-| Alcohols |Aldehydes |Ketones |Carboxylic acid |
-| 1 |Methanol(CH OH)3 |Methanal(HCHO) |- |Methanoic acid(HCOOH) |
-| 2 |Ethanol(CH CH OH)3 2 |Ethanal(CH CHO)3 |- |Ethanoic acid(CH COOH)3 |
-| 3 |Propanol(CH CH CH OH)3 2 2 |Propanal(CH CH CHO)3 2 |Propanone(CH COCH )3 3 |Propanoic acid(CH CH COOH)3 2 |
-| 4 |Butanol(CH CH CH CH OH)3 2 2 2 |Butanal(CH CH CH CHO)3 2 2 |Butanone(CH COCH CH )3 2 3 |Butanoic acid(CH CH CH COOH)3 2 2 |
-| 5 |Pentanol(CH CH CH CH CH OH)3 2 2 2  2 |Pentanal(CH CH CH CH CHO)3 2 2 2 |Pentanone(CH COCH CH CH )3 2 2  3 |Pentanoic acid(CH CH CH CH COOH)3 2 2 2 |
-  
-
-
 
 95.5% of ethanol and 4.5% of water. This is called **rectified spirit. This mixture is then refluxed** over quicklime for about 5 to 6 hours and then allowed to stand for 12 hours. On distillation of this mixture, pure alcohol (100%) is obtained. This is called absolute alcohol.
 
+---
 **More to know**
 
 **Yeast and Fermentation:** Yeasts are single–celled microorganisms, belonging to the class of fungi. The enzymes present in yeasts catalyse many complex organic reactions. Fermentation is conversion of complex organic molecules into simpler molecules by the action of enzymes. E.g. Curdling of milk
 
+---
 ### Physical properties
 
 
@@ -861,13 +520,13 @@ iii) It is completely miscible with water in all proportions.
 **(i) Dehydration (Loss of water)**
 
 When ethanol is heated with con H2SO4 at 443K, it loses a water molecule i.e. dehydrated to form ethene.
-
+//todo
 CH3CH2OH CH2 = CH2 + H2O Ethanol Ethene
 
 **(ii) Reaction with sodium:**
 
 Ethanol reacts with sodium metal to form sodium ethoxide and hydrogen gas.
-
+//todo
 2C2H5OH + 2Na 2C2H5ONa + H2 ↑ sodium ethoxide
 
 443K Conc.H2SO4
@@ -875,7 +534,7 @@ Ethanol reacts with sodium metal to form sodium ethoxide and hydrogen gas.
 **(iii) Oxidation:**
 
 Ethanol is oxidized to ethanoic acid with alkaline KMnO4 or acidified K2Cr2O7
-
+//todo
 CH3CH2OH CH3COOH +H2O 2\[O\] Ethanoic acid
 
 During this reaction, the orange colour of K2Cr2O7 changes to green. Therefore, this reaction can be used for the identification of alcohols.
@@ -883,7 +542,7 @@ During this reaction, the orange colour of K2Cr2O7 changes to green. Therefore, 
 **(iv) Esterification:** The reaction of an alcohol with a carboxylic
 
 acid gives a compound having fruity odour. This compound is called an **ester** and the reaction is called esterification. Ethanol reacts with ethanoic acid in the presence of conc. H2SO4 to form ethyl ethanoate, an ester.
-
+//todo
 C2H5OH + CH3COOH CH3COOC2H5 + H2O Ethanol Ethanoic acid Ethyl ethanoate
 
 conc.H2SO4
@@ -891,7 +550,7 @@ conc.H2SO4
 **(v) Dehydrogenation:**
 
 When the vapour of ethanol is passed over heated copper, used as a catalyst at 573 K, it is dehydrogenated to acetaldehyde.
-
+//todo
 CH3CH2OH CH3CHO + H2
 
 Ethanol Acetadehyde
@@ -901,28 +560,18 @@ Cu 573K
 **(vi) Combustion:**
 
 Ethanol is highly inflammable liquid. It burns with oxygen to form carbon dioxide and water.
-
+//todo
 C2H5OH + 3O2 2CO2 + 3H2O Ethanol Carbon dioxide
 
 ### Uses of ethanol
 
 
-Ethanol is used � in medical wipes, as an antiseptic. � as an anti-freeze in automobile radiators. � for effectively killing micro organisms
+Ethanol is used 
+� in medical wipes, as an antiseptic.
 
-like bacteria, fungi, etc., by including it in many hand sanitizers.
+� as an anti-freeze in automobile radiators.
 
-K2Cr2O7 / H +
-
-
-
-
-
-
-
-
-  
-
-165 **Carbon and its Compounds**
+� for effectively killing micro organisms like bacteria, fungi, etc., by including it in many hand sanitizers.
 
 � as an antiseptic to sterilize wounds in hospitals.
 
@@ -932,11 +581,11 @@ K2Cr2O7 / H +
 
 � to enhance the flavour of food extracts, for example vanilla extract; a common food flavour, which is made by processing vanilla beans in a solution of ethanol and water.
 
-## ETHANOIC ACID (CH3COOH)
+## ETHANOIC ACID (CH<sub>3</sub>COOH)
 
 
 Ethanoic acid or acetic acid is one of the most important members of the carboxylic acid family. Its molecular formula is C2H4O2. Its structural formula is
-
+//todo
 H — C — C — OH
 
 H
@@ -949,7 +598,7 @@ H
 
 
 Ethanoic acid is prepared in large scale, by the oxidation of ethanol in the presence of alkaline potassium permanganate or acidified potassium dichromate.
-
+//todo
 KMnO4/ OH- CH3CH2OH CH3COOH + H2O Ethanol
 
 2\[O\] Ethanoic acid
@@ -959,9 +608,11 @@ KMnO4/ OH- CH3CH2OH CH3COOH + H2O Ethanol
 
 (i) Ethanoic acid is a colourless liquid having an unpleasant odour.
 
-(ii) It is sour in taste. (iii) It is miscible with water in all proportions. (iv) Its boiling point is higher than the
+(ii) It is sour in taste. 
 
-corresponding alcohols, aldehydes and ketones.
+(iii) It is miscible with water in all proportions. 
+
+(iv) Its boiling point is higher than the corresponding alcohols, aldehydes and ketones.
 
 (v) On cooling, pure ethanoic acid is frozen to form ice like flakes. They look like glaciers, so it is called **glacial acetic acid.**
 
@@ -969,25 +620,23 @@ corresponding alcohols, aldehydes and ketones.
 
 
 (i) **Reaction with metal:** Ethanoic acid reacts with active metals like Na, Zn, etc., to liberate hydrogen and form their ethanoate.
-
+//todo
 2CH3COOH + Zn → (CH3COO)2 Zn + H2 ↑
 
 2CH3COOH + 2Na → 2CH3COONa + H2 ↑
 
 (ii) **Reaction with carbonates and bicarbonates:** Ethanoic acid reacts with sodium carbonate and sodium bicarbonate, which are weaker bases and liberates CO2, with brisk effervescence.
-
+//todo
 2CH3COOH + Na2CO3 → 2CH3COONa + CO2↑ + H2O
 
 CH3COOH + NaHCO3 → CH3COONa + CO2↑ + H2O
 
 (iii) **Reaction with base:** Ethanoic acid reacts with sodium hydroxide to form sodium ethanoate and water.
-
+//todo
 CH3COOH + NaOH → CH3COONa + H2O
 
-(iv) **Decarboxylation (Removal of CO2):** When a sodium salt of ethanoic acid is
-
-heated with soda lime (solid mixure of 3 parts of NaOH and 1 part of CaO), methane gas is formed.
-
+(iv) **Decarboxylation (Removal of CO2):** When a sodium salt of ethanoic acid is heated with soda lime (solid mixure of 3 parts of NaOH and 1 part of CaO), methane gas is formed.
+//todo
 NaOH / CaOCH3COONa CH4 ↑ + Na2CO3
 
 ### Uses of ethanoic acid
@@ -995,32 +644,32 @@ NaOH / CaOCH3COONa CH4 ↑ + Na2CO3
 
 Acetic acid, in lower concentration, (vinegar) is used as a food additive, a flavoring agent and a preservative.
 
-
-
-
-
-
-
-
-  
-
-
-
 **Ethanoic acid is used**
 
-� in the manufacture of plastic. � in making dyes, pigments and paint. � in printing on fabrics. � as a laboratory reagent. � for coagulating rubber from latex. � in the production of pharmaceuticals.
+� in the manufacture of plastic. 
+� in making dyes, pigments and paint. � in printing on fabrics. 
+� as a laboratory reagent. 
+� for coagulating rubber from latex. � in the production of pharmaceuticals.
 
 ## ORGANIC COMPOUNDS IN DAILY LIFE
 
 
 Organic compounds are inseparable in human life. They are used by mankind or associated at all stages of life right from one's birth to death. Various classes of organic compounds and their uses in our daily life as follows:
 
-**Hydrocarbons** � Fuels like LPG, Petrol, Kerosene. � Raw materials for various important
+**Hydrocarbons** 
 
-synthetic materials. � Polymeric materials like tyre, plastic
+� Fuels like LPG, Petrol, Kerosene.
 
-containers. **Alcohols** � As a solvent and an antiseptic agent. � Raw materials for various important
+� Raw materials for various important
+synthetic materials.
 
+
+� Polymeric materials like tyre, plastic containers. **Alcohols**
+
+
+� As a solvent and an antiseptic agent.
+
+� Raw materials for various important
 synthetic materials. Aldehydes
 
 � Formaldehyde as a disinfectant.
@@ -1046,12 +695,16 @@ Esters
 ## SOAPS AND DETERGENTS
 
 
-Soaps and the Detergents are materials that are used by us for cleaning purposes because pure water alone cannot remove all types of dirt or any oily substance from our body or clothes. They contain ‘surfactants’, which are compounds with molecules that line up around water to break the ‘surface tension’. Both of them having a different chemical nature. Soap is a cleaning agent that is composed of one or more salts of fatty acids. **_Detergent_** is a chemical compound or a mixture of chemical compounds, which is used as a cleaning agent, also. They perform their cleaning actions in certain specific conditions. You will learn more about this in detail, in the following units.
+Soaps and the Detergents are materials that are used by us for cleaning purposes because pure water alone cannot remove all types of dirt or any oily substance from our body or clothes. They contain ‘surfactants’, which are compounds with molecules that line up around water to break the ‘surface tension’. Both of them having a different chemical nature. Soap is a cleaning agent that is composed of one or more salts of fatty acids. **Detergent** is a chemical compound or a mixture of chemical compounds, which is used as a cleaning agent, also. They perform their cleaning actions in certain specific conditions. You will learn more about this in detail, in the following units.
 
 ### Soap
 
 
-**Soaps are sodium or potassium salts of some long chain carboxylic acids, called fatty acids.** Soap requires two major raw materials: i) fat and ii) alkali. The alkali, most commonly used in the preparation of soap is sodium hydroxide. Potassium hydroxide can also be used. A potassium-based soap creates a more water- soluble product than a sodium-based soap. Based on these features, there are two types of soaps:
+**Soaps are sodium or potassium salts of some long chain carboxylic acids, called fatty acids.** Soap requires two major raw materials: 
+
+i) fat and 
+
+ii) alkali. The alkali, most commonly used in the preparation of soap is sodium hydroxide. Potassium hydroxide can also be used. A potassium-based soap creates a more water- soluble product than a sodium-based soap. Based on these features, there are two types of soaps:
 
 **A. HARD SOAP**
 
@@ -1061,34 +714,28 @@ Soaps, which are prepared by the **_saponification of oils or fats with caustic 
 
 Soaps, which are prepared by the **_saponification of oils or fats with potassium salts, are known as soft soaps. They are used_** for cleansing the body.
 
-**Manufacture of soap KETTLE PROCESS:**
+**Manufacture of soap**
+
+**KETTLE PROCESS:**
 
 This is the oldest method. But, it is still widely used in the small scale preparation of
 
+soap. There are mainly, two steps to be followed in this process. 
 
+**i) Saponification of oil:**
 
+The oil, which is used in this process, is taken in an iron tank (kettle). The alkaline solution (10%) is added into the kettle, a little in excess. The mixture is boiled by passing steam through it. The oil gets hydrolysed after several hours of boiling. This process is called Saponification 
 
-
-
-
-
-  
-
-167 **Carbon and its Compounds**
-
-soap. There are mainly, two steps to be followed in this process. **i) Saponification of oil:**
-
-The oil, which is used in this process, is taken in an iron tank (kettle). The alkaline solution (10%) is added into the kettle, a little in excess. The mixture is boiled by passing steam through it. The oil gets hydrolysed after several hours of boiling. This process is called Saponification **ii) Salting out of soap:**
+**ii) Salting out of soap:**
 
 Common salt is then added to the boiling mixture. Soap is finally precipitated in the tank. After several hours the soap rises to the top of the liquid as a ‘curdy mass’. The neat soap is taken off from the top. It is then allowed to cool down.
 
 **Effect of hard water on soap**
 
 Hard water contains calcium and magnesium ions (Ca2+ and Mg2+) that limit the cleaning action of soap. When combined with soap, hard water develops a thin layer (precipitates of the metal ions) called ‘scum’, which leaves a deposit on the clothes or skin and does not easily rinse away. Over time, this can lead to the deterioration of the fabric and eventually ruin the clothes. On the other hand, detergents are made with chemicals that are not affected by hard water.
+**DO YOU KNOW**
 
-**_Why ordinary soap is not suitable for using with hard water?_** Ordinary soaps when treated
-
-with hard water, precipitate as salts of calcium and magnesium. They appear **at the surface of the cloth as sticky grey scum. Thus, the soaps cannot be used** conveniently in hard water**.**
+**Why ordinary soap is not suitable for using with hard water?** Ordinary soaps when treated with hard water, precipitate as salts of calcium and magnesium. **They appear at the surface of the cloth as sticky grey scum. Thus, the soaps cannot be used** conveniently in hard water**.**
 
 ### Detergents
 
@@ -1118,22 +765,9 @@ vi) Certain chemicals that give out a pleasant smell are also added to make the 
 ### Cleansing action of soap
 
 
-A soap molecule contains two chemically distinct parts that interact differently with
+A soap molecule contains two chemically distinct parts that interact differently with water. It has one **polar end**, which is a **_short head_** with a carboxylate group (–COONa) and one **non-polar end** having the **_long tail made of the hydrocarbon_** **_chain_**.
 
-
-
-
-
-
-
-
-  
-
-
-
-water. It has one **polar end**, which is a **_short head_** with a carboxylate group (–COONa) and one **non-polar end** having the **_long tail made of the hydrocarbon_** **_chain_**.
-
-The polar end is **_hydrophilic (Water loving)_** in nature and this end is attracted towards water. The non-polar end is **_hydrophobic_** **_(Water hating)_** in nature and it is attracted towards dirt or oil on the cloth, but not attracted towards water. Thus, the hydrophobic part of the soap molecule traps the dirt and the hydrophilic part makes the entire molecule soluble in water.
+The polar end is **hydrophilic (Water loving)** in nature and this end is attracted towards water. The non-polar end is **hydrophobic** **(Water hating)** in nature and it is attracted towards dirt or oil on the cloth, but not attracted towards water. Thus, the hydrophobic part of the soap molecule traps the dirt and the hydrophilic part makes the entire molecule soluble in water.
 
 When a soap or detergent is dissolved in water, the molecules join together as clusters called ‘**micelles**’. Their long hydrocarbon chains attach themselves to the oil and dirt. The dirt is thus surrounded by the non-polar end of the soap molecules (Figure 11.3). The charged carboxylate end of the soap molecules makes the micelles soluble in water. Thus, the dirt is washed away with the soap.
 
@@ -1160,66 +794,34 @@ biodegradable. ¾ are active emulsifiers of motor grease.
 **a) Biodegradable detergents:**
 
 They have straight hydrocarbon chains, which can be easily degraded by bacteria.
-
-Hydrophilic head
-
-Hydrophobic tail
-
-Aqueous solu on
-
-Soap molucules Soap solutoin
-
-Dirt
-
-Dirty cloth
-
+![Alt text](image-7.png)
 **Figure 11.3** Cleansing action of soap
 
 **b) Non-biodegradable detergents:**
 
 They have highly branched hydrocarbon chains, which cannot be degraded by bacteria.
 
-**Disadvantages of Detergents** 1\. Some detergents having a branched hydro-
+**Disadvantages of Detergents** 
 
-carbon chain are not fully biodegradable by micro-organisms present in water. So, they cause water pollution.
+1\. Some detergents having a branched hydro-carbon chain are not fully biodegradable by micro-organisms present in water. So, they cause water pollution.
 
 2\. They are relatively more expensive than soap.
 
 
-
-
-
-
-
-
-  
-
-169 **Carbon and its Compounds**
-
 ### Comparison between soap and detergents
 
-
-**Soap Detergent**
-
-It is a sodium salt of long chain fatty acids. It is sodium salts of sulphonic acids.
-
-The ionic part of a soap is –COO – Na+. The ionic part in a detergent is –SO–
-
-3Na+.
-
-It is prepared from animal fats or vegetable oils. It is prepared from hydrocarbons obtained from crude oil.
-
-Its effectiveness is reduced when used in hard water.
-
-It is effective even in hard water.
-
-It forms a scum in hard water. Does not form a scum in hard water.
-
-It has poor foaming capacity. It has rich foaming capacity.
-
-Soaps are biodegradable. Most of the detergents are non-biodegradable.
-
+| Soap |Detergent |
+|------|------|
+| It is a sodium salt of long chain fatty acids. |It is sodium salts of sulphonic acids. |
+| e ionic part of a soap is –COO Na .– + |e ionic part in a detergent is –SO Na .–3 + |
+| It is prepared from animal fats or vegetable oils. |It is prepared from hydrocarbons obtained from crude oil. |
+| Its eectiveness is reduced when used in hard water. |It is eective even in hard water. |
+| It forms a scum in hard water. |Does not form a scum in hard water. |
+| It has poor foaming capacity. |It has rich foaming capacity. |
+| Soaps are biodegradable. |Most of the detergents are non-biodegradable. |
+---
 **Have you noticed the term "TFM" in soap**
+![Alt text](image-8.png)
 
 **_TFM means_** TOTAL FATTY MATTER. It is the one of the important factors to be considered to assess the quality of soap. A soap, which has higher TFM, is a good bathing soap.
 
@@ -1250,301 +852,8 @@ Soaps are biodegradable. Most of the detergents are non-biodegradable.
 
 
 
-| Soap |Detergent |
-|------|------|
-| It is a sodium salt of long chain fatty acids. |It is sodium salts of sulphonic acids. |
-| e ionic part of a soap is –COO Na .– + |e ionic part in a detergent is –SO Na .–3 + |
-| It is prepared from animal fats or vegetable oils. |It is prepared from hydrocarbons obtained from crude oil. |
-| Its eectiveness is reduced when used in hard water. |It is eective even in hard water. |
-| It forms a scum in hard water. |Does not form a scum in hard water. |
-| It has poor foaming capacity. |It has rich foaming capacity. |
-| Soaps are biodegradable. |Most of the detergents are non-biodegradable. |
-  
-
-
-
-**TEXTBOOK EVALUATION**
-
-**I. Choose the best answer.**
-
-1\. The molecular formula of an open chain organic compound is C3H6. The class of the compound is a. alkane b. alkene c. alkyne d. alcohol
-
-2\. The IUPAC name of an organic compound is 3-Methyl butan-1-ol. What type compound it is? a. Aldehyde b. Carboxylic acid c. Ketone d. Alcohol
-
-3\. The secondary suffix used in IUPAC nomenclature of an aldehyde is \_\_\_\_ a. - ol b. – oic acid c. - al d. - one
-
-4\. Which of the following pairs can be the successive members of a homologous series? a. C3H8 and C4H10
-
-b. C2H2 and C2H4
-
-c. CH4 and C3H6
-
-d. C2H5OH and C4H8OH
-
-5\. C2H5OH + 3O2 → 2CO2 + 3H2O is a a. Reduction of ethanol b. Combustion of ethanol c. Oxidation of ethanoic acid d. Oxidation of ethanal
-
-6\. Rectified spirit is an aqueous solution which contains about \_\_\_\_\_\_\_ of ethanol a. 95.5 % b. 75.5 % c. 55.5 % d. 45.5 %
-
-7\. Which of the following are used as anaesthetics? a. Carboxylic acids b. Ethers c. Esters d. Aldehydes
-
-8\. TFM in soaps represents \_\_\_\_\_\_\_\_\_\_\_ content in soap a. mineral b. vitamin c. fatty acid d. carbohydrate
-
-9\. Which of the following statements is wrong about detergents? a. It is a sodium salt of long chain fatty
-
-acids b. It is sodium salts of sulphonic acids c. The ionic part in a detergent is –SO3
-
-–Na+
-
-d. It is effective even in hard water.
-
-**II. Fill in the blanks** 1\. An atom or a group of atoms which is
-
-responsible for chemical characteristics of an organic compound is called \_\_\_\_\_\_\_\_\_\_\_\_.
-
-2\. The general molecular formula of alkynes is \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-3\. In IUPAC name, the carbon skeleton of a compound is represented by \_\_\_\_\_\_\_\_\_ (root word / prefix / suffix)
-
-4\. (Saturated / Unsaturated) \_\_\_\_\_\_\_\_\_\_\_ compounds decolourize bromine water.
-
-5\. Dehydration of ethanol by conc. Sulphuric acid forms \_\_\_\_\_\_\_ (ethene/ ethane)
-
-6\. 100 % pure ethanol is called \_\_\_\_\_\_\_\_\_\_\_\_
-
-7\. Ethanoic acid turns \_\_\_\_\_\_\_ litmus to \_\_\_\_\_\_\_\_\_
-
-8\. The alkaline hydrolysis of fatty acids is termed as \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-9\. Biodegradable detergents are made of \_\_\_\_\_\_\_\_\_(branched / straight) chain hydrocarbons
-
-**III. Match the following**
-
-Functional group –OH
-
-\- Benzene
-
-Heterocyclic **\-** Potassium stearate
-
-Unsaturated **\-** Alcohol
-
-Soap **\-** Furan
-
-Carbocyclic **\-** Ethene
-
-
-
-
-
-
-
-
-
-
-| Functional group –OH |- |B enzene |
-|------|------|------|
-| Heterocyclic |- |Potassium stearate |
-| Unsaturated |- |Alcohol |
-| Soap |- |Furan |
-| Carbocyclic |- |Ethene |
-  
-
-171 **Carbon and its Compounds**
-
-**IV. Assertion and Reason:**
-
-**Answer the following questions using the data given below:**
-
-i) A and R are correct, R explains the A.
-
-ii) A is correct, R is wrong.
-
-iii) A is wrong, R is correct.
-
-iv) A and R are correct, R doesn’t explains A. **1\. Assertion: Detergents are more effective**
-
-cleansing agents than soaps in hard water. **Reason**: Calcium and magnesium salts of
-
-detergents are water soluble. 2. **Assertion**: Alkanes are saturated
-
-hydrocarbons. **Reason**: Hydrocarbons consist of covalent
-
-bonds.
-
-**V. Short answer questions** 1\. Name the simplest ketone and give its
-
-structural formula.
-
-2\. Classify the following compounds based on the pattern of carbon chain and give their structural formula: (i) Propane (ii) Benzene (iii) Cyclobutane (iv) Furan
-
-3\. How is ethanoic acid prepared from ethanol? Give the chemical equation.
-
-4\. How do detergents cause water pollution? Suggest remedial measures to prevent this pollution?
-
-5\. Differentiate soaps and detergents.
-
-**VI. Long answer questions**
-
-1\. What is called homologous series? Give any three of its characteristics?
-
-2\. Arrive at, systematically, the IUPAC name of the compound: CH3–CH2–CH2–OH.
-
-3\. How is ethanol manufactured from sugarcane?
-
-4\. Give the balanced chemical equation of the following reactions:
-
-(i) Neutralization of NaOH with ethanoic acid.
-
-(ii) Evolution of carbon dioxide by the action of ethanoic acid with NaHCO3.
-
-(iii) Oxidation of ethanol by acidified potassium dichromate.
-
-(iv) Combustion of ethanol.
-
-5\. Explain the mechanism of cleansing action of soap.
-
-**VII. HOT questions**
-
-1\. The molecular formula of an alcohol is C4H10O. The locant number of its –OH group is 2.
-
-(i) Draw its structural formula.
-
-(ii) Give its IUPAC name.
-
-(iii) Is it saturated or unsaturated?
-
-2\. An organic compound ‘A’ is widely used as a preservative and has the molecular formula C2H4O2. This compound reacts with ethanol to form a sweet smelling compound ‘B’.
-
-(i) Identify the compound ‘A’.
-
-(ii) Write the chemical equation for its reaction with ethanol to form compound ‘B’.
-
-(iii) Name the process.
-
-**REFERENCE BOOKS**
-
-1\. Organic chemistry - B.S.Bahl & Arun Bahl S.Chand publishers, New delhi.
-
-2\. Organic chemistry - R.T.Morrision & R.MN. Boyd - Prentice Hall Publishers. New Delhi
-
-**INTERNET RESOURCES**
-
-https://www.tutorvista.com/ https://www.topperlearning.com/ http://www.chem4kids.com/
-
-
-
-
-
-
-
 
   
-
-
-
-**Carbon and its**
-
-**compounds**
-
-Functional group
-
-Saturated
-
-Unsaturated
-
-Open chain compounds
-
-Closed chain compounds
-
-Classication Naming
-
-IUPAC
-
-Common name
-
-Daily use
-
-Carbo cyclic compounds
-
-Hetero cyclic compounds
-
-Ether
-
-Ester
-
-Carboxylic acids
-
-Ketones
-
-Aldehydes
-
-Alcohols
-
-alcohol
-
-Organic acid
-
-Drugs
-
-Fuel
-
-Tyre
-
-Plastic
-
-Root word
-
-Prex
-
-Sux
-
-Source
-
-URL: https://play.google.com/store/apps/details?id=com.budgietainment.oc or Scan the QR Code.
-
-**ICT CORNER Organic Carbon and its Compounds**
-
-• Type the URL or use the QR code to access the application “Organic chemistry visualized / OCV” and install in the mobile.
-
-• Click ‘Content’ to view the list of Hydrocarbon. Explore about the hydrocarbons by clicking those.
-
-• On clicking ‘**anim**’ button, you can view the formulae of hydrocarbon as well as in animated form.
-
-• Click ‘**Quiz**’ to evaluate yourself in this topic.
-
-\*Pictures are indicative only
-
-**Steps**
-
-**The students can know about the Hydrocarbons, its formulae, descriptions**
-
-**and also in animated form.**
-
-**Step1 Step2 Step4Step3**
-
-**Concept Map**
-
-
-
-
-
-
-
-
-
-
-
-|------|
-
-
-
-
-
-
-
-
-|------|
-
-
 
 
 
