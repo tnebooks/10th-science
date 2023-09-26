@@ -405,7 +405,7 @@ The difference between series and parallel circuits may be summed as follows in 
 | 2 |Amount of current |Current i s les s a s e ective resistance is more. |Current is more as eective re-sistance is les s. |
 | 3 |Switching ON/OFF |If one appliance i s di sconnected, others also do not work. |If one appliance is disconnected,others will work independently. |
 
-**Figure 4.8** Series-parallel combination of resistors
+
 
 
 ## HEATING EFFECT OF CURRENT
@@ -434,493 +434,164 @@ the resistor. • directly proportional to the time for
 
 which the current is passing through the resistor.
 
-**4.8.2 Applications of Heating Effect**
+**4.82 Applications of Heating Effect**
 
-**1\. Electric Heating Device:** The heating effect of electric current is used
+**1\. Electric Heating Device:** The heating effect of electric current is used in many home appliances such as electric iron, electric toaster, electric oven, electric heater, geyser, etc. In these appliances Nichrome, which is an alloy of Nickel and Chromium is used as the heating element. Why? Because:
 
-in many home appliances such as electric iron, electric toaster, electric oven, electric heater, geyser, etc. In these appliances Nichrome, which is an alloy of Nickel and Chromium is used as the heating element. Why? Because:
+(i) it has high resistivity, 
+(ii) it has a high melting point,(iii) it is not easily oxidized.
 
-(i) it has high resistivity, (ii) it has a high melting point, (iii) it is not easily oxidized.
-
-**2\. Fuse Wire:** The fuse wire is connected in series, in an
-
-electric circuit. When a large current passes through the circuit, the fuse wire melts due to Joule’s heating effect and hence the circuit gets disconnected. Therefore, the circuit and the
-
-**S. No. CRITERIA SERIES PARALLEL**
-
-1 Equivalent resistance More than the highest resistance. Less than the lowest resistance.
-
-2 Amount of current Current is less as effective resistance is more.
-
-Current is more as effective re- sistance is less.
-
-3 Switching ON/OFF If one appliance is disconnected, others also do not work.
-
-If one appliance is disconnected, others will work independently.
-
-**Table 4.3 Difference between series and parallel circuit**
-
-
-
-
-
-
-electric appliances are saved from any damage. The fuse wire is made up of a material whose melting point is relatively low.
+**2\. Fuse Wire:** The fuse wire is connected in series, in an electric circuit. When a large current passes through the circuit, the fuse wire melts due to Joule’s heating effect and hence the circuit gets disconnected. Therefore, the circuit and the electric appliances are saved from any damage. 
+The fuse wire is made up of a material whose melting point is relatively low.
 
 **3\. Filament in bulbs:** In electric bulbs, a small wire is used,
 
 known as filament. The filament is made up of a material whose melting point is very high. When current passes through this wire, heat is produced in the filament. When the filament is heated, it glows and gives out light. Tungsten is the commonly used material to make the filament in bulbs.
 
-**Solved Problem-6** An electric heater of resistance 5 Ω is
+**Solved Problem-6** An electric heater of resistance 5 Ω is connected to an electric source. If a current of 6 A flows through the heater, then find the amount of heat produced in 5 minutes. 
 
-connected to an electric source. If a current of 6 A flows through the heater, then find the amount of heat produced in 5 minutes. **Solution:**
-
-Given resistance R = 5 Ω, Current I = 6 A, Time t = 5 minutes = 5 × 60 s = 300 s
+**Solution:**
+  Given resistance R = 5 Ω, Current I
+  
+= 6 A, Time t = 5 minutes = 5 × 60 s = 300 s
 
 Amount of heat produced, H = I2Rt, H = 62 × 5 × 300. Hence, H = 54000 J
 
 ## ELECTRIC POWER
 
-
 In general, power is defined as the rate of doing work or rate of spending energy. Similarly, the electric power is defined as the rate of consumption of electrical energy. It represents the rate at which the electrical energy is converted into some other form of energy.
 
 Suppose a current ‘I’ flows through a conductor of resistance ‘R’ for a time ‘t’, then the potential difference across the two ends of the conductor is ‘V’. The work done ‘W’ to move the charge across the ends of the conductor is given by the equation (4.19) as follows:
 
-W = V I t, Power P = =
+W = V I t, Power P = work / Time =VIt / t
 
 **P = V I** (4.21) Thus, the electric power is the product of
 
 the electric current and the potential difference due to which the current passes in a circuit.
 
-**4.9.1 Unit of Electric Power** The SI unit of electric power is watt. When
+### Unit of Electric Power** 
 
-a current of 1 ampere passes across the ends of a conductor, which is at a potential difference of 1 volt, then the electric power is
+The SI unit of electric power is watt. When a current of 1 ampere passes across the ends of a conductor, which is at a potential difference of 1 volt, then the electric power is
 
-P = 1 volt × 1 ampere = 1 watt Thus, one watt is the power consumed
+P = 1 volt × 1 ampere = 1 watt 
 
-when an electric device is operated at a potential difference of one volt and it carries a current of one ampere. A larger unit of power, which is more commonly used is kilowatt.
+Thus, one watt is the power consumed when an electric device is operated at a potential difference of one volt and it carries a current of one ampere. A larger unit of power, which is more commonly used is kilowatt.
 
-**HORSE POWER: _The horse power (hp) is a unit in the foot-pound-second (fps)_**
+**HORSE POWER:**
 
-**_or English system, sometimes used to express the electric power. It is equal to_ 746 watt_._**
+**The horse power (hp) is a unit in the foot-pound-second (fps) or English system, sometimes used to express the electric power. It is equal to 746 watt.**
 
 ### Consumption of  electrical  energy
 
 
 Electricity is consumed both in houses and industries. Consumption of electricity is based on two factors: (i) Amount of electric power and (ii) Duration of usage. Electrical energy consumed is taken as the product of electric power and time of usage. For example, if 100 watt of electric power is consumed for two hours, then the power consumed is 100 × 2 = 200 watt hour. Consumption of electrical energy is measured and expressed in watt hour, though its SI unit is watt second. In practice, a larger unit of electrical energy is needed. This larger unit is kilowatt hour (kWh). One kilowatt hour is otherwise known as one unit of electrical energy. One kilowatt hour means that an electric power of 1000 watt has been utilized for an hour. Hence,
 
-1 kWh = 1000 watt hour = 1000 × (60 × 60) watt second = 3.6 × 106 J
+1 kWh = 1000 watt hour = 1000 × (60 × 60) watt second = 3.6 × 10<sup>6</sup> J
 
 ## DOMESTIC ELECTRIC CIRCUITS
 
 
-The electricity produced in power stations is distributed to all the domestic and industrial consumers through overhead and underground
-
-
-
-
-
-
-
-
-  
-
-
-
-cables. The diagram, which shows the general scheme of a domestic electric circuit, is given in Figure 4.10.
+The electricity produced in power stations is distributed to all the domestic and industrial consumers through overhead and underground cables. The diagram, which shows the general scheme of a domestic electric circuit, is given in Figure 4.10.
 
 In our homes, electricity is distributed through the domestic electric circuits wired by the electricians. The first stage of the domestic circuit is to bring the power supply to the main-box from a distribution panel, such as a transformer. The important components of the main-box are: (i) a fuse box and (ii) a meter. The meter is used to record the consumption of electrical energy. The fuse box contains either a fuse wire or a miniature circuit breaker (MCB). The function of the fuse wire or a MCB is to protect the house hold electrical appliances from overloading due to excess current.
+![Alt text](image-17.png)
 
 **Figure 4.10** Domestic electric circuit
 
 You have learnt about a fuse wire in section 4.8.2. An MCB is a switching device, which can be activated automatically as well as manually. It has a spring attached to the switch, which is attracted by an electromagnet when an excess current passes through the circuit. Hence, the circuit is broken and the protection of the appliance is ensured. Figure 4.11 represents a fuse and an MCB.
-
+![Alt text](image-18.png)
 **Figure 4.11** A fuse and an MCB
 
 The electricity is brought to houses by two insulated wires. Out of these two wires, one wire has a red insulation and is called the ‘live wire’. The other wire has a black insulation and is called the ‘neutral wire’. The electricity supplied to your house is actually an alternating current having an electric potential of 220 V. Both, the live wire and the neutral wire enter into a box where the main fuse is connected with the live wire. After the electricity meter, these wires enter into the main switch, which is used to discontinue the electricity supply whenever required. After the main switch, these wires are connected to live wires of two separate circuits. Out of these two circuits, one circuit is of a 5 A rating, which is used to run the electric appliances with a lower power rating, such as tube lights, bulbs and fans. The other circuit is of a 15 A rating, which is used to run electric appliances with a high power rating, such as air-conditioners, refrigerators, electric iron and heaters. It should be noted that all the circuits in a house are connected in parallel, so that the disconnection of one circuit does not affect the other circuit. One more advantage of the parallel connection of circuits is that each electric appliance gets an equal voltage.
 
+---
+
+**DO YOU KNOWN**
 In India, domestic circuits are supplied with an alternating current of potential 220/230V
 
 and frequency 50 Hz. In countries like USA and UK, domestic circuits are supplied with an alternating current of potential 110/120 V and frequency 60 Hz.
 
-**4.10.1   Overloading and Short  circuiting**
+---
+
+### 4.10.1   Overloading and Short  circuiting
 
 The fuse wire or MCB will disconnect the circuit in the event of an overloading and short circuiting. Over loading happens when a large number of appliances are connected in series to
-
-
-
-
-
-
-
-
-  
-
-53 **Electricity**
-
 the same source of electric power. This leads to a flow of excess current in the electric circuit. When the amount of current passing through a wire exceeds the maximum permissible limit, the wires get heated to such an extent that a fire may be caused. This is known as overloading. When a live wire comes in contact with a neutral wire, it causes a ‘short circuit’. This happens when the insulation of the wires get damaged due to temperature changes or some external force. Due to a short circuit, the effective resistance in the circuit becomes very small, which leads to the flow of a large current through the wires. This results in heating of wires to such an extent that a fire may be caused in the building.
 
-**4.10.2  Earthing**
+### Earthing
 
 In domestic circuits, a third wire called the earth wire having a green insulation is usually connected to the body of the metallic electric appliance. The other end of the earth wire is connected to a metal tube or a metal electrode, which is buried into the Earth. This wire provides a low resistance path to the electric current. The earth wire sends the current from the body of the appliance to the Earth, whenever a live wire accidentally touches the body of the metallic electric appliance. Thus, the earth wire serves as a protective conductor, which saves us from electric shocks.
 
 ## LED BULB
 
 
-An LED bulb is a semiconductor device that emits visible light when an electric current passes through it. The colour of the emitted light will depend on the type of materials used. With the help of the chemical compounds like Gallium Arsenide and Gallium Phosphide, the manufacturer can produce LED bulbs that radiates red, green, yellow and orange colours. Displays in digital watches and calculators, traffic signals,
+An LED bulb is a semiconductor device that emits visible light when an electric current passes through it. The colour of the emitted light will depend on the type of materials used. With the help of the chemical compounds like Gallium Arsenide and Gallium Phosphide, the manufacturer can produce LED bulbs that radiates red, green, yellow and orange colours. Displays in digital watches and calculators, traffic signals,street lights, decorative lights, etc., are some examples for the use of LEDs.
 
-street lights, decorative lights, etc., are some examples for the use of LEDs.
+### Seven Segment Display
 
-**4.11.1  Seven Segment Display**
-
+![Alt text](image-19.png)
 **Figure 4.12** Seven segment display
 
 A ‘Seven Segment Display’ is the display device used to give an output in the form of numbers or text. It is used in digital meters, digital clocks, micro wave ovens, etc. It consists of 7 segments of LEDs in the form of the digit 8. These seven LEDs are named as a, b, c, d, e, f and g (Figure 4.12). An extra 8th LED is used to display a dot.
 
-**4.11.2 Merits of a LED bulb **
+### Merits of a LED bulb 
 
 1\. As there is no filament, there is no loss of energy in the form of heat. It is cooler than the incandescent bulb.
 
 2\. In comparison with the fluorescent light, the LED bulbs have significantly low power requirement.
 
-3\. It is not harmful to the environment. 4. A wide range of colours is possible here. 5. It is cost-efficient and energy efficient. 6. Mercury and other toxic materials are not
+3\. It is not harmful to the environment. 
 
-required. **_One way of overcoming the energy crisis_**
+4\. A wide range of colours is possible here. 
 
-**_is to use more LED bulbs._**
+5\. It is cost-efficient and energy efficient. 
+
+6\. Mercury and other toxic materials are not required.
+
+**One way of overcoming the energy crisis is to use more LED bulbs.**
 
 ## LED TELEVISION
 
 
-LED Television is one of the most important applications of Light Emitting Diodes. An LED TV is actually an LCD TV (Liquid Crystal Display) with LED display.
+LED Television is one of the most important applications of Light Emitting Diodes. An LED TV is actually an LCD TV (Liquid Crystal Display) with LED display. An LED display uses LEDs for backlight and an array of LEDs act as pixels. LEDs emitting white light are used in monochrome (black and white) TV; Red, Green and Blue (RGB) LEDs are used in colour television. The first LED television screen was developed by James P. Mitchell in 1977. It was a monochromatic display. But, after about three decades, in 2009, SONY introduced the first commercial LED Television.
 
+### Advantages of LED  television
 
-
-
-
-
-
-
-  
-
-
-
-An LED display uses LEDs for backlight and an array of LEDs act as pixels. LEDs emitting white light are used in monochrome (black and white) TV; Red, Green and Blue (RGB) LEDs are used in colour television. The first LED television screen was developed by James P. Mitchell in 1977. It was a monochromatic display. But, after about three decades, in 2009, SONY introduced the first commercial LED Television.
-
-**4.12.1   Advantages of LED  television**
-
-• It has brighter picture quality. • It is thinner in size. • It uses less power and consumes very less
-
-energy. • Its life span is more. • It is more reliable.
+• It has brighter picture quality. 
+• It is thinner in size. 
+• It uses less power and consumes very less energy. 
+• Its life span is more. 
+• It is more reliable.
 
 **Points to Remember**
-
-™ The magnitude of current is defined as the rate of flow of charges in a conductor. ™ The SI unit of electric current is ampere (A). ™ The SI unit of electric potential and
-
-potential difference is volt (V). ™ An electric circuit is a network of electrical
-
-components, which forms a continuous and closed path for an electric current to pass through it. ™ The parameters of conductors like
-
-its length, area of cross-section and material, affect the resistance of the conductor. ™ SI unit of electrical resistivity is ohm
-
-metre. The resistivity is a constant for a given material. ™ The reciprocal of electrical resistivity
-
-of a material is called its electrical conductivity.
-
-_σ_ = 1 _ρ_
-
-™ The passage of electric current through a wire results in the production of heat.
-
-This phenomenon is called heating effect of current. ™ One horse power is equal to 746 watts. ™ The function of a fuse wire or a MCB
-
-is to protect the house hold electrical appliances from excess current due to overloading or a short circuit.
-
-**Solved Problems**
-
-1\. Two bulbs are having the ratings as 60 W, 220 V and 40 W, 220 V respectively. Which one has a greater resistance?
-
-**Solution:** Electric power P =
-
-_V_ 2
-
-_R_ For the same value of V, R is inversely
-
-proportional to P. Therefore, lesser the power, greater the
-
-resistance Hence, the bulb with 40 W, 220 V rating
-
-has a greater resistance.
-
-2\. Calculate the current and the resistance of a 100 W, 200 V electric bulb in an electric circuit.
-
-**Solution:** Power P = 100 W and Voltage V = 200 V Power P = V I So, Current, I = = 100
-
-200 = 0.5 A
-
-Resistance, R = = = 400 Ω
-
-**3.** In the circuit diagram given below, three resistors R1, R2 and R3 of 5 Ω, 10 Ω and 20 Ω respectively are connected as shown. Calculate:
-
-
-
-
-
-
-
-
-  
-
-55 **Electricity**
-
-A) Current through each resistor B) Total current in the circuit C) Total resistance in the circuit
-
-**Solution:**
-
-A) Since the resistors are connected in parallel, the potential difference across each resistor is same (i.e. V=10V) Therefore, the current through R1 is,
-
-I1 = = = 2 A
-
-Current through R2 = I2 = = = 1 A
-
-Current through R3 = I3 = = = 0.5 A
-
-B) Total current in the circuit, I = I1 + I2 + I3
-
-\= 2 + 1 + 0.5 = 3.5 A
-
-C) Total resistance in the circuit = + +
-
-\= + +
-
-\=
-
-\=
-
-Hence, = = 2.857 Ω
-
-4\. Three resistors of 1 Ω, 2 Ω and 4 Ω are connected in parallel in a circuit. If a 1 Ω resistor draws a current of 1 A, find the current through the other two resistors.
-
-**Solution:** R1 = 1 Ω, R2 = 2 Ω, R3 = 4 Ω Current I1 = 1 A
-
-The potential difference across the 1 Ω resistor = I1 R1 = 1 × 1 = 1 V
-
-Since, the resistors are connected in parallel in the circuit, the same potential difference will exist across the other resistors also.
-
-So, the current in the 2 Ω resistor, = = 0.5 A
-
-Similarly, the current in the 4 Ω resistor,
-
-\= = 0.25 A
-
-**TEXTBOOK EVALUATION**
-
-**I. Choose the best answer**
-
-1\. Which of the following is correct? a) Rate of change of charge is electrical power. b) Rate of change of charge is current. c) Rate of change of energy is current. d) Rate of change of current is charge.
-
-2\. SI unit of resistance is a) mho b) joule c) ohm d) ohm meter
-
-3\. In a simple circuit, why does the bulb glow when you close the switch?
-
-a) The switch produces electricity. b) Closing the switch completes the circuit. c) Closing the switch breaks the circuit. d) The bulb is getting charged.
-
-4\. Kilowatt hour is the unit of a) resistivity b) conductivity c) electrical energy d) electrical power
-
-
-
-
-
-
-
-
-  
-
-
-
-**II. Fill in the blanks** 1\. When a circuit is open, \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-cannot pass through it. 2. The ratio of the potential difference to the
-
-current is known as \_\_\_\_\_\_\_\_.
-
-3\. The wiring in a house consists of \_\_\_\_\_\_\_\_\_ circuits.
-
-4\. The power of an electric device is a product of \_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_.
-
-5\. LED stands for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
-
-**III. State whether the following statements are true or false: If false correct the statement.**
-
-1\. Ohm’s law states the relationship between power and voltage.
-
-2\. MCB is used to protect house hold electrical appliances.
-
-3\. The SI unit for electric current is the coulomb.
-
-4\. One unit of electrical energy consumed is equal to 1000 kilowatt hour.
-
-5\. The effective resistance of three resistors connected in series is lesser than the lowest of the individual resistances.
-
-**IV. Match the items in column-I to the items in column-II:**
-
-**Column - I Column - II** (i) electric current (a) volt (ii) potential difference (b) ohm meter (iii) specific resistance (c) watt (iv) electrical power (d) joule (v) electrical energy (e) ampere
-
-**V. Assertion and reason type questions:**
-
-**Mark the correct choice as** a) if both the assertion and the reason are true
-
-and the reason is the correct explanation of the assertion.
-
-b) if both the assertion and the reason are true, but the reason is not the correct explanation of the assertion.
-
-c) if the assertion is true, but the reason is false.
-
-d) if the assertion is false, but the reason is true.
-
-1\. **Assertion:** Electric appliances with a metallic body have three wire connections.
-
-Reason: Three pin connections reduce heating of the connecting wires
-
-2\. **Assertion:** In a simple battery circuit the point of highest potential is the positive terminal of the battery.
-
-Reason: The current flows towards the point of the highest potential
-
-3\. **Assertion:** LED bulbs are far better than incandescent bulbs.
-
-**Reason:** LED bulbs consume less power than incandescent bulbs.
-
-**VI. Very short answer questions.**
-
-1\. Define the unit of current. 2. What happens to the resistance, as the
-
-conductor is made thicker? 3. Why is tungsten metal used in bulbs, but
-
-not in fuse wires? 4. Name any two devices, which are working
-
-on the heating effect of the electric current.
-
-**VII. Short answer questions** 1\. Define electric potential and potential
-
-difference.
-
-2\. What is the role of the earth wire in domestic circuits?
-
-3\. State Ohm’s law.
-
-4\. Distinguish between the resistivity and conductivity of a conductor.
-
-
-
-
-
-
-
-
-  
-
-57 **Electricity**
-
-5\. What connection is used in domestic appliances and why?
-
-**VIII. Long answer questions.**
-
-1\. With the help of a circuit diagram derive the formula for the resultant resistance of three resistances connected: a) in series and b) in parallel
-
-2\. a) What is meant by electric current? b) Name and define its unit. c) Which instrument is used to measure
-
-the electric current? How should it be connected in a circuit?
-
-3\. a) State Joule’s law of heating. b) An alloy of nickel and chromium is
-
-used as the heating element. Why? c) How does a fuse wire protect electrical
-
-appliances?
-
-4\. Explain about domestic electric circuits. (circuit diagram not required)
-
-5\. a) What are the advantages of LED TV over the normal TV?
-
-b) List the merits of LED bulb.
-
-**IX. Numerical problems:**
-
-1\. An electric iron consumes energy at the rate of 420 W when heating is at the maximum rate and 180 W when heating is at the minimum rate. The applied voltage is 220 V. What is the current in each case?
-
-2\. A 100 watt electric bulb is used for 5 hours daily and four 60 watt bulbs are used for 5 hours daily. Calculate the energy consumed (in kWh) in the month of January.
-
-3\. A torch bulb is rated at 3 V and 600 mA. Calculate it’s a) power b) resistance c) energy consumed if it is used for 4 hour.
-
-4 A piece of wire having a resistance R is cut into five equal parts.
-
-a) How will the resistance of each part of the wire change compared with the original resistance?
-
-b) If the five parts of the wire are placed in parallel, how will the resistance of the combination change?
-
-c) What will be ratio of the effective resistance in series connection to that of the parallel connection?
-
-**X. HOTS:**
-
-1\. Two resistors when connected in parallel give the resultant resistance of 2 ohm; but when connected in series the effective resistance becomes 9 ohm. Calculate the value of each resistance.
-
-2\. How many electrons are passing per second in a circuit in which there is a current of 5 A?
-
-3\. A piece of wire of resistance 10 ohm is drawn out so that its length is increased to three times its original length. Calculate the new resistance.
-
-**REFERENCE BOOKS**
-
-1\. Electrodynamics by Griffiths
-
-2\. Fundamentals of Electric Circuits by Charles Alexander
-
-**INTERNET RESOURCES**
-
-https://www.elprocus.com/basic-electrical- circuits-and-their-working-for-electrical- engineers/
-
-https://www.physicsclassroom.com/calcpad/ circuits
-
-
-
-
-
-
-
-
-  
-
-
-
-**ICT CORNER Ohm’s Law**
-
-**Link** URL:http://amrita.olabs.edu.in/?sub=1&brch=4&sim=99&cnt=4
-
-**Steps**
-
-**In this activity you will be able to (i) verify Ohm’s law (ii) understand the relation between current, voltage and resistance.**
-
-• Open the browser and type “olabs.edu.in” in the address bar. Click physics tab and then click “Ohm’s law and resistance” under class 10 section. Go to “simulator” tab to do the experiment.
-
-• Construct the electric circuit as per the connection diagram by clicking “show circuit diagram” tab. You can connect wires between electric component by dragging the mouse between the component.
-
-• Switch on the key and note down the voltage (_V_) and curren (_I_). Find the value of resistance
-
-using the formula R = _V I_
-
-. Repeat the experiment for different values of voltage and current.
-
-Check whether the resistance remains constant.
-
-• Find the value of Resistance/(length (in Cm)). Enter the value of resistance and resistance per unit length in the result. Verify the answer.
-
-Note:
-
-1\. One time sign up is needed to do simulation. Then login using that username and password.
-
-2\. Read theory, procedure and animation to get the theory by clicking the corresponding tab.
-
-
-
-
-
-
-
+ The magnitude of current is defined 
+as the rate of flow of charges in a 
+conductor.
+ The SI unit of electric current is ampere (A).
+ The SI unit of electric potential and 
+potential difference is volt (V). 
+ An electric circuit is a network of electrical 
+components, which forms a continuous 
+and closed path for an electric current to 
+pass through it.
+ The parameters of conductors like 
+its length, area of cross-section and 
+material, affect the resistance of the 
+conductor.
+ SI unit of electrical resistivity is ohm 
+metre. The resistivity is a constant for a 
+given material.
+ The reciprocal of electrical resistivity 
+of a material is called its electrical 
+conductivity. 
+σ = 1
+ρ
+ The passage of electric current through 
+a wire results in the production of heat.
+This phenomenon is called heating effect 
+of current.
+ One horse power is equal to 746 watts. 
+ The function of a fuse wire or a MCB 
+is to protect the house hold electrical appliances from excess current due to 
+overloading or a short circuit.
 
