@@ -65,60 +65,25 @@ An electric circuit is a closed conducting loop (or) path, which has a network o
 
 **Table 4.1** Symbols of some components of a circuit
 
-**COMPONENT USE OF THE COMPONENT SYMBOL USED**
-
-Resistor Used to fix the magnitude of the current through a circuit
-
-Variable resistor or Rheostat
-
-Used to select the magnitude of the current through a circuit.
-
-Ammeter Used to measure the current.
-
-Voltmeter Used to measure the potential difference.
-
-Galvanometer Used to detect the current and its direction.
-
-A diode It is used in electronic devices.
-
-Light Emitting Diode (LED)
-
-It is used in seven segment display.
-
-Ground connection
-
-Used to provide protection to the electrical components. It also serves as a reference point to measure the electric potential.
-
-
-
-
-
-
-
-
-
-
 | C OMPONENT |USE OF THE  C OMPONENT |SYMB OL USED |
 |------|------|------|
-| Resi stor |Used t o x t he m agnitude o f t he c ur rentthroug h a cir cuit |
-| Variable r esi storor R heostat |Used t o s ele ct t he m agnitude o f t he c ur rentthroug h a cir cuit. |
-| Ammeter |Used t o m easure t he c ur rent. |
-| Voltmeter |Used t o m easure t he p otential di erence. |
-| Ga lvanometer |Used t o det ect t he c ur rent a nd its dir ection. |
-| A dio de |It i s u sed in e le ctronic de vices. |
-| Lig ht Emi ttingDio de (LED) |It i s u sed in s even s eg ment di splay. |
-| Groundconnection |Used t o provide p rotection t o t he e le ctric alcomp onents. It a lso s er ves a s a r eference p ointto m easure t he e le ctric p otential. |
-  
+| Resi stor |Used t o x t he m agnitude o f t he c ur rentthroug h a cir cuit | ![Alt text](image-2.png) |
+| Variable r esi storor R heostat |Used t o s ele ct t he m agnitude o f t he c ur rentthroug h a cir cuit. | ![Alt text](image-3.png) |
+| Ammeter |Used t o m easure t he cur rent. | ![Alt text](image-4.png) |
+| Voltmeter |Used t o m easure t he p otential difference. | ![Alt text](image-5.png) |
+| Galvanometer |Used t o det ect t he cur rent a nd its direction. | ![Alt text](image-6.png) |
+| A dio de |It i s u sed in e le ctronic devices. | ![Alt text](image-7.png) |
+| Lig ht Emi ttingDio de (LED) |It i s u sed in s even s eg ment display. | ![Alt text](image-8.png) |
+| Groundconnection |Used t o provide p rotection t o t he e le ctric alcomp onents. It a lso s er ves a s a r eference p ointto m easure t he e le ctric p otential. | ![Alt text](image-9.png) |
 
 
+In this circuit, if the switch is‘on’, the bulb glows. If it is switched off, the bulb does not glow. Therefore, the circuit must be closed in order that the current passes through it. The potential difference required for the flow of charges is provided by the battery. The electrons flow from the negative terminal to the positive terminal of the battery.
 
-In this circuit, if the switch is ‘on’, the bulb glows. If it is switched off, the bulb does not glow. Therefore, the circuit must be closed in order that the current passes through it. The potential difference required for the flow of charges is provided by the battery. The electrons flow from the negative terminal to the positive terminal of the battery.
+**By convention, the direction of current is taken as the direction of flow of positive charge (or) opposite to the direction of flow of electrons. Thus, electric current passes in** the circuit from the positive terminal to the negative terminal.
 
-**_By convention, the direction of current is taken as the direction of flow of positive charge (or) opposite to the direction of flow of electrons. Thus, electric current passes in_** the circuit from the positive terminal to the negative terminal.
+**4.2.1  Electrical components**
 
-**4.2.1  Electrical components** The electric circuit given in Figure
-
-4.2 consists of different components, such as a battery, a switch and a bulb. All these components can be represented by using certain symbols. It is easier to represent the components of a circuit using their respective symbols.
+ The electric circuit given in Figure 4.2 consists of different components, such as a battery, a switch and a bulb. All these components can be represented by using certain symbols. It is easier to represent the components of a circuit using their respective symbols.
 
 The symbols that are used to represent some commonly used components are given in Table 4.1. The uses of these components are also summarized in the table.
 
@@ -135,53 +100,47 @@ as the amount of work done in moving a unit positive charge from infinity to tha
 
 two points is defined as the amount of work done in moving a unit positive charge from one point to another point against the electric force.
 
-QA B
+![Alt text](image-10.png)
 
 **Figure 4.3** Electric potential
 
 Suppose, you have moved a charge Q from a point A to another point B. Let ‘W’ be the work done to move the charge from A to B. Then, the potential difference between the points A and B is given by the following expression:
 
-Potential = (4.2) Difference (V)
+Potential = (4.2) Difference (V)//todo
 
 Potential difference is also equal to the difference in the electric potential of these two points. If VA and VB represent the electric potential at the points A and B respectively, then, the potential difference between the points A and B is given by:
 
-V = VA – VB (if VA is more than VB) V = VB – VA (if VB is more than VA)
+V = V<sub>A</sub> – V<sub>B</sub>(if V<sub>A</sub> is more than V<sub>B</sub>) 
+V = V<sub>B</sub> – V<sub>A</sub> (if V<sub>B</sub> is more than V<sub>A</sub>)
 
-**4.3.3   Volt**
+**Volt**
 
 The SI unit of electric potential or potential difference is volt (V).
 
 The potential difference between two points is one volt, if one joule of work is done in moving one coulomb of charge from one point to another against the electric force.
 
-1volt =
+1volt =//todo
 
 **Solved Problem-2 The work done in moving a charge of 10 C** across two points in a circuit is 100 J. What is the potential difference between the points?
 
+**Solution:** 
 
+Charge, Q = 10 C Work Done, W = 100 J
 
-
-
-
-
-
-  
-
-45 **Electricity**
-
-**Solution:** Charge, Q = 10 C Work Done, W = 100 J
-
-Potential Difference V = = . Therefore, V = 10 volt
+Potential Difference V =w/q = 100/10.//todo Therefore, V = 10 volt
 
 ## OHM’S LAW
 
 
 A German physicist, Georg Simon Ohm established the relation between the potential difference and current, which is known as Ohm’s Law. This relationship can be understood from the following activity.
 
+![Alt text](image-11.png)
+
 **Figure 4.4** Electric circuit to understand Ohm’s law
 
 According to Ohm’s law, at a constant temperature, the steady current ‘I’ flowing through a conductor is directly proportional to the potential difference ‘V’ between the two ends of the conductor.
 
-I V. Hence, = constant.
+I V. Hence, = constant.//todo
 
 The value of this proportionality constant is
 
@@ -190,8 +149,11 @@ found to be
 Therefore, I = V
 
 **V = I R** (4.3)
+//todo
 
 Here, R is a constant for a given material (say Nichrome) at a given temperature and is known as the **resistance** of the material. Since, the potential difference V is proportional to the current I, the graph between V and I is a straight line for a conductor, as shown in the Figure 4.5.
+
+![Alt text](image-12.png)
 
 **Figure 4.5** Relation between potential difference and current
 
@@ -202,35 +164,26 @@ In Figure 4.4, a Nichrome wire was connected between X and Y. If you replace the
 
 Resistance of a material is its property to oppose the flow of charges and hence the passage of current through it. It is different for **_different materials._**
 
-From Ohm’s Law, = R.
+From Ohm’s Law, = R.//todo
 
 **_The resistance of a conductor can be defined as the ratio between the potential difference across the ends of the conductor and the current flowing through it._**
 
-**4.5.1 Unit of Resistance **
+**4.5.1 Unit of Resistance**
 
 The SI unit of resistance is ohm and it is represented by the symbol Ω.
 
-
-
-
-
-
-
-
-  
-
-
-
 **_Resistance of a conductor is said to be one ohm if a current of one ampere flows through it when a potential difference of one volt is maintained across its ends_**.
 
-1 ohm =
+1 ohm = 1 //todo
 
-**Solved Problem-3** Calculate the resistance of a conductor
+**Solved Problem-3** 
 
+Calculate the resistance of a conductor
 through which a current of 2 A passes, when the potential difference between its ends is 30 V.
 
-**Solution:** Current through the conductor I = 2 A, Potential Difference V = 30 V
-
+**Solution:** 
+Current through the conductor I = 2 A, Potential Difference V = 30 V
+//todo
 From Ohm’s Law: R = .
 
 Therefore, R = = 15 Ω
@@ -243,6 +196,7 @@ Therefore, R = = 15 Ω
 
 You can verify by doing an experiment that the resistance of any conductor ‘R’ is directly proportional to the length of the conductor ‘L’ and is inversely proportional to its area of cross section ‘A’.
 
+//todo
 R L, R ,
 
 Hence , R
@@ -250,7 +204,7 @@ Hence , R
 Therefore, R = ρ (4.4)
 
 Where, ρ (rho) is a constant, called as electrical resistivity or specific resistance of the material of the conductor.
-
+//todo
 From equation (4.4), ρ =
 
 If L = 1 m, A = 1 m2 then, from the above equation ρ = R
@@ -259,62 +213,51 @@ Hence, the electrical resistivity of a material is defined as the resistance of 
 
 Electrical resistivity of a conductor is a measure of the resisting power of a specified material to the passage of an electric current. It is a constant for a given material.
 
-Nichrome is a conductor with highest resistivity equal to 1.5 × 10–6 Ω m. Hence, it is used
+---
+**do you know ?**
 
-in making heating elements.
+Nichrome is a conductor with highest resistivity equal to 1.5 × 10–6 Ω m. Hence, it is used in making heating elements.
+
+---
 
 ###    Conductance and  Conductivity
 
 
 Conductance of a material is the property of a material to aid the flow of charges and hence, the passage of current in it. The conductance of a material is mathematically **_defined as the reciprocal of its resistance (R)._** Hence, the conductance ‘**G**’ of a conductor is given by
 
-**G** = (4.5)
+**G** = 1 / R  (4.5)
 
 Its unit is ohm–1. It is also represented as ‘mho’.
 
 **_The reciprocal of electrical resistivity of a material is called its electrical conductivity_**.
 
-\= (4.6)
+\= (4.6)//todo
 
 Its unit is ohm–1 metre–1. It is also represented as mho metre–1. The conductivity is a constant for a given material. Electrical conductivity of a conductor is a measure of its ability to pass the current through it. Some materials are good conductors of electric current. Example: copper, aluminium, etc. While some other materials are non- conductors of electric current (insulators). Example: glass, wood, rubber, etc.
-
-Conductivity is more for conductors than for insulators. But, the resistivity is less for
-
-
-
-
-
-
-
-
-  
-
-47 **Electricity**
 
 conductors than for insulators. The resistivity of some commonly used materials is given in Table 4.2.
 
 **Table 4.2** Resistivity of some materials
 
-**NATURE OF THE**
 
-**MATERIAL MATERIAL RESISTIVITY**
+| NATURE  OFTHEMATERIAL |MATERIAL |RESISTIVIT Y(Ω m) |
+|------|------|------|
+| Conductor |Copper |1.62 × 10–8 |
+| Nickel |6.84 × 10–8 |
+| Chromium |12.9 × 10–8 |
+| Insulator |Glass |to10 1010 14 |
+| Rubber |to10 1013 16 |
 
-**(Ω m)**
+**Solved Problem-4** The resistance of a wire of length 10 m is 2 ohm. If the area of cross section of the wire is 2 × 10–7 m2, determine its 
 
-Conductor Copper 1.62 × 10–8
+(i) resistivity 
 
-Nickel 6.84 × 10–8
+(ii) conductance and 
 
-Chromium 12.9 × 10–8
+(iii) conductivity 
 
-Insulator Glass 1010 to 1014
-
-Rubber 1013 to 1016
-
-**Solved Problem-4** The resistance of a wire of length 10 m
-
-is 2 ohm. If the area of cross section of the wire is 2 × 10–7 m2, determine its (i) resistivity (ii) conductance and (iii) conductivity **Solution:**
-
+**Solution:**
+//todo
 Given: Length, L = 10 m, Resistance, R = 2 ohm and Area, A = 2 × 10–7 m2
 
 Resistivity, = =
@@ -326,7 +269,7 @@ Conductance, **G** = = = 0.5 mho
 Conductivity, = =
 
 \= 0.25 × 108 mho m–1
-
+//todo 
 ## SYSTEM OF RESISTORS
 
 
@@ -342,96 +285,78 @@ In the following sections, you shall compute the effective resistance when many 
 
 A series circuit connects the components one after the other to form a ‘single loop’. A series circuit has only one loop through which current can pass. If the circuit is interrupted at any point in the loop, no current can pass through the circuit and hence no electric appliances connected in the circuit will work. Series circuits are commonly used in devices such as flashlights. Thus, if resistors **_are connected end to end, so that the same current passes through each of them, then they are said to be connected in series_**.
 
+  ![Alt text](image-13.png)
+
 **Figure 4.6** Series connection of resistors
 
 Let, three resistances R1, R2 and R3 be connected in series (Figure 4.6). Let the current flowing through them be I. According to Ohm’s Law, the potential differences V1, V2 and V3 across R1, R2 and R3 respectively, are given by:
 
-V1 = I R1 (4.7) V2 = I R2 ( 4.8) V3 = I R3 (4.9) The sum of the potential differences across
+V1 = I R1 (4.7) 
+V2 = I R2 ( 4.8) 
+V3 = I R3 (4.9) 
+The sum of the potential differences across
 
 the ends of each resistor is given by: V = V1 + V2 + V3
 
 
+Using equations (4.7), (4.8) and (4.9), we get 
 
+V = I R1 + I R2 + I R3 (4.10)//todo
 
-
-
-
-
-
-
-| NATURE  OFTHEMATERIAL |MATERIAL |RESISTIVIT Y(Ω m) |
-|------|------|------|
-| Conductor |Copper |1.62 × 10–8 |
-| Nickel |6.84 × 10–8 |
-| Chromium |12.9 × 10–8 |
-| Insulator |Glass |to10 1010 14 |
-| Rubber |to10 1013 16 |
-  
-
-
-
-Using equations (4.7), (4.8) and (4.9), we get V = I R1 + I R2 + I R3 (4.10) The effective resistor is a single resistor,
+The effective resistor is a single resistor,
 
 which can replace the resistors effectively, so as to allow the same current through the electric circuit. Let, the effective resistance of the series-combination of the resistors, be RS. Then,
-
+//todo
 V = I RS (4.11) Combining equations (4.10) and (4.11),
 
 you get, I RS = I R1 + I R2 + I R3
 
-RS = R1 + R2 + R3 (4.12) Thus, you can understand that when a
+RS = R1 + R2 + R3 (4.12) Thus, you can understand that when a number of resistors are connected in series, their equivalent resistance or effective resistance is equal to the sum of the individual resistances. When ‘n’ resistors of equal resistance R are connected in series, the equivalent resistance is ‘n R’.
 
-number of resistors are connected in series, their equivalent resistance or effective resistance is equal to the sum of the individual resistances. When ‘n’ resistors of equal resistance R are connected in series, the equivalent resistance is ‘n R’.
+i.e., RS = n R //todo
 
-i.e., RS = n R **_The equivalent resistance in a series_**
+**_The equivalent resistance in a series_**
 
-**_combination is greater than the highest of the individual resistances_**. **Solved Problem-5 Three resistors of resistances 5 ohm, 3 ohm** and 2 ohm are connected in series with 10 V battery. Calculate their effective resistance and the current flowing through the circuit. **Solution:** R1 = 5 Ω, R2 = 3 Ω, R3 = 2 Ω, V = 10 V Rs = R1 + R2 + R3, Rs = 5 + 3 + 2 = 10, hence Rs = 10 Ω The current, I = = = 1 A
+**_combination is greater than the highest of the individual resistances_**. **Solved Problem-5** Three resistors of resistances 5 ohm, 3 ohm and 2 ohm are connected in series with 10 V battery. Calculate their effective resistance and the current flowing through the circuit. **Solution:** R1 = 5 Ω, R2 = 3 Ω, R3 = 2 Ω, V = 10 V Rs = R1 + R2 + R3, Rs = 5 + 3 + 2 = 10, hence Rs = 10 Ω The current, I = = = 1 A
 
 ###  Resistances in Parallel
  A parallel circuit has two or more loops
 
 through which current can pass. If the circuit is disconnected in one of the loops, the current can still pass through the other loop(s). The wiring in a house consists of parallel circuits.
-
+![Alt text](image-14.png)
 **Figure 4.7** Parallel connections of resistors
 
 Consider that three resistors R1, R2 and R3 are connected across two common points A and B. The potential difference across each resistance is the same and equal to the potential difference between A and B. This is measured using the voltmeter. The current I arriving at A divides into three branches I1, I2 and I3 passing through R1, R2 and R3 respectively.
 
-According to the Ohm’s law, you have, I1 = (4.13)
+According to the Ohm’s law, you have,
+//todo
+I1 = (4.13)
 
 I2 = (4.14)
 
 I3 = (4.15)
-
+//todo
 The total current through the circuit is given by
 
-I = I1 + I2 + I3
+I = I1 + I2 + I3 //todo
 
 Using equations (4.13), (4.14) and (4.15), you get
 
-I = + + (4.16)
+I = + + (4.16) //todo
 
 Let the effective resistance of the parallel combination of resistors be RP. Then,
 
-I = (4.17)
+I = (4.17) //todo
 
 Combining equations (4.16) and (4.17), you have
-
+//todo
 \= + +
 
 \= + + (4.18)
-
-
-
-
-
-
-
-
-  
-
-49 **Electricity**
+//todo
 
 Thus, when a number of resistors are connected in parallel, the sum of the reciprocals of the individual resistances is equal to the reciprocal of the effective or equivalent resistance. When ‘n’ resistors of equal resistances R are connected in parallel, the equivalent resistance is .
-
+//todo
 i.e., = + + ... + = .
 
 Hence, Rp =
@@ -442,9 +367,10 @@ Hence, Rp =
 
 
 If you consider the connection of a set of parallel resistors that are connected in series, you get a series – parallel circuit. Let R1 and R2 be connected in parallel to give an effective resistance of RP1. Similarly, let R3 and R4 be connected in parallel to give an effective resistance of RP2. Then, both of these parallel segments are connected in series (Figure 4.8).
+![Alt text](image-15.png)
 
 Using equation (4.18), you get
-
+//todo
 \= +
 
 \= +
@@ -456,29 +382,30 @@ Finally, using equation (4.12), the net effective resistance is given by Rtotal 
 
 If you consider a connection of a set of series resistors connected in a parallel circuit, you get a parallel-series circuit. Let R1 and R2 be connected in series to give an effective resistance of RS1. Similarly, let R3 and R4 be connected in series to give an effective resistance of RS2. Then, both of these serial segments are connected in parallel (Figure 4.9).
 
+![Alt text](image-16.png)
+
 **Figure 4.9** Parallel-series combination of resistors
 
-Using equation (4.12), you get RS1 = R1 + R2, RS2 = R3 + R4
+Using equation (4.12), you get 
+
+RS1 = R1 + R2, RS2 = R3 + R4
+//todo
 
 Finally, using equation (4.18), the net effective resistance is given by
-
+//totdo
 \= +
 
 **4.7.5 Difference between series  and parallel connections**
 
 The difference between series and parallel circuits may be summed as follows in Table 4.3
 
+| S. No. |CRITERI A |SERIES |PAR ALLEL |
+|------|------|------|------|
+| 1 |Equivalent resistance |More than the highest resistance. |Less than the lowest resistance. |
+| 2 |Amount of current |Current i s les s a s e ective resistance is more. |Current is more as eective re-sistance is les s. |
+| 3 |Switching ON/OFF |If one appliance i s di sconnected, others also do not work. |If one appliance is disconnected,others will work independently. |
+
 **Figure 4.8** Series-parallel combination of resistors
-
-
-
-
-
-
-
-
-  
-
 
 
 ## HEATING EFFECT OF CURRENT
@@ -537,19 +464,6 @@ If one appliance is disconnected, others will work independently.
 
 
 
-
-
-
-
-
-| S. No. |CRITERI A |SERIES |PAR ALLEL |
-|------|------|------|------|
-| 1 |Equivalent resistance |More than the highest resistance. |Less than the lowest resistance. |
-| 2 |Amount of current |Current i s les s a s e ective resistance is more. |Current is more as eective re-sistance is les s. |
-| 3 |Switching ON/OFF |If one appliance i s di sconnected, others also do not work. |If one appliance is disconnected,others will work independently. |
-  
-
-51 **Electricity**
 
 electric appliances are saved from any damage. The fuse wire is made up of a material whose melting point is relatively low.
 
