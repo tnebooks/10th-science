@@ -1,6 +1,6 @@
-## C Programing
+## 10th Science
 
-Materails 1
+Materails 
 
 ## Dev
 ```sh
