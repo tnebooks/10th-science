@@ -3,11 +3,10 @@ title: 'CARBON AND ITS COMPOUND'
 weight: 11
 ---
 
-<div align="center">
-  <img src="1.png"/>
-</div> 
-<!-- UNIT 11
-CARBON AND ITS COMPOUNDS -->
+![Picture1](./Picture1.png)  
+UNIT 11
+
+CARBON AND ITS COMPOUNDS
 
 **INTRODUCTION**
 
