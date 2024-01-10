@@ -2,12 +2,9 @@
 title: 'ORIGIN AND EVOLUTION OF LIFE'
 weight: 19
 ---
-
-**Learning Objectives**
-
-At the end of this lesson the students will be able to: ‹‹ Know about Big Bang theory on the origin of universe. ‹‹ Understand theories of origin of life. ‹‹ Discuss the process of evolution on the basis of the available evidences. ‹‹ Relate the principles of Lamarck and Darwin with evolution. ‹‹ Know how variation occurs and its significance. ‹‹ List the importance of fossils and describe the process of fossilization. ‹‹ Identify the plants of ethnobotanical importance. ‹‹ Realize about extraterrestrial life.
-
-**Introduction**
+![alt text](origin.png)
+![alt text](learningobjective.png.png)
+![alt text](intruduction.png)
 
 Living organisms possess distinct characteristics, display organisational and functional unity, entail a mechanism of origin and evolution of diversities and maintain a balanced relationship with nature. Most aspects of evolution indicate that the knowledge of the past has become essential for fully understanding the present. Life since its beginning on earth had changed through time. The history of life comprises of two aspects, one is the origin of life on earth and the other is mechanism involved in the gradual changes and adaptations of living organisms through time which is known as the evolution of life.
 
@@ -15,23 +12,11 @@ Living organisms possess distinct characteristics, display organisational and fu
 
 (Big Bang) and originated 15 billion years ago. The universe comprised of stars, clouds of gas and dust which form the galaxies. The solar system was probably created when the gaseous clouds started to collapse due to the force of its own gravity forming atoms and particles. Atoms, dust grains and gaseous disc aggregated to form clumps and gave rise to planets. This forms the solar system of the milky way galaxy. Earth was supposed to have been formed about 4.5 billion years back. Life appeared 500 million years after the formation of earth.
 
-## Theories on Origin of Life
-
-
+![alt text](image19.1.png)
 Many theories have been postulated to explain the origin of life. The views on the origin of life has been putforth as
 
 **Special creation: This idea embodies** that life on Earth is a divine creation and also
 
-10th\_Science Unit-19.indd 274 06-12-2021 18:47:12
-
-
-
-
-
-
-  
-
-275 **Origin and Evolution of Life**
 
 attributes to **supernatural event** at a particular time in the past.It also emphasizes that life has not changed ever since its origin.
 
@@ -43,123 +28,31 @@ attributes to **supernatural event** at a particular time in the past.It also em
 
 **Chemical Evolution of Life: This idea** was developed by **Oparin (1922)** and **Haldane (1929). They proposed that with the conditions** prevailing on earth, life arose by a series of sequential chemical reactions. The first form of life could have come from pre-existing **non- living inorganic molecules** which gave rise to formation of **diverse organic molecules** which are transformed into **colloid system** to produce life. The modern concept on chemical evolution regarding origin of life was accepted.
 
-## Evidences of Evolution
-
-
+![alt text](image19.2.png)
 Evolution can be better understood only by observing the interrelationship between the existing organisms and also relating the similarities with the extinct organisms. The inter relationship of the organisms is also supported by evidences from different branches of biology. These evidences support the concept that all organisms have evolved from common ancestors.
 
-### Evidences from Morphology and Anatomy
-
-
+![alt text](image19.2.1.png)
 The comparative study of morphology and anatomy of animals, reveal that they possess common set of characteristics.
 
 **i. Homologous organs: The homologous** organs are those which have inherited from common ancestors with similar developmental pattern in embryos. The fore limbs of mammals are homologous structures. A human hand, a front leg of a cat, flipper of a whale and a bat’s wing look **dissimilar and adapted for different functions. Their mode of development** and basic structure of bone are similar.
 
-Human
-
-Humerus
-
-Humerus
-
-Cat Whale Bat
-
-Ulna
-
-Ulna
-
-Radius
-
-Radius
-
-Radius
-
-Ulna
-
-Carpal
-
-Carpal
-
-Carpal
-
-Phalanges
-
-1
-
-1
-
-2 2
-
-4
-
-5
-
-1
-
-3
-
-3
-
-5
-
-4
-
-3
-
-2
-
-45
-
-234 5 Phalanges
-
-Meta- carpal
-
-Metacarpal
-
+![alt text](forelimbs.png)
 **Figure 19.1** Forelimbs of vertebrates showing homologous structure
 
 **ii. Analogous organs: The analogous** organs **look similar** and **perform similar functions but they have different origin**
 
-Bat wing
-
-Bird wing
-
-Insect wing
-
+![alr text](Analogous.png)
 **Figure 19.2** Analogous structure showing a bat wing, a bird wing and an insect wing
-
-10th\_Science Unit-19.indd 275 06-12-2021 18:47:13
-
-
-
-
-
-
-  
-
-
 
 and developmental pattern. The function of the wings of a bat, the wings of a bird and wings of an insect are similar, but their basic structures are different.
 
 **iii. Vestigial organs:** The **degenerated** and **non-functional organs** of animals are called vestigial organs. The same organs are found to be well- developed and functional, in some of the related forms. Some of the vestigial organs in man are vermiform appendix, nictitating membrane, caudal vertebra, coccyx etc.
 
 **iv. Atavism: The reappearance of ancestral characters** in some individuals is called atavism. e.g. Presence of rudimentary tail in new born babies, presence of thick hair on the human body.
-
-### Evidences from Embryology
-
-
+![alt text](image19.2.2embryology.png)
 The study of comparative embryology of different animals, supports the concept of evolution. The embryos from fish to mammals are similar in their early stages of development. The differentiation of their special characters appear in the later stages of development.
 
-Gill slits
-
-Gill-slits
-
-Tail Tail Gills
-
-Fish Salamander Tortoise Chick Rabbit Man
-
-Hind-limb bud
-
-Fore-limb bud
+![alt text](Ambryonic.png)
 
 **Figure 19.3** Embryonic development of vertebrates
 
@@ -167,34 +60,19 @@ Fore-limb bud
 
 animal repeats the evolutionary history of the entire race of the animal.
 
-### Evidences from Palaeontology
-
+![alt text](image19.2.2Palaeonology.png)
 
 Palaeontology deals with the **study of fossils**. **Leonardo da Vinci** is called the **Father of Palaeontology. The study of** fossils helps us to understand the line of evolution of many invertebrates and vertebrates. Fossil records show that the evolution has taken a gradual process from simple to complex organisms. The origin of modern birds is supported by the evidences from palaeontology.
 
 **Archaeopteryx**: Archaeopteryx is the oldest known **fossil bird**. It was an early bird- like form found in the Jurassic period.It is considered to be a **connecting link** between reptiles and birds. It had wings with feathers, like a bird. It had long tail, clawed digits and conical teeth, like a reptile.
-
+![alt text](Archaeopteryx.png)
 **Figure 19.4** Archaeopteryx - Fossil bird
 
-## Theories of Evolution
-
-
+![alt text](image19.3.png)
 Life had evolved along with evolution of earth towards the end of 18th century. **Evolution** is the **gradual change** occurring in living organisms over a period of time. Formation of new species due to changes in specific characters over several generations as response to natural selection, is called evolution. The natural changes occuring is explained through the theories of evolution as proposed by Lamarck and Darwin.
 
-10th\_Science Unit-19.indd 276 06-12-2021 18:47:14
-
-
-
-
-
-
   
-
-277 **Origin and Evolution of Life**
-
-### Lamarckism
-
-
+![alt text](image19.3.1.png)
 Jean Baptiste Lamarck (1744-1829) was a French naturalist, well known for his theory of evolution. Lamarck’s theory of evolution was published in ‘**Philosophic Zoologique’** in the year 1809. It is popularly known as ‘Theory of **inheritance of Acquired Characters**” or “**Use and Disuse theory**” or **Lamarckism**.
 
 **Principles of Lamarckism**
@@ -209,40 +87,11 @@ leaves from trees. The continuous stretching of their neck and forelimbs resulte
 
 **iv. Theory of Inheritance of acquired characters** When there is a change in the environment, the animals respond to the change. They develop adaptive structures. The characters developed by the animals during their life time, in response to the environmental changes are called **acquired characters**. According to Lamarck, the acquired characters are transmitted to the offspring by the process of inheritance.
 
-### Darwinism or Theory of Natural Selection
-
+![alt text](image19.3.2.png)
 
 **Charles Darwin** (1809-1882) was one of the great naturalist and philosopher of 18th century. He was born in England in 1809. While studying in college through his friendship with Professor J.S.Henslow he was fascinated towards nature. At that time the British Admiralty planned a **voyage of exploration** for 5 years on a ship named **H.M.S. Beagle** around **South America**. Dr Henslow was asked to nominate a young naturalist for the voyage. Darwin was given the opportunity. During his five years (1831–1835) voyage he visited many parts of
+![alt text](lamarckism.png)
 
-**Flow chart showing the postulates of Lamarckism**
-
-**Organs of Use**
-
-**Environmental change**
-
-**Need for new structure**
-
-**Development of new structure**
-
-**Degeneration of the structureInheritance of adaptive characters**
-
-**Origin of new species**
-
-**Organs of Disuse**
-
-10th\_Science Unit-19.indd 277 06-12-2021 18:47:14
-
-
-
-
-
-
-
-
-| Development of new structure |
-|------|------|------|
-
-  
 
 
 
@@ -268,46 +117,13 @@ c. **Environmental struggle:** Natural conditions like extreme heat or cold, dro
 
 **iv. Survival of the fittest or Natural selection** During the struggle for existence, the organisms which can overcome the challenging situation, **survive** and **adapt** to
 
-**Flowchart showing the postulates of Darwinism**
-
-**Overproduction**
-
-**Struggle for existence**
-
-**Variations**
-
-**Natural selectionOrganisms eliminated from the environment**
-
-**Survival of the fittest**
-
-**Inheritance of acquired characters**
-
-**Gradual accumulation of favourable characters**
-
-**Origin of new species**
-
-10th\_Science Unit-19.indd 278 06-12-2021 18:47:14
-
-
-
-
-
-
-
-
-| Variations |
-|------|------|------|
-
-  
-
-279 **Origin and Evolution of Life**
+![alt text](Darwinisam.png)
 
 the surrounding environment. Organisms which are unable to face the challenges, are unfit to survive and disappear. The process of selection of organisms with favourable variation is called as natural selection.
 
 **v. Origin of species** According to Darwin, **new species originates by the gradual accumulation of favourable variations** for a number of generations.
 
-## Variation
-
+![alt text](image19.4.png)
 
 Sexual reproduction, which involves meiosis helps in **recombination of genes** during gametic fusion. This leads to differences in the phenotype of the offspring from its parents. These differences are called variation.
 
@@ -325,10 +141,9 @@ Variation is the difference found among individuals of the same species and the 
 
 Discontinuous variation form the basis for **Mutation theory** proposed by **De Vries**.
 
-**Relationship between Mutation and Variation Mutation and Variation** are two events involved in the process of evolution. Mutation arises due to errors occurring in DNA during replication or exposure to UV rays or chemicals. Mutation leads to variation. It brings about changes in a single individual.
+![alt text](mutation.png)
 
-## Paleobotany
-
+![alt text](image19.5.png)
 
 Paleobotany is derived from Greek words _paleon_ that means “old” and _botany_ the study of plants. It is the branch of paleontology that deals with recovery and identification of plant **remains of geological past**.
 
@@ -343,17 +158,7 @@ ii Fossil plants give a historical approach to plant kingdom.
 iii Fossils are useful in classification of plants.
 
 iv. Fossil plants can be used in the field of descriptive and comparative anatomy.
-
-10th\_Science Unit-19.indd 279 06-12-2021 18:47:14
-
-
-
-
-
-
   
-
-
 
 **Kaspar Maria Von Sternberg** He is the “**Father of Paleobotany**” (1761–
 
@@ -363,9 +168,7 @@ iv. Fossil plants can be used in the field of descriptive and comparative anatom
 
 (1891–1949). He presented his research on two different areas of Paleobotany (i) The anatomy and morphology of Paleozoic Ferns (ii) The fossil plants of the Indian Gondwana Formations.
 
-### Fossilization
-
-
+![alt text](image19.5.1.png)
 The process of formation of fossil in the rocks is called fossilization.
 
 Common methods of fossilization includes petrifaction, molds and cast, carbonization, preservation, compression and infiltration.
@@ -392,40 +195,21 @@ When an organism dies, the hard parts of their bodies settle at the **bottom of 
 
 The precipitation of minerals takes place which later on infiltrate the cell wall. The process is brought about by several mineral elements such as silica, calcium carbonate and magnesium carbonate. Hard parts are dissolved and replaced by these minerals.
 
-**Living Fossils: These are living** organisms that are similar in appearance to their fossilized
+![alt text](livingfossils.png)
 
-distant ancestors and usually have no extinct close features. e.g. _Ginko biloba_.
-
-### Determination of age of Fossils
-
-
+![alt text](image19.5.2.png)
 The age of fossils is determined by radioactive elements present in it. They may be carbon, uranium, lead or potassium. It is used in paleobotany and anthropology for determining the age of human fossils and manuscripts.
 
 **Radioactive carbon(C14) dating method**
 
 This method was discovered by **W.F. Libby** (1956). Carbon consumption of animals and plants stops after death and since then, only the decaying process of C14 occurs continuously. The time passed since death of a plant or animal can be calculated by measuring the amount of C14. present in their body.
 
-**More to Know**
-
-**What is the Geologic Time Scale?** The geological time scale is a system of chronological dating that relates geological rock strata to time, and is used by geologists, paleontologists, and other Earth scientists to describe the timing and relationships of events that have occurred during Earth’s history.
-
-10th\_Science Unit-19.indd 280 06-12-2021 18:47:14
+![alt text](moretoknowimage.png)
 
 
-
-
-
-
-  
-
-281 **Origin and Evolution of Life**
-
-**Thiruvakkarai fossil wood park (Villupuram district, Tamil Nadu):** 2 million years ago tree trunks that got buried
-
-along the river, incourse of time the organic matter was replaced by silica and was fossilized. They retained their color, shape and texture and was converted into solid rocks. The annular rings, the texture, colors of the layers, nodes and every properties of plants are still visible.
-
-## Ethnobotany
-
+![alt text](thiruvakkaraifossil.png)
+.
+![alt text](image19.6.png)
 
 Ethnobotany is the **study of a region’s plants** and their **practical uses** through the **traditional knowledge** of the local culture of people. The term Ethnobotany was coined by **J.W. Harshberger** in 1895 to include the study of plants used by the primitive and aboriginal people. Though this discipline has existed for ages, ethnobotany emerged as a distinct academic branch of natural science in 20th century.
 
@@ -443,9 +227,7 @@ as a useful source of information for the chemists, pharmacologists and practiti
 
 ‹‹ Tribal communities uti l ize ethnomedicinal plant parts like bark, stem, roots, leaves, flower bud, flowers, fruits, seeds, oils, resins, dyes, gum for the treatment of diseases like diarrhoea, fever, headache, diabetes, jaundice, snakebites, leprosy, etc.
 
-## Astrobiology/Exobiology
-
-
+![alt text](image19.7.png)
 Are we alone in the universe? If your answer is no, then how do you detect the existence of life in space? Astrobiology/exobiology is the science which looks for the presence of **extra terrestrial life in the universe**.
 
 Astrobiology deals with the **origin, evolution** and **distribution of life in the universe** and to investigate the possibility of life in other world.
@@ -460,19 +242,8 @@ In our solar system ‘Earth’ is the only planet in the goldilock zone. Since,
 
 The organisms which live in extreme environmental conditions on earth are called **extremophiles. Thus, within our own Solar** System, there are many areas that are different from the Earth where it is probable to find the presence of life similar to extremophile bacteria.
 
-10th\_Science Unit-19.indd 281 06-12-2021 18:47:14
 
-
-
-
-
-
-  
-
-
-
-**Points to Remember**
-
+![alt text](imagepoints.png)
  Lamarck proposed that the acquired characters are passed on to the offsprings in the next generation
 
  Internal vital force, environment and new needs, use and disuse theory and inheritance of acquired characters are the main principles of Lamarckism.
@@ -493,12 +264,11 @@ selection and origin of species are the main postulates of Darwinism.
 
  Astrobiology/exobiology is the science which looks for the presence of extra terrestrial life in the universe
 
+![alt text](Microbial.png)
 **Figure 19.5** Microbial diversity from sandstone and granite from the McMurdo Dry Valleys, Antarctica
 
-NASA is developing the Mars 2020 astrobiology to investigate an astrobiologically relevant
-
-ancient environment on Mars, its surface geological processes and the possibility of past life on Mars and preservation of biosignatures within accessible geological materials.
-
+![alt text](nasaimage.png)
+![alt text](textbookevaluation.png)
 **I Choose the correct answer**
 
 1\. Biogenetic law states that \_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -510,19 +280,6 @@ phylogeny and ontogeny
 2\. The ‘use and disuse theory’ was proposed by \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 a. Charles Darwin b. Ernst Haeckel c. Jean Baptiste Lamarck d. Gregor Mendel
-
-**TEXTBOOK EVALUATION**
-
-10th\_Science Unit-19.indd 282 06-12-2021 18:47:14
-
-
-
-
-
-
-  
-
-283 **Origin and Evolution of Life**
 
 3\. Paleontologists deal with
 
@@ -588,17 +345,6 @@ evolution-How? 2. How do you differentiate homologous
 
 organs from analogous organs? 3. How does fossilization occur in plants?
 
-10th\_Science Unit-19.indd 283 06-12-2021 18:47:14
-
-
-
-
-
-
-  
-
-
-
 **IX Higher Order Thinking Skills (HOTS)** 1\. Arun was playing in the garden. Suddenly
 
 he saw a dragon fly sitting on a plant. He observed the wings of it. He thought it looked similar to a wing of a crow. Is he correct? Give reason for your answer.
@@ -606,130 +352,26 @@ he saw a dragon fly sitting on a plant. He observed the wings of it. He thought 
 2\. Imprints of fossils tell us about evolution- How?
 
 3\. Octopus, cockroach and frog all have eyes. Can we group these animals together to establish a common evolutionary origin. Justify your answer.
-
-**REFERENCE BOOKS**
-
+![alt text](referencebooks.png)
 1\. B. S.Tomar and S. P. Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications, Meerut.
 
 2\. Stephen. C. Stearns and Rolf. F. Hoekstra Evolution - An introduction
 
 3\. Archer, S.D.J., Asuncion de los, R., Lee, K.C., Niederberger, T.S., Cary, S.C., Coyne, K.J., Douglas, S., Lacap-Bugler, D.C. and Pointing, S.B., 2017. A Endolithic microbial diversity in sandstone and granite from the McMurdo Dry Valleys, Antarctica. _Polar biology,_ 40 (5): 997-1006.
-
-**INTERNET RESOURCES**
-
+![alt text](internetresources.png)
 http://www.nhs.uk
 
 http://www.eniscuola.net/en/2012/11/29/ exobiology/
 
 https://en.wikipedia.org/wiki/Astrobiology
-
-**Concept Map** Evolution
-
-eories of evolution
-
-**Lamarckism**
-
-**Darwinism**
-
-•Use and Disuse eory
-
-• Theory of Natural Selection
-
-Evidences for evolution
-
-**Embryology**
-
-•Biogenetic law
-
-**Paleontology**
-
-•Fossils
-
-**Morphology and Anatomy** •Homologous organs •Analogous organs •Vestigial organs •Atavism
-
-Origin of life
-
-**Views**
-
-• Special creation
-
-• Spontaneous generation (Abiogenesis) • Biogenesis
-
-• Extra terresterial or Cosmic orgin • Chemical evolution of life
-
-10th\_Science Unit-19.indd 284 06-12-2021 18:47:14
+![alt text](conceptmap.png)
 
 
 
 
-
-
-
-
-
-|------|------|------|------|------|------|------|------|
-| f life Evidences for evolution eories of eViewsMorphology and Anatomy |
-
-
-|  Special creation Spontaneous      generation (Abiogenesis) Biogenesis Extra terresterial     or Cosmic orgin Chemical evolution     of life |Homologous organsAnalogous organsVestigial organsAtavismEmbryologyBiogenetic lawPaleontology |
-
-
-
+![alt text](Evalution.png)
   
-
-285 **Origin and Evolution of Life**
-
-**Cells alive** https://play.google.com/store/apps/details?id=com.banana4apps.evolution&hl=en
-
-**ICT CORNER ORIGIN AND EVOLUTION OF LIFE**
-
-• Access the application “HUMAN EVOLUTION CLICKER GAME:RISE OF MANKIND” with the help of provided URL or QR code. Download and Install it in the mobile.
-
-• You can view a bubble for ten seconds, touch it to reveal the hidden DNA.
-
-• By joining two DNAs, a bacteria will be formed. By joining two bacteria, amoeba will be appeared.
-
-• Continue the same to form many other species by combining different species. There are 52 living organism exist now in the application. Explore everything.
-
-\*Pictures are indicative only
-
-**Steps**
-
-**This game will enable the students to understand the evolution of living**
-
-**organisms. But it was created on the basis of general truths and not specific scientific**
-
-**related.**
-
-**Step1 Step2 Step3 Step4**
-
-**Evolution**
-
-Ethnobotany
-
-Paleobotany
-
-Ethnic groups in india
-
-Importance of ethnobotany
-
-Fossilization
-
-Determination of age of fossils
-
-Petrifaction
-
-Mold and cast
-
-Radioactive carbon dating method
-
-Preservation
-
-Compression
-
-Replacement
-
-10th\_Science Unit-19.indd 285 06-12-2021 18:47:16
+![alt text](ictcorner.png)
 
 
 
@@ -739,7 +381,9 @@ Replacement
 
 
 
-|------|
+
+
+
 
 
 
