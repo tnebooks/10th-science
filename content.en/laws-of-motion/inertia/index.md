@@ -16,8 +16,6 @@ Take a glass tumbler and place a small cardboard on it as shown in the figure. N
 The cardboard falls off the ground and the coin falls into the glass tumbler.
 
 
-![ ](image.png)
-
 **Inertia of rest**
 
 In activity described above, the inertia of the coin keeps it in the state of rest when the cardboard moves. Then, when the cardboard has moved, the coin falls into the tumbler due to gravity. This happen due to ‘inertia of rest’.
