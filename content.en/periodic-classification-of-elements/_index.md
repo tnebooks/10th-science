@@ -2,7 +2,7 @@
 title: 'PERIODIC CLASSIFICATION OF ELEMENTS'
 weight: 8
 ---
-
+![Alt text](image1.png)
 **INTRODUCTION**
 
 The eighteenth and nineteenth centuries witnessed a rapid development in chemistry in all spheres of scientific activities. By 1860, scientists had already discovered 60 elements and determined their atomic masses. They noticed that some elements had similar properties and hence arranged them into groups. During this period, several new elements were discovered. These elements were found to have different properties. It was realized that instead of studying the properties of all these elements individually, it would be more convenient to divide them into groups and
@@ -40,7 +40,7 @@ PERIODIC CLASSIFICATION OF ELEMENTS
 
 107 **Periodic Classificaiton of Elements**
 
-## MODERN PERIODIC LAW
+## 8.1 MODERN PERIODIC LAW
 
 
 Mendeleev’s periodic table had some discrepancies, which were difficult to overcome. For example, the atomic mass of argon (39.95 amu) is greater than that of potassium (39.10 amu), but argon comes before potassium in the periodic table. If elements were arranged solely according to increasing atomic mass, argon would appear in the position occupied by potassium in our modern periodic table (see in Figure 8.1). No chemist would place argon, a gas with no tendency to react, in the same group as lithium and sodium,which are two highly reactive metals. This kind of discrepancies suggested that some fundamental property other than atomic mass must be the basis of periodicity. The fundamental property turned out to be the number of protons in an atom’s nucleus, something that could not have been known by Mendeleev and his contemporaries.
@@ -51,16 +51,17 @@ Henry Moseley, a British scientist in 1912, discovered a new property of element
 
 **their atomic numbers”.**
 
-## MODERN PERIODIC TABLE
+## 8.2 MODERN PERIODIC TABLE
 
 
 With reference to the modern periodic law, the elements were arranged in the increasing order of their atomic numbers to form the modern periodic table. The modern periodic **table is a tabular arrangement of elements in periods and groups, highlighting the regular repetition of properties of the elements.**
 
+![Alt text](image2.png)
 Figure 8.1 shows the modern periodic table of 118 elements discovered so far.
 
 As you have studied the features of the modern periodic table in standard IX, here let us confine to the study of the features of periods and groups.
 
-### Features of Periods
+### 8.2.1 Features of Periods
 
 
 ‹ The **horizontal rows are called** **periods**. There are **seven** periods in the periodic table.
@@ -163,7 +164,7 @@ ist ry
 
 109 **Periodic Classificaiton of Elements**
 
-### Features of Groups
+### 8.2.2 Features of Groups
 
 
 ‹ The vertical columns in the periodic table starting from top to bottom are called **groups. There are 18 groups in the periodic** table.
@@ -198,23 +199,24 @@ ist ry
 
 ‹ The atoms of the 'group 18' elements have stable electronic configuration in their valence shells and hence they are unreactive.
 
-## PERIODIC TRENDS IN PROPERTIES
+## 8.3 PERIODIC TRENDS IN PROPERTIES
 
 
 The electronic configurations of elements help us to explain the periodic recurrence of physical and chemical properties. Anything which repeats itself after a regular interval is called **periodic** and this behaviour is called **periodicity.** Some of the atomic properties of the elements are periodic.
 
 Properties such as atomic radius, ionic radius, ionisation energy, electronegativity, electron affinity, show a regular periodicity and hence they are called **periodic properties**. The main significance of the modern periodic table is that it gives a clear understanding of the general properties and trends within a group or a period to predict with considerable accuracy, the properties of any element, even though that element may be unfamiliar to us. Let us discuss the periodic trend of some of the properties.
 
-### Atomic Radius
+### 8.3.1 Atomic Radius
 
 
 **Atomic radius of an atom is defined as** the distance between the centre of its nucleus and the outermost shell containing the valence electron. Direct measurement of the radius of an isolated atom is not possible. Except for noble gases, usually the atomic radius is referred to as **covalent radius** or **metallic radius** depending on the nature of the bonding between the concerned atoms. Atomic radius in metal atoms is known as **metallic radius.** It is defined as half the **distance between the nuclei of adjacent metal atoms** (Figure 8.2
+![Alt text](image3.png)
 
 **Figure 8.2** (a) Metallic Radius (b) Covalent Radius
 
-(a)
+(a) Metallic Radius
 
-(b)
+(b) Covalent Radius
 
 
 
@@ -244,6 +246,8 @@ Properties such as atomic radius, ionic radius, ionisation energy, electronegati
 
 When you look at the variation of the atomic radii in the periodic table, there are two distinct trends. Along the period, from left to right, the atomic radius of the elements decreases whereas along the groups, from the top to bottom, the atomic radius increases. The increase, down a group, is due to the increase in the valence shell number down the group. As the shell number increases, the distance between the valence shell and the nucleus increases. In contrast, when you observe along the period, the shell number remains the same but the number of protons (i.e. atomic number) increases. More and more positive charges impose a strong attraction over the electrons and thus the electron cloud shrinks towards the nucleus, which results in the decrease in the atomic size. Figure 8.4 shows how the atomic radius decreases from lithium to boron.
 
+![Alt text](image4.png)
+
 **Figure 8.4** Variation of atomic radius
 
 ### Ionic Radii
@@ -263,7 +267,7 @@ the ion. You know that ions are formed when an atom lose or gain electrons. When
 
 For instance, lithium and sodium lose the single electron from their outermost energy level to form cations. The ions so formed are smaller because the remaining electrons are at a inner cells and attracted more strongly by the nucleus. Fluorine and chlorine become negative ions by gaining an electron. When electrons are added, the charge on the nucleus is not great enough to hold the increased number of electrons as closely as it holds the electrons in the neutral atom. So, **as seen in atomic radius, ionic radii also decrease along the period from left to right and increase down the group.**
 
-### Ionisation Energy
+### 8.3.3 Ionisation Energy
 
 
 Ionisation energy is the minimum energy required to remove an electron from
@@ -279,6 +283,7 @@ Li
 Li+ F F–
 
 Na Na+ Cl Cl–
+
 
 **Figure 8.5** Relative ionic radii of cation and anion
 
@@ -311,7 +316,7 @@ Like ionisation energy, electron affinity also increases from left to right in a
 
 Noble gases show no tendency to accept electrons because the outer s and p orbitals of noble gases are completely filled. No more electrons can be added to them and hence their electron affinities are zero.
 
-### Electronegativity
+### 8.3.5 Electronegativity
 
 
 Electronegativity of an element is the measure of the tendency of its atom to attract the shared pair of electrons towards itself in a covalent bond. Let us consider HCl molecule. Both the hydrogen and chlorine atoms share one electron each to form the covalent bond between them. chlorine atom has a higher electronegativity and hence it pulls the shared electrons towards
@@ -329,6 +334,8 @@ ClH
 **\+ –**
 
 **Strong Pull**
+
+![Alt text](image5.png)
 
 **Figure 8.6** Relative electronegativity of H and Cl
 
@@ -377,7 +384,7 @@ Predict the nature of the bond in the following molecules.
 
 (iv) NaF (v) NaH
 
-## METALLURGY
+## 8.4 METALLURGY
 
 
 Human life is associated with various metals. We use metals in our day to day activities. It is the utmost need to have some metals like sodium, potassium, calcium, iron, etc. in the human body. Deficiency of these metals affects the metabolic activities thereby causing diseases. So, metals play a vital role in our life. In this section, let us discuss how metals are obtained from various sources by the process of metallurgy.
@@ -390,7 +397,7 @@ It is the process of removal of impuries from the ore.
 
 (iii) Refining of the metal: It is the process of purification of the metal.
 
-### Terminology in metallurgy
+### 8.4.1 Terminology in metallurgy
 
 
 **Minerals:** A mineral may be a single compound or a complex mixture of various compounds of metals found in the Earth.
@@ -419,7 +426,7 @@ Flux + Gangue → Slag **Smelting:** Smelting is the process of
 
 reducing the roasted metallic oxide from the metal in its molten condition. In this process, impurities are removed as slag by the addition of flux.
 
-### Types of separation or concentration of an ore
+### 8.4.2 Types of separation or concentration of an ore
 
 
 There are four major types of separation of ores based on the nature of the ore. The
@@ -468,6 +475,8 @@ Finely ground ore
 
 Non-Magnetic particles
 
+![Alt text](image6.png)
+
 **Figure 8.8** Magnetic separation
 
 **Method: The crushed ore is placed over** a conveyer belt which rotates around two
@@ -493,6 +502,8 @@ pine oil
 Gangue
 
 Froth floatation process for the concentration of sulphide ores.
+
+![Alt text](image7.png)
 
 **Figure 8.9 Froth floatation**
 
@@ -534,7 +545,7 @@ Haematite ( Fe2O3) Siderite(FeCO3) Rock salt (NaCl) Zinc blende (ZnS)
 
 The ore is treated with a suitable reagent such that the ore is soluble in it but the impurities are not. The impurities are removed by filtration. The solution of the ore, ie., the filtrate is treated with a suitable reagent which precipitates the ore. E.g. Bauxite Al2O3.2H2O, (the ore of aluminium).
 
-## OCCURRENCE OF ORES IN TAMIL NADU
+## 8.5 OCCURRENCE OF ORES IN TAMIL NADU
 
 
 **Lime stone**: Coimbatore, Cuddalore, Dindugul **Gypsum:** Tiruchi and Coimbatore Distiricts **Titanium minerals:** Kanyakumari, Tirunelveli
@@ -545,10 +556,10 @@ Thiruvannamalai. **Tungsten:** Madurai and Dindugal.
 
 (Reference: mineral resources of Tamil Nadu-ENVIS Centre, Tamil Nadu)
 
-## PROPERTIES OF METALS
+## 8.6 PROPERTIES OF METALS
 
 
-### Physical properties
+### 8.6.1 Physical properties
 
 
 **1\. Physical state:** All metals are solids at room temperature except mercury and gallium.
@@ -571,7 +582,7 @@ boiling points and vaporize only at high temperatures (exceptions: gallium, merc
 
 **9\. Solubility:** Usually, metals do not dissolve in liquid solvents.
 
-### Chemical Properties
+### 8.6.2 Chemical Properties
 
 
 **• Valence electrons:** Atoms of metals usually have 1,2 or 3 electrons in their outermost shell.
@@ -611,7 +622,7 @@ Thermal decomposition of metal oxide into metal
 
 115 **Periodic Classificaiton of Elements**
 
-## METALLURGY OF ALUMINIUM
+## 8.7 METALLURGY OF ALUMINIUM
 
 
 Aluminium is the metal found most abundantly in the Earth’s crust. Since it is a reactive metal, it occurs in the combined state. The important ores of aluminium are as follows
@@ -664,6 +675,9 @@ Cryolite
 
 Molten aluminum
 
+![Alt text](image8.png)
+
+
 **Figure 8.10** Hall's Process
 
 Aluminium is deposited at the cathode and oxygen gas is liberated at the anode. Oxygen combines with graphite to form CO2.
@@ -715,7 +729,7 @@ Dilute or concentrated nitric acid does not attack aluminium, but it renders alu
 
 mechine parts
 
-## METALLURGY OF COPPER
+## 8.8 METALLURGY OF COPPER
 
 
 **Occurrence:** It was named as cuprum by the Romans
@@ -751,7 +765,9 @@ The chief ore of copper is copper pyrite. It yields nearly 76% of the world prod
 
   
 
-117 **Periodic Classificaiton of Elements**
+117 
+
+**Periodic Classificaiton of Elements**
 
 **Cathode**: A thin plate of pure copper metal. **Anode**: A block of impure copper metal. **Electrolyte**: Copper sulphate solution
 
@@ -797,7 +813,7 @@ calorimeters and coins, iii. It is used in electroplating. iv. It is alloyed wit
 
 coins and jewels
 
-## METALLURGY OF IRON
+## 8.9 METALLURGY OF IRON
 
 
 **Occurrence:** Iron is the second most abundant metal
@@ -842,6 +858,8 @@ and lime
 Slag outlet
 
 Iron outlet
+
+![Alt text](image12.png)
 
 **Figure 8.11** Blast Furnace
 
@@ -920,19 +938,19 @@ It is used in making pipes, stoves, radiators, railings, manhole covers and drai
 
 **Wrought iron** (Iron with < 0.25% of carbon)**:** It is used in making springs, anchors and electromagnets.
 
-## ALLOYS
+## 8.10 ALLOYS
 
 
 An alloy is a homogeneous mixture of two or more metals or of one or more metals with certain non-metallic elements.
 
 The properties of alloys are often different from those of its components. Pure gold is brittle to be used. The addition of small percentage of copper enhances its strength and utility.
 
-### Amalgam
+### 8.10.1 Amalgam
 
 
 An amalgam is an alloy of mercury with another metal. These alloys are formed through metallic bonding with the electrostatic force of attraction between the electrons and the positively charged metal ions. Silver tin amalgam is used for dental filling. **Reasons for alloying:** i. To modify appearance and colour ii. To modify chemical activity. iii. To lower the melting point. iv. To increase hardness and tensile strength. v. To increase resistance to electricity.
 
-### Method of making alloys
+### 8.10.2 Method of making alloys
 
 
 (a) By fusing the metals together. E.g. Brass is made by melting zinc and copper.
@@ -943,7 +961,7 @@ Alloys can be considered as solid solutions in which the metal with high concent
 
 For example, brass is a solid solution of zinc (solute) in copper (solvent).
 
-### Types of Alloys
+### 8.10.3 Types of Alloys
  Based on the presence of Iron, alloys can be
 
 classified into: **• Ferrous alloys:** Contain Iron as a major
@@ -1005,7 +1023,7 @@ Cables , aircraftparts, propeller
 
 
 
-## CORROSION
+## 8.11 CORROSION
 
 
 It is the gradual destruction of metals by chemical or electrochemical reaction with the environment. It is a natural process which converts a metal into its oxide, hydroxide or sulphide so that it loses its metallic characteristics.
@@ -1032,20 +1050,22 @@ Fe -> Fe2+ + 2e–
 
 Fe2+ (aq)
 
+![Alt text](image9.png)
+
 **Figure 8.12** Rusting
 
 Rust is chemically known as hydrated ferric oxide (it is formulated as Fe2O3
 
 .xH2O). Rusting results in the formation of scaling reddish brown hydrated ferric oxide on the surface of iron and iron containing materials.
 
-### Types of Corrosion
+### 8.11.1 Types of Corrosion
 
 
 **i. Dry Corrosion or Chemical Corrosion:** The corrosive action in the absence of moisture is called dry corrosion. It is the process of a chemical attack on a metal by a corrosive liquids or gases such as O2, N2, SO2, H2S etc. It occurs at high temperature. Of all the gases mentioned above O2 is the most reactive gas to impart the chemical attack.
 
 **ii. Wet Corrosion or Electrochemical Corrosion: The corrosive action in the** presence of moisture is called wet corrosion. It occurs as a result of electrochemical reaction of metal with water or aqueous solution of salt or acids or bases.
 
-### Methods of preventing corrosion
+### 8.11.2 Methods of preventing corrosion
 
 
 **i. Alloying: The metals can be alloyed to** prevent from the process of corrosion. E.g: Stainless Steel
@@ -1060,10 +1080,12 @@ coating zinc on iron sheets by using electric current.
 
 **d) Cathodic Protection:** It is the method of controlling corrosion of a metal surface protected is coated with the metal which is easily corrodible. The easily corrodible metal is called Sacrificial metal to act as anode ensuring cathodic protection.
 
-## PAMBAN BRIDGE
+## 8.12 PAMBAN BRIDGE
 
 
 It is a railway bridge which connects the town of Rameshwaram on Pamban Island to mainland India. Opened on 1914, it was India’s first sea bridge in India until the opening of the BandraWorli Sea Link in 2010. We can control the corrosion and renovation of historical pamban bridge by a periodical protective coating which will be the strong example for applied chemistry to uphold our history.
+
+![Alt text](image10.png)
 
 **Figure 8.12** Pamban Bridge
 
@@ -1267,6 +1289,8 @@ Purification
 Sulphide ore
 
 **CONCEPT MAP**
+
+![Alt text](image11.png)
 
 
 
