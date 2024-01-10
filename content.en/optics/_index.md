@@ -168,7 +168,7 @@ Lens is basically classified into two types. They are: (i) Convex Lens (ii) Conc
 
 **(ii) Concave or bi-concave Lens:** It is a lens bounded by two spherical surfaces such that it is thinner at the centre than at the edges. A parallel beam of light passing through it, is diverged or spread out. So, a concave lens is also called as diverging lens.
 
-### 2.5.1 Other types of Lenses Plano-convex lens:
+## Other types of Lenses Plano-convex lens:
  &nbsp;&nbsp;&nbsp;If one of the faces of a bi-convex lens is plane, it is known as a plano- convex lens.
 
 &nbsp;&nbsp;&nbsp;**Plano-concave lens:** If one of the faces of a bi-concave lens is plane, it is known as a plano-concave lens.
@@ -184,7 +184,7 @@ Lens is basically classified into two types. They are: (i) Convex Lens (ii) Conc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 2.2** Types of lenses
 
-## 2.6 IMAGES FORMED DUE TO REFRACTION THROUGH A CONVEX AND CONCAVE LENS
+# IMAGES FORMED DUE TO REFRACTION THROUGH A CONVEX AND CONCAVE LENS
 
 &nbsp;&nbsp;&nbsp;When an object is placed in front of a lens, the light rays from the object fall on the lens. The position, size and nature of the image formed can be understood only if we know certain basic rules.
 
@@ -221,7 +221,7 @@ Lens is basically classified into two types. They are: (i) Convex Lens (ii) Conc
 
 **Figure 2.5** Rays passing through or directed towards the principal focus
 
-## 2.7 REFRACTION THROUGH A CONVEX LENS
+# REFRACTION THROUGH A CONVEX LENS
 
 &nbsp;&nbsp;&nbsp;Let us discuss the formation of images by a convex lens when the object is placed at various positions.
 
@@ -302,7 +302,7 @@ When an object is placed in between principal focus and optical centre, a virtua
 
 **Figure 2.11** Object placed between the principal focus F and optical centre O
 
-## 2.8 APPLICATIONS OF CONVEX LENSES
+# APPLICATIONS OF CONVEX LENSES
 
 
 1\. Convex lenses are used as camera lenses 
@@ -311,7 +311,7 @@ When an object is placed in between principal focus and optical centre, a virtua
 telescope and slide projectors 
 4\. They are used to correct the defect of vision called hypermetropia
 
-## 2.9 REFRACTION THROUGH A CONCAVE LENS
+# REFRACTION THROUGH A CONCAVE LENS
 
 
 &nbsp;&nbsp;&nbsp;Let us discuss the formation of images by a concave lens when the object is placed at two possible positions.
@@ -354,7 +354,7 @@ But, as the distance between the object and the lens is decreased, the distance 
 
 **Figure 2.14 Concave lens-Variation in position and size of image with object distance**
 
-## 2.10 APPLICATIONS OF CONCAVE LENSES
+# APPLICATIONS OF CONCAVE LENSES
 
 
 1\. Concave lenses are used as eye lens of ‘Galilean Telescope’
@@ -363,7 +363,7 @@ But, as the distance between the object and the lens is decreased, the distance 
 
 3\. They are used to correct the defect of vision called ‘myopia’
 
-## 2.11 LENS FORMULA
+# LENS FORMULA
 
 
 &nbsp;&nbsp;&nbsp;Like spherical mirrors, we have lens formula for spherical lenses. The lens formula gives the relationship among distance of the object (u), distance of the image (v) and the focal length (f ) of the lens. It is expressed as
@@ -373,7 +373,7 @@ But, as the distance between the object and the lens is decreased, the distance 
 
 &nbsp;&nbsp;&nbsp;It is applicable to both convex and concave lenses. We need to give an at most care while solving numerical problems related to lenses in taking proper signs of different quantities.
 
-## 2.12 SIGN CONVENTION
+# SIGN CONVENTION
 
 
 &nbsp;&nbsp;&nbsp;Cartesian sign conventions are used for measuring the various distances in the ray diagrams of spherical lenses. According to cartesian sign convention,
@@ -385,7 +385,7 @@ direction as that of incident light are taken as positive.
 5\. The distances measured upward and perpendicular to the principal axis is taken as positive.
 6\. The distances measured downward and perpendicular to the principal axis is taken as negative.
 
-## 2.13 MAGNIFICATION OF A LENS
+# MAGNIFICATION OF A LENS
 
 
 &nbsp;&nbsp;&nbsp;Like spherical mirrors, we have magnification for spherical lenses. Spherical lenses produce magnification and it is defined as the ratio of the height of the image to the height of an object. Magnification is denoted by the letter ‘m’. If height of the object is _h_ and height of the image is h´, the magnification produced by lens is,
@@ -399,7 +399,7 @@ direction as that of incident light are taken as positive.
 
 &nbsp;&nbsp;&nbsp;If the magnification is greater than 1, then we get an enlarged image. On the other hand, if the magnification is less than 1, then we get a diminished image.
 
-## 2.14 LENS MAKER’S FORMULA
+# LENS MAKER’S FORMULA
 
 
 &nbsp;&nbsp;&nbsp;All lenses are made up of transparent materials. Any optically transparent material will have a refractive index. The lens formula relates the focal length of a lens with the distance of object and image. For a maker of any lens, knowledge of radii of curvature of the lens is required. This clearly indicates the need for an equation relating the radii of curvature of the lens, the refractive index of the given material of the lens and the required focal length of the lens. The lens maker’s formula is one such equation. It is given as
@@ -409,7 +409,7 @@ direction as that of incident light are taken as positive.
 
 where _µ_ is the refractive index of the material of the lens; R1 and R2 are the radii of curvature of the two faces of the lens; f is the focal length of the lens.
 
-## POWER OF A LENS
+# POWER OF A LENS
 
 
 &nbsp;&nbsp;&nbsp;When a ray of light falls on a lens, the ability to converge or diverge these light rays depends on the focal length of the lens. This ability of a lens to converge (convex lens) or diverge (concave lens) is called as its power. Hence, the power of a lens can be defined as the degree of convergence or divergence of light rays. Power of a lens is numerically defined as the reciprocal of its focal length.
@@ -440,7 +440,7 @@ where _µ_ is the refractive index of the material of the lens; R1 and R2 are th
 
 
 
-## 2.16 HUMAN EYE
+# HUMAN EYE
 
 &nbsp;&nbsp;&nbsp;The human eyes are most valuable and sensitive organs responsible for vision. They are the gateway to the wonderful world.
 
@@ -482,7 +482,7 @@ If the time interval between two consecutive light pulses is less than \(\frac{1
 
 &nbsp;&nbsp;&nbsp;The maximum distance up to which the eye can see objects clearly is called as far point of the eye. It is infinity for normal eye.
 
-## 2.17 DEFECTS IN EYE
+# DEFECTS IN EYE
 
 
 &nbsp;&nbsp;&nbsp;A normal human eye can clearly see all the objects placed between 25cm and infinity. But, for some people, the eye loses its power of accommodation. This could happen due to many reasons including ageing. Hence, their vision becomes defective. Let us discuss some of the common defects of human eye.
@@ -535,7 +535,7 @@ Some persons may have both the defects of vision - myopia as well as hypermetrop
 
 In this defect, eye cannot see parallel and horizontal lines clearly. It may be inherited or acquired. It is due to the imperfect structure of eye lens because of the development of cataract on the lens, ulceration of cornea, injury to the refracting surfaces, etc. Astigmatism can be corrected by using cylindrical lenses.
 
-## 2.18 MICROSCOPE
+# MICROSCOPE
 
 &nbsp;&nbsp;&nbsp;This is an optical instrument, which helps us to see tiny (very small) objects. It is classified as
 
@@ -600,7 +600,7 @@ Compound microscope has 50 to 200 times more magnification power than simple mic
 
 A **travelling microscope** is one of the best instrument for measuring very small length with high degree of accuracy at the order of 0.01mm. It works based on the principle of vernier. Its least count is 0.01 mm.
 
-## 2.19 TELESCOPE
+# TELESCOPE
 
 
 &nbsp;&nbsp;&nbsp;Have you seen the recent lunar eclipse? With our naked eye we can’t visualize the phenomena distinctly. Then, how can we see the distant object in clearer manner? It is possible with telescope.
