@@ -2,9 +2,11 @@
 title: 'PLANT AND ANIMAL  HORMONES'
 weight: 16
 ---
+<!-- ![img1](/10th-science/image/img1.png)  -->
+[![Title](title.png)](https://www.tntextbooks.in/p/school-books.html)
 
 **Learning Objectives**
-
+<!-- ![LO](/10th-science/image/LO.png) -->
 At the end of this lesson the students will be able to: ‹‹ Define hormone.
 
 ‹‹ List out plant hormones.
@@ -25,22 +27,23 @@ At the end of this lesson the students will be able to: ‹‹ Define hormone.
 
 ‹‹ Identify the disorders which occur due to decreased or increased hormone secretion.
 
-**Introduction**
-
-The word hormone is derived from the Greek word “hormon” meaning “ to excite”. The function of control and coordination in plants is performed by chemical substances produced by the plants called **plant hormones**. In plants several cells are capable of producing hormones. These phytohormones are transported to different parts of the plants to perform various physiological functions.
+<!-- **Introduction** -->
+![Introduction](Introduction.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The word hormone is derived from the Greek word “hormon” meaning “ to excite”. The function of control and coordination in plants is performed by chemical substances produced by the plants called **plant hormones**. In plants several cells are capable of producing hormones. These phytohormones are transported to different parts of the plants to perform various physiological functions.
 
 **Endocrine glands** in vertebrate animals possess a diversified communication system to co-ordinate physiological and metabolic
 
 functions by chemical integration. The endocrine system acts through chemical messengers known as hormones which are produced by specialized glands. Physiological processes such as digestion, metabolism, growth, development and reproduction are controlled by hormones.
 
-## Plant Hormones
+<!-- ## Plant Hormones -->
+![Plant Hormones](PH.png)
 
 
-**Plant hormones** are **organic molecules** that are produced at extremely low concentration in plants. These molecules control morphological, physiological and biochemical responses.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Plant hormones** are **organic molecules** that are produced at extremely low concentration in plants. These molecules control morphological, physiological and biochemical responses.
 
-PLANT AND ANIMAL HORMONES16
+<!-- PLANT AND ANIMAL HORMONES16 -->
 
-10th\_Science Unit-16.indd 229 06-12-2021 18:42:15
+<!-- 10th\_Science Unit-16.indd 229 06-12-2021 18:42:15 -->
 
 
 
@@ -51,7 +54,8 @@ PLANT AND ANIMAL HORMONES16
 
 
 
-**Types of Plant Hormones** There are five major
+**Types of Plant Hormones** <img align="right" width="100" height="100" src="BCode1.png">
+ There are five major
 
 classes of plant hormones. They are:
 
@@ -59,12 +63,14 @@ classes of plant hormones. They are:
 
 Among all these plant hormones auxins, cytokinins and gibberellins promote plant growth while abscisic acid and ethylene inhibit plant growth.
 
+![plant1](plant1.png)
+
 **Figure 16.1** Hormonal interaction in plant growth and development
 
-### Auxins
+![16.1.1](16.1.1.png) 
 
 
-Auxins (Gk. auxein = to grow) were the first plant hormones discovered. The term auxin was introduced by Kogl and Haagen- Smith (1931). Auxins are **produced at the tip of stems and roots** from where they migrate to the zone of elongation. Charles Darwin (1880), observed unilateral growth and curvature of canary grass _(Phalaris canariensis)_ coleoptiles. He came to the conclusion that some ‘influence’ was transmitted from the tip of the coleoptile to the basal region. This ‘influence’ was later identified as Auxin by Went.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auxins (Gk. auxein = to grow) were the first plant hormones discovered. The term auxin was introduced by Kogl and Haagen- Smith (1931). Auxins are **produced at the tip of stems and roots** from where they migrate to the zone of elongation. Charles Darwin (1880), observed unilateral growth and curvature of canary grass _(Phalaris canariensis)_ coleoptiles. He came to the conclusion that some ‘influence’ was transmitted from the tip of the coleoptile to the basal region. This ‘influence’ was later identified as Auxin by Went.
 
 **16.1.1.1 Went’s Experiment** Frits Warmolt Went (1903– 1990), a
 
@@ -72,9 +78,11 @@ Dutch biologist demonstrated the existence
 
 and effect of auxin in plants. He did a series of experiments in Avena coleoptiles.
 
-In his first experiment he removed the tips of Avena coleoptiles. The cut tips did not grow indicating that the tips produced something essential for growth.In his second experiment he placed the agar blocks on the decapitated coleoptile tips. The coleoptile tips did not show any response. In his next experiment he placed the detached coleoptile tips on agar blocks. After an hour, he discarded the tips and placed this agar block on the decapitated coleoptile. It grew straight up indicating that some chemical had diffused from the cut coleoptile tips into the agar block which stimulated the growth.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In his first experiment he removed the tips of Avena coleoptiles. The cut tips did not grow indicating that the tips produced something essential for growth.In his second experiment he placed the agar blocks on the decapitated coleoptile tips. The coleoptile tips did not show any response. In his next experiment he placed the detached coleoptile tips on agar blocks. After an hour, he discarded the tips and placed this agar block on the decapitated coleoptile. It grew straight up indicating that some chemical had diffused from the cut coleoptile tips into the agar block which stimulated the growth.
 
-From his experiments Went concluded that a chemical diffusing from the tip of coleoptiles was responsible for growth, and he named it as “**Auxin**” meaning ‘**to grow**”.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From his experiments Went concluded that a chemical diffusing from the tip of coleoptiles was responsible for growth, and he named it as “**Auxin**” meaning ‘**to grow**”.
+
+![16.2](16.2.png)
 
 **Figure 16.2** Went’s Experiment
 
@@ -98,8 +106,9 @@ From his experiments Went concluded that a chemical diffusing from the tip of co
 231 **Plant and Animal Hormones**
 
 1\. Auxins promote the **elongation of stems** and **coleoptiles** which makes them to grow.
+![16.3](16.3.png)
 
-Auxin
+<!-- Auxin -->
 
 **Figure 16.3** Cell Elongation
 
@@ -110,13 +119,14 @@ Auxin
 4\. Seedless fruits without fertilization are induced by the external application of auxins. (**Parthenocarpy**). Examples: Watermelon, Grapes, Lime etc.
 
 5\. Auxins **prevent** the formation of **abscission layer**.
+![duk1](duk1.png)
 
-Phenyl Acetic Acid (PAA) and Indole 3 Acetonitrile (IAN) are natural auxins. Indole 3 Butyric Acid (IBA), Indole-3-
+<!-- Phenyl Acetic Acid (PAA) and Indole 3 Acetonitrile (IAN) are natural auxins. Indole 3 Butyric Acid (IBA), Indole-3-
 
-Propionic Acid, α-Naphthalene Acetic Acid (NAA), 2, 4, 5-T (2,4,5 Trichlorophenoxy Acetic Acid) are some of the synthetic auxins.
+Propionic Acid, α-Naphthalene Acetic Acid (NAA), 2, 4, 5-T (2,4,5 Trichlorophenoxy Acetic Acid) are some of the synthetic auxins. -->
 
-### Cytokinins
-
+<!-- ### Cytokinins -->
+![16.1.2](16.1.2.png)
 
 Cytokinins (Cytos - cell; kinesis - division) are the plant hormones that **promote cell division or cytokinesis in plant cells. It was first** isolated from Herring fish sperm. Zeatin was the cytokinin isolated from _Zea mays_. Cytokinin is found abundantly in liquid endosperm of coconut.
 
@@ -132,34 +142,36 @@ for the formation of new organs from the callus in tissue culture (**Morphogenes
 
 5\. Application of cytokinin delays the process of ageing in plants. This is called Richmond **Lang effect.**
 
-### Gibberellins
+<!-- ### Gibberellins -->
+![16.1.3](16.1.3.png)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gibberellins are the most abundantly found plant hormones. Kurosawa (1926) observed **Bakanae disease** or **foolish seedling disease** in rice crops. This internodal elongation in rice was caused by fungus Gibberella fujikuroi. The active substance was identified as Gibberellic **acid**.
 
-Gibberellins are the most abundantly found plant hormones. Kurosawa (1926) observed **Bakanae disease** or **foolish seedling disease** in rice crops. This internodal elongation in rice was caused by fungus Gibberella fujikuroi. The active substance was identified as Gibberellic **acid**.
-
-**Physiological effects of gibberellins** 1\. Application of gibberellins on plants
-
+**Physiological effects of gibberellins**
+ 1\. Application of gibberellins on plants
 stimulate extraordinary **elongation of internode**. e.g. Corn and Pea.
+![bolting](bolting.png)
 
-**Bolted shoot**
+<!-- **Bolted shoot** -->
 
-**Rosette leaves**
+<!-- **Rosette leaves** -->
 
-**Figure 16.4** Bolting 2. Treatment of rosette plants with gibberellin
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 16.4** Bolting 
 
-induces sudden shoot elongation followed by flowering. This is called bolting.
+2.Treatment of rosette plants with gibberellin
+induces sudden shoot elongation followed by flowering. This is called  **bolting**.
 
-10th\_Science Unit-16.indd 231 06-12-2021 18:42:16
-
-
-
-
+<!-- 10th\_Science Unit-16.indd 231 06-12-2021 18:42:16 -->
 
 
 
 
 
-|------|------|
+
+
+
+<!-- 
+|------|------| -->
 
   
 
@@ -171,24 +183,28 @@ induces sudden shoot elongation followed by flowering. This is called bolting.
 
 5\. Gibberellins are efficient than auxins in inducing the formation of seedless fruit - **Parthenocarpic fruits** (Development of fruits without fertilization) e.g. Tomato.
 
-### Abscisic Acid
+<!-- ### Abscisic Acid -->
+![16.1.4](16.1.4.png)
 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abscisic acid (ABA) is a **growth inhibitor** which **regulates abscission** and **dormancy**. It increases tolerance of plants to various kinds of stress. So, it is also called as **stress hormone**. It is found in the chloroplast of plants.
 
-Abscisic acid (ABA) is a **growth inhibitor** which **regulates abscission** and **dormancy**. It increases tolerance of plants to various kinds of stress. So, it is also called as **stress hormone**. It is found in the chloroplast of plants.
-
-**Physiological effects of abscisic acid** 1\. ABA promotes the process of **abscission**
-
+**Physiological effects of abscisic acid** 
+1\. ABA promotes the process of **abscission**
 (separation of leaves, flowers and fruits from the branch).
 
 2\. During water stress and drought conditions ABA **causes stomatal closure**.
 
-**Healthy, green plant Senescence,**
+![16.5](16.5.png)
+
+<!-- ![activity1](/10th-science/image/Activity1.png) -->
+
+<!-- **Healthy, green plant Senescence,**
 
 **yellow plant**
 
 **Abscised plant leaf**
 
-**Figure 16.5** Senescence and abscission
+**Figure 16.5** Senescence and abscission -->
 
 3\. ABA **promotes senescence** in leaves by causing loss of chlorophyll.
 
@@ -196,16 +212,17 @@ Abscisic acid (ABA) is a **growth inhibitor** which **regulates abscission** and
 
 5\. ABA is a powerful **inhibitor of lateral bud growth** in tomato.
 
-### Ethylene
+<!-- ### Ethylene -->
+![16.1.5](16.1.5.png)
 
-
-Ethylene is a **gaseous plant hormone**. It is a **growth inhibitor**. It is mainly concerned with maturation and ripening of fruits. Maximum synthesis of ethylene occurs during ripening of fruits like apples, bananas and melons
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ethylene is a **gaseous plant hormone**. It is a **growth inhibitor**. It is mainly concerned with maturation and ripening of fruits. Maximum synthesis of ethylene occurs during ripening of fruits like apples, bananas and melons
 
 **Physiological effects of ethylene**
 
 1\. Ethylene promotes the **ripening of fruits**. e.g. Tomato, Apple, Mango, Banana, etc.
-
-**Figure 16.6** Ethylene
+![16.6](16.6.png)
+<!-- 
+**Figure 16.6** Ethylene -->
 
 2\. Ethylene **inhibits** the **elongation** of stem and root in dicots.
 
@@ -215,18 +232,18 @@ Ethylene is a **gaseous plant hormone**. It is a **growth inhibitor**. It is mai
 
 5\. Ethylene **breaks the dormancy** of buds, seeds and storage organs.
 
-## Human Endocrine Glands
+<!-- ## Human Endocrine Glands -->
+![16.22](16.22.png)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Endocrine glands in animals possess a versatile communication system to coordinate biological functions. Exocrine glands and endocrine glands are two kinds of glands found in animals. Endocrine glands are found in different regions of the body of animals as well as human beings. These glands are called **ductless**
 
-Endocrine glands in animals possess a versatile communication system to coordinate biological functions. Exocrine glands and endocrine glands are two kinds of glands found in animals. Endocrine glands are found in different regions of the body of animals as well as human beings. These glands are called ductless
-
-**Activity**
+<!-- **Activity**
 
 Place two or three unripe tomatoes in a brown paper bag with a ripe bananas and roll the top closed. In another bag place two or three unripe tomatoes only and roll the top closed, Observe what happens to the tomatoes? Why?
 
-As the banana continues to ripen in the first bag, it produces ethylene gas. The gas trapped in the bag will cause tomatoes to ripen.The tomatoes remain unripe in the second bag.
+As the banana continues to ripen in the first bag, it produces ethylene gas. The gas trapped in the bag will cause tomatoes to ripen.The tomatoes remain unripe in the second bag. -->
 
-10th\_Science Unit-16.indd 232 06-12-2021 18:42:16
+<!-- 10th\_Science Unit-16.indd 232 06-12-2021 18:42:16 -->
 
 
 
@@ -235,48 +252,62 @@ As the banana continues to ripen in the first bag, it produces ethylene gas. The
 
   
 
-233 **Plant and Animal Hormones**
+<!-- 233 **Plant and Animal Hormones** -->
 
-**glands. Their secretions are called hormones** which are produced in minute quantities. The secretions diffuse into the blood stream and are carried to the distant parts of the body. They act on specific organs which are referred as target **organs**.
+**glands**. Their secretions are called **hormones** which are produced in **minute quantities**. The secretions diffuse into the blood stream and are carried to the distant parts of the body. They act on specific organs which are referred as **target organs**.
 
-The branch of biology which deals with the study of the endocrine glands and its physiology is known as
+![DUN2](DUK2.png)
 
-‘**Endocrinology**’. **Thomas Addison** is known as Father of Endocrinology. English physiologists **W. M. Bayliss** and **E. H. Starling** introduced the term hormone in 1909. They first discovered the hormone secretin.
+<!-- The branch of biology which deals with the study of the endocrine glands and its physiology is known as
 
-Exocrine glands have specific ducts to carry their secretions e.g. salivary glands, mammary glands, sweat glands.
+‘**Endocrinology**’. **Thomas Addison** is known as Father of Endocrinology. English physiologists **W. M. Bayliss** and **E. H. Starling** introduced the term hormone in 1909. They first discovered the hormone secretin. -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exocrine glands have specific ducts to carry their secretions e.g. salivary glands, mammary glands, sweat glands.
 
 Endocrine glands present in human and other vertebrates are
 
-a. Pituitary gland b. Thyroid gland c. Parathyroid gland d. Pancreas (Islets of Langerhans) e. Adrenal gland (Adrenal cortex and
+a. Pituitary gland
+ b. Thyroid gland 
+ c. Parathyroid gland
+  d. Pancreas (Islets of Langerhans) 
+  e. Adrenal gland (Adrenal cortex and
+Adrenal medulla)
+ f. Gonads(Testes and Ovary) g. Thymus gland
 
-Adrenal medulla) f. Gonads(Testes and Ovary) g. Thymus gland
+<!-- ### Pituitary Gland -->
+![165.2.1](16.2.1.png)
 
-### Pituitary Gland
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The pituitary gland or hypophysis is a pea shaped compact mass of cells located at the base of the midbrain attached to the hypothalamus by a pituitary stalk. The 
 
+![pg](PG.png)
 
-The pituitary gland or hypophysis is a pea shaped compact mass of cells located at the base of the midbrain attached to the hypothalamus by a pituitary stalk. The pituitary
+gland is anatomically composed of two lobes and perform different functions. They are the anterior lobe (**adenohypophysis**) and the posterior lobe (**neurohypophysis**). The intermediate lobe is non-existent in humans.
 
-gland is anatomically composed of two lobes and perform different functions. They are the anterior lobe (**adenohypophysis**) and the posterior lobe (neurohypophysis). The intermediate lobe is non-existent in humans.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The pituitary gland forms the major endocrine gland in most vertebrates. It regulates and controls other endocrine glands and so is called as the “**Master gland**”. **Hormones secreted by the anterior lobe (Adenohypophysis) of pituitary**
 
-The pituitary gland forms the major endocrine gland in most vertebrates. It regulates and controls other endocrine glands and so is called as the “**Master gland**”. **Hormones secreted by the anterior lobe (Adenohypophysis) of pituitary**
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The anterior pituitary is composed of different types of cells and secrete hormones which stimulates the production of hormones by other endocrine glands. The hormones secreted by anterior pituitary are
 
-The anterior pituitary is composed of different types of cells and secrete hormones which stimulates the production of hormones by other endocrine glands. The hormones secreted by anterior pituitary are
-
-a. Growth Hormone b. Thyroid stimulating Hormone c. Adrenocorticotropic Hormone d. Gonadotropic Hormone which
-
+a. Growth Hormone
+ b. Thyroid stimulating Hormone 
+ c. Adrenocorticotropic Hormone
+  d. Gonadotropic Hormone which
 comprises the Follicle Stimulating Hormone and Luteinizing Hormone
-
 e. Prolactin
 
-**a. Growth hormone (GH)** GH promotes the development and
+**a. Growth hormone (GH)** 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GH promotes the development and enlargement of all tissues of the body. It stimulates the growth of muscles, cartilage and long bones. It controls the cell metabolism.
 
-enlargement of all tissues of the body. It stimulates the growth of muscles, cartilage and long bones. It controls the cell metabolism.
+The improper secretion of this hormone leads to the following conditions.
 
-The improper secretion of this hormone leads to the following conditions. **Dwarfism:** It is caused by decreased secretion of growth hormone in children. The characteristic features are stunted growth, delayed skeletal formation and mental disability.
+ **Dwarfism:** It is caused by decreased secretion of growth hormone in children. The characteristic features are stunted growth, delayed skeletal formation and mental disability.
 
-**Gigantism:** Oversecretion of growth hormone leads to gigantism in children. It is characterised by overgrowth of all body tissues and organs. Individuals attain abnormal increase in height. **Acromegaly:** Excess secretion of growth hormone in adults may lead to abnormal enlargement of head, face, hands and feet.**Figure 16.7** Pituitary Gland
+**Gigantism:** Oversecretion of growth hormone leads to gigantism in children. It is characterised by overgrowth of all body tissues and organs. Individuals attain abnormal increase in height.
 
-Optic Chiasma
+ **Acromegaly:** Excess secretion of growth hormone in adults may lead to abnormal enlargement of head, face, hands and feet.
+<!--  
+ **Figure 16.7** Pituitary Gland -->
+
+<!-- Optic Chiasma
 
 Pars Intermedia Hypothalamus
 
@@ -288,7 +319,7 @@ Lobe
 
 Pituitary Gland
 
-10th\_Science Unit-16.indd 233 06-12-2021 18:42:16
+10th\_Science Unit-16.indd 233 06-12-2021 18:42:16 -->
 
 
 
@@ -299,13 +330,16 @@ Pituitary Gland
 
 
 
-**b. Thyroid stimulating hormone (TSH)** TSH controls the growth of thyroid
+**b. Thyroid stimulating hormone (TSH)** 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TSH controls the growth of thyroid gland, coordinates its activities and hormone secretion.
 
-gland, coordinates its activities and hormone secretion. **c. Adrenocorticotropic hormone (ACTH)**
+ **c. Adrenocorticotropic hormone (ACTH)**
 
-ACTH stimulates adrenal cortex of the adrenal gland for the production of its hormones. It also influences protein synthesis in the adrenal cortex. **d. Gonadotropic hormones (GTH)**
-
-The gonadotropic hormones are follicle stimulating hormone and luteinizing hormone which are essential for the normal development of gonads. **Follicle stimulating hormone** **(FSH)**
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACTH stimulates adrenal cortex of the adrenal gland for the production of its hormones. It also influences protein synthesis in the adrenal cortex.
+ 
+  **d. Gonadotropic hormones (GTH)**
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The gonadotropic hormones are follicle stimulating hormone and luteinizing hormone which are essential for the normal development of gonads.
+  **Follicle stimulating hormone** **(FSH)**
 
 In male, it stimulates the germinal epithelium of testes for formation of sperms. In female it initiates the growth of ovarian follicles and its development in ovary.
 
