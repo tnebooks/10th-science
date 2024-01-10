@@ -16,7 +16,7 @@ Take a glass tumbler and place a small cardboard on it as shown in the figure. N
 The cardboard falls off the ground and the coin falls into the glass tumbler.
 
 
-![ ](image.png)
+<!-- ![ ](image.png) -->
 
 **Inertia of rest**
 
