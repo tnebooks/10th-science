@@ -3,9 +3,8 @@ title: 'GENETICS'
 weight: 18
 ---
 
-
-<img  width="100%" height="100%" src="Title.PNG">
-<div style="position: absolute; top: 250px; right: 0; z-index: 1;">
+![](Title.PNG)
+<div style="position: absolute; top: 150px; right: 0; z-index: 1;">
   <img src="qr1.PNG" alt="QR Code" width="100">
 </div>
 
@@ -29,18 +28,20 @@ At the end of this lesson the students will be able to :
  ‹‹ Understand the structure and replication of DNA.
 
  ‹‹ Define mutation and classify the chromosomal and gene mutation. 
- 
+
  ‹‹ Identify the chromosomal abnormality of Down’s syndrome.
 
 
-**Introduction**
+<!-- **Introduction** -->
+
+![](intro.PNG)
 
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Like Begets Like” is an important and universal phenomenon of life as the living beings produce offspring of their own kind. Colour of eye, color of hair, shape of nose, type of earlobe, etc, are inheritable traits. Have you ever wondered, how do we inherit traits and characteristics from our father and mother? Some of our characteristics might have been inherited from our grandparents. How do we inherit characters from one generation to another? It is because of the genes we inherit from our parents. These genes are responsible for the physical outlook and biological functions. The branch of biology that deals with the genes, genetic variation and heredity of living organisms is called genetics.
 
 Heredity is transmission of characters, from one generation to the next generation, while variation refers to the differences shown by the individuals of the same species and also by the offspring of the same parents. All these can happen only due to chromosomes. Now let’s see what chromosomes are and how they are composed with DNA, that form the genetic material.
 
-<div><h2> 18.1 Gregor Johann Mendel - Father of Genetics</h2></div>
+<!-- <div><h2> 18.1 Gregor Johann Mendel - Father of Genetics</h2></div> -->
 
 
 **Mendel** (1822-1884) was an Austrian monk who discovered the basic principles of heredity through his experiments. His experiments are the foundation for modern genetics. He was born in 1822 to a family of farmers in Silesian of Czechoslovakia. After finishing his high school
@@ -51,7 +52,7 @@ at the age of 18, he entered the Augustinian Monastery at Brunn as a priest. Fro
 
 Thus Mendel had chosen 7 pairs of contrasting characters for his study as shown in the table.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="mendel.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](mendel.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Table 18.1** Constrasting characters of pea plant used by Mendel
 **Reasons for Mendel’s success**
@@ -74,11 +75,11 @@ Crosses involving **inheritance of only one pair of contrasting characters** are
 
 **Mendel’s Explanation of Monohybrid Cross Parental generation:** Pure breeding tall plant and a pure breeding dwarf plant.
 
-**F<sub>1</sub> generation:** Plants raised from the seeds of pure breeding parental cross in F<sub>1</sub> generation were tall and monohybrids.
+**F~1~ generation:** Plants raised from the seeds of pure breeding parental cross in F~1~ generation were tall and monohybrids.
 
-**F<sub>2</sub> generation:** Selfing of the F<sub>1</sub> monohybrids resulted in tall and dwarf plants respectively in the ratio of 3:1. The actual number of tall and dwarf plants obtained by Mendel was 787 tall and 277 dwarf. External expression of a particular trait is known as phenotype. So the phenotypic ratio is 3:1.
+**F~2~ generation:** Selfing of the F~1~monohybrids resulted in tall and dwarf plants respectively in the ratio of 3:1. The actual number of tall and dwarf plants obtained by Mendel was 787 tall and 277 dwarf. External expression of a particular trait is known as phenotype. So the phenotypic ratio is 3:1.
 
-In the F<sub>2</sub> generation 3 different types were obtained:
+In the F~2~ generation 3 different types were obtained:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tall Homozygous – TT (Pure) – 1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tall Heterozygous – Tt – 2 
@@ -101,7 +102,7 @@ So the **genotypic ratio 1:2:1**. A genotype is the genetic expression of an org
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="mono.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](mono.PNG)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Figure 18.1** Monohybrid cross
 
@@ -122,14 +123,14 @@ in pairs and may be alike as in pure breeding tall plants (TT) and dwarf plants 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mendel crossed pea plants having round- yellow seeds with pea plants having wrinkled- green seeds. Mendel made the following observations:
 
-1\. Mendel first crossed pure breeding pea plants having round-yellow seeds with pure breeding pea plants having wrinkled- green seeds and found that only round- yellow seeds were produced in the first generation (F<sub>1</sub>). No wrinkled-green seeds were obtained in the F<sub>1</sub> generation. From this it was concluded that **round shape and yellow colour of the seeds were dominant traits over the wrinkled shape and green color of the seeds.**
+1\. Mendel first crossed pure breeding pea plants having round-yellow seeds with pure breeding pea plants having wrinkled- green seeds and found that only round- yellow seeds were produced in the first generation (F~1~). No wrinkled-green seeds were obtained in the F~1~ generation. From this it was concluded that **round shape and yellow colour of the seeds were dominant traits over the wrinkled shape and green color of the seeds.**
 
-2\. When the hybrids of F<sub>1</sub> generation pea plants having round-yellow seeds were cross-bred by self pollination, then four types of seeds having different combinations of shape and color were obtained in second generation or F<sub>1</sub> generation. They were
-
-
+2\. When the hybrids of F~1~ generation pea plants having round-yellow seeds were cross-bred by self pollination, then four types of seeds having different combinations of shape and color were obtained in second generation or F~1~ generation. They were
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="Capture1.PNG">
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Capture1.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 18.2** Dihybrid Cross
   
@@ -139,7 +140,7 @@ in pairs and may be alike as in pure breeding tall plants (TT) and dwarf plants 
 **round yellow**, **round-green**, **wrinkled yellow** and wrinkled-green seeds.
 
 The ratio of each phenotype (or appearance)
- of seeds in the **F<sub>2</sub> generation is 9:3:3:1**.
+ of seeds in the **F~2~ generation is 9:3:3:1**.
   This is known as the Dihybrid ratio.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the above results it can be concluded that the factors for each character or trait remain independent and maintain their identity in the gametes. The factors are independent to each other and pass to the offsprings (through gametes).
@@ -185,7 +186,7 @@ The chromosomes are highly condensed coiled chromatin fibres packed with the **D
 
 The chromosomes are thin, long and thread like structures consisting of two identical strands called sister chromatids. They are held together by the centromere. Each **chromatid** is made up of spirally coiled thin structure called **chromonema. The chromonema has number of** bead-like structures along its length which are called chromomeres. The chromosomes are made up of DNA,RNA, chromosomal proteins (histones and non-histones) and certain metallic ions. These proteins provide structural support to the chromosome .
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="Chromosome.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Chromosome.PNG)
 
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 18.3** Structure of chromosome
@@ -208,7 +209,7 @@ Telomeres get too short to do their job, causing our cells to age.
 
 
 
-<img  width="80%" height="100%" src="types.PNG">
+![](types.PNG)
 
 **Figure 18.4** Types of chromosomes based on position of centromere
 
@@ -249,7 +250,7 @@ In the body cells of sexually reproducing organisms, the chromosomes generally o
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karyotype is the **number, size and shape of chromosomes** in the cell nucleus of an organism. **Idiogram** is the diagrammatic representation of karyotype of a species. It consists of all the metaphasic chromosomes arranged in homologous pairs according to decreasing length, thickness, position of centromere, shape etc., with the sex chromosomes placed at the end.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="human.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](human.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 18.5** Normal human karyotype
 
@@ -297,14 +298,14 @@ There are two types of nitrogenous bases in DNA. They are
 
 This is called **complementary base pairing**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="10%" src="StructureOfDNA.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](StructureOfDNA.PNG)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 18.6** Structure of DNA
 
  5. Hydrogen bonds between the nitrogenous bases make the DNA molecule stable.
  6. Each turn of the double helix is 34 A°(3.4 nm). There are ten base pairs in a complete turn.
 7. The nucleotides in a helix are joined together by phosphodiester bonds.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="dna.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](dna.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 18.7** Nucleotides in a DNA
 
@@ -345,7 +346,7 @@ always equal to that of cytosine.
 
 
 ‹‹ It is responsible for the transmission of hereditary information from one generation to next generation.
-<img  width="50%" height="100%" src="replicaofdna.PNG">
+![](replicaofdna.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 18.8** Replica of DNA 
 
@@ -372,7 +373,7 @@ always equal to that of cytosine.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The male gametes or sperms produced are of two types. They are produced in equal proportions. The sperm bearing (22+X) chromosomes and the sperm bearing (22+Y) chromosomes. The human males are called **heterogametic.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="sexdetermination.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](sexdetermination.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 18.9** Sex determination in human Female Male
 
@@ -401,7 +402,7 @@ always equal to that of cytosine.
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="eu.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](eu.PNG)
 
 
 
@@ -416,7 +417,7 @@ always equal to that of cytosine.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a genetic condition in which there is an extra copy of **chromosome 21 (Trisomy 21)**. It is associated with mental retardation, delayed development, behavioural problems, weak muscle tone, vision and hearing disability are some of the conditions seen in these children.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="ae.PNG">  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](ae.PNG)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Figure 18.11** Aneuploidy
 
@@ -584,7 +585,7 @@ c) Euploidy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 7\. Explain the structure of a chromosome.
  8\. Label the parts of the DNA in the diagram given below. Explain the structure briefly.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  width="50%" height="100%" src="q.PNG">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1[](q.PNG)
 
 **VII. Long answer questions**
 
@@ -626,7 +627,7 @@ c. Which type of plants were missing in F~1~ generation but reappeared in F~2~ g
 
 https://www.genome.gov https://www. genetics.edu.au https://www.bioexplorer.net/chromosomal- mutation.html/ https://www.ndss.org/about-down-syndrome/ down-syndrome/
 
-<img  width="100%" height="100%" src="concept.PNG">
+![](concept.PNG)
 
 
 
