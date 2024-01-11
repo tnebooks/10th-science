@@ -3,18 +3,18 @@ title: 'THERMAL PHYSICS'
 weight: 3
 ---
 
-## INTRODUCTION 
+# INTRODUCTION 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sun is the primary source of thermal energy for all living organisms. Thermal energy is the cause and temperature is the effect. All living organisms need a particular temperature for their survival. In the kitchen, a container with a steel bottom is placed on the induction stove. Do you know why? All of us have a common man’s understanding of thermal energy and temperature. But, in this chapter, you shall learn about thermal energy and temperature in a scientific manner. We shall also discuss about how thermal energy is transferred and the effects of thermal energy.
 
 
 
-##  3.1 TEMPERATURE 
+# TEMPERATURE 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temperature is defined as the degree of hotness of a body. The temperature is higher for a hotter body than for a colder body. It is also be defined as the property which determines whether a body is in equilibrium or not with the surroundings. (or average kinetic enegy of the molecules). Further, temperature is the property, which determines the direction of flow of heat. It is a scalar quantity. The SI unit of temperature is kelvin (K). There are other commonly used units of temperature such as degree celsius (°C) and degree fahrenheit (°F).
 
-### <strong> 3.1.1 Absolute scale (kelvin scale) of temperature </strong>
+## Absolute scale (kelvin scale) of temperature 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The temperature measured in relation to absolute zero using the kelvin scale is known as absolute scale temperature. It is also known as the **thermodynamic temperature.** Each unit of the thermodynamic scale of temperature is defined as the fraction of 1/273.16th part of the thermodynamic temperature of the triple point of water. A temperature difference of 1°C is equal to that of 1K. Zero Kelvin is the absolute scale of temperature of the body.
@@ -27,7 +27,7 @@ $$ \text{Fahrenheit to Kelvin: } [K] = (F + 460) × \frac{5}{9} \ $$
 
 $$  0 K = –273°C. $$
 
-### <strong> 3.1.2 Thermal equilibrium </strong>
+###  Thermal equilibrium 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Two or more physical systems or bodies are said to be in thermal equilibrium if there is no net flow of thermal energy between the systems._ Heat energy always flows from one body to the other due to a temperature difference between them. Thus, you can define thermal equilibrium in another way. If two bodies are said to be in thermal equilibrium, then, they will be at the same temperature. What will happen if two bodies at different temperatures are brought in contact with one other? There will be a transfer of heat energy from the hot body to the cold body until a thermal equilibrium is established between them. This is depicted in Figure 3.1.
 
@@ -37,7 +37,7 @@ $$  0 K = –273°C. $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When a cold body is placed in contact with a hot body, some thermal energy is transferred from the hot body to the cold body. As a result, there is some rise in the temperature of the cold body and decrease in the temperature of the hot body. This process will continue until these two bodies attain the same temperature.
 
-##  3.2 THERMAL ENERGY 
+##   THERMAL ENERGY 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you leave a cup of hot milk on a table for some time, what happens? The hotness of the milk decreases after some time. Similarly, if you keep a bottle of cold water on a table, the water becomes warmer after some time. What do you infer from these observations? In the case of hot milk, there is a flow of energy from the cup of
@@ -49,7 +49,7 @@ milk to the environment. In the second case, the energy is transferred from the 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the process of transferring heat energy, the body at lower temperature is heated while the body at higher temperature is cooled. Thus, sometimes, this process of transfer of heat energy is termed as 'cooling'. But, in most of the cases the term 'heating' is used instead of 'cooling'. When the thermal energy is transferred from one body to another, this results in the rise or lowering of the temperature of either of the bodies.
 
-### <strong> 3.2.1 Characteristic features of heat energy transfer </strong>
+### Characteristic features of heat energy transfer 
 
 
 1\. Heat always flows from a system at higher temperature to a system at lower temperature.
@@ -61,7 +61,7 @@ milk to the environment. In the second case, the energy is transferred from the 
 **_Heat gained = Heat lost_**
 
 
-### <strong> 3.2.2 Other units of Heat energy </strong>
+###  Other units of Heat energy 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though the SI unit of heat energy is joule, there are some other commonly used units.
@@ -70,7 +70,7 @@ milk to the environment. In the second case, the energy is transferred from the 
 
 **Kilocalorie:** *One kilocalorie is defined as the _amount of heat energy required to rise the temperature of 1 kilogram of water through 1°C._*
 
-##  3.3 EFFECT OF HEAT ENERGY 
+##  EFFECT OF HEAT ENERGY 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When a certain amount of heat energy is given to a substance, it will undergo one or more of the following changes:
@@ -83,7 +83,7 @@ milk to the environment. In the second case, the energy is transferred from the 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The rise in temperature is in proportion to the amount of heat energy supplied. It also depends on the nature and mass of the substance. About the rise in temperature and the change of state, you have studied in previous classes. In the following section, we shall discuss about the expansion of substances due to heat.
 
-### <strong> 3.3.1 Expansion of Substances </strong>
+###  Expansion of Substances 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When heat energy is supplied to a body, there can be an increase in the dimension of the object. This change in the dimension due to rise in temperature is called thermal expansion of the object. The expansion of liquids (e.g. mercury) can be seen when a thermometer is placed in warm water. All forms of matter (solid, liquid and gas) undergo expansion on heating.
@@ -167,7 +167,7 @@ V<sub>o</sub> - Original volume ∆T - Change in temperature (Final temperature 
 
 ### Table 3.1 Coefficient of cubical expansion of some materials
 
-<p align="center">
+<p align="center"></p>
 
 | S.No |Name of the material |Coefficient of cubic expansion (K<sup>–1</sup>) |
 |------|------|------|
@@ -196,7 +196,7 @@ V<sub>o</sub> - Original volume ∆T - Change in temperature (Final temperature 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Coefficient of apparent expansion** is defined as the ratio of the apparent rise in the volume of the liquid per degree rise in temperature to its unit volume. The SI unit of coefficient of apparent expansion is K<sup>–1</sup>.
 
-### <strong> 3.3.2 Experiment to measure real and apparent expansion of liquid </strong>
+### Experiment to measure real and apparent expansion of liquid 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To start with, the liquid whose real and apparent expansion is to be determined is poured in a container up to a level. Mark this level as L1. Now, heat the container and the liquid using a burner as shown in the Figure 3.5. Initially, the container receives the thermal energy and it expands. As a result, the volume of the liquid appears to have reduced. Mark this reduced level of liquid as L<sub>2</sub>.
 
@@ -206,15 +206,15 @@ V<sub>o</sub> - Original volume ∆T - Change in temperature (Final temperature 
   <img src="image-4.png" alt="Alt Text">
 </p>
 
-## <strong> 3.4 FUNDAMENTAL LAWS OF GASES
-</strong>
+##  FUNDAMENTAL LAWS OF GASES
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The three fundamental laws which connect the relation between pressure, volume and temperature are as follows:
 
 1) Boyle’s Law 
 2) Charles's law 
 3) Avogadro's law
 
-##  3.4.1 Boyle’s law: 
+##   Boyle’s law: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_When the temperature of a gas is kept constant, the volume of a fixed mass of gas is inversely proportional to its pressure_. 
 
@@ -231,7 +231,7 @@ $$ P \, α \,1/V $$
 
 $$ \text{(i.e) PV = constant} $$
 
-## <strong> 3.4.2 Charles's law (The law of volume) </strong>
+##  Charles's law (The law of volume) 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Charles’s law was formulated by a French scientist Jacques Charles. According to this law, _When the pressure of gas is kept constant, the volume of a gas is directly proportional to the temperature of the gas_.
@@ -240,7 +240,7 @@ $$ \text{V α T} $$
 
 $$ \text{(or)} \frac{V}{T} = \text{constant} $$
 
-## 3.4.3 Avogadro's law 
+##  Avogadro's law 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avogadro's law states that at constant pressure and temperature, the volume of a gas is directly proportional to number of atoms or molecules present in it.
 
@@ -250,15 +250,15 @@ $$ \text{(or)} \frac{V}{n} = \text{constant} $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avogadro’s number (N<sub>A</sub>) is the total number of atoms per mole of the substance. It is equal to 6.023 × 10<sup>23</sup> /mol.
 
-## <strong> 3.5 GASES </strong>
+##  GASES 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gases are classified as real gases and ideal gases.
 
-### <strong> 3.5.1 Real Gases </strong>
+###  Real Gases 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the molecules or atoms of a gases interact with each other with a definite amount of intermolecular or inter atomic force of attraction, then the gases are said to be **real gases.** At very high temperature or low pressure, a real gases behaves as an ideal gases because in this condition there is no interatomic or intermolecular force of attraction.
 
-### <strong> 3.5.2 Ideal Gases </strong>
+###  Ideal Gases 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the atoms or molecules of a gas do not interact with each other, then the gas is said to be an **ideal gas** or a **perfect gas.**
 
@@ -266,7 +266,7 @@ $$ \text{(or)} \frac{V}{n} = \text{constant} $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ideal gases obey Boyle’s law, Charles’s law and Avogadro’s law. All these laws state the relationship between various properties of a gas such as pressure (P), volume (V), temperature (T) and number of atoms (n). In a given state of the gas, all these parameters will have a definite set of values. When there is a change in the state of the gas, any one or more of these parameters change its value. The above said laws relate these changes.
 
-### <strong> 3.5.3 Ideal Gas Equation </strong>
+###  Ideal Gas Equation 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ideal gas equation is an equation, which relates all the properties of an ideal gas. An ideal gas obeys Boyle’s law and Charles’ law and Avogadro’s law. According to Boyle’s law,
 
@@ -285,36 +285,36 @@ $$ \text{V/T = constant  (3.2)} $$
 $$ \text {V/n = constant (3.3)} $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After combining equations (3.1), (3.2) and (3.3), you can get the following equation.
-<p  style="font-style: italic;">
+<p  style="font-style: italic;"></p>
 
 $$ \text{PV/nT = constant (3.4)} $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The above relation is called the combined law of gases. If you consider a gas, which contains µ moles of the gas, the number of atoms contained will be equal to µ times the Avogadro number, N<sub>A</sub>
 
-<p style="font-style: italic;">
+<p style="font-style: italic;"></p>
 
  $$ i.e. \, \, \,  \, \, n = µN_A. (3.5) $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using equation (3.5), equation (3.4) can be written as
-<p  style="font-style: italic;">
+<p  style="font-style: italic;"></p>
 
 $$ PV/ µN_AT = constant $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The value of the constant in the above equation is taken to be kB, which is called as **Boltzmann constant (1.38 × 10<sup>–23</sup> JK<sup>–1</sup>).** Hence, we have the following equation:
-<p style="font-style: italic;">
+<p style="font-style: italic;"></p>
 
  $$ PV/ µN_AT = k_B $$
 
-<p  style="font-style: italic;">
+<p  style="font-style: italic;"></p>
 
 $$ PV = µN_Ak_BT $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here, _µN<sub>A</sub>k<sub>B</sub> = R,_ which is termed as universal gas constant whose value is
-<p style="font-style: italic;">
+<p style="font-style: italic;"></p>
 
 $$ 8.31 \, \text{J mol}^{−1} \, \text{K}^{−1}. $$
 
-<p style="font-style: italic;">
+<p style="font-style: italic;"></p>
 
 $$ \text{PV = RT \, (3.6)} $$
 
@@ -349,13 +349,13 @@ temperature to a system at lower temperature.
 
 <span style="font-size: 1em;color:#663300;">&#9670;</span> For a given heat energy, the real expansion is always more than that of apparent expansion. ™ If the atoms or molecules of a gas do not interact with each other, then the gas is said to be an **ideal gas** or a **perfect gas**. ™ Ideal gas equation, also called as equation of state is PV = RT. Here, R is known as universal gas constant whose value is 8.31 J mol<sup>−1</sup>K<sup>−1</sup>
 
-## <strong> Solved Problems </strong>
+##  Solved Problems 
 
- ### <strong> Example 1 </strong>
+ ###  Example 1 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A container whose capacity is 70 ml is filled with a liquid up to 50 ml. Then, the liquid in the container is heated. Initially, the level of the liquid falls from 50 ml to 48.5 ml. Then we heat more, the level of the liquid rises to 51.2 ml. Find the apparent and real expansion.
 
-### <strong> Data: </strong>
+###  Data: 
 
 Level of the liquid L<sub>1</sub> = 50 ml
 
@@ -373,11 +373,11 @@ Level of the liquid L<sub>3</sub> = 51.2 ml
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So, Real expansion > apparent expansion
 
-### <strong> Example 2 </strong>
+### Example 2 
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keeping the temperature as constant,a gas is compressed four times of its initial pressure. The volume of gas in the container changing from 20cc (V<sub>1</sub>cc) to V<sub>2</sub>cc. Find the final volume V<sub>2</sub>.
 
-### <strong> Data: </strong> 
+### Data: 
 
 Initial pressure (P<sub>1</sub>)= P 
 
