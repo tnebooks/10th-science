@@ -20,7 +20,8 @@ weight: 23
 
 ![Alt text](folder.png) 
 
-<img src="folderimage.png" alt="Image Description" style="float: right; margin-left: 10px;" />
+![Alt text](folderimage.png)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A folder is a storage space that contains multiple files. We can create files as per the user’s need. For clear understanding, we can take the example of a bookshelf in a library.The individual book can be considered as a ‘file’ and the whole set of books in a shelf can be considered as folders. When we right click on the mouse, the popup menu appears on the screen with multiple options. Select ‘NEW’ option and a secondary menu comes up with another set of options. Select ‘Folder’ option in the menu. You can now save your file(s) in the newly created folder.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More people are using Windows and LINUX operating systems in their computers. We can do many activities like collect notes, draw/paint, create animations /spreadsheets/ word docs/PPTs etc.
@@ -29,8 +30,8 @@ weight: 23
 
 ![Alt text](image-1.png)
 
-<!-- **How can we create Files?** -->
-**<span style="color:red">How can we create Files?</span>**
+**How can we create Files?**
+<!-- **<span style="color:red">How can we create Files?</span>** -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For example if the computer is operating on the Windows OS, we can collect our notes in ‘Notepad’ application and draw pictures in ‘Paint’ application.
 
@@ -48,12 +49,12 @@ weight: 23
 ![Alt text](scratchHeading.png)
 
 
-<!-- **Introduction**  -->
-**<span style="color:red">Introduction</span>**
+**Introduction** 
+<!-- **<span style="color:red">Introduction</span>** -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘Scratch’ is a software used to create animations, cartoons and games easily. Scratch is a visual programming language. It was developed in the Massachusetts Institute of Technology (MIT) Media Lab to make programming easier and more fun to learn.
 
-<!-- **Scratch Environment Editor**  -->
-**<span style="color:red">Scratch Environment Editor</span>**
+**Scratch Environment Editor** 
+<!-- **<span style="color:red">Scratch Environment Editor</span>** -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Scratch editor has three main parts:
 They are Stage, Sprite and Script editor.
 
@@ -79,8 +80,8 @@ When the Costumes tab is chosen, the costume editor is shown (outlined in red):
 
 ![Alt text](image-5.png)
 
-<!-- **Movement and Loops** -->
-**<span style="color:red">Movement and Loops</span>**
+**Movement and Loops**
+<!-- **<span style="color:red">Movement and Loops</span>** -->
  _Click File/New to create a new project and enter a project name ._
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the menu **Script → Event, drag a when green flag clicked block to the scripts** area. Your scripts area should look like this:
@@ -97,8 +98,8 @@ When the Costumes tab is chosen, the costume editor is shown (outlined in red):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the green flag at the top right corner of the stage to run your program.
 
-<!-- **Adding Sound**  -->
-**<span style="color:red">Adding Sound</span>**
+**Adding Sound** 
+<!-- **<span style="color:red">Adding Sound</span>** -->
 1. Click Sprite1 in the sprite list and click the Sounds tab. 
 
 2. Try the meow sound already there. If you don’t like it, click the speaker icon to choose a different sound from the sound library.
