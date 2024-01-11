@@ -2,11 +2,8 @@
 title: 'STRUCTURAL ORGANISATION  OF ANIMALS'
 weight: 13
 ---
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="1-image.png" alt="Beautiful landscape" width="400">
- 
-</div>     
+![](1-image.png)
+     
 **Introduction**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The variety in nature and habits of animals in the biosphere are quite amazing and interesting. What we see around us may be just few, but there are innumerable species living in this world. You have learnt in lower classes about the classification of animal kingdom. We will recall here that **‘Kingdom Animalia’** is divided into two groups, **Invertebrates** and **Chordates**.
@@ -17,11 +14,7 @@ weight: 13
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The scientific name of the common rabbit is **_Oryctolagus cuniculus_**. It is represents **Phylum Chordata** and **Class Mammalia**. Mammals occupy the highest group in the animal kingdom and show advancement over the other groups of animals. They are warm blooded and possess covering of hair on the body. Mammary gland in females is the most striking feature of a mammal. Let us now study about the morphology of leech and rabbit in detail.
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="taxonomy.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](taxonomy.png)
 
 >### 13.1.1 Habit and Habitat
 
@@ -37,12 +30,7 @@ weight: 13
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Receptors:** On the dorsal side there are five pairs of eyes on the first five segments. Each segment bears a number of sensory projections called receptors. **Annular receptors** are located in each annulus and **segmental receptors** are located on the first annulus of each segment.
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image.png" alt="Beautiful landscape" width="400">
- 
-</div>  
-  
+![](image.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Suckers: Leech has two suckers. The** sucker located at the anterior end is called **anterior sucker** or **oral sucker** which is ventral in position occupying the first five segments. The posterior sucker is formed by the fusion of the last seven segments. The anterior sucker helps in feeding, while both the suckers help in attachment and locomotion.
 
@@ -55,13 +43,8 @@ weight: 13
 (iii) **Nephridiopores:** Nephridia open to the exterior by 17 pairs of nephridiopores. They lie ventrally on the last annulus of each segment from 6 to 22.
 
 (iv) **Male genital pore:** It is a mid-ventral opening, situated between second and third annuli of 10th segment.
-
-<div style="display: flex; justify-content: center;padding-bottom:30px">
  
-<img src="activity.png" alt="Beautiful landscape" width="400">
- 
-</div>  
-  
+![](activity.png)
 
 (v) **Female genital pore:** It lies mid-ventrally between second and third annuli of 11th segment.
 
@@ -70,11 +53,7 @@ weight: 13
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The body of leech is divided into six regions.
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="regionSegments.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](regionSegments.png)
 
 >### 13.1.4 Body wall
 
@@ -118,25 +97,12 @@ The ingested blood is stored in crop chambers and its diverticulum. The blood pa
 
 Leeches prevent blood clotting by secreting a protein called hirudin. They also inject an anaesthetic substance that prevents the host from feeling their bite.
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image-1.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-1.png) 
   
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
+![](moretoknow2.png)
  
-<img src="moretoknow2.png" alt="Beautiful landscape" width="400">
- 
-</div>  
-  
-
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="segmentationOfLeech.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](segmentationOfLeech.png)
   
 
 >### 13.1.7 Respiratory System
@@ -156,12 +122,7 @@ Leeches prevent blood clotting by secreting a protein called hirudin. They also 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The central nervous system of leech consists of a nerve ring and a paired ventral nerve cord. The nerve ring surrounds the pharynx and is formed of **suprapharyngeal ganglion** (brain), **circumpharyngeal** **connective** and **subpharyngeal ganglion. The subpharyngeal** ganglion lies below the pharynx and is formed by the fusion of four pairs of ganglia.
 
-
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image-2.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-2.png)
   
     
 >### 13.1.10 Excretory System
@@ -190,19 +151,10 @@ Leeches prevent blood clotting by secreting a protein called hirudin. They also 
 (ii) Development is direct and proceeds in cocoon which contain one to 24 embryos.
 
 (iii) Young leech resembling the adult emerges.
-
-<div style="display: flex; justify-content: center;padding-bottom:30px">
  
-<img src="image-3.png" alt="Beautiful landscape" width="400">
- 
-</div>  
-  
-
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="moretoknow3.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-3.png)
+   
+![](moretoknow3.png)
   
 
 **Figure 13.4** Reproductive system of Leech
@@ -222,12 +174,8 @@ Leeches prevent blood clotting by secreting a protein called hirudin. They also 
 5. Parapodia and setae are completely absent
 
 6. Blood is stored in the crop. It gives nourishment to the leech for several months. Due to this reason there is no elaborate secretion of the digestive juices and enzymes.
-
-<div style="display: flex; justify-content: center;padding-bottom:30px">
  
-<img src="rabbitandmoretoknow.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](rabbitandmoretoknow.png)
 
 >### 13.2.1 Habit and Habitat
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rabbits are gentle and timid animals. They show leaping movement and live in burrows.They are distributed throughout the world. They are herbivorous animals feeding on grass and vegetables like turnips, carrots and lettuce. Rabbits are **gregarious** (moving in groups) animals
@@ -235,21 +183,13 @@ Leeches prevent blood clotting by secreting a protein called hirudin. They also 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The pygmy rabbit was listed as a threatened species in Washington in 1990, because
 
 of decline in its population size and distribution due to habitat loss. In March 2003, the Columbia Basin Pygmy Rabbit was federally listed as an endangered species.
-
-<div style="display: flex; justify-content: center;padding-bottom:30px">
  
-<img src="doyouknowpygymyrabbit.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](doyouknowpygymyrabbit.png)
   
 
 >### 13.2.2 External Morphology
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image-4.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-4.png)  
   
 
 **Shape, Size and Colouration:** It has an elongated and cylindrical body. Males and females are of the same size. They grow about 45 cm in length and weigh about 2.25 kg as adult. The colour varies from white to black and white. Body is covered with fur which serves to keep it warm.
@@ -293,20 +233,12 @@ The trunk bears two pairs of pentadactyl **limbs. The forelimbs are shorter than
 
 **Dentition in Rabbit** Teeth are hard bone-like structures used to cut, tear and grind the food materials. The rabbit has two sets of teeth. The existence of two sets of teeth in the life of an animal is called **diphyodont dentition. The two types of teeth** are **milk teeth** (young ones) and **permanent teeth** (in adults).
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image-5.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-5.png)
   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In rabbit the teeth are of different types. Hence, the dentition is called heterodont. There are four kinds of teeth in mammals viz. the **incisors** (I), **canines** (C), **premolars** (PM) and **molars (M). This is expressed in the form of a** dental formula.
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image-6.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-6.png)
   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dental formula is the simple method of representing the teeth of a mammal. The number of each kind of tooth in the upper and the lower jaws on one side is counted.
@@ -320,11 +252,7 @@ Dental formula is (I 2/1, C 0/0, PM. 3/2, M 3/3.)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Respiration takes place by a pair of **lungs**, which are light spongy tissues enclosed in the thoracic cavity. The thoracic cavity is bound dorsally by the vertebral column and ventrally by the sternum, laterally by the ribs. On the lower side of the thoracic cavity is the dome shaped **diaphragm**.
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image-7.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-7.png)
   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each lung is enclosed by a double membranous **pleura**. Atmospheric air passes through the external nostril and nasal passages into the pharynx. From the pharynx it passes through the glottis into the wind pipe.
@@ -340,11 +268,7 @@ Dental formula is (I 2/1, C 0/0, PM. 3/2, M 3/3.)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The circulatory system is formed of blood, blood vessels and heart. The heart is pear shaped and lies in the thoracic cavity in between the lungs. It is enclosed by **pericardium**, a double layered membrane.
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image-8.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-8.png) 
   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The heart is four chambered with two auricles and two ventricles. The right and left auricles are separated by interauricular **septum, similarly right and left ventricles are** separated by **interventricular septum**.
@@ -364,11 +288,7 @@ Dental formula is (I 2/1, C 0/0, PM. 3/2, M 3/3.)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forebrain consists of a pair of olfactory lobes, cerebral hemispheres and diencephalon. The right and left cerebral hemispheres are connected by transverse band of nerve tissue called **corpus callosum**.
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image-9.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-9.png) 
   
 
 The midbrain includes the optic lobes. The hindbrain consists of the cerebellum, pons varolii and medulla oblongata. You will study about the details of mammalian brain in the chapter on nervous system.
@@ -385,11 +305,8 @@ It comprises the urinary or excretory system and the genital or reproductive sys
 **Male Reproductive system** The male reproductive system of rabbit consists of a pair of testes which are ovoid in shape. Testes are enclosed by scrotal sacs in the abdominal cavity. Each testis consists of numerous fine tubules called seminiferous **tubules. This network of tubules lead into a** coiled tubule called **epididymis,** which lead into the sperm duct called vas deferens. The vas deferens join in the urethra just below the urinary bladder. The urethra runs backward and passes into the penis.
 
 There are three accessory glands namely prostate gland, cowper’s gland and perineal gland. Their secretions are involved in reproduction.
-<div style="display: flex; justify-content: center;padding-bottom:30px">
  
-<img src="image-10.png" alt="Beautiful landscape" width="400">
- 
-</div>  
+![](image-10.png) 
   
 
 **Female reproductive system** The female reproductive system of rabbit consists of a pair of ovaries which are small ovoid structures. They are located behind the kidneys in the abdominal cavity.
@@ -406,22 +323,15 @@ A pair of **Cowper’s gland** and **perineal gland** are the accessory glands p
 an anticoagulating substance called hirudin. 
 - Leech is a hermaphrodite.
 
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="image-11.png" alt="Beautiful landscape" width="400">
- 
-</div>  
-  
+![](image-11.png)
+
 - Rabbits are warm blooded vertebrates.
 - Canine teeth are absent in rabbit.
 - Respiration takes place through a pair of lungs in rabbit.
 - The heart is four chambered consisting of two auricles and two ventricles.
 - Urinogenital system comprises the urinary (or) excretory system and the genital (or) reproductive system.
 - Mammary glands are modified glands of the skin and help in nourishing the young ones.
-<div style="display: flex; justify-content: center;padding-bottom:30px">
- 
-<img src="conceptMap.png" alt="Beautiful landscape" width="400">
- 
-</div>  
-  
+
+
+![](conceptMap.png)
 
