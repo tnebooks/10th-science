@@ -2,8 +2,7 @@
 title: 'ORIGIN AND EVOLUTION OF LIFE'
 weight: 19
 ---
-![alt text](origin.png)
-![alt text](learningobjective.png.png)
+
 ![alt text](intruduction.png)
 
 Living organisms possess distinct characteristics, display organisational and functional unity, entail a mechanism of origin and evolution of diversities and maintain a balanced relationship with nature. Most aspects of evolution indicate that the knowledge of the past has become essential for fully understanding the present. Life since its beginning on earth had changed through time. The history of life comprises of two aspects, one is the origin of life on earth and the other is mechanism involved in the gradual changes and adaptations of living organisms through time which is known as the evolution of life.
