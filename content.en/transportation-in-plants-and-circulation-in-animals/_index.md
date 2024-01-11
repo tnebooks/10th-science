@@ -18,7 +18,7 @@ weight: 14
 
 &emsp; &emsp;The movement of solid liquid and gaseous molecules from a region of higher concentration to a region of their lower concentration without the utilization of energy is called diffusion. This is a passive process.
 
-![](image.png)
+![image](image.png)
 
 >### 14.1.2 Active Transport
 
@@ -31,7 +31,7 @@ weight: 14
 **Plasmolysis**\
 &emsp; &emsp;It occurs when a living plant cell is placed in a hypertonic solution water molecule moves out of the cell and resulting in the shrinkage of protoplasm away from the cell wall.
 
-![](image-1.png)
+![image](image-1.png)
 
 >**Activity 1**
 >**Demonstration of Osmosis**\
@@ -44,12 +44,12 @@ weight: 14
 
 &emsp; &emsp;There are millions of root hairs on the tip of the root which absorb water and minerals by diffusion. Root hairs are thin walled, slender extension of epidermal cell that increase the surface area of absorption.
 
-![](image-2.png)
+![image](image-2.png)
 
 >### 14.3 Pathway of Water Absorbed by Roots
 
 &emsp; &emsp;Once the water enters the root hairs, the concentration of water molecules in the root hair cells become more than that of the cortex. Thus water from the root hair moves to the cortical cells by osmosis and then reaches the xylem. From there the water is transported to the stem and leaves.
-![](image-3.png)
+![image](image-3.png)
 >### 14.4 Types of Movement of Water into the Root Cells
 &emsp; &emsp;Once water is absorbed by the root hairs, it can move deeper into root layers by two distinct pathways:
 
@@ -63,17 +63,19 @@ weight: 14
 >### 14.4.2 Symplast Pathway
 
 &emsp; &emsp;In this method, water molecules move to the adjacent cells, through the plasma membrane, cytoplasm and plasmodesmata. This method of transport is slow as water moves through plasma membrane. It is in accordance to the concentration gradient.
-![](image-4.png)
+![image](image-4.png)
 >### 14.5 Transpiration
 
 &emsp; &emsp;Transpiration is the evaporation of water from the aerial parts of the plant especially through stomata in leaves. Stomata are open in the day and closed at night. The opening and closing of the stomata is due to the change in turgidity of the guard cells. When water enters into the guard cells, they become turgid and the stoma open. When the guard cells lose water, it becomes flaccid and the stoma closes.
-![](image-5.png)
+![image](image-5.png)
+
 &emsp; &emsp;Water evaporates from mesophyll cells of leaves through the open stomata, this lowers water concentration in mesophyll cells. As a result, more water is drawn into these cells from the xylem present in the veins through the process of osmosis. As water is lost from the leaves, pressure is created at the top to pull more water from the xylem to the mesophyll cells, this process is called transpiration pull. This extends up to the roots causing the roots to absorb more water from the soil to ensure continuous flow of water from the roots to the leaves.
 
 >### 14.5.1 Factors affecting  Transpiration
 
 &emsp; &emsp;Transpiration is affected by several external factors such as temperature, light, humidity, and wind speed. Internal factors that affect transpiration include number and distribution of stomata, percentage of open stomata, water status of the plant, canopy structure etc.
-![](image-6.png)
+![image](image-6.png)
+
 **Significance of Transpiration**
 
 - Creates transpirational pull for transport of water
@@ -109,7 +111,8 @@ weight: 14
 >### 14.11 Ascent of Sap and its Events – An Overview
 
 &emsp; &emsp;The upward movement of water and minerals from roots to different plant parts is called ascent of sap. A number of factors play a role in ascent of sap and it takes places in following steps
-![](image-7.png)
+![image](image-7.png)
+
 **1\. Root Pressure:** Water from soil enters the root hairs due to osmosis. Root pressure is responsible for movement of water up to the base of the stem.
 
 **2\. Capillary Action:** Water or any liquid rises in a capillary tube because of physical forces, this phenomenon is called capillary action. In the same way, in stem water rises up to certain height because of capillary action.
@@ -147,7 +150,8 @@ Choose a small soft stemed plant. Cut the stem horizontally near the base with a
 
 **Red blood corpuscles (Erythrocytes)** 
 
-![](image-8.png)
+![image](image-8.png)
+
 They are the most abundant cells in the human body. RBCs are formed in the bone marrow. The RBCs impart red colour to the blood due to presence of respiratory pigment **haemoglobin.** Matured mammalian RBCs do not have cell organelles and nucleus. They are biconcave and disc-shaped. Their life span is about 120 days. RBC is involved in the transport of oxygen from lungs to tissues.
 
 >Why does mammalian RBC lack cell organelles and nucleus?\
@@ -155,7 +159,8 @@ They are the most abundant cells in the human body. RBCs are formed in the bone 
 
 **White blood corpuscles (Leucocytes)**\
 &emsp; &emsp;WBC's are colourless. They do not have haemoglobin and are nucleated cells. It is found in the bone marrow, spleen, thymus and lymph nodes. They are capable of amoeboid movement
-![](image-9.png)
+![image](image-9.png)
+
 &emsp; &emsp;The white blood corpuscles can be grouped into two categories:
 
 &emsp; &emsp;**1\. Granulocytes &emsp; &emsp;2**\. **Agranulocytes.**
@@ -185,7 +190,7 @@ Granules are not found in the cytoplasm of these cells. The agranulocytes are of
 
 **Blood Platelets or Thrombocytes**\
 &emsp; &emsp;These are small and colourless. They do not have nucleus. There are about 2,50,000 – 4,00,000 platelets / cubic mm of blood. Life span of platelets is 8–10 days. They play an important role in clotting of blood. Platelets form clot at the site of injury and prevent blood loss.
-![](image-10.png)
+![image](image-10.png)
 >**More to Know**
 >**Anaemia:** Decrease in number of erythrocytes.\
 **Leucocytosis:** Increase in the number of leukocytes.\
@@ -223,7 +228,7 @@ vii) It maintains proper water balance in the body.
 | 6 |All arteries carry oxygenated blood except pulmonary arteries |All veins carry deoxygenated blood except pulmonary veins |
 | 7 |Internal valves are absent |Internal valves are present |
 
-![](image-11.png)
+![image](image-11.png)
 >### 14.14 Types of Circulatory System
 
 &emsp; &emsp;Animals possess two types of circulatory system. They are\
@@ -245,13 +250,15 @@ Closed circulatory system was discovered by William Harvey (1628) who is regarde
 &emsp; &emsp;Heart is a muscular pumping organ that pumps out the blood into the blood vessels. Human heart is situated between the lungs, slightly tilted toward the left and above the diaphragm in the **thoracic cavity.** The heart is made of specialized type of muscle called the **cardiac muscle.**
 
 &emsp; &emsp;The heart is enclosed in a double walled sac called **pericardium**. It contains lubricating **pericardial fluid** which reduces friction during heart beat and protects it from mechanical injuries.
-![](image-12.png)
+![image](image-12.png)
+
 &emsp; &emsp;The human heart is four chambered. The two upper **thin** walled chambers of the heart are called auricle or **atria** (sing: atrium) and two lower **thick** walled chambers are called **ventricles.** The chambers are separated by partition called **septum.** The septum between auricles and ventricles prevents the mixing of oxygenated and deoxygenated blood.
 
 &emsp; &emsp;The two auricles are separated from each other by **interatrial septum.** The left atrium is smaller than the right atrium. The right atrium receives deoxygenated blood from different parts of the body through the main veins **superior vena cava**, **inferior vena cava** and **coronary sinus.** **Pulmonary veins** bring **oxygenated blood** to the left atrium from the lungs. The right and left auricles pump blood into the right and left ventricles respectively.
 
 &emsp; &emsp;The ventricles form the lower part of the heart. The two ventricles are separated from each other by an **interventricular septum.** The left and right ventricles have **thick walls** because the ventricles have to pump out blood with force away from the heart. From the **right ventricle** arises the **pulmonary trunk** which bifurcates to form right and left pulmonary arteries. The right and left pulmonary arteries supply **deoxygenated blood** to the lungs of the respective side. The left ventricle is longer and narrower than the right ventricle. The walls are about three times thicker than the right ventricle. The **left ventricle** gives rise to **aorta.** The **oxygenated blood** is supplied by the aorta to various organs of the body. The **coronary arteries** supply blood to the heart.
-![](image-13.png)
+![image](image-13.png)
+
 &emsp; &emsp;**Valves:** The valves are the muscular flaps that regulate the flow of blood in a single direction and prevent back flow of blood. The heart contains three types of valves.
 
 &emsp; &emsp;**Right atrioventricular valve:** It is located between the right auricle and right ventricle. It has three thin triangular leaf like flaps and therefore called **tricuspid valve.** The apices of the flaps are held in position by **chordae tendinae** arising from the muscular projection of the ventricle wall known as **papillary muscles.**
@@ -280,7 +287,8 @@ Closed circulatory system was discovered by William Harvey (1628) who is regarde
 &emsp; &emsp;When the blood circulates twice through the heart in one complete cycle it is called **double circulation.** In double circulation the oxygenated blood do not mix with the deoxygenated blood.
 
 &emsp; &emsp;However, in some animals the oxygenated and deoxygenated blood are mixed and pass through the heart only once. This type of circulation is called **single circulation**. e.g., fishes, amphibians and certain reptiles.
-![](image-14.png)
+![image](image-14.png)
+
 >### 14.15.2 Heart Beat
 
 &emsp; &emsp;One complete **contraction** (**systole**) and **relaxation** (**diastole**) of the atrium and ventricles of the heart constitute heartbeat. The heart normally beats 72 – 75 times per minute.
@@ -318,7 +326,8 @@ Stop watch or Stop clock\
 **(b) Ventricular systole:** Contraction of ventricles (0.3 sec)
 
 **(c) Ventricular diastole:** Relaxation of ventricles (0.4 sec)
-![](image-15.png)
+![image](image-15.png)
+
 >### 14.15.4 Heart Sound
 
 &emsp; &emsp;The rhythmic closure and opening of the valves cause the sound of the heart.\
@@ -335,10 +344,12 @@ Stop watch or Stop clock\
 
 **Stethoscope**\
 &emsp; &emsp;A stethoscope is used to detect the sound produced by the internal organs of human body. The heart sound is heard by placing the stethoscope on the chest. It is a useful diagnostic tool to identify and localize health problems and diagnose disease. The modern electronic stethoscopes are high precisioned instruments.
-![](image-16.png)
+![image](image-16.png)
+
 **Sphygmomanometer**\
 &emsp; &emsp;Sphygmomanometer is a clinical instrument used to measure blood pressure when a person is in a relaxed and resting condition. The pressure of the brachial artery is measured. It helps to estimate the state of blood circulation and the working of the heart. It helps to diagnose conditions such as increased or decreased blood pressure. **Monometric** and **modern digital** types are the apparatus used to measure blood pressure.
-![](image-17.png)
+![image](image-17.png)
+
 >### 14.17 Blood Groups
 
 &emsp; &emsp;The concept of blood grouping was developed by **Karl Landsteiner** (1900). He identified blood groups **A, B** and **O. AB** blood group was recognized by **Decastello** and **Steini** (1902).
@@ -358,7 +369,7 @@ Stop watch or Stop clock\
 **Rh factor**\
 &emsp; &emsp;Rh factor was discovered by **Landsteiner** and Wiener in 1940 in Rhesus monkey. The surface of RBC contains the antigen for Rh factor. **Rh+** ( positive) persons have Rh antigen on the surface of RBC while, **Rh–** (negative)
 
-![](image-18.png)
+![image](image-18.png)
 
 persons do not have Rh antigen on the surface of RBC. Antibodies developed against this Rh antigen is called **Rh antibodies.**
 
@@ -422,6 +433,6 @@ http://biologydictionary.net/circulatory-system/
 
 
 
-![](image-20.png)
-![](image-21.png)
-![](image-22.png)
+![image](image-20.png)\
+![image](image-21.png)\
+![image](image-22.png)
