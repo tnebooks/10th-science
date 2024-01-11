@@ -2,7 +2,11 @@
 title: 'PERIODIC CLASSIFICATION OF ELEMENTS'
 weight: 8
 ---
-![Alt text](image1.png)
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image1.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 **INTRODUCTION**
 
 The eighteenth and nineteenth centuries witnessed a rapid development in chemistry in all spheres of scientific activities. By 1860, scientists had already discovered 60 elements and determined their atomic masses. They noticed that some elements had similar properties and hence arranged them into groups. During this period, several new elements were discovered. These elements were found to have different properties. It was realized that instead of studying the properties of all these elements individually, it would be more convenient to divide them into groups and
@@ -56,7 +60,11 @@ Henry Moseley, a British scientist in 1912, discovered a new property of element
 
 With reference to the modern periodic law, the elements were arranged in the increasing order of their atomic numbers to form the modern periodic table. The modern periodic **table is a tabular arrangement of elements in periods and groups, highlighting the regular repetition of properties of the elements.**
 
-![Alt text](image2.png)
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image1.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 Figure 8.1 shows the modern periodic table of 118 elements discovered so far.
 
 As you have studied the features of the modern periodic table in standard IX, here let us confine to the study of the features of periods and groups.
@@ -64,7 +72,8 @@ As you have studied the features of the modern periodic table in standard IX, he
 ### 8.2.1 Features of Periods
 
 
-‹ The **horizontal rows are called** **periods**. There are **seven** periods in the periodic table.
+
+<span style="font-size: 2em;color:#663300;">&#9670;</span> The **horizontal rows are called** **periods**. There are **seven** periods in the periodic table.
 
 ‹ **First period** (Atomic number 1 and 2): This is the shortest period. It contains only two elements (Hydrogen and Helium).
 
@@ -210,7 +219,11 @@ Properties such as atomic radius, ionic radius, ionisation energy, electronegati
 
 
 **Atomic radius of an atom is defined as** the distance between the centre of its nucleus and the outermost shell containing the valence electron. Direct measurement of the radius of an isolated atom is not possible. Except for noble gases, usually the atomic radius is referred to as **covalent radius** or **metallic radius** depending on the nature of the bonding between the concerned atoms. Atomic radius in metal atoms is known as **metallic radius.** It is defined as half the **distance between the nuclei of adjacent metal atoms** (Figure 8.2
-![Alt text](image3.png)
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image3.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 **Figure 8.2** (a) Metallic Radius (b) Covalent Radius
 
@@ -246,7 +259,11 @@ Properties such as atomic radius, ionic radius, ionisation energy, electronegati
 
 When you look at the variation of the atomic radii in the periodic table, there are two distinct trends. Along the period, from left to right, the atomic radius of the elements decreases whereas along the groups, from the top to bottom, the atomic radius increases. The increase, down a group, is due to the increase in the valence shell number down the group. As the shell number increases, the distance between the valence shell and the nucleus increases. In contrast, when you observe along the period, the shell number remains the same but the number of protons (i.e. atomic number) increases. More and more positive charges impose a strong attraction over the electrons and thus the electron cloud shrinks towards the nucleus, which results in the decrease in the atomic size. Figure 8.4 shows how the atomic radius decreases from lithium to boron.
 
-![Alt text](image4.png)
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image4.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 **Figure 8.4** Variation of atomic radius
 
@@ -335,7 +352,11 @@ ClH
 
 **Strong Pull**
 
-![Alt text](image5.png)
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image5.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 **Figure 8.6** Relative electronegativity of H and Cl
 
@@ -503,7 +524,11 @@ Gangue
 
 Froth floatation process for the concentration of sulphide ores.
 
-![Alt text](image7.png)
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image7.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 **Figure 8.9 Froth floatation**
 
@@ -675,8 +700,11 @@ Cryolite
 
 Molten aluminum
 
-![Alt text](image8.png)
-
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image8.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 **Figure 8.10** Hall's Process
 
@@ -1050,7 +1078,11 @@ Fe -> Fe2+ + 2e–
 
 Fe2+ (aq)
 
-![Alt text](image9.png)
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image9.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 **Figure 8.12** Rusting
 
@@ -1085,7 +1117,11 @@ coating zinc on iron sheets by using electric current.
 
 It is a railway bridge which connects the town of Rameshwaram on Pamban Island to mainland India. Opened on 1914, it was India’s first sea bridge in India until the opening of the BandraWorli Sea Link in 2010. We can control the corrosion and renovation of historical pamban bridge by a periodical protective coating which will be the strong example for applied chemistry to uphold our history.
 
-![Alt text](image10.png)
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image10.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 **Figure 8.12** Pamban Bridge
 
@@ -1290,8 +1326,11 @@ Sulphide ore
 
 **CONCEPT MAP**
 
-![Alt text](image11.png)
-
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image11.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 
 
