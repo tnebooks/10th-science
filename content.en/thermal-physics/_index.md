@@ -31,9 +31,7 @@ $$  0 K = –273°C. $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Two or more physical systems or bodies are said to be in thermal equilibrium if there is no net flow of thermal energy between the systems._ Heat energy always flows from one body to the other due to a temperature difference between them. Thus, you can define thermal equilibrium in another way. If two bodies are said to be in thermal equilibrium, then, they will be at the same temperature. What will happen if two bodies at different temperatures are brought in contact with one other? There will be a transfer of heat energy from the hot body to the cold body until a thermal equilibrium is established between them. This is depicted in Figure 3.1.
 
-<p align="center">
-  <img src="image.png" alt="Alt Text">
-</p>
+![alt text](image.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When a cold body is placed in contact with a hot body, some thermal energy is transferred from the hot body to the cold body. As a result, there is some rise in the temperature of the cold body and decrease in the temperature of the hot body. This process will continue until these two bodies attain the same temperature.
 
@@ -104,9 +102,7 @@ milk to the environment. In the second case, the energy is transferred from the 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ratio of increase in length of the body per degree rise in temperature to its unit length is called as the **coefficient of linear expansion.** The SI unit of Coefficient of Linear expansion is K<sup>-1</sup>. The value of coefficient of linear expansion is different for different materials.
 
-<p align="center">
-  <img src="image-1.png" alt="Alt Text">
-</p>
+![alt text](image-1.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The equation relating the change in length and the change in temperature of a body is given below:
 
@@ -130,9 +126,7 @@ L<sub>o</sub> - Original length
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The equation relating to the changein area and the change in temperature is given below:
 
-<p align="center">
-  <img src="image-2.png" alt="Alt Text">
-</p>
+![alt text](image-2.png)
 
 $$ \frac{\Delta A}{A_{0}} = \alpha_{A}\Delta T $$
 
@@ -148,9 +142,7 @@ A<sub>o</sub> - Original area ∆T - Change in temperature (Final temperature - 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As in the cases of linear and areal expansion, cubical expansion is also expressed in terms of coefficient of cubical expansion. The ratio of increase in volume of the body per degree rise in temperature to its unit volume is called as **coefficient of cubical expansion.** This is also measured in K<sup>-1</sup>.
 
-<p align="center">
-  <img src="image-3.png" alt="Alt Text">
-</p>
+![alt text](image-3.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The equation relating to the change in volume and the change in temperature is given below:
 
@@ -167,7 +159,7 @@ V<sub>o</sub> - Original volume ∆T - Change in temperature (Final temperature 
 
 ### Table 3.1 Coefficient of cubical expansion of some materials
 
-<p align="center"></p>
+
 
 | S.No |Name of the material |Coefficient of cubic expansion (K<sup>–1</sup>) |
 |------|------|------|
@@ -202,9 +194,7 @@ V<sub>o</sub> - Original volume ∆T - Change in temperature (Final temperature 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On further heating, the thermal energy supplied to the liquid through the container results in the expansion of the liquid. Hence, the level of liquid rises to L<sub>3</sub>. Now, the difference between the levels L<sub>1</sub> and L<sub>3</sub> is called as **apparent expansion,** and the difference between the levels L<sub>2</sub> and L<sub>3</sub> is called **real expansion.** The real expansion is always more than that of apparent expansion.
 
-<p align="center">
-  <img src="image-4.png" alt="Alt Text">
-</p>
+![alt text](image-4.png)
 
 ##  FUNDAMENTAL LAWS OF GASES
 
@@ -223,9 +213,7 @@ This is shown in Figure 3.6.
 $$ P \, α \,1/V $$
 
 
-<p align="center">
-  <img src="image-5.png" alt="Alt Text">
-</p>
+![alt text](image-5.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In other words, for an invariable mass of a perfect gas, at constant temperature, the product of its pressure and volume is a constant.
 
@@ -270,51 +258,43 @@ $$ \text{(or)} \frac{V}{n} = \text{constant} $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ideal gas equation is an equation, which relates all the properties of an ideal gas. An ideal gas obeys Boyle’s law and Charles’ law and Avogadro’s law. According to Boyle’s law,
 
-<p  style="font-style: italic;">
-
 $$ \text{PV = constant  (3.1)} $$ 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to Charles’s law,
-<p  style="font-style: italic;">
+
 
 $$ \text{V/T = constant  (3.2)} $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to Avogadro’s law,
-<p  style="font-style: italic;">
+
 
 $$ \text {V/n = constant (3.3)} $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After combining equations (3.1), (3.2) and (3.3), you can get the following equation.
-<p  style="font-style: italic;"></p>
+
 
 $$ \text{PV/nT = constant (3.4)} $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The above relation is called the combined law of gases. If you consider a gas, which contains µ moles of the gas, the number of atoms contained will be equal to µ times the Avogadro number, N<sub>A</sub>
 
-<p style="font-style: italic;"></p>
+
 
  $$ i.e. \, \, \,  \, \, n = µN_A. (3.5) $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using equation (3.5), equation (3.4) can be written as
-<p  style="font-style: italic;"></p>
+
 
 $$ PV/ µN_AT = constant $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The value of the constant in the above equation is taken to be kB, which is called as **Boltzmann constant (1.38 × 10<sup>–23</sup> JK<sup>–1</sup>).** Hence, we have the following equation:
-<p style="font-style: italic;"></p>
 
  $$ PV/ µN_AT = k_B $$
-
-<p  style="font-style: italic;"></p>
 
 $$ PV = µN_Ak_BT $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here, _µN<sub>A</sub>k<sub>B</sub> = R,_ which is termed as universal gas constant whose value is
-<p style="font-style: italic;"></p>
 
 $$ 8.31 \, \text{J mol}^{−1} \, \text{K}^{−1}. $$
-
-<p style="font-style: italic;"></p>
 
 $$ \text{PV = RT \, (3.6)} $$
 
@@ -324,14 +304,14 @@ $$ \text{PV = RT \, (3.6)} $$
 
 ## Points to Remember
 
-<span style="font-size: 1em;color:#663300;">&#9670;</span> The SI unit of heat energy absorbed or evolved is joule (J) 
+- The SI unit of heat energy absorbed or evolved is joule (J) 
 
-<span style="font-size: 1em;color:#663300;">&#9670;</span> Heat always flows from a system at higher
+- Heat always flows from a system at higher
 temperature to a system at lower temperature. 
 
-<span style="font-size: 1em;color:#663300;">&#9670;</span> **Temperature** is defined as the degree of hotness of a body. The SI unit of temperature is kelvin (K).
+- **Temperature** is defined as the degree of hotness of a body. The SI unit of temperature is kelvin (K).
 
-<span style="font-size: 1em;color:#663300;">&#9670;</span> All the substances will undergo one or more of the following changes when heated:
+- All the substances will undergo one or more of the following changes when heated:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i) Temperature of the substance rises. 
 
@@ -339,15 +319,15 @@ temperature to a system at lower temperature.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii) The substance will expand when heated.
 
-<span style="font-size: 1em;color:#663300;">&#9670;</span> All forms of matter (solid, liquid and gas) undergo expansion on heating. 
+- All forms of matter (solid, liquid and gas) undergo expansion on heating. 
 
-<span style="font-size: 1em;color:#663300;">&#9670;</span> For a given rise in temperature, a liquid will have more expansion than a solid and a gaseous substance has the highest expansion than the other two. 
+- For a given rise in temperature, a liquid will have more expansion than a solid and a gaseous substance has the highest expansion than the other two. 
 
-<span style="font-size: 1em;color:#663300;">&#9670;</span> If a liquid is heated directly without using any container, then the expansion that you observe is termed as **real expansion** of the liquid.
+- If a liquid is heated directly without using any container, then the expansion that you observe is termed as **real expansion** of the liquid.
 
-<span style="font-size: 1em;color:#663300;">&#9670;</span> The expansion of a liquid apparentl observed without considering the expansion of the container is called the **apparent expansion** of liquid. 
+- The expansion of a liquid apparentl observed without considering the expansion of the container is called the **apparent expansion** of liquid. 
 
-<span style="font-size: 1em;color:#663300;">&#9670;</span> For a given heat energy, the real expansion is always more than that of apparent expansion. ™ If the atoms or molecules of a gas do not interact with each other, then the gas is said to be an **ideal gas** or a **perfect gas**. ™ Ideal gas equation, also called as equation of state is PV = RT. Here, R is known as universal gas constant whose value is 8.31 J mol<sup>−1</sup>K<sup>−1</sup>
+- For a given heat energy, the real expansion is always more than that of apparent expansion. ™ If the atoms or molecules of a gas do not interact with each other, then the gas is said to be an **ideal gas** or a **perfect gas**. ™ Ideal gas equation, also called as equation of state is PV = RT. Here, R is known as universal gas constant whose value is 8.31 J mol<sup>−1</sup>K<sup>−1</sup>
 
 ##  Solved Problems 
 
