@@ -3,12 +3,10 @@ title: 'CARBON AND ITS COMPOUND'
 weight: 11
 ---
 
-<!-- <div align="center">
-  <img src="1.png"/>
-</div>  -->
-![Picture4](./1.png)
-<!-- UNIT 11
-CARBON AND ITS COMPOUNDS -->
+![Picture1](./Picture1.png)  
+UNIT 11
+
+CARBON AND ITS COMPOUNDS
 
 **INTRODUCTION**
 
@@ -164,10 +162,9 @@ H2C CH2
 
 CH2
 
-<!-- <div align="center">
+<div align="center">
   <img src="2.png"/>
-</div> -->
-![Picture4](./2.png)
+</div>
 
 **Figure 11.1 depicts the classification of organic compounds based on the pattern of carbon arrangements and their bonding in organic compounds:**
 
@@ -240,7 +237,7 @@ Pentyne (C5H8) -->
 |:-----------------------:|:----------------------:|:------------------:|:----------------------:|
 |            1            |      Methane (CH4)     |          -         |            -           |
 |            2            |      Methane (CH4)     |    Ethene (C2H4)   |      Ethyne (C2H2)     |
-|            3            |     Propane (C3H8)     |   Propene (C3H6)   |     Propyne (C3H4)     |
+|            3            |     Propane (C3H8)     |   Propene (C3H6)   |     Propyne (C3H4`)     |
 |            4            |     Butane (C4H10)     |    Butene (C4H8)   |      Butyne (C4H6)     |
 |            5            |     Pentane (C5H12)    |   Pentene (C5H10)  |     Pentyne (C5H8)     |
 
@@ -340,10 +337,10 @@ ALKENE Will react with bromine water, and as such also
 decolourises bromine water -->
 
 
-<!-- <div align="center">
+<div align="center">
   <img src="3.png"/>
-</div> -->
-![Picture4](./3.png)
+</div>
+
 
 **Figure 11.2** Test to identify unsaturated compounds
 
@@ -777,7 +774,7 @@ Obtain the IUPAC name of the following compounds systematically:
 **Table 11.6 lists IUPAC names homologs of various classes of organic compounds**
 
 
-<!-- <table style="width:100%">
+<table style="width:100%">
   <tr>
     <th rowspan="2"><center>No. of
 carbons
@@ -848,16 +845,8 @@ atoms</th>
     <td><center>Pentanoic acid
 (CH3CH2CH2CH2 COOH)</td>
   </tr>
-</table> -->
+</table>
 
-| No. of carbons atoms | IUPAC Name |     |     |     |
-| --- | --- | --- | --- | --- |
-| **Alcohols** | **Aldehydes** | **Ketones** | **Carboxylic acid** |
-| 1   | Methanol (CH3OH) | Methanal (HCHO) | -   | Methanoic acid (HCOOH) |
-| 2   | Ethanol (CH3CH2OH) | Ethanal (CH3CHO) | -   | Ethanoic acid (CH3COOH) |
-| 3   | Propanol (CH3CH2-CH2OH) | Propanal (CH3CH2CHO) | Propanone (CH3COCH3) | Propanoic acid (CH3CH2COOH) |
-| 4   | Butanol (CH3CH2CH2CH2OH) | Butanal (CH3CH2CH2CHO) | Butanone (CH3COCH2CH3) | Butanoic acid (CH3CH2CH2COOH) |
-| 5   | Pentanol (CH3CH2CH2CH2 CH2OH) | Pentanal (CH3CH2CH2CH2 CHO) | Pentanone (CH3COCH2CH2 CH3) | Pentanoic acid (CH3CH2CH2CH2 COOH) |
   
 
 163 **Carbon and its Compounds**
@@ -1336,11 +1325,11 @@ Dirt
 
 Dirty cloth -->
 
-<!-- <div align="center">
+<div align="center">
   <img src="4.png"/>
-</div> -->
+</div>
 
-![Picture4](./4.png)
+<!-- ![Picture4](./4.png) -->
 
 **Figure 11.3** Cleansing action of soap
 
@@ -1424,10 +1413,10 @@ Soaps are biodegradable. Most of the detergents are non-biodegradable.
 
 **Have you noticed the term
 "TFM" in soap**
-<!-- <div align="center">
+<div align="center">
   <img src="5.png"/>
-</div> -->
-![Picture4](./5.png)
+</div>
+<!-- ![Picture4](./5.png) -->
 ***TFM means*** TOTAL FATTY MATTER.
 It is the one of the important factors to be
 considered to assess the quality of soap. A
@@ -1650,10 +1639,10 @@ URL: https://play.google.com/store/apps/details?id=com.budgietainment.oc or Scan
 
 **Concept Map**
 
-<!-- <div align="center">
+<div align="center">
   <img src="6.png"/>
-</div> -->
-![Picture4](./6.png)
+</div>
+<!-- ![Picture4](./6.png) -->
 
 **ICT CORNER Organic Carbon and its Compounds**
 
