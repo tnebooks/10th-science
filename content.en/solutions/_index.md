@@ -471,3 +471,192 @@ given temperature is called _______
     c. Super saturated solution
 
     d. Dilute solution
+
+5. Identify the non aqueous solution.
+
+    a. sodium chloride in water
+
+    b. glucose in water
+
+    c. copper sulphate in water
+
+    d. sulphur in carbon-di-sulphide
+    
+6. When pressure is increased at constant
+temperature the solubility of gases in liquid
+___________.
+    
+    a. No change &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. increases
+
+    c. decreases &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d. no reaction
+
+7. Solubility of NaCl in 100 ml water is 36 g.
+If 25 g of salt is dissolved in 100 ml of
+water how much more salt is required for
+saturation _____________.
+
+    a. 12g &nbsp; &nbsp;b. 11g &nbsp; &nbsp; c. 16g &nbsp; &nbsp; d. 20g
+
+8. A 25% alcohol solution means
+
+    a. 25 ml alcohol in 100 ml of water
+
+    b. 25 ml alcohol in 25 ml of water
+
+    c. 25 ml alcohol in 75 ml of water
+
+    d. 75 ml alcohol in 25 ml of water
+
+9. Deliquescence is due to __________
+
+    a. Strong affinity to water
+
+    b. Less affinity to water
+
+    c. Strong hatred to water
+
+    d. Inertness to water
+
+10. Which of the following is hygroscopic in
+nature?
+
+    a. ferric chloride
+
+    b. copper sulphate penta hydrate
+
+    c. silica gel
+
+    d. none of the above
+
+<span style="color: red;">II. Fill in the blanks</span>
+
+1. The component present in lesser amount, in
+a solution is called _______
+
+2. Example for liquid in solid type solution is_____
+
+3. Solubility is the amount of solute dissolved in _____ g of solvent.
+
+4. Polar compounds are soluble in _____
+solvents
+
+5. Volume persentage decreases with increases
+in temperature because _____
+
+<span style="color: red;">III. Match the following</span>
+
+1. Blue vitriol – CaSO<sub>4</sub>
+.2H<sub>2</sub>O
+2. Gypsum – CaO
+3. Deliquescence – CuSO<sub>4</sub>
+.5H<sub>2</sub>O
+4. Hygroscopic – NaOH
+
+<span style="color: red;">IV. True or False: (If false give the correct statement)</span>
+
+1. Solutions which contain three components
+are called binary solution.
+
+2. In a solution the component which is present in lesser amount is called solvent.
+
+3. Sodium chloride dissolved in water forms a
+non-aqueous solution.
+
+4. The molecular formula of green vitriol is
+MgSO<sub>4</sub>.7H<sub>2</sub>O
+
+5. When Silica gel is kept open, it absorbs
+moisture from the air, because it is
+hygroscopic in nature
+
+<span style="color: red;">V. Short answer</span>
+
+1. Define the term: Solution
+
+2. What is mean by binary solution
+
+3. Give an example each i) gas in liquid
+ii) solid in liquid iii) solid in solid
+iv) gas in gas
+
+4. What is aqueous and non-aqueous solution?
+Give an example.
+
+5. Define Volume percentage
+
+6. The aquatic animals live more in cold region Why?
+
+7. Define Hydrated salt.
+
+8. A hot saturated solution of copper sulphate
+forms crystals as it cools. Why?
+
+9. Classify the following substances into
+deliquescent, hygroscopic. Conc. Sulphuric acid, Copper sulphate penta hydrate, Silica gel, Calcium chloride, and Gypsum salt.
+
+
+<span style="color: red;">VI. Long answer:</span>
+
+1. Write notes on i) saturated solution
+ii) unsaturated solution
+
+2. Write notes on various factors affecting
+solubility.
+
+3. a) What happens when MgSO<sub>4</sub>
+.7H<sub>2</sub>O is heated? Write the appropriate equation
+b) Define solubility
+
+4. In what way hygroscopic substances differ
+from deliquescent substances.
+
+5. A solution is prepared by dissolving 45 g of sugar in 180 g of water. Calculate the mass
+percentage of solute.
+
+6. 3.5 litres of ethanol is present in 15 litres of aqueous solution of ethanol. Calculate volume percent of ethanol solution.
+
+
+<span style="color: red;">VII. HOTS</span>
+
+1. Vinu dissolves 50 g of sugar in 250 ml of hot water, Sarath dissolves 50 g of same sugar
+in 250 ml of cold water. Who will get faster
+dissolution of sugar? and Why?
+
+2. 'A' is a blue coloured crystaline salt. On
+heating it loses blue colour and to give 'B'.
+When water is added, 'B' gives back to 'A'.
+Identify A and B, write the equation.
+
+3. Will the cool drinks give more fizz at top of the hills or at the foot? Explain
+
+
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="ReferenceBook.png" alt="text" width="400">
+</div>
+
+1. Properties Liquids Solutions John Murrell
+2nd Edition.
+
+2. Fundamental Interrelationships Between
+Certain Soluble Salts and Soil Colloids
+(Classic Reprint) Hardcover, by Leslie
+Theodore Sharp
+
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="Internet Resource.png" alt="text" width="400">
+</div>
+
+1. https://www.cwcboe.org/cms/lib/NJ01001185/Centricity/Domain/203/Solutions%20Suspensions%20and%20Colloids.pdf
+
+
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="Concept Map.png" alt="text" width="400">
+</div>
+
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="ICT Corner.png" alt="text" width="400">
+</div>
