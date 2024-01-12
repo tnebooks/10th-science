@@ -13,15 +13,7 @@ To provide the correct response to a stimulus, it is necessary that all the orga
 ![](image2.png)
 
 
-The nervous system is made up of nervous tissues. It is formed of three distinct components namely the neurons, neuroglia and nerve fibres.
-
-**Learning Objectives**
-
-At the end of the lesson the students will be able to : ‹‹ Admire nervous system as the control and coordinating centre of the
-
-body. ‹‹ Learn the components of the nervous system. ‹‹ Analyse the transmission of nerve impulses. ‹‹ Understand the divisions of human nervous system. ‹‹ Interpret the different sections of brain which handle different functions. ‹‹ Know the significance of reflex action and its operative pathway.
-
->NERVOUS SYSTEM
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The nervous system is made up of nervous tissues. It is formed of three distinct components namely the neurons, neuroglia and nerve fibres.
 
 (i) **Neuron or nerve cell:** A neuron or nerve cell is the structural and functional unit of the nervous system. It is the longest cell of the human body with a length of over 100mm. These cells are highly specialised to detect, receive and transmit different kinds of stimuli. Information is conducted through neurons in the form of electrical impulses from one part of the body to another.
 
@@ -29,10 +21,10 @@ body. ‹‹ Learn the components of the nervous system. ‹‹ Analyse the tran
 
 (iii) Nerve fibres: The nerve fibres are the long slender processes of neurons. A number of nerve fibres are bundled up together to form **nerves**.
 
-### Structure of Neuron
+>### Structure of Neuron
 
 
-A neuron typically consists of three basic parts: Cyton, Dendrites and Axon.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A neuron typically consists of three basic parts: Cyton, Dendrites and Axon.
 ![](image3.png)
 
 <!-- Cyton -->
@@ -45,9 +37,9 @@ A neuron typically consists of three basic parts: Cyton, Dendrites and Axon.
 **Synapse:** A junction between synaptic knob of axon of one neuron and dendron of next neuron is called **synaptic junction**. Information from one neuron can pass to another neuron through these junctions with the release of chemicals known as neurotransmitters from the synaptic knob.
 ![](image18.png)
 
-### Types of Neurons
+>### Types of Neurons
 
-The neurons may be of different types based on their structure and functions.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The neurons may be of different types based on their structure and functions.
 
 <!-- (A)
 
@@ -85,9 +77,7 @@ impulses from the sense organ to the central nervous system.
 (iii) **Association neurons** conduct impulses between sensory and motor neurons.
 
 ### Types of Nerve Fibres
-
-
-Nerve fibres are of two types based on the presence or absence of myelin sheath. (i) Myelinated nerve fibre: The axon is
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nerve fibres are of two types based on the presence or absence of myelin sheath. (i) Myelinated nerve fibre: The axon is
 
 covered with myelin sheath (ii) Non-myelinated nerve fibre: The axon is
 
@@ -95,10 +85,9 @@ not covered by myelin sheath.
 
 Myelinated and non-myelinated nerve fibres form the white matter and grey matter of the brain.
 
-## Transmission of Nerve Impulse
+>## Transmission of Nerve Impulse
 
-
-All the information from the environment are detected by the receptors located in our sense organs such as the eyes, the nose, the skin etc. Information from the receptors is transmitted as **electrical impulse** and is received by the dendritic tips of the neuron. This impulse travels from the dendrite to the cell body and then along the axon to its terminal end. On reaching the axonal end, it causes the nerve endings to release a chemical (neurotransmitter) which diffuses across a synapse and starts a similar electrical impulse in the dendrites of the next neuron, then to their cell body to be carried along the axon.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All the information from the environment are detected by the receptors located in our sense organs such as the eyes, the nose, the skin etc. Information from the receptors is transmitted as **electrical impulse** and is received by the dendritic tips of the neuron. This impulse travels from the dendrite to the cell body and then along the axon to its terminal end. On reaching the axonal end, it causes the nerve endings to release a chemical (neurotransmitter) which diffuses across a synapse and starts a similar electrical impulse in the dendrites of the next neuron, then to their cell body to be carried along the axon.
 
 In this way, the electrical signal reaches the brain or spinal cord. The response from brain (or spinal cord) is similarly passed on to the effector organs such as the muscle or gland cell, that undergoes the desired response.
 
@@ -112,28 +101,21 @@ The flow of nerve impulses from axonal end of one neuron to dendrite of another 
 ten thousands of synaptic contacts with other neurons. -->
  ![](image6.png)
 
-### Neurotransmitters
+>### Neurotransmitters
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neurotransmitters are the chemicals which allow the transmission of nerve impulse from the axon terminal of one neuron to the dendron of another neuron or to an effector **organ. The important neurotransmitter** released by neurons is called **Acetylcholine**.
 
+>## Human Nervous System
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The complexity of nervous system can be observed during the course of evolution. We the human beings differ from other animals in our ability to think and take actions, which is due to the well developed nervous system. Human nervous system is differentiated into **central nervous system (CNS), peripheral nervous system (PNS)** and **autonomic nervous system (ANS).**
 
-Neurotransmitters are the chemicals which allow the transmission of nerve impulse from the axon terminal of one neuron to the dendron of another neuron or to an effector **organ. The important neurotransmitter** released by neurons is called **Acetylcholine**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CNS acts as centre for information processing and control. It consists of the brain and the spinal cord. The PNS is made up of the nerves which connect the brain and spinal cord to all parts of the body. The ANS is formed of sympathetic and parasympathetic nerves.
 
-## Human Nervous System
-
-
-The complexity of nervous system can be observed during the course of evolution. We the human beings differ from other animals in our ability to think and take actions, which is due to the well developed nervous system. Human nervous system is differentiated into **central nervous system (CNS), peripheral nervous system (PNS)** and **autonomic nervous system (ANS).**
-
-The CNS acts as centre for information processing and control. It consists of the brain and the spinal cord. The PNS is made up of the nerves which connect the brain and spinal cord to all parts of the body. The ANS is formed of sympathetic and parasympathetic nerves.
-
-### Central Nervous System
-
-
-The brain and the spinal cord being delicate vital structures are well protected in bony cavities of the skull and the vertebral column respectively. CNS is formed of two types of matter such as white matter or grey matter with respect to the presence or absence of myelin sheath which we have discussed earlier.
+>### Central Nervous System
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The brain and the spinal cord being delicate vital structures are well protected in bony cavities of the skull and the vertebral column respectively. CNS is formed of two types of matter such as white matter or grey matter with respect to the presence or absence of myelin sheath which we have discussed earlier.
 
 <!-- **Fig. 15.4** Meninges of Brain -->
 ![](image7.png)
 
-
-The brain is the controlling centre of all the body activities. It is covered by three connective tissue membrane or **meninges** : (i) **Duramater** (_dura:_ tough; _mater_:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The brain is the controlling centre of all the body activities. It is covered by three connective tissue membrane or **meninges** : (i) **Duramater** (_dura:_ tough; _mater_:
 
 membrane)is the outermost thick fibrous membrane
 
@@ -177,96 +159,73 @@ Corpus callosum -->
 
 **Forebrain: The forebrain is formed** of cerebrum and diencephalon. The latter consists of dorsal _thalamus_ and ventral _hypothalamus_.
 
-**Cerebrum**
+>**Cerebrum**
 
-It is the largest portion forming nearly two- third of the brain. The cerebrum is longitudinally divided into two halves as right and left cerebral **hemispheres by a deep cleft called median cleft.** Two cerebral hemispheres are interconnected by thick band of nerve fibres called corpus **callosum. The outer portion of each cerebral** hemisphere is formed of grey matter and is called cerebral cortex. The inner or deeper part is formed of white matter and is called **cerebral medulla. The cortex is extremely folded forming** elevations called **gyri** with depressions between them termed as **sulci** that increase its surface area.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is the largest portion forming nearly two- third of the brain. The cerebrum is longitudinally divided into two halves as right and left cerebral **hemispheres by a deep cleft called median cleft.** Two cerebral hemispheres are interconnected by thick band of nerve fibres called corpus **callosum. The outer portion of each cerebral** hemisphere is formed of grey matter and is called cerebral cortex. The inner or deeper part is formed of white matter and is called **cerebral medulla. The cortex is extremely folded forming** elevations called **gyri** with depressions between them termed as **sulci** that increase its surface area.
 
-Each cerebral hemisphere is divisble into a frontal lobe, a parietal lobe, a temporal lobe and an occipital lobe. These lobes are also known as **cerebral lobes** and are associated with specific functions. Any damage in specific lobe inturn affects its function.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each cerebral hemisphere is divisble into a frontal lobe, a parietal lobe, a temporal lobe and an occipital lobe. These lobes are also known as **cerebral lobes** and are associated with specific functions. Any damage in specific lobe inturn affects its function.
 
-The cerebrum is responsible for the thinking, intelligence, consciousness, memory, imagination, reasoning and willpower.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cerebrum is responsible for the thinking, intelligence, consciousness, memory, imagination, reasoning and willpower.
 
-**Thalamus** Thalamus present in cerebral medulla
+>**Thalamus**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thalamus present in cerebral medulla
 is a major conducting centre for sensory and motor signalling. It acts as a **relay centre.**
 
-**Hypothalamus** It lies at the base of the thalamus. It
+>**Hypothalamus** 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It lies at the base of the thalamus. It
 controls involuntary functions like hunger, thirst, sleep, sweating, sexual desire, anger, fear, water balance, blood pressure etc. It acts as a **thermoregulatory** (temperature control) **center** of the body. It controls the secretion of hormones from anterior pituitary gland and is an important link between nervous system and endocrine system.
 
-**Midbrain** It is located between thalamus and hind
+>**Midbrain** 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is located between thalamus and hind
 brain. The dorsal portion of the mid brain consists of four rounded bodies called **corpora quadrigemina** that control visual and auditory (hearing) reflexes.
 
-**Hindbrain** It is formed of three parts **cerebellum,**
+>**Hindbrain** 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is formed of three parts **cerebellum,**
 **pons** and **medulla oblongata**.
-
-<!-- The human brain constitutes nearly 60 percent of fat. The most crucial molecules
-
-that determine our brain’s integrity and the ability are Essential Fatty Acids (EFAs). EFAs cannot be synthesised and must be obtained from food. Fish, green leafy vegetables, almond, walnut are rich sources of EFAs. -->
 ![](image10.png)  
 
-**Cerebellum** It is second largest part of the brain formed
+**Cerebellum** 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is second largest part of the brain formed
 of two large sized hemispheres and middle vermis. It coordinates voluntary movements and also maintains body balance.
 
-**Pons** ‘_Pons_’ a latin word meaning bridge. It is
+**Pons**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘_Pons_’ a latin word meaning bridge. It is
 a bridge of nerve fibre that connects the lobes of cerebellum. It relay signals between the cerebellum, spinal cord, midbrain and cerebrum. It controls respiration and sleep cycle.
 
-**Medulla Oblongata** Medulla oblongata is the posterior most
+**Medulla Oblongata** 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Medulla oblongata is the posterior most
 part of the brain that connects spinal cord and various parts of brain. It has cardiac centres, respiratory centres, vasomotor centres to control heart beat, respiration and contractions of blood vessels respectively. It also regulates vomiting and salivation.
 ![](image12.png)
-
-<!-- **Table 15.1** Overview of brain functions
-
-**Structure Functions**
-
-Cerebral cortex Sensory preception, control of voulntary functions, language, thinking, memory, decision making, creativity
-
-Thalamus Acts as relay station
-
-Hypothalamus Temperature control, thirst, hunger, urination, important link between nervous system and endocrine glands
-
-Cerebellum Maintenance of posture and balance,coordinate voluntary muscle activity
-
-Pons and medulla
-
-Role in sleep-awake cycle, cardiovascular, respiratory and digestive control centers -->
 
 ![](image11.png)
 
 **Spinal Cord** 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spinal cord is a cylindrical structure lying in the neural canal of the vertebral column. It is also covered by meninges. It extends from the lower end of medulla oblongata to the first lumbar vertebra. The posterior most region of spinal cord tapers into a thin fibrous thread like structure called **filum terminale.**
 
 Internally, the spinal cord contains a cerebrospinal fluid filled cavity known as the **central canal. The grey matter of spinal cord is** ‘H’ shaped. The upper end of letter ‘H” forms **posterior horns** and lower end forms **anterior horns. A bundle of fibres pass into the posterior** horn forming dorsal or afferent root. Fibres pass outward from the anterior horn forming **ventral or efferent root. These two roots joins** to form spinal nerves. The white matter is external and have bundle of nerve tracts. Spinal cord conducts sensory and motor impulses to and from the brain. It controls reflex actions of the body.
 
 ![](iamge13.png)
-<!-- **More to Know**
 
-Electroencephalogram (EEG) is an instrument which records the electrical impulses of brain. An EEG can detect abnormalities in the brain waves and help in diagnoses of seizures, epilepsy, brain tumors, head injuries,etc.
-
-10th\_Science Unit-15.indd 223 06-12-2021 18:40:48 -->
 ## Cerebrospinal Fluid
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The brain is suspended in a special fluid environment called cerebrospinal fluid (CSF). It is lymph like, watery fluid that surrounds and protects the brain within the skull. It also fills the central canal of the spinal cord.
 
-The brain is suspended in a special fluid environment called cerebrospinal fluid (CSF). It is lymph like, watery fluid that surrounds and protects the brain within the skull. It also fills the central canal of the spinal cord.
-
-**Functions:** (i) It acts as shock absorbing fluid and
-
-protects the brain from damage when it is subjected to sudden jerk.
+**Functions:** (i) It acts as shock absorbing fluid and protects the brain from damage when it is subjected to sudden jerk.
 
 (ii) It supplies nutrients to the brain. (iii) It collects and removes wastes from the
-
-brain. (iv) It is also responsible for maintaining a
-
-constant pressure inside the cranium.
+brain. (iv) It is also responsible for maintaining a constant pressure inside the cranium.
 
 ##  Reflex Action
 
-
-A reflex is any response that occurs automatically without consciouness. There are two types of reflexes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reflex is any response that occurs automatically without consciouness. There are two types of reflexes.
 
 (i) **Simple or basic reflexes**: These reflexes are inbuilt and unlearned responses. Many of the actions we perform in our day to day life are simple reflexes. e.g., winking of eyes when any dust particles enters, sneezing, coughing, yawning, etc. We perform these actions without thinking.
 
@@ -290,45 +249,24 @@ In this example, muscle is an effector organ which has responded to the heat. Yo
 
 ## Peripheral Nervous System
 
-
-Peripheral nervous system is formed by the nerves arising from the brain and the spinal cord. The nerves arising from the brain
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peripheral nervous system is formed by the nerves arising from the brain and the spinal cord. The nerves arising from the brain
 ![](image15.png)
 are called **cranial nerves**. Nerves arising from spinal cord are called **spinal nerves**.
 
 **Cranial Nerves**
+
 &nbsp;&nbsp;&nbsp;&nbsp;In man, there are **12 pairs** of cranial nerves. Some of the cranial nerves are sensory e.g. optic nerve which innervates the eye. Some are motor nerves which helps in rotation of eyeball. It also innervates the eye muscles, muscles of iris and tear gland.
 
 **Spinal Nerves** 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are 31 pairs of spinal nerves. Each spinal 
 nerve has a dorsal sensory root and the ventral motor root. The direction of impulses in dorsal spinal root is towards the spinal cord and in ventral spinal root away from the spinal cord.
 
 ## Autonomic Nervous System
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Autonomic nervous system (ANS) is also called as visceral nervous system as it regulates the function of internal visceral organs of our body through its two antagonistic (opposite) components **sympathetic** and **parasympathetic systems. They enable the body to perform** rapid and specific visceral activities in order to maintain steady state. It controls the involuntary functions of the visceral organs.
 
-
-Autonomic nervous system (ANS) is also called as visceral nervous system as it regulates the function of internal visceral organs of our body through its two antagonistic (opposite) components **sympathetic** and **parasympathetic systems. They enable the body to perform** rapid and specific visceral activities in order to maintain steady state. It controls the involuntary functions of the visceral organs.
-
-<!-- **Fig. 15.8** Sympathetic and Parasympathetic nervous system -->
 ![](image16.png)
 
-<!-- **Activity 3**
-
-Use the letter and number code to decode the given information
-
-24 18 13 26 8 2 15 24 4 9 4 5 8 25 7
-
-19 1 15 21 1 9 8 7 22 2 7 18 23
-
-25 1 4 12 10 8 2 13 8 13 5 1 5
-
-_B Z_ 19 1 15 21 1 9 8 7 22 8 7 8 24 26
-
-1 9 1 15 12 23 24 9 18 7 3 23 12 1 9
-
-A B C D E F G H I J K L M
-
-24 2 21 18 1 22 12 10 4 16 14 26 20
-
-N O P Q R S T U V W X Y Z 9 7 19 6 15 5 8 13 11 25 3 23 0 -->
 ![](image17.png)
 
 **Points to Remember**
