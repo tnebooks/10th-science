@@ -1,8 +1,7 @@
 ---
 title: 'NUCLEAR PHYSICS'
 weight: 6
----
-```markdown
+
 # 6. NUCLEAR PHYSICS
 
 ## Learning Objectives
