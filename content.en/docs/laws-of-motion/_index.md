@@ -16,7 +16,7 @@ At the end of this lesson students will be able to:
 - Analyze weightlessness and the principle of conservation of momentum.
 - Explain the law of gravitation and its applications.
 - Understand the variations in 'g' due to height and depth.
-- Solve numerical problems related to force and motion
+- Solve numerical problems related to force and motion.
 
 ---
 
