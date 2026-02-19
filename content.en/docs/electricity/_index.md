@@ -3,8 +3,6 @@ title: 'ELECTRICITY'
 Weight: 4
 ---
 
-
-```markdown
 # Electricity
 
 ## Learning Objectives
