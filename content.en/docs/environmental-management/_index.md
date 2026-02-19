@@ -2,8 +2,6 @@
 title: 'ENVIRONMENTAL MANAGEMENT'
 weight: 22
 ---
-
-```
 # ENVIRONMENTAL MANAGEMENT
 
 ## Learning Objectives
