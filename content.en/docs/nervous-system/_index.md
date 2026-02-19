@@ -6,7 +6,7 @@ weight: 15
 
 ## Learning Objectives
 
-At the end of the lesson the students will be able to:
+At the end of the lesson the students will be able to: 
 - Admire nervous system as the control and coordinating centre of the body.
 - Learn the components of the nervous system.
 - Analyse the transmission of nerve impulses.
