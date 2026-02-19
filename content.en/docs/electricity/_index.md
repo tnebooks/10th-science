@@ -14,6 +14,11 @@ At the end of this lesson, students will be able to:
 - Understand the heating effect of the electric current.
 - Define electric power and electric energy and explain domestic electric circuits.
 - Know the modern appliances such as LED bulb and LED.
+++++++++++++++++++
+
+
+
+
 
 ---
 
