@@ -3,9 +3,6 @@ title: 'ACOUSTICS'
 weight: 5
 ---
 
-
-
-```markdown
 # 5. ACOUSTICS
 
 ## Learning Objectives
