@@ -1,8 +1,7 @@
 ---
 title: 'NUCLEAR PHYSICS'
 weight: 6
-
-# 6. NUCLEAR PHYSICS
+---
 
 ## Learning Objectives
 After learning this unit, students will be able to:
@@ -17,8 +16,6 @@ After learning this unit, students will be able to:
 - List the uses of radio activity.
 - Understand the components of a nuclear reactor.
 - Identify the precautionary measures while handling a radioactive material.
-
----
 
 ## INTRODUCTION
 

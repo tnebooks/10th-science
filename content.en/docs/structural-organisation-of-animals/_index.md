@@ -1,6 +1,7 @@
 ---
 title: 'STRUCTURAL ORGANISATION  OF ANIMALS'
 weight: 13
+---
 
 # STRUCTURAL ORGANISATION OF ANIMALS
 
@@ -23,7 +24,7 @@ The scientific name of the Indian cattle leech is **Hirudinaria granulosa** whic
 
 The scientific name of the common rabbit is **Oryctolagus cuniculus**. It represents Phylum Chordata and Class Mammalia. Mammals occupy the highest group in the animal kingdom and show advancement over the other groups of animals. They are warm blooded and possess covering of hair on the body. Mammary gland in females is the most striking feature of a mammal.
 
----
+
 
 # 13.1 The Indian Cattle Leech (Hirudinaria granulosa)
 
