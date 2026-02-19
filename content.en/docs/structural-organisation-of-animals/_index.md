@@ -2,7 +2,6 @@
 title: 'STRUCTURAL ORGANISATION  OF ANIMALS'
 weight: 13
 
-
 # STRUCTURAL ORGANISATION OF ANIMALS
 
 ## Learning Objectives
