@@ -71,11 +71,11 @@ _{4}\mathrm{Be}^{9} + _{2}\mathrm{He}^{4} \rightarrow _{6}\mathrm{C}^{13*} \righ
 {{< /katex >}}
 
 
-In the above nuclear reaction, $_{6}\mathrm{C}^{13*}$ is unstable and is radioactive. This reaction can be represented as (α,n).
+In the above nuclear reaction,{{< katex display=true >}} _{6}\mathrm{C}^{13*} {{< /katex >}}is unstable and is radioactive. This reaction can be represented as (α,n).
 
 ### 6.1.5 Units of Radioactivity
 
-**Curie:** It is the traditional unit of radioactivity. It is defined as the quantity of a radioactive substance which undergoes $3.7 \times 10^{10}$ disintegrations in one second. This is actually close to the activity of 1g of radium 226.
+**Curie:** It is the traditional unit of radioactivity. It is defined as the quantity of a radioactive substance which undergoes {{< katex display=true >}}3.7 \times 10^{10} {{< /katex >}}disintegrations in one second. This is actually close to the activity of 1g of radium 226.
 {{< katex display=true >}}
 1 \text{ curie} = 3.7 \times 10^{10} \text{ disintegrations per second}
 {{< /katex >}}
