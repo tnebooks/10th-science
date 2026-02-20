@@ -2,12 +2,14 @@
 title: 'TYPES OF CHEMICAL REACTIONS'
 weight: 10
 ---
+I'll convert the PDF content about "Types of Chemical Reactions" to Markdown format for you.
+
+---
+
 # 10 TYPES OF CHEMICAL REACTIONS
 
 ## Learning Objectives
-
 After completing this lesson learners will be able to:
-
 - Infer different types of chemical reaction.
 - Acquire knowledge about combination reaction and skill to perform a combination reaction using quick lime and water.
 - Identify and differentiate between reversible and irreversible reactions.
@@ -20,18 +22,25 @@ After completing this lesson learners will be able to:
 - Recognize the importance of pH in everyday life.
 - Explain the term ionic product of water.
 
+---
+
 ## INTRODUCTION
 
-As you know from your earlier studies, a chemical reaction involves breaking of old chemical bonds and formation of new chemical bonds. This change may happen spontaneously or it may be facilitated by external forces or energy. Chemistry is all about chemical reactions. In your day to day life, you could observe many chemical reactions. A clear understanding of these reactions is essential in order to manipulate them for the sake of human life and environment. So, chemistry mainly focuses on chemical reactions.
+As you know from your earlier studies, a chemical reaction involves breaking of old chemical bonds and formation of new chemical bonds. This change may happen spontaneously or it may be facilitated by external forces or energy. Chemistry is all about chemical reactions. In your day to day life, you could observe many chemical reactions. A clear understanding of these reactions is essential in order to manipulate them for the sake of human life and environment.
 
-Let us try to find the answer for the following questions:
-
+**Key questions:**
 - You need energy to play, walk, run or to perform various physical activities. Where do you get the energy from?
 - How do plants grow and get their food?
 - How does a car move using fuel?
 - Why does iron rust on its exposure to water or air?
 
-You get energy from the digestion of the food you eat. Plants grow by absorbing nutrients from the Earth and get their food by photosynthesis. The combustion of a fuel makes the car to move. Oxidation of iron causes rusting. So, all these processes are chemical changes i.e. the materials, which undergo changes are converted into some other new materials. For example, by burning petrol, the hydrocarbons present in it are converted into carbon dioxide and water. In this chapter, let us discuss the nature and types of chemical reactions.
+**Answers:**
+- You get energy from the digestion of the food you eat.
+- Plants grow by absorbing nutrients from the Earth and get their food by photosynthesis.
+- The combustion of a fuel makes the car to move.
+- Oxidation of iron causes rusting.
+
+All these processes are chemical changes i.e. the materials, which undergo changes are converted into some other new materials.
 
 ---
 
@@ -41,40 +50,43 @@ You get energy from the digestion of the food you eat. Plants grow by absorbing 
 - Old chemical bonds between atoms are broken and new chemical bonds are formed.
 - Bond breaking absorbs energy whereas bond formation releases energy.
 
+---
+
 ## How are chemical reactions represented?
 
-When methane reacts with oxygen, it forms carbon dioxide and water. It can be written as a word equation as shown below:
+When methane reacts with oxygen, it forms carbon dioxide and water.
 
-**Methane + Oxygen → Carbon dioxide + Water**
+**Word equation:**
+> Methane + Oxygen → Carbon dioxide + Water
 
-But, this equation does not give the chemical composition of the reactants and products. So, to learn the characteristics of a chemical reaction, it is represented by a chemical equation. In the chemical equation, the chemicals of the reaction are represented by their chemical formulas. The compounds or elements, which undergo reactions (reactants) are shown to the left of an arrow and the compounds formed (products) are shown to the right of the arrow. The arrow indicates the direction of the reaction.
+**Chemical equation:**
+```
+CH₄ + O₂ → CO₂ + H₂O
+```
 
-$$\text{CH}_4 + \text{O}_2 \rightarrow \text{CO}_2 + \text{H}_2\text{O}$$
+**Balanced chemical equation:**
+```
+CH₄ + 2O₂ → CO₂ + 2H₂O
+```
 
-But, this is also an incomplete chemical equation. Because, the law of conservation of matter states that matter cannot be created or destroyed. You cannot create new atoms by a chemical reaction. In contrast, they are rearranged in different ways by a chemical reaction to form a new compound. So, in a chemical equation, the number of atoms of the reactants and that of the products must be equal.
+With physical states:
+```
+CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)
+```
 
-On balancing the number of atoms, the following equation can be obtained:
+### Physical State Symbols
 
-$$\text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O}$$
+| Symbol | Phase or Physical State |
+|--------|------------------------|
+| s | Solid |
+| l | Liquid |
+| g | Gas |
+| aq | Aqueous Solution |
 
-Further, the chemical equation provides information on the physical state of the substances and the conditions under which the reaction takes place.
-
-$$\text{CH}_{4(g)} + 2\text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + 2\text{H}_2\text{O}_{(g)}$$
-
-**A balanced chemical equation** is the simplified representation of a chemical reaction which describes the chemical composition, physical state of the reactants and the products, and the reaction conditions.
-
-> **MORE TO KNOW**
-> 
-> The phases or the physical state of the substances in a chemical reaction are denoted in short form within a bracket, as the subscript of the formula, of the respective substances.
-> 
-> | Symbol | Phase or physical state |
-> |:---|:---|
-> | s | Solid |
-> | l | Liquid |
-> | g | Gas |
-> | aq | Aqueous Solution |
-> 
-> Example: $2\text{K}_{(s)} + 2\text{H}_2\text{O}_{(l)} \rightarrow 2\text{KOH}_{(aq)} + \text{H}_{2(g)}$
+**Example:**
+```
+2K(s) + 2H₂O(l) → 2KOH(aq) + H₂(g)
+```
 
 ---
 
@@ -82,248 +94,233 @@ $$\text{CH}_{4(g)} + 2\text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + 2\text{H}_2
 
 ### Classification based on the nature of rearrangements of atoms
 
-So far you studied about a chemical reaction and how it can be described as a chemical equation. A large number of chemical reactions are taking place around us every day. Are they taking place in a similar way? No. Each reaction involves different kinds of atoms and hence the way they react also differs. Thus, based on the manner by which the atoms of the reactants are rearranged, chemical reactions are classified as follows.
+#### (a) Combination reactions
 
----
+A combination reaction is a reaction in which two or more reactants combine to form a compound. It is otherwise called 'synthesis reaction' or 'composition reaction'.
 
-### (a) Combination reactions
-
-A **combination reaction** is a reaction in which two or more reactants combine to form a compound. It is otherwise called 'synthesis reaction' or 'composition reaction'.
-
-**Generalised scheme:** A + B → AB
+**General scheme:**
+```
+A + B → AB
+```
 
 **Example:** Hydrogen gas combines with chlorine gas to form hydrogen chloride gas.
+```
+H₂(g) + Cl₂(g) → 2HCl(g)
+```
 
-$$\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)}$$
+**Three classes of combination reactions:**
 
-Depending on the chemical nature of the reactants, there are three classes of combination reactions:
+1. **Element + Element → Compound**
+   
+   *Example 1:* When solid sulphur reacts with oxygen, it produces sulphur dioxide.
+   ```
+   S(s) + O₂(g) → SO₂(g)
+   ```
+   
+   *Example 2:* Sodium combines with chlorine to form sodium chloride.
+   ```
+   2Na(s) + Cl₂(g) → 2NaCl(s)
+   ```
 
-#### 1. Element + Element → Compound
+2. **Compound + Element → Compound**
+   
+   *Example:* Phosphorous trichloride reacts with chlorine gas.
+   ```
+   PCl₃(l) + Cl₂(g) → PCl₅(s)
+   ```
 
-In this type of combination reaction, two elements react with one other to form a compound. The reaction may take place between a metal and a non-metal or two non-metals.
+3. **Compound + Compound → Compound**
+   
+   *Example:* Silicon dioxide reacts with calcium oxide.
+   ```
+   SiO₂(s) + CaO(s) → CaSiO₃(s)
+   ```
 
-**Example 1:** When solid sulphur reacts with oxygen, it produces sulphur dioxide. Here both the reactants are non-metals.
-
-$$\text{S}_{(s)} + \text{O}_{2(g)} \rightarrow \text{SO}_{2(g)}$$
-
-**Example 2:** Sodium, a silvery-white metal, combines with chlorine, a pale yellow green gas, to form sodium chloride, an edible compound. Here one of the reactants is a metal (sodium) and the other (chlorine) is a nonmetal.
-
-$$2\text{Na}_{(s)} + \text{Cl}_{2(g)} \rightarrow 2\text{NaCl}_{(s)}$$
-
-> **Test Yourself:**
-> Identify the possible combination reactions between the metals and non-metals given in the following table and write their balanced chemical equations:
-> 
-> | Metals | Non-metals |
-> |:---|:---|
-> | Na, K, Cs, Ca | F, Cl, Br, I |
-
-#### 2. Compound + Element → Compound
-
-In this case, a compound reacts with an element to form a new compound.
-
-**Example:** Phosphorous trichloride reacts with chlorine gas and forms phosphorous pentachloride.
-
-$$\text{PCl}_{3(l)} + \text{Cl}_{2(g)} \rightarrow \text{PCl}_{5(s)}$$
-
-#### 3. Compound + Compound → Compound
-
-It is a reaction between two compounds to form a new compound.
-
-**Example:** Silicon dioxide reacts with calcium oxide to form calcium silicate.
-
-$$\text{SiO}_{2(s)} + \text{CaO}_{(s)} \rightarrow \text{CaSiO}_{3(s)}$$
-
-> Most of the combination reactions are **exothermic** in nature. Because, they involve the formation of new bonds, which releases a huge amount of energy in the form of heat.
+> **Note:** Most of the combination reactions are exothermic in nature.
 
 ---
 
-### (b) Decomposition reactions
+#### (b) Decomposition reactions
 
-In a **decomposition reaction**, a single compound splits into two or more simpler substances under suitable conditions. It is the opposite of the combination reaction.
+In a decomposition reaction, a single compound splits into two or more simpler substances under suitable conditions. It is the opposite of the combination reaction.
 
-**Generalised scheme:** AB → A + B
+**General scheme:**
+```
+AB → A + B
+```
 
-Breaking of bonds is the major phenomenon in a decomposition reaction and hence it requires energy to break the bonds, depending on the nature of the energy used in the decomposition reaction.
+**Three main classes:**
 
-There are three main classes of decomposition reactions:
+**(i) Thermal Decomposition Reactions**
 
-#### (i) Thermal Decomposition Reactions
+In this type of reaction, the reactant is decomposed by applying heat (Thermolysis).
 
-In this type of reaction, the reactant is decomposed by applying heat. For example, on heating mercury (II) oxide is decomposed into mercury metal and oxygen gas. As the molecule is dissociated by the absorption of heat, it is otherwise called 'Thermolysis'.
+*Example 1:* Mercury (II) oxide decomposes into mercury metal and oxygen gas.
+```
+2HgO(s) --Heat→ 2Hg(l) + O₂(g)
+```
 
-$$2\text{HgO}_{(s)} \xrightarrow{\text{Heat}} 2\text{Hg}_{(l)} + \text{O}_{2(g)}$$
+*Example 2:* Calcium carbonate breaks down into calcium oxide and carbon dioxide.
+```
+CaCO₃(s) --Heat→ CaO(s) + CO₂(g)
+```
 
-Similarly, when calcium carbonate is heated, it breaks down into calcium oxide and carbon dioxide.
+> Such reactions, in which heat is absorbed, are called **Endothermic reactions**.
 
-$$\text{CaCO}_{3(s)} \xrightarrow{\text{Heat}} \text{CaO}_{(s)} + \text{CO}_{2(g)}$$
+**(ii) Electrolytic Decomposition Reactions**
 
-In thermal decomposition reaction, heat is supplied to break the bonds. Such reactions, in which heat is absorbed, are called **'Endothermic reactions'**.
+Electrical energy is used to bring about the reaction (Electrolysis).
 
-#### (ii) Electrolytic Decomposition Reactions
+*Example:* Decomposition of sodium chloride.
+```
+2NaCl(aq) --Electricity→ 2Na(s) + Cl₂(g)
+```
 
-In some of the decomposition reactions, electrical energy is used to bring about the reaction.
+**(iii) Photo Decomposition Reactions**
 
-**Example:** Decomposition of sodium chloride occurs on passing electric current through its aqueous solution. Sodium chloride decomposes into metallic sodium and chlorine gas. This process is termed as **'Electrolysis'**.
+Light facilitates the decomposition (Photolysis).
 
-$$2\text{NaCl}_{(aq)} \xrightarrow{\text{Electricity}} 2\text{Na}_{(s)} + \text{Cl}_{2(g)}$$
+*Example:* Silver bromide exposed to light.
+```
+2AgBr(s) --Light→ 2Ag(s) + Br₂(g)
+```
 
-#### (iii) Photo Decomposition Reactions
-
-Light is another form of energy, which facilitates some of the decomposition reactions.
-
-**Example:** When silver bromide is exposed to light, it breaks down into silver metal and bromine gas. As the decomposition is caused by light, this kind of reaction is also called **'Photolysis'**.
-
-$$2\text{AgBr}_{(s)} \xrightarrow{\text{light}} 2\text{Ag}_{(s)} + \text{Br}_{2(g)}$$
-
-The yellow coloured silver bromide turns into grey coloured silver metal.
-
-> **DO YOU KNOW?**
-> 
-> A solution of slaked lime is used for white washing walls. Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of calcium carbonate on the walls. Calcium carbonate is formed after two to three days of white washing and gives a shiny finish to the walls. It is interesting to note that the chemical formula for marble is also CaCO₃.
-> 
-> $$\text{Ca(OH)}_{2(aq)} + \text{CO}_{2(g)} \rightarrow \text{CaCO}_{3(s)} + \text{H}_2\text{O}_{(l)}$$
-
----
-
-### (c) Single Displacement Reactions
-
-It is a reaction between an element and a compound. When they react, one of the elements of the compound-reactant is replaced by the element-reactant to form a new compound and an element.
-
-**General schematic:** A + BC → AC + B
-
-'A' displaces element 'B' from the compound 'BC' and hence a single displacement reaction occurs.
-
-**Example 1:** If zinc metal is placed in hydrochloric acid, hydrogen gas is evolved. Here, hydrogen is displaced by zinc metal and zinc chloride is formed.
-
-$$\text{Zn}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow \text{ZnCl}_{2(aq)} + \text{H}_{2(g)}$$
-
-**Example 2:** If an iron nail is placed in an aqueous solution of copper (II) sulphate, the iron displaces copper from its aqueous solution and the so formed copper deposits over the iron nail.
-
-$$\text{Fe}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{FeSO}_{4(aq)} + \text{Cu}_{(s)}$$
-
-#### Activity Series
-
-In displacement reactions, the activity of the elements and their relative position in the periodic table are the key factors to determine the feasibility of the reactions. More active elements readily displace less active elements from their aqueous solution.
-
-**The activity series of some elements:**
-
-| Mnemonic | Element |
-|:---|:---|
-| Please | Potassium (K) |
-| Send | Sodium (Na) |
-| Lions | Lithium (Li) |
-| Cats | Calcium (Ca) |
-| Monkeys | Magnesium (Mg) |
-| And | Aluminium (Al) |
-| Zebras | Zinc (Zn) |
-| Into | Iron (Fe) |
-| Lovely | Lead (Pb) |
-| Hot | Hydrogen (H) |
-| Countries | Copper (Cu) |
-| Signed | Silver (Ag) |
-| General | Gold (Au) |
-| Penguin | Platinum (Pt) |
+> The yellow coloured silver bromide turns into grey coloured silver metal.
 
 ---
 
-### (d) Double Displacement Reactions
+#### (c) Single Displacement Reactions
 
-When two compounds react, if their ions are interchanged, then the reaction is called **double displacement reaction**. The ion of one compound is replaced by the ion of the another compound. Ions of identical charges are only interchanged, i.e., a cation can be replaced by other cations. This reaction is also called **'Metathesis Reaction'**.
+It is a reaction between an element and a compound. When they react, one of the elements of the compound-reactant is replaced by the element-reactant.
 
-**Schematic representation:** AB + CD → AD + CB
+**General scheme:**
+```
+A + BC → AC + B
+```
 
-In a double displacement reaction either one of the products must be either a precipitate or water. By this way, there are major classes of double displacement reactions:
+*Example 1:* Zinc metal in hydrochloric acid.
+```
+Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)
+```
 
-#### (i) Precipitation Reactions
+*Example 2:* Iron nail in copper (II) sulphate solution.
+```
+Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)
+```
 
-When aqueous solutions of two compounds are mixed, if they react to form an insoluble compound and a soluble compound, then it is called precipitation reaction. Because the insoluble compound, formed as one of the products, is a precipitate.
+**Activity Series** (mnemonic: Please Send Lions, Cats, Monkeys, And Zebras Into Lovely Hot Countries Signed General Penguin)
 
-**Example:** When the clear aqueous solutions of potassium iodide and lead (II) nitrate are mixed, a double displacement reaction takes place between them.
+| Activity | Element |
+|----------|---------|
+| Most active | Potassium (K) |
+| | Sodium (Na) |
+| | Lithium (Li) |
+| | Calcium (Ca) |
+| | Magnesium (Mg) |
+| | Aluminium (Al) |
+| | Zinc (Zn) |
+| | Iron (Fe) |
+| | Lead (Pb) |
+| | Hydrogen (H) |
+| | Copper (Cu) |
+| | Silver (Ag) |
+| | Gold (Au) |
+| Least active | Platinum (Pt) |
 
-$$\text{Pb(NO}_3)_{2(aq)} + 2\text{KI}_{(aq)} \rightarrow \text{PbI}_{2(s)}\downarrow + 2\text{KNO}_{3(aq)}$$
-
-Potassium and lead displace or replace one other and form a yellow precipitate of lead (II) iodide.
-
-#### (ii) Neutralization Reactions
-
-It is another type of displacement reaction in which the acid reacts with the base to form a salt and water. It is called **'neutralization reaction'** as both acid and base neutralize each other.
-
-**General:** Acid + Base → Salt + Water
-
-**Example 1:** Reaction of sodium hydroxide with hydrochloric acid is a typical neutralization reaction. Here, sodium replaces hydrogen from hydrochloric acid forming sodium chloride, a neutral soluble salt.
-
-$$\text{NaOH}_{(aq)} + \text{HCl}_{(aq)} \rightarrow \text{NaCl}_{(aq)} + \text{H}_2\text{O}_{(l)}$$
-
-**Example 2:** When ammonium hydroxide reacts with nitric acid, it forms ammonium nitrate and water.
-
-$$\text{HNO}_{3(aq)} + \text{NH}_4\text{OH}_{(aq)} \rightarrow \text{NH}_4\text{NO}_{3(aq)} + \text{H}_2\text{O}_{(l)}$$
+> More active elements readily displace less active elements from their aqueous solution.
 
 ---
 
-### (e) Combustion Reactions
+#### (d) Double Displacement Reactions
 
-A **combustion reaction** is one in which the reactant rapidly combines with oxygen to form one or more oxides and energy (heat). So in combustion reactions, one of the reactants must be oxygen. Combustion reactions are majorly used as heat energy sources in many of our day to day activities.
+When two compounds react, if their ions are interchanged, then the reaction is called double displacement reaction (Metathesis Reaction).
 
-**Example:** LPG is a mixture of hydrocarbon gases like propane, butane, propylene, etc. All these hydrocarbons burn with oxygen to form carbon dioxide and water.
+**General scheme:**
+```
+AB + CD → AD + CB
+```
 
-$$\text{C}_3\text{H}_{8(g)} + 5\text{O}_{2(g)} \rightarrow 3\text{CO}_{2(g)} + 4\text{H}_2\text{O}_{(l)} + \text{Heat}$$
+**Two major classes:**
 
-Since heat is evolved, it is an **exothermic reaction**. As oxygen is added, it is also an oxidation. So combustion may be called as an **exothermic oxidation**. If a flame is formed, then it is called **burning**.
+**(i) Precipitation Reactions**
 
-> **Conceptual Thoughts**
-> 
-> All combustion reactions are oxidations but all oxidations are not combustions. Why?
+When aqueous solutions of two compounds are mixed, if they react to form an insoluble compound and a soluble compound.
+
+*Example:* Potassium iodide and lead (II) nitrate.
+```
+Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s)↓ + 2KNO₃(aq)
+```
+
+**(ii) Neutralization Reactions**
+
+Acid reacts with base to form salt and water.
+
+*Example 1:* Sodium hydroxide with hydrochloric acid.
+```
+NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)
+```
+
+*Example 2:* Ammonium hydroxide with nitric acid.
+```
+HNO₃(aq) + NH₄OH(aq) → NH₄NO₃(aq) + H₂O(l)
+```
+
+---
+
+#### (e) Combustion Reactions
+
+A combustion reaction is one in which the reactant rapidly combines with oxygen to form one or more oxides and energy (heat).
+
+*Example:* Combustion of propane.
+```
+C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l) + Heat
+```
+
+> **Conceptual Thought:** All combustion reactions are oxidations but all oxidations are not combustions.
 
 ---
 
 ### Table 10.1: Differences between combination and decomposition reactions
 
 | COMBINATION REACTIONS | DECOMPOSITION REACTIONS |
-|:---|:---|
+|----------------------|------------------------|
 | One or more reactants combine to form a single product | A single reactant is decomposed to form one or more products |
 | Energy is released | Energy is absorbed |
 | Elements or compounds may be the reactants | Single compound is the reactant |
 
 ---
 
-## 10.1.2 Classification based on the direction of the reaction
+### 10.1.2 Classification based on the direction of the reaction
 
-Chemical reactions may be reversed under suitable conditions. Hence, they are grouped into two categories such as **reversible and irreversible reactions**.
+#### Reversible Reactions
 
-### Reversible Reactions
+A reversible reaction is a reaction in which the products can be converted back to the reactants. Represented by a double arrow.
 
-A **reversible reaction** is a reaction in which the products can be converted back to the reactants. A reversible reaction is represented by a double arrow with their heads in the direction opposite to each other.
+**General scheme:**
+```
+AB ⇌ A + B
+```
 
-**General:** AB ⇌ A + B
+*Example:* Decomposition of phosphorous pentachloride.
+```
+PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)
+```
 
-**Example:** Decomposition of phosphorous pentachloride into phosphorous trichloride and chlorine.
+> Initially, the forward reaction proceeds faster than the backward reaction. After some time, the speed of both reactions become equal.
 
-$$\text{PCl}_{5(g)} \rightleftharpoons \text{PCl}_{3(g)} + \text{Cl}_{2(g)}$$
+#### Irreversible Reactions
 
-The forward reaction is the decomposition of PCl₅ and the backward reaction is the combination of PCl₃ and Cl₂. Initially, the forward reaction proceeds faster than the backward reaction. After sometimes, the speed of both the reactions become equal. So, PCl₅ cannot be completely converted into the products as the reaction is reversed.
+The reaction that cannot be reversed is called irreversible reaction. Unidirectional.
 
-> **MORE TO KNOW**
-> 
-> If hydrogen peroxide is poured on a wound, it decomposes into water and oxygen. The gaseous oxygen bubbles away as it is formed and thus prevent the formation of H₂O₂.
-> 
-> $$2\text{H}_2\text{O}_{2(aq)} \rightleftharpoons 2\text{H}_2\text{O}_{(l)} + \text{O}_{2(g)}$$
-> 
-> Thus, more amount of products can be obtained in a reversible reaction by the periodical removal of one of the products or the periodical addition of the reactants.
-
-### Irreversible Reactions
-
-The reaction that cannot be reversed is called **irreversible reaction**. The irreversible reactions are unidirectional, i.e., they take place only in the forward direction.
-
-**Example:** The combustion of coal into carbon dioxide and water.
-
-$$\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat}$$
-
-In this reaction, solid coal burns with oxygen and gets converted into carbon dioxide gas. As the product is a gas, as soon as it is formed it escapes out of the reaction container. It is extremely hard to decompose a gas into a solid. Thus, the backward reaction is not possible in this case.
+*Example:* Combustion of coal.
+```
+C(s) + O₂(g) → CO₂(g) + Heat
+```
 
 ### Table 10.2: Differences between reversible and irreversible reactions
 
 | REVERSIBLE REACTION | IRREVERSIBLE REACTION |
-|:---|:---|
+|---------------------|----------------------|
 | It can be reversed under suitable conditions | It cannot be reversed |
 | Both forward and backward reactions take place simultaneously | It is unidirectional. It proceeds only in forward direction |
 | It attains equilibrium | Equilibrium is not attained |
@@ -334,28 +331,14 @@ In this reaction, solid coal burns with oxygen and gets converted into carbon di
 
 ## 10.2 RATE OF A CHEMICAL REACTION
 
-**Rate of a reaction** is the change in the amount or concentration of any one of the reactants or products per unit time.
+**Definition:** "Rate of a reaction is the change in the amount or concentration of any one of the reactants or products per unit time."
 
-Consider the following reaction: A → B
-
-The rate of this reaction is given by:
-
-$$\text{Rate} = -\frac{d[A]}{dt} = +\frac{d[B]}{dt}$$
-
-Where,
-- [A] – Concentration of A
-- [B] – Concentration of B
-
-The negative sign indicates the decrease in the concentration of A with time.
-The positive sign indicates the increase in the concentration of B with time.
-
-### Why is reaction rate important?
-
-Faster the reaction, more will be the amount of the product in a specified time. So, the rate of a reaction is important for a chemist for designing a process to get a good yield of a product. Rate of reaction is also important for a food processor who hopes to slow down the reactions that cause food to spoil.
+For reaction: A → B
+```
+Rate = -d[A]/dt = +d[B]/dt
+```
 
 ### 10.2.1 Factors influencing the rate of a reaction
-
-Important factors that affect rate of a reaction are:
 
 1. **Nature of the reactants**
 2. **Concentration of the reactants**
@@ -364,101 +347,88 @@ Important factors that affect rate of a reaction are:
 5. **Pressure**
 6. **Surface area of the reactants**
 
-#### (i) Nature of the reactants
+| Factor | Effect |
+|--------|--------|
+| Nature of reactants | Stronger acids react faster (e.g., HCl vs CH₃COOH with Na) |
+| Concentration | Higher concentration = faster reaction |
+| Temperature | Higher temperature = faster reaction |
+| Catalyst | Increases reaction rate without being consumed |
+| Pressure | Increasing pressure (for gases) increases rate |
+| Surface area | Powdered form reacts more readily than solid chunks |
 
-The reaction of sodium with hydrochloric acid is faster than that with acetic acid. Hydrochloric acid is a stronger acid than acetic acid and thus more reactive.
-
-$$2\text{Na}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow 2\text{NaCl}_{(aq)} + \text{H}_{2(g)} \text{ (fast)}$$
-$$2\text{Na}_{(s)} + 2\text{CH}_3\text{COOH}_{(aq)} \rightarrow 2\text{CH}_3\text{COONa}_{(aq)} + \text{H}_{2(g)} \text{ (slow)}$$
-
-#### (ii) Concentration of the reactants
-
-More the concentration, more particles per volume exist in it and hence faster the reaction. Granulated zinc reacts faster with 2M hydrochloric acid than 1M hydrochloric acid.
-
-#### (iii) Temperature
-
-Most of the reactions go faster at higher temperature. Because adding heat to the reactants provides energy to break more bonds and thus speed up the reaction.
-
-Food kept at room temperature spoils faster than that kept in the refrigerator.
-
-#### (iv) Pressure
-
-If the reactants are gases, increasing their pressure increases the reaction rate. This is because, on increasing the pressure the reacting particles come closer and collide frequently.
-
-#### (v) Catalyst
-
-A **catalyst** is a substance which increases the reaction rate without being consumed in the reaction.
-
-**Example:** On heating potassium chlorate, it decomposes into potassium chloride and oxygen gas, but at a slower rate. If manganese dioxide is added, it increases the reaction rate.
-
-#### (vi) Surface area of the reactants
-
-When solid reactants are involved in a reaction, their powdered form reacts more readily. For example, powdered calcium carbonate reacts more readily with hydrochloric acid than marble chips. Because, powdering of the reactants increases the surface area.
+*Example:* Manganese dioxide as catalyst for potassium chlorate decomposition.
 
 ---
 
 ## 10.3 STATE OF EQUILIBRIUM
 
-In a reversible reaction, both forward and backward reactions take place simultaneously. When the rate of the forward reaction becomes equal to the rate of backward reaction, then no more product is formed. This stage of the reaction is called **'equilibrium state'**.
+In a reversible reaction, both forward and backward reactions take place simultaneously. When the rate of the forward reaction becomes equal to the rate of backward reaction, then no more product is formed. This stage is called **'equilibrium state'**.
 
 **Chemical Equilibrium:** It is state of a reversible chemical reaction in which no change in the amount of the reactants and products takes place.
 
 At equilibrium:
-$$\text{Rate of forward reaction = Rate of backward reaction}$$
+```
+Rate of forward reaction = Rate of backward reaction
+```
 
-**Physical Equilibrium:** When water kept in closed vessel evaporates, it forms water vapour. At one time, the water vapour condenses back into liquid water and when the rate of this condensation becomes equal to that of vapourisation, the process attains equilibrium. Since it is a physical change, the equilibrium attained is called **'Physical Equilibrium'**.
+*Example:*
+```
+CaCO₃(s) ⇌ CaO(s) + CO₂(g)
+```
 
-$$\text{H}_2\text{O}_{(l)} \rightleftharpoons \text{H}_2\text{O}_{(g)}$$
+**Physical Equilibrium:** When water kept in closed vessel evaporates, it forms water vapour. At equilibrium:
+```
+H₂O(l) ⇌ H₂O(g)
+```
 
 ### Characteristics of equilibrium
 
 - In a chemical equilibrium, the rates of the forward and backward reactions are equal.
 - The observable properties such as pressure, concentration, colour, density, viscosity etc., of the system remain unchanged with time.
-- The chemical equilibrium is a **dynamic equilibrium**, because both the forward and backward reactions continue to occur even though it appears static externally.
+- The chemical equilibrium is a **dynamic equilibrium**, because both the forward and backward reactions continue to occur.
 - In physical equilibrium, the volume of all the phases remain constant.
-
-> **DO YOU KNOW?**
-> 
-> Aerated soft drinks contain dissolved carbon dioxide in a pop bottle (Soda). When the bottle is sealed, the dissolved carbon dioxide (in the form of carbonic acid) and gaseous CO₂ are in equilibrium with each other. When you open the bottle, the gaseous CO₂ can escape. So, the dissolved CO₂ begins to undissolve back to the gas phase trying to replace the gas that was lost. That's why if you leave it open long enough, it will go 'flat'.
 
 ---
 
 ## 10.4 IONIC PRODUCT OF WATER
 
-Although pure water is often considered as a non-conductor of electricity, precise measurements show that it conducts electricity to a little extent. This conductivity of water has resulted from the **self-ionisation of water**.
+Self-ionisation of water:
+```
+H₂O(l) + H₂O(l) ⇌ H₃O⁺(aq) + OH⁻(aq)
+```
 
-Self-ionisation or auto ionisation is a reaction in which two like molecules react to give ions. In the process of ionisation of water, a proton from one water molecule is transferred to another water molecule leaving behind an OH⁻ ion.
+**Ionic product of water (Kw):**
+```
+Kw = [H₃O⁺][OH⁻] = [H⁺][OH⁻]
+```
 
-$$2\text{H}_2\text{O}_{(l)} \rightleftharpoons \text{H}_3\text{O}^+_{(aq)} + \text{OH}^-_{(aq)}$$
+Unit: mol² dm⁻⁶
 
-The product of the concentration of the hydronium ion and the hydroxyl ion is called **'ionic product of water'**. It is denoted as **'Kw'**.
-
-$$\text{K}_w = [\text{H}_3\text{O}^+][\text{OH}^-]$$
-
-or simply:
-
-$$\text{K}_w = [\text{H}^+][\text{OH}^-]$$
-
-Its unit is mol² dm⁻⁶. At 25°C, its value is **1.00 × 10⁻¹⁴**.
+At 25°C: **Kw = 1.00 × 10⁻¹⁴**
 
 ---
 
 ## 10.5 pH SCALE
 
-**pH scale** is a scale for measuring the hydrogen ion concentration in a solution. The 'p' in pH stands for 'Potenz' in German meaning 'power'. pH notation was devised by the Danish biochemist Sorensen in 1909.
+pH scale is a scale for measuring the hydrogen ion concentration in a solution. The 'p' in pH stands for 'Potenz' in German meaning 'power'. Devised by Sorensen in 1909.
 
-pH scale is a set of numbers from 0 to 14 which is used to indicate whether a solution is acidic, basic or neutral.
+**pH scale:** 0 to 14
 
-- **Acids** have pH less than 7
-- **Bases** have pH greater than 7
-- **A neutral solution** has pH equal to 7
+| Solution Type | pH Range |
+|--------------|----------|
+| Acids | pH < 7 |
+| Neutral | pH = 7 |
+| Bases | pH > 7 |
 
-The pH is the negative logarithm of the hydrogen ion concentration:
+**Formula:**
+```
+pH = -log₁₀[H⁺]
+```
 
-$$\text{pH} = -\log_{10}[\text{H}^+]$$
+### Common pH Values
 
 | Common Acids | pH | Common Bases | pH |
-|:---|:---|:---|:---|
+|-------------|-----|-------------|-----|
 | HCl (4%) | 0 | Blood plasma | 7.4 |
 | Stomach acid | 1 | Egg white | 8 |
 | Lemon juice | 2 | Seawater | 8 |
@@ -471,247 +441,276 @@ $$\text{pH} = -\log_{10}[\text{H}^+]$$
 | Pure water | 7 | Milk of magnesia | 10 |
 | Tomato juice | 4.2 | Coffee | 5.6 |
 
-The pH of a solution can be determined by using a **universal indicator**. It contains a mixture of dyes. It comes in the form of a solution or a pH paper.
-
 ---
 
 ## 10.6 ROLE OF pH IN EVERYDAY LIFE
 
 ### Are plants and animals pH sensitive?
 
-Our body works within the pH range of **7.0 to 7.8**. Living organisms can survive only in a narrow range of pH change. Different body fluids have different pH values. For example, pH of blood is ranging from **7.35 to 7.45**. Any increase or decrease in this value leads to diseases. The ideal pH for blood is **7.4**.
+Our body works within the pH range of **7.0 to 7.8**. Living organisms can survive only in a narrow range of pH change.
+
+- **pH of blood:** 7.35 to 7.45 (ideal: 7.4)
 
 ### pH in our digestive system
 
-Our stomach produces hydrochloric acid. It helps in the digestion of food without harming the stomach. During indigestion the stomach produces too much acid and this causes pain and irritation. pH of the stomach fluid is approximately **2.0**.
+- Stomach produces hydrochloric acid (pH ≈ 2.0)
+- Helps in digestion without harming the stomach
+- Indigestion causes excess acid → pain and irritation
 
 ### pH changes as the cause of tooth decay
 
-pH of the saliva normally ranges between **6.5 to 7.5**. White enamel coating of our teeth is calcium phosphate, the hardest substance in our body. When the pH of the mouth saliva falls below **5.5**, the enamel gets weathered. Toothpastes, which are generally basic are used for cleaning the teeth that can neutralise the excess acid and prevent tooth decay.
+- pH of saliva: 6.5 to 7.5
+- When pH falls below 5.5, enamel (calcium phosphate) gets weathered
+- Toothpastes (basic) neutralize excess acid
 
 ### pH of soil
 
-In agriculture, the pH of the soil is very important. Citrus fruits require slightly alkaline soil, while rice requires acidic soil and sugarcane requires neutral soil.
+| Crop | Soil pH |
+|------|---------|
+| Citrus fruits | Slightly alkaline |
+| Rice | Acidic |
+| Sugarcane | Neutral |
 
 ### pH of rain water
 
-The pH of rain water is approximately **7**, which means that it is neutral and also represents its high purity. If the atmospheric air is polluted with oxide gases of sulphur and nitrogen, they get dissolved in the rain water and make its pH less than 7. Thus, if the pH of rain water is less than 7, then it is called **acid rain**. When acid rain flows into the rivers it lowers the pH of the river water also. The survival of aquatic life in such rivers becomes difficult.
-
-> **Conceptual Thoughts**
-> 
-> Why pure water has pH 7 at room temperature?
+- Normal rain water pH ≈ 7 (neutral)
+- If polluted with SOₓ, NOₓ gases → pH < 7 (**acid rain**)
+- Acid rain lowers pH of river water, affecting aquatic life
 
 ---
 
 ## 10.7 pH CALCULATION
 
-The pH is the negative logarithm of the hydrogen ion concentration:
+**pH formula:**
+```
+pH = -log₁₀[H⁺]
+```
 
-$$\text{pH} = -\log_{10}[\text{H}^+]$$
+**pOH formula:**
+```
+pOH = -log₁₀[OH⁻]
+```
 
-**Example:** Calculate the pH of 0.01M HNO₃?
+**Relationship:**
+```
+pH + pOH = 14 (at 25°C)
+```
 
-**Solution:**
-$$[\text{H}^+] = 0.01$$
-$$\text{pH} = -\log_{10}[0.01] = -\log_{10}[1 \times 10^{-2}] = 0 + 2 = 2$$
+### Example Problems
 
-### pOH
+**Example 1:** Calculate the pH of 0.01 M HNO₃
+```
+[H⁺] = 0.01 = 1 × 10⁻²
+pH = -log₁₀(10⁻²) = 2
+```
 
-The **pOH** is the negative logarithm of the hydroxyl ion concentration:
+**Example 2:** Calculate the pH of 0.001 M HCl
+```
+[H⁺] = 1 × 10⁻³
+pH = -log₁₀(10⁻³) = 3
+```
 
-$$\text{pOH} = -\log_{10}[\text{OH}^-]$$
-
-### Relationship between pH and pOH
-
-$$\text{pH} + \text{pOH} = 14$$
-
-If either the pH or the pOH of a solution is known, the other value can be calculated.
+**Example 3:** Calculate the pH of 1 × 10⁻⁴ M NaOH
+```
+[OH⁻] = 1 × 10⁻⁴
+pOH = -log₁₀(10⁻⁴) = 4
+pH = 14 - 4 = 10
+```
 
 ---
 
 ## 10.8 PROBLEMS
 
-**Example 1:** Calculate the pH of 0.001 molar solution of HCl.
+**Example 4:** Calculate the pH of a solution in which [H⁺] = 1.0 × 10⁻⁸ mol litre⁻¹
+```
+pH = -log₁₀(10⁻⁸) = 8
+```
 
-**Solution:** HCl is a strong acid and is completely dissociated.
-$$[\text{H}^+] = 1 \times 10^{-3} \text{ mol litre}^{-1}$$
-$$\text{pH} = -\log_{10}[10^{-3}] = 3$$
-
-**Example 2:** What would be the pH of an aqueous solution of sulphuric acid which is 5 × 10⁻⁵ mol litre⁻¹ in concentration.
-
-**Solution:** Each mole of sulphuric acid gives two mole of H⁺ ions.
-$$[\text{H}^+] = 2 \times 5 \times 10^{-5} = 1.0 \times 10^{-4} \text{ mol litre}^{-1}$$
-$$\text{pH} = -\log_{10}[10^{-4}] = 4$$
-
-**Example 3:** Calculate the pH of 1 × 10⁻⁴ molar solution of NaOH.
-
-**Solution:** 
-$$[\text{OH}^-] = 1 \times 10^{-4} \text{ mol litre}^{-1}$$
-$$\text{pOH} = -\log_{10}[10^{-4}] = 4$$
-$$\text{pH} = 14 - 4 = 10$$
-
-**Example 4:** Calculate the pH of a solution in which the concentration of the hydrogen ions is 1.0 × 10⁻⁸ mol litre⁻¹.
-
-**Solution:**
-$$\text{pH} = -\log_{10}[1.0 \times 10^{-8}] = 8$$
-
-**Example 5:** If the pH of a solution is 4.5, what is its pOH?
-
-**Solution:**
-$$\text{pOH} = 14 - 4.5 = 9.5$$
+**Example 5:** If pH = 4.5, what is pOH?
+```
+pOH = 14 - 4.5 = 9.5
+```
 
 ---
 
 ## Points to Remember
 
 - A chemical change is a change in which one or more new substances are formed.
-- Most combination reactions are exothermic
-- All photo decomposition reaction are endothermic reactions.
+- Most combination reactions are exothermic.
+- All photo decomposition reactions are endothermic reactions.
 - Double displacement reaction or metathesis may occur by the mutual exchange of ions.
 - Precipitation reaction gives an insoluble salt as the product.
 - Neutralisation reactions are reactions between an acid and a base that forms salt and water.
 - Neutralisation prevents tooth decay.
 - Most reactions in chemistry are irreversible reactions.
-- Chemical equilibrium - the rate of the forward reaction is equal to rate of the backward reactions.
+- Chemical equilibrium: the rate of the forward reaction is equal to rate of the backward reactions.
 - Equilibrium is possible in a closed system.
 - Temperature increases the reaction rate.
 - Pressure increases the reaction rate.
 - The term pH means power of hydrogen.
 - pH plays a vital role in everyday life.
 - In humans all bio chemical reactions take place between the pH value of 7.0 to 7.8.
-- If pH of rain water is below 5.6 its called acid rain.
+- If pH of rain water is below 5.6 it's called acid rain.
 - Pure water is a weak electrolyte.
 
 ---
 
 ## TEXTBOOK EVALUATION
 
-### I. Choose the correct answer.
+### I. Choose the correct answer
 
-1. $\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)}$ is
+1. H₂(g) + Cl₂(g) → 2HCl(g) is
    - a. Decomposition Reaction
-   - b. Combination Reaction
+   - b. **Combination Reaction** ✓
    - c. Single Displacement Reaction
    - d. Double Displacement Reaction
 
-2. Photolysis is a decomposition reaction caused by _______
+2. Photolysis is a decomposition reaction caused by
    - a. heat
    - b. electricity
-   - c. light
+   - c. **light** ✓
    - d. mechanical energy
 
-3. A reaction between carbon and oxygen is represented by $\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat}$. In which of the type(s), the above reaction can be classified?
+3. C(s) + O₂(g) → CO₂(g) + Heat can be classified as:
    - (i) Combination Reaction
    - (ii) Combustion Reaction
    - (iii) Decomposition Reaction
    - (iv) Irreversible Reaction
-   - a. i and ii
-   - b. i and iv
-   - c. i, ii and iii
-   - d. i, ii and iv
+   - **Answer: d. i, ii and iv** ✓
 
-4. The chemical equation $\text{Na}_2\text{SO}_{4(aq)} + \text{BaCl}_{2(aq)} \rightarrow \text{BaSO}_{4(s)}\downarrow + 2\text{NaCl}_{(aq)}$ represents which of the following types of reaction?
+4. Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s)↓ + 2NaCl(aq) represents:
    - a. Neutralisation
    - b. Combustion
-   - c. Precipitation
+   - c. **Precipitation** ✓
    - d. Single displacement
 
-5. Which of the following statements are correct about a chemical equilibrium?
+5. Correct statements about chemical equilibrium:
    - (i) It is dynamic in nature
-   - (ii) The rate of the forward and backward reactions are equal at equilibrium
+   - (ii) The rate of forward and backward reactions are equal
    - (iii) Irreversible reactions do not attain chemical equilibrium
    - (iv) The concentration of reactants and products may be different
-   - a. i, ii and iii
-   - b. i, ii and iv
-   - c. ii, iii and iv
-   - d. i, ii and iv
+   - **Answer: a. i, ii and iii** ✓
 
-6. A single displacement reaction is represented by $\text{X}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow \text{XCl}_{2(aq)} + \text{H}_{2(g)}$. Which of the following(s) could be X: (i) Zn, (ii) Ag, (iii) Cu, (iv) Mg. Choose the best pair.
-   - a. i and ii
-   - b. ii and iii
-   - c. iii and iv
-   - d. i and iv
+6. X(s) + 2HCl(aq) → XCl₂(aq) + H₂(g). Which could be X?
+   - (i) Zn (ii) Ag (iii) Cu (iv) Mg
+   - **Answer: d. i and iv** ✓
 
-7. Which of the following is not an "element + element → compound" type reaction?
-   - a. $\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)}$
-   - b. $2\text{K}_{(s)} + \text{Br}_{2(l)} \rightarrow 2\text{KBr}_{(s)}$
-   - c. $2\text{CO}_{(g)} + \text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)}$
-   - d. $4\text{Fe}_{(s)} + 3\text{O}_{2(g)} \rightarrow 2\text{Fe}_2\text{O}_{3(s)}$
+7. Which is NOT "element + element → compound"?
+   - a. C(s) + O₂(g) → CO₂(g)
+   - b. 2K(s) + Br₂(l) → 2KBr(s)
+   - c. **2CO(g) + O₂(g) → 2CO₂(g)** ✓ (compound + element)
+   - d. 4Fe(s) + 3O₂(g) → 2Fe₂O₃(s)
 
-8. Which of the following represents a precipitation reaction?
-   - a. $\text{A}_{(s)} + \text{B}_{(s)} \rightarrow \text{C}_{(s)} + \text{D}_{(s)}$
-   - b. $\text{A}_{(s)} + \text{B}_{(aq)} \rightarrow \text{C}_{(aq)} + \text{D}_{(l)}$
-   - c. $\text{A}_{(aq)} + \text{B}_{(aq)} \rightarrow \text{C}_{(s)} + \text{D}_{(aq)}$
-   - d. $\text{A}_{(aq)} + \text{B}_{(s)} \rightarrow \text{C}_{(aq)} + \text{D}_{(l)}$
+8. Which represents a precipitation reaction?
+   - **Answer: c. A(aq) + B(aq) → C(s) + D(aq)** ✓
 
 9. The pH of a solution is 3. Its [OH⁻] concentration is
-   - a. $1 \times 10^{-3}$ M
+   - a. 1 × 10⁻³ M
    - b. 3 M
-   - c. $1 \times 10^{-11}$ M
+   - c. **1 × 10⁻¹¹ M** ✓
    - d. 11 M
 
-10. Powdered CaCO₃ reacts more rapidly than flaky CaCO₃ because of _______.
-    - a. large surface area
+10. Powdered CaCO₃ reacts more rapidly than flaky CaCO₃ because of
+    - a. **large surface area** ✓
     - b. high pressure
     - c. high concentration
     - d. high temperature
 
 ### II. Fill in the blanks
 
-1. A reaction between an acid and a base is called _________________.
-2. When lithium metal is placed in hydrochloric acid, ________ gas is evolved.
-3. The equilibrium attained during the melting of ice is known as _______________.
-4. The pH of a fruit juice is 5.6. If you add slaked lime to this juice, its pH _____________ (increase/decrease).
-5. The value of ionic product of water at 25°C is _____________.
-6. The normal pH of human blood is _________.
-7. Electrolysis is type of _______________ reaction.
-8. The number of products formed in a synthesis reaction is _________.
-9. Chemical volcano is an example for _______________ type of reaction.
-10. The ion formed by dissolution of H⁺ in water is called _______________.
+1. A reaction between an acid and a base is called **neutralisation**.
+2. When lithium metal is placed in hydrochloric acid, **hydrogen** gas is evolved.
+3. The equilibrium attained during the melting of ice is known as **physical equilibrium**.
+4. The pH of a fruit juice is 5.6. If you add slaked lime to this juice, its pH **increase**.
+5. The value of ionic product of water at 25°C is **1 × 10⁻¹⁴**.
+6. The normal pH of human blood is **7.4**.
+7. Electrolysis is type of **decomposition** reaction.
+8. The number of products formed in a synthesis reaction is **one**.
+9. Chemical volcano is an example for **thermal decomposition** type of reaction.
+10. The ion formed by dissolution of H⁺ in water is called **hydronium ion (H₃O⁺)**.
 
 ### III. Match the following
 
 | REACTION | TYPE |
-|:---|:---|
-| $\text{NH}_4\text{OH}_{(aq)} + \text{CH}_3\text{COOH}_{(aq)} \rightarrow \text{CH}_3\text{COONH}_{4(aq)} + \text{H}_2\text{O}_{(l)}$ | Single Displacement |
-| $\text{Zn}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{ZnSO}_{4(aq)} + \text{Cu}_{(s)}$ | Combustion |
-| $\text{ZnCO}_{3(s)} \xrightarrow{\text{Heat}} \text{ZnO}_{(s)} + \text{CO}_{2(g)}$ | Neutralisation |
-| $\text{C}_2\text{H}_{4(g)} + 4\text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)} + 2\text{H}_2\text{O}_{(g)} + \text{Heat}$ | Thermal decomposition |
+|----------|------|
+| NH₄OH + CH₃COOH → CH₃COONH₄ + H₂O | **Neutralisation** |
+| Zn + CuSO₄ → ZnSO₄ + Cu | **Single Displacement** |
+| ZnCO₃ --Heat→ ZnO + CO₂ | **Thermal decomposition** |
+| C₂H₄ + 4O₂ → 2CO₂ + 2H₂O + Heat | **Combustion** |
 
-### IV. True or False: (If false give the correct statement)
+### IV. True or False
 
-1. Silver metal can displace hydrogen gas from nitric acid.
-2. The pH of rain water containing dissolved gases like SO₃, CO₂, NO₂ will be less than 7.
-3. At the equilibrium of a reversible reaction, the concentration of the reactants and the products will be equal.
-4. Periodical removal of one of the products of a reversible reaction increases the yield.
-5. On dipping a pH paper in a solution, it turns into yellow. Then the solution is basic.
+1. Silver metal can displace hydrogen gas from nitric acid. **FALSE** (Silver is below hydrogen in activity series)
+2. The pH of rain water containing dissolved gases like SO₃, CO₂, NO₂ will be less than 7. **TRUE**
+3. At the equilibrium of a reversible reaction, the concentration of the reactants and the products will be equal. **FALSE** (Rates are equal, not necessarily concentrations)
+4. Periodical removal of one of the products of a reversible reaction increases the yield. **TRUE**
+5. On dipping a pH paper in a solution, it turns into yellow. Then the solution is basic. **FALSE** (Yellow indicates acidic, pH ~6)
 
-### V. Short answer questions:
+### V. Short answer questions
 
-1. When an aqueous solution of potassium chloride is added to an aqueous solution of silver nitrate, a white precipitate is formed. Give the chemical equation of this reaction.
-2. Why does the reaction rate of a reaction increase on raising the temperature?
-3. Define combination reaction. Give one example for an exothermic combination reaction.
-4. Differentiate reversible and irreversible reactions.
+1. **White precipitate reaction:**
+   ```
+   KCl(aq) + AgNO₃(aq) → AgCl(s)↓ + KNO₃(aq)
+   ```
+
+2. **Why reaction rate increases with temperature:**
+   Adding heat provides energy to break more bonds and thus speeds up the reaction.
+
+3. **Combination reaction definition:** A reaction in which two or more reactants combine to form a compound.
+   *Example:* Burning of coal: C + O₂ → CO₂ + Heat (exothermic)
+
+4. **Reversible vs Irreversible reactions:**
+
+| Reversible | Irreversible |
+|------------|--------------|
+| Can be reversed | Cannot be reversed |
+| Both directions occur | Unidirectional |
+| Attains equilibrium | No equilibrium |
+| Relatively slow | Fast |
 
 ### VI. Answer in detail
 
-1. What are called thermolysis reactions?
-2. Explain the types of double displacement reactions with examples.
-3. Explain the factors influencing the rate of a reaction.
-4. How does pH play an important role in everyday life?
-5. What is a chemical equilibrium? What are its characteristics?
+1. **Thermolysis reactions:** Decomposition reactions caused by heat/thermal energy. Heat is absorbed (endothermic). Examples: 2HgO → 2Hg + O₂; CaCO₃ → CaO + CO₂
+
+2. **Types of double displacement reactions:**
+   - Precipitation: Forms insoluble product (PbI₂ from KI + Pb(NO₃)₂)
+   - Neutralisation: Acid + Base → Salt + Water
+
+3. **Factors influencing rate:** Nature of reactants, concentration, temperature, catalyst, pressure, surface area
+
+4. **Role of pH in everyday life:** Digestive system, tooth decay prevention, soil pH for agriculture, blood pH maintenance, acid rain effects
+
+5. **Chemical equilibrium:** State where forward and backward reaction rates are equal. Characteristics: dynamic nature, constant observable properties, closed system required.
 
 ### VII. HOT questions
 
-1. A solid compound 'A' decomposes on heating into 'B' and a gas 'C'. On passing the gas 'C' through water, it becomes acidic. Identify A, B and C.
-2. Can a nickel spatula be used to stir copper sulphate solution? Justify your answer.
+1. **Compound A:** Calcium carbonate (CaCO₃)
+   - **B:** Calcium oxide (CaO)
+   - **C:** Carbon dioxide (CO₂)
+
+2. **Nickel spatula in copper sulphate:** Yes, because nickel is above copper in the activity series and can displace it.
 
 ### VIII. Solve the following problems
 
-1. Lemon juice has a pH 2, what is the concentration of H⁺ ions?
-2. Calculate the pH of $1.0 \times 10^{-4}$ molar solution of HNO₃.
-3. What is the pH of $1.0 \times 10^{-5}$ molar solution of KOH?
-4. The hydroxide ion concentration of a solution is $1 \times 10^{-11}$ M. What is the pH of the solution?
+1. **Lemon juice pH = 2:**
+   ```
+   [H⁺] = 10⁻² = 0.01 M
+   ```
+
+2. **pH of 1.0 × 10⁻⁴ M HNO₃:**
+   ```
+   pH = -log(10⁻⁴) = 4
+   ```
+
+3. **pH of 1.0 × 10⁻⁵ M KOH:**
+   ```
+   pOH = 5, pH = 14 - 5 = 9
+   ```
+
+4. **[OH⁻] = 1 × 10⁻¹¹ M:**
+   ```
+   pOH = 11, pH = 14 - 11 = 3
+   ```
 
 ---
 
@@ -725,9 +724,6 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
 - www.chem4kids.com
 - http://aravindguptatoys.com/filims.html
 
-## Concept Map
+---
 
-[Chemical Reactions concept map showing:
-- Factors affecting rate of chemical reactions (Nature, Concentration, Temperature, Catalyst, Pressure, Surface area)
-- Types of Chemical Reaction (Combination, Decomposition, Double Displacement, Reversible, Irreversible)
-- Characteristics: Change in state, colour, temperature, evolution of gas]
+The content has been converted from the PDF "Types of Chemical Reactions" (10th Standard Science, Unit 10) to comprehensive Markdown format with proper formatting for equations, tables, and structure.

@@ -52,6 +52,8 @@ These are the compounds in which the carbon atoms are linked in a linear pattern
 ### 2. Cyclic Compounds:
 Organic compounds in which the chain of carbon atoms is closed or cyclic are called cyclic compounds. If the chain contains only carbon atoms, such compounds are called carbocyclic (Homocyclic) compounds. If the chain contains carbon and other atoms like oxygen, nitrogen, sulphur, etc., these compounds are called heterocyclic compounds. Carbocyclic compounds are further subdivided into alicyclic and aromatic compounds. Alicyclic compounds contain one or more carbocyclic rings which may be saturated or unsaturated whereas aromatic compounds contain one or more benzene rings (ring containing alternate double bonds between carbon atoms).
 
+![](1.png)
+
 **Figure 11.1** depicts the classification of organic compounds based on the pattern of carbon arrangements and their bonding in organic compounds.
 
 ---
@@ -96,6 +98,8 @@ The organic compounds that are composed of only carbon and hydrogen atoms are ca
 - Add a few drops of bromine water and observe any characteristic change in colour.
 - If the given compound is unsaturated, it will decolourise bromine water.
 - Saturated compounds do not decolourise bromine.
+
+![](2.png)
 
 **Figure 11.2** Test to identify unsaturated compounds
 
@@ -559,6 +563,8 @@ A soap molecule contains two chemically distinct parts that interact differently
 The polar end is hydrophilic (Water loving) in nature and this end is attracted towards water. The non-polar end is hydrophobic (Water hating) in nature and it is attracted towards dirt or oil on the cloth, but not attracted towards water. Thus, the hydrophobic part of the soap molecule traps the dirt and the hydrophilic part makes the entire molecule soluble in water.
 
 When a soap or detergent is dissolved in water, the molecules join together as clusters called 'micelles'. Their long hydrocarbon chains attach themselves to the oil and dirt. The dirt is thus surrounded by the non-polar end of the soap molecules (Figure 11.3). The charged carboxylate end of the soap molecules makes the micelles soluble in water. Thus, the dirt is washed away with the water.
+
+![](3.png)
 
 **Figure 11.3** Cleansing action of soap
 
