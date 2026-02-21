@@ -45,8 +45,8 @@ Child abuse constitutes all forms of physical or emotional ill treatment, sexual
 Sexual harassment is a form of power and dominance of one person over another, which can result in harmful consequence to the victim. It refers to inappropriate or forced sexual contact. Adolescent girls and women encounter sexual harassment in different forms. Sexual abuse is more common at work places. Verbal remarks, comments, gestures and looks are the most common forms of abuse. This results in psychological distress, physical illness and eating disorders in the affected...
 
 &gt; **More to Know**
-&gt; The Ministry of Women and Child Development championed the introduction of the **Protection of Children from Sexual Offences (POCSO) Act, 2012**. People who traffic children for sexual purposes are also punishable under the provisions relating to the...
-
+&gt; The Ministry of Women and Child Development championed the introduction of the **Protection of Children from Sexual Offences (POCSO) Act, 2012**. People who traffic children for sexual purposes are also punishable under the provisions relating to the Act.
+![](pocso act.png)
 #### Objectives of the POCSO Act, 2012
 
 - To protect children from the offences of:
@@ -77,7 +77,8 @@ Measures adopted for monitoring and assessment of abused child who have undergon
 &gt; The **National Commission for Protection of Child Rights (NCPCR)** was set up in March 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005. This act emphasizes the principle of universality and inviolability of child rights and recognizes the tone of urgency in all the child related policies of the...
 &gt;
 &gt; Protection of all children of all age group upto 18 years of age is of equal importance. Policies define priority actions for the most vulnerable...
-
+![](2.png)
+![](3.png)
 **CHILD HELPLINE 1098**
 
 ### Prevention of Child Sexual Abuse
@@ -99,7 +100,7 @@ It is the responsibility of every individual living in a society to ensure a saf
 ## 21.2 Drug, Alcohol and Tobacco Abuse
 
 The physical and mental dependency on alcohol, smoking and drugs is called **addiction**. The addictive potential of these substances pulls an individual into a vicious cycle leading to regular abuse and dependency. This is of serious concern because abuse of tobacco, alcohol or drugs produce many harmful effects in an individual, to the family and even to the society. This dangerous behavior pattern among youth can be prevented through proper...
-
+![](4.png)
 ---
 
 ## 21.3 Drug Abuse
@@ -184,7 +185,7 @@ Knowing the dangers of smoking and chewing tobacco adolescents and the old peopl
 &gt; **Anti Tobacco Act** was passed on May 1st 2004. By 2030 tobacco is expected to be single biggest cause of death worldwide accounting for 10 million deaths per...
 &gt;
 &gt; **May 31st** is observed as **No Tobacco Day (World Anti-Tobacco Day)**
-
+![](5.png)
 ---
 
 ## 21.5 Alcohol Abuse
@@ -203,7 +204,7 @@ Prolonged use of alcohol depresses the nervous system, by acting as a sedative a
 - Dilation of blood vessels which may affect functioning of the heart
 - **Liver damage** resulting in **fatty liver** which leads to **cirrhosis** and formation of fibrous tissues
 - Body loses its control and consciousness eventually leading to health complications and ultimately to death
-
+![](6.png)
 ---
 
 ## 21.8 Diabetes Mellitus
@@ -215,6 +216,7 @@ Diabetes mellitus is a chronic metabolic disorder characterized by increased blo
 IDDM accounts for **10 to 20%** of the known diabetics. The condition also occurs in children (**juvenile onset diabetes**) and young adults, the onset is usually sudden and can be life threatening. This is caused by the **destruction of β-cells of the pancreas**. It is characterized by abnormally elevated blood glucose levels (**hyperglycemia**) resulting from inadequate insulin...
 
 **Causes:** Genetic inheritance and environmental factors (infections due to virus, acute stress) are the cause for this...
+![](7.png)
 
 ### 21.8.2 Type-2 Non-Insulin Dependent Diabetes Mellitus (NIDDM)
 
@@ -406,7 +408,7 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 3. Advocating safe sex and advantages of using condoms.
 4. Creating awareness campaign and educating people on the consequences of AIDS.
 5. Persons with HIV/AIDS should not be isolated from the family and...
-
+![](8.png)
 &gt; **More to Know**
 &gt; Many people are ignorant about AIDS and it has been said that – **"don't die of ignorance"**. In our country **NACO (National AIDS Control Organization)** and other **NGO'S (Non-Governmental Organizations)** are educating people about AIDS. Every year **December 1st** is observed as the **"World AIDS..."**
 
@@ -606,5 +608,5 @@ In each of the following questions, a statement of Assertion is given and a corr
 ---
 
 ## Concept Map
-
+![](9.png)
 **Abuses and Disorders due to Lifestyle Modification**
