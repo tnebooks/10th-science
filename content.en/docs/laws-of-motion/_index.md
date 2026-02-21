@@ -2,7 +2,7 @@
 title: 'LAWS OF MOTION'
 weight: 1
 ---
-# LAWS OF MOTION
+# UNIT1:LAWS OF MOTION
 
 ## Learning Objectives
 
@@ -101,8 +101,7 @@ The product of mass and velocity of a moving body gives the magnitude of linear 
 
 **Linear Momentum = mass × velocity**
 
-{{< katex display=true >}}
-{{< /katex >}}
+   p=mv
 
 It helps to measure the magnitude of a force. Unit of momentum in SI system is kg m s⁻¹ and in C.G.S system its unit is g cm s⁻¹.
 
@@ -137,15 +136,20 @@ Based on the direction in which the forces act, they can be classified into two 
 
 When several forces act simultaneously on the same body, then the combined effect of the multiple forces can be represented by a single force, which is termed as 'resultant force'. It is equal to the vector sum (adding the magnitude of the forces with their direction) of all the forces.
 
-| Action of forces | Diagram | Resultant force (F_net) |
-|:---|:---|:---|
-| Parallel forces are acting in the same direction | F₁ → F₂ → | F_net = F₁ + F₂ |
-| Parallel unequal forces are acting in opposite directions | F₁ ← F₂ → | F_net = F₁ - F₂ (if F₁ > F₂) <br> F_net = F₂ - F₁ (if F₂ > F₁) <br> F_net is directed along the greater force. |
-| Parallel equal forces are acting in opposite directions in the same line of action (F₁ = F₂) | F₁ ← → F₂ | F_net = F₁ - F₂ <br> F_net = 0 since (F₁ = F₂) |
+Table 1.1 Action of forces
+![](1.1.png)
+
 
 ![](parallel.png)
+*a) Unlike parallel forces –Tug of war*
+
+
 ![](parallelforce.png)
+*b) Unbalanced forces -Action of a lever*
+
+
 ![](pm.png)
+*(c) Like parallel forces*
 
 
 *Figure 1.2: Combined effect of forces*
@@ -182,9 +186,6 @@ Torque is a vector quantity. It is acting along the direction, perpendicular to 
 Examples: Turning a tap, winding or unwinding a screw, spinning of a top, etc.
 
 Moment of a couple is measured by the product of any one of the forces and the perpendicular distance between the line of action of two forces. The turning effect of a couple is measured by the magnitude of its moment.
-
-{{< katex display=true >}}
-{{< /katex >}}
 
 {{< katex display=true >}}M = F \times S \quad ...(1.3)
 {{< /katex >}}
@@ -483,7 +484,8 @@ When you move to a higher altitude from the surface of the Earth, the value of g
 
 **Weight:** Weight of a body is defined as the gravitational force exerted on a body due to the gravity.
 
-{{< katex display=true >}}\text{Weight} = \text{Gravitational Force} = \text{mass (m)} \times \text{acceleration due to gravity (g)}.
+{{< katex display=true >}}\text{Weight} = \text{Gravitational Force} {{< /katex >}}
+{{< katex display=true >}}= \text{mass (m)} \times \text{acceleration due to gravity (g)}.
 {{< /katex >}}
 
 g = acceleration due to gravity for Earth (at sea level) = 9.8 ms⁻².
