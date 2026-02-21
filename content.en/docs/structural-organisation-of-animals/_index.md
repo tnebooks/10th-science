@@ -268,7 +268,7 @@ Dental formula is the simple method of representing the teeth of a mammal. The n
 **Dental formula in rabbit:**
 
 {{< katex display=true >}}
-\frac{I\frac{2}{1}, C\frac{0}{0}, PM\frac{3}{2}, M\frac{3}{3}}
+{I\frac{2}{1}, C\frac{0}{0}, PM\frac{3}{2}, M\frac{3}{3}}
 {{< /katex >}}
 
 Or written as: **2033/1023**
