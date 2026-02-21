@@ -39,7 +39,11 @@ The transport of materials in and out of the cells is carried out by diffusion a
 
 The movement of solid liquid and gaseous molecules from a region of higher concentration to a region of their lower concentration without the utilization of energy is called diffusion. This is a passive process.
 
-*Figure 14.1: Diffusion*
+
+![](1.png)
+
+**Figure 14.1:** Diffusion
+
 
 ### 14.1.2 Active Transport
 
@@ -53,7 +57,10 @@ Osmosis is the movement of solvent or water molecules from the region of higher 
 
 It occurs when a living plant cell is placed in a hypertonic solution water molecule moves out of the cell and resulting in the shrinkage of protoplasm away from the cell wall.
 
-*Figure 14.2: Plasmolysis*
+![](2.png)
+
+**Figure 14.2:** Plasmolysis
+
 
 **Activity 1: Demonstration of Osmosis**
 
@@ -69,7 +76,10 @@ Imbibition is a type of diffusion in which a solid plant material absorbs water 
 
 There are millions of root hairs on the tip of the root which absorb water and minerals by diffusion. Root hairs are thin walled, slender extension of epidermal cell that increase the surface area of absorption.
 
-*Figure 14.3: Root Tip with Root Hairs*
+
+![](3.png)
+
+**Figure 14.3:** Root Tip with Root Hairs
 
 ---
 
@@ -77,7 +87,9 @@ There are millions of root hairs on the tip of the root which absorb water and m
 
 Once the water enters the root hairs, the concentration of water molecules in the root hair cells become more than that of the cortex. Thus water from the root hair moves to the cortical cells by osmosis and then reaches the xylem. From there the water is transported to the stem and leaves.
 
-*Figure 14.4: T.S. of the root showing movement of water from soil to xylem*
+![](4.png)
+
+**Figure 14.4:** T.S. of the root showing movement of water from soil to xylem
 
 ---
 
@@ -96,7 +108,9 @@ The apoplastic movement of water occurs exclusively through the intercellular sp
 
 In this method, water molecules move to the adjacent cells, through the plasma membrane, cytoplasm and plasmodesmata. This method of transport is slow as water moves through plasma membrane. It is in accordance to the concentration gradient.
 
-*Figure 14.5: Symplastic and Apoplastic pathways of Water*
+![](5.png)
+
+**Figure 14.5:** Symplastic and Apoplastic pathways of Water
 
 ---
 
@@ -104,7 +118,9 @@ In this method, water molecules move to the adjacent cells, through the plasma m
 
 Transpiration is the evaporation of water from the aerial parts of the plant especially through stomata in leaves. Stomata are open in the day and closed at night. The opening and closing of the stomata is due to the change in turgidity of the guard cells. When water enters into the guard cells, they become turgid and the stoma open. When the guard cells lose water, it becomes flaccid and the stoma closes.
 
-*Figure 14.6: Process of Transpiration*
+![](6.png)
+
+**Figure 14.6:** Process of Transpiration
 
 Water evaporates from mesophyll cells of leaves through the open stomata, this lowers water concentration in mesophyll cells. As a result, more water is drawn into these cells from the xylem present in the veins through the process of osmosis. As water is lost from the leaves, pressure is created at the top to pull more water from the xylem to the mesophyll cells, this process is called **transpiration pull**. This extends up to the roots causing the roots to absorb more water from the soil to ensure continuous flow of water from the roots to the leaves.
 
@@ -112,7 +128,9 @@ Water evaporates from mesophyll cells of leaves through the open stomata, this l
 
 Transpiration is affected by several external factors such as temperature, light, humidity, and wind speed. Internal factors that affect transpiration include number and distribution of stomata, percentage of open stomata, water status of the plant, canopy structure etc.
 
-*Figure 14.7: Guard cell in turgid and flaccid condition*
+![](7.png)
+
+**Figure 14.7:** Guard cell in turgid and flaccid condition
 
 ### Significance of Transpiration
 
@@ -166,7 +184,9 @@ The mechanism of translocation of sugars from source to sink is through **pressu
 
 The upward movement of water and minerals from roots to different plant parts is called **ascent of sap**. A number of factors play a role in ascent of sap and it takes places in following steps:
 
-*Figure 14.8: Ascent of Sap*
+![](8.png)
+
+**Figure 14.8:** Ascent of Sap
 
 1. **Root Pressure**: Water from soil enters the root hairs due to osmosis. Root pressure is responsible for movement of water up to the base of the stem.
 2. **Capillary Action**: Water or any liquid rises in a capillary tube because of physical forces, this phenomenon is called capillary action. In the same way, in stem water rises up to certain height because of capillary action.
@@ -218,7 +238,9 @@ They are the most abundant cells in the human body. RBCs are formed in the bone 
 
 WBC's are colourless. They do not have haemoglobin and are nucleated cells. It is found in the bone marrow, spleen, thymus and lymph nodes. They are capable of amoeboid movement.
 
-*Figure 14.9: Leucocytes*
+![](9.png)
+
+**Figure 14.9:** Leucocytes
 
 The white blood corpuscles can be grouped into two categories:
 1. **Granulocytes**
@@ -280,7 +302,10 @@ Blood vessels are a network of branched tubes that transport blood. There are th
 
 **Capillaries**: Capillaries are narrow tubes formed by branching of arterioles which then unite to form the venules and veins. They are about 8μm in diameter. Capillaries are formed of single layer of endothelial cells.
 
-*Figure 14.10: Structure of blood vessel*
+
+![](10.png)
+
+**Figure 14.10:** Structure of blood vessel
 
 ### Table 14.1: Differences between Artery and Vein
 
@@ -322,7 +347,9 @@ Heart is a muscular pumping organ that pumps out the blood into the blood vessel
 
 The heart is enclosed in a double walled sac called **pericardium**. It contains lubricating pericardial fluid which reduces friction during heart beat and protects it from mechanical injuries.
 
-*Figure 14.11: External structure of human heart*
+![](11.png)
+
+**Figure 14.11:** External structure of human heart
 
 The human heart is **four chambered**. The two upper thin walled chambers of the heart are called **auricle** or **atria** (sing: atrium) and two lower thick walled chambers are called **ventricles**. The chambers are separated by partition called **septum**. The septum between auricles and ventricles prevents the mixing of oxygenated and deoxygenated blood.
 
@@ -330,7 +357,9 @@ The two auricles are separated from each other by **interatrial septum**. The le
 
 The ventricles form the lower part of the heart. The two ventricles are separated from each other by an **interventricular septum**. The left and right ventricles have thick walls because the ventricles have to pump out blood with force away from the heart. From the right ventricle arises the **pulmonary trunk** which bifurcates to form right and left **pulmonary arteries**. The right and left pulmonary arteries supply deoxygenated blood to the lungs of the respective side. The left ventricle is longer and narrower than the right ventricle. The walls are about three times thicker than the right ventricle. The left ventricle gives rise to **aorta**. The oxygenated blood is supplied by the aorta to various organs of the body. The **coronary arteries** supply blood to the heart muscles.
 
-*Figure 14.12: Internal structure of human heart*
+![](12.png)
+
+**Figure 14.12:** Internal structure of human heart
 
 ### Valves
 
@@ -364,7 +393,9 @@ When the blood circulates twice through the heart in one complete cycle it is ca
 
 However, in some animals the oxygenated and deoxygenated blood are mixed and pass through the heart only once. This type of circulation is called **single circulation**. e.g., fishes, amphibians and certain reptiles.
 
-*Figure 14.13: Pulmonary Systemic and circulation*
+![](13.png)
+
+**Figure 14.13:** Pulmonary Systemic and circulation
 
 ### 14.15.2 Heart Beat
 
@@ -408,6 +439,10 @@ The sequence of events occurring from the beginning to the completion of one hea
 (b) **Ventricular systole**: Contraction of ventricles (0.3 sec)
 (c) **Ventricular diastole**: Relaxation of ventricles (0.4 sec)
 
+
+![](carcycle.png)
+
+
 ### 14.15.4 Heart Sound
 
 The rhythmic closure and opening of the valves cause the sound of the heart.
@@ -434,13 +469,17 @@ A prolonged or constant elevation of blood pressure is a condition known as **hy
 
 A stethoscope is used to detect the sound produced by the internal organs of human body. The heart sound is heard by placing the stethoscope on the chest. It is a useful diagnostic tool to identify and localize health problems and diagnose disease. The modern electronic stethoscopes are high precisioned instruments.
 
-*Figure 14.14: Stethoscope*
+![](14.png)
+
+**Figure 14.14:** Stethoscope
 
 ### Sphygmomanometer
 
 Sphygmomanometer is a clinical instrument used to measure blood pressure when a person is in a relaxed and resting condition. The pressure of the brachial artery is measured. It helps to estimate the state of blood circulation and the working of the heart. It helps to diagnose conditions such as increased or decreased blood pressure. Monometric and modern digital types are the apparatus used to measure blood pressure.
 
-*Figure 14.15: Monometric (A) and Digital (B) type blood pressure apparatus*
+![](15.png)
+
+**Figure 14.15:** Monometric (A) and Digital (B) type blood pressure apparatus
 
 ---
 
@@ -487,7 +526,9 @@ The lymphatic system comprises of lymphatic capillaries, lymphatic vessels, lymp
 
 The lymphatic capillaries unite to form large lymphatic vessels. Lymph nodes are small oval or pear shaped structures located along the length of lymphatic vessels.
 
-*Figure 14.16: Lymphatic System in Man*
+![](16.png)
+
+**Figure 14.16:** Lymphatic System in Man
 
 ### Lymph
 
