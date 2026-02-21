@@ -46,7 +46,7 @@ Sexual harassment is a form of power and dominance of one person over another, w
 
 &gt; **More to Know**
 &gt; The Ministry of Women and Child Development championed the introduction of the **Protection of Children from Sexual Offences (POCSO) Act, 2012**. People who traffic children for sexual purposes are also punishable under the provisions relating to the Act.
-![](pocso act.png)
+![](1.png)
 #### Objectives of the POCSO Act, 2012
 
 - To protect children from the offences of:
