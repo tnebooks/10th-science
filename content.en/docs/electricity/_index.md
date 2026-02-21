@@ -35,7 +35,7 @@ In a similar manner, the electric current passes from the positive terminal (hig
 ### 4.1.1 Definition of electric current
 Electric current is often termed as 'current' and it is represented by the symbol 'I'. It is defined as the **rate of flow of charges** in a conductor. This means that the electric current represents the amount of charges flowing in any cross section of a conductor (say a metal wire) in unit time. If a net charge 'Q' passes through any cross section of a conductor in time 't', then the current flowing through the conductor is:
 
-$$I = \frac{Q}{t}$$
+{{< katex display=true >}}I = \frac{Q}{t}{{< /katex >}}
 
 ### 4.1.2 SI unit of electric current
 The SI unit of electric current is **ampere (A)**. The current flowing through a conductor is said to be one ampere, when a charge of one coulomb flows across any cross-section of a conductor, in one second. Hence,
@@ -48,7 +48,7 @@ $$1 \text{ ampere} = \frac{1 \text{ coulomb}}{1 \text{ second}}$$
 **Solution:**
 - Charge Q = 12 C
 - Time t = 5 s
-- Therefore, current $I = \frac{Q}{t} = \frac{12}{5} = 2.4 \text{ A}$
+- Therefore, current {{< katex display=true >}}I = \frac{Q}{t} = \frac{12}{5} = 2.4 \text{ A}{{< /katex >}}
 
 ---
 
@@ -85,19 +85,32 @@ The electric potential difference between two points is defined as the amount of
 
 Suppose, you have moved a charge Q from a point A to another point B. Let 'W' be the work done to move the charge from A to B. Then, the potential difference between the points A and B is given by:
 
-$$\text{Potential Difference (V)} = \frac{W}{Q}$$
+{{< katex display=true >}}
+\text{Potential Difference (V)} = \frac{W}{Q}
+{{< /katex >}}
 
 Potential difference is also equal to the difference in the electric potential of these two points. If $V_A$ and $V_B$ represent the electric potential at the points A and B respectively, then:
 
-$$V = V_A - V_B \text{ (if } V_A \text{ is more than } V_B)$$
-$$V = V_B - V_A \text{ (if } V_B \text{ is more than } V_A)$$
+{{< katex display=true >}}
+f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+{{< /katex >}}
+
+{{< katex display=true >}}
+V = V_A - V_B \text{ (if } V_A \text{ is more than } V_B)
+V = V_B - V_A \text{ (if } V_B \text{ is more than } V_A)
+{{< /katex >}}
+
+
 
 ### 4.3.3 Volt
 The SI unit of electric potential or potential difference is **volt (V)**.
 
 The potential difference between two points is one volt, if one joule of work is done in moving one coulomb of charge from one point to another against the electric force.
 
-$$1 \text{ volt} = \frac{1 \text{ joule}}{1 \text{ coulomb}}$$
+{{< katex display=true >}}
+1 \text{ volt} = \frac{1 \text{ joule}}{1 \text{ coulomb}}
+{{< /katex >}}
+
 
 #### Solved Problem-2
 **Problem:** The work done in moving a charge of 10C across two points in a circuit is 100J. What is the potential difference between the points?
@@ -105,8 +118,9 @@ $$1 \text{ volt} = \frac{1 \text{ joule}}{1 \text{ coulomb}}$$
 **Solution:**
 - Charge, Q = 10 C
 - Work Done, W = 100 J
-- Potential Difference $V = \frac{W}{Q} = \frac{100}{10} = 10 \text{ volt}$
-
+{{< katex display=true >}}
+Potential Difference V = \frac{W}{Q} = \frac{100}{10} = 10 \text{ volt}
+{{< /katex >}}
 ---
 
 ## 4.4 Ohm's Law
@@ -115,14 +129,17 @@ A German physicist, Georg Simon Ohm established the relation between the potenti
 According to Ohm's law, at a constant temperature, the steady current 'I' flowing through a conductor is directly proportional to the potential difference 'V' between the two ends of the conductor.
 
 $$I \propto V$$
+{{< katex display=true >}}
+Hence, \frac{V}{I} = \text{constant}
+{{< /katex >}}
+The value of this proportionality constant is found to be{{< katex display=true >}} \frac{1}{R}{{< /katex >}}
 
-Hence, $\frac{V}{I} = \text{constant}$
-
-The value of this proportionality constant is found to be $\frac{1}{R}$
 
 Therefore:
-$$I = \frac{V}{R}$$
-$$\text{or } V = IR$$
+{{< katex display=true >}}
+I = \frac{V}{R}
+\text{or } V = IR
+{{< /katex >}}
 
 Here, R is a constant for a given material (say Nichrome) at a given temperature and is known as the **resistance** of the material. Since the potential difference V is proportional to the current I, the graph between V and I is a straight line for a conductor.
 
@@ -149,8 +166,8 @@ $$1 \text{ ohm} = \frac{1 \text{ volt}}{1 \text{ ampere}}$$
 **Solution:**
 - Current through the conductor I = 2 A
 - Potential Difference V = 30 V
-- From Ohm's Law: $R = \frac{V}{I}$
-- Therefore, $R = \frac{30}{2} = 15 \Omega$
+- From Ohm's Law:{{< katex display=true >}} R = \frac{V}{I}
+- Therefore, R = \frac{30}{2} = 15 \Omega{{< /katex >}}
 
 ---
 
@@ -158,27 +175,27 @@ $$1 \text{ ohm} = \frac{1 \text{ volt}}{1 \text{ ampere}}$$
 
 ### 4.6.1 Electrical Resistivity
 You can verify by doing an experiment that the resistance of any conductor 'R' is directly proportional to the length of the conductor 'L' and is inversely proportional to its area of cross section 'A'.
+{{< katex display=true >}}
+R \propto L, \quad R \propto \frac{1}{A}{{< /katex >}}
 
-$$R \propto L, \quad R \propto \frac{1}{A}$$
-
-Hence, $R \propto \frac{L}{A}$
+Hence,{{< katex display=true >}} R \propto \frac{L}{A}{{< /katex >}}
 
 Therefore:
 $$R = \rho \frac{L}{A}$$
 
-Where, $\rho$ (rho) is a constant, called as **electrical resistivity** or **specific resistance** of the material of the conductor.
+Where,{{< katex display=true >}} \rho (rho) {{< /katex >}}is a constant, called as **electrical resistivity** or **specific resistance** of the material of the conductor.
 
 From the equation:
 $$\rho = \frac{RA}{L}$$
 
-If L = 1 m, A = 1 m² then $\rho = R$
+If L = 1 m, A = 1 m² then {{< katex display=true >}}\rho = R{{< /katex >}}
 
 Hence, the electrical resistivity of a material is defined as the resistance of a conductor of unit length and unit area of cross section. Its unit is **ohm metre**.
 
 Electrical resistivity of a conductor is a measure of the resisting power of a specified material to the passage of an electric current. It is a constant for a given material.
 
 > **Do You Know?**
-> Nichrome is a conductor with highest resistivity equal to $1.5 \times 10^{-6} \Omega m$. Hence, it is used in making heating elements.
+> Nichrome is a conductor with highest resistivity equal to{{< katex display=true >}}  1.5 \times 10^{-6} \Omega m. {{< /katex >}}Hence, it is used in making heating elements.
 
 ### 4.6.2 Conductance and Conductivity
 **Conductance** of a material is the property of a material to aid the flow of charges and hence, the passage of current in it. The conductance of a material is mathematically defined as the reciprocal of its resistance (R). Hence, the conductance 'G' of a conductor is given by:
@@ -201,26 +218,26 @@ Conductivity is more for conductors than for insulators. But, the resistivity is
 
 | Nature of the Material | Material | Resistivity (Ω m) |
 |------------------------|----------|-------------------|
-| Conductor | Copper | $1.62 \times 10^{-8}$ |
-| | Nickel | $6.84 \times 10^{-8}$ |
-| | Chromium | $12.9 \times 10^{-8}$ |
-| Insulator | Glass | $10^{1}$ to $10^{14}$ |
-| | Rubber | $10^{13}$ to $10^{16}$ |
+| Conductor | Copper | {{< katex display=true >}} 1.62 \times 10^{-8} {{< /katex >}} |
+| | Nickel | {{< katex display=true >}}6.84 \times 10^{-8}{{< /katex >}} |
+| | Chromium | {{< katex display=true >}}12.9 \times 10^{-8}{{< /katex >}} |
+| Insulator | Glass | {{< katex display=true >}}10^{1} to 10^{14}{{< /katex >}} |
+| | Rubber | {{< katex display=true >}}10^{13} to 10^{16}{{< /katex >}} |
 
 #### Solved Problem-4
-**Problem:** The resistance of a wire of length 10m is 2 ohm. If the area of cross section of the wire is $2 \times 10^{-7} m^2$, determine its:
+**Problem:** The resistance of a wire of length 10m is 2 ohm. If the area of cross section of the wire is{{< katex display=true >}} 2 \times 10^{-7} m^2 {{< /katex >}}, determine its:
 (i) resistivity
 (ii) conductance and
 (iii) conductivity
 
 **Solution:**
-Given: Length, L = 10 m, Resistance, R = 2 ohm and Area, A = $2 \times 10^{-7} m^2$
+Given: Length, L = 10 m, Resistance, R = 2 ohm and Area, A ={{< katex display=true >}} 2 \times 10^{-7} m^2{{< /katex >}}
 
-(i) Resistivity, $\rho = \frac{RA}{L} = \frac{2 \times 2 \times 10^{-7}}{10} = 4 \times 10^{-8} \Omega m$
+(i) Resistivity, {{< katex display=true >}}\rho = \frac{RA}{L} = \frac{2 \times 2 \times 10^{-7}}{10} = 4 \times 10^{-8} \Omega m{{< /katex >}}
 
-(ii) Conductance, $G = \frac{1}{R} = \frac{1}{2} = 0.5 \text{ mho}$
+(ii) Conductance,{{< katex display=true >}} G = \frac{1}{R} = \frac{1}{2} = 0.5 \text{ mho}{{< /katex >}}
 
-(iii) Conductivity, $\sigma = \frac{1}{\rho} = \frac{1}{4 \times 10^{-8}} = 0.25 \times 10^{8} \text{ mho m}^{-1}$
+(iii) Conductivity,{{< katex display=true >}} \sigma = \frac{1}{\rho} = \frac{1}{4 \times 10^{-8}} = 0.25 \times 10^{8} \text{ mho m}^{-1}{{< /katex >}}
 
 ---
 
@@ -234,19 +251,22 @@ A series circuit connects the components one after the other to form a 'single l
 
 If resistors are connected end to end, so that the same current passes through each of them, then they are said to be connected in series.
 
-Let three resistances $R_1$, $R_2$ and $R_3$ be connected in series. Let the current flowing through them be I. According to Ohm's Law, the potential differences $V_1$, $V_2$ and $V_3$ across $R_1$, $R_2$ and $R_3$ respectively, are given by:
-
-$$V_1 = IR_1$$
-$$V_2 = IR_2$$
-$$V_3 = IR_3$$
+Let three resistances{{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}} be connected in series. Let the current flowing through them be I. According to Ohm's Law, the potential differences {{< katex display=true >}}V_1, V_2 and V_3 {{< /katex >}}across{{< katex display=true >}}  R_1, R_2 and R_3{{< /katex >}} respectively, are given by:
+{{< katex display=true >}} 
+V_1 = IR_1
+V_2 = IR_2
+V_3 = IR_3
+{{< /katex >}}
 
 The sum of the potential differences across the ends of each resistor is given by:
-$$V = V_1 + V_2 + V_3$$
-
+{{< katex display=true >}} 
+V = V_1 + V_2 + V_3
+{{< /katex >}}
 Using the above equations:
-$$V = IR_1 + IR_2 + IR_3$$
-
-The effective resistor is a single resistor, which can replace the resistors effectively, so as to allow the same current through the electric circuit. Let the effective resistance of the series-combination of the resistors be $R_S$. Then:
+{{< katex display=true >}} 
+V = IR_1 + IR_2 + IR_3
+{{< /katex >}}
+The effective resistor is a single resistor, which can replace the resistors effectively, so as to allow the same current through the electric circuit. Let the effective resistance of the series-combination of the resistors be R_S. Then:
 $$V = IR_S$$
 
 Combining equations:
@@ -263,19 +283,24 @@ The equivalent resistance in a series combination is greater than the highest of
 **Problem:** Three resistors of resistances 5 ohm, 3 ohm and 2 ohm are connected in series with 10V battery. Calculate their effective resistance and the current flowing through the circuit.
 
 **Solution:**
-- $R_1 = 5\Omega$, $R_2 = 3\Omega$, $R_3 = 2\Omega$, V = 10V
-- $R_S = R_1 + R_2 + R_3 = 5 + 3 + 2 = 10\Omega$
-- The current, $I = \frac{V}{R_S} = \frac{10}{10} = 1A$
+{{< katex display=true >}} 
+- R_1 = 5\Omega, R_2 = 3\Omega, R_3 = 2\Omega, V = 10V{{< /katex >}}
+{{< katex display=true >}} 
+- R_S = R_1 + R_2 + R_3 = 5 + 3 + 2 = 10\Omega{{< /katex >}}
+
+- The current, {{< katex display=true >}} I = \frac{V}{R_S} = \frac{10}{10} = 1A
+{{< /katex >}}
 
 ### 4.7.2 Resistances in Parallel
 A parallel circuit has two or more loops through which current can pass. If the circuit is disconnected in one of the loops, the current can still pass through the other loop(s). The wiring in a house consists of parallel circuits.
 
-Consider that three resistors $R_1$, $R_2$ and $R_3$ are connected across two common points A and B. The potential difference across each resistance is the same and equal to the potential difference between A and B. The current I arriving at A divides into three branches $I_1$, $I_2$ and $I_3$ passing through $R_1$, $R_2$ and $R_3$ respectively.
+Consider that three resistors {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}are connected across two common points A and B. The potential difference across each resistance is the same and equal to the potential difference between A and B. The current I arriving at A divides into three branches{{< katex display=true >}}  I_1, I_2 and I_3{{< /katex >}} passing through {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}respectively.
 
 According to Ohm's law:
-$$I_1 = \frac{V}{R_1}$$
-$$I_2 = \frac{V}{R_2}$$
-$$I_3 = \frac{V}{R_3}$$
+{{< katex display=true >}} 
+I_1 = \frac{V}{R_1}
+I_2 = \frac{V}{R_2}
+I_3 = \frac{V}{R_3}{{< /katex >}}
 
 The total current through the circuit is given by:
 $$I = I_1 + I_2 + I_3$$
@@ -296,22 +321,23 @@ Thus, when a number of resistors are connected in parallel, the sum of the recip
 When 'n' resistors of equal resistances R are connected in parallel:
 $$\frac{1}{R_P} = \frac{1}{R} + \frac{1}{R} + \frac{1}{R} + ... + \frac{1}{R} = \frac{n}{R}$$
 
-Hence, $R_P = \frac{R}{n}$
+Hence,{{< katex display=true >}} R_P = \frac{R}{n}{{< /katex >}}
 
 The equivalent resistance in a parallel combination is less than the lowest of the individual resistances.
 
 ### 4.7.3 Series Connection of Parallel Resistors
-If you consider the connection of a set of parallel resistors that are connected in series, you get a series-parallel circuit. Let $R_1$ and $R_2$ be connected in parallel to give an effective resistance of $R_{P1}$. Similarly, let $R_3$ and $R_4$ be connected in parallel to give an effective resistance of $R_{P2}$. Then, both of these parallel segments are connected in series.
+If you consider the connection of a set of parallel resistors that are connected in series, you get a series-parallel circuit. Let {{< katex display=true >}}R_1 and R_2 {{< /katex >}}be connected in parallel to give an effective resistance of {{< katex display=true >}} R_{P1} {{< /katex >}}. Similarly, let{{< katex display=true >}}  R_3 and R_4  {{< /katex >}}be connected in parallel to give an effective resistance of {{< katex display=true >}}  R_{P2}. {{< /katex >}}Then, both of these parallel segments are connected in series.
 
 Using the parallel formula:
-$$\frac{1}{R_{P1}} = \frac{1}{R_1} + \frac{1}{R_2}$$
-$$\frac{1}{R_{P2}} = \frac{1}{R_3} + \frac{1}{R_4}$$
-
+{{< katex display=true >}} 
+\frac{1}{R_{P1}} = \frac{1}{R_1} + \frac{1}{R_2}
+\frac{1}{R_{P2}} = \frac{1}{R_3} + \frac{1}{R_4}
+{{< /katex >}}
 Finally, the net effective resistance is given by:
 $$R_{total} = R_{P1} + R_{P2}$$
 
 ### 4.7.4 Parallel Connection of Series Resistors
-If you consider a connection of a set of series resistors connected in a parallel circuit, you get a parallel-series circuit. Let $R_1$ and $R_2$ be connected in series to give an effective resistance of $R_{S1}$. Similarly, let $R_3$ and $R_4$ be connected in series to give an effective resistance of $R_{S2}$. Then, both of these serial segments are connected in parallel.
+If you consider a connection of a set of series resistors connected in a parallel circuit, you get a parallel-series circuit. Let {{< katex display=true >}} R_1 and R_2 {{< /katex >}}be connected in series to give an effective resistance of{{< katex display=true >}}  R_{S1} {{< /katex >}}. Similarly, let {{< katex display=true >}} R_3 and R_4 {{< /katex >}} be connected in series to give an effective resistance of {{< katex display=true >}} R_{S2} {{< /katex >}}. Then, both of these serial segments are connected in parallel.
 
 Using the series formula:
 $$R_{S1} = R_1 + R_2$$
@@ -341,10 +367,10 @@ Let 'I' be the current flowing through a resistor of resistance 'R', and 'V' be 
 The work done in moving the charge Q across the ends of the resistor with a potential difference of V is VQ. This energy spent by the source gets dissipated in the resistor as heat. Thus, the heat produced in the resistor is:
 $$H = W = VQ$$
 
-Using $Q = It$:
+Using Q = It:
 $$H = VIt$$
 
-From Ohm's Law, $V = IR$. Hence:
+From Ohm's Law, V = IR. Hence:
 $$H = I^2Rt$$
 
 This is known as **Joule's law of heating**.
@@ -375,8 +401,8 @@ In electric bulbs, a small wire is used, known as **filament**. The filament is 
 - Given resistance R = 5Ω
 - Current I = 6A
 - Time t = 5 minutes = 5 × 60s = 300s
-- Amount of heat produced, $H = I^2Rt$
-- $H = 6^2 \times 5 \times 300 = 36 \times 5 \times 300 = 54000 \text{ J}$
+- Amount of heat produced, {{< katex display=true >}}H = I^2Rt{{< /katex >}}
+{{< katex display=true >}}H = 6^2 \times 5 \times 300 = 36 \times 5 \times 300 = 54000 \text{ J}{{< /katex >}}
 
 ---
 
@@ -386,8 +412,8 @@ In general, power is defined as the rate of doing work or rate of spending energ
 Suppose a current 'I' flows through a conductor of resistance 'R' for a time 't', then the potential difference across the two ends of the conductor is 'V'. The work done 'W' to move the charge across the ends of the conductor is:
 
 $$W = VIt$$
-
-Power $P = \frac{W}{t}$
+{{< katex display=true >}}
+Power P = \frac{W}{t}{{< /katex >}}
 
 $$P = VI$$
 
@@ -408,7 +434,7 @@ Electricity is consumed both in houses and industries. Consumption of electricit
 - (i) Amount of electric power
 - (ii) Duration of usage
 
-Electrical energy consumed is taken as the product of electric power and time of usage. For example, if 100 watt of electric power is consumed for two hours, then the power consumed is $100 \times 2 = 200$ watt hour.
+Electrical energy consumed is taken as the product of electric power and time of usage. For example, if 100 watt of electric power is consumed for two hours, then the power consumed is {{< katex display=true >}}100 \times 2 = 200 {{< /katex >}}watt hour.
 
 Consumption of electrical energy is measured and expressed in watt hour, though its SI unit is watt second. In practice, a larger unit of electrical energy is needed. This larger unit is **kilowatt hour (kWh)**. One kilowatt hour is otherwise known as **one unit of electrical energy**.
 
@@ -503,7 +529,7 @@ The first LED television screen was developed by James P. Mitchell in 1977. It w
 - An electric circuit is a network of electrical components, which forms a continuous and closed path for an electric current to pass through it.
 - The parameters of conductors like its length, area of cross-section and material, affect the resistance of the conductor.
 - SI unit of electrical resistivity is ohm metre. The resistivity is a constant for a given material.
-- The reciprocal of electrical resistivity of a material is called its electrical conductivity. $\sigma = \frac{1}{\rho}$
+- The reciprocal of electrical resistivity of a material is called its electrical conductivity.{{< katex display=true >}} \sigma = \frac{1}{\rho}{{< /katex >}}
 - The passage of electric current through a wire results in the production of heat. This phenomenon is called heating effect of current.
 - One horse power is equal to 746 watts.
 - The function of a fuse wire or a MCB is to protect the house hold electrical appliances from excess current due to overloading or a short circuit.
@@ -516,7 +542,7 @@ The first LED television screen was developed by James P. Mitchell in 1977. It w
 Two bulbs are having the ratings as 60W, 220V and 40W, 220V respectively. Which one has a greater resistance?
 
 **Solution:**
-Electric power $P = \frac{V^2}{R}$
+Electric power{{< katex display=true >}} P = \frac{V^2}{R}{{< /katex >}}
 
 For the same value of V, R is inversely proportional to P.
 
@@ -533,13 +559,13 @@ Calculate the current and the resistance of a 100W, 200V electric bulb in an ele
 - Power P = 100W
 - Voltage V = 200V
 - Power P = VI
-- So, Current $I = \frac{P}{V} = \frac{100}{200} = 0.5A$
-- Resistance $R = \frac{V}{I} = \frac{200}{0.5} = 400\Omega$
+- So, Current{{< katex display=true >}} I = \frac{P}{V} = \frac{100}{200} = 0.5A{{< /katex >}}
+- Resistance{{< katex display=true >}} R = \frac{V}{I} = \frac{200}{0.5} = 400\Omega{{< /katex >}}
 
 ---
 
 ### Problem 3
-In the circuit diagram given below, three resistors $R_1$, $R_2$ and $R_3$ of 5Ω, 10Ω and 20Ω respectively are connected as shown. Calculate:
+In the circuit diagram given below, three resistors {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}of 5Ω, 10Ω and 20Ω respectively are connected as shown. Calculate:
 A) Current through each resistor
 B) Total current in the circuit
 C) Total resistance in the circuit
@@ -549,33 +575,33 @@ C) Total resistance in the circuit
 **A)** Since the resistors are connected in parallel, the potential difference across each resistor is same (i.e. V = 10V)
 
 Therefore:
-- Current through $R_1$: $I_1 = \frac{V}{R_1} = \frac{10}{5} = 2A$
-- Current through $R_2$: $I_2 = \frac{V}{R_2} = \frac{10}{10} = 1A$
-- Current through $R_3$: $I_3 = \frac{V}{R_3} = \frac{10}{20} = 0.5A$
+- Current through {{< katex display=true >}} R_1: I_1 = \frac{V}{R_1} = \frac{10}{5} = 2A{{< /katex >}}
+- Current through {{< katex display=true >}} R_2: I_2 = \frac{V}{R_2} = \frac{10}{10} = 1A{{< /katex >}}
+- Current through {{< katex display=true >}} R_3: I_3 = \frac{V}{R_3} = \frac{10}{20} = 0.5A{{< /katex >}}
 
 **B)** Total current in the circuit:
-$I = I_1 + I_2 + I_3 = 2 + 1 + 0.5 = 3.5A$
+{{< katex display=true >}}I = I_1 + I_2 + I_3 = 2 + 1 + 0.5 = 3.5A{{< /katex >}}
 
-**C)** Total resistance in the circuit:
-$\frac{1}{R_P} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} = \frac{1}{5} + \frac{1}{10} + \frac{1}{20} = \frac{4+2+1}{20} = \frac{7}{20}$
+**C)** Total resistance in the circuit:{{< katex display=true >}}
+\frac{1}{R_P} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} = \frac{1}{5} + \frac{1}{10} + \frac{1}{20} = \frac{4+2+1}{20} = \frac{7}{20}{{< /katex >}}
 
-Hence, $R_P = \frac{20}{7} = 2.857\Omega$
+Hence, {{< katex display=true >}}R_P = \frac{20}{7} = 2.857\Omega{{< /katex >}}
 
 ---
 
 ### Problem 4
 Three resistors of 1Ω, 2Ω and 4Ω are connected in parallel in a circuit. If a 1Ω resistor draws a current of 1A, find the current through the other two resistors.
 
-**Solution:**
-- $R_1 = 1\Omega$, $R_2 = 2\Omega$, $R_3 = 4\Omega$
-- Current $I_1 = 1A$
+**Solution:**{{< katex display=true >}}
+- R_1 = 1\Omega, R_2 = 2\Omega, R_3 = 4\Omega
+- Current I_1 = 1A{{< /katex >}}
 
-The potential difference across the 1Ω resistor = $I_1R_1 = 1 \times 1 = 1V$
+The potential difference across the 1Ω resistor = {{< katex display=true >}}I_1R_1 = 1 \times 1 = 1V{{< /katex >}}
 
 Since the resistors are connected in parallel, the same potential difference exists across the other resistors.
 
-- Current in the 2Ω resistor: $I_2 = \frac{V}{R_2} = \frac{1}{2} = 0.5A$
-- Current in the 4Ω resistor: $I_3 = \frac{V}{R_3} = \frac{1}{4} = 0.25A$
+- Current in the 2Ω resistor: {{< katex display=true >}}I_2 = \frac{V}{R_2} = \frac{1}{2} = 0.5A{{< /katex >}}
+- Current in the 4Ω resistor:{{< katex display=true >}} I_3 = \frac{V}{R_3} = \frac{1}{4} = 0.25A{{< /katex >}}
 
 ---
 
@@ -707,7 +733,7 @@ In this activity you will be able to:
 **Steps:**
 - Open the browser and type "olabs.edu.in" in the address bar. Click physics tab and then click "Ohm's law and resistance" under class 10 section. Go to "simulator" tab to do the experiment.
 - Construct the electric circuit as per the connection diagram by clicking "show circuit diagram" tab. You can connect wires between electric component by dragging the mouse between the component.
-- Switch on the key and note down the voltage (V) and current (I). Find the value of resistance using the formula $R = \frac{V}{I}$. Repeat the experiment for different values of voltage and current. Check whether the resistance remains constant.
+- Switch on the key and note down the voltage (V) and current (I). Find the value of resistance using the formula {{< katex display=true >}}R = \frac{V}{I}{{< /katex >}}. Repeat the experiment for different values of voltage and current. Check whether the resistance remains constant.
 - Find the value of Resistance/(length in Cm). Enter the value of resistance and resistance per unit length in the result. Verify the answer.
 
 **Note:**
