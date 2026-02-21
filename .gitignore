@@ -4,3 +4,4 @@ resources/
 themes/
 *.backup
 .gitmodules
+.hugo_build.lock
