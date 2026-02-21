@@ -139,7 +139,9 @@ For example, 36g of sodium chloride need to be dissolved in 100g of water to for
 
 The solubility is mathematically expressed as:
 
-$$\text{Solubility} = \frac{\text{Mass of the solute}}{\text{Mass of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Solubility} = \frac{\text{Mass of the solute}}{\text{Mass of the solvent}} \times 100
+{{< /katex >}}
 
 **Table 9.2 Solubilities of some common substances in water at 25°C**
 
@@ -208,11 +210,15 @@ Quantitatively, concentration of a solution may be expressed in different method
 
 Mass percentage of a solution is defined as the percentage by mass of the solute present in the solution. It is mostly used when solute is solid and solvent is liquid.
 
-$$\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solution}} \times 100$$
+{{< katex display=true >}}
+\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solution}} \times 100
+{{< /katex >}}
 
 or
 
-$$\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solute} + \text{Mass of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solute} + \text{Mass of the solvent}} \times 100
+{{< /katex >}}
 
 **For example:** 5% sugar solution (by mass) means 5g of sugar in 95g of water. Hence it is made 100g of solution.
 
@@ -222,11 +228,15 @@ Usually, mass percentage is expressed as **w/w (weight/weight)**; mass percentag
 
 Volume percentage is defined as the percentage by volume of solute (in ml) present in the given volume of the solution.
 
-$$\text{Volume Percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solution}} \times 100$$
+{{< katex display=true >}}
+\text{Volume Percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solution}} \times 100
+{{< /katex >}}
 
 or
 
-$$\text{Volume Percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solute} + \text{volume of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Volume Percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solute} + \text{volume of the solvent}} \times 100
+{{< /katex >}}
 
 **For example**, 10% by volume of the solution of ethanol in water, means 10ml of ethanol in 100ml of solution (or 90ml of water)
 
@@ -260,7 +270,9 @@ On heating these hydrated crystalline salts, they lose their water of crystalliz
 
 The number of water molecules in blue vitriol is five. So its water of crystallization is 5. When blue coloured copper sulphate crystals are gently heated, it loses its five water molecules and becomes colourless anhydrous copper sulphate.
 
-$$\text{CuSO}_4 \cdot 5\text{H}_2\text{O} \underset{\text{Cooling}}{\stackrel{\text{Heating}}{\rightleftharpoons}} \text{CuSO}_4 + 5\text{H}_2\text{O}$$
+{{< katex display=true >}}
+\text{CuSO}_4 \cdot 5\text{H}_2\text{O} \underset{\text{Cooling}}{\stackrel{\text{Heating}}{\rightleftharpoons}} \text{CuSO}_4 + 5\text{H}_2\text{O}
+{{< /katex >}}
 
 (Copper sulphate pentahydrate) → (Anhydrous copper sulphate)
 Blue colour → colourless
@@ -275,7 +287,9 @@ If you add few drops of water or allow it to cool, the colourless anhydrous salt
 
 Its water of crystallization is 7. When magnesium sulphate heptahydrate crystals are gently heated, it loses seven water molecules, and becomes anhydrous magnesium sulphate.
 
-$$\text{MgSO}_4 \cdot 7\text{H}_2\text{O} \underset{\text{Cooling}}{\stackrel{\text{Heating}}{\rightleftharpoons}} \text{MgSO}_4 + 7\text{H}_2\text{O}$$
+{{< katex display=true >}}
+\text{MgSO}_4 \cdot 7\text{H}_2\text{O} \underset{\text{Cooling}}{\stackrel{\text{Heating}}{\rightleftharpoons}} \text{MgSO}_4 + 7\text{H}_2\text{O}
+{{< /katex >}}
 
 (Magnesium sulphate heptahydrate) → (Anhydrous Magnesium sulphate)
 
@@ -331,9 +345,13 @@ Deliquescent substances lose their crystalline shape and ultimately dissolve in 
 - Mass of the solute = 1.5g
 - Mass of the solvent = 15g
 
-$$\text{Solubility of the solute} = \frac{\text{Mass of the solute}}{\text{Mass of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Solubility of the solute} = \frac{\text{Mass of the solute}}{\text{Mass of the solvent}} \times 100
+{{< /katex >}}
 
-$$\text{Solubility of the solute} = \frac{1.5 \times 100}{15} = 10\text{g}$$
+{{< katex display=true >}}
+\text{Solubility of the solute} = \frac{1.5 \times 100}{15} = 10\text{g}
+{{< /katex >}}
 
 ---
 
@@ -342,7 +360,9 @@ $$\text{Solubility of the solute} = \frac{1.5 \times 100}{15} = 10\text{g}$$
 **Solution:**
 - Mass of potassium chloride in 100g of water in saturated solution = 37g
 
-$$\text{Mass of potassium chloride in 60g of water in saturated solution} = \frac{37 \times 60}{100} = 22.2\text{g}$$
+{{< katex display=true >}}
+\text{Mass of potassium chloride in 60g of water in saturated solution} = \frac{37 \times 60}{100} = 22.2\text{g}
+{{< /katex >}}
 
 ---
 
@@ -353,7 +373,9 @@ At 30°C, 36g of sodium chloride is dissolved in 100g of water.
 
 ∴ Mass of sodium chloride that would be need for 100g of water = 36g
 
-∴ Mass of sodium chloride dissolved in 50g of water = $\frac{36 \times 50}{100} = 18\text{g}$
+∴ Mass of sodium chloride dissolved in 50g of water = {{< katex display=true >}}
+\frac{36 \times 50}{100} = 18\text{g}
+{{< /katex >}}
 
 ---
 
@@ -362,9 +384,13 @@ At 30°C, 36g of sodium chloride is dissolved in 100g of water.
 **Solution:**
 Amount of sodium nitrate dissolved in 100g of water at 50°C is 114g
 
-∴ Amount of sodium nitrate dissolving in 50g of water at 50°C is = $\frac{114 \times 50}{100} = 57\text{g}$
+∴ Amount of sodium nitrate dissolving in 50g of water at 50°C is = {{< katex display=true >}}
+\frac{114 \times 50}{100} = 57\text{g}
+{{< /katex >}}
 
-Similarly amount of sodium nitrate dissolving in 50g of water at 30°C is = $\frac{96 \times 50}{100} = 48\text{g}$
+Similarly amount of sodium nitrate dissolving in 50g of water at 30°C is = {{< katex display=true >}}
+\frac{96 \times 50}{100} = 48\text{g}
+{{< /katex >}}
 
 Amount of sodium nitrate thrown when 50g of water is cooled from 50°C to 30°C is **57 - 48 = 9g**
 
@@ -378,9 +404,13 @@ Amount of sodium nitrate thrown when 50g of water is cooled from 50°C to 30°C 
 - Mass of the solute = 25g
 - Mass of the solvent = 100g
 
-$$\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solute} + \text{Mass of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solute} + \text{Mass of the solvent}} \times 100
+{{< /katex >}}
 
-$$= \frac{25}{25+100} \times 100 = \frac{25}{125} \times 100 = 20\%$$
+{{< katex display=true >}}
+= \frac{25}{25+100} \times 100 = \frac{25}{125} \times 100 = 20\%
+{{< /katex >}}
 
 ---
 
@@ -392,7 +422,9 @@ $$= \frac{25}{25+100} \times 100 = \frac{25}{125} \times 100 = 20\%$$
 
 **(i) Mass percentage of the solute:**
 
-$$\text{Mass percentage of solute} = \frac{16 \times 100}{16+100} = \frac{1600}{116} = 13.79\%$$
+{{< katex display=true >}}
+\text{Mass percentage of solute} = \frac{16 \times 100}{16+100} = \frac{1600}{116} = 13.79\%
+{{< /katex >}}
 
 **(ii) Mass percentage of solvent** = 100 - (Mass percentage of the solute) = 100 - 13.79 = **86.21%**
 
@@ -402,11 +434,17 @@ $$\text{Mass percentage of solute} = \frac{16 \times 100}{16+100} = \frac{1600}{
 
 **Solution:**
 
-$$\text{Mass percentage (w/w)} = \frac{\text{Mass of the solute}}{\text{Mass of the solution}} \times 100$$
+{{< katex display=true >}}
+\text{Mass percentage (w/w)} = \frac{\text{Mass of the solute}}{\text{Mass of the solution}} \times 100
+{{< /katex >}}
 
-$$10 = \frac{\text{Mass of the urea}}{500} \times 100$$
+{{< katex display=true >}}
+10 = \frac{\text{Mass of the urea}}{500} \times 100
+{{< /katex >}}
 
-$$\text{Mass of urea} = 50\text{g}$$
+{{< katex display=true >}}
+\text{Mass of urea} = 50\text{g}
+{{< /katex >}}
 
 ---
 
@@ -418,9 +456,13 @@ $$\text{Mass of urea} = 50\text{g}$$
 - Volume of the methanol = 35ml
 - Volume of the water = 65ml
 
-$$\text{Volume percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solute} + \text{Volume of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Volume percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solute} + \text{Volume of the solvent}} \times 100
+{{< /katex >}}
 
-$$\text{Volume percentage} = \frac{35}{35+65} \times 100 = \frac{35 \times 100}{100} = 35\%$$
+{{< katex display=true >}}
+\text{Volume percentage} = \frac{35}{35+65} \times 100 = \frac{35 \times 100}{100} = 35\%
+{{< /katex >}}
 
 ---
 
@@ -430,11 +472,17 @@ $$\text{Volume percentage} = \frac{35}{35+65} \times 100 = \frac{35 \times 100}{
 - Volume of aqueous solution = 200ml
 - Volume percentage = 20%
 
-$$\text{Volume percentage} = \frac{\text{Volume of solute}}{\text{Volume of solution}} \times 100$$
+{{< katex display=true >}}
+\text{Volume percentage} = \frac{\text{Volume of solute}}{\text{Volume of solution}} \times 100
+{{< /katex >}}
 
-$$20 = \frac{\text{Volume of ethanol}}{200} \times 100$$
+{{< katex display=true >}}
+20 = \frac{\text{Volume of ethanol}}{200} \times 100
+{{< /katex >}}
 
-$$\text{Volume of ethanol} = \frac{20 \times 200}{100} = 40\text{ml}$$
+{{< katex display=true >}}
+\text{Volume of ethanol} = \frac{20 \times 200}{100} = 40\text{ml}
+{{< /katex >}}
 
 ---
 
