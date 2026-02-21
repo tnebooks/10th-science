@@ -75,11 +75,14 @@ Measures adopted for monitoring and assessment of abused child who have undergon
 
 &gt; **More to Know**
 &gt; The **National Commission for Protection of Child Rights (NCPCR)** was set up in March 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005. This act emphasizes the principle of universality and inviolability of child rights and recognizes the tone of urgency in all the child related policies of the...
-&gt;![](2.png)
+&gt;
 &gt; Protection of all children of all age group upto 18 years of age is of equal importance. Policies define priority actions for the most vulnerable...
+**CHILD HELPLINE 1098**
+
+![](2.png)
 ![](3.png)
 
-**CHILD HELPLINE 1098**
+
 
 ### Prevention of Child Sexual Abuse
 
@@ -100,6 +103,7 @@ It is the responsibility of every individual living in a society to ensure a saf
 ## 21.2 Drug, Alcohol and Tobacco Abuse
 
 The physical and mental dependency on alcohol, smoking and drugs is called **addiction**. The addictive potential of these substances pulls an individual into a vicious cycle leading to regular abuse and dependency. This is of serious concern because abuse of tobacco, alcohol or drugs produce many harmful effects in an individual, to the family and even to the society. This dangerous behavior pattern among youth can be prevented through proper...
+
 ![](4.png)
 
 ---
