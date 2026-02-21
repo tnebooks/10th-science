@@ -193,9 +193,13 @@ Solar cells (Photovoltaic devices) is made up of silicon that converts sunlight 
 
 Arrangement of many solar cells side by side connected to each other is called solar panel. The capacity to provide electric current is much increased in the solar panel. But the process of manufacture is very expensive.
 
+![](img1.png)
+
 **Solar Cooker**
 
 It consist of an insulated metal box or wooden box which is painted from inside so as to absorb maximum solar radiations. A thick glass sheet forms the cover over the box. The reflector is the plane mirror which is attached to the box. The food is cooked by energy radiated by the sun.
+
+![](img2.png)
 
 **Solar Thermal Power Plant**
 
@@ -253,6 +257,8 @@ The world's largest and tallest wind turbine is situated in Hawaii.
 
 Windmill is a machine that converts the energy of wind into rotational energy by broad blade attached to the rotating axis. When the blowing air strikes the blades of the windmill, it exerts force and causes the blades to rotate. The rotational movement of the blades operate the generator and the electricity is produced. The energy output from each windmill is coupled together to get electricity on a commercial scale.
 
+![](img3.png)
+
 #### Advantages of Wind Energy
 
 1. Wind energy is free, eco-friendly, renewable source of energy.
@@ -298,6 +304,9 @@ The main purpose of rainwater harvesting is to make the rainwater percolate unde
 **(i) Roof top rainwater harvesting:** Rooftops are excellent rain catchers. The rain water that falls on the roof of the houses, apartments, commercial buildings etc. is collected and stored in the surface tank and can be used for domestic purposes.
 
 **(ii) Recharge pit:** In this method, the rainwater is first collected from the roof tops or open spaces and is directed into the percolation pits through pipes for filtration. After filtration the rainwater enters the recharge pits or ground water.
+
+
+![](img4.png)
 
 People living in rural areas adopt a variety of water collecting methods to capture and store as rain water. Some of the methods used are:
 
@@ -382,6 +391,8 @@ Untreated sewage or wastewater generated from domestic and industrial process is
 - Sugar and breweries industries
 - Paper and pulp industries
 
+![](img5.png)
+
 ### Sewage/Wastewater Treatment Method
 
 The conventional wastewater treatment methods involve the following steps:
@@ -402,6 +413,8 @@ The conventional wastewater treatment methods involve the following steps:
 
 **Water recycling:** The water will then be supplied for domestic or industrial purposes.
 
+![](img6.png)
+
 ---
 
 ## 22.11 Solid Waste Management
@@ -416,9 +429,13 @@ Solid-waste management involves the collection, treatment and proper disposing o
 
 **(ii) Sanitary landfill:** Solid wastes are dumped into low lying areas. The layers are compacted by trucks to allow settlement. The waste materials get stabilised in about 2-12 months. The organic matter undergoes decomposition.
 
+![](img7.png)
+
 **(iii) Incineration:** It is the burning of non-biodegradable solid wastes (medical wastes) in properly constructed furnace at high temperature.
 
 **(iv) Composting:** Biodegradable matter of solid wastes is digested by microbial action or earthworms and converted into compost.
+
+![](img8.png)
 
 ### Recycling of Wastes
 
