@@ -133,6 +133,10 @@ _{92}\mathrm{U}^{238} \rightarrow _{90}\mathrm{Th}^{234} + _{2}\mathrm{He}^{4} \
 
 In α-decay, the parent nucleus emits an α particle and so it is clear that for the daughter nucleus, the mass number decreases by four and the atomic number decreases by two.
 
+
+![](1.png)
+
+
 ### 6.2.4 Beta decay
 
 A nuclear reaction, in which an unstable parent nucleus emits a beta particle and forms a stable daughter nucleus, is called **'beta decay'**.
@@ -161,6 +165,11 @@ In 1939, German Scientist Otto Hahn and F. Strassman discovered that when a uran
 _{92}\mathrm{U}^{235} + _{0}\mathrm{n}^{1} \rightarrow _{56}\mathrm{Ba}^{141} + _{36}\mathrm{Kr}^{92} + 3_{0}\mathrm{n}^{1} + Q \text{ (energy)}{{< /katex >}}
 
 The average energy released in each fission process is about 3.2 times {{< katex display=true >}}10^{-11} J{{< /katex >}}.
+
+
+![](2.png)
+
+
 
 ### 6.3.2 Fissionable materials
 
@@ -192,6 +201,10 @@ In the controlled chain reaction the number of neutrons released is maintained t
 
 In the uncontrolled chain reaction the number of neutrons multiplies indefinitely and causes fission in a large amount of the fissile material. This results in the release of a huge amount of energy within a fraction of a second. This kind of chain reaction is used in the **atom bomb** to produce an explosion.
 
+
+![](3.png)
+
+
 ### 6.3.4 Critical Mass
 
 During a nuclear fission process, about 2 to 3 neutrons are released. But, all these neutrons may not be available to produce further fission. Some of them may escape from the system, which is termed as **'leakage of neutrons'** and some may be absorbed by the non-fissionable materials present in the system. These two factors lead to the loss of neutrons. To sustain the chain reaction, the rate of production of neutrons due to nuclear fission must be more than the rate of its loss. This can be achieved only when the size (i.e., mass) of the fissionable material is equal to a certain optimum value. This is known as **'critical mass'**.
@@ -210,6 +223,10 @@ The atom bomb is based on the principle of **uncontrolled chain reaction**. In a
 
 **Structure:**
 An atom bomb consists of a piece of fissile material whose mass is subcritical. This piece has a cylindrical void. It has a cylindrical fissile material which can fit into this void and its mass is also subcritical. When the bomb has to be exploded, this cylinder is injected into the void using a conventional explosive. Now, the two pieces of fissile material join to form the supercritical mass, which leads to an explosion.
+
+
+![](4.png)
+
 
 During this explosion tremendous amount of energy in the form of heat, light and radiation is released. A region of very high temperature and pressure is formed in a fraction of a second along with the emission of hazardous radiation like γ rays, which adversely affect the living creatures. This type of atom bombs were exploded in 1945 at Hiroshima and Nagasaki in Japan during the World War II.
 
@@ -236,6 +253,10 @@ The process in which two lighter nuclei combine to form a heavier nucleus is ter
 _{1}\mathrm{H}^{2} + _{1}\mathrm{H}^{2} \rightarrow _{2}\mathrm{He}^{4} + Q \text{ (Energy)}{{< /katex >}}
 
 Here,{{< katex display=true >}} _{1}\mathrm{H}^{2} {{< /katex >}}represents an isotope of hydrogen known as **'deuterium'**. The average energy released in each fusion reaction is about {{< katex display=true >}}3.84 \times 10^{-12} J {{< /katex >}}.
+
+
+![](5.png)
+
 
 The mass of the daughter nucleus formed during a nuclear reaction (fission and fusion) is lesser than the sum of the masses of the two parent nuclei. This difference in mass is called **mass defect**. This mass is converted into energy, according to the mass-energy equivalence. This concept of mass-energy equivalence was proposed by Einstein in 1905. It stated that mass can be converted into energy and vice versa. The relation between mass and energy proposed by Einstein is:
 
@@ -337,6 +358,10 @@ The International Commission on Radiological Protection (ICRP) has recommended c
 
 ### 6.6.2 Preventive measures
 
+
+![](6.png)
+
+
 - Radioactive materials should be kept in a thick walled lead container.
 - Lead coated aprons and lead gloves should be used while working with hazardous radioactive materials.
 - You should avoid eating while handling radioactive materials.
@@ -371,6 +396,10 @@ The essential components of a nuclear reactor are:
 **iv. Coolant:** A coolant is used to remove the heat produced in the reactor core, to produce steam. This steam is used to run a turbine in order to produce electricity. Water, air and helium are some of the coolants.
 
 **v. Protection wall:** A thick concrete lead wall is built around the nuclear reactor in order to prevent the harmful radiations from escaping into the environment.
+
+
+![](7.png)
+
 
 ### 6.7.3 Uses of a nuclear reactor
 
@@ -762,6 +791,10 @@ Radio Activity
 
 [Uses] [Safety Measures]
 ```
+
+![](8.png)
+
+
 ---
 
 ## ICT CORNER
