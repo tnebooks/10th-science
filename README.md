@@ -4,6 +4,7 @@ Materails
 
 ## Dev
 ```sh
+git submodule add -f https://github.com/csebooks/hugo-book themes/hugo-book
 
-hugo server --themesDir ../
+hugo server --minify
 ```
