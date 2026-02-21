@@ -272,7 +272,9 @@ Obesity is the state in which there is an accumulation of excess body fat with a
 
 Obesity occurs if intake of calories is more than the expenditure of energy. Over weight and obesity are conditions where the body weight is greater than the mean standard weight for age and height of an individual. **Body mass index (BMI)** is an estimate of body fat and health risk.
 
-$$\text{BMI} = \text{Weight (kg)} / \text{Height (m)}^2$$
+{{< katex display=true >}}
+\text{BMI} = \text{Weight (kg)} / \text{Height (m)}^2
+{{< /katex >}}
 
 &gt; **More to Know**
 &gt; Every 7 calories of excess consumption leads to 1gm fat deposit and increase in body weight. Weight due to fat in adipose tissue exceeds more than 20% to 25% of body weight. An adult weighing 10% more than the standard weight is **OVERWEIGHT** and 20% more is **OBESE**.
