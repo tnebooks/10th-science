@@ -52,10 +52,13 @@ The comparative study of morphology and anatomy of animals, reveal that they pos
 #### i. Homologous Organs
 The homologous organs are those which have inherited from common ancestors with similar developmental pattern in embryos. The fore limbs of mammals are homologous structures. A human hand, a front leg of a cat, flipper of a whale and a bat's wing look dissimilar and adapted for different functions. Their mode of development and basic structure of bone are similar.
 
-*Figure 19.1: Forelimbs of vertebrates showing homologous structure*
+![](p1.png)
 
+*Figure 19.1: Forelimbs of vertebrates showing homologous structure*
 #### ii. Analogous Organs
 The analogous organs look similar and perform similar functions but they have different origin and developmental pattern. The function of the wings of a bat, the wings of a bird and wings of an insect are similar, but their basic structures are different.
+
+![](p2.png)
 
 *Figure 19.2: Analogous structure showing a bat wing, a bird wing and an insect wing*
 
@@ -70,6 +73,8 @@ The reappearance of ancestral characters in some individuals is called atavism. 
 ### 19.2.2 Evidences from Embryology
 The study of comparative embryology of different animals, supports the concept of evolution. The embryos from fish to mammals are similar in their early stages of development. The differentiation of their special characters appear in the later stages of development.
 
+![](p3.png)
+
 *Figure 19.3: Embryonic development of vertebrates*
 
 **Biogenetic law or Recapitulation theory** was given by Ernst Haeckel. According to this theory, **Ontogeny recapitulates Phylogeny**. The stages of development of the individual animal repeats the evolutionary history of the entire race of the animal.
@@ -81,6 +86,8 @@ Palaeontology deals with the study of fossils. Leonardo da Vinci is called the F
 
 #### Archaeopteryx
 Archaeopteryx is the oldest known fossil bird. It was an early birdlike form found in the Jurassic period. It is considered to be a connecting link between reptiles and birds. It had wings with feathers, like a bird. It had long tail, clawed digits and conical teeth, like a reptile.
+
+![](p4.png)
 
 *Figure 19.4: Archaeopteryx - Fossil bird*
 
@@ -108,6 +115,8 @@ The ancestors of giraffe were provided with short neck and short forelimbs. Due 
 ##### iv. Theory of Inheritance of Acquired Characters
 When there is a change in the environment, the animals respond to the change. They develop adaptive structures. The characters developed by the animals during their life time, in response to the environmental changes are called acquired characters. According to Lamarck, the acquired characters are transmitted to the offspring by the process of inheritance.
 
+![](f1.png
+)
 *Flow chart showing the postulates of Lamarckism*
 
 ---
@@ -136,6 +145,8 @@ During the struggle for existence, the organisms which can overcome the challeng
 
 ##### v. Origin of Species
 According to Darwin, new species originates by the gradual accumulation of favourable variations for a number of generations.
+
+![](f2.png)
 
 *Flowchart showing the postulates of Darwinism*
 
@@ -249,6 +260,8 @@ ii. It must have an orbit at just the right distance from its star (Sun) that it
 In our solar system 'Earth' is the only planet in the goldilock zone. Since, this zone varies at times as the star evolves, we know that Mars have also been habitable. The life on Mars are likely to be the creatures, we find in extreme environments on earth.
 
 The organisms which live in extreme environmental conditions on earth are called extremophiles. Thus, within our own Solar System, there are many areas that are different from the Earth where it is probable to find the presence of life similar to extremophile bacteria.
+
+![](p5.png)
 
 *Figure 19.5: Microbial diversity from sandstone and granite from the McMurdo Dry Valleys, Antarctica*
 
