@@ -89,7 +89,7 @@ Vascular bundle in which xylem completely surrounds the phloem or vice versa is 
 **Endarch**: Protoxylem lies towards the centre and metaxylem lies towards the
 
 **Exarch**: Protoxylem lies towards the periphery and metaxylem lies towards the
-
+![](types_of_vascular_bundle.png)
 *Figure 12.1 Types of vascular bundle*
 
 ## 12.3 Internal Structure of Dicot Root (Bean)
@@ -108,7 +108,7 @@ A thin transverse section of dicot root shows the following
 (b) **Vascular bundle**: It is radial. Xylem is exarch and tetrach. The tissue present between xylem and phloem is called conjunctive tissue. In dicot root, it is made up of
 
 (c) **Pith**: Young root contains pith whereas in old root pith is
-
+![](Transverse.png)
 *Figure 12.2 Transverse section of Dicot root*
 
 ## 12.4 Internal Structure of Monocot Root (Maize)
@@ -127,7 +127,7 @@ a) **Pericycle**: It is a single layer of thin walled cells. The lateral roots o
 b) **Vascular tissues**: It consists of many patches of xylem and phloem arranged radially. The xylem is exarch and polyarch. The conjunctive tissue is made up of sclerenchyma.
 
 c) **Pith**: It is present at the center. It is made up of parenchyma cells with intercellular spaces. It contains abundant amount of starch grains. It stores food.
-
+![](section.png)
 *Figure 12.3 Transverse section of Monocot root*
 
 ### Table 12.2 Differences between Dicot and Monocot root
@@ -164,7 +164,7 @@ The transverse section of a dicot stem reveals the following structures.
    (iii) **Vascular bundle**: Vascular bundles are conjoint, collateral, endarch and open. They are arranged in the form of a ring around the pith.
 
    (iv) **Pith**: The large central parenchymatous zone with intercellular spaces is called pith. It helps in the storage of food materials.
-
+![](Dicot.png)
 *Figure 12.4 Transverse section of Dicot stem*
 
 ## 12.6 Internal Structure of Monocot Stem (Maize)
@@ -183,7 +183,7 @@ A transverse section of monocot stem reveals the following structures.
    (b) **Phloem**: It consists of sieve tube elements and companion cells. Phloem parenchyma, and phloem fibers are absent.
 
 5. **Pith**: Pith is not differentiated in monocot stems.
-
+![](transverseee.png)
 *Figure 12.5 Transverse section of Monocot stem*
 
 ### Table 12.3 Differences between Dicot Stem Ex. Sunflower and Monocot Stem Ex. Maize
@@ -211,7 +211,7 @@ The transverse section of leaf shows the following structures.
    b) **Spongy parenchyma**: It is found below the palisade parenchyma tissue. Cells are almost spherical or oval and are irregularly arranged. Cells have intercellular spaces. It helps in gaseous
 
 (iv) **Vascular bundles**: Vascular bundle are present in mid-rib and lateral veins. Vascular bundles are conjoint, collateral and closed. Each vascular bundle is surrounded by a sheath of parenchymatous cells called bundle sheath. Each vascular bundle consists of xylem lying towards the upper epidermis and phloem towards the lower
-
+![](tra.png)
 *Figure 12.6 Transverse section of Dicot leaf*
 
 ## 12.8 Internal Structure of Monocot Leaf (Isobilateral Leaf) Ex. Grass Leaf
@@ -224,7 +224,7 @@ The transverse section of a monocot leaf reveals the following
 (iii) **Vascular bundles**: Large number of vascular bundles are present, some of which are small and some are
 
 Each vascular bundle is surrounded by parenchymatous bundle sheath. Vascular bundles are conjoint, collateral and closed. Xylem is present towards upper epidermis and phloem towards lower epidermis.
-
+![](monocot.png)
 *Figure 12.7 Transverse section of Monocot Leaf*
 
 ### Table 12.4 Differences between of Dicot and Monocot Leaf
@@ -244,7 +244,7 @@ Plastids are double membrane bound organelles found in plants and some algae. Th
 
 ### 12.9.2 Structure of Chloroplast
 Chloroplasts are green plastids containing green pigment called chlorophyll. Chloroplasts are oval shaped organelles having a diameter of 2-10 micrometer and a thickness of 1-2 micrometer.
-
+![](Ultrastructure.png)
 *Figure 12.8 Ultrastructure of Chloroplast*
 
 1. **Envelope**: Chloroplast envelope has outer and inner membranes which is separated by intermembrane space.
@@ -297,7 +297,7 @@ This was discovered by Robin Hill (1939). This reaction takes place in the prese
 Dark reaction or biosynthetic pathway takes place in stroma. During this reaction CO₂ is reduced into carbohydrates with the help of light generated ATP and NADPH+H⁺. This is also called as Calvin cycle and is carried out in the absence of light. It is called dark
 
 In Calvin cycle the inputs are CO₂ from the atmosphere and the ATP and NADPH+H⁺ produced from light
-
+![](photo.png)
 *Figure 12.9 Overview of Hill and Calvin cycle*
 
 > **Info:** Melvin Calvin, an American biochemist, discovered chemical pathway for photosynthesis. The cycle is named as Calvin cycle. He was awarded with Nobel Prize in the year 1961 for his work.
@@ -327,13 +327,13 @@ Mitochondria are filamentous or granular cytoplasmic organelles present in cells
 **Mitochondrial Membranes**: It consists two membranes called inner and outer membrane. Each membrane is 60-70Å thick. Outer mitochondrial membrane is smooth and freely permeable to most small molecules. It contains enzymes, proteins and lipids. It has porin molecules (proteins) which form channels for passage of molecules through
 
 Inner mitochondrial membrane is semi permeable membrane and regulates the passage of materials into and out of the mitochondria. It is rich in enzymes and carrier proteins. It consists of 80% proteins and
-
+![](Mitochondria.png)
 *Figure 12.10 Structure of Mitochondria*
 
 **Cristae**: The inner mitochondrial membrane gives rise to finger like projections called cristae. These cristae increase the inner surface area (fold in inner membrane) of the mitochondria to hold variety of enzymes.
 
 **Oxysomes**: The inner mitochondrial membrane bear minute regularly spaced tennis racket shaped particles known as oxysomes (F₁ particle). They involve in ATP synthesis.
-
+![](oxyzomes.png)
 *Figure 12.11 Structure of Oxysomes*
 
 **Mitochondrial matrix**: It is a complex mixture of proteins and lipids. Matrix contains enzymes for Krebs cycle, mitochondrial ribosomes (70S), tRNAs and mitochondrial DNA.
@@ -563,11 +563,7 @@ RQ = Volume of CO₂ liberated / Volume of O₂ consumed
 ---
 
 # Concept Map
-
-*Living world of plants branches into:*
-- **Plant Anatomy** → Vascular system → Monocot root, stem, leaves / Dicot root, stem, leaves
-- **Photosynthesis** → Chloroplast structure → Light dependent reaction → Light independent reaction → Affecting factors
-- **Respiration** → Mitochondria structure → Glycolysis → Krebs cycle → ETC → Affecting Factors
+![](map.png)
 
 ---
 
