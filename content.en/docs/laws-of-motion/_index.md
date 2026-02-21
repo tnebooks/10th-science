@@ -330,11 +330,9 @@ ii. a smaller force acting for a longer period of time.
 
 Newton's third law states that **'for every action, there is an equal and opposite reaction. They always act on two different bodies'**.
 
-If a body A applies a force 
-{{< katex display=true >}}
-F_A on a body B, then the body B reacts with force F_B on the body A, 
+If a body A applies a force {{< katex display=true >}}F_A {{< /katex >}}on a body B, then the body B reacts with force {{< katex display=true >}}F_B{{< /katex >}} on the body A, 
 
-which is equal to F_A in magnitude, but opposite in direction. F_B = -F_A
+which is equal to {{< katex display=true >}}F_A{{< /katex >}} in magnitude, but opposite in direction.{{< katex display=true >}} F_B = -F_A
 {{< /katex >}}
 
 **Examples:**
@@ -356,7 +354,7 @@ Let us prove the law of conservation of linear momentum with the following illus
 
 ### Proof:
 
-Let two bodies A and B having masses {{< katex display=true >}}m_1 and m_2 move with initial velocity u_1 and u_2 in a straight line. Let the velocity of the first body be higher than that of the second body. i.e., u_1 > u_2. During an interval of time t second, they tend to have a collision. After the impact, both of them move along the same straight line with a velocity v_1 and v_2
+Let two bodies A and B having masses {{< katex display=true >}}m_1 and m_2 {{< /katex >}}move with initial velocity {{< katex display=true >}}u_1 and u_2{{< /katex >}} in a straight line. Let the velocity of the first body be higher than that of the second body. i.e., {{< katex display=true >}}u_1 > u_2.{{< /katex >}} During an interval of time t second, they tend to have a collision. After the impact, both of them move along the same straight line with a velocity {{< katex display=true >}}v_1 and v_2
 {{< /katex >}} respectively.
 
 Force on body B due to A,
@@ -506,8 +504,7 @@ Let us see this from the following illustration:
 
 *Figure 1.10: A person in a moving lift*
 
-Let us consider a person of mass m, who is travelling in lift. The actual weight of the person is {{< katex display=true >}}W = mg which is acting vertically downwards. The reaction force exerted by the lift's surface \mathbf{R}
-{{< /katex >}}, taken as apparent weight is acting vertically upwards.
+Let us consider a person of mass m, who is travelling in lift. The actual weight of the person is {{< katex display=true >}}W = mg{{< /katex >}} which is acting vertically downwards. The reaction force exerted by the lift's surface {{< katex display=true >}}\mathbf{R}{{< /katex >}}, taken as apparent weight is acting vertically upwards.
 
 Let us see different possibilities of the apparent weight 'R' of the person that arise, depending on the motion of the lift; upwards or downwards which are given in Table 1.2
 
