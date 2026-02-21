@@ -77,19 +77,27 @@ When you talk about the velocity associated with any wave, there are two velocit
 
 **Wave velocity:** The velocity with which the wave travels through the medium is called wave velocity. In other words, the distance travelled by a sound wave in unit time is called the velocity of a sound wave.
 
-$$\therefore \text{Velocity} = \frac{\text{Distance}}{\text{Time taken}}$$
+{{< katex display=true >}}
+\therefore \text{Velocity} = \frac{\text{Distance}}{\text{Time taken}}
+{{< /katex >}}
 
 If the distance travelled by one wave is taken as one wavelength (λ) and the time taken for this propagation is one time period (T), then the expression for velocity can be written as:
 
-$$\therefore V = \frac{\lambda}{T}$$
+{{< katex display=true >}}
+\therefore V = \frac{\lambda}{T}
+{{< /katex >}}
 
 Therefore, velocity can be defined as the distance travelled per second by a sound wave. Since, Frequency (n) = 1/T, equation (5.1) can be written as:
 
-$$V = n\lambda$$
+{{< katex display=true >}}
+V = n\lambda
+{{< /katex >}}
 
 Velocity of a sound wave is maximum in solids because they are more elastic in nature than liquids and gases. Since, gases are least elastic in nature, the velocity of sound is the least in a gaseous medium.
 
-$$V_S \geq V_L \geq V_G$$
+{{< katex display=true >}}
+V_S \geq V_L \geq V_G
+{{< /katex >}}
 
 ---
 
@@ -99,14 +107,22 @@ In the case of solids, the elastic properties and the density of the solids affe
 In the case of gases, the following factors affect the velocity of sound waves.
 
 **Effect of density:** The velocity of sound in a gas is inversely proportional to the square root of the density of the gas. Hence, the velocity decreases as the density of the gas increases.
-$$v \propto \sqrt{\frac{1}{d}}$$
+{{< katex display=true >}}
+v \propto \sqrt{\frac{1}{d}}
+{{< /katex >}}
 
-**Effect of temperature:** The velocity of sound in a gas is directly proportional to the square root of its temperature. The velocity of sound in a gas increases with the increase in temperature. $v \propto \sqrt{T}$
+**Effect of temperature:** The velocity of sound in a gas is directly proportional to the square root of its temperature. The velocity of sound in a gas increases with the increase in temperature. {{< katex display=true >}}
+v \propto \sqrt{T}
+{{< /katex >}}
 
 Velocity at temperature T is given by the following equation:
-$$v_T = (v_0 + 0.61T) \text{ m s}^{-1}$$
+{{< katex display=true >}}
+v_T = (v_0 + 0.61T) \text{ m s}^{-1}
+{{< /katex >}}
 
-Here, $v_0$ is the velocity of sound in the gas at 0°C. For air, $v_0 = 331$ ms⁻¹. Hence, the velocity of sound changes by 0.61 ms⁻¹ when the temperature changes by one degree celsius.
+Here, {{< katex display=true >}}
+v_0 is the velocity of sound in the gas at 0°C. For air, v_0 = 331
+{{< /katex >}} ms⁻¹. Hence, the velocity of sound changes by 0.61 ms⁻¹ when the temperature changes by one degree celsius.
 
 **Effect of relative humidity:** When humidity increases, the speed of sound increases. That is why you can hear sound from long distances clearly during rainy seasons.
 
@@ -131,15 +147,25 @@ Speed of sound waves in different media are given in table 5.1.
 **1. At what temperature will the velocity of sound in air be double the velocity of sound in air at 0°C?**
 
 **Solution:**
-Let T°C be the required temperature. Let $v_1$ and $v_2$ be the velocity of sound at temperatures $T_1$K and $T_2$K respectively. $T_1 = 273$ K (0°C) and $T_2 = (T°C + 273)$ K
+Let T°C be the required temperature. Let {{< katex display=true >}}
+v_1 and $v_2 be the velocity of sound at temperatures T_1K and T_2K respectively. T_1 = 273 K (0°C) and T_2 = (T°C + 273)
+{{< /katex >}} K
 
-$$\frac{v_2}{v_1} = \sqrt{\frac{T_2}{T_1}} = \sqrt{\frac{273+T}{273}} = 2$$
+{{< katex display=true >}}
+\frac{v_2}{v_1} = \sqrt{\frac{T_2}{T_1}} = \sqrt{\frac{273+T}{273}} = 2
+{{< /katex >}}
 
-Here, it is given that, $v_2/v_1 = 2$.
+Here, it is given that, {{< katex display=true >}}
+v_2/v_1 = 2
+{{< /katex >}}.
 
-So, $\frac{273+T}{273} = 4$
+So, {{< katex display=true >}}
+\frac{273+T}{273} = 4
+{{< /katex >}}
 
-$T = (273 \times 4) - 273 = 819°C$
+{{< katex display=true >}}
+T = (273 \times 4) - 273 = 819°C
+{{< /katex >}}
 
 ---
 
@@ -222,13 +248,21 @@ If you shout or clap near a mountain or near a reflecting surface, like a buildi
 
 2. The above criterion can be satisfied only when the distance between the source of sound and the reflecting surface would satisfy the following equation:
 
-$$\text{Velocity} = \frac{\text{distance travelled by sound}}{\text{time taken}}$$
+{{< katex display=true >}}
+\text{Velocity} = \frac{\text{distance travelled by sound}}{\text{time taken}}
+{{< /katex >}}
 
-$$v = \frac{2d}{t}$$
+{{< katex display=true >}}
+v = \frac{2d}{t}
+{{< /katex >}}
 
-$$d = \frac{vt}{2}$$
+{{< katex display=true >}}
+d = \frac{vt}{2}
+{{< /katex >}}
 
-Since, t = 0.1 second, then $d = \frac{v \times 0.1}{2} = \frac{v}{20}$
+Since, t = 0.1 second, then {{< katex display=true >}}
+d = \frac{v \times 0.1}{2} = \frac{v}{20}
+{{< /katex >}}
 
 Thus the minimum distance required to hear an echo is 1/20th part of the magnitude of the velocity of sound in air. If you consider the velocity of sound as 344 ms⁻¹, the minimum distance required to hear an echo is 17.2 m.
 
@@ -255,7 +289,9 @@ A source of sound pulses, a measuring tape, a sound receiver, and a stop watch.
 **Calculation of speed of sound:**
 The sound pulse emitted by the source travels a total distance of 2d while travelling from the source to the wall and then back to the receiver. The time taken for this has been observed to be 't'. Hence, the speed of sound wave is given by:
 
-$$\text{Speed of sound} = \frac{\text{distance travelled}}{\text{time taken}} = \frac{2d}{t}$$
+{{< katex display=true >}}
+\text{Speed of sound} = \frac{\text{distance travelled}}{\text{time taken}} = \frac{2d}{t}
+{{< /katex >}}
 
 ---
 
@@ -285,7 +321,9 @@ Whenever there is a relative motion between a source and a listener, the frequen
 
 For simplicity of calculation, it is assumed that the medium is at rest. That is the velocity of the medium is zero.
 
-Let S and L be the source and the listener moving with velocities $v_S$ and $v_L$ respectively. Consider the case of source and listener moving towards each other. As the distance between them decreases, the apparent frequency will be more than the actual source frequency.
+Let S and L be the source and the listener moving with velocities {{< katex display=true >}}
+v_S and v_L
+{{< /katex >}} respectively. Consider the case of source and listener moving towards each other. As the distance between them decreases, the apparent frequency will be more than the actual source frequency.
 
 ![](7.png)
 
@@ -293,7 +331,9 @@ Let S and L be the source and the listener moving with velocities $v_S$ and $v_L
 
 Let n and n' be the frequency of the sound produced by the source and the sound observed by the listener respectively. Then, the expression for the apparent frequency n' is:
 
-$$n' = \left(\frac{v + v_L}{v - v_S}\right) n$$
+{{< katex display=true >}}
+n' = \left(\frac{v + v_L}{v - v_S}\right) n
+{{< /katex >}}
 
 Here, v is the velocity of sound waves in the given medium. Let us consider different possibilities of motions of the source and the listener. In all such cases, the expression for the apparent frequency is given in table 5.2.
 
@@ -301,16 +341,34 @@ Here, v is the velocity of sound waves in the given medium. Let us consider diff
 
 | Case No. | Position of source and listener | Note | Expression for apparent frequency |
 |:---|:---|:---|:---|
-| 1 | Both source and listener move. They move towards each other | a) Distance between source and listener decreases. b) Apparent frequency is more than actual frequency. | $n' = \frac{v + v_L}{v - v_S} n$ |
-| 2 | Both source and listener move. They move away from each other | a) Distance between source and listener increases. b) Apparent frequency is less than actual frequency. c) $v_S$ and $v_L$ become opposite to that in case-1. | $n' = \frac{v - v_L}{v + v_S} n$ |
-| 3 | Both source and listener move. They move one behind the other. Source follows the listener | a) Apparent frequency depends on the velocities of the source and the listener. b) $v_S$ becomes opposite to that in case-2. | $n' = \frac{v - v_L}{v - v_S} n$ |
-| 4 | Both source and listener move. They move one behind the other. Listener follows the source | a) Apparent frequency depends on the velocities of the source and the listener. b) $v_S$ and $v_L$ become opposite to that in case-3. | $n' = \frac{v + v_L}{v + v_S} n$ |
-| 5 | Source at rest. Listener moves towards the source | a) Distance between source and listener decreases. b) Apparent frequency is more than actual frequency. c) $v_S = 0$ in case-1. | $n' = \frac{v + v_L}{v} n$ |
-| 6 | Source at rest. Listener moves away from the source | a) Distance between source and listener increases. b) Apparent frequency is less than actual frequency. c) $v_S = 0$ in case-2. | $n' = \frac{v - v_L}{v} n$ |
-| 7 | Listener at rest. Source moves towards the listener | a) Distance between source and listener decreases. b) Apparent frequency is more than actual frequency. c) $v_L = 0$ in case-1. | $n' = \frac{v}{v - v_S} n$ |
-| 8 | Listener at rest. Source moves away from the listener | a) Distance between source and listener increases. b) Apparent frequency is less than actual frequency. c) $v_L = 0$ in case-2. | $n' = \frac{v}{v + v_S} n$ |
+| 1 | Both source and listener move. They move towards each other | a) Distance between source and listener decreases. b) Apparent frequency is more than actual frequency. | {{< katex display=true >}}
+n' = \frac{v + v_L}{v - v_S} n
+{{< /katex >}} |
+| 2 | Both source and listener move. They move away from each other | a) Distance between source and listener increases. b) Apparent frequency is less than actual frequency. c) {{< katex display=true >}}
+v_S and v_L become opposite to that in case-1. | n' = \frac{v - v_L}{v + v_S} n
+{{< /katex >}} |
+| 3 | Both source and listener move. They move one behind the other. Source follows the listener | a) Apparent frequency depends on the velocities of the source and the listener. b) {{< katex display=true >}}
+v_S becomes opposite to that in case-2. | n' = \frac{v - v_L}{v - v_S} n
+{{< /katex >}} |
+| 4 | Both source and listener move. They move one behind the other. Listener follows the source | a) Apparent frequency depends on the velocities of the source and the listener. b) {{< katex display=true >}}
+v_S and v_L become opposite to that in case-3. | n' = \frac{v + v_L}{v + v_S} n
+{{< /katex >}} |
+| 5 | Source at rest. Listener moves towards the source | a) Distance between source and listener decreases. b) Apparent frequency is more than actual frequency. c) {{< katex display=true >}}
+v_S = 0 in case-1. | n' = \frac{v + v_L}{v} n
+{{< /katex >}} |
+| 6 | Source at rest. Listener moves away from the source | a) Distance between source and listener increases. b) Apparent frequency is less than actual frequency. c) {{< katex display=true >}}
+v_S = 0 in case-2. | n' = \frac{v - v_L}{v} n
+{{< /katex >}} |
+| 7 | Listener at rest. Source moves towards the listener | a) Distance between source and listener decreases. b) Apparent frequency is more than actual frequency. c) {{< katex display=true >}}
+v_L = 0 in case-1. | n' = \frac{v}{v - v_S} n
+{{< /katex >}} |
+| 8 | Listener at rest. Source moves away from the listener | a) Distance between source and listener increases. b) Apparent frequency is less than actual frequency. c) {{< katex display=true >}}
+v_L = 0 in case-2. | n' = \frac{v}{v + v_S} n
+{{< /katex >}} |
 
-Suppose the medium (say wind) is moving with a velocity W in the direction of the propagation of sound. For this case, the velocity of sound, v should be replaced with $(v + W)$. If the medium moves in a direction opposite to the propagation of sound, then 'v' should be replaced with $(v - W)$.
+Suppose the medium (say wind) is moving with a velocity W in the direction of the propagation of sound. For this case, the velocity of sound, v should be replaced with {{< katex display=true >}}
+(v + W). If the medium moves in a direction opposite to the propagation of sound, then 'v' should be replaced with (v - W)
+{{< /katex >}}.
 
 ---
 
@@ -320,7 +378,9 @@ Suppose the medium (say wind) is moving with a velocity W in the direction of th
 
 **Solution:** When the source is moving towards the stationary listener, the expression for apparent frequency is:
 
-$$n' = n \frac{v}{v - v_s} = n \frac{v}{v - \frac{v}{10}} = n \frac{10}{9} = \frac{10}{9} \times 90 = 100 \text{ Hz}$$
+{{< katex display=true >}}
+n' = n \frac{v}{v - v_s} = n \frac{v}{v - \frac{v}{10}} = n \frac{10}{9} = \frac{10}{9} \times 90 = 100 \text{ Hz}
+{{< /katex >}}
 
 ---
 
@@ -328,7 +388,9 @@ $$n' = n \frac{v}{v - v_s} = n \frac{v}{v - \frac{v}{10}} = n \frac{10}{9} = \fr
 
 **Solution:** When the source is moving towards the stationary listener, the expression for apparent frequency is:
 
-$$n' = n \frac{v}{v - v_s} = 500 \times \frac{330}{330 - 30} = 550 \text{ Hz}$$
+{{< katex display=true >}}
+n' = n \frac{v}{v - v_s} = 500 \times \frac{330}{330 - 30} = 550 \text{ Hz}
+{{< /katex >}}
 
 ---
 
@@ -336,15 +398,23 @@ $$n' = n \frac{v}{v - v_s} = 500 \times \frac{330}{330 - 30} = 550 \text{ Hz}$$
 
 **Solution:** When the source is moving towards the stationary listener, the expression for apparent frequency is:
 
-$$n' = n \frac{v}{v - v_s}$$
+{{< katex display=true >}}
+n' = n \frac{v}{v - v_s}
+{{< /katex >}}
 
-$$1000 = n \frac{330}{330 - 50}$$
+{{< katex display=true >}}
+1000 = n \frac{330}{330 - 50}
+{{< /katex >}}
 
-$$n = \frac{1000 \times 280}{330} = 848.48 \text{ Hz}$$
+{{< katex display=true >}}
+n = \frac{1000 \times 280}{330} = 848.48 \text{ Hz}
+{{< /katex >}}
 
 The actual frequency of the sound is 848.48 Hz. When the source is moving away from the stationary listener, the expression for apparent frequency is:
 
-$$n' = n \frac{v}{v + v_s} = 848.48 \times \frac{330}{330 + 50} = 736.84 \text{ Hz}$$
+{{< katex display=true >}}
+n' = n \frac{v}{v + v_s} = 848.48 \times \frac{330}{330 + 50} = 736.84 \text{ Hz}
+{{< /katex >}}
 
 ---
 
@@ -352,7 +422,9 @@ $$n' = n \frac{v}{v + v_s} = 848.48 \times \frac{330}{330 + 50} = 736.84 \text{ 
 
 **Solution:** When source and listener are both moving towards each other, the apparent frequency is:
 
-$$n' = n \frac{v + v_L}{v - v_S} = n \frac{v + \frac{v}{10}}{v - \frac{v}{10}} = n \frac{11}{9} = 1.22f$$
+{{< katex display=true >}}
+n' = n \frac{v + v_L}{v - v_S} = n \frac{v + \frac{v}{10}}{v - \frac{v}{10}} = n \frac{11}{9} = 1.22f
+{{< /katex >}}
 
 ---
 
@@ -360,11 +432,17 @@ $$n' = n \frac{v + v_L}{v - v_S} = n \frac{v + \frac{v}{10}}{v - \frac{v}{10}} =
 
 **Solution:** When the source is moving away from the stationary listener, the expression for the apparent frequency is:
 
-$$n' = n \frac{v}{v + v_s}$$
+{{< katex display=true >}}
+n' = n \frac{v}{v + v_s}
+{{< /katex >}}
 
-$$\frac{n}{2} = n \frac{v}{v + v_s}$$
+{{< katex display=true >}}
+\frac{n}{2} = n \frac{v}{v + v_s}
+{{< /katex >}}
 
-$$v_s = v$$
+{{< katex display=true >}}
+v_s = v
+{{< /katex >}}
 
 ---
 
@@ -513,7 +591,9 @@ In SONAR, by measuring the change in the frequency between the sent signal and r
 
 1. Why does sound travel faster on a rainy day than on a dry day?
 2. Why does an empty vessel produce more sound than a filled one?
-3. Air temperature in the Rajasthan desert can reach 46°C. What is the velocity of sound in air at that temperature? ($v_0 = 331$ ms⁻¹)
+3. Air temperature in the Rajasthan desert can reach 46°C. What is the velocity of sound in air at that temperature? ({{< katex display=true >}}
+v_0 = 331
+{{< /katex >}} ms⁻¹)
 4. Explain why, the ceilings of concert halls are curved.
 5. Mention two cases in which there is no Doppler effect in sound?
 
