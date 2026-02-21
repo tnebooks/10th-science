@@ -43,8 +43,10 @@ There are five major classes of plant hormones:
 5. **Ethylene**
 
 Among all these plant hormones, **auxins, cytokinins and gibberellins promote plant growth** while **abscisic acid and ethylene inhibit plant growth**.
+![](img1.png)
 
 ---
+
 
 ## 16.1.1 Auxins
 
@@ -62,6 +64,8 @@ Charles Darwin (1880) observed unilateral growth and curvature of canary grass (
 
 From his experiments, Went concluded that a chemical diffusing from the tip of coleoptiles was responsible for growth, and he named it **"Auxin"** meaning 'to grow'.
 
+![](img2.png)
+
 ### Types of Auxins
 
 | Type | Description | Examples |
@@ -76,6 +80,8 @@ From his experiments, Went concluded that a chemical diffusing from the tip of c
 3. **Apical Dominance:** Auxins produced by apical buds suppress growth of lateral buds
 4. **Parthenocarpy:** Seedless fruits without fertilization (e.g., Watermelon, Grapes, Lime)
 5. **Prevents Abscission:** Auxins prevent the formation of abscission zone
+
+![](img3.png)
 
 ---
 
@@ -105,6 +111,8 @@ Gibberellins are the most abundantly found plant hormones. **Kurosawa (1926)** o
 4. **Dormancy:** Breaks dormancy of potato tubers
 5. **Parthenocarpy:** More efficient than auxins in inducing seedless fruits
 
+![](img4.png)
+
 ---
 
 ## 16.1.4 Abscisic Acid (ABA)
@@ -119,6 +127,7 @@ Abscisic acid is a **growth inhibitor** which regulates abscission and dormancy.
 4. **Bud Dormancy:** Induces bud dormancy towards approach of winter in trees like birch
 5. **Lateral Bud Growth:** Powerful inhibitor of lateral bud growth in plants
 
+![](img5.png)
 ---
 
 ## 16.1.5 Ethylene
@@ -136,6 +145,7 @@ Ethylene is a **gaseous plant hormone** and **growth inhibitor**. Mainly concern
 4. **Abscission:** Stimulates formation of abscission zone, leading to premature shedding
 5. **Dormancy:** Breaks dormancy of buds, seeds and storage organs
 
+![](img6.png)
 ---
 
 ## Concept Map: Plant Hormones
@@ -202,6 +212,7 @@ Called the **"Master gland"** because it regulates and controls other endocrine 
 
 **Diabetes Insipidus:** Deficiency of ADH causing reduced water reabsorption and increased urine output (polyuria).
 
+![](img7.png)
 ---
 
 ## 16.2.2 Thyroid Gland
@@ -209,6 +220,8 @@ Called the **"Master gland"** because it regulates and controls other endocrine 
 Composed of two distinct lobes lying on either side of the trachea, connected by the **isthmus**. Composed of glandular follicles filled with colloid material called **thyroglobulin**.
 
 **Requirements:** Tyrosine (amino acid) and **iodine** for hormone formation (120 μg iodine/day).
+
+![](img8.png)
 
 ### Thyroid Hormones
 - **Triiodothyronine (T3)**
@@ -246,6 +259,8 @@ Composed of two distinct lobes lying on either side of the trachea, connected by
 
 Four small oval bodies situated on the posterior surface of thyroid lobes. Chief cells secrete **Parathormone (PTH)**.
 
+![](img9.png)
+
 ### Functions
 - Regulates calcium and phosphorus metabolism
 - Acts on bone, kidney and intestine to maintain blood calcium levels
@@ -261,6 +276,8 @@ Four small oval bodies situated on the posterior surface of thyroid lobes. Chief
 ## 16.2.4 Pancreas (Islets of Langerhans)
 
 Elongated, yellowish gland in the loop of stomach and duodenum. Both **exocrine** (digestive enzymes) and **endocrine** (hormones).
+
+![](img10.png)
 
 **Islets of Langerhans** contain:
 - **Alpha cells** → secrete **Glucagon**
@@ -313,6 +330,8 @@ Composed of chromaffin cells; richly supplied with sympathetic and parasympathet
 
 Called **"Emergency hormones"** or **"Flight, fright and fight hormones"** - produced during stress and emotion.
 
+![](img11.png)
+
 ---
 
 ## 16.2.6 Reproductive Glands (Gonads)
@@ -354,6 +373,8 @@ Partly endocrine and partly lymphoid gland. Located in upper chest covering lowe
 ### Functions of Thymosin
 - Stimulatory effect on immune function
 - Stimulates production and differentiation of T-lymphocytes
+
+![](img12.png)
 
 ---
 
