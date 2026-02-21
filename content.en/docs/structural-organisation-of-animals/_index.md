@@ -269,7 +269,9 @@ In rabbit the teeth are of different types. Hence, the dentition is called **het
 Dental formula is the simple method of representing the teeth of a mammal. The number of each kind of tooth in the upper and the lower jaws on one side is counted.
 
 **Dental formula in rabbit:**
-$$\frac{I\frac{2}{1}, C\frac{0}{0}, PM\frac{3}{2}, M\frac{3}{3}}{I\frac{1}{1}, C\frac{0}{0}, PM\frac{2}{1}, M\frac{3}{3}}$$
+{{< katex display=true >}}
+\frac{I\frac{2}{1}, C\frac{0}{0}, PM\frac{3}{2}, M\frac{3}{3}}{I\frac{1}{1}, C\frac{0}{0}, PM\frac{2}{1}, M\frac{3}{3}}
+{{< /katex >}}
 
 Or written as: **2033/1023**
 
