@@ -2,6 +2,7 @@
 title: 'NUCLEAR PHYSICS'
 weight: 6
 ---
+# UNIT 6:  NUCLEAR PHYSICS
 
 ## Learning Objectives
 After learning this unit, students will be able to:
@@ -66,8 +67,13 @@ Using the periodic table, list out the radioactive elements. Also identify the n
 If you denote the parent and daughter nuclei as X and Y respectively, then the nuclear disintegration is represented as follows: **X (P,E) Y**. Here, P and E represent the projectile particle and ejected particle respectively.
 
 **Example:**
+
 {{< katex display=true >}}
-_{4}\mathrm{Be}^{9} + _{2}\mathrm{He}^{4} \rightarrow _{6}\mathrm{C}^{13*} \rightarrow _{6}\mathrm{C}^{12} + _{0}\mathrm{n}^{1}
+_{4}\mathrm{Be}^{9} + _{2}\mathrm{He}^{4} \rightarrow _{6}\mathrm{C}^{13*}
+{{< /katex >}}
+
+{{< katex display=treu >}}
+_{6}\mathrm{C}^{13*}\rightarrow _{6}\mathrm{C}^{12} + _{0}\mathrm{n}^{1}
 {{< /katex >}}
 
 
@@ -113,15 +119,14 @@ In 1913, Soddy and Fajan framed the displacement laws governing the daughter nuc
 
 **Table 6.2 Properties of alpha, beta and gamma rays**
 
-| Properties | α rays | β rays | γ rays |
-|:---|:---|:---|:---|
-| What are they? | Helium nucleus 
-{{< katex display=true >}}(_{2}\mathrm{He}^{4}) {{< /katex >}}consisting of two protons and two neutrons. | They are electrons {{< katex display=true >}}(_{-1}\mathrm{e}^{0}){{< /katex >}}, basic elementary particle in all atoms. | They are electromagnetic waves consisting of photons. |
-| Charge | Positively charged particles. Charge of each alpha particle = +2e | Negatively charged particles. Charge of each beta particle = -e | Neutral particles. Charge of each gamma particle = zero |
-| Ionising power | 100 times greater than β rays and 10,000 times greater than γ rays | Comparatively low | Very less ionization power |
-| Penetrating power | Low penetrating power (even stopped by a thick paper) | Penetrating power is greater than that of α rays. They can penetrate through a thin metal foil. | They have a very high penetrating power greater than that of β rays. They can penetrate through thick metal blocks. |
-| Effect of electric and magnetic field | Deflected by both the fields. (in accordance with Fleming's left hand rule) | Deflected by both the fields; but the direction of deflection is opposite to that for alpha rays. (in accordance with Fleming's left hand rule) | They are not deflected by both the fields. |
-| Speed | Their speed ranges from 1/10 to 1/20 times the speed of light. | Their speed can go up to 9/10 times the speed of light. | They travel with the speed of light. |
+| **Properties** | **α rays** | **β rays** | **γ rays** |
+|---|---|---|---|
+| **What are they?** | Helium nucleus $$^{4}_{2}\mathrm{He}$$ consisting of two protons and two neutrons. | They are electrons $$_{-1}e^{0}$$, basic elementary particles present in atoms. | They are electromagnetic waves consisting of photons. |
+| **Charge** | Positively charged particles. Charge of each alpha particle = $$+2e$$ | Negatively charged particles. Charge of each beta particle = $$-e$$ | Neutral particles. Charge of each gamma particle = $$0$$ |
+| **Ionising power** | 100 times greater than β rays and 10,000 times greater than γ rays. | Comparatively low. | Very low ionising power. |
+| **Penetrating power** | Low penetrating power (even stopped by a thick paper). | Penetrating power is greater than that of α rays. They can penetrate through a thin metal foil. | They have a very high penetrating power greater than that of β rays. They can penetrate through thick metal blocks. |
+| **Effect of electric and magnetic field** | Deflected by both the fields (in accordance with Fleming’s left-hand rule). | Deflected by both the fields, but the direction of deflection is opposite to that for α rays (in accordance with Fleming’s left-hand rule). | They are not deflected by both the fields. |
+| **Speed** | Their speed ranges from $$\frac{1}{10}$$ to $$\frac{1}{20}$$ times the speed of light. | Their speed can go up to $$\frac{9}{10}$$ times the speed of light. | They travel with the speed of light. |
 
 ### 6.2.3 Alpha decay
 
@@ -136,6 +141,7 @@ In α-decay, the parent nucleus emits an α particle and so it is clear that for
 
 ![](1.png)
 
+**Figure 6.1** Alpha decay
 
 ### 6.2.4 Beta decay
 
@@ -164,10 +170,12 @@ In 1939, German Scientist Otto Hahn and F. Strassman discovered that when a uran
 **E.g.:** Nuclear fission of a uranium nucleus{{< katex display=true >}} (\mathrm{U}^{235})
 _{92}\mathrm{U}^{235} + _{0}\mathrm{n}^{1} \rightarrow _{56}\mathrm{Ba}^{141} + _{36}\mathrm{Kr}^{92} + 3_{0}\mathrm{n}^{1} + Q \text{ (energy)}{{< /katex >}}
 
-The average energy released in each fission process is about 3.2 times {{< katex display=true >}}10^{-11} J{{< /katex >}}.
+The average energy released in each fission process is about 3.2 x {{< katex >}}10^{-11} J{{< /katex >}}. Nuclear fission is pictorially represented in Figure 6.2
 
 
 ![](2.png)
+
+**Figure 6.2** Nuclear fission
 
 
 
@@ -204,6 +212,7 @@ In the uncontrolled chain reaction the number of neutrons multiplies indefinitel
 
 ![](3.png)
 
+**Figure 6.3** Uncontrolled chain reaction
 
 ### 6.3.4 Critical Mass
 
@@ -226,6 +235,8 @@ An atom bomb consists of a piece of fissile material whose mass is subcritical. 
 
 
 ![](4.png)
+
+**Figure 6.4** Atom bomb
 
 
 During this explosion tremendous amount of energy in the form of heat, light and radiation is released. A region of very high temperature and pressure is formed in a fraction of a second along with the emission of hazardous radiation like γ rays, which adversely affect the living creatures. This type of atom bombs were exploded in 1945 at Hiroshima and Nagasaki in Japan during the World War II.
@@ -257,6 +268,7 @@ Here,{{< katex display=true >}} _{1}\mathrm{H}^{2} {{< /katex >}}represents an i
 
 ![](5.png)
 
+**Figure 6.5** Nuclear fusion
 
 The mass of the daughter nucleus formed during a nuclear reaction (fission and fusion) is lesser than the sum of the masses of the two parent nuclei. This difference in mass is called **mass defect**. This mass is converted into energy, according to the mass-energy equivalence. This concept of mass-energy equivalence was proposed by Einstein in 1905. It stated that mass can be converted into energy and vice versa. The relation between mass and energy proposed by Einstein is:
 
@@ -361,6 +373,7 @@ The International Commission on Radiological Protection (ICRP) has recommended c
 
 ![](6.png)
 
+**Figure. 6.6** Lead coated aprons model.
 
 - Radioactive materials should be kept in a thick walled lead container.
 - Lead coated aprons and lead gloves should be used while working with hazardous radioactive materials.
@@ -399,6 +412,8 @@ The essential components of a nuclear reactor are:
 
 
 ![](7.png)
+
+**Figure 6.7** Schematic diagram of a nuclear reactor
 
 
 ### 6.7.3 Uses of a nuclear reactor
