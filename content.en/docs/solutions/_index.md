@@ -23,7 +23,8 @@ You have learnt about mixtures in your lower classes. Most of the substances tha
 
 In some cases of mixtures, their components can be separated easily whereas in some other cases they cannot be. Consider the two mixtures, one which contains salt and water, and the another which contains sand and water. Water is the one of the components in both the mixtures. In the first case salt dissolves in water. In the second case the sand does not dissolve in water. Sand in water can be separated by filtration but salt cannot be separated as it dissolves in water to form a homogeneous mixture. This kind of homogenous mixtures are termed as **solutions**.
 
-**Figure 9.1** a) Homogeneous mixture b) Heterogeneous mixture
+
+![a) Homogeneous mixture b) Heterogeneous mixture](1.png)
 
 ---
 
@@ -39,7 +40,7 @@ All the life forms on the earth are associated with solutions. Plants take solut
 
 We know that, a solution is a homogeneous mixture of two or more substances. In a solution, the component which is present in lesser amount (by weight), is called **solute** and the component, which is present in a larger amount (by weight) is called **solvent**. The solute gets distributed uniformly throughout the solvent and thus forming the mixture homogeneous. So, the solvent acts as a dissolving medium in a solution. The process of uniform distribution of solute into solvent is called **dissolution**.
 
-**Figure 9.2** Formation of solution
+![Formation of solution](2.png)
 
 > **Conceptual Thoughts**
 > All solutions are mixtures; but all mixtures are not solutions. Why?
@@ -48,7 +49,7 @@ A solution must at least be consisting of two components (a solute and a solvent
 
 Similarly, a solution may contain more than two components. For example if salt and sugar are added to water, both dissolve in water forming a solution. Here two solutes are dissolved in one solvent. Such kind of solutions which contain three components are called **ternary solutions**.
 
-**Figure 9.3** Formation of Copper sulphate solution
+![Formation of Copper sulphate solution](3.png)
 
 ---
 
@@ -90,7 +91,7 @@ The solution in which any liquid, other than water, acts as a solvent is called 
 
 - **Examples for non-aqueous solutions:** Sulphur dissolved in carbon disulphide, Iodine dissolved in carbon disulphide
 
-**Figure 9.4** a) Sulphur is soluble in CS₂ b) Sulphur is insoluble in water
+![a) Sulphur is soluble in CS₂ b) Sulphur is insoluble in water](4.png)
 
 ### 9.3.3 Based on the amount of solute
 
@@ -120,7 +121,7 @@ For example, you are given two cups of tea. When you taste them, you feel that o
 
 When we compare two solutions having same solute and solvent, the one which contains higher amount of solute per the given amount of solvent is said to be **'concentrated solution'** and the another is said to be **'dilute solution'**.
 
-**Figure 9.5** Dilute and Concentrated Solution
+![Dilute and Concentrated Solution](5.png)
 
 Differentiating solutions as dilute and concentrated is a qualitative representation. It does not imply the quantity of the solute. This difference is observed by means of some physical characteristics such as colour, density, etc.
 
@@ -186,7 +187,7 @@ Effect of pressure is observed only in the case of solubility of a gas in a liqu
 
 The common examples for solubility of gases in liquids are carbonated beverages, i.e. soft drinks, household cleaners containing aqueous solution of ammonia, formalin-aqueous solution of formaldehyde.
 
-**Figure 9.6** Effect of pressure on solubility
+![Effect of pressure on solubility](6.png)
 
 > **More to know**
 > The effect of pressure on the solubility of a gas in liquid is given by **Henry's law**. It states that, the solubility of a gas in a liquid is directly proportional to the pressure of the gas over the solution at a definite temperature.
@@ -233,7 +234,7 @@ Usually volume percentage is expressed as **v/v (volume/volume)**. It is used wh
 
 You can notice that in the commercial products that we come across in our daily life such as a solution of syrups, mouth wash, antiseptic solution, household disinfectants etc., the concentration of the ingredients is expressed as v/v. Similarly, in ointments, antacid, soaps, etc., the concentration of solutions are expressed as w/w.
 
-**Figure 9.7** Ointment (w/w percent)
+![Ointment (w/w percent)](7.png)
 
 ---
 
@@ -241,7 +242,7 @@ You can notice that in the commercial products that we come across in our daily 
 
 When ionic substances are dissolved in water to make their saturated aqueous solution, their ions attract water molecules which then attached chemically in certain ratio. This process is called **hydration**. These ionic substances crystallize out from their saturated aqueous solution with a definite number of molecules of water. The number of water molecules found in the crystalline substance is called **water of crystallization**. Such salts are called **hydrated salts**.
 
-**Figure 9.8** a) Crystalline hydrated salt b) Amorphous anhydrous salt
+![a) Crystalline hydrated salt b) Amorphous anhydrous salt](8.png)
 
 On heating these hydrated crystalline salts, they lose their water of crystallization and become amorphous or lose their colour (if they are coloured).
 
@@ -264,11 +265,11 @@ $$\text{CuSO}_4 \cdot 5\text{H}_2\text{O} \underset{\text{Cooling}}{\stackrel{\t
 (Copper sulphate pentahydrate) → (Anhydrous copper sulphate)
 Blue colour → colourless
 
-**Figure 9.9** a) Copper sulphate before heating b) Copper sulphate after heating
+![a) Copper sulphate before heating b) Copper sulphate after heating](9.png)
 
 If you add few drops of water or allow it to cool, the colourless anhydrous salt again turns back into blue coloured hydrated salt.
 
-**Figure 9.10** Anhydrous copper sulphate turns to blue when water is added
+![Anhydrous copper sulphate turns to blue when water is added](10.png)
 
 ### 9.6.2 Magnesium sulphate heptahydrate MgSO₄·7H₂O (Epsom salt)
 
@@ -308,7 +309,7 @@ Deliquescent substances lose their crystalline shape and ultimately dissolve in 
 
 **Examples:** Caustic soda (NaOH), Caustic potash (KOH) and Ferric chloride
 
-**Figure 9.11** Deliquescence in Sodium hydroxide
+![Deliquescence in Sodium hydroxide](11.png)
 
 **Table 9.3 Difference between hygroscopic substances and deliquescent substances**
 
