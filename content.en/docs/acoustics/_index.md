@@ -3,7 +3,7 @@ title: 'ACOUSTICS'
 weight: 5
 ---
 
-# 5. ACOUSTICS
+# UNIT 5 : ACOUSTICS
 
 ## Learning Objectives
 By the end of this section, the students will be able to:
@@ -120,9 +120,8 @@ Velocity at temperature T is given by the following equation:
 v_T = (v_0 + 0.61T) \text{ m s}^{-1}
 {{< /katex >}}
 
-Here, {{< katex display=true >}}
-v_0 is the velocity of sound in the gas at 0°C. For air, v_0 = 331
-{{< /katex >}} ms⁻¹. Hence, the velocity of sound changes by 0.61 ms⁻¹ when the temperature changes by one degree celsius.
+Here,
+v_0 is the velocity of sound in the gas at 0°C. For air, v_0 = 331 ms⁻¹. Hence, the velocity of sound changes by 0.61 ms⁻¹ when the temperature changes by one degree celsius.
 
 **Effect of relative humidity:** When humidity increases, the speed of sound increases. That is why you can hear sound from long distances clearly during rainy seasons.
 
@@ -147,9 +146,7 @@ Speed of sound waves in different media are given in table 5.1.
 **1. At what temperature will the velocity of sound in air be double the velocity of sound in air at 0°C?**
 
 **Solution:**
-Let T°C be the required temperature. Let {{< katex display=true >}}
-v_1 and v_2 be the velocity of sound at temperatures T_1K and T_2K respectively. T_1 = 273 K (0°C) and T_2 = (T°C + 273)
-{{< /katex >}} K
+Let T°C be the required temperature. Let v_1 and v_2 be the velocity of sound at temperatures T_1K and T_2K respectively. T_1 = 273 K (0°C) and T_2 = (T°C + 273) K
 
 {{< katex display=true >}}
 \frac{v_2}{v_1} = \sqrt{\frac{T_2}{T_1}} = \sqrt{\frac{273+T}{273}} = 2
@@ -236,7 +233,7 @@ This principle is used in designing whispering halls. In a whispering hall, the 
 
 ---
 
-## ECHOES
+## 5.3 ECHOES
 An echo is the sound reproduced due to the reflection of the original sound from various rigid surfaces such as walls, ceilings, surfaces of mountains, etc.
 
 If you shout or clap near a mountain or near a reflecting surface, like a building you can hear the same sound again. The sound, which you hear is called an echo. It is due to the reflection of sound. One does not experience any echo sound in a small room. This does not mean that sound is not reflected in a small room. This is because smaller rooms do not satisfy the basic conditions for hearing an echo.
@@ -338,37 +335,11 @@ n' = \left(\frac{v + v_L}{v - v_S}\right) n
 Here, v is the velocity of sound waves in the given medium. Let us consider different possibilities of motions of the source and the listener. In all such cases, the expression for the apparent frequency is given in table 5.2.
 
 **Table 5.2** Expression for apparent frequency due to Doppler effect
+![](9.png)![](8.png)
 
-| Case No. | Position of source and listener | Note | Expression for apparent frequency |
-|:---|:---|:---|:---|
-| 1 | Both source and listener move. They move towards each other | a) Distance between source and listener decreases. b) Apparent frequency is more than actual frequency. | {{< katex display=true >}}
-n' = \frac{v + v_L}{v - v_S} n
-{{< /katex >}} |
-| 2 | Both source and listener move. They move away from each other | a) Distance between source and listener increases. b) Apparent frequency is less than actual frequency. c) {{< katex display=true >}}
-v_S and v_L become opposite to that in case-1. | n' = \frac{v - v_L}{v + v_S} n
-{{< /katex >}} |
-| 3 | Both source and listener move. They move one behind the other. Source follows the listener | a) Apparent frequency depends on the velocities of the source and the listener. b) {{< katex display=true >}}
-v_S becomes opposite to that in case-2. | n' = \frac{v - v_L}{v - v_S} n
-{{< /katex >}} |
-| 4 | Both source and listener move. They move one behind the other. Listener follows the source | a) Apparent frequency depends on the velocities of the source and the listener. b) {{< katex display=true >}}
-v_S and v_L become opposite to that in case-3. | n' = \frac{v + v_L}{v + v_S} n
-{{< /katex >}} |
-| 5 | Source at rest. Listener moves towards the source | a) Distance between source and listener decreases. b) Apparent frequency is more than actual frequency. c) {{< katex display=true >}}
-v_S = 0 in case-1. | n' = \frac{v + v_L}{v} n
-{{< /katex >}} |
-| 6 | Source at rest. Listener moves away from the source | a) Distance between source and listener increases. b) Apparent frequency is less than actual frequency. c) {{< katex display=true >}}
-v_S = 0 in case-2. | n' = \frac{v - v_L}{v} n
-{{< /katex >}} |
-| 7 | Listener at rest. Source moves towards the listener | a) Distance between source and listener decreases. b) Apparent frequency is more than actual frequency. c) {{< katex display=true >}}
-v_L = 0 in case-1. | n' = \frac{v}{v - v_S} n
-{{< /katex >}} |
-| 8 | Listener at rest. Source moves away from the listener | a) Distance between source and listener increases. b) Apparent frequency is less than actual frequency. c) {{< katex display=true >}}
-v_L = 0 in case-2. | n' = \frac{v}{v + v_S} n
-{{< /katex >}} |
-
-Suppose the medium (say wind) is moving with a velocity W in the direction of the propagation of sound. For this case, the velocity of sound, v should be replaced with {{< katex display=true >}}
+Suppose the medium (say wind) is moving with a velocity W in the direction of the propagation of sound. For this case, the velocity of sound, v should be replaced with
 (v + W). If the medium moves in a direction opposite to the propagation of sound, then 'v' should be replaced with (v - W)
-{{< /katex >}}.
+.
 
 ---
 
