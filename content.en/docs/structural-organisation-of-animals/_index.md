@@ -25,7 +25,6 @@ The scientific name of the Indian cattle leech is **Hirudinaria granulosa** whic
 The scientific name of the common rabbit is **Oryctolagus cuniculus**. It represents Phylum Chordata and Class Mammalia. Mammals occupy the highest group in the animal kingdom and show advancement over the other groups of animals. They are warm blooded and possess covering of hair on the body. Mammary gland in females is the most striking feature of a mammal.
 
 
-
 # 13.1 The Indian Cattle Leech (Hirudinaria granulosa)
 
 ## Taxonomic Position
@@ -51,9 +50,7 @@ Hirudinaria granulosa (Indian Cattle Leech) is found in India, Bangladesh, Pakis
 
 **Receptors:** On the dorsal side there are five pairs of eyes on the first five segments. Each segment bears a number of sensory projections called receptors. Annular receptors are located in each annulus and segmental receptors are located on the first annulus of each segment.
 
-*Figure 13.1 External morphology of Leech*
-- A. Dorsal View
-- B. Ventral view
+![](img1.png)
 
 **Suckers:** Leech has two suckers. The sucker located at the anterior end is called anterior sucker or oral sucker which is ventral in position occupying the first five segments. The posterior sucker is formed by the fusion of the last seven segments. The anterior sucker helps in feeding, while both the suckers help in attachment and locomotion.
 
@@ -121,6 +118,8 @@ The ingested blood is stored in crop chambers and its diverticulum. The blood pa
 
 Leeches prevent blood clotting by secreting a protein called hirudin. They also inject an anaesthetic substance that prevents the host from feeling their bite.
 
+![](img2.png)
+
 > **More to Know**
 > - Leeches do not have ear, hence can sense vibrations through their skin.
 > - Leeches have 2 to 10 tiny eyes, which helps them to locate their food.
@@ -155,7 +154,7 @@ There are four longitudinal channels. One channel lies above (dorsal) the alimen
 ## 13.1.9 Nervous System
 The central nervous system of leech consists of a nerve ring and a paired ventral nerve cord. The nerve ring surrounds the pharynx and is formed of suprapharyngeal ganglion (brain), circumpharyngeal connective and subpharyngeal ganglion. The subpharyngeal ganglion lies below the pharynx and is formed by the fusion of four pairs of ganglia.
 
-*Figure 13.3 Nervous system of Leech*
+![](img3.png)
 
 ## 13.1.10 Excretory System
 In leech, excretion takes place by segmentally arranged paired tubules called nephridia. There are 17 pairs of nephridia which open out by nephridiopores from 6th to 22nd segments.
@@ -173,7 +172,7 @@ It consists of ovaries, oviducts and vagina. There is a single pair of ovary in 
 
 The ova are budded off from the ovary. From each ovary runs a short oviduct. The oviducts of the two sides joins together, to form a common oviduct. The common oviduct opens into a pear-shaped vagina which lies mid-ventrally in the posterior part of the 11th segment.
 
-*Figure 13.4 Reproductive system of Leech*
+![](img4.png)
 
 ### Development
 (i) Internal fertilization takes place. This is followed by cocoon formation. Cocoon is also known as egg case which is formed around the 9th, 10th and 11th segments.
@@ -220,7 +219,7 @@ Rabbits are gentle and timid animals. They show leaping movement and live in bur
 
 ## 13.2.2 External Morphology
 
-*Figure 13.5 Rabbit - External features*
+![](img5.png)
 
 **Shape, Size and Colouration:** It has an elongated and cylindrical body. Males and females are of the same size. They grow about 45 cm in length and weigh about 2.25 kg as adult. The colour varies from white to black and white. Body is covered with fur which serves to keep it warm.
 
@@ -264,7 +263,7 @@ Teeth are hard bone-like structures used to cut, tear and grind the food materia
 
 In rabbit the teeth are of different types. Hence, the dentition is called **heterodont**. There are four kinds of teeth in mammals viz. the incisors (I), canines (C), premolars (PM) and molars (M). This is expressed in the form of a dental formula.
 
-*Figure 13.7 Dentition of Rabbit (Arrangement of teeth in jaws)*
+![](img6.png)
 
 Dental formula is the simple method of representing the teeth of a mammal. The number of each kind of tooth in the upper and the lower jaws on one side is counted.
 
@@ -275,12 +274,14 @@ Dental formula is the simple method of representing the teeth of a mammal. The n
 
 Or written as: **2033/1023**
 
+![](img7.png)
+
 Canines are absent. The gap between the incisors and premolar is called **diastema**. It helps in mastication and chewing of food in herbivorous animals.
 
 ## 13.2.5 Respiratory System
 Respiration takes place by a pair of lungs, which are light spongy tissues enclosed in the thoracic cavity. The thoracic cavity is bound dorsally by the vertebral column and ventrally by the sternum, laterally by the ribs. On the lower side of the thoracic cavity is the dome shaped diaphragm.
 
-*Fig. 13.8 Lungs of Rabbit*
+![](img8.png)
 
 Each lung is enclosed by a double membranous pleura. Atmospheric air passes through the external nostril and nasal passages into the pharynx. From the pharynx it passes through the glottis into the wind pipe.
 
@@ -293,7 +294,7 @@ The respiratory events consist of inspiration (breathing in) and expiration (bre
 ## 13.2.6 Circulatory System
 The circulatory system is formed of blood, blood vessels and heart. The heart is pear shaped and lies in the thoracic cavity in between the lungs. It is enclosed by pericardium, a double layered membrane.
 
-*Fig. 13.9 Heart of Rabbit - Ventral View*
+![](img9.png)
 
 The heart is four chambered with two auricles and two ventricles. The right and left auricles are separated by interauricular septum, similarly right and left ventricles are separated by interventricular septum.
 
@@ -308,7 +309,7 @@ CNS consists of brain and spinal cord. PNS is formed of 12 pairs of cranial nerv
 
 Brain is situated in the cranial cavity and covered by three membranes called an outer duramater, an inner piamater and a middle arachnoid membrane. The brain is divided into forebrain (prosencephalon), midbrain (mesencephalon) and hindbrain (rhombencephalon).
 
-*Fig. 13.10 Brain of Rabbit (Dorsal view)*
+![](img10.png)
 
 Forebrain consists of a pair of olfactory lobes, cerebral hemispheres and diencephalon. The right and left cerebral hemispheres are connected by transverse band of nerve tissue called corpus callosum.
 
@@ -328,7 +329,7 @@ The male reproductive system of rabbit consists of a pair of testes which are ov
 
 There are three accessory glands namely prostate gland, cowper's gland and perineal gland. Their secretions are involved in reproduction.
 
-*Fig. 13.11 Male reproductive system of Rabbit*
+![](img11.png)
 
 #### Female Reproductive System
 The female reproductive system of rabbit consists of a pair of ovaries which are small ovoid structures. They are located behind the kidneys in the abdominal cavity.
@@ -337,7 +338,7 @@ A pair of oviducts opens into the body cavity by a funnel shaped opening from ea
 
 A pair of Cowper's gland and perineal gland are the accessory glands present in the female reproductive system.
 
-*Fig. 13.12 Female reproductive system of Rabbit*
+![](img12.png)
 
 ---
 
