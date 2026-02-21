@@ -76,12 +76,11 @@ Measures adopted for monitoring and assessment of abused child who have undergon
 &gt; **More to Know**
 &gt; The **National Commission for Protection of Child Rights (NCPCR)** was set up in March 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005. This act emphasizes the principle of universality and inviolability of child rights and recognizes the tone of urgency in all the child related policies of the...
 &gt;
-&gt; Protection of all children of all age group upto 18 years of age is of equal importance. Policies define priority actions for the most vulnerable...
+&gt;         Protection of all children of all age group upto 18 years of age is of equal importance. Policies define priority actions for the most vulnerable...
 **CHILD HELPLINE 1098**
 
 ![](2.png)
 ![](3.png)
-
 
 
 ### Prevention of Child Sexual Abuse
