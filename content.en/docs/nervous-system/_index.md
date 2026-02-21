@@ -36,7 +36,9 @@ The nervous system is made up of nervous tissues. It is formed of three distinct
 
 A neuron typically consists of three basic parts: **Cyton**, **Dendrites** and **Axon**.
 
-*Fig. 15.1: Structure of Neuron*
+![](1.png)
+
+**Fig. 15.1:** Structure of Neuron
 
 **(i) Cyton**: Cyton is also called cell body or perikaryon. It has a central nucleus with abundant cytoplasm called neuroplasm. The cytoplasm has large granular body called **Nissl's granules** and the other cell organelles like mitochondria, ribosomes, lysosomes, and endoplasmic reticulum. Neurons do not have the ability to divide. Several neurofibrils are present in the cytoplasm that help in transmission of nerve impulses to and from the cell body.
 
@@ -54,7 +56,9 @@ A neuron typically consists of three basic parts: **Cyton**, **Dendrites** and *
 
 The neurons may be of different types based on their structure and function.
 
-*Fig. 15.2: Unipolar (A), Bipolar (B) and multipolar (C) neurons*
+![](2.png)
+
+**Fig. 15.2:** Unipolar (A), Bipolar (B) and multipolar (C) neurons
 
 **Structurally** the neurons may be of the following types:
 
@@ -94,7 +98,9 @@ Myelinated and non-myelinated nerve fibres form the **white matter** and **grey 
 
 All the information from the environment are detected by the receptors located in our sense organs such as the eyes, the nose, the skin etc. Information from the receptors is transmitted as electrical impulse and is received by the dendritic tips of the neuron. This impulse travels from the dendrite to the cell body and then along the axon to its terminal end. On reaching the axonal end, it causes the nerve endings to release a chemical (neurotransmitter) which diffuses across a synapse and starts a similar electrical impulse in the dendrites of the next neuron, then to their cell body to be carried along the axon.
 
-*Fig. 15.3: Nerve impulse transmission*
+![](3.png)
+
+**Fig. 15.3:** Nerve impulse transmission
 
 In this way, the electrical signal reaches the brain or spinal cord. The response from brain (or spinal cord) is similarly passed on to the effector organs such as the muscle or gland cell, that undergoes the desired action.
 
@@ -123,7 +129,9 @@ The CNS acts as centre for information processing and control. It consists of th
 
 The brain and the spinal cord being delicate vital structures are well protected in bony cavities of the skull and the vertebral column respectively. CNS is formed of two types of matter such as **white matter** or **grey matter** with respect to the presence or absence of myelin sheath which we have discussed earlier.
 
-*Fig. 15.4: Meninges of Brain*
+![](4.png)
+
+**Fig. 15.4:** Meninges of Brain
 
 The brain is the controlling centre of all the body activities. It is covered by three connective tissue membrane or **meninges**:
 
@@ -144,7 +152,10 @@ A human brain is formed of three main parts:
 - (b) **midbrain**
 - (c) **hindbrain**
 
-*Fig. 15.5: L.S of Human Brain*
+
+![](5.png)
+
+**Fig. 15.5:** L.S of Human Brain
 
 #### Forebrain
 
@@ -208,7 +219,9 @@ Medulla oblongata is the posterior most part of the brain that connects spinal c
 
 Spinal cord is a cylindrical structure lying in the neural canal of the vertebral column. It is also covered by meninges. It extends from the lower end of medulla oblongata to the first lumbar vertebra. The posterior most region of spinal cord tapers into a thin fibrous thread like structure called **filum terminale**.
 
-*Fig. 15.6: Structure of spinal cord*
+![](6.png)
+
+**Fig. 15.6:** Structure of spinal cord
 
 Internally, the spinal cord contains a cerebrospinal fluid filled cavity known as the **central canal**. The grey matter of spinal cord is 'H' shaped. The upper end of letter 'H' forms **posterior horns** and lower end forms **anterior horns**. A bundle of fibres pass into the posterior horn forming **dorsal or afferent root**. Fibres pass outward from the anterior horn forming **ventral or efferent root**. These two roots joins to form **spinal nerves**. The white matter is external and have bundle of nerve tracts. Spinal cord conducts sensory and motor impulses to and from the brain. It controls reflex actions of the body.
 
@@ -240,7 +253,9 @@ A **reflex** is any response that occurs automatically without consciousness. Th
 
 Most of the reflex actions are monitored and controlled by the spinal cord, hence also known as **spinal reflexes**.
 
-*Fig. 15.7: Reflex action and its pathway*
+![](7.png)
+
+**Fig. 15.7:** Reflex action and its pathway
 
 The pathway taken by nerve impulse to accomplish reflex action is called **reflex arc**. Now, let us understand how the body executes reflex action when we touch a hot object:
 
@@ -283,7 +298,9 @@ There are **31 pairs** of spinal nerves. Each spinal nerve has a dorsal sensory 
 
 **Autonomic nervous system (ANS)** is also called as **visceral nervous system** as it regulates the function of internal visceral organs of our body through its two antagonistic (opposite) components **sympathetic** and **parasympathetic** systems. They enable the body to perform rapid and specific visceral activities in order to maintain steady state. It controls the involuntary functions of the visceral organs.
 
-*Fig. 15.8: Sympathetic and Parasympathetic nervous system*
+![](8.png)
+
+**Fig. 15.8:** Sympathetic and Parasympathetic nervous system
 
 | Parasympathetic | Sympathetic |
 |:---|:---|
