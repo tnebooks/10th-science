@@ -14,7 +14,6 @@ At the end of this lesson, students will be able to:
 - Understand the heating effect of the electric current.
 - Define electric power and electric energy and explain domestic electric circuits.
 - Know the modern appliances such as LED bulb and LED.
-++++++++++++++++++
 
 
 
@@ -27,10 +26,14 @@ You have already learnt about electricity in your lower classes, haven't you? We
 
 ---
 
-## Electric Current
+## 4.1 Electric Current
 The motion of electric charges (electrons) through a conductor (e.g., copper wire) will constitute an electric current. This is similar to the flow of water through a channel or flow of air from a region of high pressure to a region of low pressure.
 
 In a similar manner, the electric current passes from the positive terminal (higher electric potential) of a battery to the negative terminal (lower electric potential) through a wire as shown in the Figure 4.1.
+
+![](1.png)
+
+**Figure 4.1** Electron Flow
 
 ### 4.1.1 Definition of electric current
 Electric current is often termed as 'current' and it is represented by the symbol 'I'. It is defined as the **rate of flow of charges** in a conductor. This means that the electric current represents the amount of charges flowing in any cross section of a conductor (say a metal wire) in unit time. If a net charge 'Q' passes through any cross section of a conductor in time 't', then the current flowing through the conductor is:
@@ -57,6 +60,12 @@ The SI unit of electric current is **ampere (A)**. The current flowing through a
 ## 4.2 Electric Circuit
 An electric circuit is a closed conducting loop (or) path, which has a network of electrical components through which electrons are able to flow. This path is made using electrical wires so as to connect an electric appliance to a source of electric charges (battery).
 
+
+![](2.png)
+
+**Figure 4.2** A Simple electric circuit
+
+
 In this circuit, if the switch is 'on', the bulb glows. If it is switched off, the bulb does not glow. Therefore, the circuit must be closed in order that the current passes through it. The potential difference required for the flow of charges is provided by the battery. The electrons flow from the negative terminal to the positive terminal of the battery.
 
 By convention, the direction of current is taken as the direction of flow of positive charge (or) opposite to the direction of flow of electrons. Thus, electric current passes in the circuit from the positive terminal to the negative terminal.
@@ -81,6 +90,10 @@ You are now familiar with the water current and air current. You also know that 
 
 ### 4.3.1 Electric Potential
 The electric potential at a point is defined as the amount of work done in moving a unit positive charge from infinity to that point against the electric force.
+
+![](3.png)
+
+**Figure 4.3** Electric potential
 
 ### 4.3.2 Electric Potential Difference
 The electric potential difference between two points is defined as the amount of work done in moving a unit positive charge from one point to another point against the electric force.
@@ -130,6 +143,12 @@ Potential Difference V = \frac{W}{Q} = \frac{100}{10} = 10 \text{ volt}
 ## 4.4 Ohm's Law
 A German physicist, Georg Simon Ohm established the relation between the potential difference and current, which is known as **Ohm's Law**.
 
+
+![](4.png)
+
+**Figure 4.4** Electric circuit to understand Ohm's law
+
+
 According to Ohm's law, at a constant temperature, the steady current 'I' flowing through a conductor is directly proportional to the potential difference 'V' between the two ends of the conductor.
 
 {{< katex display=true >}}
@@ -148,6 +167,10 @@ I = \frac{V}{R}
 {{< /katex >}}
 
 Here, R is a constant for a given material (say Nichrome) at a given temperature and is known as the **resistance** of the material. Since the potential difference V is proportional to the current I, the graph between V and I is a straight line for a conductor.
+
+![](5.png)
+
+**Figure4.5** Relation between potential difference and current
 
 ---
 
@@ -269,6 +292,10 @@ A series circuit connects the components one after the other to form a 'single l
 
 If resistors are connected end to end, so that the same current passes through each of them, then they are said to be connected in series.
 
+![](6.png)
+
+**Figure 4.6** Series connection of resistors
+
 Let three resistances{{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}} be connected in series. Let the current flowing through them be I. According to Ohm's Law, the potential differences {{< katex display=true >}}V_1, V_2 and V_3 {{< /katex >}}across{{< katex display=true >}}  R_1, R_2 and R_3{{< /katex >}} respectively, are given by:
 {{< katex display=true >}} 
 V_1 = IR_1
@@ -320,6 +347,12 @@ The equivalent resistance in a series combination is greater than the highest of
 ### 4.7.2 Resistances in Parallel
 A parallel circuit has two or more loops through which current can pass. If the circuit is disconnected in one of the loops, the current can still pass through the other loop(s). The wiring in a house consists of parallel circuits.
 
+
+![](7.png)
+
+**Figure 4.7** Parallel connection of resistors
+
+
 Consider that three resistors {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}are connected across two common points A and B. The potential difference across each resistance is the same and equal to the potential difference between A and B. The current I arriving at A divides into three branches{{< katex display=true >}}  I_1, I_2 and I_3{{< /katex >}} passing through {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}respectively.
 
 According to Ohm's law:
@@ -368,6 +401,12 @@ The equivalent resistance in a parallel combination is less than the lowest of t
 ### 4.7.3 Series Connection of Parallel Resistors
 If you consider the connection of a set of parallel resistors that are connected in series, you get a series-parallel circuit. Let {{< katex display=true >}}R_1 and R_2 {{< /katex >}}be connected in parallel to give an effective resistance of {{< katex display=true >}} R_{P1} {{< /katex >}}. Similarly, let{{< katex display=true >}}  R_3 and R_4  {{< /katex >}}be connected in parallel to give an effective resistance of {{< katex display=true >}}  R_{P2}. {{< /katex >}}Then, both of these parallel segments are connected in series.
 
+
+![](8.png)
+
+**Figure 4.8** Series-parallel combination of resistors
+
+
 Using the parallel formula:
 {{< katex display=true >}} 
 \frac{1}{R_{P1}} = \frac{1}{R_1} + \frac{1}{R_2}
@@ -380,6 +419,12 @@ R_{total} = R_{P1} + R_{P2}
 
 ### 4.7.4 Parallel Connection of Series Resistors
 If you consider a connection of a set of series resistors connected in a parallel circuit, you get a parallel-series circuit. Let {{< katex display=true >}} R_1 and R_2 {{< /katex >}}be connected in series to give an effective resistance of{{< katex display=true >}}  R_{S1} {{< /katex >}}. Similarly, let {{< katex display=true >}} R_3 and R_4 {{< /katex >}} be connected in series to give an effective resistance of {{< katex display=true >}} R_{S2} {{< /katex >}}. Then, both of these serial segments are connected in parallel.
+
+
+![](9.png)
+
+**Figure 4.9** Parallel-series combination of resistors
+
 
 Using the series formula:
 {{< katex display=true >}}
@@ -515,7 +560,19 @@ In our homes, electricity is distributed through the domestic electric circuits 
 
 The meter is used to record the consumption of electrical energy. The fuse box contains either a fuse wire or a miniature circuit breaker (MCB). The function of the fuse wire or a MCB is to protect the house hold electrical appliances from overloading due to excess current.
 
+
+![](10.png)
+
+**Figure 4.10** Domestic electric circuit
+
+
 An **MCB** is a switching device, which can be activated automatically as well as manually. It has a spring attached to the switch, which is attracted by an electromagnet when an excess current passes through the circuit. Hence, the circuit is broken and the protection of the appliance is ensured.
+
+
+![](11.png)
+
+**Figure 4.11** A fuse and an MCB
+
 
 The electricity is brought to houses by two insulated wires. Out of these two wires:
 - One wire has a **red insulation** and is called the **'live wire'**
@@ -554,6 +611,11 @@ An **LED bulb** is a semiconductor device that emits visible light when an elect
 Displays in digital watches and calculators, traffic signals, street lights, decorative lights, etc., are some examples for the use of LEDs.
 
 ### 4.11.1 Seven Segment Display
+
+![](12.png)
+
+**Figure 4.12** Seven segment display
+
 A **'Seven Segment Display'** is the display device used to give an output in the form of numbers or text. It is used in digital meters, digital clocks, microwave ovens, etc. It consists of 7 segments of LEDs in the form of the digit 8. These seven LEDs are named as a, b, c, d, e, f and g. An extra 8th LED is used to display a dot.
 
 ### 4.11.2 Merits of a LED Bulb
@@ -628,6 +690,10 @@ Calculate the current and the resistance of a 100W, 200V electric bulb in an ele
 
 ### Problem 3
 In the circuit diagram given below, three resistors {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}of 5Ω, 10Ω and 20Ω respectively are connected as shown. Calculate:
+
+![](sum.png)
+
+
 A) Current through each resistor
 B) Total current in the circuit
 C) Total resistance in the circuit
