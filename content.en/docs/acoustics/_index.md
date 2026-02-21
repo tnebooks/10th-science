@@ -28,6 +28,8 @@ When you think about sound, the questions that arise in your minds are: How is s
 
 By touching a ringing bell or a musical instrument while it is producing music, you can conclude that sound is produced by vibrations. The vibrating bodies produce energy in the form of waves, which are nothing but sound waves.
 
+![](1.png)
+
 **Figure 5.1** Production of sound waves
 
 Suppose you and your friend are on the Moon. Will you be able to hear any sound produced by your friend? As the Moon does not have air, you will not be able to hear any sound produced by your friend. Hence, you understand that the sound produced due to the vibration of different bodies needs a material medium like air, water, steel, etc, for its propagation. Hence, sound can propagate through a gaseous medium or a liquid medium or a solid medium.
@@ -39,6 +41,9 @@ Take a squeaky toy or old mobile phone and put it inside a plastic bag. Seal the
 
 ### 5.1.1 Longitudinal Waves
 Sound waves are longitudinal waves that can travel through any medium (solids, liquids, gases) with a speed that depends on the properties of the medium. As sound travels through a medium, the particles of the medium vibrate along the direction of propagation of the wave. This displacement involves the longitudinal displacements of the individual molecules from their mean positions. This results in a series of high and low pressure regions called compressions and rarefactions.
+
+
+![](2.png)
 
 **Figure 5.2** Sound propagates as longitudinal waves
 
@@ -143,6 +148,8 @@ When you speak in an empty room, you hear a soft repetition of your voice. This 
 
 When sound waves travel in a given medium and strike the surface of another medium, they can be bounced back into the first medium. This phenomenon is known as reflection. In simple terms the reflection and refraction of sound is actually similar to the reflection of light. Thus, the bouncing of sound waves from the interface between two media is termed as the reflection of sound. The waves that strike the interface are termed as the incident wave and the waves that bounce back are termed as the reflected waves.
 
+![](3.png)
+
 **Figure 5.3** Reflection of sound
 
 ---
@@ -154,6 +161,8 @@ Like light waves, sound waves also obey some fundamental laws of reflection. The
 - The angle of incidence ∠i is equal to the angle of reflection ∠r.
 
 These laws can be observed from Figure 5.4.
+
+![](4.png)
 
 **Figure 5.4** Laws of reflection
 
@@ -170,12 +179,16 @@ A perpendicular line drawn at the point of incidence is called the normal. The a
 ### 5.2.2 Reflection at the boundary of a denser medium
 A longitudinal wave travels in a medium in the form of compressions and rarefactions. Suppose a compression travelling in air from left to right reaches a rigid wall. The compression exerts a force F on the rigid wall. In turn, the wall exerts an equal and opposite reaction R = -F on the air molecules. This results in a compression near the rigid wall. Thus, a compression travelling towards the rigid wall is reflected back as a compression. That is the direction of compression is reversed.
 
+![](5.png)
+
 **Figure 5.5** Reflection of sound at a denser medium
 
 ---
 
 ### 5.2.3 Reflection at the boundary of a rarer medium
 Consider a wave travelling in a solid medium striking on the interface between the solid and the air. The compression exerts a force F on the surface of the rarer medium. As a rarer medium has smaller resistance for any deformation, the surface of separation is pushed backwards. As the particles of the rarer medium are free to move, a rarefaction is produced at the interface. Thus, a compression is reflected as a rarefaction and a rarefaction travels from right to left.
+
+![](6.png)
 
 **Figure 5.6** Reflection of sound at a rarer medium
 
@@ -273,6 +286,8 @@ Whenever there is a relative motion between a source and a listener, the frequen
 For simplicity of calculation, it is assumed that the medium is at rest. That is the velocity of the medium is zero.
 
 Let S and L be the source and the listener moving with velocities $v_S$ and $v_L$ respectively. Consider the case of source and listener moving towards each other. As the distance between them decreases, the apparent frequency will be more than the actual source frequency.
+
+![](7.png)
 
 **Figure 5.7** Source and listener moving towards each other
 
