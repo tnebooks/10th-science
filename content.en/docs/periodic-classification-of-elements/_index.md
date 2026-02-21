@@ -124,9 +124,13 @@ As the atomic size decreases from left to right in a period, more energy is requ
 
 Electron affinity is the amount of energy released when an isolated gaseous atom gains an electron to form its anion. It is also measured in kJ/mol and represented by the following equation:
 
-$$\mathrm{A_{(g)} + e^{-} \rightarrow A_{(g)}^{-} + Energy}$$
+{{< katex display=true >}}
+\mathrm{A_{(g)} + e^{-} \rightarrow A_{(g)}^{-} + Energy}
+{{< /katex >}}
 
-$$\mathrm{Cl_{(g)} + e^{-} \rightarrow Cl_{(g)}^{-} + energy}$$
+{{< katex display=true >}}
+\mathrm{Cl_{(g)} + e^{-} \rightarrow Cl_{(g)}^{-} + energy}
+{{< /katex >}}
 
 Like ionisation energy, electron affinity also **increases from left to right in a period** and **decreases from top to bottom in a group**.
 
@@ -273,15 +277,21 @@ The conversion of Bauxite into Alumina involves the following steps:
 
 Bauxite ore is finely ground and heated under pressure with a solution of concentrated caustic soda solution at 150°C to obtain sodium meta aluminate.
 
-$$\mathrm{Al_2O_3 + 2NaOH \rightarrow 2NaAlO_2 + H_2O}$$
+{{< katex display=true >}}
+\mathrm{Al_2O_3 + 2NaOH \rightarrow 2NaAlO_2 + H_2O}
+{{< /katex >}}
 
 On diluting sodium meta aluminate with water, a precipitate of aluminium hydroxide is formed.
 
-$$\mathrm{NaAlO_2 + 2H_2O \rightarrow Al(OH)_3 + NaOH}$$
+{{< katex display=true >}}
+\mathrm{NaAlO_2 + 2H_2O \rightarrow Al(OH)_3 + NaOH}
+{{< /katex >}}
 
 The precipitate is filtered, washed, dried and ignited at 1000°C to get alumina.
 
-$$\mathrm{2Al(OH)_3 \xrightarrow{1000°C} Al_2O_3 + 3H_2O}$$
+{{< katex display=true >}}
+\mathrm{2Al(OH)_3 \xrightarrow{1000°C} Al_2O_3 + 3H_2O}
+{{< /katex >}}
 
 ### (ii) Electrolytic reduction of alumina – Hall's Process
 
@@ -294,7 +304,9 @@ Aluminium is produced by the electrolytic reduction of fused alumina (Al₂O₃)
 - **Voltage used**: 5-6V
 
 **Overall reaction:**
-$$\mathrm{2Al_2O_3 \rightarrow 4Al + 3O_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{2Al_2O_3 \rightarrow 4Al + 3O_2 \uparrow}
+{{< /katex >}}
 
 Aluminium is deposited at the cathode and oxygen gas is liberated at the anode. Oxygen combines with graphite to form CO₂.
 
@@ -311,35 +323,51 @@ Aluminium is deposited at the cathode and oxygen gas is liberated at the anode. 
 
 **i. Reaction with air**: It is not affected by dry air. On heating at 800°C, aluminium burns very brightly forming its oxide and nitride.
 
-$$\mathrm{4Al + 3O_2 \rightarrow 2Al_2O_3 \text{ (Aluminium oxide)}}$$
+{{< katex display=true >}}
+\mathrm{4Al + 3O_2 \rightarrow 2Al_2O_3 \text{ (Aluminium oxide)}}
+{{< /katex >}}
 
-$$\mathrm{2Al + N_2 \rightarrow 2AlN \text{ (Aluminium nitride)}}$$
+{{< katex display=true >}}
+\mathrm{2Al + N_2 \rightarrow 2AlN \text{ (Aluminium nitride)}}
+{{< /katex >}}
 
 **ii. Reaction with water**: Water does not react with aluminium due to the layer of oxide on it. When steam is passed over red hot aluminium, hydrogen is produced.
 
-$$\mathrm{2Al + 3H_2O \text{ (steam)} \rightarrow Al_2O_3 + 3H_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{2Al + 3H_2O \text{ (steam)} \rightarrow Al_2O_3 + 3H_2 \uparrow}
+{{< /katex >}}
 
 **iii. Reaction with alkalis**: It reacts with strong caustic alkalis forming aluminates.
 
-$$\mathrm{2Al + 2NaOH + 2H_2O \rightarrow 2NaAlO_2 + 3H_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{2Al + 2NaOH + 2H_2O \rightarrow 2NaAlO_2 + 3H_2 \uparrow}
+{{< /katex >}}
 (Sodium meta aluminate)
 
 **iv. Reaction with acids**: With dilute and con. HCl it liberates H₂ gas.
 
-$$\mathrm{2Al + 6HCl \rightarrow 2AlCl_3 + 3H_2 \uparrow \text{ (Aluminium chloride)}}$$
+{{< katex display=true >}}
+\mathrm{2Al + 6HCl \rightarrow 2AlCl_3 + 3H_2 \uparrow \text{ (Aluminium chloride)}}
+{{< /katex >}}
 
 Aluminium liberates hydrogen on reaction with dilute sulphuric acid and liberates sulphur dioxide on reaction with hot concentrated sulphuric acid
 
-$$\mathrm{2Al + 3H_2SO_4 \text{ (Dilute)} \rightarrow Al_2(SO_4)_3 + 3H_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{2Al + 3H_2SO_4 \text{ (Dilute)} \rightarrow Al_2(SO_4)_3 + 3H_2 \uparrow}
+{{< /katex >}}
 
-$$\mathrm{2Al + 6H_2SO_4 \text{ (Con.)} \rightarrow Al_2(SO_4)_3 + 6H_2O + 3SO_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{2Al + 6H_2SO_4 \text{ (Con.)} \rightarrow Al_2(SO_4)_3 + 6H_2O + 3SO_2 \uparrow}
+{{< /katex >}}
 
 > **More to Know**
 > Dilute or concentrated nitric acid does not attack aluminium, but it renders aluminium passive due to the formation of an oxide film on its surface.
 
 **v. As reducing agent**: Aluminium is a powerful reducing agent. When a mixture of aluminium powder and iron oxide is ignited, the latter is reduced to metal. This process is known as **aluminothermic process**.
 
-$$\mathrm{Fe_2O_3 + 2Al \rightarrow 2Fe + Al_2O_3 + Heat}$$
+{{< katex display=true >}}
+\mathrm{Fe_2O_3 + 2Al \rightarrow 2Fe + Al_2O_3 + Heat}
+{{< /katex >}}
 
 ### Uses
 
@@ -369,19 +397,29 @@ The chief ore of copper is copper pyrite. It yields nearly 76% of the world prod
 
 **ii. Roasting**: The concentrated ore is roasted in excess of air. During the process of roasting, the moisture and volatile impurities are removed. Sulphur, phosphorus, arsenic and antimony are removed as oxides. Copper pyrite is partly converted into sulphides of copper and iron.
 
-$$\mathrm{2CuFeS_2 + O_2 \rightarrow Cu_2S + 2FeS + SO_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{2CuFeS_2 + O_2 \rightarrow Cu_2S + 2FeS + SO_2 \uparrow}
+{{< /katex >}}
 
 **iii. Smelting**: The roasted ore is mixed with powdered coke and sand and is heated in a blast furnace to obtain matte (Cu₂S + FeS) and slag. The slag is removed as waste.
 
 **iv. Bessemerisation**: The molten matte is transferred to Bessemer converter in order to obtain blister copper. Ferrous sulphide from matte is oxidized to ferrous oxide, which is removed as slag using silica.
 
-$$\mathrm{2FeS + 3O_2 \rightarrow 2FeO + 2SO_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{2FeS + 3O_2 \rightarrow 2FeO + 2SO_2 \uparrow}
+{{< /katex >}}
 
-$$\mathrm{FeO + SiO_2 \rightarrow FeSiO_3 \text{ (slag) (Iron silicate)}}$$
+{{< katex display=true >}}
+\mathrm{FeO + SiO_2 \rightarrow FeSiO_3 \text{ (slag) (Iron silicate)}}
+{{< /katex >}}
 
-$$\mathrm{2Cu_2S + 3O_2 \rightarrow 2Cu_2O + 2SO_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{2Cu_2S + 3O_2 \rightarrow 2Cu_2O + 2SO_2 \uparrow}
+{{< /katex >}}
 
-$$\mathrm{2Cu_2O + Cu_2S \rightarrow 6Cu + SO_2 \uparrow \text{ (Blister copper)}}$$
+{{< katex display=true >}}
+\mathrm{2Cu_2O + Cu_2S \rightarrow 6Cu + SO_2 \uparrow \text{ (Blister copper)}}
+{{< /katex >}}
 
 **v. Refining**: Blister copper contains 98% of pure copper and 2% of impurities and is purified by electrolytic refining. This method is used to get metal of a high degree of purity.
 
@@ -400,31 +438,43 @@ Copper is a reddish brown metal, with high lustre, high density and high melting
 
 **i. Action of Air and Moisture**: Copper gets covered with a green layer of basic copper carbonate in the presence of CO₂ and moisture.
 
-$$\mathrm{2Cu + O_2 + CO_2 + H_2O \rightarrow CuCO_3 \cdot Cu(OH)_2}$$
+{{< katex display=true >}}
+\mathrm{2Cu + O_2 + CO_2 + H_2O \rightarrow CuCO_3 \cdot Cu(OH)_2}
+{{< /katex >}}
 
 **ii. Action of Heat**: On heating at different temperatures in the presence of oxygen, copper forms two types of oxides CuO and Cu₂O.
 
-$$\mathrm{2Cu + O_2 \xrightarrow{\text{below 1370K}} 2CuO \text{ (copper II oxide – black)}}$$
+{{< katex display=true >}}
+\mathrm{2Cu + O_2 \xrightarrow{\text{below 1370K}} 2CuO \text{ (copper II oxide – black)}}
+{{< /katex >}}
 
-$$\mathrm{4Cu + O_2 \xrightarrow{\text{above 1370K}} 2Cu_2O \text{ (copper I oxide – red)}}$$
+{{< katex display=true >}}
+\mathrm{4Cu + O_2 \xrightarrow{\text{above 1370K}} 2Cu_2O \text{ (copper I oxide – red)}}
+{{< /katex >}}
 
 **iii. Action of Acids**:
 
 **a) With dilute HCl and dilute H₂SO₄:**
 Dilute acids such as HCl and H₂SO₄ have no action on these metals in the absence of air. Copper dissolves in these acids in the presence of air.
 
-$$\mathrm{2Cu + 4HCl + O_2 \text{ (air)} \rightarrow 2CuCl_2 + 2H_2O}$$
+{{< katex display=true >}}
+\mathrm{2Cu + 4HCl + O_2 \text{ (air)} \rightarrow 2CuCl_2 + 2H_2O}
+{{< /katex >}}
 
 **b) With dil. HNO₃:**
 Copper reacts with dil. HNO₃ with the liberation of Nitric Oxide gas.
 
-$$\mathrm{3Cu + 8HNO_3 \rightarrow 3Cu(NO_3)_2 + 2NO \uparrow + 4H_2O}$$
+{{< katex display=true >}}
+\mathrm{3Cu + 8HNO_3 \rightarrow 3Cu(NO_3)_2 + 2NO \uparrow + 4H_2O}
+{{< /katex >}}
 
 **iv) Action of Chlorine**:
 
 Chlorine reacts with copper, resulting in the formation of copper(II) chloride.
 
-$$\mathrm{Cu + Cl_2 \rightarrow CuCl_2}$$
+{{< katex display=true >}}
+\mathrm{Cu + Cl_2 \rightarrow CuCl_2}
+{{< /katex >}}
 
 **v) Action of Alkalis:**
 Copper is not attacked by alkalis.
@@ -461,25 +511,35 @@ Iron is chiefly extracted from haematite ore (Fe₂O₃)
 
 **(a) The Lower Region (Combustion Zone)** - The temperature is at 1500°C. In this region, coke burns with oxygen to form CO₂ when the charge comes in contact with a hot blast of air.
 
-$$\mathrm{C + O_2 \xrightarrow{1500°C} CO_2 + Heat}$$
+{{< katex display=true >}}
+\mathrm{C + O_2 \xrightarrow{1500°C} CO_2 + Heat}
+{{< /katex >}}
 
 It is an exothermic reaction since heat is liberated.
 
 **(b) The Middle Region (Fusion Zone)** – The temperature prevails at 1000°C. In this region, CO₂ is reduced to CO.
 
-$$\mathrm{CO_2 + C \xrightarrow{1000°C} 2CO - Heat}$$
+{{< katex display=true >}}
+\mathrm{CO_2 + C \xrightarrow{1000°C} 2CO - Heat}
+{{< /katex >}}
 
 Limestone decomposes to calcium oxide and CO₂.
 
-$$\mathrm{CaCO_3 \xrightarrow{1000°C} CaO + CO_2 - Heat}$$
+{{< katex display=true >}}
+\mathrm{CaCO_3 \xrightarrow{1000°C} CaO + CO_2 - Heat}
+{{< /katex >}}
 
 These two reactions are endothermic due to absorption of heat. Calcium oxide combines with silica to form calcium silicate slag.
 
-$$\mathrm{CaO + SiO_2 \longrightarrow CaSiO_3}$$
+{{< katex display=true >}}
+\mathrm{CaO + SiO_2 \longrightarrow CaSiO_3}
+{{< /katex >}}
 
 **(c) The Upper Region (Reduction Zone)** - The temperature prevails at 400°C. In this region carbon monoxide reduces ferric oxide to form a fairly pure spongy iron.
 
-$$\mathrm{Fe_2O_3 + 3CO \xrightarrow{400°C} 2Fe + 3CO_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{Fe_2O_3 + 3CO \xrightarrow{400°C} 2Fe + 3CO_2 \uparrow}
+{{< /katex >}}
 
 The molten iron is collected at the bottom of the furnace after removing the slag. The iron thus formed is called **pig iron**.
 
@@ -495,33 +555,49 @@ iii. It can be magnetized.
 
 **i. Reaction with air or oxygen**: Only on heating in air, iron forms magnetic oxide.
 
-$$\mathrm{3Fe + 2O_2 \rightarrow Fe_3O_4 \text{ (black)}}$$
+{{< katex display=true >}}
+\mathrm{3Fe + 2O_2 \rightarrow Fe_3O_4 \text{ (black)}}
+{{< /katex >}}
 
 **ii. Reaction with moist air**: When iron is exposed to moist air, it forms a layer of brown hydrated ferric oxide on its surface. This compound is known as **rust** and the phenomenon of formation of rust is known as **rusting**.
 
-$$\mathrm{4Fe + 3O_2 + xH_2O \rightarrow 2Fe_2O_3 \cdot xH_2O \text{ (rust)}}$$
+{{< katex display=true >}}
+\mathrm{4Fe + 3O_2 + xH_2O \rightarrow 2Fe_2O_3 \cdot xH_2O \text{ (rust)}}
+{{< /katex >}}
 
 **iii. Reaction with steam**: When steam is passed over red hot iron, magnetic oxide is formed.
 
-$$\mathrm{3Fe + 4H_2O \text{ (steam)} \rightarrow Fe_3O_4 + 4H_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{3Fe + 4H_2O \text{ (steam)} \rightarrow Fe_3O_4 + 4H_2 \uparrow}
+{{< /katex >}}
 
 **iv. Reaction with chlorine**: Iron combines with chlorine to form ferric chloride.
 
-$$\mathrm{2Fe + 3Cl_2 \rightarrow 2FeCl_3 \text{ (ferric chloride)}}$$
+{{< katex display=true >}}
+\mathrm{2Fe + 3Cl_2 \rightarrow 2FeCl_3 \text{ (ferric chloride)}}
+{{< /katex >}}
 
 **v. Reaction with acids**: With dilute HCl and dilute H₂SO₄ it liberates H₂ gas.
 
-$$\mathrm{Fe + 2HCl \rightarrow FeCl_2 + H_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{Fe + 2HCl \rightarrow FeCl_2 + H_2 \uparrow}
+{{< /katex >}}
 
-$$\mathrm{Fe + H_2SO_4 \rightarrow FeSO_4 + H_2 \uparrow}$$
+{{< katex display=true >}}
+\mathrm{Fe + H_2SO_4 \rightarrow FeSO_4 + H_2 \uparrow}
+{{< /katex >}}
 
 With dilute HNO₃ in cold condition it gives ferrous nitrate and ammonium nitrate.
 
-$$\mathrm{4Fe + 10HNO_3 \rightarrow 4Fe(NO_3)_2 + NH_4NO_3 + 3H_2O}$$
+{{< katex display=true >}}
+\mathrm{4Fe + 10HNO_3 \rightarrow 4Fe(NO_3)_2 + NH_4NO_3 + 3H_2O}
+{{< /katex >}}
 
 With con. H₂SO₄ it forms ferric sulphate and liberates SO₂.
 
-$$\mathrm{2Fe + 6H_2SO_4 \rightarrow Fe_2(SO_4)_3 + 3SO_2 + 6H_2O}$$
+{{< katex display=true >}}
+\mathrm{2Fe + 6H_2SO_4 \rightarrow Fe_2(SO_4)_3 + 3SO_2 + 6H_2O}
+{{< /katex >}}
 
 When iron is dipped in con. HNO₃ it becomes chemically passive or inert due to the formation of a layer of iron oxide (Fe₃O₄) on its surface.
 

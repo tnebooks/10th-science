@@ -80,7 +80,7 @@ In the above nuclear reaction,{{< katex display=true >}} _{6}\mathrm{C}^{13*} {{
 1 \text{ curie} = 3.7 \times 10^{10} \text{ disintegrations per second}
 {{< /katex >}}
 
-**Rutherford (Rd):** It is another unit of radioactivity. It is defined as the quantity of a radioactive substance, which produces $10^{6}$ disintegrations in one second.
+**Rutherford (Rd):** It is another unit of radioactivity. It is defined as the quantity of a radioactive substance, which produces 10^{6} disintegrations in one second.
 {{< katex display=true >}}
 1 \text{ Rd} = 10^{6} \text{ disintegrations per second}
 {{< /katex >}}
@@ -215,12 +215,11 @@ During this explosion tremendous amount of energy in the form of heat, light and
 
 > **DO YOU KNOW?**
 > **Electron Volt (eV)** is the unit used in nuclear physics to measure the energy of small particles. It is nothing but the energy of one electron when it is accelerated using an electric potential of one volt.{{< katex display=true >}}
-> 
-> 1 \text{ eV} = 1.602 \times 10^{-19} \text{ joule}
-> 
-> 1 \text{ million electron volt} = 1 \text{ MeV} = 10^{6} \text{ eV (mega electron volt)}
->
-> {{< /katex >}} The energy released in a nuclear fission process is about 200 MeV.
+ 1 \text{ eV} = 1.602 \times 10^{-19} \text{ joule}.
+ {{< /katex >}} {{< katex display=true >}}
+1 \text{ million electron volt} = 1 \text{ MeV}
+= 10^{6} \text{ eV (mega electron volt)}
+{{< /katex >}} The energy released in a nuclear fission process is about 200 MeV.
 
 ---
 
@@ -398,17 +397,21 @@ Nuclear power is the fifth largest source of power in India. **Tarapur Atomic Po
 Identify A, B, C, and D from the following nuclear reactions.
 {{< katex display=true >}}
 (i) _{13}\mathrm{Al}^{27} + \mathrm{A} \rightarrow _{15}\mathrm{P}^{30} + \mathrm{B}
-
+{{< /katex >}}
+{{< katex display=true >}}
 (ii) _{12}\mathrm{Mg}^{24} + \mathrm{B} \rightarrow _{11}\mathrm{Na}^{24} + \mathrm{C}
-
+{{< /katex >}}
+{{< katex display=true >}}
 (iii) _{92}\mathrm{U}^{238} + \mathrm{B} \rightarrow _{93}\mathrm{Np}^{239} + \mathrm{D}
 {{< /katex >}}
 **Solution:**
 {{< katex display=true >}}
 (i) _{13}\mathrm{Al}^{27} + _{2}\mathrm{He}^{4} \rightarrow _{15}\mathrm{P}^{30} + _{0}\mathrm{n}^{1}
-
+{{< /katex >}}
+{{< katex display=true >}}
 (ii) _{12}\mathrm{Mg}^{24} + _{0}\mathrm{n}^{1} \rightarrow _{11}\mathrm{Na}^{24} + _{1}\mathrm{H}^{1}
-
+{{< /katex >}}
+{{< katex display=true >}}
 (iii) _{92}\mathrm{U}^{238} + _{0}\mathrm{n}^{1} \rightarrow _{93}\mathrm{Np}^{239} + _{-1}\mathrm{e}^{0}
 {{< /katex >}}
 **A is alpha particle, B is neutron, C is proton, and D is electron.**
@@ -422,12 +425,15 @@ A radon specimen emits radiation of {{< katex display=true >}}3.7 \times 10^{3} 
 **Solution:**
 {{< katex display=true >}}
 1 \text{ Bq} = \text{one disintegration per second}
-
+{{< /katex >}}
+{{< katex display=true >}}
 1 \text{ curie} = 3.7 \times 10^{10} \text{ Bq}
-
+{{< /katex >}}
+{{< katex display=true >}}
 1 \text{ Bq} = \frac{1}{3.7 \times 10^{10}} \text{ curie}
-
-\therefore 3.7 \times 10^{3} \text{ GBq} = 3.7 \times 10^{3} \times 10^{9} \times \frac{1}{3.7 \times 10^{10}} = 100 \text{ curie}
+{{< /katex >}}
+{{< katex display=true >}}
+\therefore 3.7 \times 10^{3} \text{ GBq} = 3.7 \times 10^{3} \times 10^{9} \times \frac{1}{3.7 \times 10^{10}}{{< /katex >}} {{< katex display=true >}}= 100 \text{ curie}
 {{< /katex >}}
 ---
 
@@ -468,13 +474,13 @@ So E = 2 \times (3 \times 10^{8})^{2} = 1.8 \times 10^{17} J{{< /katex >}}
 ## Points to Remember
 
 - This phenomenon of spontaneous emission of radiation from certain elements on its own is called **'natural radioactivity'**.
-- **Curie** is defined as the quantity of a radioactive substance, which undergoes {{< katex display=true >}}3.7 \times 10^{10} disintegrations in one second. This is actually close to the activity of 1g of radium-226.{{< /katex >}}
-- **Rutherford (Rd)** is defined as the quantity of a radioactive substance which produces{{< katex display=true >}} 10^{6}
-disintegrations in one second.{{< /katex >}}
-  - {{< katex display=true >}}1 \text{ Rd} = 10^{6} disintegrations per second.{{< /katex >}}
+- **Curie** is defined as the quantity of a radioactive substance, which undergoes {{< katex display=true >}}3.7 \times 10^{10} {{< /katex >}}disintegrations in one second. This is actually close to the activity of 1g of radium-226.
+- **Rutherford (Rd)** is defined as the quantity of a radioactive substance which produces{{< katex display=true >}} 10^{6}{{< /katex >}}
+disintegrations in one second.
+  - {{< katex display=true >}}1 \text{ Rd} = 10^{6} {{< /katex >}}disintegrations per second.
 - The SI unit of radioactivity is **becquerel**. It is defined as the quantity of one disintegration per second.
-- Helium nucleus {{< katex display=true >}}(_{2}\mathrm{He}^{4}) consisting of two protons and two neutrons is known as **alpha particle**.{{< /katex >}}
-- **Beta particles** are electrons {{< katex display=true >}}(_{-1}\mathrm{e}^{0}\), which are the basic elementary particles present in all atoms.{{< /katex >}}
+- Helium nucleus {{< katex display=true >}}(_{2}\mathrm{He}^{4}){{< /katex >}} consisting of two protons and two neutrons is known as **alpha particle**.
+- **Beta particles** are electrons {{< katex display=true >}}(_{-1}\mathrm{e}^{0}\){{< /katex >}}, which are the basic elementary particles present in all atoms.
 - **Gamma rays** are electromagnetic waves consisting of photons.
 - A nuclear reaction in which an unstable parent nucleus emits an alpha particle and forms a stable daughter nucleus is called as **'alpha decay'**.
 - A nuclear reaction in which an unstable parent nucleus emits a beta particle and forms a stable daughter nucleus is called as **'beta decay'**.

@@ -14,7 +14,6 @@ At the end of this lesson, students will be able to:
 - Understand the heating effect of the electric current.
 - Define electric power and electric energy and explain domestic electric circuits.
 - Know the modern appliances such as LED bulb and LED.
-++++++++++++++++++
 
 
 
@@ -27,10 +26,14 @@ You have already learnt about electricity in your lower classes, haven't you? We
 
 ---
 
-## Electric Current
+## 4.1 Electric Current
 The motion of electric charges (electrons) through a conductor (e.g., copper wire) will constitute an electric current. This is similar to the flow of water through a channel or flow of air from a region of high pressure to a region of low pressure.
 
 In a similar manner, the electric current passes from the positive terminal (higher electric potential) of a battery to the negative terminal (lower electric potential) through a wire as shown in the Figure 4.1.
+
+![](1.png)
+
+**Figure 4.1** Electron Flow
 
 ### 4.1.1 Definition of electric current
 Electric current is often termed as 'current' and it is represented by the symbol 'I'. It is defined as the **rate of flow of charges** in a conductor. This means that the electric current represents the amount of charges flowing in any cross section of a conductor (say a metal wire) in unit time. If a net charge 'Q' passes through any cross section of a conductor in time 't', then the current flowing through the conductor is:
@@ -40,7 +43,9 @@ Electric current is often termed as 'current' and it is represented by the symbo
 ### 4.1.2 SI unit of electric current
 The SI unit of electric current is **ampere (A)**. The current flowing through a conductor is said to be one ampere, when a charge of one coulomb flows across any cross-section of a conductor, in one second. Hence,
 
-$$1 \text{ ampere} = \frac{1 \text{ coulomb}}{1 \text{ second}}$$
+{{< katex display=true >}}
+1 \text{ ampere} = \frac{1 \text{ coulomb}}{1 \text{ second}}
+{{< /katex >}}
 
 #### Solved Problem-1
 **Problem:** A charge of 12 coulomb flows through a bulb in 5 second. What is the current through the bulb?
@@ -54,6 +59,12 @@ $$1 \text{ ampere} = \frac{1 \text{ coulomb}}{1 \text{ second}}$$
 
 ## 4.2 Electric Circuit
 An electric circuit is a closed conducting loop (or) path, which has a network of electrical components through which electrons are able to flow. This path is made using electrical wires so as to connect an electric appliance to a source of electric charges (battery).
+
+
+![](2.png)
+
+**Figure 4.2** A Simple electric circuit
+
 
 In this circuit, if the switch is 'on', the bulb glows. If it is switched off, the bulb does not glow. Therefore, the circuit must be closed in order that the current passes through it. The potential difference required for the flow of charges is provided by the battery. The electrons flow from the negative terminal to the positive terminal of the battery.
 
@@ -80,6 +91,10 @@ You are now familiar with the water current and air current. You also know that 
 ### 4.3.1 Electric Potential
 The electric potential at a point is defined as the amount of work done in moving a unit positive charge from infinity to that point against the electric force.
 
+![](3.png)
+
+**Figure 4.3** Electric potential
+
 ### 4.3.2 Electric Potential Difference
 The electric potential difference between two points is defined as the amount of work done in moving a unit positive charge from one point to another point against the electric force.
 
@@ -89,7 +104,9 @@ Suppose, you have moved a charge Q from a point A to another point B. Let 'W' be
 \text{Potential Difference (V)} = \frac{W}{Q}
 {{< /katex >}}
 
-Potential difference is also equal to the difference in the electric potential of these two points. If $V_A$ and $V_B$ represent the electric potential at the points A and B respectively, then:
+Potential difference is also equal to the difference in the electric potential of these two points. If {{< katex display=true >}}
+V_A and V_B
+{{< /katex >}} represent the electric potential at the points A and B respectively, then:
 
 {{< katex display=true >}}
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
@@ -126,9 +143,17 @@ Potential Difference V = \frac{W}{Q} = \frac{100}{10} = 10 \text{ volt}
 ## 4.4 Ohm's Law
 A German physicist, Georg Simon Ohm established the relation between the potential difference and current, which is known as **Ohm's Law**.
 
+
+![](4.png)
+
+**Figure 4.4** Electric circuit to understand Ohm's law
+
+
 According to Ohm's law, at a constant temperature, the steady current 'I' flowing through a conductor is directly proportional to the potential difference 'V' between the two ends of the conductor.
 
-$$I \propto V$$
+{{< katex display=true >}}
+I \propto V
+{{< /katex >}}
 {{< katex display=true >}}
 Hence, \frac{V}{I} = \text{constant}
 {{< /katex >}}
@@ -143,13 +168,19 @@ I = \frac{V}{R}
 
 Here, R is a constant for a given material (say Nichrome) at a given temperature and is known as the **resistance** of the material. Since the potential difference V is proportional to the current I, the graph between V and I is a straight line for a conductor.
 
+![](5.png)
+
+**Figure4.5** Relation between potential difference and current
+
 ---
 
 ## 4.5 Resistance of a Material
 Resistance of a material is its property to oppose the flow of charges and hence the passage of current through it. It is different for different materials.
 
 From Ohm's Law:
-$$\frac{V}{I} = R$$
+{{< katex display=true >}}
+\frac{V}{I} = R
+{{< /katex >}}
 
 The resistance of a conductor can be defined as the ratio between the potential difference across the ends of the conductor and the current flowing through it.
 
@@ -158,7 +189,9 @@ The SI unit of resistance is **ohm** and it is represented by the symbol **Ω**.
 
 Resistance of a conductor is said to be one ohm if a current of one ampere flows through it when a potential difference of one volt is maintained across its ends.
 
-$$1 \text{ ohm} = \frac{1 \text{ volt}}{1 \text{ ampere}}$$
+{{< katex display=true >}}
+1 \text{ ohm} = \frac{1 \text{ volt}}{1 \text{ ampere}}
+{{< /katex >}}
 
 #### Solved Problem-3
 **Problem:** Calculate the resistance of a conductor through which a current of 2A passes, when the potential difference between its ends is 30V.
@@ -181,12 +214,16 @@ R \propto L, \quad R \propto \frac{1}{A}{{< /katex >}}
 Hence,{{< katex display=true >}} R \propto \frac{L}{A}{{< /katex >}}
 
 Therefore:
-$$R = \rho \frac{L}{A}$$
+{{< katex display=true >}}
+R = \rho \frac{L}{A}
+{{< /katex >}}
 
 Where,{{< katex display=true >}} \rho (rho) {{< /katex >}}is a constant, called as **electrical resistivity** or **specific resistance** of the material of the conductor.
 
 From the equation:
-$$\rho = \frac{RA}{L}$$
+{{< katex display=true >}}
+\rho = \frac{RA}{L}
+{{< /katex >}}
 
 If L = 1 m, A = 1 m² then {{< katex display=true >}}\rho = R{{< /katex >}}
 
@@ -200,13 +237,17 @@ Electrical resistivity of a conductor is a measure of the resisting power of a s
 ### 4.6.2 Conductance and Conductivity
 **Conductance** of a material is the property of a material to aid the flow of charges and hence, the passage of current in it. The conductance of a material is mathematically defined as the reciprocal of its resistance (R). Hence, the conductance 'G' of a conductor is given by:
 
-$$G = \frac{1}{R}$$
+{{< katex display=true >}}
+G = \frac{1}{R}
+{{< /katex >}}
 
 Its unit is ohm⁻¹. It is also represented as 'mho'.
 
 The reciprocal of electrical resistivity of a material is called its **electrical conductivity**.
 
-$$\sigma = \frac{1}{\rho}$$
+{{< katex display=true >}}
+\sigma = \frac{1}{\rho}
+{{< /katex >}}
 
 Its unit is ohm⁻¹ metre⁻¹. It is also represented as mho metre⁻¹. The conductivity is a constant for a given material. Electrical conductivity of a conductor is a measure of its ability to pass the current through it.
 
@@ -251,6 +292,10 @@ A series circuit connects the components one after the other to form a 'single l
 
 If resistors are connected end to end, so that the same current passes through each of them, then they are said to be connected in series.
 
+![](6.png)
+
+**Figure 4.6** Series connection of resistors
+
 Let three resistances{{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}} be connected in series. Let the current flowing through them be I. According to Ohm's Law, the potential differences {{< katex display=true >}}V_1, V_2 and V_3 {{< /katex >}}across{{< katex display=true >}}  R_1, R_2 and R_3{{< /katex >}} respectively, are given by:
 {{< katex display=true >}} 
 V_1 = IR_1
@@ -267,15 +312,23 @@ Using the above equations:
 V = IR_1 + IR_2 + IR_3
 {{< /katex >}}
 The effective resistor is a single resistor, which can replace the resistors effectively, so as to allow the same current through the electric circuit. Let the effective resistance of the series-combination of the resistors be R_S. Then:
-$$V = IR_S$$
+{{< katex display=true >}}
+V = IR_S
+{{< /katex >}}
 
 Combining equations:
-$$IR_S = IR_1 + IR_2 + IR_3$$
-$$R_S = R_1 + R_2 + R_3$$
+{{< katex display=true >}}
+IR_S = IR_1 + IR_2 + IR_3
+{{< /katex >}}
+{{< katex display=true >}}
+R_S = R_1 + R_2 + R_3
+{{< /katex >}}
 
 Thus, when a number of resistors are connected in series, their equivalent resistance or effective resistance is equal to the sum of the individual resistances. When 'n' resistors of equal resistance R are connected in series, the equivalent resistance is 'nR'.
 
-$$\text{i.e., } R_S = nR$$
+{{< katex display=true >}}
+\text{i.e., } R_S = nR
+{{< /katex >}}
 
 The equivalent resistance in a series combination is greater than the highest of the individual resistances.
 
@@ -294,6 +347,12 @@ The equivalent resistance in a series combination is greater than the highest of
 ### 4.7.2 Resistances in Parallel
 A parallel circuit has two or more loops through which current can pass. If the circuit is disconnected in one of the loops, the current can still pass through the other loop(s). The wiring in a house consists of parallel circuits.
 
+
+![](7.png)
+
+**Figure 4.7** Parallel connection of resistors
+
+
 Consider that three resistors {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}are connected across two common points A and B. The potential difference across each resistance is the same and equal to the potential difference between A and B. The current I arriving at A divides into three branches{{< katex display=true >}}  I_1, I_2 and I_3{{< /katex >}} passing through {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}respectively.
 
 According to Ohm's law:
@@ -303,23 +362,37 @@ I_2 = \frac{V}{R_2}
 I_3 = \frac{V}{R_3}{{< /katex >}}
 
 The total current through the circuit is given by:
-$$I = I_1 + I_2 + I_3$$
+{{< katex display=true >}}
+I = I_1 + I_2 + I_3
+{{< /katex >}}
 
 Using the equations:
-$$I = \frac{V}{R_1} + \frac{V}{R_2} + \frac{V}{R_3}$$
+{{< katex display=true >}}
+I = \frac{V}{R_1} + \frac{V}{R_2} + \frac{V}{R_3}
+{{< /katex >}}
 
-Let the effective resistance of the parallel combination of resistors be $R_P$. Then:
-$$I = \frac{V}{R_P}$$
+Let the effective resistance of the parallel combination of resistors be {{< katex display=true >}}
+R_P
+{{< /katex >}}. Then:
+{{< katex display=true >}}
+I = \frac{V}{R_P}
+{{< /katex >}}
 
 Combining equations:
-$$\frac{V}{R_P} = \frac{V}{R_1} + \frac{V}{R_2} + \frac{V}{R_3}$$
+{{< katex display=true >}}
+\frac{V}{R_P} = \frac{V}{R_1} + \frac{V}{R_2} + \frac{V}{R_3}
+{{< /katex >}}
 
-$$\frac{1}{R_P} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+{{< katex display=true >}}
+\frac{1}{R_P} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}
+{{< /katex >}}
 
 Thus, when a number of resistors are connected in parallel, the sum of the reciprocals of the individual resistances is equal to the reciprocal of the effective or equivalent resistance.
 
 When 'n' resistors of equal resistances R are connected in parallel:
-$$\frac{1}{R_P} = \frac{1}{R} + \frac{1}{R} + \frac{1}{R} + ... + \frac{1}{R} = \frac{n}{R}$$
+{{< katex display=true >}}
+\frac{1}{R_P} = \frac{1}{R} + \frac{1}{R} + \frac{1}{R} + ... + \frac{1}{R} = \frac{n}{R}
+{{< /katex >}}
 
 Hence,{{< katex display=true >}} R_P = \frac{R}{n}{{< /katex >}}
 
@@ -328,23 +401,43 @@ The equivalent resistance in a parallel combination is less than the lowest of t
 ### 4.7.3 Series Connection of Parallel Resistors
 If you consider the connection of a set of parallel resistors that are connected in series, you get a series-parallel circuit. Let {{< katex display=true >}}R_1 and R_2 {{< /katex >}}be connected in parallel to give an effective resistance of {{< katex display=true >}} R_{P1} {{< /katex >}}. Similarly, let{{< katex display=true >}}  R_3 and R_4  {{< /katex >}}be connected in parallel to give an effective resistance of {{< katex display=true >}}  R_{P2}. {{< /katex >}}Then, both of these parallel segments are connected in series.
 
+
+![](8.png)
+
+**Figure 4.8** Series-parallel combination of resistors
+
+
 Using the parallel formula:
 {{< katex display=true >}} 
 \frac{1}{R_{P1}} = \frac{1}{R_1} + \frac{1}{R_2}
 \frac{1}{R_{P2}} = \frac{1}{R_3} + \frac{1}{R_4}
 {{< /katex >}}
 Finally, the net effective resistance is given by:
-$$R_{total} = R_{P1} + R_{P2}$$
+{{< katex display=true >}}
+R_{total} = R_{P1} + R_{P2}
+{{< /katex >}}
 
 ### 4.7.4 Parallel Connection of Series Resistors
 If you consider a connection of a set of series resistors connected in a parallel circuit, you get a parallel-series circuit. Let {{< katex display=true >}} R_1 and R_2 {{< /katex >}}be connected in series to give an effective resistance of{{< katex display=true >}}  R_{S1} {{< /katex >}}. Similarly, let {{< katex display=true >}} R_3 and R_4 {{< /katex >}} be connected in series to give an effective resistance of {{< katex display=true >}} R_{S2} {{< /katex >}}. Then, both of these serial segments are connected in parallel.
 
+
+![](9.png)
+
+**Figure 4.9** Parallel-series combination of resistors
+
+
 Using the series formula:
-$$R_{S1} = R_1 + R_2$$
-$$R_{S2} = R_3 + R_4$$
+{{< katex display=true >}}
+R_{S1} = R_1 + R_2
+{{< /katex >}}
+{{< katex display=true >}}
+R_{S2} = R_3 + R_4
+{{< /katex >}}
 
 Finally, the net effective resistance is given by:
-$$\frac{1}{R_{total}} = \frac{1}{R_{S1}} + \frac{1}{R_{S2}}$$
+{{< katex display=true >}}
+\frac{1}{R_{total}} = \frac{1}{R_{S1}} + \frac{1}{R_{S2}}
+{{< /katex >}}
 
 ### 4.7.5 Difference between Series and Parallel Connections
 
@@ -365,13 +458,19 @@ Generally, a source of electrical energy can develop a potential difference acro
 Let 'I' be the current flowing through a resistor of resistance 'R', and 'V' be the potential difference across the resistor. The charge flowing through the circuit for a time interval 't' is 'Q'.
 
 The work done in moving the charge Q across the ends of the resistor with a potential difference of V is VQ. This energy spent by the source gets dissipated in the resistor as heat. Thus, the heat produced in the resistor is:
-$$H = W = VQ$$
+{{< katex display=true >}}
+H = W = VQ
+{{< /katex >}}
 
 Using Q = It:
-$$H = VIt$$
+{{< katex display=true >}}
+H = VIt
+{{< /katex >}}
 
 From Ohm's Law, V = IR. Hence:
-$$H = I^2Rt$$
+{{< katex display=true >}}
+H = I^2Rt
+{{< /katex >}}
 
 This is known as **Joule's law of heating**.
 
@@ -411,18 +510,24 @@ In general, power is defined as the rate of doing work or rate of spending energ
 
 Suppose a current 'I' flows through a conductor of resistance 'R' for a time 't', then the potential difference across the two ends of the conductor is 'V'. The work done 'W' to move the charge across the ends of the conductor is:
 
-$$W = VIt$$
+{{< katex display=true >}}
+W = VIt
+{{< /katex >}}
 {{< katex display=true >}}
 Power P = \frac{W}{t}{{< /katex >}}
 
-$$P = VI$$
+{{< katex display=true >}}
+P = VI
+{{< /katex >}}
 
 Thus, the electric power is the product of the electric current and the potential difference due to which the current passes in a circuit.
 
 ### 4.9.1 Unit of Electric Power
 The SI unit of electric power is **watt**. When a current of 1 ampere passes across the ends of a conductor, which is at a potential difference of 1 volt, then the electric power is:
 
-$$P = 1 \text{ volt} \times 1 \text{ ampere} = 1 \text{ watt}$$
+{{< katex display=true >}}
+P = 1 \text{ volt} \times 1 \text{ ampere} = 1 \text{ watt}
+{{< /katex >}}
 
 Thus, one watt is the power consumed when an electric device is operated at a potential difference of one volt and it carries a current of one ampere. A larger unit of power, which is more commonly used is **kilowatt**.
 
@@ -440,7 +545,9 @@ Consumption of electrical energy is measured and expressed in watt hour, though 
 
 One kilowatt hour means that an electric power of 1000 watt has been utilized for an hour. Hence:
 
-$$1 \text{ kWh} = 1000 \text{ watt hour} = 1000 \times (60 \times 60) \text{ watt second} = 3.6 \times 10^6 \text{ J}$$
+{{< katex display=true >}}
+1 \text{ kWh} = 1000 \text{ watt hour} = 1000 \times (60 \times 60) \text{ watt second} = 3.6 \times 10^6 \text{ J}
+{{< /katex >}}
 
 ---
 
@@ -453,7 +560,19 @@ In our homes, electricity is distributed through the domestic electric circuits 
 
 The meter is used to record the consumption of electrical energy. The fuse box contains either a fuse wire or a miniature circuit breaker (MCB). The function of the fuse wire or a MCB is to protect the house hold electrical appliances from overloading due to excess current.
 
+
+![](10.png)
+
+**Figure 4.10** Domestic electric circuit
+
+
 An **MCB** is a switching device, which can be activated automatically as well as manually. It has a spring attached to the switch, which is attracted by an electromagnet when an excess current passes through the circuit. Hence, the circuit is broken and the protection of the appliance is ensured.
+
+
+![](11.png)
+
+**Figure 4.11** A fuse and an MCB
+
 
 The electricity is brought to houses by two insulated wires. Out of these two wires:
 - One wire has a **red insulation** and is called the **'live wire'**
@@ -492,6 +611,11 @@ An **LED bulb** is a semiconductor device that emits visible light when an elect
 Displays in digital watches and calculators, traffic signals, street lights, decorative lights, etc., are some examples for the use of LEDs.
 
 ### 4.11.1 Seven Segment Display
+
+![](12.png)
+
+**Figure 4.12** Seven segment display
+
 A **'Seven Segment Display'** is the display device used to give an output in the form of numbers or text. It is used in digital meters, digital clocks, microwave ovens, etc. It consists of 7 segments of LEDs in the form of the digit 8. These seven LEDs are named as a, b, c, d, e, f and g. An extra 8th LED is used to display a dot.
 
 ### 4.11.2 Merits of a LED Bulb
@@ -566,6 +690,10 @@ Calculate the current and the resistance of a 100W, 200V electric bulb in an ele
 
 ### Problem 3
 In the circuit diagram given below, three resistors {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}of 5Ω, 10Ω and 20Ω respectively are connected as shown. Calculate:
+
+![](sum.png)
+
+
 A) Current through each resistor
 B) Total current in the circuit
 C) Total resistance in the circuit

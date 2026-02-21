@@ -35,8 +35,16 @@ Vegetative reproduction may take place through:
 ### (i) Leaves
 In **Bryophyllum** small plants grow at the leaf notches
 
+![](1.png)
+
+**Figure:17.1** Vegetative reproduction by leaf
+
 ### (ii) Stems
 In **strawberry** aerial weak stems touch the ground and give off adventitious roots and buds. When the connections with the parent plant is broken, the offspring becomes independent.
+
+![](2.png)
+
+**Figure:17.2** VEgetative reproduction by stem
 
 ### (iii) Root
 Tuberous roots (**Asparagus** and **Sweet potato**) can be used for vegetative propagation.
@@ -49,11 +57,23 @@ In some plants the flower buds modified into globose which are called as bulbils
 #### a) Fragmentation
 In filamentous algae, breaking of the filament into many fragments is called fragmentation. Each fragment having at least one cell, may give rise to a new filament of the algae by cell division e.g. **Spirogyra**.
 
+![](3.png)
+
+**Figure:17.3** Fragmentation in Spirogyra
+
 #### b) Fission
 In this type the parent cell divides into two daughter cells and each cell develops into a new adult organism e.g. **Amoeba**.
 
+![](4.png)
+
+**Figure:17.4** Fission in Amoeba
+
 #### c) Budding
 Formation of a daughter individual from a small projection, the bud, arising on the parent body is called budding. e.g. **Yeast**.
+
+![](5.png)
+
+**Figure:17.5** Budding in Yeast
 
 #### d) Regeneration
 The ability of the lost body parts of an individual organism to give rise to an whole new organism is called regeneration. It takes place by specialized mass of cells e.g. **Hydra** and **Planaria**.
@@ -67,6 +87,11 @@ Production of an offspring by a single parent without the formation and fusion o
 Asexual reproduction occurs by spore formation. This is the most common method of asexual reproduction in fungi and algae.
 
 During spore formation a structure called sporangium develops from the fungal hypha. The nucleus divides several times within the sporangium and each nucleus with small amount of cytoplasm develops into a spore. The spores are liberated and they develop into new hypha after reaching the ground or substratum.
+
+![](6.png)
+
+**Figure:17.6** Spore formation in Rhizopus
+
 
 ---
 
@@ -83,10 +108,19 @@ A flower is a modified shoot with limited growth to carry out sexual reproductio
 - **c) Androecium** – consisting of stamens
 - **d) Gynoecium or pistil** – consisting of carpels
 
+![](7.png)
+
+**Figure:17.7**Parts of a flower
+
 The two outermost whorls calyx and corolla are non–essential or accessory whorls as they do not directly take part in the reproduction. The other two whorls androecium and gynoecium are known as the essential whorls, because both take part directly in reproduction.
 
 #### Androecium
 Androecium, the male part of flower is composed of stamens. Each stamen consists of a stalk called the **filament** and a small bag like structure called **anther** at the tip. The pollen grains are produced in the anther within the pollen sac.
+
+![](8.png)
+
+**Figure:17.8** Structure of Anther
+and Pollen grain
 
 #### Pollen Grain
 Pollen grains are usually spherical in shape. It has two layered wall. The hard outer layer is known as **exine**. It has prominent apertures called **germ pore**. The inner thin layer is known as **intine**. It is a thin and continuous layer made up of cellulose and pectin. Mature pollen grains contain two cells, the **vegetative** and the **generative cell**. Vegetative cell contains a large nucleus. The generative cell divides mitotically to form two male gametes.
@@ -99,9 +133,17 @@ Gynoecium is the female part of the flower and is made up of carpels. It has thr
 
 The ovary contains the ovules.
 
+![](9.png)
+
+**Figure:17.9** Gynoecium
+
 ### 17.3.2 Structure of the Ovule
 
 The main part of the ovule is the **nucellus** which is enclosed by two **integuments** leaving an opening called as **micropyle**. The ovule is attached to the ovary wall by a stalk known as **funiculus**. **Chalaza** is the basal part.
+
+![](10.png)
+
+**Figure:17.10** Structure of an Ovule
 
 The embryo sac contains seven cells and the eighth nuclei located within the nucellus. Three cells at the micropylar end form the **egg apparatus** and the three cells at the chalaza end are the **antipodal cells**. The remaining two nuclei are called **polar nuclei** found in the centre. In the egg apparatus one is the **egg cell** (female gamete) and the remaining two cells are the synergids.
 
@@ -170,12 +212,20 @@ The pollination with the help of water is called **hydrophily**. This takes plac
 - Pollen grains float on surface of water till they land on the stigma of female flowers.
 e.g. **Hydrilla**, **Vallisneria**
 
+![](11.png)
+
+**Figure:17.11** Hydrophily
+
 ### 4. Pollination by Animals
 When pollination takes place with the help of animals, it is called **Zoophily**. Flowers of such plants attract animals by their bright color, size, scent etc. e.g. sun bird pollinates flowers of **Canna**, **Gladioli** etc., Squirrels pollinate flowers of silk cotton tree.
 
 ---
 
-## Fertilization in Plants
+## 17.6  Fertilization in Plants
+
+![](12.png)
+
+**Figure:17.12**  Process of Fertilizatio
 
 - Pollen grains reach the right stigma and begin to germinate.
 - Pollen grain forms a small tube-like structure called **pollen tube** which emerges through the germ pore. The contents of the pollen grain move into the tube.
@@ -228,11 +278,19 @@ Each testes is covered with a layer of fibrous tissue called **tunica albuginea*
 
 The process of **spermatogenesis** takes place in the seminiferous tubules. The Sertoli cells are the supporting cells and provide nutrients to the developing sperms. The Leydig cells are polyhedral in shape and lie between the seminiferous tubules and secrete **testosterone**. It initiates the process of spermatogenesis.
 
+![](13.png)
+
+**Figure:17.13** L.S of human testes
+
 ### 17.7.2 Female Reproductive Organ - Structure of Ovary
 
 The ovaries are located on either side of the lower abdomen composed of two almond shaped bodies, each lying near the lateral end of fallopian tube. Each ovary is a compact structure consisting of an outer **cortex** and an inner **medulla**. The cortex is composed of a network of connective tissue called as **stroma** and is lined by the **germinal epithelium**. The epithelial cells called the **granulosa cells** surround each ovum in the ovary together forming the **primary follicle**. As the egg grows larger, the follicle also enlarges and gets filled with the fluid and is called the **Graafian follicle**.
 
 > **Info bits:** The number of primordial follicles in new born female child ranges over 7 million and during reproductive period (at puberty) the number is around 60,000 to 70,000. During a woman's lifetime, she will only ovulate 300 to 400 of the 1-2 million eggs, she was initially born with. On the other side, men will produce over 500 billion sperms in their life time.
+
+![](14.png)
+
+**Figure:17.14** L.S of human ovary
 
 ---
 
@@ -242,11 +300,23 @@ The formation of the sperm in male and the ovum in female is called **gametogene
 
 ### 17.8.1 Structure of Human Sperm
 
-The spermatozoan consists of **head**, a **middle piece** and **tail**. The sperm head is elongated and formed by the condensation of nucleus. The anterior portion has a cap like structure called **acrosome**. It contains **hyaluronidase** an enzyme that helps the sperm to enter the ovum during fertilization. A short neck connects the head and middle piece which comprises the centrioles. The middle piece contains the **mitochondria** which provides energy for the movement of tail. It brings about sperm motility which is essential for fertilization.
+The spermatozoan consists of **head**, a **middle piece** and **tail**. The sperm head is elongated and formed by the condensation of nucleus. The anterior portion has a cap
+
+![](15.png)
+
+**Figure:17.15** Structure of sperm
+
+ like structure called **acrosome**. It contains **hyaluronidase** an enzyme that helps the sperm to enter the ovum during fertilization. A short neck connects the head and middle piece which comprises the centrioles. The middle piece contains the **mitochondria** which provides energy for the movement of tail. It brings about sperm motility which is essential for fertilization.
 
 ### 17.8.2 Structure of Human Ovum
 
 The mature ovum or egg is spherical in shape. The ovum is almost free of yolk. It contains abundant cytoplasm and the nucleus. The ovum is surrounded by three membranes. The plasma membrane is surrounded by inner thin **zona pellucida** and an outer thick **corona radiata**. The corona radiata is formed of follicle cells. The membrane forming the surface layer of the ovum is called **vitelline membrane**. The fluid-filled space between zona pellucida and the surface of the egg is called **perivitelline space**.
+
+
+![](16.png) 
+
+
+**Figure:17.16** Structure of ovum
 
 ---
 
@@ -264,6 +334,11 @@ The cyclic events that take place in a rhythmic fashion during the reproductive 
 2. **Follicular or Proliferative Phase**
 3. **Ovulatory Phase**
 4. **Luteal or Secretory Phase**
+
+
+![](17.png)
+
+**Figure:17.17** Menstrual cycle
 
 These phases show simultaneous synchrony of events in both ovary and uterus. Changes in the ovary and the uterus are induced by the pituitary hormones (LH and FSH) and ovarian hormones (estrogen and progesterone).
 
@@ -291,6 +366,10 @@ The blastocyst (fertilized egg) reaches the uterus and gets implanted in the ute
 
 ### Gastrulation
 The transformation of blastula into gastrula and the formation of primary germ layers (**ectoderm, mesoderm and endoderm**) by rearrangement of the cells is called **gastrulation**. This takes place after the process of implantation.
+
+![](18.png)
+
+**Figure:17.18** Developmental stages of zygote from cleavage to blastocyst formation
 
 ### Organogenesis
 The establishment of the germ layers namely ectoderm, mesoderm and endoderm initiates the final phase of embryonic development. During organogenesis the various organs of the foetus are established from the different germ layers attaining a functional state.
@@ -366,6 +445,11 @@ Hormonal preparations are in the form of pills or tablets (contraceptive pills).
 
 #### Intra-Uterine Devices (IUDs)
 The intrauterine device (IUD) are contraceptive devices inserted into the uterus. There are two synthetic devices commonly used in India are **Lippe's Loop** and **Copper-T** made of copper and plastic (non irritant). This can remain for a period of 3 years. This reduces the sperm fertilizing capacity and prevents implantation. This also helps to give adequate time interval between births.
+
+
+![](19.png)
+
+**Figure:17.19** Copper-T
 
 #### Surgical Methods
 Surgical contraception or sterilization techniques are terminal methods to prevent any pregnancy. This procedure in males is **vasectomy** (ligation of vas deferens) and in females it is **tubectomy** (ligation of fallopian tube). These are methods of permanent birth control.
