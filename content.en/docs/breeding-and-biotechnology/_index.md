@@ -48,6 +48,8 @@ Major challenge that India faced during post-independence period was having enou
 - **Sonalika, Kalyan Sona** are semi-dwarf varieties of wheat developed from high yielding, semi-dwarf, fertilizer responsive wheat varieties from Mexico.
 - **IR-8 (Miracle rice)** is a high-yielding semi-dwarf rice variety developed by International Rice Research Institute (IRRI), Philippines. In 1966, this was first introduced in Philippines and India. It was a hybrid of a high yielding rice variety **Peta** from Indonesia, and **Dee-geo-woo-gen (DGWG)** a dwarf variety from China.
 
+![](img1.png)
+
 > **More to Know: Dr. M.S. Swaminathan**
 > Dr. Mankombu Sambasivan Swaminathan is an Indian scientist known for his leading role in India's Green Revolution. His research on potato, wheat, rice and jute are well known plant breeding experiments. Due to his efforts the wheat production increased from twelve million tonnes in 1960's to seventy million tonnes now. He is aptly called as the "Father of Indian Green Revolution."
 
@@ -90,7 +92,13 @@ Undernutrition and protein malnutrition among human population is a major health
 Biofortification is the scientific process of developing crop plants enriched with high levels of desirable nutrients like vitamins, proteins and minerals. Some examples of crop varieties developed as a result of biofortification are given below:
 
 1. **Protina, Shakti and Rathna** are lysine rich maize hybrids (developed in India)
+
+![](img2.png)
+
 2. **Atlas 66**, a protein rich wheat variety
+
+![](img3.png)
+
 3. Iron rich fortified rice variety
 4. Vitamin A enriched carrots, pumpkin and spinach
 
@@ -126,6 +134,8 @@ Seeds of best plants showing desired characters are collected from a mixed popul
 
 Some common examples for mass selection are groundnut varieties like **TMV-2** and **AK-10**.
 
+![](img4.png)
+
 **2. Pureline Selection**
 
 Pureline is "the progeny of a single individual obtained by self breeding". This is also called as individual plant selection. In pureline selection large numbers of plants are selected from a self-pollinated crop and harvested separately. Individual plant progenies from them are evaluated separately. The best one is released as a pureline variety. Progeny is similar both genotypically and phenotypically.
@@ -156,6 +166,8 @@ The factors which induce mutations are known as **mutagens** or mutagenic agents
 
 > **More to Know: Gamma Garden**
 > Gamma garden or Atomic garden is a concept popularised after World War II for the peaceful use of atomic energy for crop improvement. This is a type of induced mutation breeding where radioactive sources particularly gamma rays from Cobalt-60 or Caesium-137 are used to induce desirable mutations in crop plants.
+
+![](img5.png)
 
 **i. Physical mutagens:** Radiations like X-rays, α, β and γ-rays, UV rays, temperature etc. which induce mutations are called physical mutagens.
 
@@ -210,6 +222,8 @@ It is the breeding of unrelated animals. The offsprings formed are called **hybr
 - Cross between Male Donkey × Female Horse = Mule
 - Mule is superior to horse in strength, intelligence, ability to work and resistance to diseases but they are sterile.
 
+![](img6.png)
+
 **Info bits: Cross breed of fowls:**
 - White Leghorn × Plymouth Rock = Hybrid fowl - yield more eggs
 
@@ -262,9 +276,12 @@ In **gene cloning**, a gene or a piece of DNA fragment is inserted into a bacter
 
 Using this strategy several enzymes, hormones and vaccines can be produced commercially.
 
+![](img7.png)
+
 > **Info bits: Development of Dolly**
 > Dolly was the first cloned female sheep, developed by Dr. Ian Wilmut and his colleagues at the Roslin Institute, Scotland in July 1996. She was created by somatic cell nuclear transfer technique. She lived for 6.5 years and died in 2003 because of lung disease.
 
+![](img8.png)
 ---
 
 ## 20.6 Biotechnology in Medicine
@@ -307,6 +324,8 @@ The two important properties of stem cells that differentiate them from other ce
 
 **Adult stem cell** or **somatic stem cell** are found in the neonatal (new born) and adults. They have the ability to divide and give rise to specific cell types. Sources of adult stem cells are amniotic fluid, umbilical cord and bone marrow.
 
+![](img9.png)
+
 ### Stem-cell therapy
 
 Sometimes cells, tissues and organs in the body may be permanently damaged or lost due to genetic condition or disease or injury. In such situations stem cells are used for the treatment of diseases which is called **stem-cell therapy**. In treating neurodegenerative disorders like Parkinson's disease and Alzheimer's disease neuronal stem cells can be used to replace the damaged or lost neurons.
@@ -320,6 +339,8 @@ The human genome has 3 billion base pairs. The DNA pattern of two individuals ca
 The technique analyses each individual's unique DNA sequences and provides distinctive characteristics of individual which helps in identification. **Variable number of tandem repeat sequences (VNTRs)** serve as molecular markers for identification.
 
 In human beings, 99% of the DNA base sequences are the same and this is called as **bulk genomic DNA**. The remaining 1% DNA sequence differs from one individual to another. This 1% DNA sequence is present as small stretch of repeated sequences which is known as **satellite DNA**. The number of copies of the repeat sequence also called as VNTRs differs from one individual to another, and results in variation in the size of the DNA fragment.
+
+![](img10.png)
 
 ### Applications of DNA Fingerprinting
 1. DNA fingerprinting technique is widely used in forensic applications like crime investigation such as identifying the culprit. It is also used for paternity testing in case of disputes.
