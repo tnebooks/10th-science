@@ -156,13 +156,13 @@ A molecule may contain atoms of the same element or may contain atoms of two or 
 
 Let us consider oxygen. Oxygen gas exists in two allotropic forms: Oxygen (O₂) and Ozone (O₃). In oxygen molecule, there are two oxygen atoms. So its atomicity is two. Since both the atoms are similar, oxygen (O₂) is a **homodiatomic molecule**. Other elements that exist as diatomic molecules are hydrogen (H₂), nitrogen (N₂) and halogens: fluorine (F₂), chlorine (Cl₂), bromine (Br₂) and iodine (I₂).
 
-*Figure 7.1: Homoatomic molecules*
+![](img4.png)
 
 Ozone (O₃) contains three oxygen atoms and hence it is called **homotriatomic molecule**. If a molecule contains more than three atoms, then it is called **polyatomic molecule**.
 
 Consider hydrogen chloride. It consists of two atoms, but of different elements, i.e. hydrogen and chlorine. So, its atomicity is two. It is a **heterodiatomic molecule**. Similarly, the water molecule contains two hydrogen atoms and one oxygen atom. So its atomicity is three. It is a **heterotriatomic molecule**.
 
-*Figure 7.2: Heteroatomic molecules*
+![](img3.png)
 
 ### Activity 7.1
 
@@ -273,7 +273,7 @@ One mole of any gas occupies **22.4 litre** or **22400 ml** at S.T.P. This volum
 
 $$\text{Number of moles} = \frac{\text{Mass}}{\text{Atomic Mass}} = \frac{\text{Mass}}{\text{Molecular mass}} = \frac{\text{Number of Atoms}}{6.023 \times 10^{23}} = \frac{\text{Number of Molecules}}{6.023 \times 10^{23}}$$
 
-*Figure 7.3: Mole concept*
+![](img1.png)
 
 ---
 
@@ -315,7 +315,7 @@ $$V = \text{constant} \times n$$
 
 Thus, one litre (1 dm³) of hydrogen contains the same number of molecules as in one litre of oxygen, i.e. the volume of the gas is directly proportional to the number of molecules of the gas.
 
-*Figure 7.4: Avogadro Hypothesis*
+![](img2.png)
 
 ### Explanation
 
