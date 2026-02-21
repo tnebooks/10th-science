@@ -196,7 +196,11 @@ Knowing the dangers of smoking and chewing tobacco adolescents and the old peopl
 &gt; **Anti Tobacco Act** was passed on May 1st 2004. By 2030 tobacco is expected to be single biggest cause of death worldwide accounting for 10 million deaths per...
 &gt;
 &gt; **May 31st** is observed as **No Tobacco Day (World Anti-Tobacco Day)**
+
+
 ![](5.png)
+
+
 ---
 
 ## 21.5 Alcohol Abuse
@@ -215,7 +219,11 @@ Prolonged use of alcohol depresses the nervous system, by acting as a sedative a
 - Dilation of blood vessels which may affect functioning of the heart
 - **Liver damage** resulting in **fatty liver** which leads to **cirrhosis** and formation of fibrous tissues
 - Body loses its control and consciousness eventually leading to health complications and ultimately to death
+
+
 ![](6.png)
+
+
 ---
 
 ## 21.8 Diabetes Mellitus
@@ -227,7 +235,11 @@ Diabetes mellitus is a chronic metabolic disorder characterized by increased blo
 IDDM accounts for **10 to 20%** of the known diabetics. The condition also occurs in children (**juvenile onset diabetes**) and young adults, the onset is usually sudden and can be life threatening. This is caused by the **destruction of β-cells of the pancreas**. It is characterized by abnormally elevated blood glucose levels (**hyperglycemia**) resulting from inadequate insulin...
 
 **Causes:** Genetic inheritance and environmental factors (infections due to virus, acute stress) are the cause for this...
+
+
 ![](7.png)
+
+
 
 ### 21.8.2 Type-2 Non-Insulin Dependent Diabetes Mellitus (NIDDM)
 
