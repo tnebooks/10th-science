@@ -40,7 +40,9 @@ Electric current is often termed as 'current' and it is represented by the symbo
 ### 4.1.2 SI unit of electric current
 The SI unit of electric current is **ampere (A)**. The current flowing through a conductor is said to be one ampere, when a charge of one coulomb flows across any cross-section of a conductor, in one second. Hence,
 
-$$1 \text{ ampere} = \frac{1 \text{ coulomb}}{1 \text{ second}}$$
+{{< katex display=true >}}
+1 \text{ ampere} = \frac{1 \text{ coulomb}}{1 \text{ second}}
+{{< /katex >}}
 
 #### Solved Problem-1
 **Problem:** A charge of 12 coulomb flows through a bulb in 5 second. What is the current through the bulb?
@@ -89,7 +91,9 @@ Suppose, you have moved a charge Q from a point A to another point B. Let 'W' be
 \text{Potential Difference (V)} = \frac{W}{Q}
 {{< /katex >}}
 
-Potential difference is also equal to the difference in the electric potential of these two points. If $V_A$ and $V_B$ represent the electric potential at the points A and B respectively, then:
+Potential difference is also equal to the difference in the electric potential of these two points. If {{< katex display=true >}}
+V_A and V_B
+{{< /katex >}} represent the electric potential at the points A and B respectively, then:
 
 {{< katex display=true >}}
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
@@ -128,7 +132,9 @@ A German physicist, Georg Simon Ohm established the relation between the potenti
 
 According to Ohm's law, at a constant temperature, the steady current 'I' flowing through a conductor is directly proportional to the potential difference 'V' between the two ends of the conductor.
 
-$$I \propto V$$
+{{< katex display=true >}}
+I \propto V
+{{< /katex >}}
 {{< katex display=true >}}
 Hence, \frac{V}{I} = \text{constant}
 {{< /katex >}}
@@ -149,7 +155,9 @@ Here, R is a constant for a given material (say Nichrome) at a given temperature
 Resistance of a material is its property to oppose the flow of charges and hence the passage of current through it. It is different for different materials.
 
 From Ohm's Law:
-$$\frac{V}{I} = R$$
+{{< katex display=true >}}
+\frac{V}{I} = R
+{{< /katex >}}
 
 The resistance of a conductor can be defined as the ratio between the potential difference across the ends of the conductor and the current flowing through it.
 
@@ -158,7 +166,9 @@ The SI unit of resistance is **ohm** and it is represented by the symbol **Ω**.
 
 Resistance of a conductor is said to be one ohm if a current of one ampere flows through it when a potential difference of one volt is maintained across its ends.
 
-$$1 \text{ ohm} = \frac{1 \text{ volt}}{1 \text{ ampere}}$$
+{{< katex display=true >}}
+1 \text{ ohm} = \frac{1 \text{ volt}}{1 \text{ ampere}}
+{{< /katex >}}
 
 #### Solved Problem-3
 **Problem:** Calculate the resistance of a conductor through which a current of 2A passes, when the potential difference between its ends is 30V.
@@ -181,12 +191,16 @@ R \propto L, \quad R \propto \frac{1}{A}{{< /katex >}}
 Hence,{{< katex display=true >}} R \propto \frac{L}{A}{{< /katex >}}
 
 Therefore:
-$$R = \rho \frac{L}{A}$$
+{{< katex display=true >}}
+R = \rho \frac{L}{A}
+{{< /katex >}}
 
 Where,{{< katex display=true >}} \rho (rho) {{< /katex >}}is a constant, called as **electrical resistivity** or **specific resistance** of the material of the conductor.
 
 From the equation:
-$$\rho = \frac{RA}{L}$$
+{{< katex display=true >}}
+\rho = \frac{RA}{L}
+{{< /katex >}}
 
 If L = 1 m, A = 1 m² then {{< katex display=true >}}\rho = R{{< /katex >}}
 
@@ -200,13 +214,17 @@ Electrical resistivity of a conductor is a measure of the resisting power of a s
 ### 4.6.2 Conductance and Conductivity
 **Conductance** of a material is the property of a material to aid the flow of charges and hence, the passage of current in it. The conductance of a material is mathematically defined as the reciprocal of its resistance (R). Hence, the conductance 'G' of a conductor is given by:
 
-$$G = \frac{1}{R}$$
+{{< katex display=true >}}
+G = \frac{1}{R}
+{{< /katex >}}
 
 Its unit is ohm⁻¹. It is also represented as 'mho'.
 
 The reciprocal of electrical resistivity of a material is called its **electrical conductivity**.
 
-$$\sigma = \frac{1}{\rho}$$
+{{< katex display=true >}}
+\sigma = \frac{1}{\rho}
+{{< /katex >}}
 
 Its unit is ohm⁻¹ metre⁻¹. It is also represented as mho metre⁻¹. The conductivity is a constant for a given material. Electrical conductivity of a conductor is a measure of its ability to pass the current through it.
 
@@ -267,15 +285,23 @@ Using the above equations:
 V = IR_1 + IR_2 + IR_3
 {{< /katex >}}
 The effective resistor is a single resistor, which can replace the resistors effectively, so as to allow the same current through the electric circuit. Let the effective resistance of the series-combination of the resistors be R_S. Then:
-$$V = IR_S$$
+{{< katex display=true >}}
+V = IR_S
+{{< /katex >}}
 
 Combining equations:
-$$IR_S = IR_1 + IR_2 + IR_3$$
-$$R_S = R_1 + R_2 + R_3$$
+{{< katex display=true >}}
+IR_S = IR_1 + IR_2 + IR_3
+{{< /katex >}}
+{{< katex display=true >}}
+R_S = R_1 + R_2 + R_3
+{{< /katex >}}
 
 Thus, when a number of resistors are connected in series, their equivalent resistance or effective resistance is equal to the sum of the individual resistances. When 'n' resistors of equal resistance R are connected in series, the equivalent resistance is 'nR'.
 
-$$\text{i.e., } R_S = nR$$
+{{< katex display=true >}}
+\text{i.e., } R_S = nR
+{{< /katex >}}
 
 The equivalent resistance in a series combination is greater than the highest of the individual resistances.
 
@@ -303,23 +329,37 @@ I_2 = \frac{V}{R_2}
 I_3 = \frac{V}{R_3}{{< /katex >}}
 
 The total current through the circuit is given by:
-$$I = I_1 + I_2 + I_3$$
+{{< katex display=true >}}
+I = I_1 + I_2 + I_3
+{{< /katex >}}
 
 Using the equations:
-$$I = \frac{V}{R_1} + \frac{V}{R_2} + \frac{V}{R_3}$$
+{{< katex display=true >}}
+I = \frac{V}{R_1} + \frac{V}{R_2} + \frac{V}{R_3}
+{{< /katex >}}
 
-Let the effective resistance of the parallel combination of resistors be $R_P$. Then:
-$$I = \frac{V}{R_P}$$
+Let the effective resistance of the parallel combination of resistors be {{< katex display=true >}}
+R_P
+{{< /katex >}}. Then:
+{{< katex display=true >}}
+I = \frac{V}{R_P}
+{{< /katex >}}
 
 Combining equations:
-$$\frac{V}{R_P} = \frac{V}{R_1} + \frac{V}{R_2} + \frac{V}{R_3}$$
+{{< katex display=true >}}
+\frac{V}{R_P} = \frac{V}{R_1} + \frac{V}{R_2} + \frac{V}{R_3}
+{{< /katex >}}
 
-$$\frac{1}{R_P} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+{{< katex display=true >}}
+\frac{1}{R_P} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}
+{{< /katex >}}
 
 Thus, when a number of resistors are connected in parallel, the sum of the reciprocals of the individual resistances is equal to the reciprocal of the effective or equivalent resistance.
 
 When 'n' resistors of equal resistances R are connected in parallel:
-$$\frac{1}{R_P} = \frac{1}{R} + \frac{1}{R} + \frac{1}{R} + ... + \frac{1}{R} = \frac{n}{R}$$
+{{< katex display=true >}}
+\frac{1}{R_P} = \frac{1}{R} + \frac{1}{R} + \frac{1}{R} + ... + \frac{1}{R} = \frac{n}{R}
+{{< /katex >}}
 
 Hence,{{< katex display=true >}} R_P = \frac{R}{n}{{< /katex >}}
 
@@ -334,17 +374,25 @@ Using the parallel formula:
 \frac{1}{R_{P2}} = \frac{1}{R_3} + \frac{1}{R_4}
 {{< /katex >}}
 Finally, the net effective resistance is given by:
-$$R_{total} = R_{P1} + R_{P2}$$
+{{< katex display=true >}}
+R_{total} = R_{P1} + R_{P2}
+{{< /katex >}}
 
 ### 4.7.4 Parallel Connection of Series Resistors
 If you consider a connection of a set of series resistors connected in a parallel circuit, you get a parallel-series circuit. Let {{< katex display=true >}} R_1 and R_2 {{< /katex >}}be connected in series to give an effective resistance of{{< katex display=true >}}  R_{S1} {{< /katex >}}. Similarly, let {{< katex display=true >}} R_3 and R_4 {{< /katex >}} be connected in series to give an effective resistance of {{< katex display=true >}} R_{S2} {{< /katex >}}. Then, both of these serial segments are connected in parallel.
 
 Using the series formula:
-$$R_{S1} = R_1 + R_2$$
-$$R_{S2} = R_3 + R_4$$
+{{< katex display=true >}}
+R_{S1} = R_1 + R_2
+{{< /katex >}}
+{{< katex display=true >}}
+R_{S2} = R_3 + R_4
+{{< /katex >}}
 
 Finally, the net effective resistance is given by:
-$$\frac{1}{R_{total}} = \frac{1}{R_{S1}} + \frac{1}{R_{S2}}$$
+{{< katex display=true >}}
+\frac{1}{R_{total}} = \frac{1}{R_{S1}} + \frac{1}{R_{S2}}
+{{< /katex >}}
 
 ### 4.7.5 Difference between Series and Parallel Connections
 
@@ -365,13 +413,19 @@ Generally, a source of electrical energy can develop a potential difference acro
 Let 'I' be the current flowing through a resistor of resistance 'R', and 'V' be the potential difference across the resistor. The charge flowing through the circuit for a time interval 't' is 'Q'.
 
 The work done in moving the charge Q across the ends of the resistor with a potential difference of V is VQ. This energy spent by the source gets dissipated in the resistor as heat. Thus, the heat produced in the resistor is:
-$$H = W = VQ$$
+{{< katex display=true >}}
+H = W = VQ
+{{< /katex >}}
 
 Using Q = It:
-$$H = VIt$$
+{{< katex display=true >}}
+H = VIt
+{{< /katex >}}
 
 From Ohm's Law, V = IR. Hence:
-$$H = I^2Rt$$
+{{< katex display=true >}}
+H = I^2Rt
+{{< /katex >}}
 
 This is known as **Joule's law of heating**.
 
@@ -411,18 +465,24 @@ In general, power is defined as the rate of doing work or rate of spending energ
 
 Suppose a current 'I' flows through a conductor of resistance 'R' for a time 't', then the potential difference across the two ends of the conductor is 'V'. The work done 'W' to move the charge across the ends of the conductor is:
 
-$$W = VIt$$
+{{< katex display=true >}}
+W = VIt
+{{< /katex >}}
 {{< katex display=true >}}
 Power P = \frac{W}{t}{{< /katex >}}
 
-$$P = VI$$
+{{< katex display=true >}}
+P = VI
+{{< /katex >}}
 
 Thus, the electric power is the product of the electric current and the potential difference due to which the current passes in a circuit.
 
 ### 4.9.1 Unit of Electric Power
 The SI unit of electric power is **watt**. When a current of 1 ampere passes across the ends of a conductor, which is at a potential difference of 1 volt, then the electric power is:
 
-$$P = 1 \text{ volt} \times 1 \text{ ampere} = 1 \text{ watt}$$
+{{< katex display=true >}}
+P = 1 \text{ volt} \times 1 \text{ ampere} = 1 \text{ watt}
+{{< /katex >}}
 
 Thus, one watt is the power consumed when an electric device is operated at a potential difference of one volt and it carries a current of one ampere. A larger unit of power, which is more commonly used is **kilowatt**.
 
@@ -440,7 +500,9 @@ Consumption of electrical energy is measured and expressed in watt hour, though 
 
 One kilowatt hour means that an electric power of 1000 watt has been utilized for an hour. Hence:
 
-$$1 \text{ kWh} = 1000 \text{ watt hour} = 1000 \times (60 \times 60) \text{ watt second} = 3.6 \times 10^6 \text{ J}$$
+{{< katex display=true >}}
+1 \text{ kWh} = 1000 \text{ watt hour} = 1000 \times (60 \times 60) \text{ watt second} = 3.6 \times 10^6 \text{ J}
+{{< /katex >}}
 
 ---
 
