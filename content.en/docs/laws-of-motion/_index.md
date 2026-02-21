@@ -70,7 +70,8 @@ Take a glass tumbler and place a small cardboard on it as shown in the figure. N
 
 The cardboard falls off the ground and the coin falls into the glass tumbler.
 
-*Figure: Inertia of rest*
+** Figure: Inertia of rest
+![Figure: Inertia of rest](inertia.png "Figure: Inertia of rest")
 
 In activity described above, the inertia of the coin keeps it in the state of rest when the cardboard moves. Then, when the cardboard has moved, the coin falls into the tumbler due to gravity. This happen due to 'inertia of rest'.
 
@@ -87,6 +88,8 @@ c) **Inertia of direction:** The resistance of a body to change its direction of
 - An athlete runs some distance before jumping. Because, this will help him jump longer and higher. *(Inertia of motion)*
 - When you make a sharp turn while driving a car, you tend to lean sideways. *(Inertia of direction).*
 - When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down. *(Inertia of rest).*
+
+![Figure: Inertia of rest](motion.png "Figure 1.1 Inertia of motion")
 
 ---
 
@@ -139,6 +142,11 @@ When several forces act simultaneously on the same body, then the combined effec
 | Parallel unequal forces are acting in opposite directions | F₁ ← F₂ → | F_net = F₁ - F₂ (if F₁ > F₂) <br> F_net = F₂ - F₁ (if F₂ > F₁) <br> F_net is directed along the greater force. |
 | Parallel equal forces are acting in opposite directions in the same line of action (F₁ = F₂) | F₁ ← → F₂ | F_net = F₁ - F₂ <br> F_net = 0 since (F₁ = F₂) |
 
+![](parallel.png)
+![](parallelforce.png)
+![](pm.png)
+
+
 *Figure 1.2: Combined effect of forces*
 
 If the resultant force of all the forces acting on a body is equal to zero, then the body will be in equilibrium. Such forces are called **balanced forces**. If the resultant force is not equal to zero, then it causes the motion of the body due to **unbalanced forces**.
@@ -152,6 +160,8 @@ A system can be brought to equilibrium by applying another force, which is equal
 Have you observed the position of the handle in a door? It is always placed at the edge of door and not at some other place. Why? Have you tried to push a door by placing your hand closer to the hinges or the fixed edge? What do you observe?
 
 The door can be easily opened or closed when you apply the force at a point far away from the fixed edge. In this case, the effect of the force you apply is to turn the door about the fixed edge. This turning effect of the applied force is more when the distance between the fixed edge and the point of application of force is more.
+
+![](rotating.png)
 
 *Figure 1.3: Rotating effect of a force*
 
@@ -179,7 +189,12 @@ The unit of moment of a couple is newton metre (N m) in SI system and dyne cm in
 
 By convention, the direction of moment of a force or couple is taken as **positive** if the body is rotated in the anti-clockwise direction and **negative** if it is rotate in the clockwise direction.
 
-*Figure 1.4(a): Clockwise moment*  
+![](clock.png)
+
+*Figure 1.4(a): Clockwise moment* 
+
+![](anti.png)
+
 *Figure 1.4(b): Anticlockwise moment*
 
 ### 1.4.7 Application of Torque
@@ -196,6 +211,8 @@ A small steering wheel enables you to manoeuvre a car easily by transferring a t
 ### 1.4.8 Principle of Moments
 
 When a number of like or unlike parallel forces act on a rigid body and the body is in equilibrium, then the algebraic sum of the moments in the clockwise direction is equal to the algebraic sum of the moments in the anticlockwise direction. In other words, at equilibrium, the algebraic sum of the moments of all the individual forces about any point is equal to zero.
+
+![](principle.png)
 
 *Figure 1.5: Principle of moments*
 
@@ -278,6 +295,8 @@ ii. a smaller force acting for a longer period of time.
 - Automobiles are fitted with springs and shock absorbers to reduce jerks while moving on uneven roads.
 - In cricket, a fielder pulls back his hands while catching the ball. He experiences a smaller force for a longer interval of time to catch the ball, resulting in a lesser impulse on his hands.
 
+![](image.png)
+
 *Figure 1.6: Example of impulsive force*
 
 ---
@@ -300,6 +319,8 @@ If a body A applies a force $F_A$ on a body B, then the body B reacts with force
 > There is no change in the linear momentum of a system of bodies as long as no net external force acts on them.
 
 Let us prove the law of conservation of linear momentum with the following illustration:
+
+![](linearmotion.png)
 
 *Figure 1.7: Conservation of linear momentum*
 
@@ -343,6 +364,8 @@ This law states that **every particle of matter in this universe attracts every 
 
 Force between the masses is always attractive and it does not depend on the medium where they are placed.
 
+![](laws.png)
+
 *Figure 1.8: Gravitational force between two masses*
 
 Let, $m_1$ and $m_2$ be the masses of two bodies A and B placed r metre apart in space
@@ -371,6 +394,8 @@ Mean value of the acceleration due to gravity is taken as **9.8 m s⁻²** on th
 When a body is at rests on the surface of the Earth, it is acted upon by the gravitational force of the Earth. Let us compute the magnitude of this force in two ways. Let, M be the mass of the Earth and m be the mass of the body. The entire mass of the Earth is assumed to be concentrated at its centre. The radius of the Earth is R = 6378 km (= 6400 km approximately). By Newton's law of gravitation, the force acting on the body is given by
 
 $$F = \frac{GMm}{R^2}$$
+
+![](earth.png)
 
 *Figure 1.9: Relation between g and G*
 
@@ -425,6 +450,8 @@ The weight that you feel to possess during up and down motion, is not same as yo
 
 Let us see this from the following illustration:
 
+![](moving.png)
+
 *Figure 1.10: A person in a moving lift*
 
 Let us consider a person of mass m, who is travelling in lift. The actual weight of the person is $W = mg$ which is acting vertically downwards. The reaction force exerted by the lift's surface $\mathbf{R}$, taken as apparent weight is acting vertically upwards.
@@ -434,6 +461,8 @@ Let us see different possibilities of the apparent weight 'R' of the person that
 ### 1.12.1 Weightlessness
 
 Have you gone to an amusement park and taken a ride in a roller coaster? or in a giant wheel? During the fast downward and upward movement, how did you feel?
+
+![](rollar.png)
 
 *Figure 1.11: Weightlessness in a roller coaster*
 
@@ -448,6 +477,8 @@ The same effect takes place while falling freely in a roller coaster or on a swi
 Some of us believe that the astronauts in the orbiting spacestation do not experience any gravitational force of the Earth. So they float. But this is absolutely wrong.
 
 Astronauts are not floating but falling freely around the earth due to their huge orbital velocity. Since spacestation and astronauts have equal acceleration, they are under free fall condition. (R = 0, refer case 4 in Table 1.2). Hence, both the astronauts and the spacestation are in the state of weightlessness.
+
+![](astronauts.png)
 
 *Figure 1.12: Weightlessness of astronauts*
 
