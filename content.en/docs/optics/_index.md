@@ -64,11 +64,15 @@ The incident ray, the refracted ray of light and the normal to the refracting su
 ### 2.2.2 Second law of refraction:
 The ratio of the sine of the angle of incidence and sine of the angle of refraction is equal to the ratio of refractive indices of the two media. This law is also known as Snell's law.
 
-$$\frac{\sin i}{\sin r} = \frac{\mu_2}{\mu_1}$$
+{{< katex display=true >}}
+\frac{\sin i}{\sin r} = \frac{\mu_2}{\mu_1}
+{{< /katex >}}
 
 - Refractive index gives us an idea of how fast or how slow light travels in a medium. The ratio of speed of light in vacuum (c) to the speed of light in a medium (v) is defined as refractive index 'μ' of that medium.
 
-$$\mu = \frac{c}{v}$$
+{{< katex display=true >}}
+\mu = \frac{c}{v}
+{{< /katex >}}
 
 - The speed of light in a medium is low if the refractive index of the medium is high and vice versa.
 - When light travels from a denser medium into a rarer medium, the refracted ray is bent away from the normal drawn to the interface.
@@ -126,7 +130,9 @@ The scattering of sunlight by the atoms or molecules of the gases in the earth's
 #### Rayleigh's scattering law
 Rayleigh's scattering law states that, "The amount of scattering of light is inversely proportional to the fourth power of its wavelength".
 
-$$\text{Amount of scattering} \propto \frac{1}{\lambda^4}$$
+{{< katex display=true >}}
+\text{Amount of scattering} \propto \frac{1}{\lambda^4}
+{{< /katex >}}
 
 According to this law, the shorter wavelength colours are scattered much more than the longer wavelength colours.
 
@@ -279,7 +285,9 @@ But, as the distance between the object and the lens is decreased, the distance 
 
 Like spherical mirrors, we have lens formula for spherical lenses. The lens formula gives the relationship among distance of the object (u), distance of the image (v) and the focal length (f) of the lens. It is expressed as:
 
-$$\frac{1}{f} = \frac{1}{v} - \frac{1}{u}$$
+{{< katex display=true >}}
+\frac{1}{f} = \frac{1}{v} - \frac{1}{u}
+{{< /katex >}}
 
 It is applicable to both convex and concave lenses. We need to give an at most care while solving numerical problems related to lenses in taking proper signs of different quantities.
 
@@ -302,11 +310,15 @@ Cartesian sign conventions are used for measuring the various distances in the r
 
 Like spherical mirrors, we have magnification for spherical lenses. Spherical lenses produce magnification and it is defined as the ratio of the height of the image to the height of an object. Magnification is denoted by the letter 'm'. If height of the object is h and height of the image is h', the magnification produced by lens is:
 
-$$m = \frac{\text{height of the image}}{\text{height of the object}} = \frac{h'}{h}$$
+{{< katex display=true >}}
+m = \frac{\text{height of the image}}{\text{height of the object}} = \frac{h'}{h}
+{{< /katex >}}
 
 Also it is related to the distance of the object (u) and the distance of the image (v) as follows:
 
-$$m = \frac{\text{Distance of the image}}{\text{Distance of the object}} = \frac{v}{u}$$
+{{< katex display=true >}}
+m = \frac{\text{Distance of the image}}{\text{Distance of the object}} = \frac{v}{u}
+{{< /katex >}}
 
 If the magnification is greater than 1, then we get an enlarged image. On the other hand, if the magnification is less than 1, then we get a diminished image.
 
@@ -316,7 +328,9 @@ If the magnification is greater than 1, then we get an enlarged image. On the ot
 
 All lenses are made up of transparent materials. Any optically transparent material will have a refractive index. The lens formula relates the focal length of a lens with the distance of object and image. For a maker of any lens, knowledge of radii of curvature of the lens is required. This clearly indicates the need for an equation relating the radii of curvature of the lens, the refractive index of the given material of the lens and the required focal length of the lens. The lens maker's formula is one such equation. It is given as:
 
-$$\frac{1}{f} = (\mu - 1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right)$$
+{{< katex display=true >}}
+\frac{1}{f} = (\mu - 1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right)
+{{< /katex >}}
 
 where μ is the refractive index of the material of the lens; R₁ and R₂ are the radii of curvature of the two faces of the lens; f is the focal length of the lens.
 
@@ -326,7 +340,9 @@ where μ is the refractive index of the material of the lens; R₁ and R₂ are 
 
 When a ray of light falls on a lens, the ability to converge or diverge these light rays depends on the focal length of the lens. This ability of a lens to converge (convex lens) or diverge (concave lens) is called as its power. Hence, the power of a lens can be defined as the degree of convergence or divergence of light rays. Power of a lens is numerically defined as the reciprocal of its focal length.
 
-$$P = \frac{1}{f}$$
+{{< katex display=true >}}
+P = \frac{1}{f}
+{{< /katex >}}
 
 The SI unit of power of a lens is dioptre. It is represented by the symbol D. If focal length is expressed in 'm', then the power of lens is expressed in 'D'. Thus 1D is the power of a lens, whose focal length is 1 metre. 1D = 1 m⁻¹.
 
@@ -402,7 +418,9 @@ Let a person with myopia eye can see up to a distance x. Suppose that he wants t
 
 If the person can see up to a distance x and if he wishes to see up to a distance y, then, the focal length of the required concave lens is:
 
-$$f = \frac{xy}{x-y}$$
+{{< katex display=true >}}
+f = \frac{xy}{x-y}
+{{< /katex >}}
 
 ### Hypermeteropia
 Hypermeteropia, also known as long sightedness, occurs due to the shortening of eye ball. With this defect, distant objects can be seen clearly but nearby objects cannot be seen clearly. The focal length of eye lens is increased or the distance between eye lens and retina decreases. Hence, the near point will not be at 25 cm for such eyes and the near point has moved farther. Due to this, the image of nearby objects are formed behind the retina (Figure 2.17-a). This defect can be corrected using a convex lens (Figure 2.17-b).
@@ -413,7 +431,9 @@ The focal length of the convex lens to be used is computed as follows:
 
 Let a person with hypermeteropia eye can see object beyond a distance d. Suppose that he wants to see all objects closer than this distance up to a distance D. Then, the focal length of the required convex lens is:
 
-$$f = \frac{dD}{d-D}$$
+{{< katex display=true >}}
+f = \frac{dD}{d-D}
+{{< /katex >}}
 
 ### Presbyopia
 Due to ageing, ciliary muscles become weak and the eye-lens become rigid (inflexible) and so the eye loses its power of accommodation. Because of this, an aged person cannot see the nearby objects clearly. So, it is also called as 'old age hypermetropia'.
@@ -504,9 +524,15 @@ The image in an astronomical telescope is inverted. So, it is not suitable for v
 - Light is a form of energy which travels along a straight line
 - The deviation in the path of light ray is called refraction.
 - The ratio of speed of light in vacuum to the speed of light in a medium is defined as refractive index 'μ' of that medium.
-- Lens formula: $\frac{1}{f} = \frac{1}{v} - \frac{1}{u}$
-- Magnification (m) = $\frac{h'}{h} = \frac{v}{u}$
-- Power of lens $P = \frac{1}{f}$
+- Lens formula: {{< katex display=true >}}
+\frac{1}{f} = \frac{1}{v} - \frac{1}{u}
+{{< /katex >}}
+- Magnification (m) = {{< katex display=true >}}
+\frac{h'}{h} = \frac{v}{u}
+{{< /katex >}}
+- Power of lens {{< katex display=true >}}
+P = \frac{1}{f}
+{{< /katex >}}
 - The ability of the eye lens to focus nearby as well as the distant objects is called power of accommodation of the eye.
 - A microscope is an optical instrument which helps us to see the objects which are very small in dimension.
 - Telescope is an optical instrument used to see the distant objects clearly.
@@ -520,15 +546,21 @@ Light rays travel from vacuum into a glass whose refractive index is 1.5. If the
 
 **Solution:**
 According to Snell's law,
-$$\frac{\sin i}{\sin r} = \frac{\mu_2}{\mu_1}$$
+{{< katex display=true >}}
+\frac{\sin i}{\sin r} = \frac{\mu_2}{\mu_1}
+{{< /katex >}}
 
 Here μ₁ = 1.0, μ₂ = 1.5, i = 30°
 
 (1.0) sin 30° = 1.5 sin r
 
-$$\frac{1}{2} = 1.5 \sin r$$
+{{< katex display=true >}}
+\frac{1}{2} = 1.5 \sin r
+{{< /katex >}}
 
-$$\sin r = \frac{1}{2 \times 1.5} = 0.333$$
+{{< katex display=true >}}
+\sin r = \frac{1}{2 \times 1.5} = 0.333
+{{< /katex >}}
 
 r = sin⁻¹(0.333)
 
@@ -542,11 +574,17 @@ A beam of light passing through a diverging lens of focal length 0.3 m appear to
 **Solution:**
 f = −0.3 m, v = −0.2 m
 
-$$\frac{1}{f} = \frac{1}{v} - \frac{1}{u}$$
+{{< katex display=true >}}
+\frac{1}{f} = \frac{1}{v} - \frac{1}{u}
+{{< /katex >}}
 
-$$\frac{1}{u} = \frac{1}{v} - \frac{1}{f}$$
+{{< katex display=true >}}
+\frac{1}{u} = \frac{1}{v} - \frac{1}{f}
+{{< /katex >}}
 
-$$\frac{1}{u} = \frac{1}{-0.2} - \frac{1}{-0.3} = -5 + 3.33 = -\frac{10}{6}$$
+{{< katex display=true >}}
+\frac{1}{u} = \frac{1}{-0.2} - \frac{1}{-0.3} = -5 + 3.33 = -\frac{10}{6}
+{{< /katex >}}
 
 **u = −0.6 m**
 
@@ -560,13 +598,19 @@ Given that x = 4 m and y = 20 m.
 
 Focal length of the correction lens is:
 
-$$f = \frac{xy}{x-y}$$ (Refer eqn. 2.7)
+{{< katex display=true >}}
+f = \frac{xy}{x-y}
+{{< /katex >}} (Refer eqn. 2.7)
 
-$$f = \frac{4 \times 20}{4-20} = \frac{80}{-16} = -5 \text{ m}$$
+{{< katex display=true >}}
+f = \frac{4 \times 20}{4-20} = \frac{80}{-16} = -5 \text{ m}
+{{< /katex >}}
 
 Power of the correction lens:
 
-$$P = \frac{1}{f} = -\frac{1}{5} = -0.2 \text{ D}$$
+{{< katex display=true >}}
+P = \frac{1}{f} = -\frac{1}{5} = -0.2 \text{ D}
+{{< /katex >}}
 
 ---
 
@@ -578,7 +622,9 @@ Given that, d = 1.5 m; D = 25 cm = 0.25 m (For a normal eye).
 
 From equation (2.8), the focal length of the correction lens is:
 
-$$f = \frac{d \times D}{d-D} = \frac{1.5 \times 0.25}{1.5-0.25} = \frac{0.375}{1.25} = 0.3 \text{ m}$$
+{{< katex display=true >}}
+f = \frac{d \times D}{d-D} = \frac{1.5 \times 0.25}{1.5-0.25} = \frac{0.375}{1.25} = 0.3 \text{ m}
+{{< /katex >}}
 
 ---
 
