@@ -2,7 +2,8 @@
 title: 'HEALTH AND DISEASES'
 weight: 21
 ---
-# Health and Diseases
+
+# UNIT 21:Health and Diseases
 
 ## Learning Objectives
 
@@ -32,182 +33,182 @@ The role of behaviour in health has been receiving increased attention in countr
 
 Abuse refers to cruel, violent, harmful or injurious treatment of another human being. It includes physical, emotional or psychological, verbal, child and sexual abuses. Abuse can occur within the family and with people who are not associated with the family.
 
-These days the use of drugs, alcohol and tobacco has been increasing especially among teenagers and adolescents for adventure, excitement, curiosity and...
+These days the use of drugs, alcohol and tobacco has been increasing especially among teenagers and adolescents for adventure, excitement, curiosity and [thrill].
 
-Let's analyse some of the consequences of sexual and childhood abuse, its prevention and...
+Let's analyse some of the consequences of sexual and childhood abuse, its prevention and [protection].
 
 ### 21.1.1 Child Abuse
 
-Child abuse constitutes all forms of physical or emotional ill treatment, sexual abuse, exploitation resulting in child's ill health, survival and development. Physical abuse of a child is defined as those acts that cause physical harm such as threatening, beating, kicking and hitting the...
+Child abuse constitutes all forms of physical or emotional ill treatment, sexual abuse, exploitation resulting in child's ill health, survival and development. Physical abuse of a child is defined as those acts that cause physical harm such as threatening, beating, kicking and hitting the [child].
 
 ### 21.1.2 Sexual Abuse
 
-Sexual harassment is a form of power and dominance of one person over another, which can result in harmful consequence to the victim. It refers to inappropriate or forced sexual contact. Adolescent girls and women encounter sexual harassment in different forms. Sexual abuse is more common at work places. Verbal remarks, comments, gestures and looks are the most common forms of abuse. This results in psychological distress, physical illness and eating disorders in the affected...
+Sexual harassment is a form of power and dominance of one person over another, which can result in harmful consequence to [the victim]. It refers to inappropriate or forced sexual contact. Adolescent girls and women encounter sexual harassment in different forms. Sexual abuse is more common at work places. Verbal remarks, comments, gestures and looks are the most common forms of abuse. This results in psychological distress, physical illness and eating disorders in the affected [individuals].
 
-&gt; **More to Know**
-&gt; The Ministry of Women and Child Development championed the introduction of the **Protection of Children from Sexual Offences (POCSO) Act, 2012**. People who traffic children for sexual purposes are also punishable under the provisions relating to the Act.
+> **More to Know**
+> 
+> The Ministry of Women and Child Development championed the introduction of the **Protection of Children from Sexual Offences (POCSO) Act, 2012**. People who traffic children for sexual purposes are also punishable under the provisions relating to the [trafficking].
 
-
-![](1.png)
-
-
-#### Objectives of the POCSO Act, 2012
-
+**Objectives of the POCSO Act, 2012**
 - To protect children from the offences of:
   - Sexual assault
   - Sexual harassment
   - Pornography
-- To establish Special Courts for speedy trial of such...
+- To establish Special Courts for speedy trial of such [offences].
 
 ### 21.1.3 Child Sexual Abuse
 
-Children are considered soft targets for sexual abuse because they may not realize that they are being abused. Commonly, abusers are persons well known to the child, may even be living in the same locality. Abusers also bribe (use chocolates and toys) to lure children and take advantage of the child's...
+Children are considered soft targets for sexual abuse because they may not realize that they are being abused. Commonly, abusers are persons well known to the child, may even be living in the same locality. Abusers also bribe (use chocolates and toys) to lure children and take advantage of the child's [innocence].
 
-Sexually abused children show symptoms of genital injury, abdominal pain, frequent urinary infection and behavioural...
+Sexually abused children show symptoms of genital injury, abdominal pain, frequent urinary infection and behavioural [changes].
 
 ### 21.1.4 Approaches for Protection of an Abused Child
 
 Measures adopted for monitoring and assessment of abused child who have undergone signs and symptoms of distress are:
 
-- **Child Helpline:** The Child Helpline provides a social worker who can assist the child by providing food, shelter and...
-- **Counselling the child:** Psychologists and social workers should provide guidance, counselling and continuous support to a victimized...
-- **Family support:** The victimized child should be supported by the family members. They should be provided with proper care and attention to overcome their...
-- **Medical care:** A child victim of sexual offences should receive medical care and treatment from health care professionals to overcome mental stress and...
-- **Legal Counsel:** The family or the guardian of the child victim shall be entitled to free assistance of a legal counsel for such...
-- **Rehabilitation:** Enrolling in schools and resuming their education is an important step towards rehabilitation of the child. It is essential that the child's life is gradually returned to normal after the incidence of...
-- **Community based efforts:** Conducting awareness campaign on child abuse and its...
+**Child Helpline:** The Child Helpline provides a social worker who can assist the child by providing food, shelter and [protection].
 
-&gt; **More to Know**
-&gt; The **National Commission for Protection of Child Rights (NCPCR)** was set up in March 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005. This act emphasizes the principle of universality and inviolability of child rights and recognizes the tone of urgency in all the child related policies of the...
-&gt;
-&gt; Protection of all children of all age group upto 18 years of age is of equal importance. Policies define priority actions for the most vulnerable...
-**CHILD HELPLINE 1098**
+**Counselling the child:** Psychologists and social workers should provide guidance, counselling and continuous support to a victimized [child].
 
+**Family support:** The victimized child should be supported by the family members. They should be provided with proper care and attention to overcome their [trauma].
 
-![](2.png)
-![](3.png)
+**Medical care:** A child victim of sexual offences should receive medical care and treatment from health care professionals to overcome mental stress and [physical injuries].
 
+**Legal Counsel:** The family or the guardian of the child victim shall be entitled to free assistance of a legal counsel for such [cases].
+
+**Rehabilitation:** Enrolling in schools and resuming their education is an important step towards rehabilitation of the child. It is essential that the child's life is gradually returned to normal after the incidence of [abuse].
+
+**Community based efforts:** Conducting awareness campaign on child abuse and its [prevention].
+
+> **More to Know**
+> 
+> The **National Commission for Protection of Child Rights (NCPCR)** was set up in March 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005. This act emphasizes the principle of universality and inviolability of child rights and recognizes the tone of urgency in all the child related policies of the [country].
+> 
+> Protection of all children of all age group upto 18 years of age is of equal importance. Policies define priority actions for the most vulnerable [children].
+
+**CHILD HELPLINE: 1098**
 
 ### Prevention of Child Sexual Abuse
 
 The most important social policy proclaimed universally is the prevention of child abuse. Taking steps to prevent childhood sexual abuse is parental and institutional responsibility.
 
 **Instructions to be given by parents and teachers to the child:**
-
 - Do not talk to any suspected person or strangers and to maintain a distance.
 - Not to be alone with unknown person.
-- To be careful while travelling alone in public or private...
-- Not to receive money, toys, gifts or chocolates from known or unknown person to them without the knowledge of their...
-- Not to allow known or unknown person to touch...
+- To be careful while travelling alone in public or private [transport].
+- Not to receive money, toys, gifts or chocolates from known or unknown person to them without the knowledge of their [parents].
+- Not to allow known or unknown person to touch [private parts].
 
-It is the responsibility of every individual living in a society to ensure a safe and protected environment for our children to enable them to live with dignity and free from any form of...
+It is the responsibility of every individual living in a society to ensure a safe and protected environment for our children to enable them to live with dignity and free from any form of [abuse].
 
 ---
 
 ## 21.2 Drug, Alcohol and Tobacco Abuse
 
-The physical and mental dependency on alcohol, smoking and drugs is called **addiction**. The addictive potential of these substances pulls an individual into a vicious cycle leading to regular abuse and dependency. This is of serious concern because abuse of tobacco, alcohol or drugs produce many harmful effects in an individual, to the family and even to the society. This dangerous behavior pattern among youth can be prevented through proper...
-
-
-![](4.png)
-
+The physical and mental dependency on alcohol, smoking and drugs is called **addiction**. The addictive potential of these substances pulls an individual into a vicious cycle leading to regular abuse and dependency. This is of serious concern because abuse of tobacco, alcohol or drugs produce many harmful effects in an individual, to the family and even to the society. This dangerous behavior pattern among youth can be prevented through proper [education and awareness].
 
 ---
 
 ## 21.3 Drug Abuse
 
-Drugs are normally used for the treatment of disease on advice of a physician and withdrawn after recovery. A person who is habituated to a drug due to its prolonged use is called **drug addict**. This is called **drug addiction** or **drug...**
+Drugs are normally used for the treatment of disease on advice of a physician and withdrawn after recovery. A person who is habituated to a drug due to its prolonged use is called **drug addict**. This is called **drug addiction** or **drug [dependence]**.
 
-A drug that modifies the physical, biological, psychological or social behaviour of a person by stimulating, depressing or disturbing the functions of the body and the mind is called **addictive drug**. These drugs interact with the central nervous system and affect the individual physically and...
+A drug that modifies the physical, biological, psychological or social behaviour of a person by stimulating, depressing or disturbing the functions of the body and the mind is called **addictive drug**. These drugs interact with the central nervous system and affect the individual physically and [mentally].
 
 ### 21.3.1 Types of Drugs
 
-There are certain drugs called **psychotropic drugs** which acts on the brain and alter the behaviour, consciousness, power of thinking and perception. They are referred as **mood altering...**
+There are certain drugs called **psychotropic drugs** which acts on the brain and alter the behaviour, consciousness, power of thinking and perception. They are referred as **mood altering [drugs]**.
 
 ### 21.3.2 Drug Dependence
 
-Persons who consume these drugs become fully dependent on them, they cannot live without drugs. This condition is referred as **drug...**
+Persons who consume these drugs become fully dependent on them, they cannot live without drugs. This condition is referred as **drug [dependence]**.
 
 - **Physical and mental dependence:** Dependence on the drug for normal condition of well being and to maintain physiological state.
-- **Psychological dependence:** Is a feel that drugs help them to reduce...
+- **Psychological dependence:** Is a feel that drugs help them to reduce [stress/anxiety].
 
-&gt; **Do You Know?**
-&gt; - **International Day against Drug Abuse and Illicit Trafficking** - June...
-&gt; - **Narcotic Drugs and Psychotropic Substances Act** was introduced in...
+> **Do You Know?**
+> 
+> - **International Day against Drug Abuse and Illicit Trafficking** - June 26
+> - **Narcotic Drugs and Psychotropic Substances Act** was introduced in [1985].
+> 
+> World Health Organization (WHO) 1984 suggested the use of the term **drug dependence** in place of drug addiction or drug abuse.
 
 ### 21.3.3 Behavioural Changes of Drug Users
 
 Adverse effects of drug use among adolescents are:
-
 - Drop in academic performance, absence from school or college.
 - Lack of interest in personal hygiene, isolation, depression, fatigue and aggressive behaviour.
 - Deteriorating relationship with family and friends.
-- Change in food and sleeping...
-- Fluctuation in body weight and appetite
+- Change in food and sleeping [habits].
+- Fluctuation in body weight and appetite.
 - Always looking out for an easy way to get money for obtaining drugs.
-- Prone to infections like AIDS and...
-
-&gt; **Do You Know?**
-&gt; World Health Organization (WHO) 1984 suggested the use of the term **drug dependence** in place of drug addiction or drug abuse
+- Prone to infections like AIDS and [hepatitis].
 
 ### 21.3.4 Drug De-addiction
 
-Management of de-addiction is a complicated and difficult task. The path to recovery of drug addicts is long and often...
+Management of de-addiction is a complicated and difficult task. The path to recovery of drug addicts is long and often [challenging].
 
-Family members, friends and society on the whole have a very important role to...
+Family members, friends and society on the whole have a very important role to [play].
 
-- **Detoxification:** The first phase of treatment is detoxification. The drug is stopped gradually and the addict is helped to overcome the withdrawal symptoms. The addict undergoes severe physical and emotional disturbance. This is taken care by specific...
-- **Psychotherapy:** Individual and group counselling is given by psychologists and counsellors. The treatment includes efforts to reduce the addict's stress, taught new ways to solve everyday's problems, adequate diet, rest and...
-- **Counselling to family members:** Social workers counsel family members in order to change the attitude of rejection so that the addict is accepted by the family and the...
-- **Rehabilitation:** They are given proper vocational training so that they can lead a healthy life and become useful members of the...
+**Detoxification:** The first phase of treatment is detoxification. The drug is stopped gradually and the addict is helped to overcome the withdrawal symptoms. The addict undergoes severe physical and emotional disturbance. This is taken care by specific [medications].
+
+**Psychotherapy:** Individual and group counselling is given by psychologists and counsellors. The treatment includes efforts to reduce the addict's stress, taught new ways to solve everyday's problems, adequate diet, rest and [relaxation].
+
+**Counselling to family members:** Social workers counsel family members in order to change the attitude of rejection so that the addict is accepted by the family and the [society].
+
+**Rehabilitation:** They are given proper vocational training so that they can lead a healthy life and become useful members of the [society].
 
 ---
 
 ## 21.4 Tobacco Abuse
 
-Tobacco is obtained from the tobacco plant *Nicotiana tobaccum* and *Nicotiana rustica*. The dried and cured leaves of its young branches make the commercial tobacco used worldwide. Addiction to tobacco is due to **'nicotine'** an alkaloid present in it. Nicotine is a stimulant, highly harmful and poisonous...
+Tobacco is obtained from the tobacco plant *Nicotiana tobaccum* and *Nicotiana rustica*. The dried and cured leaves of its young branches make the commercial tobacco used worldwide. Addiction to tobacco is due to **'nicotine'** an alkaloid present in it. Nicotine is a stimulant, highly harmful and poisonous [substance].
 
 ### 21.4.1 Tobacco Use
 
-Tobacco is used for smoking, chewing and snuffing. Inhaling tobacco smoke from cigars, cigarettes, bidis, pipes, hukka is called **smoking**. Tobacco in powder form is chewed with pan. When powdered tobacco is taken through nose, it is called...
+Tobacco is used for smoking, chewing and snuffing. Inhaling tobacco smoke from cigars, cigarettes, bidis, pipes, hukka is called **smoking**. Tobacco in powder form is chewed with pan. When powdered tobacco is taken through nose, it is called [snuffing].
 
 ### 21.4.2 Smoking Hazards and Effects of Tobacco
 
 When smoke is inhaled, the chemicals get absorbed by the tissues and cause the following harmful effects:
 
-1. **Benzopyrene** and polycyclic hydrocarbons present in tobacco smoke is **carcinogenic** causing **lung cancer**.
-2. Causes inflammation of throat and bronchi leading to conditions like **bronchitis** and **pulmonary tuberculosis**.
-3. Inflammation of lung alveoli, decrease surface area for gas exchange and cause **emphysema**.
-4. **Carbon monoxide** of tobacco smoke binds to haemoglobin of RBC and decreases its oxygen carrying capacity causing **hypoxia** in body tissues.
-5. Increased blood pressure caused by smoking leads to increased risk of **heart disease**.
-6. Causes increased gastric secretion which leads to **gastric and duodenal ulcers**.
-7. Tobacco chewing causes **oral cancer** (mouth...
+(i) **Benzopyrene** and polycyclic hydrocarbons present in tobacco smoke is **carcinogenic** causing **lung cancer**.
 
-&gt; **Info bits**
-&gt; World Health organization (WHO) 1984 suggested the use of the term drug. WHO issued a directive under which all cigarette advertisements and packs carry a statutory warning **"Smoking is injurious to..."**
+(ii) Causes inflammation of throat and bronchi leading to conditions like **bronchitis** and **pulmonary tuberculosis**.
 
-**Activity 1:** Collect pictures of people affected by tobacco chewing and tobacco smoking. Identify which part of the body is affected and the health hazards it can lead...
+(iii) Inflammation of lung alveoli, decrease surface area for gas exchange and cause **emphysema**.
+
+(iv) **Carbon monoxide** of tobacco smoke binds to haemoglobin of RBC and decreases its oxygen carrying capacity causing **hypoxia** in body tissues.
+
+(v) Increased blood pressure caused by smoking leads to increased risk of **heart disease**.
+
+(vi) Causes increased gastric secretion which leads to **gastric and duodenal ulcers**.
+
+(vii) Tobacco chewing causes **oral cancer** (mouth [cancer]).
+
+> **Info Bits**
+> 
+> World Health Organization (WHO) 1984 suggested the use of the term drug. WHO issued a directive under which all cigarette advertisements and packs carry a statutory warning **"Smoking is injurious to [health]"**.
+
+**Activity 1:** Collect pictures of people affected by tobacco chewing and tobacco smoking. Identify which part of the body is affected and the health hazards it can lead [to].
 
 ### 21.4.3 Prevention of Smoking
 
-Knowing the dangers of smoking and chewing tobacco adolescents and the old people need to avoid these habits. Proper counselling and medical assistance can help an addict to give up the habit of...
+Knowing the dangers of smoking and chewing tobacco adolescents and the old people need to avoid these habits. Proper counselling and medical assistance can help an addict to give up the habit of [smoking].
 
-&gt; **More to Know**
-&gt; **Anti Tobacco Act** was passed on May 1st 2004. By 2030 tobacco is expected to be single biggest cause of death worldwide accounting for 10 million deaths per...
-&gt;
-&gt; **May 31st** is observed as **No Tobacco Day (World Anti-Tobacco Day)**
-
-
-![](5.png)
-
+> **More to Know**
+> 
+> **Anti Tobacco Act** was passed on May 1st 2004. By 2030 tobacco is expected to be single biggest cause of death worldwide accounting for 10 million deaths per [year].
+> 
+> **May 31st** is observed as **No Tobacco Day (World Anti-Tobacco Day)**.
 
 ---
 
 ## 21.5 Alcohol Abuse
 
-The consumption of alcohol is a social evil practiced by the wealthier and poorer sections of the society. The dependence of alcohol is called **alcoholism** and the addict is termed as **alcoholic**. It is called **alcohol abuse**. Drinking of alcohol impairs one's physical, physiological and psychological functions.
+The consumption of alcohol is a social evil practiced by the wealthier and poorer sections of the society. The dependence of alcohol is called **alcoholism** and the addict is termed as **alcoholic**. It is called **alcohol abuse**. Drinking of alcohol impairs one's physical, physiological and psychological [functions].
 
-**Activity 2:** Collect pictures of individuals with normal liver and alcoholic liver, compare and indicate the changes you find in...
+**Activity 2:** Collect pictures of individuals with normal liver and alcoholic liver, compare and indicate the changes you find in [them].
 
 ### 21.5.1 Harmful Effects of Alcohol to Health
 
@@ -220,35 +221,27 @@ Prolonged use of alcohol depresses the nervous system, by acting as a sedative a
 - **Liver damage** resulting in **fatty liver** which leads to **cirrhosis** and formation of fibrous tissues
 - Body loses its control and consciousness eventually leading to health complications and ultimately to death
 
-
-![](6.png)
-
-
 ---
 
 ## 21.8 Diabetes Mellitus
 
-Diabetes mellitus is a chronic metabolic disorder characterized by increased blood glucose level due to insufficient, deficient or failure of insulin secretion. This is the most common pancreatic endocrine disorder. The incidence of Type-1 and Type-2 diabetes is increasing...
+Diabetes mellitus is a chronic metabolic disorder. It is characterized by increased blood glucose level due to insufficient, deficient or failure of insulin secretion. This is the most common pancreatic endocrine disorder. The incidence of Type-1 and Type-2 diabetes is increasing [worldwide].
 
 ### 21.8.1 Type-1 Insulin Dependent Diabetes Mellitus (IDDM)
 
-IDDM accounts for **10 to 20%** of the known diabetics. The condition also occurs in children (**juvenile onset diabetes**) and young adults, the onset is usually sudden and can be life threatening. This is caused by the **destruction of β-cells of the pancreas**. It is characterized by abnormally elevated blood glucose levels (**hyperglycemia**) resulting from inadequate insulin...
+IDDM accounts for **10 to 20%** of the known diabetics. The condition also occurs in children (**juvenile onset diabetes**) and young adults, the onset is usually sudden and can be life threatening. This is caused by the **destruction of β-cells of the pancreas**. It is characterized by abnormally elevated blood glucose levels (**hyperglycemia**) resulting from inadequate insulin [secretion].
 
-**Causes:** Genetic inheritance and environmental factors (infections due to virus, acute stress) are the cause for this...
-
-
-![](7.png)
-
-
+**Causes:** Genetic inheritance and environmental factors (infections due to virus, acute stress) are the cause for this [condition].
 
 ### 21.8.2 Type-2 Non-Insulin Dependent Diabetes Mellitus (NIDDM)
 
-This is also called as **adult onset diabetes** and accounting for **80 to 90%** of the diabetic population. It develops slowly, usually milder and more stable. Insulin production by the pancreas is normal but its action is impaired. The target cells do not respond to insulin. It does not allow the movement of glucose into...
+This is also called as **adult onset diabetes** and accounting for **80 to 90%** of the diabetic population. It develops slowly, usually milder and more stable. Insulin production by the pancreas is normal but its action is impaired. The target cells do not respond to insulin. It does not allow the movement of glucose into [cells].
 
-**Causes:** The causes are multifactorial which include increasing age (affecting middle aged and older people), **obesity**, **sedentary lifestyle**, **overeating** and physically...
+**Causes:** The causes are multifactorial which include increasing age (affecting middle aged and older people), **obesity**, **sedentary lifestyle**, **overeating** and physically [inactivity].
 
-&gt; **More to Know**
-&gt; One in every 8 individuals in India is a diabetic. The revised WHO estimates for the year 2025 is 57.2 million diabetics in India. The average age for the onset of diabetes is 40 years, while it is 55 years in other countries. World Health Organization projects that diabetes will be 7th leading cause of death by the year...
+> **More to Know**
+> 
+> One in every 8 individuals in India is a diabetic. The revised WHO estimates for the year 2025 is 57.2 million diabetics in India. The average age for the onset of diabetes is 40 years, while it is 55 years in other countries. World Health Organization projects that diabetes will be 7th leading cause of death by the year [2030].
 
 **Symptoms:** Diabetes mellitus is associated with several metabolic alterations. The most important symptoms are:
 
@@ -259,19 +252,20 @@ This is also called as **adult onset diabetes** and accounting for **80 to 90%**
 - Excess hunger (**Polyphagia**) due to loss of glucose in urine.
 - Fatigue and loss of weight
 
-&gt; **Do You Know?**
-&gt; According to WHO recommendation, if the fasting blood glucose is greater than **140mg/dl** or the random blood glucose is greater than **200mg/dl** on more than two occasions, diagnosis for confirming diabetes is...
+> **Do You Know?**
+> 
+> According to WHO recommendation, if the **fasting blood glucose** is greater than **140 mg/dl** or the **random blood glucose** is greater than **200 mg/dl** on more than two occasions, diagnosis for confirming diabetes is [established].
 
 ### 21.8.3 Prevention and Control of Diabetes
 
-Diet, hypoglycemic drugs, insulin injection and exercise are the management options based on the type and severity of the condition. The overall goal of diabetes management is to maintain normal blood glucose...
+Diet, hypoglycemic drugs, insulin injection and exercise are the management options based on the type and severity of the condition. The overall goal of diabetes management is to maintain normal blood glucose [levels].
 
 #### Table 21.1: Differences between Type-1 and Type-2 Diabetes Mellitus
 
 | Factors | Type-1 Insulin dependent diabetes mellitus (IDDM) | Type-2 Non-insulin dependent diabetes mellitus (NIDDM) |
 |:---|:---|:---|
 | **Prevalence** | 10-20% | 80-90% |
-| **Age of onset** | Juvenile onset (&lt;20 years) | Maturity onset (&gt;30 years) |
+| **Age of onset** | Juvenile onset (<20 years) | Maturity onset (>30 years) |
 | **Body weight** | Normal or Underweight | Obese |
 | **Defect** | Insulin deficiency due to destruction of β-cells | Target cells do not respond to insulin |
 | **Treatment** | Insulin administration is necessary | Can be controlled by diet, exercise and medicine |
@@ -286,154 +280,166 @@ Carbohydrates is maintained to about **50-55%** of the total calories. High prot
 
 **Education and Awareness:** People with diabetics should be educated on the nature of disease they have and the possibility of complications of the disease, if blood sugar is not kept under control. Instructions regarding diet, exercise and drugs should be explained.
 
-&gt; **Info bits**
-&gt; Flax seeds containing insoluble fibre, Guavas, Tomatoes and Spinach are foods which help reduce blood sugar levels.
+> **Info Bits**
+> 
+> Flax seeds containing insoluble fibre, Guavas, Tomatoes and Spinach are foods which help reduce blood sugar levels.
 
 ---
 
 ## 21.9 Obesity
 
-Obesity is the state in which there is an accumulation of excess body fat with an abnormal increase in body weight. Obesity is a complex multifactorial chronic disease developing from influence of social, behavioural, psychological, metabolic and cellular factors.
+**Obesity** is the state in which there is an accumulation of excess body fat with an abnormal increase in body weight. Obesity is a complex multifactorial chronic disease developing from influence of social, behavioural, psychological, metabolic and cellular factors.
 
 Obesity occurs if intake of calories is more than the expenditure of energy. Over weight and obesity are conditions where the body weight is greater than the mean standard weight for age and height of an individual. **Body mass index (BMI)** is an estimate of body fat and health risk.
 
-{{< katex display=true >}}
-\text{BMI} = \text{Weight (kg)} / \text{Height (m)}^2
-{{< /katex >}}
+$$\mathrm{BMI} = \mathrm{Weight}\left(\mathrm{kg}\right) / \mathrm{Height}\left(\mathrm{m}\right)^{2}$$
 
-&gt; **More to Know**
-&gt; Every 7 calories of excess consumption leads to 1gm fat deposit and increase in body weight. Weight due to fat in adipose tissue exceeds more than 20% to 25% of body weight. An adult weighing 10% more than the standard weight is **OVERWEIGHT** and 20% more is **OBESE**.
+> **More to Know**
+> 
+> Every 7 calories of excess consumption leads to 1gm fat deposit and increase in body weight. Weight due to fat in adipose tissue exceeds more than 20% to 25% of body weight. An adult weighing **10%** more than the standard weight is **OVERWEIGHT** and **20%** more is **OBESE**.
 
-**Causes and risk factors:** Obesity is due to genetic factors, physical inactivity, eating habits (overeating) and endocrine factors. Obesity is a positive risk factor in development of hypertension, diabetes, gall bladder disease, coronary heart disease and...
+**Causes and risk factors:** Obesity is due to genetic factors, physical inactivity, eating habits (overeating) and endocrine factors. Obesity is a positive risk factor in development of **hypertension, diabetes, gall bladder disease, coronary heart disease** and [stroke].
 
 ### 21.9.1 Prevention and Control of Obesity
 
-**Diet Management:** Low calorie, normal protein, vitamins and mineral, restricted carbohydrate and fat, high fiber diet can prevent overweight. Calorie restriction for weight reduction is safe and most...
+**Diet Management:** Low calorie, normal protein, vitamins and mineral, restricted carbohydrate and fat, high fiber diet can prevent overweight. Calorie restriction for weight reduction is safe and most [effective].
 
-**Physical exercise:** A low calorie diet accompanied by moderate exercise will be effective in causing weight loss. Meditation, yoga and physical activity can also reduce stress related to...
+**Physical exercise:** A low calorie diet accompanied by moderate exercise will be effective in causing weight loss. Meditation, yoga and physical activity can also reduce stress related to [obesity].
 
 ---
 
 ## 21.10 Heart Disease
 
-**Cardiovascular disease (CVD)** is associated with diseases of the heart and blood vessels. **Coronary heart disease (CHD)** is the most common form and is caused by deposition of cholesterol in the blood...
+**Cardiovascular disease (CVD)** is associated with diseases of the heart and blood vessels. **Coronary heart disease (CHD)** is the most common form and is caused by **deposition of cholesterol in the blood vessels**.
 
-It usually develops slowly over many years beginning from childhood, they may form a fatty streak to a fibrous complicated plaque. It leads to the narrowing of blood vessels leading to **atherosclerosis** in the large and medium sized arteries that supply the heart muscle with oxygen. It leads to sudden **ischemia** (deficient blood supply to heart muscle) and **myocardial infarction** (death of the heart muscle...
+It usually develops slowly over many years beginning from childhood, they may form a fatty streak to a fibrous complicated plaque. It leads to the narrowing of blood vessels leading to **atherosclerosis** in the large and medium sized arteries that supply the heart muscle with oxygen. It leads to sudden **ischemia** (deficient blood supply to heart muscle) and **myocardial infarction** (death of the heart muscle [tissue]).
 
-&gt; **More to Know**
-&gt; Desirable level for blood cholesterol should be less than **200mg/dl** for Indians. The risk of coronary heart disease increases slowly as blood cholesterol levels increases from 200 to 300...
+> **More to Know**
+> 
+> Desirable level for blood cholesterol should be less than **200 mg/dl** for Indians. The risk of coronary heart disease increases slowly as blood cholesterol levels increases from 200 to 300 [mg/dl].
 
-**Risk factors:** **Hypercholesterolemia** (High blood cholesterol) and **high blood pressure (Hypertension)** are the major causes and contributing factors for heart disease and if untreated may cause severe damage to brain, kidney and eventually lead to...
+**Risk factors:** **Hypercholesterolemia** (High blood cholesterol) and **high blood pressure (Hypertension)** are the major causes and contributing factors for heart disease and if untreated may cause severe damage to brain, kidney and eventually lead to [death].
 
-**Causes:** Heredity (family history), diet rich in saturated fat and cholesterol, obesity, increasing age, cigarette smoking, emotional stress, sedentary lifestyle, excessive alcohol consumption and physical inactivity are some of the...
+**Causes:** Heredity (family history), diet rich in saturated fat and cholesterol, obesity, increasing age, cigarette smoking, emotional stress, sedentary lifestyle, excessive alcohol consumption and physical inactivity are some of the [causes].
 
-**Symptoms:** Shortness of breath, headache, tiredness, dizziness, chest pain, swelling of leg, and gastrointestinal...
+**Symptoms:** Shortness of breath, headache, tiredness, dizziness, chest pain, swelling of leg, and gastrointestinal [problems].
 
-&gt; **Do You Know?**
-&gt; **HDL** (High Density Lipoprotein) or **"good" cholesterol** lowers risk of heart disease while **LDL** (Low Density Lipoprotein) or **"bad" cholesterol** increases risk of heart...
+> **Do You Know?**
+> 
+> **HDL** (High Density Lipoprotein) or **"good" cholesterol** lowers risk of heart disease while **LDL** (Low Density Lipoprotein) or **"bad" cholesterol** increases risk of heart [disease].
 
 ### 21.10.1 Prevention and Control of Heart Disease
 
-**Diet management:** Reduction in the intake of calories, low saturated fat and cholesterol rich food, low carbohydrates and common salt are some of the dietary modifications. Diet rich in **polyunsaturated fatty acids (PUFA)** is essential. Increase in the intake of fibre diet, fruits and vegetables, protein, minerals and vitamin are...
+**Diet management:** Reduction in the intake of calories, low saturated fat and cholesterol rich food, low carbohydrates and common salt are some of the dietary modifications. Diet rich in polyunsaturated fatty acids (PUFA) is essential. Increase in the intake of fibre diet, fruits and vegetables, protein, minerals and vitamin are [recommended].
 
-**Physical activity:** Regular exercise, walking and yoga are essential for body weight maintenance...
+**Physical activity:** Regular exercise, walking and yoga are essential for body weight maintenance [and fitness].
 
-**Addictive substance avoidance:** Alcohol consumption and smoking are to be...
+**Addictive substance avoidance:** Alcohol consumption and smoking are to be [avoided].
 
-**Activity 3:** Prepare a chart showing the food items which are preferable and which should be avoided to prevent high blood pressure and heart disease. Apart from diet what are the other lifestyle modifications to be followed to manage this...
+**Activity 3:** Prepare a chart showing the food items which are preferable and which should be avoided to prevent high blood pressure and heart disease. Apart from diet what are the other lifestyle modifications to be followed to manage this [condition]?
 
 ---
 
 ## 21.11 Cancer
 
-Cancer causes about **4 million deaths annually** throughout the world. In India more than **one million people** suffer from cancer. Cancer is derived from Latin word meaning crab. The study of cancer is called **Oncology** (Oncos = Tumor).
+Cancer causes about **4 million deaths** annually throughout the world. In India more than **one million people** suffer from cancer. Cancer is derived from Latin word meaning crab. The study of cancer is called **Oncology** (Oncos = Tumor).
 
-Cancer is an **abnormal and uncontrolled division of cells** that invade and destroy surrounding tissue forming a **tumor** or **neoplasm** (new growth). It is a heterogenous group of cells that do not respond to the normal cell...
+Cancer is an **abnormal and uncontrolled division of cells** that invade and destroy surrounding tissue forming a **tumor** or **neoplasm** (new growth). It is a heterogenous group of cells that do not respond to the normal cell [division controls].
 
-The cancerous cells migrate to distant parts of the body and affect new tissues. This process is called **metastasis**. The frequent sites of metastasis are lungs, bones, liver, skin and...
+The cancerous cells migrate to distant parts of the body and affect new tissues. This process is called **metastasis**. The frequent sites of metastasis are lungs, bones, liver, skin and [brain].
 
-&gt; **More to Know**
-&gt; - **World Cancer Day** - 4th February
-&gt; - **National Cancer Awareness Day** - 7th November
+> **More to Know**
+> 
+> - **World Cancer Day** - 4th February
+> - **National Cancer Awareness Day** - 7th November
 
 ### 21.11.1 Types of Cancers
 
-Cancers are classified on the basis of the tissues from which they are...
+Cancers are classified on the basis of the tissues from which they are [derived]:
 
-1. **Carcinomas** - arise from epithelial and glandular tissues. They include cancers of skin, lung, stomach and brain. About **85%** of the tumours are carcinomas
-2. **Sarcomas** - occur in the connective and muscular tissue. They include the cancer of bones, cartilage, tendons, adipose tissue and muscles. These form **1%** of all...
+1. **Carcinomas** - arise from epithelial and glandular tissues. They include cancers of skin, lung, stomach and brain. About **85%** of the tumours are carcinomas.
 
-&gt; **More to Know**
-&gt; **Types of Tumours**
-&gt; - **Benign tumours** or **Non malignant tumours:** Remain confined in the organ affected and do not spread to other parts of the...
-&gt; - **Malignant tumours:** Mass of proliferating cells which grow very rapidly invading and damaging the surrounding normal...
+2. **Sarcomas** - occur in the connective and muscular tissue. They include the cancer of bones, cartilage, tendons, adipose tissue and muscles. These form **1%** of all [tumours].
 
-3. **Leukaemia** - are characterized by an increase in the formation of white blood cells in the bone marrow and lymph nodes. Leukaemia are called **blood cancers**. Most common type of cancer which also affect children below 15 years of...
+3. **Leukaemia** - are characterized by an increase in the formation of white blood cells in the bone marrow and lymph nodes. Leukaemia are called **blood cancers**. Most common type of cancer which also affect children below 15 years of [age].
+
+> **More to Know**
+> 
+> **Types of Tumours:**
+> - **Benign tumours** or **Non malignant tumours:** Remain confined in the organ affected and do not spread to other parts of the [body].
+> - **Malignant tumours:** Mass of proliferating cells which grow very rapidly invading and damaging the surrounding normal [tissues].
 
 ### 21.11.2 Carcinogenic Agents
 
-Cancer causing agents are called **carcinogens**. They are physical, chemical agents, ionizing radiations and biological...
+Cancer causing agents are called **carcinogens**. They are physical, chemical agents, ionizing radiations and biological [agents].
 
-- **Physical Irritant:** Heavy smoking causes lung cancer and cancers of oral cavity, pharynx (throat) and larynx. Betel and tobacco chewing causes oral cancer. Excessive exposure to sunlight may cause skin...
-- **Chemical agents:** Nicotine, caffeine, products of combustion of coal and oil, pesticides, asbestos, nickel, certain dyes and artificial sweetners induce...
-- **Radiations:** Ionizing radiations like X-rays, gamma rays, radioactive substances and non-ionising radiations like UV rays cause DNA damage leading to...
-- **Biological agents:** Cancer causing viruses are called **oncogenic...**
+**Physical Irritant:** Heavy smoking causes lung cancer and cancers of oral cavity, pharynx (throat) and larynx. Betel and tobacco chewing causes oral cancer. Excessive exposure to sunlight may cause skin [cancer].
+
+**Chemical agents:** Nicotine, caffeine, products of combustion of coal and oil, pesticides, asbestos, nickel, certain dyes and artificial sweetners induce [cancer].
+
+**Radiations:** Ionizing radiations like X-rays, gamma rays, radioactive substances and non-ionising radiations like UV rays cause DNA damage leading to [cancer].
+
+**Biological agents:** Cancer causing viruses are called **oncogenic [viruses]**.
 
 ### 21.11.3 Treatment of Cancer
 
 The treatment of cancer involves the following methods:
 
-- **Surgery:** Tumours are removed by surgery to prevent further spread of cancer...
-- **Radiation therapy:** Tumour cells are irradiated by lethal doses of radiation while protecting the surrounding normal...
-- **Chemotherapy:** It involves administration of anticancerous drugs which prevent cell division and are used to kill cancer...
-- **Immunotherapy:** Biological response modifiers like interferons are used to activate the immune system and help in destroying the...
+**Surgery:** Tumours are removed by surgery to prevent further spread of cancer [cells].
 
-### 21.11.4 Preventive measures for Cancer
+**Radiation therapy:** Tumour cells are irradiated by lethal doses of radiation while protecting the surrounding normal [tissues].
 
-Cancer control programmes should focus on primary prevention and early...
+**Chemotherapy:** It involves administration of anticancerous drugs which prevent cell division and are used to kill cancer [cells].
 
-To prevent lung cancer tobacco smoking is to be avoided and protective measures to be taken against exposure to toxic pollutants of industries. Excessive exposure to radiation is to be avoided to prevent skin...
+**Immunotherapy:** Biological response modifiers like interferons are used to activate the immune system and help in destroying the [tumour cells].
+
+### 21.11.4 Preventive Measures for Cancer
+
+Cancer control programmes should focus on **primary prevention** and **early [detection]**.
+
+To prevent lung cancer tobacco smoking is to be avoided and protective measures to be taken against exposure to toxic pollutants of industries. Excessive exposure to radiation is to be avoided to prevent skin [cancer].
 
 ---
 
 ## 21.12 AIDS (Acquired Immunodeficiency Syndrome)
 
-AIDS is a severe viral disease and caused by **Human Immunodeficiency Virus (HIV)**. It is a condition in which immune system fails and suppress the body's disease fighting mechanism. They attack the lymphocytes and the affected individual is prone to infectious...
+**AIDS** is a severe viral disease and caused by **Human Immunodeficiency Virus (HIV)**. It is a condition in which immune system fails and suppress the body's disease fighting mechanism. They attack the lymphocytes and the affected individual is prone to infectious [diseases].
 
-&gt; **Do You Know?**
-&gt; **Dr. Suniti Solomon**, pioneered HIV research and treatment in India. She set up the first voluntary testing and counselling centre and an AIDS Research group in Chennai during 80's. Her team was the first to document evidence of HIV infection in India in 1985 (First Indian AIDS patient in...
+> **Do You Know?**
+> 
+> **Dr. Suniti Solomon**, pioneered HIV research and treatment in India. She set up the first voluntary testing and counselling centre and an AIDS Research group in Chennai during 80's. Her team was the first to document evidence of HIV infection in India in 1985 (First Indian AIDS patient in [Chennai]).
 
 ### 21.12.1 Transmission of HIV
 
-AIDS virus has been found in urine, tears, saliva, breast milk and vaginal secretions. The virus is transmitted by an infected patient who comes in contact with blood of a healthy person. **HIV/AIDS is not transmitted by touch or any physical contact.** It spreads through contact of body fluids or...
+AIDS virus has been found in urine, tears, saliva, breast milk and vaginal secretions. The virus is transmitted by an infected patient who comes in contact with blood of a healthy person. HIV/AIDS is **not transmitted by touch or any physical contact**. It spreads through contact of body fluids or [blood].
 
-HIV is transmitted generally by:
-
-1. Sexual contact with infected person
-2. Use of contaminated needles or syringes especially in case of intravenous drug abusers
-3. By transfusion of contaminated/infected blood or blood products
-4. From infected mother to her child through...
+**HIV is transmitted generally by:**
+(i) Sexual contact with infected person
+(ii) Use of contaminated needles or syringes especially in case of intravenous drug abusers
+(iii) By transfusion of contaminated/infected blood or blood products
+(iv) From infected mother to her child through [placenta/breast milk]
 
 ### 21.12.2 Symptoms and Treatment of AIDS
 
-**Symptoms:** Infected individuals become immunodeficient. The person becomes more susceptible to viral, bacterial, protozoan and fungal infections. Swelling of lymph nodes, damage to brain, loss of memory, lack of appetite and weight loss, fever, chronic diarrhoea, cough, lethargy, pharyngitis, nausea and...
+**Symptoms:** Infected individuals become immunodeficient. The person becomes more susceptible to viral, bacterial, protozoan and fungal infections. Swelling of lymph nodes, damage to brain, loss of memory, lack of appetite and weight loss, fever, chronic diarrhoea, cough, lethargy, pharyngitis, nausea and [vomiting].
 
-**Diagnosis:** The presence of HIV virus can be confirmed by **Western Blot analysis** or **Enzyme Linked Immunosorbent Assay (ELISA)**...
+**Diagnosis:** The presence of HIV virus can be confirmed by **Western Blot analysis** or **Enzyme Linked Immunosorbent Assay (ELISA)**.
 
-**Treatment:** Anti-retroviral drugs and immunostimulative therapy can prolong the life of the infected...
+**Treatment:** Anti-retroviral drugs and immunostimulative therapy can prolong the life of the infected [person].
 
 ### 21.12.3 Prevention and Control of AIDS
 
 The following steps may help in controlling and prevent the spreading of HIV infection:
 
-1. Screening of blood from blood banks for HIV before transfusion.
-2. Ensuring the use of disposable needles and syringes in hospitals and clinics.
-3. Advocating safe sex and advantages of using condoms.
-4. Creating awareness campaign and educating people on the consequences of AIDS.
-5. Persons with HIV/AIDS should not be isolated from the family and...
-![](8.png)
-&gt; **More to Know**
-&gt; Many people are ignorant about AIDS and it has been said that – **"don't die of ignorance"**. In our country **NACO (National AIDS Control Organization)** and other **NGO'S (Non-Governmental Organizations)** are educating people about AIDS. Every year **December 1st** is observed as the **"World AIDS..."**
+(i) Screening of blood from blood banks for HIV before transfusion.
+(ii) Ensuring the use of disposable needles and syringes in hospitals and clinics.
+(iii) Advocating safe sex and advantages of using condoms.
+(iv) Creating awareness campaign and educating people on the consequences of AIDS.
+(v) Persons with HIV/AIDS should not be isolated from the family and [society].
+
+> **More to Know**
+> 
+> Many people are ignorant about AIDS and it has been said that – **"don't die of ignorance"**. In our country **NACO (National AIDS Control Organization)** and other **NGO'S (Non-Governmental Organizations)** are educating people about AIDS. Every year **December 1st** is observed as the **"World AIDS [Day]"**.
 
 ---
 
@@ -447,7 +453,7 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 - **Obesity** is the state in which there is an accumulation of excess body fat with an abnormal increase in body weight.
 - **Coronary heart disease** is the most common form and is caused by deposition of cholesterol in the blood vessels.
 - **Cancer** is an abnormal and uncontrolled division of cells that invade and destroy surrounding tissue forming a tumor or neoplasm.
-- **AIDS** is caused by Human immunodeficiency...
+- **AIDS** is caused by **Human immunodeficiency virus (HIV)**.
 
 ---
 
@@ -526,7 +532,7 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 7. Type 2 diabetes mellitus results due to insulin deficiency.
 8. Carcinogens are cancer causing agents.
 9. Nicotine is a narcotic drug.
-10. Cirrhosis is associated with brain
+10. Cirrhosis is associated with brain.
 
 ### III. Expand the following abbreviations
 
@@ -539,13 +545,13 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 
 ### IV. Match the following
 
-| | |
+| Column A | Column B |
 |:---|:---|
-| 1. Sarcoma | a) Stomach cancer |
-| 2. Carcinoma | b) Excessive thirst |
-| 3. Polydipsia | c) Excessive hunger |
-| 4. Polyphagia | d) Lack of blood flow to heart muscle |
-| 5. Myocardial Infarction | e) Connective tissue cancer |
+| 1. Sarcoma | - Stomach cancer |
+| 2. Carcinoma | - Excessive thirst |
+| 3. Polydipsia | - Excessive hunger |
+| 4. Polyphagia | - Lack of blood flow to heart muscle |
+| 5. Myocardial Infarction | - Connective tissue cancer |
 
 ### V. Fill in the blanks
 
@@ -582,7 +588,7 @@ Identify the first words and their relationship and suggest a suitable word for 
 
 ### IX. Long answer questions
 
-1. Suggest measures to overcome the problems of an...
+1. Suggest measures to overcome the problems of an [abused child].
 2. Changes in lifestyle is a risk factor for occurrence of cardiovascular diseases. Can it be modified? If yes, suggest measures for prevention.
 
 ### X. Higher Order Thinking Skills (HOTS)
@@ -606,7 +612,7 @@ Identify the first words and their relationship and suggest a suitable word for 
 In each of the following questions, a statement of Assertion is given and a corresponding statement of Reason is given just below it. Of statements given below mark the correct answer as:
 
 - a. If both Assertion and Reason are true and Reason is the correct explanation of Assertion
-- b. If both Assertion and Reason are true that Reason is not the correct explanation of Assertion
+- b. If both Assertion and Reason are true that Reason is not the correct explanation of Asssertion
 - c. Assertion is true but Reason is false
 - d. Both Assertion and Reason are false
 
@@ -614,7 +620,7 @@ In each of the following questions, a statement of Assertion is given and a corr
    **Reason:** Drugs disturb the functioning of the body and mind.
 
 2. **Assertion:** Excretion of excess glucose in urine is observed in a person with diabetes mellitus.
-   **Reason:** Pancreas is unable to produce sufficient quantity of...
+   **Reason:** Pancreas is unable to produce sufficient quantity of [insulin].
 
 ---
 
@@ -622,7 +628,7 @@ In each of the following questions, a statement of Assertion is given and a corr
 
 1. Edward P Sarafino and Timothy W. Smith. 2012, Health Psychology, International Student Version - 7th Edition, Wiley India (P) Ltd, New Delhi.
 2. Srilakshmi, B. Dietetics, 2014, 7th Multicolor Edition, New Age International Publishers, New Delhi.
-3. Sathyanarayana U. Biochemistry – Revised Edition, Books and (P) Ltd,...
+3. Sathyanarayana U. Biochemistry – Revised Edition, Books and (P) Ltd.
 
 ## INTERNET RESOURCES
 
@@ -631,5 +637,34 @@ In each of the following questions, a statement of Assertion is given and a corr
 ---
 
 ## Concept Map
-![](9.png)
+
 **Abuses and Disorders due to Lifestyle Modification**
+
+```
+Abuses
+├── Child abuse
+├── Sexual abuse
+├── Drug abuse
+├── Tobacco abuse
+└── Alcohol abuse
+
+Protection and Prevention
+├── Counselling and Psychotherapy
+├── Family support
+├── Community based efforts
+├── Abuse prevention campaigns
+└── Rehabilitation
+
+Disorders due to Lifestyle Modification
+├── Diabetes Mellitus
+├── Obesity
+└── Cancer
+
+Protection and Prevention
+├── Dietary management
+├── Physical activity and body weight maintenance
+├── Medication and therapy
+└── Education and awareness
+```
+
+---
