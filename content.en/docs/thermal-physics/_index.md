@@ -1,5 +1,5 @@
 ---
-title: 'THERMAL PHYSICS'
+title: 'UNIT-3 : THERMAL PHYSICS'
 weight: 3
 ---
 # 3 THERMAL PHYSICS
@@ -36,6 +36,7 @@ The temperature measured in relation to absolute zero using the kelvin scale is 
 - **Celsius and Kelvin:** K = C + 273
 - **Fahrenheit and Kelvin:** K = (F + 460) × 5/9
 
+                           0 K = –273°C.
 ### 3.1.2 Thermal equilibrium
 
 Two or more physical systems or bodies are said to be in **thermal equilibrium** if there is no net flow of thermal energy between the systems. Heat energy always flows from one body to the other due to a temperature difference between them. Thus, you can define thermal equilibrium in another way. If two bodies are said to be in thermal equilibrium, then, they will be at the same temperature.
@@ -43,6 +44,7 @@ Two or more physical systems or bodies are said to be in **thermal equilibrium**
 What will happen if two bodies at different temperatures are brought in contact with one other? There will be a transfer of heat energy from the hot body to the cold body until a thermal equilibrium is established between them.
 
 ![](img1.png)
+
 
 When a cold body is placed in contact with a hot body, some thermal energy is transferred from the hot body to the cold body. As a result, there is some rise in the temperature of the cold body and decrease in the temperature of the hot body. This process will continue until these two bodies attain the same temperature.
 
@@ -109,6 +111,7 @@ When a body is heated or cooled, the length of the body changes due to change in
 The ratio of increase in length of the body per degree rise in temperature to its unit length is called as the **coefficient of linear expansion**. The SI unit of Coefficient of Linear expansion is **K⁻¹**. The value of coefficient of linear expansion is different for different materials.
 
 ![](img2.png)
+**Figure 3.2** Linear expansion
 
 The equation relating the change in length and the change in temperature of a body is given below:
 
@@ -422,8 +425,7 @@ V_2 = \textbf{5 cm}^3
    - c) difference in T.E and P.E
    - d) **difference in K.E and T.E** ✓
 
-5. In the Given diagram, the possible direction of heat energy transformation is
-![](img7.png)
+5. In the Given diagram, the possible direction of heat energy transformation is    ![](img7.png)
    - (Diagram showing: A = 303 K, B = 304 K, C = 305 K)
    - a) A ← B, A ← C, B ← C
    - b) A → B, A → C, B → C
