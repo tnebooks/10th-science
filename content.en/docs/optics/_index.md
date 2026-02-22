@@ -187,6 +187,7 @@ Lens is basically classified into two types. They are:
 **Plano-concave lens:** If one of the faces of a bi-concave lens is plane, it is known as a plano-concave lens.
 
 ![](types_of_lenses.png)
+**Figure 2.2** Types of lenses
 
 ---
 
@@ -197,14 +198,21 @@ When an object is placed in front of a lens, the light rays from the object fall
 **Rule-1:** When a ray of light strikes the convex or concave lens obliquely at its optical centre, it continues to follow its path without any deviation (Figure 2.3).
 
 ![Figure 2.3 Rays passing through the optical centre](rule1.png)
+**Figure 2.3** Rays passing through the
+optical centre
 
 **Rule-2:** When rays parallel to the principal axis strikes a convex or concave lens, the refracted rays are converged to (convex lens) or appear to diverge from (concave lens) the principal focus (Figure 2.4).
 
 ![Figure 2.4 Rays passing parallel to the optic axis](rule2.png)
+**Figure 2.4** Rays passing parallel to the optic
+axis
 
 **Rule-3:** When a ray passing through (convex lens) or directed towards (concave lens) the principal focus strikes a convex or concave lens, the refracted ray will be parallel to the principal axis (Figure 2.5).
 
 ![Figure 2.5 Rays passing through or directed towards the principal focus](rule3.png)
+**Figure 2.5** Rays passing through or directed
+towards the principal focus
+
 
 ---
 
@@ -216,31 +224,48 @@ Let us discuss the formation of images by a convex lens when the object is place
 When an object is placed at infinity, a real image is formed at the principal focus. The size of the image is much smaller than that of the object (Figure 2.6).
 
 ![Figure 2.6 Object at infinity](convex_infinity.png)
+**Figure 2.6** Object at infinity
+
 
 ### Object placed beyond C (&gt;2F)
 When an object is placed behind the center of curvature (beyond C), a real and inverted image is formed between the center of curvature and the principal focus. The size of the image is the smaller than that of the object (Figure 2.7).
 
 ![Figure 2.7 Object placed beyond C (&gt;2F)](convex_beyond_c.png)
+**Figure 2.7** Object placed beyond C (>2F)
+
 
 ### Object placed at C
 When an object is placed at the center of curvature, a real and inverted image is formed at the other center of curvature. The size of the image is the same as that of the object (Figure 2.8).
 
 ![Figure 2.8 Object placed at C](convex_at_c.png)
+**Figure.2.8** Object placed at C
+
+
 
 ### Object placed between F and C
 When an object is placed in between the center of curvature and principal focus, a real and inverted image is formed behind the center of curvature. The size of the image is bigger than that of the object (Figure 2.9).
 
 ![Figure 2.9 Object placed between F and C](convex_between_f_c.png)
 
+**Figure 2.9** Object placed between F and C
+
+
 ### Object placed at the principal focus F
 When an object is placed at the focus, a real image is formed at infinity. The size of the image is much larger than that of the object (Figure 2.10).
 
 ![Figure 2.10 Object placed at the principal focus F](convex_at_f.png)
+**Figure 2.10** Object placed at the principal
+focus F
+
+
 
 ### Object placed between the principal focus F and optical centre O
 When an object is placed in between principal focus and optical centre, a virtual image is formed. The size of the image is larger than that of the object (Figure 2.11).
 
 ![Figure 2.11 Object placed between the principal focus F and optical centre O](convex_between_f_o.png)
+**Figure 2.11** Object placed between the
+principal focus F and optical centre O
+
 
 ---
 
@@ -262,14 +287,30 @@ When an object is placed at infinity, a virtual image is formed at the focus. Th
 
 ![Figure 2.12 Concave lens - Object at infinity](concave_infinity.png)
 
+**Figure 2.12** Concave lens-Object at infinity
+
+
+
 ### Object anywhere on the principal axis at a finite distance
 When an object is placed at a finite distance from the lens, a virtual image is formed between optical center and focus of the concave lens. The size of the image is smaller than that of the object (Figure 2.13).
 
 ![Figure 2.13 Concave lens - Object at a finite distance](concave_finite.png)
 
+**Figure 2.13** Concave lens-Object at a finite
+distance
+
+
+
+
 But, as the distance between the object and the lens is decreased, the distance between the image and the lens also keeps decreasing. Further, the size of the image formed increases as the distance between the object and the lens is decreased. This is shown in (Figure 2.14).
 
 ![Figure 2.14 Concave lens - Variation in position and size of image with object distance](concave_variation.png)
+
+
+**Figure 2.14** Concave lens-Variation in
+position and size of image with object distance
+
+
 
 ---
 
@@ -412,6 +453,10 @@ Myopia, also known as short sightedness, occurs due to the lengthening of eye ba
 
 ![Figure 2.16 (a) Vision with myopia (b) Corrected vision using a concave lens](myopia.png)
 
+**Figure 2.16** (a) Vision with myopia
+b) Corrected vision using a concave lens
+
+
 The focal length of the concave lens to be used is computed as follows:
 
 Let a person with myopia eye can see up to a distance x. Suppose that he wants to see all objects farther than this distance, i.e., up to infinity. Then the focal length of the required concave lens is f = -x.
@@ -426,6 +471,9 @@ f = \frac{xy}{x-y}
 Hypermeteropia, also known as long sightedness, occurs due to the shortening of eye ball. With this defect, distant objects can be seen clearly but nearby objects cannot be seen clearly. The focal length of eye lens is increased or the distance between eye lens and retina decreases. Hence, the near point will not be at 25 cm for such eyes and the near point has moved farther. Due to this, the image of nearby objects are formed behind the retina (Figure 2.17-a). This defect can be corrected using a convex lens (Figure 2.17-b).
 
 ![Figure 2.17 (a) Vision with hypermeteropia (b) Corrected vision using a convex lens](hypermetropia.png)
+
+**Figure 2.17** (a) Vision with hypermeteropia
+(b) Corrected vision using a convex lens
 
 The focal length of the convex lens to be used is computed as follows:
 
@@ -458,6 +506,12 @@ Let an object (AB) is placed at a point within the principal focus (u &lt; f) of
 
 ![Figure 2.18 Image formation in simple microscope](simple_microscope.png)
 
+**Figure 2.18** Image formation in simple
+microscope
+
+
+
+
 #### Uses of Simple microscope
 Simple microscopes are used:
 a) by watch repairers and jewellers.
@@ -477,6 +531,11 @@ A compound microscope consists of two convex lenses. The lens with the shorter f
 The object (AB) is placed at a distance slightly greater than the focal length of objective lens (u &gt; f). A real, inverted and magnified image (A'B') is formed at the other side of the objective lens. This image behaves as the object for the eye lens. The position of the eye lens is adjusted in such a way, that the image (A'B') falls within the principal focus of the eye piece. This eye piece forms a virtual, enlarged and erect image (A"B") on the same side of the object.
 
 ![Figure 2.19 Image formation in compound microscope](compound_microscope.png)
+
+
+**Figure 2.19** Image formation in compound
+microscope
+
 
 Compound microscope has 50 to 200 times more magnification power than simple microscope.
 
