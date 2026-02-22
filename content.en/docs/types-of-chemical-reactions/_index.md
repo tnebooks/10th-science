@@ -605,7 +605,8 @@ The pH of rain water is approximately 7, which means that it is neutral. If the 
    - c. i, ii and iii
    - d. i, ii and iv
 
-4. The chemical equation {{< katex display=true >}}
+4. The chemical equation
+ {{< katex display=true >}}
 (\text{Na}_2\text{SO}_{4(aq)} + \text{BaCl}_{2(aq)} \rightarrow \text{BaSO}_{4(s)}\downarrow + 2\text{NaCl}_{(aq)})
 {{< /katex >}} represents which of the following types of reaction?
    - a. Neutralisation
