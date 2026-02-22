@@ -1,8 +1,8 @@
 ---
-title: 'UNIT-3 : THERMAL PHYSICS'
+title: 'THERMAL PHYSICS'
 weight: 3
 ---
-# 3 THERMAL PHYSICS
+# UNIT3:THERMAL PHYSICS
 
 ## Learning Objectives
 At the end of this lesson, students will be able to
@@ -36,7 +36,8 @@ The temperature measured in relation to absolute zero using the kelvin scale is 
 - **Celsius and Kelvin:** K = C + 273
 - **Fahrenheit and Kelvin:** K = (F + 460) × 5/9
 
-                           0 K = –273°C.
+  0K=-273°C
+
 ### 3.1.2 Thermal equilibrium
 
 Two or more physical systems or bodies are said to be in **thermal equilibrium** if there is no net flow of thermal energy between the systems. Heat energy always flows from one body to the other due to a temperature difference between them. Thus, you can define thermal equilibrium in another way. If two bodies are said to be in thermal equilibrium, then, they will be at the same temperature.
