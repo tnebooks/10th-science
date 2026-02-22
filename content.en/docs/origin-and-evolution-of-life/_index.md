@@ -115,8 +115,8 @@ The ancestors of giraffe were provided with short neck and short forelimbs. Due 
 ##### iv. Theory of Inheritance of Acquired Characters
 When there is a change in the environment, the animals respond to the change. They develop adaptive structures. The characters developed by the animals during their life time, in response to the environmental changes are called acquired characters. According to Lamarck, the acquired characters are transmitted to the offspring by the process of inheritance.
 
-![](f1.png
-)
+![](f1.png)
+
 *Flow chart showing the postulates of Lamarckism*
 
 ---
