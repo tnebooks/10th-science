@@ -91,10 +91,7 @@ With physical states:
 
 A combination reaction is a reaction in which two or more reactants combine to form a compound. It is otherwise called 'synthesis reaction' or 'composition reaction'.
 
-**General scheme:**
-{{< katex display=true >}}
-(\text{A} + \text{B} \rightarrow \text{AB})
-{{< /katex >}}
+![](1.1.png)
 
 **Example:** Hydrogen gas combines with chlorine gas to form hydrogen chloride gas.
 {{< katex display=true >}}
@@ -106,6 +103,10 @@ A combination reaction is a reaction in which two or more reactants combine to f
 1. **Element + Element → Compound**
    
    Example 1: When solid sulphur reacts with oxygen, it produces sulphur dioxide.
+
+   ![](1.2.png)
+
+
    {{< katex display=true >}}
 (\text{S}_{(s)} + \text{O}_{2(g)} \rightarrow \text{SO}_{2(g)})
 {{< /katex >}}
@@ -135,10 +136,7 @@ A combination reaction is a reaction in which two or more reactants combine to f
 
 In a decomposition reaction, a single compound splits into two or more simpler substances under suitable conditions. It is the opposite of the combination reaction.
 
-**General scheme:**
-{{< katex display=true >}}
-(\text{AB} \rightarrow \text{A} + \text{B})
-{{< /katex >}}
+![](1.3.png)
 
 Breaking of bonds is the major phenomenon in a decomposition reaction and hence it requires energy to break the bonds.
 
@@ -177,6 +175,11 @@ Breaking of bonds is the major phenomenon in a decomposition reaction and hence 
    {{< katex display=true >}}
 (2\text{AgBr}_{(s)} \xrightarrow{\text{Light}} 2\text{Ag}_{(s)} + \text{Br}_{2(g)})
 {{< /katex >}}
+
+![](1.png)
+
+
+**Figure 10.1** Photo decomposition of silver bromide
    
    The yellow coloured silver bromide turns into grey coloured silver metal.
 
@@ -190,10 +193,7 @@ Breaking of bonds is the major phenomenon in a decomposition reaction and hence 
 
 It is a reaction between an element and a compound. When they react, one of the elements of the compound-reactant is replaced by the element-reactant to form a new compound and an element.
 
-**General scheme:**
-{{< katex display=true >}}
-(\text{A} + \text{BC} \rightarrow \text{AC} + \text{B})
-{{< /katex >}}
+![](1.4.png)
 
 'A' displaces element 'B' from the compound 'BC'.
 
@@ -207,6 +207,11 @@ It is a reaction between an element and a compound. When they react, one of the 
 (\text{Fe}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{FeSO}_{4(aq)} + \text{Cu}_{(s)})
 {{< /katex >}}
 
+![](2.png)
+
+
+**Figure 10.2** Displacement of copper
+
 > **Activity Series (Most reactive to Least reactive):**
 > 
 > **To remember:** Please Send Lions Cats Monkeys And Zebras Into Lovely Hot Countries Signed General Penguin
@@ -219,10 +224,7 @@ More active elements readily displace less active elements from their aqueous so
 
 When two compounds react, if their ions are interchanged, then the reaction is called double displacement reaction. This reaction is also called 'Metathesis Reaction'.
 
-**General scheme:**
-{{< katex display=true >}}
-(\text{AB} + \text{CD} \rightarrow \text{AD} + \text{CB})
-{{< /katex >}}
+![](1.5.png)
 
 **Two major classes:**
 
@@ -235,13 +237,15 @@ When two compounds react, if their ions are interchanged, then the reaction is c
 (\text{Pb(NO}_3)_{2(aq)} + 2\text{KI}_{(aq)} \rightarrow \text{PbI}_{2(s)}\downarrow + 2\text{KNO}_{3(aq)})
 {{< /katex >}}
 
+![](3.png)
+
+**Figure 10.3** Precipitation of PbI2
+
 2. **(ii) Neutralization Reactions**
    
    The reaction between an acid and a base to form a salt and water. It is called 'neutralization reaction' as both acid and base neutralize each other.
    
-   {{< katex display=true >}}
-(\text{Acid} + \text{Base} \rightarrow \text{Salt} + \text{Water})
-{{< /katex >}}
+   ![](1.6.png)
    
    Example:
    {{< katex display=true >}}
@@ -256,6 +260,11 @@ A combustion reaction is one in which the reactant rapidly combines with oxygen 
 {{< katex display=true >}}
 (\text{C}_3\text{H}_{8(g)} + 5\text{O}_{2(g)} \rightarrow 3\text{CO}_{2(g)} + 4\text{H}_2\text{O}_{(g)} + \text{Heat})
 {{< /katex >}}
+
+![](4.png)
+
+
+**Figure 10.4** Combustion of LPG gas
 
 > **Conceptual Thought:** All combustion reactions are oxidations but all oxidations are not combustions. Why?
 
@@ -275,13 +284,15 @@ Since heat is evolved, it is an exothermic reaction. As oxygen is added, it is a
 
 ### 10.1.2 Classification based on the direction of the reaction
 
+![](5.png)
+
+**Figure 10.5** Burning of wood and recharging of mobile battery
+
 #### Reversible Reactions
 
 A reversible reaction is a reaction in which the products can be converted back to the reactants. A reversible reaction is represented by a double arrow.
 
-{{< katex display=true >}}
-(\text{AB} \rightleftharpoons \text{A} + \text{B})
-{{< /katex >}}
+![](1.7.png)
 
 **Example:**
 {{< katex display=true >}}
@@ -356,6 +367,10 @@ At equilibrium:
 (\text{H}_2\text{O}_{(l)} \underset{\text{Condensation}}{\stackrel{\text{Evaporation}}{\rightleftharpoons}} \text{H}_2\text{O}_{(g)})
 {{< /katex >}}
 
+![](6.png)
+
+**Figure 10.6** State of physical equilibrium
+
 ### Characteristics of equilibrium
 
 - In a chemical equilibrium, the rates of the forward and backward reactions are equal.
@@ -372,6 +387,8 @@ Self-ionisation or auto ionisation is a reaction in which two like molecules rea
 {{< katex display=true >}}
 (2\text{H}_2\text{O}_{(l)} \rightleftharpoons \text{H}_3\text{O}^+_{(aq)} + \text{OH}^-_{(aq)})
 {{< /katex >}}
+
+![](1.8.png)
 
 The product of the concentration of the hydronium ion and the hydroxyl ion is called **'ionic product of water'**. It is denoted as **'K_w'**.
 
@@ -420,6 +437,10 @@ pH scale is a scale for measuring the hydrogen ion concentration in a solution. 
 | Tomato juice | 4.2 | Coffee | 5.6 |
 
 ---
+
+![](7.png)
+
+**Figure 10.7** pH Indicator
 
 ## 10.6 ROLE OF pH IN EVERYDAY LIFE
 
@@ -737,5 +758,7 @@ The pH of rain water is approximately 7, which means that it is neutral. If the 
 
 - www.chem4kids.com
 - http://aravindguptatoys.com/filims.html
-```
 
+## Concept Map
+
+![](image.png)
