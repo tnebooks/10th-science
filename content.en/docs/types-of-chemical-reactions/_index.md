@@ -51,13 +51,19 @@ When methane reacts with oxygen, it forms carbon dioxide and water.
 > Methane + Oxygen → Carbon dioxide + Water
 
 **Chemical equation:**
-$$\text{CH}_4 + \text{O}_2 \rightarrow \text{CO}_2 + \text{H}_2\text{O}$$
+{{< katex display=true >}}
+(\text{CH}_4 + \text{O}_2 \rightarrow \text{CO}_2 + \text{H}_2\text{O})
+{{< /katex >}}
 
 **Balanced chemical equation:**
-$$\text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O}$$
+{{< katex display=true >}}
+(\text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O})
+{{< /katex >}}
 
 With physical states:
-$$\text{CH}_{4(g)} + 2\text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + 2\text{H}_2\text{O}_{(g)}$$
+{{< katex display=true >}}
+(\text{CH}_{4(g)} + 2\text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + 2\text{H}_2\text{O}_{(g)})
+{{< /katex >}}
 
 > **Definition:** A balanced chemical equation is the simplified representation of a chemical reaction which describes the chemical composition, physical state of the reactants and the products, and the reaction conditions.
 
@@ -71,7 +77,9 @@ $$\text{CH}_{4(g)} + 2\text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + 2\text{H}_2
 | aq | Aqueous Solution |
 
 **Example:**
-$$2\text{K}_{(s)} + 2\text{H}_2\text{O}_{(l)} \rightarrow 2\text{KOH}_{(aq)} + \text{H}_{2(g)}$$
+{{< katex display=true >}}
+(2\text{K}_{(s)} + 2\text{H}_2\text{O}_{(l)} \rightarrow 2\text{KOH}_{(aq)} + \text{H}_{2(g)})
+{{< /katex >}}
 
 ---
 
@@ -84,30 +92,42 @@ $$2\text{K}_{(s)} + 2\text{H}_2\text{O}_{(l)} \rightarrow 2\text{KOH}_{(aq)} + \
 A combination reaction is a reaction in which two or more reactants combine to form a compound. It is otherwise called 'synthesis reaction' or 'composition reaction'.
 
 **General scheme:**
-$$\text{A} + \text{B} \rightarrow \text{AB}$$
+{{< katex display=true >}}
+(\text{A} + \text{B} \rightarrow \text{AB})
+{{< /katex >}}
 
 **Example:** Hydrogen gas combines with chlorine gas to form hydrogen chloride gas.
-$$\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)}$$
+{{< katex display=true >}}
+(\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)})
+{{< /katex >}}
 
 **Three classes of combination reactions:**
 
 1. **Element + Element → Compound**
    
    Example 1: When solid sulphur reacts with oxygen, it produces sulphur dioxide.
-   $$\text{S}_{(s)} + \text{O}_{2(g)} \rightarrow \text{SO}_{2(g)}$$
+   {{< katex display=true >}}
+(\text{S}_{(s)} + \text{O}_{2(g)} \rightarrow \text{SO}_{2(g)})
+{{< /katex >}}
    
    Example 2: Sodium combines with chlorine to form sodium chloride.
-   $$2\text{Na}_{(s)} + \text{Cl}_{2(g)} \rightarrow 2\text{NaCl}_{(s)}$$
+   {{< katex display=true >}}
+(2\text{Na}_{(s)} + \text{Cl}_{2(g)} \rightarrow 2\text{NaCl}_{(s)})
+{{< /katex >}}
 
 2. **Compound + Element → Compound**
    
    Example: Phosphorous trichloride reacts with chlorine gas and forms phosphorous pentachloride.
-   $$\text{PCl}_{3(l)} + \text{Cl}_{2(g)} \rightarrow \text{PCl}_{5(s)}$$
+   {{< katex display=true >}}
+(\text{PCl}_{3(l)} + \text{Cl}_{2(g)} \rightarrow \text{PCl}_{5(s)})
+{{< /katex >}}
 
 3. **Compound + Compound → Compound**
    
    Example: Silicon dioxide reacts with calcium oxide to form calcium silicate.
-   $$\text{SiO}_{2(s)} + \text{CaO}_{(s)} \rightarrow \text{CaSiO}_{3(s)}$$
+   {{< katex display=true >}}
+(\text{SiO}_{2(s)} + \text{CaO}_{(s)} \rightarrow \text{CaSiO}_{3(s)})
+{{< /katex >}}
 
 > **Note:** Most of the combination reactions are exothermic in nature because they involve the formation of new bonds, which releases a huge amount of energy in the form of heat.
 
@@ -116,7 +136,9 @@ $$\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)}$$
 In a decomposition reaction, a single compound splits into two or more simpler substances under suitable conditions. It is the opposite of the combination reaction.
 
 **General scheme:**
-$$\text{AB} \rightarrow \text{A} + \text{B}$$
+{{< katex display=true >}}
+(\text{AB} \rightarrow \text{A} + \text{B})
+{{< /katex >}}
 
 Breaking of bonds is the major phenomenon in a decomposition reaction and hence it requires energy to break the bonds.
 
@@ -127,10 +149,14 @@ Breaking of bonds is the major phenomenon in a decomposition reaction and hence 
    In this type of reaction, the reactant is decomposed by applying heat.
    
    Example 1: Mercury (II) oxide is decomposed into mercury metal and oxygen gas.
-   $$2\text{HgO}_{(s)} \xrightarrow{\text{Heat}} 2\text{Hg}_{(l)} + \text{O}_{2(g)}$$
+   {{< katex display=true >}}
+(2\text{HgO}_{(s)} \xrightarrow{\text{Heat}} 2\text{Hg}_{(l)} + \text{O}_{2(g)})
+{{< /katex >}}
    
    Example 2: Calcium carbonate breaks down into calcium oxide and carbon dioxide.
-   $$\text{CaCO}_{3(s)} \xrightarrow{\text{Heat}} \text{CaO}_{(s)} + \text{CO}_{2(g)}$$
+   {{< katex display=true >}}
+(\text{CaCO}_{3(s)} \xrightarrow{\text{Heat}} \text{CaO}_{(s)} + \text{CO}_{2(g)})
+{{< /katex >}}
    
    > Such reactions, in which heat is absorbed, are called **Endothermic reactions**.
 
@@ -139,35 +165,47 @@ Breaking of bonds is the major phenomenon in a decomposition reaction and hence 
    In some decomposition reactions, electrical energy is used to bring about the reaction.
    
    Example: Decomposition of sodium chloride on passing electric current through its aqueous solution.
-   $$2\text{NaCl}_{(aq)} \xrightarrow{\text{Electricity}} 2\text{Na}_{(s)} + \text{Cl}_{2(g)}$$
+   {{< katex display=true >}}
+(2\text{NaCl}_{(aq)} \xrightarrow{\text{Electricity}} 2\text{Na}_{(s)} + \text{Cl}_{2(g)})
+{{< /katex >}}
 
 3. **(iii) Photo Decomposition Reactions (Photolysis)**
    
    Light is another form of energy which facilitates some decomposition reactions.
    
    Example: When silver bromide is exposed to light, it breaks down into silver metal and bromine gas.
-   $$2\text{AgBr}_{(s)} \xrightarrow{\text{Light}} 2\text{Ag}_{(s)} + \text{Br}_{2(g)}$$
+   {{< katex display=true >}}
+(2\text{AgBr}_{(s)} \xrightarrow{\text{Light}} 2\text{Ag}_{(s)} + \text{Br}_{2(g)})
+{{< /katex >}}
    
    The yellow coloured silver bromide turns into grey coloured silver metal.
 
 > **DO YOU KNOW?**
 > A solution of slaked lime is used for white washing walls. Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of calcium carbonate on the walls.
-> $$\text{Ca(OH)}_{2(aq)} + \text{CO}_{2(g)} \rightarrow \text{CaCO}_{3(s)} + \text{H}_2\text{O}_{(l)}$$
+> {{< katex display=true >}}
+(\text{Ca(OH)}_{2(aq)} + \text{CO}_{2(g)} \rightarrow \text{CaCO}_{3(s)} + \text{H}_2\text{O}_{(l)})
+{{< /katex >}}
 
 #### (c) Single Displacement Reactions
 
 It is a reaction between an element and a compound. When they react, one of the elements of the compound-reactant is replaced by the element-reactant to form a new compound and an element.
 
 **General scheme:**
-$$\text{A} + \text{BC} \rightarrow \text{AC} + \text{B}$$
+{{< katex display=true >}}
+(\text{A} + \text{BC} \rightarrow \text{AC} + \text{B})
+{{< /katex >}}
 
 'A' displaces element 'B' from the compound 'BC'.
 
 **Examples:**
 
-$$\text{Zn}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow \text{ZnCl}_{2(aq)} + \text{H}_{2(g)}$$
+{{< katex display=true >}}
+(\text{Zn}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow \text{ZnCl}_{2(aq)} + \text{H}_{2(g)})
+{{< /katex >}}
 
-$$\text{Fe}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{FeSO}_{4(aq)} + \text{Cu}_{(s)}$$
+{{< katex display=true >}}
+(\text{Fe}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{FeSO}_{4(aq)} + \text{Cu}_{(s)})
+{{< /katex >}}
 
 > **Activity Series (Most reactive to Least reactive):**
 > 
@@ -182,7 +220,9 @@ More active elements readily displace less active elements from their aqueous so
 When two compounds react, if their ions are interchanged, then the reaction is called double displacement reaction. This reaction is also called 'Metathesis Reaction'.
 
 **General scheme:**
-$$\text{AB} + \text{CD} \rightarrow \text{AD} + \text{CB}$$
+{{< katex display=true >}}
+(\text{AB} + \text{CD} \rightarrow \text{AD} + \text{CB})
+{{< /katex >}}
 
 **Two major classes:**
 
@@ -191,23 +231,31 @@ $$\text{AB} + \text{CD} \rightarrow \text{AD} + \text{CB}$$
    When aqueous solutions of two compounds are mixed, if they react to form an insoluble compound and a soluble compound, then it is called precipitation reaction.
    
    Example: When clear aqueous solutions of potassium iodide and lead (II) nitrate are mixed, a yellow precipitate of lead (II) iodide is formed.
-   $$\text{Pb(NO}_3)_{2(aq)} + 2\text{KI}_{(aq)} \rightarrow \text{PbI}_{2(s)}\downarrow + 2\text{KNO}_{3(aq)}$$
+   {{< katex display=true >}}
+(\text{Pb(NO}_3)_{2(aq)} + 2\text{KI}_{(aq)} \rightarrow \text{PbI}_{2(s)}\downarrow + 2\text{KNO}_{3(aq)})
+{{< /katex >}}
 
 2. **(ii) Neutralization Reactions**
    
    The reaction between an acid and a base to form a salt and water. It is called 'neutralization reaction' as both acid and base neutralize each other.
    
-   $$\text{Acid} + \text{Base} \rightarrow \text{Salt} + \text{Water}$$
+   {{< katex display=true >}}
+(\text{Acid} + \text{Base} \rightarrow \text{Salt} + \text{Water})
+{{< /katex >}}
    
    Example:
-   $$\text{NaOH}_{(aq)} + \text{HCl}_{(aq)} \rightarrow \text{NaCl}_{(aq)} + \text{H}_2\text{O}_{(l)}$$
+   {{< katex display=true >}}
+(\text{NaOH}_{(aq)} + \text{HCl}_{(aq)} \rightarrow \text{NaCl}_{(aq)} + \text{H}_2\text{O}_{(l)})
+{{< /katex >}}
 
 #### (e) Combustion Reactions
 
 A combustion reaction is one in which the reactant rapidly combines with oxygen to form one or more oxides and energy (heat). So in combustion reactions, one of the reactants must be oxygen.
 
 **Example:**
-$$\text{C}_3\text{H}_{8(g)} + 5\text{O}_{2(g)} \rightarrow 3\text{CO}_{2(g)} + 4\text{H}_2\text{O}_{(g)} + \text{Heat}$$
+{{< katex display=true >}}
+(\text{C}_3\text{H}_{8(g)} + 5\text{O}_{2(g)} \rightarrow 3\text{CO}_{2(g)} + 4\text{H}_2\text{O}_{(g)} + \text{Heat})
+{{< /katex >}}
 
 > **Conceptual Thought:** All combustion reactions are oxidations but all oxidations are not combustions. Why?
 
@@ -231,20 +279,28 @@ Since heat is evolved, it is an exothermic reaction. As oxygen is added, it is a
 
 A reversible reaction is a reaction in which the products can be converted back to the reactants. A reversible reaction is represented by a double arrow.
 
-$$\text{AB} \rightleftharpoons \text{A} + \text{B}$$
+{{< katex display=true >}}
+(\text{AB} \rightleftharpoons \text{A} + \text{B})
+{{< /katex >}}
 
 **Example:**
-$$\text{PCl}_{5(g)} \rightleftharpoons \text{PCl}_{3(g)} + \text{Cl}_{2(g)}$$
+{{< katex display=true >}}
+(\text{PCl}_{5(g)} \rightleftharpoons \text{PCl}_{3(g)} + \text{Cl}_{2(g)})
+{{< /katex >}}
 
 > **MORE TO KNOW:** If hydrogen peroxide is poured on a wound, it decomposes into water and oxygen. The gaseous oxygen bubbles away as it is formed and thus prevent the formation of H₂O₂.
-> $$2\text{H}_2\text{O}_{2(aq)} \rightleftharpoons 2\text{H}_2\text{O}_{(l)} + \text{O}_{2(g)}$$
+> {{< katex display=true >}}
+(2\text{H}_2\text{O}_{2(aq)} \rightleftharpoons 2\text{H}_2\text{O}_{(l)} + \text{O}_{2(g)})
+{{< /katex >}}
 
 #### Irreversible Reactions
 
 The reaction that cannot be reversed is called irreversible reaction. The irreversible reactions are unidirectional.
 
 **Example:**
-$$\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat}$$
+{{< katex display=true >}}
+(\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat})
+{{< /katex >}}
 
 ---
 
@@ -264,7 +320,9 @@ $$\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat}$$
 
 **Definition:** "Rate of a reaction is the change in the amount or concentration of any one of the reactants or products per unit time".
 
-$$\text{Rate} = -\frac{d[\text{A}]}{dt} = +\frac{d[\text{B}]}{dt}$$
+{{< katex display=true >}}
+(\text{Rate} = -\frac{d[\text{A}]}{dt} = +\frac{d[\text{B}]}{dt})
+{{< /katex >}}
 
 Where:
 - [A] – Concentration of A
@@ -288,11 +346,15 @@ Where:
 **Chemical Equilibrium:** It is state of a reversible chemical reaction in which no change in the amount of the reactants and products takes place.
 
 At equilibrium:
-$$\text{Rate of forward reaction} = \text{Rate of backward reaction}$$
+{{< katex display=true >}}
+(\text{Rate of forward reaction} = \text{Rate of backward reaction})
+{{< /katex >}}
 
 **Physical Equilibrium:** A state of a physical change at which the volume of all the phases remain unchanged.
 
-$$\text{H}_2\text{O}_{(l)} \underset{\text{Condensation}}{\stackrel{\text{Evaporation}}{\rightleftharpoons}} \text{H}_2\text{O}_{(g)}$$
+{{< katex display=true >}}
+(\text{H}_2\text{O}_{(l)} \underset{\text{Condensation}}{\stackrel{\text{Evaporation}}{\rightleftharpoons}} \text{H}_2\text{O}_{(g)})
+{{< /katex >}}
 
 ### Characteristics of equilibrium
 
@@ -307,17 +369,25 @@ $$\text{H}_2\text{O}_{(l)} \underset{\text{Condensation}}{\stackrel{\text{Evapor
 
 Self-ionisation or auto ionisation is a reaction in which two like molecules react to give ions.
 
-$$2\text{H}_2\text{O}_{(l)} \rightleftharpoons \text{H}_3\text{O}^+_{(aq)} + \text{OH}^-_{(aq)}$$
+{{< katex display=true >}}
+(2\text{H}_2\text{O}_{(l)} \rightleftharpoons \text{H}_3\text{O}^+_{(aq)} + \text{OH}^-_{(aq)})
+{{< /katex >}}
 
 The product of the concentration of the hydronium ion and the hydroxyl ion is called **'ionic product of water'**. It is denoted as **'K_w'**.
 
-$$K_w = [\text{H}_3\text{O}^+][\text{OH}^-]$$
+{{< katex display=true >}}
+(K_w = [\text{H}_3\text{O}^+][\text{OH}^-])
+{{< /katex >}}
 
 or simply:
-$$K_w = [\text{H}^+][\text{OH}^-]$$
+{{< katex display=true >}}
+(K_w = [\text{H}^+][\text{OH}^-])
+{{< /katex >}}
 
 - Unit: mol² dm⁻⁶
-- At 25°C: $K_w = 1.00 \times 10^{-14}$
+- At 25°C: {{< katex display=true >}}
+(K_w = 1.00 \times 10^{-14})
+{{< /katex >}}
 
 ---
 
@@ -329,7 +399,9 @@ pH scale is a scale for measuring the hydrogen ion concentration in a solution. 
 - **Bases have pH greater than 7**
 - **A neutral solution has pH equal to 7**
 
-$$\text{pH} = -\log_{10}[\text{H}^+]$$
+{{< katex display=true >}}
+(\text{pH} = -\log_{10}[\text{H}^+])
+{{< /katex >}}
 
 ### Common pH Values
 
@@ -375,21 +447,31 @@ The pH of rain water is approximately 7, which means that it is neutral. If the 
 
 ## 10.7 pH CALCULATION
 
-$$\text{pH} = -\log_{10}[\text{H}^+]$$
+{{< katex display=true >}}
+(\text{pH} = -\log_{10}[\text{H}^+])
+{{< /katex >}}
 
 **Example:** Calculate the pH of 0.01M HNO₃?
 
 **Solution:**
-$$[\text{H}^+] = 0.01$$
-$$\text{pH} = -\log_{10}[0.01] = -\log_{10}[1 \times 10^{-2}] = 0 + 2 = 2$$
+{{< katex display=true >}}
+([\text{H}^+] = 0.01)
+{{< /katex >}}
+{{< katex display=true >}}
+(\text{pH} = -\log_{10}[0.01] = -\log_{10}[1 \times 10^{-2}] = 0 + 2 = 2)
+{{< /katex >}}
 
 ### pOH
 
-$$\text{pOH} = -\log_{10}[\text{OH}^-]$$
+{{< katex display=true >}}
+(\text{pOH} = -\log_{10}[\text{OH}^-])
+{{< /katex >}}
 
 ### Relationship between pH and pOH
 
-$$\text{pH} + \text{pOH} = 14$$
+{{< katex display=true >}}
+(\text{pH} + \text{pOH} = 14)
+{{< /katex >}}
 
 ---
 
@@ -398,31 +480,55 @@ $$\text{pH} + \text{pOH} = 14$$
 **Example 1:** Calculate the pH of 0.001 molar solution of HCl.
 
 **Solution:** 
-$$[\text{H}^+] = 1 \times 10^{-3} \text{ mol litre}^{-1}$$
-$$\text{pH} = -\log_{10}[10^{-3}] = 3$$
+{{< katex display=true >}}
+([\text{H}^+] = 1 \times 10^{-3} \text{ mol litre}^{-1})
+{{< /katex >}}
+{{< katex display=true >}}
+(\text{pH} = -\log_{10}[10^{-3}] = 3)
+{{< /katex >}}
 
-**Example 2:** What would be the pH of an aqueous solution of sulphuric acid which is $5 \times 10^{-5}$ mol litre⁻¹ in concentration.
-
-**Solution:**
-$$[\text{H}^+] = 1.0 \times 10^{-4} \text{ mol litre}^{-1}$$
-$$\text{pH} = 4$$
-
-**Example 3:** Calculate the pH of $1 \times 10^{-4}$ molar solution of NaOH.
-
-**Solution:**
-$$[\text{OH}^-] = 1 \times 10^{-4} \text{ mol litre}^{-1}$$
-$$\text{pOH} = 4$$
-$$\text{pH} = 14 - 4 = 10$$
-
-**Example 4:** Calculate the pH of a solution in which the concentration of the hydrogen ions is $1.0 \times 10^{-8}$ mol litre⁻¹.
+**Example 2:** What would be the pH of an aqueous solution of sulphuric acid which is {{< katex display=true >}}
+(5 \times 10^{-5})
+{{< /katex >}} mol litre⁻¹ in concentration.
 
 **Solution:**
-$$\text{pH} = 8$$
+{{< katex display=true >}}
+([\text{H}^+] = 1.0 \times 10^{-4} \text{ mol litre}^{-1})
+{{< /katex >}}
+{{< katex display=true >}}
+(\text{pH} = 4)
+{{< /katex >}}
+
+**Example 3:** Calculate the pH of {{< katex display=true >}}
+(1 \times 10^{-4})
+{{< /katex >}} molar solution of NaOH.
+
+**Solution:**
+{{< katex display=true >}}
+([\text{OH}^-] = 1 \times 10^{-4} \text{ mol litre}^{-1})
+{{< /katex >}}
+{{< katex display=true >}}
+(\text{pOH} = 4)
+{{< /katex >}}
+{{< katex display=true >}}
+(\text{pH} = 14 - 4 = 10)
+{{< /katex >}}
+
+**Example 4:** Calculate the pH of a solution in which the concentration of the hydrogen ions is {{< katex display=true >}}
+(1.0 \times 10^{-8})
+{{< /katex >}} mol litre⁻¹.
+
+**Solution:**
+{{< katex display=true >}}
+(\text{pH} = 8)
+{{< /katex >}}
 
 **Example 5:** If the pH of a solution is 4.5, what is its pOH?
 
 **Solution:**
-$$\text{pOH} = 14 - 4.5 = 9.5$$
+{{< katex display=true >}}
+(\text{pOH} = 14 - 4.5 = 9.5)
+{{< /katex >}}
 
 ---
 
@@ -452,7 +558,9 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
 
 ### I. Choose the correct answer.
 
-1. $\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)}$ is
+1. {{< katex display=true >}}
+(\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)})
+{{< /katex >}} is
    - a. Decomposition Reaction
    - b. Combination Reaction
    - c. Single Displacement Reaction
@@ -464,7 +572,9 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
    - c. light
    - d. mechanical energy
 
-3. A reaction between carbon and oxygen is represented by $\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat}$. In which of the type(s), the above reaction can be classified?
+3. A reaction between carbon and oxygen is represented by {{< katex display=true >}}
+(\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat})
+{{< /katex >}}. In which of the type(s), the above reaction can be classified?
    - (i) Combination Reaction
    - (ii) Combustion Reaction
    - (iii) Decomposition Reaction
@@ -474,7 +584,9 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
    - c. i, ii and iii
    - d. i, ii and iv
 
-4. The chemical equation $\text{Na}_2\text{SO}_{4(aq)} + \text{BaCl}_{2(aq)} \rightarrow \text{BaSO}_{4(s)}\downarrow + 2\text{NaCl}_{(aq)}$ represents which of the following types of reaction?
+4. The chemical equation {{< katex display=true >}}
+(\text{Na}_2\text{SO}_{4(aq)} + \text{BaCl}_{2(aq)} \rightarrow \text{BaSO}_{4(s)}\downarrow + 2\text{NaCl}_{(aq)})
+{{< /katex >}} represents which of the following types of reaction?
    - a. Neutralisation
    - b. Combustion
    - c. Precipitation
@@ -490,7 +602,9 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
    - c. ii, iii and iv
    - d. i, ii and iv
 
-6. A single displacement reaction is represented by $\text{X}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow \text{XCl}_{2(aq)} + \text{H}_{2(g)}$. Which of the following(s) could be X?
+6. A single displacement reaction is represented by {{< katex display=true >}}
+(\text{X}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow \text{XCl}_{2(aq)} + \text{H}_{2(g)})
+{{< /katex >}}. Which of the following(s) could be X?
    - (i) Zn (ii) Ag (iii) Cu (iv) Mg
    - a. i and ii
    - b. ii and iii
@@ -498,21 +612,41 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
    - d. i and iv
 
 7. Which of the following is not an "element + element → compound" type reaction?
-   - a. $\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)}$
-   - b. $2\text{K}_{(s)} + \text{Br}_{2(l)} \rightarrow 2\text{KBr}_{(s)}$
-   - c. $2\text{CO}_{(g)} + \text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)}$
-   - d. $4\text{Fe}_{(s)} + 3\text{O}_{2(g)} \rightarrow 2\text{Fe}_2\text{O}_{3(s)}$
+   - a. {{< katex display=true >}}
+(\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)})
+{{< /katex >}}
+   - b. {{< katex display=true >}}
+(2\text{K}_{(s)} + \text{Br}_{2(l)} \rightarrow 2\text{KBr}_{(s)})
+{{< /katex >}}
+   - c. {{< katex display=true >}}
+(2\text{CO}_{(g)} + \text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)})
+{{< /katex >}}
+   - d. {{< katex display=true >}}
+(4\text{Fe}_{(s)} + 3\text{O}_{2(g)} \rightarrow 2\text{Fe}_2\text{O}_{3(s)})
+{{< /katex >}}
 
 8. Which of the following represents a precipitation reaction?
-   - a. $\text{A}_{(s)} + \text{B}_{(s)} \rightarrow \text{C}_{(g)} + \text{D}_{(s)}$
-   - b. $\text{A}_{(s)} + \text{B}_{(aq)} \rightarrow \text{C}_{(aq)} + \text{D}_{(l)}$
-   - c. $\text{A}_{(aq)} + \text{B}_{(aq)} \rightarrow \text{C}_{(s)} + \text{D}_{(aq)}$
-   - d. $\text{A}_{(aq)} + \text{B}_{(s)} \rightarrow \text{C}_{(aq)} + \text{D}_{(l)}$
+   - a. {{< katex display=true >}}
+(\text{A}_{(s)} + \text{B}_{(s)} \rightarrow \text{C}_{(g)} + \text{D}_{(s)})
+{{< /katex >}}
+   - b. {{< katex display=true >}}
+(\text{A}_{(s)} + \text{B}_{(aq)} \rightarrow \text{C}_{(aq)} + \text{D}_{(l)})
+{{< /katex >}}
+   - c. {{< katex display=true >}}
+(\text{A}_{(aq)} + \text{B}_{(aq)} \rightarrow \text{C}_{(s)} + \text{D}_{(aq)})
+{{< /katex >}}
+   - d. {{< katex display=true >}}
+(\text{A}_{(aq)} + \text{B}_{(s)} \rightarrow \text{C}_{(aq)} + \text{D}_{(l)})
+{{< /katex >}}
 
 9. The pH of a solution is 3. Its [OH⁻] concentration is
-   - a. $1 \times 10^{-3}$ M
+   - a. {{< katex display=true >}}
+(1 \times 10^{-3})
+{{< /katex >}} M
    - b. 3 M
-   - c. $1 \times 10^{-11}$ M
+   - c. {{< katex display=true >}}
+(1 \times 10^{-11})
+{{< /katex >}} M
    - d. 11 M
 
 10. Powdered CaCO₃ reacts more rapidly than flaky CaCO₃ because of ___________.
@@ -538,10 +672,18 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
 
 | REACTION | TYPE |
 |----------|------|
-| $\text{NH}_4\text{OH}_{(aq)} + \text{CH}_3\text{COOH}_{(aq)} \rightarrow \text{CH}_3\text{COONH}_{4(aq)} + \text{H}_2\text{O}_{(l)}$ | Single Displacement |
-| $\text{Zn}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{ZnSO}_{4(aq)} + \text{Cu}_{(s)}$ | Combustion |
-| $\text{ZnCO}_{3(s)} \xrightarrow{\text{Heat}} \text{ZnO}_{(s)} + \text{CO}_{2(g)}$ | Neutralisation |
-| $\text{C}_2\text{H}_{4(g)} + 4\text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)} + 2\text{H}_2\text{O}_{(g)} + \text{Heat}$ | Thermal decomposition |
+| {{< katex display=true >}}
+(\text{NH}_4\text{OH}_{(aq)} + \text{CH}_3\text{COOH}_{(aq)} \rightarrow \text{CH}_3\text{COONH}_{4(aq)} + \text{H}_2\text{O}_{(l)})
+{{< /katex >}} | Single Displacement |
+| {{< katex display=true >}}
+(\text{Zn}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{ZnSO}_{4(aq)} + \text{Cu}_{(s)})
+{{< /katex >}} | Combustion |
+| {{< katex display=true >}}
+(\text{ZnCO}_{3(s)} \xrightarrow{\text{Heat}} \text{ZnO}_{(s)} + \text{CO}_{2(g)})
+{{< /katex >}} | Neutralisation |
+| {{< katex display=true >}}
+(\text{C}_2\text{H}_{4(g)} + 4\text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)} + 2\text{H}_2\text{O}_{(g)} + \text{Heat})
+{{< /katex >}} | Thermal decomposition |
 
 ### IV. True or False: (If false give the correct statement)
 
@@ -574,9 +716,15 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
 ### VIII. Solve the following problems
 
 1. Lemon juice has a pH 2, what is the concentration of H⁺ ions?
-2. Calculate the pH of $1.0 \times 10^{-4}$ molar solution of HNO₃.
-3. What is the pH of $1.0 \times 10^{-5}$ molar solution of KOH?
-4. The hydroxide ion concentration of a solution is $1 \times 10^{-11}$ M. What is the pH of the solution?
+2. Calculate the pH of {{< katex display=true >}}
+(1.0 \times 10^{-4})
+{{< /katex >}} molar solution of HNO₃.
+3. What is the pH of {{< katex display=true >}}
+(1.0 \times 10^{-5})
+{{< /katex >}} molar solution of KOH?
+4. The hydroxide ion concentration of a solution is {{< katex display=true >}}
+(1 \times 10^{-11})
+{{< /katex >}} M. What is the pH of the solution?
 
 ---
 
