@@ -133,6 +133,10 @@ _{92}\mathrm{U}^{238} \rightarrow _{90}\mathrm{Th}^{234} + _{2}\mathrm{He}^{4} \
 
 In α-decay, the parent nucleus emits an α particle and so it is clear that for the daughter nucleus, the mass number decreases by four and the atomic number decreases by two.
 
+
+![](1.png)
+
+
 ### 6.2.4 Beta decay
 
 A nuclear reaction, in which an unstable parent nucleus emits a beta particle and forms a stable daughter nucleus, is called **'beta decay'**.
@@ -161,6 +165,11 @@ In 1939, German Scientist Otto Hahn and F. Strassman discovered that when a uran
 _{92}\mathrm{U}^{235} + _{0}\mathrm{n}^{1} \rightarrow _{56}\mathrm{Ba}^{141} + _{36}\mathrm{Kr}^{92} + 3_{0}\mathrm{n}^{1} + Q \text{ (energy)}{{< /katex >}}
 
 The average energy released in each fission process is about 3.2 times {{< katex display=true >}}10^{-11} J{{< /katex >}}.
+
+
+![](2.png)
+
+
 
 ### 6.3.2 Fissionable materials
 
@@ -192,6 +201,10 @@ In the controlled chain reaction the number of neutrons released is maintained t
 
 In the uncontrolled chain reaction the number of neutrons multiplies indefinitely and causes fission in a large amount of the fissile material. This results in the release of a huge amount of energy within a fraction of a second. This kind of chain reaction is used in the **atom bomb** to produce an explosion.
 
+
+![](3.png)
+
+
 ### 6.3.4 Critical Mass
 
 During a nuclear fission process, about 2 to 3 neutrons are released. But, all these neutrons may not be available to produce further fission. Some of them may escape from the system, which is termed as **'leakage of neutrons'** and some may be absorbed by the non-fissionable materials present in the system. These two factors lead to the loss of neutrons. To sustain the chain reaction, the rate of production of neutrons due to nuclear fission must be more than the rate of its loss. This can be achieved only when the size (i.e., mass) of the fissionable material is equal to a certain optimum value. This is known as **'critical mass'**.
@@ -211,16 +224,19 @@ The atom bomb is based on the principle of **uncontrolled chain reaction**. In a
 **Structure:**
 An atom bomb consists of a piece of fissile material whose mass is subcritical. This piece has a cylindrical void. It has a cylindrical fissile material which can fit into this void and its mass is also subcritical. When the bomb has to be exploded, this cylinder is injected into the void using a conventional explosive. Now, the two pieces of fissile material join to form the supercritical mass, which leads to an explosion.
 
+
+![](4.png)
+
+
 During this explosion tremendous amount of energy in the form of heat, light and radiation is released. A region of very high temperature and pressure is formed in a fraction of a second along with the emission of hazardous radiation like γ rays, which adversely affect the living creatures. This type of atom bombs were exploded in 1945 at Hiroshima and Nagasaki in Japan during the World War II.
 
 > **DO YOU KNOW?**
 > **Electron Volt (eV)** is the unit used in nuclear physics to measure the energy of small particles. It is nothing but the energy of one electron when it is accelerated using an electric potential of one volt.{{< katex display=true >}}
-> 
-> 1 \text{ eV} = 1.602 \times 10^{-19} \text{ joule}
-> 
-> 1 \text{ million electron volt} = 1 \text{ MeV} = 10^{6} \text{ eV (mega electron volt)}
->
-> {{< /katex >}} The energy released in a nuclear fission process is about 200 MeV.
+ 1 \text{ eV} = 1.602 \times 10^{-19} \text{ joule}.
+ {{< /katex >}} {{< katex display=true >}}
+1 \text{ million electron volt} = 1 \text{ MeV}
+= 10^{6} \text{ eV (mega electron volt)}
+{{< /katex >}} The energy released in a nuclear fission process is about 200 MeV.
 
 ---
 
@@ -237,6 +253,10 @@ The process in which two lighter nuclei combine to form a heavier nucleus is ter
 _{1}\mathrm{H}^{2} + _{1}\mathrm{H}^{2} \rightarrow _{2}\mathrm{He}^{4} + Q \text{ (Energy)}{{< /katex >}}
 
 Here,{{< katex display=true >}} _{1}\mathrm{H}^{2} {{< /katex >}}represents an isotope of hydrogen known as **'deuterium'**. The average energy released in each fusion reaction is about {{< katex display=true >}}3.84 \times 10^{-12} J {{< /katex >}}.
+
+
+![](5.png)
+
 
 The mass of the daughter nucleus formed during a nuclear reaction (fission and fusion) is lesser than the sum of the masses of the two parent nuclei. This difference in mass is called **mass defect**. This mass is converted into energy, according to the mass-energy equivalence. This concept of mass-energy equivalence was proposed by Einstein in 1905. It stated that mass can be converted into energy and vice versa. The relation between mass and energy proposed by Einstein is:
 
@@ -338,6 +358,10 @@ The International Commission on Radiological Protection (ICRP) has recommended c
 
 ### 6.6.2 Preventive measures
 
+
+![](6.png)
+
+
 - Radioactive materials should be kept in a thick walled lead container.
 - Lead coated aprons and lead gloves should be used while working with hazardous radioactive materials.
 - You should avoid eating while handling radioactive materials.
@@ -373,6 +397,10 @@ The essential components of a nuclear reactor are:
 
 **v. Protection wall:** A thick concrete lead wall is built around the nuclear reactor in order to prevent the harmful radiations from escaping into the environment.
 
+
+![](7.png)
+
+
 ### 6.7.3 Uses of a nuclear reactor
 
 - Nuclear reactors are widely used in power generation.
@@ -398,17 +426,21 @@ Nuclear power is the fifth largest source of power in India. **Tarapur Atomic Po
 Identify A, B, C, and D from the following nuclear reactions.
 {{< katex display=true >}}
 (i) _{13}\mathrm{Al}^{27} + \mathrm{A} \rightarrow _{15}\mathrm{P}^{30} + \mathrm{B}
-
+{{< /katex >}}
+{{< katex display=true >}}
 (ii) _{12}\mathrm{Mg}^{24} + \mathrm{B} \rightarrow _{11}\mathrm{Na}^{24} + \mathrm{C}
-
+{{< /katex >}}
+{{< katex display=true >}}
 (iii) _{92}\mathrm{U}^{238} + \mathrm{B} \rightarrow _{93}\mathrm{Np}^{239} + \mathrm{D}
 {{< /katex >}}
 **Solution:**
 {{< katex display=true >}}
 (i) _{13}\mathrm{Al}^{27} + _{2}\mathrm{He}^{4} \rightarrow _{15}\mathrm{P}^{30} + _{0}\mathrm{n}^{1}
-
+{{< /katex >}}
+{{< katex display=true >}}
 (ii) _{12}\mathrm{Mg}^{24} + _{0}\mathrm{n}^{1} \rightarrow _{11}\mathrm{Na}^{24} + _{1}\mathrm{H}^{1}
-
+{{< /katex >}}
+{{< katex display=true >}}
 (iii) _{92}\mathrm{U}^{238} + _{0}\mathrm{n}^{1} \rightarrow _{93}\mathrm{Np}^{239} + _{-1}\mathrm{e}^{0}
 {{< /katex >}}
 **A is alpha particle, B is neutron, C is proton, and D is electron.**
@@ -422,12 +454,15 @@ A radon specimen emits radiation of {{< katex display=true >}}3.7 \times 10^{3} 
 **Solution:**
 {{< katex display=true >}}
 1 \text{ Bq} = \text{one disintegration per second}
-
+{{< /katex >}}
+{{< katex display=true >}}
 1 \text{ curie} = 3.7 \times 10^{10} \text{ Bq}
-
+{{< /katex >}}
+{{< katex display=true >}}
 1 \text{ Bq} = \frac{1}{3.7 \times 10^{10}} \text{ curie}
-
-\therefore 3.7 \times 10^{3} \text{ GBq} = 3.7 \times 10^{3} \times 10^{9} \times \frac{1}{3.7 \times 10^{10}} = 100 \text{ curie}
+{{< /katex >}}
+{{< katex display=true >}}
+\therefore 3.7 \times 10^{3} \text{ GBq} = 3.7 \times 10^{3} \times 10^{9} \times \frac{1}{3.7 \times 10^{10}}{{< /katex >}} {{< katex display=true >}}= 100 \text{ curie}
 {{< /katex >}}
 ---
 
@@ -468,13 +503,13 @@ So E = 2 \times (3 \times 10^{8})^{2} = 1.8 \times 10^{17} J{{< /katex >}}
 ## Points to Remember
 
 - This phenomenon of spontaneous emission of radiation from certain elements on its own is called **'natural radioactivity'**.
-- **Curie** is defined as the quantity of a radioactive substance, which undergoes {{< katex display=true >}}3.7 \times 10^{10} disintegrations in one second. This is actually close to the activity of 1g of radium-226.{{< /katex >}}
-- **Rutherford (Rd)** is defined as the quantity of a radioactive substance which produces{{< katex display=true >}} 10^{6}
-disintegrations in one second.{{< /katex >}}
-  - {{< katex display=true >}}1 \text{ Rd} = 10^{6} disintegrations per second.{{< /katex >}}
+- **Curie** is defined as the quantity of a radioactive substance, which undergoes {{< katex display=true >}}3.7 \times 10^{10} {{< /katex >}}disintegrations in one second. This is actually close to the activity of 1g of radium-226.
+- **Rutherford (Rd)** is defined as the quantity of a radioactive substance which produces{{< katex display=true >}} 10^{6}{{< /katex >}}
+disintegrations in one second.
+  - {{< katex display=true >}}1 \text{ Rd} = 10^{6} {{< /katex >}}disintegrations per second.
 - The SI unit of radioactivity is **becquerel**. It is defined as the quantity of one disintegration per second.
-- Helium nucleus {{< katex display=true >}}(_{2}\mathrm{He}^{4}) consisting of two protons and two neutrons is known as **alpha particle**.{{< /katex >}}
-- **Beta particles** are electrons {{< katex display=true >}}(_{-1}\mathrm{e}^{0}\), which are the basic elementary particles present in all atoms.{{< /katex >}}
+- Helium nucleus {{< katex display=true >}}(_{2}\mathrm{He}^{4}){{< /katex >}} consisting of two protons and two neutrons is known as **alpha particle**.
+- **Beta particles** are electrons {{< katex display=true >}}(_{-1}\mathrm{e}^{0}\){{< /katex >}}, which are the basic elementary particles present in all atoms.
 - **Gamma rays** are electromagnetic waves consisting of photons.
 - A nuclear reaction in which an unstable parent nucleus emits an alpha particle and forms a stable daughter nucleus is called as **'alpha decay'**.
 - A nuclear reaction in which an unstable parent nucleus emits a beta particle and forms a stable daughter nucleus is called as **'beta decay'**.
@@ -756,6 +791,10 @@ Radio Activity
 
 [Uses] [Safety Measures]
 ```
+
+![](8.png)
+
+
 ---
 
 ## ICT CORNER
