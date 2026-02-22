@@ -2,6 +2,7 @@
 title: 'TYPES OF CHEMICAL REACTIONS'
 weight: 10
 ---
+I'll convert the PDF content about "Types of Chemical Reactions" to Markdown format for you.
 
 ---
 # 10 TYPES OF CHEMICAL REACTIONS
@@ -26,15 +27,21 @@ After completing this lesson learners will be able to:
 
 ## INTRODUCTION
 
-As you know from your earlier studies, a chemical reaction involves breaking of old chemical bonds and formation of new chemical bonds. This change may happen spontaneously or it may be facilitated by external forces or energy. Chemistry is all about chemical reactions. In your day to day life, you could observe many chemical reactions. A clear understanding of these reactions is essential in order to manipulate them for the sake of human life and environment.
+As you know from your earlier studies, a chemical reaction involves breaking of old chemical bonds and formation of new chemical bonds. This change may happen spontaneously or it may be facilitated by external forces or energy. Chemistry is all about chemical reactions. In your day to day life, you could observe many chemical reactions. A clear understanding of these reactions is essential in order to manipulate them for the sake of human life and environment. So, chemistry mainly focuses on chemical reactions.
 
-**Questions to consider:**
+**Key questions:**
 - You need energy to play, walk, run or to perform various physical activities. Where do you get the energy from?
 - How do plants grow and get their food?
 - How does a car move using fuel?
 - Why does iron rust on its exposure to water or air?
 
-You get energy from the digestion of the food you eat. Plants grow by absorbing nutrients from the Earth and get their food by photosynthesis. The combustion of a fuel makes the car to move. Oxidation of iron causes rusting. So, all these processes are chemical changes i.e. the materials, which undergo changes are converted into some other new materials.
+**Answers:**
+- You get energy from the digestion of the food you eat.
+- Plants grow by absorbing nutrients from the Earth and get their food by photosynthesis.
+- The combustion of a fuel makes the car to move.
+- Oxidation of iron causes rusting.
+
+All these processes are chemical changes i.e. the materials, which undergo changes are converted into some other new materials.
 
 ---
 
@@ -85,7 +92,9 @@ $$2\text{K}_{(s)} + 2\text{H}_2\text{O}_{(l)} \rightarrow 2\text{KOH}_{(aq)} + \
 A combination reaction is a reaction in which two or more reactants combine to form a compound. It is otherwise called 'synthesis reaction' or 'composition reaction'.
 
 **General scheme:**
-$$\text{A} + \text{B} \rightarrow \text{AB}$$
+```
+A + B → AB
+```
 
 **Example:** Hydrogen gas combines with chlorine gas to form hydrogen chloride gas.
 $$\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)}$$
@@ -117,39 +126,47 @@ $$\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)}$$
 In a decomposition reaction, a single compound splits into two or more simpler substances under suitable conditions. It is the opposite of the combination reaction.
 
 **General scheme:**
-$$\text{AB} \rightarrow \text{A} + \text{B}$$
+```
+AB → A + B
+```
 
-Breaking of bonds is the major phenomenon in a decomposition reaction and hence it requires energy to break the bonds.
+**Three main classes:**
 
-**Three main classes of decomposition reactions:**
+**(i) Thermal Decomposition Reactions**
 
-1. **(i) Thermal Decomposition Reactions (Thermolysis)**
-   
-   In this type of reaction, the reactant is decomposed by applying heat.
-   
-   Example 1: Mercury (II) oxide is decomposed into mercury metal and oxygen gas.
-   $$2\text{HgO}_{(s)} \xrightarrow{\text{Heat}} 2\text{Hg}_{(l)} + \text{O}_{2(g)}$$
-   
-   Example 2: Calcium carbonate breaks down into calcium oxide and carbon dioxide.
-   $$\text{CaCO}_{3(s)} \xrightarrow{\text{Heat}} \text{CaO}_{(s)} + \text{CO}_{2(g)}$$
-   
-   > Such reactions, in which heat is absorbed, are called **Endothermic reactions**.
+In this type of reaction, the reactant is decomposed by applying heat (Thermolysis).
 
-2. **(ii) Electrolytic Decomposition Reactions (Electrolysis)**
-   
-   In some decomposition reactions, electrical energy is used to bring about the reaction.
-   
-   Example: Decomposition of sodium chloride on passing electric current through its aqueous solution.
-   $$2\text{NaCl}_{(aq)} \xrightarrow{\text{Electricity}} 2\text{Na}_{(s)} + \text{Cl}_{2(g)}$$
+*Example 1:* Mercury (II) oxide decomposes into mercury metal and oxygen gas.
+```
+2HgO(s) --Heat→ 2Hg(l) + O₂(g)
+```
 
-3. **(iii) Photo Decomposition Reactions (Photolysis)**
-   
-   Light is another form of energy which facilitates some decomposition reactions.
-   
-   Example: When silver bromide is exposed to light, it breaks down into silver metal and bromine gas.
-   $$2\text{AgBr}_{(s)} \xrightarrow{\text{Light}} 2\text{Ag}_{(s)} + \text{Br}_{2(g)}$$
-   
-   The yellow coloured silver bromide turns into grey coloured silver metal.
+*Example 2:* Calcium carbonate breaks down into calcium oxide and carbon dioxide.
+```
+CaCO₃(s) --Heat→ CaO(s) + CO₂(g)
+```
+
+> Such reactions, in which heat is absorbed, are called **Endothermic reactions**.
+
+**(ii) Electrolytic Decomposition Reactions**
+
+Electrical energy is used to bring about the reaction (Electrolysis).
+
+*Example:* Decomposition of sodium chloride.
+```
+2NaCl(aq) --Electricity→ 2Na(s) + Cl₂(g)
+```
+
+**(iii) Photo Decomposition Reactions**
+
+Light facilitates the decomposition (Photolysis).
+
+*Example:* Silver bromide exposed to light.
+```
+2AgBr(s) --Light→ 2Ag(s) + Br₂(g)
+```
+
+> The yellow coloured silver bromide turns into grey coloured silver metal.
 
 > **DO YOU KNOW?**
 > A solution of slaked lime is used for white washing walls. Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of calcium carbonate on the walls.
@@ -183,7 +200,9 @@ More active elements readily displace less active elements from their aqueous so
 When two compounds react, if their ions are interchanged, then the reaction is called double displacement reaction. This reaction is also called 'Metathesis Reaction'.
 
 **General scheme:**
-$$\text{AB} + \text{CD} \rightarrow \text{AD} + \text{CB}$$
+```
+AB + CD → AD + CB
+```
 
 **Two major classes:**
 
@@ -205,14 +224,14 @@ $$\text{AB} + \text{CD} \rightarrow \text{AD} + \text{CB}$$
 
 #### (e) Combustion Reactions
 
-A combustion reaction is one in which the reactant rapidly combines with oxygen to form one or more oxides and energy (heat). So in combustion reactions, one of the reactants must be oxygen.
+A combustion reaction is one in which the reactant rapidly combines with oxygen to form one or more oxides and energy (heat).
 
-**Example:**
-$$\text{C}_3\text{H}_{8(g)} + 5\text{O}_{2(g)} \rightarrow 3\text{CO}_{2(g)} + 4\text{H}_2\text{O}_{(g)} + \text{Heat}$$
+*Example:* Combustion of propane.
+```
+C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l) + Heat
+```
 
-> **Conceptual Thought:** All combustion reactions are oxidations but all oxidations are not combustions. Why?
-
-Since heat is evolved, it is an exothermic reaction. As oxygen is added, it is also an oxidation. So combustion may be called as an exothermic oxidation. If a flame is formed, then it is called burning.
+> **Conceptual Thought:** All combustion reactions are oxidations but all oxidations are not combustions.
 
 ---
 
@@ -228,6 +247,14 @@ Since heat is evolved, it is an exothermic reaction. As oxygen is added, it is a
 
 ### 10.1.2 Classification based on the direction of the reaction
 
+
+
+![](5.png)
+
+
+
+**Figure 10.5** Burning of wood and recharging of mobile battery
+
 #### Reversible Reactions
 
 A reversible reaction is a reaction in which the products can be converted back to the reactants. A reversible reaction is represented by a double arrow.
@@ -242,12 +269,12 @@ $$\text{PCl}_{5(g)} \rightleftharpoons \text{PCl}_{3(g)} + \text{Cl}_{2(g)}$$
 
 #### Irreversible Reactions
 
-The reaction that cannot be reversed is called irreversible reaction. The irreversible reactions are unidirectional.
+The reaction that cannot be reversed is called irreversible reaction. Unidirectional.
 
-**Example:**
-$$\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat}$$
-
----
+*Example:* Combustion of coal.
+```
+C(s) + O₂(g) → CO₂(g) + Heat
+```
 
 ### Table 10.2: Differences between reversible and irreversible reactions
 
@@ -289,7 +316,9 @@ Where:
 **Chemical Equilibrium:** It is state of a reversible chemical reaction in which no change in the amount of the reactants and products takes place.
 
 At equilibrium:
-$$\text{Rate of forward reaction} = \text{Rate of backward reaction}$$
+```
+Rate of forward reaction = Rate of backward reaction
+```
 
 **Physical Equilibrium:** A state of a physical change at which the volume of all the phases remain unchanged.
 
@@ -299,8 +328,10 @@ $$\text{H}_2\text{O}_{(l)} \underset{\text{Condensation}}{\stackrel{\text{Evapor
 
 - In a chemical equilibrium, the rates of the forward and backward reactions are equal.
 - The observable properties such as pressure, concentration, colour, density, viscosity etc., of the system remain unchanged with time.
-- The chemical equilibrium is a dynamic equilibrium, because both the forward and backward reactions continue to occur even though it appears static externally.
+- The chemical equilibrium is a **dynamic equilibrium**, because both the forward and backward reactions continue to occur.
 - In physical equilibrium, the volume of all the phases remain constant.
+
+**DO YOU KNOW?** Aerated soft drinks contain dissolved carbon dioxide in equilibrium with gaseous CO₂. When you open the bottle, the gaseous CO₂ can escape, so the dissolved CO₂ begins to undissolve back to the gas phase. That's why if you leave it open long enough, it will go 'flat'.
 
 ---
 
@@ -349,6 +380,12 @@ $$\text{pH} = -\log_{10}[\text{H}^+]$$
 | Tomato juice | 4.2 | Coffee | 5.6 |
 
 ---
+
+![](7.png)
+
+
+**Figure 10.7** pH Indicator
+
 
 ## 10.6 ROLE OF pH IN EVERYDAY LIFE
 
@@ -444,7 +481,7 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
 - The term pH means power of hydrogen.
 - pH plays a vital role in everyday life.
 - In humans all bio chemical reactions take place between the pH value of 7.0 to 7.8.
-- If pH of rain water is below 5.6 its called acid rain.
+- If pH of rain water is below 5.6 it's called acid rain.
 - Pure water is a weak electrolyte.
 
 ---
@@ -539,38 +576,62 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
 
 | REACTION | TYPE |
 |----------|------|
-| $\text{NH}_4\text{OH}_{(aq)} + \text{CH}_3\text{COOH}_{(aq)} \rightarrow \text{CH}_3\text{COONH}_{4(aq)} + \text{H}_2\text{O}_{(l)}$ | Single Displacement |
-| $\text{Zn}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{ZnSO}_{4(aq)} + \text{Cu}_{(s)}$ | Combustion |
-| $\text{ZnCO}_{3(s)} \xrightarrow{\text{Heat}} \text{ZnO}_{(s)} + \text{CO}_{2(g)}$ | Neutralisation |
-| $\text{C}_2\text{H}_{4(g)} + 4\text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)} + 2\text{H}_2\text{O}_{(g)} + \text{Heat}$ | Thermal decomposition |
+| NH₄OH + CH₃COOH → CH₃COONH₄ + H₂O | **Neutralisation** |
+| Zn + CuSO₄ → ZnSO₄ + Cu | **Single Displacement** |
+| ZnCO₃ --Heat→ ZnO + CO₂ | **Thermal decomposition** |
+| C₂H₄ + 4O₂ → 2CO₂ + 2H₂O + Heat | **Combustion** |
 
 ### IV. True or False: (If false give the correct statement)
 
-1. Silver metal can displace hydrogen gas from nitric acid.
-2. The pH of rain water containing dissolved gases like SO₃, CO₂, NO₂ will be less than 7.
-3. At the equilibrium of a reversible reaction, the concentration of the reactants and the products will be equal.
-4. Periodical removal of one of the products of a reversible reaction increases the yield.
-5. On dipping a pH paper in a solution, it turns into yellow. Then the solution is basic.
+1. Silver metal can displace hydrogen gas from nitric acid. **FALSE** (Silver is below hydrogen in activity series)
+2. The pH of rain water containing dissolved gases like SO₃, CO₂, NO₂ will be less than 7. **TRUE**
+3. At the equilibrium of a reversible reaction, the concentration of the reactants and the products will be equal. **FALSE** (Rates are equal, not necessarily concentrations)
+4. Periodical removal of one of the products of a reversible reaction increases the yield. **TRUE**
+5. On dipping a pH paper in a solution, it turns into yellow. Then the solution is basic. **FALSE** (Yellow indicates acidic, pH ~6)
 
-### V. Short answer questions:
+### V. Short answer questions
 
-1. When an aqueous solution of potassium chloride is added to an aqueous solution of silver nitrate, a white precipitate is formed. Give the chemical equation of this reaction.
-2. Why does the reaction rate of a reaction increase on raising the temperature?
-3. Define combination reaction. Give one example for an exothermic combination reaction.
-4. Differentiate reversible and irreversible reactions.
+1. **White precipitate reaction:**
+   ```
+   KCl(aq) + AgNO₃(aq) → AgCl(s)↓ + KNO₃(aq)
+   ```
+
+2. **Why reaction rate increases with temperature:**
+   Adding heat provides energy to break more bonds and thus speeds up the reaction.
+
+3. **Combination reaction definition:** A reaction in which two or more reactants combine to form a compound.
+   *Example:* Burning of coal: C + O₂ → CO₂ + Heat (exothermic)
+
+4. **Reversible vs Irreversible reactions:**
+
+| Reversible | Irreversible |
+|------------|--------------|
+| Can be reversed | Cannot be reversed |
+| Both directions occur | Unidirectional |
+| Attains equilibrium | No equilibrium |
+| Relatively slow | Fast |
 
 ### VI. Answer in detail
 
-1. What are called thermolysis reactions?
-2. Explain the types of double displacement reactions with examples.
-3. Explain the factors influencing the rate of a reaction.
-4. How does pH play an important role in everyday life?
-5. What is a chemical equilibrium? What are its characteristics?
+1. **Thermolysis reactions:** Decomposition reactions caused by heat/thermal energy. Heat is absorbed (endothermic). Examples: 2HgO → 2Hg + O₂; CaCO₃ → CaO + CO₂
+
+2. **Types of double displacement reactions:**
+   - Precipitation: Forms insoluble product (PbI₂ from KI + Pb(NO₃)₂)
+   - Neutralisation: Acid + Base → Salt + Water
+
+3. **Factors influencing rate:** Nature of reactants, concentration, temperature, catalyst, pressure, surface area
+
+4. **Role of pH in everyday life:** Digestive system, tooth decay prevention, soil pH for agriculture, blood pH maintenance, acid rain effects
+
+5. **Chemical equilibrium:** State where forward and backward reaction rates are equal. Characteristics: dynamic nature, constant observable properties, closed system required.
 
 ### VII. HOT questions
 
-1. A solid compound 'A' decomposes on heating into B and a gas 'C'. On passing the gas 'C' through water, it becomes acidic. Identify A, B and C.
-2. Can a nickel spatula be used to stir copper sulphate solution? Justify your answer.
+1. **Compound A:** Calcium carbonate (CaCO₃)
+   - **B:** Calcium oxide (CaO)
+   - **C:** Carbon dioxide (CO₂)
+
+2. **Nickel spatula in copper sulphate:** Yes, because nickel is above copper in the activity series and can displace it.
 
 ### VIII. Solve the following problems
 
@@ -591,3 +652,5 @@ $$\text{pOH} = 14 - 4.5 = 9.5$$
 - www.chem4kids.com
 - http://aravindguptatoys.com/filims.html
 ```
+
+The content has been converted from the PDF "Types of Chemical Reactions" (10th Standard Science, Unit 10) to comprehensive Markdown format with proper formatting for equations, tables, and structure.

@@ -2,7 +2,7 @@
 title: 'PERIODIC CLASSIFICATION OF ELEMENTS'
 weight: 8
 ---
-# PERIODIC CLASSIFICATION OF ELEMENTS
+# UNIT-8 : PERIODIC CLASSIFICATION OF ELEMENTS
 
 ## Learning Objectives
 After a thorough perusal of this unit, the students will be able to:
@@ -40,6 +40,8 @@ With reference to the modern periodic law, the elements were arranged in the inc
 Figure 8.1 shows the modern periodic table of 118 elements discovered so far.
 
 As you have studied the features of the modern periodic table in standard IX, here let us confine to the study of the features of periods and groups.
+
+![](img1.png)
 
 ### 8.2.1 Features of Periods
 
@@ -87,10 +89,16 @@ Properties such as atomic radius, ionic radius, ionisation energy, electronegati
 
 Atomic radius of an atom is defined as the distance between the centre of its nucleus and the outermost shell containing the valence electron. Direct measurement of the radius of an isolated atom is not possible. Except for noble gases, usually the atomic radius is referred to as covalent radius or metallic radius depending on the nature of the bonding between the concerned atoms.
 
+![](img2.png)
+
+
+
 Atomic radius in metal atoms is known as **metallic radius**. It is defined as half the distance between the nuclei of adjacent metal atoms.
 
 In non-metallic elements, their atomic radius is known as **Covalent radius**. It is defined as half the distance between the adjacent nuclei of two covalently bonded atoms of the same element in a molecule. For example, let us consider H₂ molecule. The distance between the two hydrogen nuclei of the molecule is 0.74 Å. So its covalent radius is:
 > Atomic radius of Hydrogen = 0.74/2 = 0.37 Å
+![](8.3.png)
+
 
 When you look at the variation of the atomic radii in the periodic table, there are two distinct trends:
 
@@ -98,9 +106,12 @@ When you look at the variation of the atomic radii in the periodic table, there 
 
 The increase, down a group, is due to the increase in the valence shell number down the group. As the shell number increases, the distance between the valence shell and the nucleus increases. In contrast, when you observe along the period, the shell number remains the same but the number of protons (i.e. atomic number) increases. More and more positive charges impose a strong attraction over the electrons and thus the electron cloud shrinks towards the nucleus, which results in the decrease in the atomic size.
 
+![](img3.png)
+
 ### 8.3.2 Ionic Radii
 
 It is defined as the distance from the centre of the nucleus of the ion upto the point where it exerts its influence on the electron cloud of the ion.
+![](8.5.png)
 
 You know that ions are formed when an atom lose or gain electrons. When a neutral atom loses an electron, it becomes a positively charged ion called **cation**, whereas the gain of an electron by a neutral atom forms a negatively charged ion called **anion**. The size of the ions is important to determine their behaviours in solutions and the structure of ionic solids.
 
@@ -161,6 +172,8 @@ If the difference in electronegativity between two elements is 1.7, the bond has
 
 Along the period, from left to right in the periodic table, the electronegativity **increases** because of the increase in the nuclear charge which in turn attracts the electrons more strongly. On moving down a group, the electronegativity of the elements **decreases** because of the increased number of valence shells.
 
+![](img4.png)
+
 ### Summary of Periodic Properties
 
 | Periodic Property | In Periods | In Groups |
@@ -202,6 +215,8 @@ A metallurgical process involve three main steps as follows:
   > Flux + Gangue → Slag
 - **Smelting**: Smelting is the process of reducing the roasted metallic oxide from the metal in its molten condition. In this process, impurities are removed as slag by the addition of flux.
 
+![](img5.png)
+
 ### 8.4.2 Types of separation or concentration of an ore
 
 There are four major types of separation of ores based on the nature of the ore.
@@ -217,6 +232,11 @@ There are four major types of separation of ores based on the nature of the ore.
 The ore is treated with a suitable reagent such that the ore is soluble in it but the impurities are not. The impurities are removed by filtration. The solution of the ore, i.e., the filtrate is treated with a suitable reagent which precipitates the ore.
 
 **E.g.** Bauxite Al₂O₃·2H₂O (the ore of aluminium).
+
+ ![](img6.png)
+
+ ![](img7.png)
+
 
 ---
 
@@ -309,6 +329,8 @@ Aluminium is produced by the electrolytic reduction of fused alumina (Al₂O₃)
 {{< /katex >}}
 
 Aluminium is deposited at the cathode and oxygen gas is liberated at the anode. Oxygen combines with graphite to form CO₂.
+
+![](img8.png)
 
 ### Physical Properties of Aluminium
 
@@ -509,6 +531,9 @@ Iron is chiefly extracted from haematite ore (Fe₂O₃)
 
 **iii. Smelting (in a Blast Furnace)**: The charge consisting of roasted ore, coke and limestone in the ratio 8:4:1 is smelted in a blast furnace by introducing it through the hopper arrangement at the top. There are three important regions in the furnace.
 
+![](img9.png)
+
+
 **(a) The Lower Region (Combustion Zone)** - The temperature is at 1500°C. In this region, coke burns with oxygen to form CO₂ when the charge comes in contact with a hot blast of air.
 
 {{< katex display=true >}}
@@ -677,6 +702,9 @@ It is the gradual destruction of metals by chemical or electrochemical reaction 
 
 **Rust** is chemically known as **hydrated ferric oxide** (it is formulated as Fe₂O₃·xH₂O). Rusting results in the formation of scaling reddish brown hydrated ferric oxide on the surface of iron and iron containing materials.
 
+![](img10.png)
+
+
 ### 8.11.1 Types of Corrosion
 
 **i. Dry Corrosion or Chemical Corrosion**: The corrosive action in the absence of moisture is called dry corrosion. It is the process of a chemical attack on a metal by a corrosive liquids or gases such as O₂, N₂, SO₂, H₂S etc. It occurs at high temperature. Of all the gases mentioned above O₂ is the most reactive gas to impart the chemical attack.
@@ -702,6 +730,8 @@ d) **Cathodic Protection**: It is the method of controlling corrosion of a metal
 ## 8.12 PAMBAN BRIDGE
 
 It is a railway bridge which connects the town of Rameshwaram on Pamban Island to mainland India. Opened on 1914, it was India's first sea bridge in India until the opening of the Bandra-Worli Sea Link in 2010. We can control the corrosion and renovation of historical pamban bridge by a periodical protective coating which will be the strong example for applied chemistry to uphold our history.
+
+![](img11.png)
 
 ---
 

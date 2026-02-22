@@ -1,8 +1,8 @@
 ---
 title: 'SOLUTIONS'
 weight: 9
-
-# SOLUTIONS
+---
+# UNIT9:SOLUTIONS
 
 ## Learning Objectives
 
@@ -15,8 +15,6 @@ After studying this lesson, students will able to:
 - correlate the hydrated salts and anhydrous salts.
 - distinguish between deliquescent and hygroscopic substances.
 
----
-
 ## INTRODUCTION
 
 You have learnt about mixtures in your lower classes. Most of the substances that we encounter in our daily life are mixtures of two or more substances. The substances present in a mixture may exist in one or more physical state. For example, when we burn wood, the smoke released is a mixture of solid carbon and gases like CO₂, CO.
@@ -24,8 +22,9 @@ You have learnt about mixtures in your lower classes. Most of the substances tha
 In some cases of mixtures, their components can be separated easily whereas in some other cases they cannot be. Consider the two mixtures, one which contains salt and water, and the another which contains sand and water. Water is the one of the components in both the mixtures. In the first case salt dissolves in water. In the second case the sand does not dissolve in water. Sand in water can be separated by filtration but salt cannot be separated as it dissolves in water to form a homogeneous mixture. This kind of homogenous mixtures are termed as **solutions**.
 
 
-![a) Homogeneous mixture b) Heterogeneous mixture](1.png)
-
+![](1.png)
+a) Homogeneous mixture
+b) Heterogeneous mixture
 ---
 
 ## 9.1 SOLUTIONS IN DAY-TO-DAY LIFE
@@ -40,7 +39,10 @@ All the life forms on the earth are associated with solutions. Plants take solut
 
 We know that, a solution is a homogeneous mixture of two or more substances. In a solution, the component which is present in lesser amount (by weight), is called **solute** and the component, which is present in a larger amount (by weight) is called **solvent**. The solute gets distributed uniformly throughout the solvent and thus forming the mixture homogeneous. So, the solvent acts as a dissolving medium in a solution. The process of uniform distribution of solute into solvent is called **dissolution**.
 
-![Formation of solution](2.png)
+![](2.png)
+Formation of solution
+
+
 
 > **Conceptual Thoughts**
 > All solutions are mixtures; but all mixtures are not solutions. Why?
@@ -49,7 +51,9 @@ A solution must at least be consisting of two components (a solute and a solvent
 
 Similarly, a solution may contain more than two components. For example if salt and sugar are added to water, both dissolve in water forming a solution. Here two solutes are dissolved in one solvent. Such kind of solutions which contain three components are called **ternary solutions**.
 
-![Formation of Copper sulphate solution](3.png)
+![](3.png)
+Formation of Copper sulphate solution
+
 
 ---
 
@@ -91,7 +95,9 @@ The solution in which any liquid, other than water, acts as a solvent is called 
 
 - **Examples for non-aqueous solutions:** Sulphur dissolved in carbon disulphide, Iodine dissolved in carbon disulphide
 
-![a) Sulphur is soluble in CS₂ b) Sulphur is insoluble in water](4.png)
+![](4.png)
+a) Sulphur is soluble in CS₂ b) Sulphur is insoluble in water
+
 
 ### 9.3.3 Based on the amount of solute
 
@@ -121,7 +127,9 @@ For example, you are given two cups of tea. When you taste them, you feel that o
 
 When we compare two solutions having same solute and solvent, the one which contains higher amount of solute per the given amount of solvent is said to be **'concentrated solution'** and the another is said to be **'dilute solution'**.
 
-![Dilute and Concentrated Solution](5.png)
+![](5.png)
+Dilute and Concentrated Solution
+
 
 Differentiating solutions as dilute and concentrated is a qualitative representation. It does not imply the quantity of the solute. This difference is observed by means of some physical characteristics such as colour, density, etc.
 
@@ -189,7 +197,10 @@ Effect of pressure is observed only in the case of solubility of a gas in a liqu
 
 The common examples for solubility of gases in liquids are carbonated beverages, i.e. soft drinks, household cleaners containing aqueous solution of ammonia, formalin-aqueous solution of formaldehyde.
 
-![Effect of pressure on solubility](6.png)
+![](6.png)
+
+Effect of pressure on solubility
+
 
 > **More to know**
 > The effect of pressure on the solubility of a gas in liquid is given by **Henry's law**. It states that, the solubility of a gas in a liquid is directly proportional to the pressure of the gas over the solution at a definite temperature.
@@ -244,7 +255,9 @@ Usually volume percentage is expressed as **v/v (volume/volume)**. It is used wh
 
 You can notice that in the commercial products that we come across in our daily life such as a solution of syrups, mouth wash, antiseptic solution, household disinfectants etc., the concentration of the ingredients is expressed as v/v. Similarly, in ointments, antacid, soaps, etc., the concentration of solutions are expressed as w/w.
 
-![Ointment (w/w percent)](7.png)
+![](7.png)
+Ointment (w/w percent)
+
 
 ---
 
@@ -252,7 +265,10 @@ You can notice that in the commercial products that we come across in our daily 
 
 When ionic substances are dissolved in water to make their saturated aqueous solution, their ions attract water molecules which then attached chemically in certain ratio. This process is called **hydration**. These ionic substances crystallize out from their saturated aqueous solution with a definite number of molecules of water. The number of water molecules found in the crystalline substance is called **water of crystallization**. Such salts are called **hydrated salts**.
 
-![a) Crystalline hydrated salt b) Amorphous anhydrous salt](8.png)
+![](8.png)
+a) Crystalline hydrated salt b) Amorphous anhydrous salt
+
+
 
 On heating these hydrated crystalline salts, they lose their water of crystallization and become amorphous or lose their colour (if they are coloured).
 
@@ -277,11 +293,15 @@ The number of water molecules in blue vitriol is five. So its water of crystalli
 (Copper sulphate pentahydrate) → (Anhydrous copper sulphate)
 Blue colour → colourless
 
-![a) Copper sulphate before heating b) Copper sulphate after heating](9.png)
+![](9.png)
+a) Copper sulphate before heating b) Copper sulphate after heating
+
 
 If you add few drops of water or allow it to cool, the colourless anhydrous salt again turns back into blue coloured hydrated salt.
 
-![Anhydrous copper sulphate turns to blue when water is added](10.png)
+![](10.png)
+Anhydrous copper sulphate turns to blue when water is added
+
 
 ### 9.6.2 Magnesium sulphate heptahydrate MgSO₄·7H₂O (Epsom salt)
 
@@ -323,7 +343,9 @@ Deliquescent substances lose their crystalline shape and ultimately dissolve in 
 
 **Examples:** Caustic soda (NaOH), Caustic potash (KOH) and Ferric chloride
 
-![Deliquescence in Sodium hydroxide](11.png)
+![](11.png)
+Deliquescence in Sodium hydroxide
+
 
 **Table 9.3 Difference between hygroscopic substances and deliquescent substances**
 
@@ -672,16 +694,6 @@ Amount of sodium nitrate thrown when 50g of water is cooled from 50°C to 30°C 
 - If you click any elements and compounds, it will be added to the beaker in the home screen.
 - By clicking Menu at the left side, You can see lid, match stick, burner and chemist. Use those whenever necessary.
 
-**URL:** https://play.google.com/store/apps/details?id=air.thix.sciencesense.beaker or Scan the QR code
-```
+**URL:** https://play.google.com/store/apps/details?id=air.thix.sciencesense.beaker
 
-This is the complete content from your PDF converted to Markdown format. The document covers:
-- Introduction to solutions
-- Components of solutions (solute, solvent)
-- Types of solutions (binary, ternary, based on physical state, solvent type, and amount of solute)
-- Solubility and factors affecting it
-- Concentration expressions (mass %, volume %)
-- Hydrated salts and water of crystallization
-- Hygroscopy and deliquescence
-- Solved problems
-- Textbook evaluation questions
+```
