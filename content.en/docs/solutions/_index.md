@@ -23,7 +23,8 @@ You have learnt about mixtures in your lower classes. Most of the substances tha
 
 In some cases of mixtures, their components can be separated easily whereas in some other cases they cannot be. Consider the two mixtures, one which contains salt and water, and the another which contains sand and water. Water is the one of the components in both the mixtures. In the first case salt dissolves in water. In the second case the sand does not dissolve in water. Sand in water can be separated by filtration but salt cannot be separated as it dissolves in water to form a homogeneous mixture. This kind of homogenous mixtures are termed as **solutions**.
 
-**Figure 9.1** a) Homogeneous mixture b) Heterogeneous mixture
+
+![a) Homogeneous mixture b) Heterogeneous mixture](1.png)
 
 ---
 
@@ -39,7 +40,7 @@ All the life forms on the earth are associated with solutions. Plants take solut
 
 We know that, a solution is a homogeneous mixture of two or more substances. In a solution, the component which is present in lesser amount (by weight), is called **solute** and the component, which is present in a larger amount (by weight) is called **solvent**. The solute gets distributed uniformly throughout the solvent and thus forming the mixture homogeneous. So, the solvent acts as a dissolving medium in a solution. The process of uniform distribution of solute into solvent is called **dissolution**.
 
-**Figure 9.2** Formation of solution
+![Formation of solution](2.png)
 
 > **Conceptual Thoughts**
 > All solutions are mixtures; but all mixtures are not solutions. Why?
@@ -48,7 +49,7 @@ A solution must at least be consisting of two components (a solute and a solvent
 
 Similarly, a solution may contain more than two components. For example if salt and sugar are added to water, both dissolve in water forming a solution. Here two solutes are dissolved in one solvent. Such kind of solutions which contain three components are called **ternary solutions**.
 
-**Figure 9.3** Formation of Copper sulphate solution
+![Formation of Copper sulphate solution](3.png)
 
 ---
 
@@ -90,7 +91,7 @@ The solution in which any liquid, other than water, acts as a solvent is called 
 
 - **Examples for non-aqueous solutions:** Sulphur dissolved in carbon disulphide, Iodine dissolved in carbon disulphide
 
-**Figure 9.4** a) Sulphur is soluble in CS₂ b) Sulphur is insoluble in water
+![a) Sulphur is soluble in CS₂ b) Sulphur is insoluble in water](4.png)
 
 ### 9.3.3 Based on the amount of solute
 
@@ -120,7 +121,7 @@ For example, you are given two cups of tea. When you taste them, you feel that o
 
 When we compare two solutions having same solute and solvent, the one which contains higher amount of solute per the given amount of solvent is said to be **'concentrated solution'** and the another is said to be **'dilute solution'**.
 
-**Figure 9.5** Dilute and Concentrated Solution
+![Dilute and Concentrated Solution](5.png)
 
 Differentiating solutions as dilute and concentrated is a qualitative representation. It does not imply the quantity of the solute. This difference is observed by means of some physical characteristics such as colour, density, etc.
 
@@ -138,7 +139,9 @@ For example, 36g of sodium chloride need to be dissolved in 100g of water to for
 
 The solubility is mathematically expressed as:
 
-$$\text{Solubility} = \frac{\text{Mass of the solute}}{\text{Mass of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Solubility} = \frac{\text{Mass of the solute}}{\text{Mass of the solvent}} \times 100
+{{< /katex >}}
 
 **Table 9.2 Solubilities of some common substances in water at 25°C**
 
@@ -186,7 +189,7 @@ Effect of pressure is observed only in the case of solubility of a gas in a liqu
 
 The common examples for solubility of gases in liquids are carbonated beverages, i.e. soft drinks, household cleaners containing aqueous solution of ammonia, formalin-aqueous solution of formaldehyde.
 
-**Figure 9.6** Effect of pressure on solubility
+![Effect of pressure on solubility](6.png)
 
 > **More to know**
 > The effect of pressure on the solubility of a gas in liquid is given by **Henry's law**. It states that, the solubility of a gas in a liquid is directly proportional to the pressure of the gas over the solution at a definite temperature.
@@ -207,11 +210,15 @@ Quantitatively, concentration of a solution may be expressed in different method
 
 Mass percentage of a solution is defined as the percentage by mass of the solute present in the solution. It is mostly used when solute is solid and solvent is liquid.
 
-$$\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solution}} \times 100$$
+{{< katex display=true >}}
+\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solution}} \times 100
+{{< /katex >}}
 
 or
 
-$$\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solute} + \text{Mass of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solute} + \text{Mass of the solvent}} \times 100
+{{< /katex >}}
 
 **For example:** 5% sugar solution (by mass) means 5g of sugar in 95g of water. Hence it is made 100g of solution.
 
@@ -221,11 +228,15 @@ Usually, mass percentage is expressed as **w/w (weight/weight)**; mass percentag
 
 Volume percentage is defined as the percentage by volume of solute (in ml) present in the given volume of the solution.
 
-$$\text{Volume Percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solution}} \times 100$$
+{{< katex display=true >}}
+\text{Volume Percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solution}} \times 100
+{{< /katex >}}
 
 or
 
-$$\text{Volume Percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solute} + \text{volume of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Volume Percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solute} + \text{volume of the solvent}} \times 100
+{{< /katex >}}
 
 **For example**, 10% by volume of the solution of ethanol in water, means 10ml of ethanol in 100ml of solution (or 90ml of water)
 
@@ -233,7 +244,7 @@ Usually volume percentage is expressed as **v/v (volume/volume)**. It is used wh
 
 You can notice that in the commercial products that we come across in our daily life such as a solution of syrups, mouth wash, antiseptic solution, household disinfectants etc., the concentration of the ingredients is expressed as v/v. Similarly, in ointments, antacid, soaps, etc., the concentration of solutions are expressed as w/w.
 
-**Figure 9.7** Ointment (w/w percent)
+![Ointment (w/w percent)](7.png)
 
 ---
 
@@ -241,7 +252,7 @@ You can notice that in the commercial products that we come across in our daily 
 
 When ionic substances are dissolved in water to make their saturated aqueous solution, their ions attract water molecules which then attached chemically in certain ratio. This process is called **hydration**. These ionic substances crystallize out from their saturated aqueous solution with a definite number of molecules of water. The number of water molecules found in the crystalline substance is called **water of crystallization**. Such salts are called **hydrated salts**.
 
-**Figure 9.8** a) Crystalline hydrated salt b) Amorphous anhydrous salt
+![a) Crystalline hydrated salt b) Amorphous anhydrous salt](8.png)
 
 On heating these hydrated crystalline salts, they lose their water of crystallization and become amorphous or lose their colour (if they are coloured).
 
@@ -259,22 +270,26 @@ On heating these hydrated crystalline salts, they lose their water of crystalliz
 
 The number of water molecules in blue vitriol is five. So its water of crystallization is 5. When blue coloured copper sulphate crystals are gently heated, it loses its five water molecules and becomes colourless anhydrous copper sulphate.
 
-$$\text{CuSO}_4 \cdot 5\text{H}_2\text{O} \underset{\text{Cooling}}{\stackrel{\text{Heating}}{\rightleftharpoons}} \text{CuSO}_4 + 5\text{H}_2\text{O}$$
+{{< katex display=true >}}
+\text{CuSO}_4 \cdot 5\text{H}_2\text{O} \underset{\text{Cooling}}{\stackrel{\text{Heating}}{\rightleftharpoons}} \text{CuSO}_4 + 5\text{H}_2\text{O}
+{{< /katex >}}
 
 (Copper sulphate pentahydrate) → (Anhydrous copper sulphate)
 Blue colour → colourless
 
-**Figure 9.9** a) Copper sulphate before heating b) Copper sulphate after heating
+![a) Copper sulphate before heating b) Copper sulphate after heating](9.png)
 
 If you add few drops of water or allow it to cool, the colourless anhydrous salt again turns back into blue coloured hydrated salt.
 
-**Figure 9.10** Anhydrous copper sulphate turns to blue when water is added
+![Anhydrous copper sulphate turns to blue when water is added](10.png)
 
 ### 9.6.2 Magnesium sulphate heptahydrate MgSO₄·7H₂O (Epsom salt)
 
 Its water of crystallization is 7. When magnesium sulphate heptahydrate crystals are gently heated, it loses seven water molecules, and becomes anhydrous magnesium sulphate.
 
-$$\text{MgSO}_4 \cdot 7\text{H}_2\text{O} \underset{\text{Cooling}}{\stackrel{\text{Heating}}{\rightleftharpoons}} \text{MgSO}_4 + 7\text{H}_2\text{O}$$
+{{< katex display=true >}}
+\text{MgSO}_4 \cdot 7\text{H}_2\text{O} \underset{\text{Cooling}}{\stackrel{\text{Heating}}{\rightleftharpoons}} \text{MgSO}_4 + 7\text{H}_2\text{O}
+{{< /katex >}}
 
 (Magnesium sulphate heptahydrate) → (Anhydrous Magnesium sulphate)
 
@@ -308,7 +323,7 @@ Deliquescent substances lose their crystalline shape and ultimately dissolve in 
 
 **Examples:** Caustic soda (NaOH), Caustic potash (KOH) and Ferric chloride
 
-**Figure 9.11** Deliquescence in Sodium hydroxide
+![Deliquescence in Sodium hydroxide](11.png)
 
 **Table 9.3 Difference between hygroscopic substances and deliquescent substances**
 
@@ -330,9 +345,13 @@ Deliquescent substances lose their crystalline shape and ultimately dissolve in 
 - Mass of the solute = 1.5g
 - Mass of the solvent = 15g
 
-$$\text{Solubility of the solute} = \frac{\text{Mass of the solute}}{\text{Mass of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Solubility of the solute} = \frac{\text{Mass of the solute}}{\text{Mass of the solvent}} \times 100
+{{< /katex >}}
 
-$$\text{Solubility of the solute} = \frac{1.5 \times 100}{15} = 10\text{g}$$
+{{< katex display=true >}}
+\text{Solubility of the solute} = \frac{1.5 \times 100}{15} = 10\text{g}
+{{< /katex >}}
 
 ---
 
@@ -341,7 +360,9 @@ $$\text{Solubility of the solute} = \frac{1.5 \times 100}{15} = 10\text{g}$$
 **Solution:**
 - Mass of potassium chloride in 100g of water in saturated solution = 37g
 
-$$\text{Mass of potassium chloride in 60g of water in saturated solution} = \frac{37 \times 60}{100} = 22.2\text{g}$$
+{{< katex display=true >}}
+\text{Mass of potassium chloride in 60g of water in saturated solution} = \frac{37 \times 60}{100} = 22.2\text{g}
+{{< /katex >}}
 
 ---
 
@@ -352,7 +373,9 @@ At 30°C, 36g of sodium chloride is dissolved in 100g of water.
 
 ∴ Mass of sodium chloride that would be need for 100g of water = 36g
 
-∴ Mass of sodium chloride dissolved in 50g of water = $\frac{36 \times 50}{100} = 18\text{g}$
+∴ Mass of sodium chloride dissolved in 50g of water = {{< katex display=true >}}
+\frac{36 \times 50}{100} = 18\text{g}
+{{< /katex >}}
 
 ---
 
@@ -361,9 +384,13 @@ At 30°C, 36g of sodium chloride is dissolved in 100g of water.
 **Solution:**
 Amount of sodium nitrate dissolved in 100g of water at 50°C is 114g
 
-∴ Amount of sodium nitrate dissolving in 50g of water at 50°C is = $\frac{114 \times 50}{100} = 57\text{g}$
+∴ Amount of sodium nitrate dissolving in 50g of water at 50°C is = {{< katex display=true >}}
+\frac{114 \times 50}{100} = 57\text{g}
+{{< /katex >}}
 
-Similarly amount of sodium nitrate dissolving in 50g of water at 30°C is = $\frac{96 \times 50}{100} = 48\text{g}$
+Similarly amount of sodium nitrate dissolving in 50g of water at 30°C is = {{< katex display=true >}}
+\frac{96 \times 50}{100} = 48\text{g}
+{{< /katex >}}
 
 Amount of sodium nitrate thrown when 50g of water is cooled from 50°C to 30°C is **57 - 48 = 9g**
 
@@ -377,9 +404,13 @@ Amount of sodium nitrate thrown when 50g of water is cooled from 50°C to 30°C 
 - Mass of the solute = 25g
 - Mass of the solvent = 100g
 
-$$\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solute} + \text{Mass of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Mass Percentage} = \frac{\text{Mass of the solute}}{\text{Mass of the solute} + \text{Mass of the solvent}} \times 100
+{{< /katex >}}
 
-$$= \frac{25}{25+100} \times 100 = \frac{25}{125} \times 100 = 20\%$$
+{{< katex display=true >}}
+= \frac{25}{25+100} \times 100 = \frac{25}{125} \times 100 = 20\%
+{{< /katex >}}
 
 ---
 
@@ -391,7 +422,9 @@ $$= \frac{25}{25+100} \times 100 = \frac{25}{125} \times 100 = 20\%$$
 
 **(i) Mass percentage of the solute:**
 
-$$\text{Mass percentage of solute} = \frac{16 \times 100}{16+100} = \frac{1600}{116} = 13.79\%$$
+{{< katex display=true >}}
+\text{Mass percentage of solute} = \frac{16 \times 100}{16+100} = \frac{1600}{116} = 13.79\%
+{{< /katex >}}
 
 **(ii) Mass percentage of solvent** = 100 - (Mass percentage of the solute) = 100 - 13.79 = **86.21%**
 
@@ -401,11 +434,17 @@ $$\text{Mass percentage of solute} = \frac{16 \times 100}{16+100} = \frac{1600}{
 
 **Solution:**
 
-$$\text{Mass percentage (w/w)} = \frac{\text{Mass of the solute}}{\text{Mass of the solution}} \times 100$$
+{{< katex display=true >}}
+\text{Mass percentage (w/w)} = \frac{\text{Mass of the solute}}{\text{Mass of the solution}} \times 100
+{{< /katex >}}
 
-$$10 = \frac{\text{Mass of the urea}}{500} \times 100$$
+{{< katex display=true >}}
+10 = \frac{\text{Mass of the urea}}{500} \times 100
+{{< /katex >}}
 
-$$\text{Mass of urea} = 50\text{g}$$
+{{< katex display=true >}}
+\text{Mass of urea} = 50\text{g}
+{{< /katex >}}
 
 ---
 
@@ -417,9 +456,13 @@ $$\text{Mass of urea} = 50\text{g}$$
 - Volume of the methanol = 35ml
 - Volume of the water = 65ml
 
-$$\text{Volume percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solute} + \text{Volume of the solvent}} \times 100$$
+{{< katex display=true >}}
+\text{Volume percentage} = \frac{\text{Volume of the solute}}{\text{Volume of the solute} + \text{Volume of the solvent}} \times 100
+{{< /katex >}}
 
-$$\text{Volume percentage} = \frac{35}{35+65} \times 100 = \frac{35 \times 100}{100} = 35\%$$
+{{< katex display=true >}}
+\text{Volume percentage} = \frac{35}{35+65} \times 100 = \frac{35 \times 100}{100} = 35\%
+{{< /katex >}}
 
 ---
 
@@ -429,11 +472,17 @@ $$\text{Volume percentage} = \frac{35}{35+65} \times 100 = \frac{35 \times 100}{
 - Volume of aqueous solution = 200ml
 - Volume percentage = 20%
 
-$$\text{Volume percentage} = \frac{\text{Volume of solute}}{\text{Volume of solution}} \times 100$$
+{{< katex display=true >}}
+\text{Volume percentage} = \frac{\text{Volume of solute}}{\text{Volume of solution}} \times 100
+{{< /katex >}}
 
-$$20 = \frac{\text{Volume of ethanol}}{200} \times 100$$
+{{< katex display=true >}}
+20 = \frac{\text{Volume of ethanol}}{200} \times 100
+{{< /katex >}}
 
-$$\text{Volume of ethanol} = \frac{20 \times 200}{100} = 40\text{ml}$$
+{{< katex display=true >}}
+\text{Volume of ethanol} = \frac{20 \times 200}{100} = 40\text{ml}
+{{< /katex >}}
 
 ---
 

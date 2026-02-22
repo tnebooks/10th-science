@@ -42,7 +42,7 @@ Two or more physical systems or bodies are said to be in **thermal equilibrium**
 
 What will happen if two bodies at different temperatures are brought in contact with one other? There will be a transfer of heat energy from the hot body to the cold body until a thermal equilibrium is established between them.
 
-*Figure 3.1 Establishing thermal equilibrium*
+![](img1.png)
 
 When a cold body is placed in contact with a hot body, some thermal energy is transferred from the hot body to the cold body. As a result, there is some rise in the temperature of the cold body and decrease in the temperature of the hot body. This process will continue until these two bodies attain the same temperature.
 
@@ -108,11 +108,13 @@ When a body is heated or cooled, the length of the body changes due to change in
 
 The ratio of increase in length of the body per degree rise in temperature to its unit length is called as the **coefficient of linear expansion**. The SI unit of Coefficient of Linear expansion is **K⁻¹**. The value of coefficient of linear expansion is different for different materials.
 
-*Figure 3.2 Linear expansion*
+![](img2.png)
 
 The equation relating the change in length and the change in temperature of a body is given below:
 
-$$\frac{\Delta L}{L_o} = \alpha_L \Delta T$$
+{{< katex display=true >}}
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
 
 Where:
 - ΔL = Change in length (Final length - Original length)
@@ -126,11 +128,13 @@ If there is an increase in the area of a solid object due to heating, then the e
 
 Superficial expansion is determined in terms of coefficient of superficial expansion. The ratio of increase in area of the body per degree rise in temperature to its unit area is called as **coefficient of superficial expansion**. Coefficient of superficial expansion is different for different materials. The SI unit of Coefficient of superficial expansion is **K⁻¹**.
 
-*Figure 3.3 Superficial expansion*
+![](img3.png)
 
 The equation relating to the change in area and the change in temperature is given below:
 
-$$\frac{\Delta A}{A_o} = \alpha_A \Delta T$$
+{{< katex display=true >}}
+\frac{\Delta A}{A_o} = \alpha_A \Delta T
+{{< /katex >}}
 
 Where:
 - ΔA = Change in area (Final area - Initial area)
@@ -144,11 +148,13 @@ If there is an increase in the volume of a solid body due to heating, then the e
 
 As in the cases of linear and areal expansion, cubical expansion is also expressed in terms of coefficient of cubical expansion. The ratio of increase in volume of the body per degree rise in temperature to its unit volume is called as **coefficient of cubical expansion**. This is also measured in **K⁻¹**.
 
-*Figure 3.4 Cubical expansion*
+![](img4.png)
 
 The equation relating to the change in volume and the change in temperature is given below:
 
-$$\frac{\Delta V}{V_o} = \alpha_V \Delta T$$
+{{< katex display=true >}}
+\frac{\Delta V}{V_o} = \alpha_V \Delta T
+{{< /katex >}}
 
 Where:
 - ΔV = Change in volume (Final volume - Initial volume)
@@ -192,7 +198,7 @@ To start with, the liquid whose real and apparent expansion is to be determined 
 
 On further heating, the thermal energy supplied to the liquid through the container results in the expansion of the liquid. Hence, the level of liquid rises to L₃. Now, the difference between the levels L₁ and L₃ is called as **apparent expansion**, and the difference between the levels L₂ and L₃ is called **real expansion**. The real expansion is always more than that of apparent expansion.
 
-*Figure 3.5 Real and apparent expansion of liquid*
+![](img5.png)
 
 - Real expansion = L₃ - L₂
 - Apparent expansion = L₃ - L₁
@@ -210,25 +216,33 @@ The three fundamental laws which connect the relation between pressure, volume a
 
 When the temperature of a gas is kept constant, the volume of a fixed mass of gas is **inversely proportional** to its pressure.
 
-$$P \propto \frac{1}{V}$$
+{{< katex display=true >}}
+P \propto \frac{1}{V}
+{{< /katex >}}
 
-*Figure 3.6 Variation of volume with pressure*
+![](img6.png)
 
 In other words, for an invariable mass of a perfect gas, at constant temperature, the product of its pressure and volume is a constant.
 
-$$PV = \text{constant}$$
+{{< katex display=true >}}
+PV = \text{constant}
+{{< /katex >}}
 
 ### 3.4.2 Charles's law (The law of volume)
 
 Charles's law was formulated by a French scientist Jacques Charles. According to this law, When the pressure of gas is kept constant, the volume of a gas is **directly proportional** to the temperature of the gas.
 
-$$V \propto T \quad \text{or} \quad \frac{V}{T} = \text{constant}$$
+{{< katex display=true >}}
+V \propto T \quad \text{or} \quad \frac{V}{T} = \text{constant}
+{{< /katex >}}
 
 ### 3.4.3 Avogadro's law
 
 Avogadro's law states that at constant pressure and temperature, the volume of a gas is directly proportional to number of atoms or molecules present in it.
 
-$$V \propto n \quad \text{or} \quad \frac{V}{n} = \text{constant}$$
+{{< katex display=true >}}
+V \propto n \quad \text{or} \quad \frac{V}{n} = \text{constant}
+{{< /katex >}}
 
 **Avogadro's number (Nₐ)** is the total number of atoms per mole of the substance. It is equal to **6.023 × 10²³ / mol**.
 
@@ -255,34 +269,54 @@ Ideal gases obey Boyle's law, Charles's law and Avogadro's law. All these laws s
 The ideal gas equation is an equation, which relates all the properties of an ideal gas. An ideal gas obeys Boyle's law and Charles' law and Avogadro's law.
 
 According to Boyle's law,
-$$PV = \text{constant} \quad \text{(3.1)}$$
+{{< katex display=true >}}
+PV = \text{constant} \quad \text{(3.1)}
+{{< /katex >}}
 
 According to Charles's law,
-$$\frac{V}{T} = \text{constant} \quad \text{(3.2)}$$
+{{< katex display=true >}}
+\frac{V}{T} = \text{constant} \quad \text{(3.2)}
+{{< /katex >}}
 
 According to Avogadro's law,
-$$\frac{V}{n} = \text{constant} \quad \text{(3.3)}$$
+{{< katex display=true >}}
+\frac{V}{n} = \text{constant} \quad \text{(3.3)}
+{{< /katex >}}
 
 After combining equations (3.1), (3.2) and (3.3), you can get the following equation.
 
-$$\frac{PV}{nT} = \text{constant}$$
+{{< katex display=true >}}
+\frac{PV}{nT} = \text{constant}
+{{< /katex >}}
 
 The above relation is called the **combined law of gases**. If you consider a gas, which contains μ moles of the gas, the number of atoms contained will be equal to μ times the Avogadro number, Nₐ.
 
-$$n = \mu N_A \quad \text{(3.5)}$$
+{{< katex display=true >}}
+n = \mu N_A \quad \text{(3.5)}
+{{< /katex >}}
 
 Using equation (3.5), equation (3.4) can be written as
 
-$$\frac{PV}{\mu N_A T} = \text{constant}$$
+{{< katex display=true >}}
+\frac{PV}{\mu N_A T} = \text{constant}
+{{< /katex >}}
 
 The value of the constant in the above equation is taken to be k_B which is called as **Boltzmann constant** (1.38 × 10⁻²³ JK⁻¹). Hence, we have the following equation:
 
-$$\frac{PV}{\mu N_A T} = k_B$$
-$$PV = \mu N_A k_B T$$
+{{< katex display=true >}}
+\frac{PV}{\mu N_A T} = k_B
+{{< /katex >}}
+{{< katex display=true >}}
+PV = \mu N_A k_B T
+{{< /katex >}}
 
-Here, $\mu N_A k_B = R$, which is termed as **universal gas constant** whose value is **8.31 J mol⁻¹ K⁻¹**.
+Here, {{< katex display=true >}}
+\mu N_A k_B = R
+{{< /katex >}}, which is termed as **universal gas constant** whose value is **8.31 J mol⁻¹ K⁻¹**.
 
-$$PV = RT$$
+{{< katex display=true >}}
+PV = RT
+{{< /katex >}}
 
 Ideal gas equation is also called as **equation of state** because it gives the relation between the state variables and it is used to describe the state of any gas.
 
@@ -346,11 +380,17 @@ Keeping the temperature as constant, a gas is compressed four times of its initi
 
 Using Boyle's Law, PV = constant
 
-$$P_1V_1 = P_2V_2$$
+{{< katex display=true >}}
+P_1V_1 = P_2V_2
+{{< /katex >}}
 
-$$V_2 = \frac{P_1}{P_2} \times V_1 = \frac{P}{4P} \times 20 \text{ cm}^3$$
+{{< katex display=true >}}
+V_2 = \frac{P_1}{P_2} \times V_1 = \frac{P}{4P} \times 20 \text{ cm}^3
+{{< /katex >}}
 
-$$V_2 = \textbf{5 cm}^3$$
+{{< katex display=true >}}
+V_2 = \textbf{5 cm}^3
+{{< /katex >}}
 
 ---
 
@@ -383,6 +423,7 @@ $$V_2 = \textbf{5 cm}^3$$
    - d) **difference in K.E and T.E** ✓
 
 5. In the Given diagram, the possible direction of heat energy transformation is
+![](img7.png)
    - (Diagram showing: A = 303 K, B = 304 K, C = 305 K)
    - a) A ← B, A ← C, B ← C
    - b) A → B, A → C, B → C

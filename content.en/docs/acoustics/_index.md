@@ -148,7 +148,7 @@ Speed of sound waves in different media are given in table 5.1.
 
 **Solution:**
 Let T°C be the required temperature. Let {{< katex display=true >}}
-v_1 and $v_2 be the velocity of sound at temperatures T_1K and T_2K respectively. T_1 = 273 K (0°C) and T_2 = (T°C + 273)
+v_1 and v_2 be the velocity of sound at temperatures T_1K and T_2K respectively. T_1 = 273 K (0°C) and T_2 = (T°C + 273)
 {{< /katex >}} K
 
 {{< katex display=true >}}

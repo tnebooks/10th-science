@@ -80,7 +80,7 @@ In the above nuclear reaction,{{< katex display=true >}} _{6}\mathrm{C}^{13*} {{
 1 \text{ curie} = 3.7 \times 10^{10} \text{ disintegrations per second}
 {{< /katex >}}
 
-**Rutherford (Rd):** It is another unit of radioactivity. It is defined as the quantity of a radioactive substance, which produces $10^{6}$ disintegrations in one second.
+**Rutherford (Rd):** It is another unit of radioactivity. It is defined as the quantity of a radioactive substance, which produces 10^{6} disintegrations in one second.
 {{< katex display=true >}}
 1 \text{ Rd} = 10^{6} \text{ disintegrations per second}
 {{< /katex >}}
