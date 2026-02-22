@@ -2,7 +2,7 @@
 title: 'LAWS OF MOTION'
 weight: 1
 ---
-# LAWS OF MOTION
+# UNIT1:LAWS OF MOTION
 
 ## Learning Objectives
 
@@ -101,8 +101,7 @@ The product of mass and velocity of a moving body gives the magnitude of linear 
 
 **Linear Momentum = mass × velocity**
 
-{{< katex display=true >}}
-{{< /katex >}}
+   p=mv
 
 It helps to measure the magnitude of a force. Unit of momentum in SI system is kg m s⁻¹ and in C.G.S system its unit is g cm s⁻¹.
 
@@ -137,15 +136,20 @@ Based on the direction in which the forces act, they can be classified into two 
 
 When several forces act simultaneously on the same body, then the combined effect of the multiple forces can be represented by a single force, which is termed as 'resultant force'. It is equal to the vector sum (adding the magnitude of the forces with their direction) of all the forces.
 
-| Action of forces | Diagram | Resultant force (F_net) |
-|:---|:---|:---|
-| Parallel forces are acting in the same direction | F₁ → F₂ → | F_net = F₁ + F₂ |
-| Parallel unequal forces are acting in opposite directions | F₁ ← F₂ → | F_net = F₁ - F₂ (if F₁ > F₂) <br> F_net = F₂ - F₁ (if F₂ > F₁) <br> F_net is directed along the greater force. |
-| Parallel equal forces are acting in opposite directions in the same line of action (F₁ = F₂) | F₁ ← → F₂ | F_net = F₁ - F₂ <br> F_net = 0 since (F₁ = F₂) |
+Table 1.1 Action of forces
+![](1.1.png)
+
 
 ![](parallel.png)
+*a) Unlike parallel forces –Tug of war*
+
+
 ![](parallelforce.png)
+*b) Unbalanced forces -Action of a lever*
+
+
 ![](pm.png)
+*(c) Like parallel forces*
 
 
 *Figure 1.2: Combined effect of forces*
@@ -182,9 +186,6 @@ Torque is a vector quantity. It is acting along the direction, perpendicular to 
 Examples: Turning a tap, winding or unwinding a screw, spinning of a top, etc.
 
 Moment of a couple is measured by the product of any one of the forces and the perpendicular distance between the line of action of two forces. The turning effect of a couple is measured by the magnitude of its moment.
-
-{{< katex display=true >}}
-{{< /katex >}}
 
 {{< katex display=true >}}M = F \times S \quad ...(1.3)
 {{< /katex >}}
@@ -330,11 +331,9 @@ ii. a smaller force acting for a longer period of time.
 
 Newton's third law states that **'for every action, there is an equal and opposite reaction. They always act on two different bodies'**.
 
-If a body A applies a force 
-{{< katex display=true >}}
-F_A on a body B, then the body B reacts with force F_B on the body A, 
+If a body A applies a force {{< katex display=true >}}F_A {{< /katex >}}on a body B, then the body B reacts with force {{< katex display=true >}}F_B{{< /katex >}} on the body A, 
 
-which is equal to F_A in magnitude, but opposite in direction. F_B = -F_A
+which is equal to {{< katex display=true >}}F_A{{< /katex >}} in magnitude, but opposite in direction.{{< katex display=true >}} F_B = -F_A
 {{< /katex >}}
 
 **Examples:**
@@ -356,7 +355,7 @@ Let us prove the law of conservation of linear momentum with the following illus
 
 ### Proof:
 
-Let two bodies A and B having masses {{< katex display=true >}}m_1 and m_2 move with initial velocity u_1 and u_2 in a straight line. Let the velocity of the first body be higher than that of the second body. i.e., u_1 > u_2. During an interval of time t second, they tend to have a collision. After the impact, both of them move along the same straight line with a velocity v_1 and v_2
+Let two bodies A and B having masses {{< katex display=true >}}m_1 and m_2 {{< /katex >}}move with initial velocity {{< katex display=true >}}u_1 and u_2{{< /katex >}} in a straight line. Let the velocity of the first body be higher than that of the second body. i.e., {{< katex display=true >}}u_1 > u_2.{{< /katex >}} During an interval of time t second, they tend to have a collision. After the impact, both of them move along the same straight line with a velocity {{< katex display=true >}}v_1 and v_2
 {{< /katex >}} respectively.
 
 Force on body B due to A,
@@ -485,7 +484,8 @@ When you move to a higher altitude from the surface of the Earth, the value of g
 
 **Weight:** Weight of a body is defined as the gravitational force exerted on a body due to the gravity.
 
-{{< katex display=true >}}\text{Weight} = \text{Gravitational Force} = \text{mass (m)} \times \text{acceleration due to gravity (g)}.
+{{< katex display=true >}}\text{Weight} = \text{Gravitational Force} {{< /katex >}}
+{{< katex display=true >}}= \text{mass (m)} \times \text{acceleration due to gravity (g)}.
 {{< /katex >}}
 
 g = acceleration due to gravity for Earth (at sea level) = 9.8 ms⁻².
@@ -506,8 +506,7 @@ Let us see this from the following illustration:
 
 *Figure 1.10: A person in a moving lift*
 
-Let us consider a person of mass m, who is travelling in lift. The actual weight of the person is {{< katex display=true >}}W = mg which is acting vertically downwards. The reaction force exerted by the lift's surface \mathbf{R}
-{{< /katex >}}, taken as apparent weight is acting vertically upwards.
+Let us consider a person of mass m, who is travelling in lift. The actual weight of the person is {{< katex display=true >}}W = mg{{< /katex >}} which is acting vertically downwards. The reaction force exerted by the lift's surface {{< katex display=true >}}\mathbf{R}{{< /katex >}}, taken as apparent weight is acting vertically upwards.
 
 Let us see different possibilities of the apparent weight 'R' of the person that arise, depending on the motion of the lift; upwards or downwards which are given in Table 1.2
 
