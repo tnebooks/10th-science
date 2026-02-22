@@ -3,7 +3,7 @@ title: 'ATOMS AND MOLECULES'
 weight: 7
 ---
 
-# ATOMS AND MOLECULES
+# UNIT 7: ATOMS AND MOLECULES
 
 ## Learning Objectives
 
@@ -312,7 +312,18 @@ One mole of any gas occupies **22.4 litre** or **22400 ml** at S.T.P. This volum
 ### Calculation of number of moles by Different modes
 
 {{< katex display=true >}}
-\text{Number of moles} = \frac{\text{Mass}}{\text{Atomic Mass}} = \frac{\text{Mass}}{\text{Molecular mass}} = \frac{\text{Number of Atoms}}{6.023 \times 10^{23}} = \frac{\text{Number of Molecules}}{6.023 \times 10^{23}}
+\text{Number of moles} 
+   = \frac{\text{Mass}}{\text{Atomic Mass}}
+{{< /katex >}}
+{{< katex display=true >}}
+   = \frac{\text{Mass}}{\text{Molecular mass}}
+{{< /katex >}}
+{{< katex display=true >}}
+ 
+= \frac{\text{Number of Atoms}}{6.023 \times 10^{23}} 
+{{< /katex >}}
+{{< katex display=true >}}
+ = \frac{\text{Number of Molecules}}{6.023 \times 10^{23}}
 {{< /katex >}}
 
 ![](img1.png)
@@ -845,21 +856,5 @@ Answer the following questions using the data given below:
 ---
 
 ## CONCEPT MAP
-
-```
-                    Atoms and Molecules
-                           |
-        ---------------------------------------------
-        |                      |                      |
-Modern Atomic Theory      Atom                Molecule      Avogadro's Hypothesis
-        |                      |                      |              |
-   Isotopes            Atomic Mass          Molecular Mass      Gay-Lussac's law
-   Isobars                 |                      |           Atomicity of molecule
-   Isotones         Relative Atomic Mass   Relative Molecular   Determine molecular formula
-                             |                   Mass          Relation between M.M and V.D.
-                             |                      |
-                    Average Atomic Mass      Mole Concept
-```
-
+ ![](img5.png)
 ---
-```

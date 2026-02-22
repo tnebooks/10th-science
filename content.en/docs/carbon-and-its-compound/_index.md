@@ -4,7 +4,7 @@ title: 'CARBON AND ITS COMPOUND'
 weight: 11
 ---
 
-# UNIT 11: CARBON AND ITS COMPOUNDS
+# UNIT 11:CARBON AND ITS COMPOUNDS
 
 ## Learning Objectives
 After studying this lesson, the student will be able to:
@@ -37,7 +37,7 @@ Everything in this world has unique character, similarly organic compounds are u
 
 ---
 
-## CLASSIFICATION OF ORGANIC COMPOUNDS BASED ON THE PATTERN OF CARBON CHAIN
+## 11.2 CLASSIFICATION OF ORGANIC COMPOUNDS BASED ON THE PATTERN OF CARBON CHAIN
 
 What is the significance of classification? There are millions of organic compounds known and many new organic compounds are discovered every year in nature or synthesized in laboratory. This may mystify organic chemistry to a large extent. However, a unique molecular structure can be assigned to each compound and it can be listed by using systematic methods of classification and eventually named on the basis of its structural arrangements. In early days, chemists recognised that compounds having similar structural features have identical chemical properties. So they began to classify compounds based on the common structural arrangements found among them.
 
@@ -52,9 +52,13 @@ These are the compounds in which the carbon atoms are linked in a linear pattern
 ### 2. Cyclic Compounds:
 Organic compounds in which the chain of carbon atoms is closed or cyclic are called cyclic compounds. If the chain contains only carbon atoms, such compounds are called carbocyclic (Homocyclic) compounds. If the chain contains carbon and other atoms like oxygen, nitrogen, sulphur, etc., these compounds are called heterocyclic compounds. Carbocyclic compounds are further subdivided into alicyclic and aromatic compounds. Alicyclic compounds contain one or more carbocyclic rings which may be saturated or unsaturated whereas aromatic compounds contain one or more benzene rings (ring containing alternate double bonds between carbon atoms).
 
-![](1.png)
+![](11.1.png)
 
 **Figure 11.1** depicts the classification of organic compounds based on the pattern of carbon arrangements and their bonding in organic compounds.
+
+
+![](1.png)
+
 
 ---
 
@@ -114,7 +118,13 @@ The chemical properties of an organic compound depend on its functional group wh
 
 For example, ethane is a hydrocarbon having molecular formula C₂H₆. If one of its hydrogen is replaced by –OH group, you will get an alcohol. Leaving the functional group, the rest of the structure is represented by 'R'. Thus an alcohol is represented by 'R-OH'.
 
+
+![](11.2.png)
+
+
 A series of compounds containing the same functional group is called a class of organic compounds. **Table 11.2** shows various classes or families of organic compounds and their functional groups:
+
+Table 11.2 Classes of organic compounds based on functional group
 
 | Class of the compound | Functional group | Common Formula | Examples |
 |:---|:---|:---|:---|
@@ -161,9 +171,16 @@ ii. Prefix
 iii. Suffix
 
 These parts are combined as per the following sequence to get the IUPAC name of the compound:
+
+
 **Prefix + Root Word + Suffix → IUPAC Name**
 
+
 **(i) Root word:** It is the basic unit, which describes the carbon skeleton. It gives the number of carbon atoms present in the parent chain of the compound and the pattern of their arrangement. Based on the number of carbon atoms present in the carbon skeleton, most of the names are derived from Greek numerals (except the first four). **Table 11.3** shows the root words for the parent chain of hydrocarbons containing 1 to 10 carbon atoms:
+
+
+Table 11.3  Root words of hydrocarbons
+
 
 | No. of carbon atoms | Root word |
 |:---|:---|
@@ -179,6 +196,10 @@ These parts are combined as per the following sequence to get the IUPAC name of 
 | 10 | Dec- |
 
 **(ii) Prefix:** The prefix represents the substituents or branch present in the parent chain. Atoms or group of atoms, other than hydrogen, attached to carbon of the parent chain are called substituents. **Table 11.4** presents the major substituents of organic compounds and respective prefix used for them:
+
+
+Table 11.4 Prefix for IUPAC Name
+
 
 | Substituent | Prefix used |
 |:---|:---|
@@ -262,6 +283,11 @@ CH₃-CH-CH₂-CH₂-CH₂-CH₃
 - **Step 1:** It is a 'five carbon atoms chain' and hence the root word is 'Pent'. (Rule 1)
 - **Step 2:** There is a carbon to carbon double bond. The suffix is 'ene'.
 - **Step 3:** The carbon chain is numbered from the end such that double bond has the lowest locant number as shown below: (Rule 3):
+
+
+![](11.3.png)
+
+
 - **Step 4:** The locant number of the double bond is 1 and thus the suffix is '-1-ene'.
 - So, the name of the compound is Pent + (-1-ene) = **Pent-1-ene**
 
@@ -274,6 +300,10 @@ CH₃-CH-CH₂-CH₂-CH₂-CH₃
 - **Step 1:** The parent chain consists of 3 carbon atoms. The root word is 'Prop'.
 - **Step 2:** There are single bonds between the carbon atoms of the chain. So, the primary suffix is 'ane'.
 - **Step 3:** Since, the compound contains –OH group, it is an alcohol. The carbon chain is numbered from the end which is closest to –OH group. (Rule 3)
+
+![](11.4.png)
+
+
 - **Step 4:** The locant number of –OH group is 1 and thus the secondary suffix is '1-ol'.
 - The name of the compound is Prop + ane + (1-ol) = **Propan-1-ol**
 - Note: Terminal 'e' of 'ane' is removed as per Rule 5
@@ -305,6 +335,9 @@ Obtain the IUPAC name of the following compounds systematically:
 
 ## 11.6 ETHANOL (CH₃CH₂OH)
 Ethanol is commonly known as alcohol. All alcoholic beverages and some cough syrups contain ethanol. Its molecular formula is C₂H₅OH.
+
+![](11.5.png)
+
 
 ### 11.6.1 Manufacture of ethanol
 Ethanol is manufactured in industries by the fermentation of molasses, which is a by-product obtained during the manufacture of sugar from sugarcane. Molasses is a dark coloured syrupy liquid left after the crystallization of sugar from the concentrated sugarcane juice. Molasses contain about 30% of sucrose, which cannot be separated by crystallization. It is converted into ethanol by the following steps:
@@ -411,6 +444,10 @@ Ethanol is used:
 
 ## 11.7 ETHANOIC ACID (CH₃COOH)
 Ethanoic acid or acetic acid is one of the most important members of the carboxylic acid family. Its molecular formula is C₂H₄O₂.
+
+
+![](11.6.png)
+
 
 ### 11.7.1 Manufacture of ethanoic acid
 Ethanoic acid is prepared in large scale, by the oxidation of ethanol in the presence of alkaline potassium permanganate or acidified potassium dichromate.
@@ -564,10 +601,6 @@ The polar end is hydrophilic (Water loving) in nature and this end is attracted 
 
 When a soap or detergent is dissolved in water, the molecules join together as clusters called 'micelles'. Their long hydrocarbon chains attach themselves to the oil and dirt. The dirt is thus surrounded by the non-polar end of the soap molecules (Figure 11.3). The charged carboxylate end of the soap molecules makes the micelles soluble in water. Thus, the dirt is washed away with the water.
 
-![](3.png)
-
-**Figure 11.3** Cleansing action of soap
-
 ---
 
 ### Advantages of detergents over soaps
@@ -585,6 +618,11 @@ Detergents are better than soaps because they:
 
 #### a) Biodegradable detergents:
 They have straight hydrocarbon chains, which can be easily degraded by micro-organisms.
+
+![](3.png)
+**Figure 11.3** Cleansing action of soap
+
+
 
 #### b) Non-biodegradable detergents:
 They have highly branched hydrocarbon chains, which cannot be degraded by micro-organisms.
@@ -813,7 +851,6 @@ The students can know about the Hydrocarbons, its formulae, descriptions and als
 
 **URL:** https://play.google.com/store/apps/details?id=com.budgietainment.oc
 
-*Pictures are indicative only*
 ```
 
 
