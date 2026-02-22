@@ -2,7 +2,7 @@
 title: 'PERIODIC CLASSIFICATION OF ELEMENTS'
 weight: 8
 ---
-# PERIODIC CLASSIFICATION OF ELEMENTS
+# UNIT-8 : PERIODIC CLASSIFICATION OF ELEMENTS
 
 ## Learning Objectives
 After a thorough perusal of this unit, the students will be able to:
@@ -92,10 +92,13 @@ Atomic radius of an atom is defined as the distance between the centre of its nu
 ![](img2.png)
 
 
+
 Atomic radius in metal atoms is known as **metallic radius**. It is defined as half the distance between the nuclei of adjacent metal atoms.
 
 In non-metallic elements, their atomic radius is known as **Covalent radius**. It is defined as half the distance between the adjacent nuclei of two covalently bonded atoms of the same element in a molecule. For example, let us consider H₂ molecule. The distance between the two hydrogen nuclei of the molecule is 0.74 Å. So its covalent radius is:
 > Atomic radius of Hydrogen = 0.74/2 = 0.37 Å
+![](8.3.png)
+
 
 When you look at the variation of the atomic radii in the periodic table, there are two distinct trends:
 
@@ -108,6 +111,7 @@ The increase, down a group, is due to the increase in the valence shell number d
 ### 8.3.2 Ionic Radii
 
 It is defined as the distance from the centre of the nucleus of the ion upto the point where it exerts its influence on the electron cloud of the ion.
+![](8.5.png)
 
 You know that ions are formed when an atom lose or gain electrons. When a neutral atom loses an electron, it becomes a positively charged ion called **cation**, whereas the gain of an electron by a neutral atom forms a negatively charged ion called **anion**. The size of the ions is important to determine their behaviours in solutions and the structure of ionic solids.
 
