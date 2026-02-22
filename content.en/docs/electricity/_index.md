@@ -3,7 +3,7 @@ title: 'ELECTRICITY'
 Weight: 4
 ---
 
-# Electricity
+# UNIT4 :  Electricity
 
 ## Learning Objectives
 At the end of this lesson, students will be able to:
@@ -72,16 +72,14 @@ By convention, the direction of current is taken as the direction of flow of pos
 
 ### 4.2.1 Electrical components
 
-| Component | Use of the Component | Symbol Used |
-|-----------|---------------------|-------------|
-| Resistor | Used to fix the magnitude of the current through a circuit | ![Resistor symbol] |
-| Variable resistor or Rheostat | Used to select the magnitude of the current through a circuit | ![Rheostat symbol] |
-| Ammeter | Used to measure the current | A |
-| Voltmeter | Used to measure the potential difference | V |
-| Galvanometer | Used to detect the current and its direction | G |
-| A diode | It is used in electronic devices | ![Diode symbol] |
-| Light Emitting Diode (LED) | It is used in seven segment display | ![LED symbol] |
-| Ground connection | Used to provide protection to the electrical components. It also serves as a reference point to measure the electric potential. | ![Ground symbol] |
+The electric circuit given in Figure 4.2 consists of different components, such as a battery, a switch and a bulb. All these components can be represented by using certain symbols. It is easier to represent the components of a circuit using their respective symbols.
+
+The symbols that are used to represent some commonly used components are given in Table 4.1. The uses of these components are
+also summarized in the table.
+
+
+![](4.1.png)
+
 
 ---
 
@@ -91,12 +89,16 @@ You are now familiar with the water current and air current. You also know that 
 ### 4.3.1 Electric Potential
 The electric potential at a point is defined as the amount of work done in moving a unit positive charge from infinity to that point against the electric force.
 
+
+### 4.3.2 Electric Potential Difference
+The electric potential difference between two points is defined as the amount of work done in moving a unit positive charge from one point to another point against the electric force.
+
+
 ![](3.png)
 
 **Figure 4.3** Electric potential
 
-### 4.3.2 Electric Potential Difference
-The electric potential difference between two points is defined as the amount of work done in moving a unit positive charge from one point to another point against the electric force.
+
 
 Suppose, you have moved a charge Q from a point A to another point B. Let 'W' be the work done to move the charge from A to B. Then, the potential difference between the points A and B is given by:
 
@@ -113,7 +115,8 @@ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{< /katex >}}
 
 {{< katex display=true >}}
-V = V_A - V_B \text{ (if } V_A \text{ is more than } V_B)
+V = V_A - V_B \text{ (if } V_A \text{ is more than } V_B){{< /katex >}}
+{{< katex display=true >}}
 V = V_B - V_A \text{ (if } V_B \text{ is more than } V_A)
 {{< /katex >}}
 
@@ -255,15 +258,9 @@ Some materials are good conductors of electric current (Example: copper, alumini
 
 Conductivity is more for conductors than for insulators. But, the resistivity is less for conductors than for insulators.
 
-**Table 4.2: Resistivity of some materials**
 
-| Nature of the Material | Material | Resistivity (Ω m) |
-|------------------------|----------|-------------------|
-| Conductor | Copper | {{< katex display=true >}} 1.62 \times 10^{-8} {{< /katex >}} |
-| | Nickel | {{< katex display=true >}}6.84 \times 10^{-8}{{< /katex >}} |
-| | Chromium | {{< katex display=true >}}12.9 \times 10^{-8}{{< /katex >}} |
-| Insulator | Glass | {{< katex display=true >}}10^{1} to 10^{14}{{< /katex >}} |
-| | Rubber | {{< katex display=true >}}10^{13} to 10^{16}{{< /katex >}} |
+![](4.2.png)
+
 
 #### Solved Problem-4
 **Problem:** The resistance of a wire of length 10m is 2 ohm. If the area of cross section of the wire is{{< katex display=true >}} 2 \times 10^{-7} m^2 {{< /katex >}}, determine its:
@@ -298,10 +295,12 @@ If resistors are connected end to end, so that the same current passes through e
 
 Let three resistances{{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}} be connected in series. Let the current flowing through them be I. According to Ohm's Law, the potential differences {{< katex display=true >}}V_1, V_2 and V_3 {{< /katex >}}across{{< katex display=true >}}  R_1, R_2 and R_3{{< /katex >}} respectively, are given by:
 {{< katex display=true >}} 
-V_1 = IR_1
-V_2 = IR_2
-V_3 = IR_3
-{{< /katex >}}
+V_1 = IR_1{{< /katex >}}
+{{< katex display=true >}}
+V_2 = IR_2{{< /katex >}}
+{{< katex display=true >}}
+V_3 = IR_3{{< /katex >}}
+
 
 The sum of the potential differences across the ends of each resistor is given by:
 {{< katex display=true >}} 
@@ -357,8 +356,10 @@ Consider that three resistors {{< katex display=true >}} R_1, R_2 and R_3 {{< /k
 
 According to Ohm's law:
 {{< katex display=true >}} 
-I_1 = \frac{V}{R_1}
-I_2 = \frac{V}{R_2}
+I_1 = \frac{V}{R_1}{{< /katex >}}
+{{< katex display=true >}}
+I_2 = \frac{V}{R_2}{{< /katex >}}
+{{< katex display=true >}}
 I_3 = \frac{V}{R_3}{{< /katex >}}
 
 The total current through the circuit is given by:
@@ -409,7 +410,8 @@ If you consider the connection of a set of parallel resistors that are connected
 
 Using the parallel formula:
 {{< katex display=true >}} 
-\frac{1}{R_{P1}} = \frac{1}{R_1} + \frac{1}{R_2}
+\frac{1}{R_{P1}} = \frac{1}{R_1} + \frac{1}{R_2}{{< /katex >}}
+{{< katex display=true >}} 
 \frac{1}{R_{P2}} = \frac{1}{R_3} + \frac{1}{R_4}
 {{< /katex >}}
 Finally, the net effective resistance is given by:
