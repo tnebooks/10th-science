@@ -3,7 +3,7 @@ title: 'HEALTH AND DISEASES'
 weight: 21
 ---
 
-# UNIT 21:Health and Diseases
+# UNIT 21: Health and Diseases
 
 ## Learning Objectives
 
@@ -674,30 +674,49 @@ In each of the following questions, a statement of Assertion is given and a corr
 **Abuses and Disorders due to Lifestyle Modification**
 
 ```
-Abuses
-├── Child abuse
-├── Sexual abuse
-├── Drug abuse
-├── Tobacco abuse
-└── Alcohol abuse
-
-Protection and Prevention
-├── Counselling and Psychotherapy
-├── Family support
-├── Community based efforts
-├── Abuse prevention campaigns
-└── Rehabilitation
-
-Disorders due to Lifestyle Modification
-├── Diabetes Mellitus
-├── Obesity
-└── Cancer
-
-Protection and Prevention
-├── Dietary management
-├── Physical activity and body weight maintenance
-├── Medication and therapy
-└── Education and awareness
+Abuses and Disorders due to Lifestyle Modification
+|
+|-- Abuses
+|   |
+|   |-- Child abuse
+|   |
+|   |-- Sexual abuse
+|   |
+|   |-- Drug abuse
+|   |
+|   |-- Tobacco abuse
+|   |
+|   |-- Alcohol abuse
+|
+|-- Protection and Prevention
+|   |
+|   |-- Counselling and Psychotherapy
+|   |
+|   |-- Family support
+|   |
+|   |-- Community based efforts
+|   |
+|   |-- Abuse prevention campaigns
+|   |
+|   |-- Rehabilitation
+|
+|-- Disorders due to Lifestyle Modification
+|   |
+|   |-- Diabetes Mellitus
+|   |
+|   |-- Obesity
+|   |
+|   |-- Cancer
+|
+|-- Protection and Prevention
+    |
+    |-- Dietary management
+    |
+    |-- Physical activity and body weight maintenance
+    |
+    |-- Medication and therapy
+    |
+    |-- Education and awareness
 ```
 
 ---
