@@ -3,7 +3,7 @@ title: 'STRUCTURAL ORGANISATION  OF ANIMALS'
 weight: 13
 ---
 
-# STRUCTURAL ORGANISATION OF ANIMALS
+# UNIT 13:STRUCTURAL ORGANISATION OF ANIMALS
 
 ## Learning Objectives
 At the end of this lesson the students will be able to:
@@ -109,7 +109,6 @@ Crop is the largest portion of the alimentary canal. It is divided into a series
 
 The last chamber of crop opens into stomach. The stomach leads into intestine which is a small straight tube that opens into rectum. The rectum opens to the exterior by anus.
 
-*Figure 13.2 Digestive system of Leech*
 
 ### Food, Feeding and Digestion
 The leech feeds by sucking the blood of cattle and other domestic animals. During feeding the leech attaches itself to its victim strongly by the posterior sucker. The leech makes a triradiate or Y shaped incision in the skin of the host by the jaws protruded through the mouth. The blood is sucked by muscular pharynx and the salivary secretion is poured.
@@ -253,7 +252,6 @@ Mouth is a transverse slit bounded by upper and lower lips. It leads into the bu
 
 The buccal cavity leads into the oesophagus through the pharynx. Oesophagus opens into the stomach followed by small intestine. Caecum is a thin walled sac present at the junction of small intestine and large intestine. It contains bacteria that helps in digestion of cellulose. The small intestine opens into the large intestine which has colon and rectum. The rectum finally opens outside by the anus.
 
-*Figure 13.6 Digestive System of Rabbit*
 
 ### Digestive Glands
 The digestive glands are salivary glands, gastric glands, liver, pancreas and intestinal glands. The secretions of digestive glands help in digestion of food in the alimentary canal.
@@ -268,8 +266,9 @@ In rabbit the teeth are of different types. Hence, the dentition is called **het
 Dental formula is the simple method of representing the teeth of a mammal. The number of each kind of tooth in the upper and the lower jaws on one side is counted.
 
 **Dental formula in rabbit:**
+
 {{< katex display=true >}}
-\frac{I\frac{2}{1}, C\frac{0}{0}, PM\frac{3}{2}, M\frac{3}{3}}{I\frac{1}{1}, C\frac{0}{0}, PM\frac{2}{1}, M\frac{3}{3}}
+{I\frac{2}{1}, C\frac{0}{0}, PM\frac{3}{2}, M\frac{3}{3}}
 {{< /katex >}}
 
 Or written as: **2033/1023**

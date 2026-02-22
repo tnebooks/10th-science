@@ -1,8 +1,8 @@
 ---
-title: 'REPRODUCTION  IN  ANTS AND ANIMALS'
+title: 'REPRODUCTION  IN  PLANTS AND ANIMALS'
 weight: 17
 ---
-# REPRODUCTION IN PLANTS AND ANIMALS
+# UNIT 17:REPRODUCTION IN PLANTS AND ANIMALS
 
 ## Learning Objectives
 
@@ -610,6 +610,11 @@ d) Implantation - 4) Release of egg from Graafian follicle
 8. How can menstrual hygiene be maintained during menstrual days?
 9. How does developing embryo gets its nourishment inside the mother's body?
 10. Identify the parts A, B, C and D [Diagram: Pollen grain structure]
+
+
+![](13.1.png)
+
+
 11. Write the events involved in the sexual reproduction of a flowering plant.
     a. Discuss the first event and write the types.
     b. Mention the advantages and the disadvantages of that event.
