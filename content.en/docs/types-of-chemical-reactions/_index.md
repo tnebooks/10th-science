@@ -72,9 +72,7 @@ With physical states:
 CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)
 ```
 
-A balanced chemical equation is the simplified representation of a chemical reaction which describes the chemical composition, physical state of the reactants and the products, and the reaction conditions.
-
-### MORE TO KNOW: Physical State Symbols
+### Physical State Symbols
 
 | Symbol | Phase or Physical State |
 |--------|------------------------|
@@ -107,37 +105,33 @@ H₂(g) + Cl₂(g) → 2HCl(g)
 
 **Three classes of combination reactions:**
 
-**1. Element + Element → Compound**
+1. **Element + Element → Compound**
+   
+   *Example 1:* When solid sulphur reacts with oxygen, it produces sulphur dioxide.
+   ```
+   S(s) + O₂(g) → SO₂(g)
+   ```
+   
+   *Example 2:* Sodium combines with chlorine to form sodium chloride.
+   ```
+   2Na(s) + Cl₂(g) → 2NaCl(s)
+   ```
 
-*Example 1:* When solid sulphur reacts with oxygen, it produces sulphur dioxide.
-![](1.2.png)
-```
+2. **Compound + Element → Compound**
+   
+   *Example:* Phosphorous trichloride reacts with chlorine gas.
+   ```
+   PCl₃(l) + Cl₂(g) → PCl₅(s)
+   ```
 
-S(s) + O₂(g) → SO₂(g)
-```
+3. **Compound + Compound → Compound**
+   
+   *Example:* Silicon dioxide reacts with calcium oxide.
+   ```
+   SiO₂(s) + CaO(s) → CaSiO₃(s)
+   ```
 
-*Example 2:* Sodium combines with chlorine to form sodium chloride.
-```
-2Na(s) + Cl₂(g) → 2NaCl(s)
-```
-
-**Test Yourself:** Identify the possible combination reactions between the metals (Na, K, Cs, Ca) and non-metals (F, Cl, Br, I).
-
-**2. Compound + Element → Compound**
-
-*Example:* Phosphorous trichloride reacts with chlorine gas.
-```
-PCl₃(l) + Cl₂(g) → PCl₅(s)
-```
-
-**3. Compound + Compound → Compound**
-
-*Example:* Silicon dioxide reacts with calcium oxide.
-```
-SiO₂(s) + CaO(s) → CaSiO₃(s)
-```
-
-> **Note:** Most of the combination reactions are exothermic in nature. Because, they involve the formation of new bonds, which releases a huge amount of energy in the form of heat.
+> **Note:** Most of the combination reactions are exothermic in nature.
 
 ---
 
@@ -151,19 +145,13 @@ In a decomposition reaction, a single compound splits into two or more simpler s
 
 **(i) Thermal Decomposition Reactions (Thermolysis)**
 
-In this type of reaction, the reactant is decomposed by applying heat.
+In this type of reaction, the reactant is decomposed by applying heat (Thermolysis).
 
-*Example 1:* Mercury (II) oxide decomposes into mercury metal and oxygen gas.
-```
-2HgO(s) --Heat→ 2Hg(l) + O₂(g)
-```
+Similarly, when calcium carbonate is heated, it breaks down into calcium oxide and carbon dioxide.
 
-*Example 2:* Calcium carbonate breaks down into calcium oxide and carbon dioxide.
-```
-CaCO₃(s) --Heat→ CaO(s) + CO₂(g)
-```
+$$\text{CaCO}_{3(s)} \xrightarrow{\text{Heat}} \text{CaO}_{(s)} + \text{CO}_{2(g)}$$
 
-> Such reactions, in which heat is absorbed, are called **Endothermic reactions**.
+In thermal decomposition reaction, heat is supplied to break the bonds. Such reactions, in which heat is absorbed, are called **'Endothermic reactions'**.
 
 **(ii) Electrolytic Decomposition Reactions (Electrolysis)**
 
@@ -174,19 +162,14 @@ Electrical energy is used to bring about the reaction.
 2NaCl(aq) --Electricity→ 2Na(s) + Cl₂(g)
 ```
 
-**(iii) Photo Decomposition Reactions (Photolysis)**
+**(iii) Photo Decomposition Reactions**
 
-Light facilitates the decomposition.
+Light facilitates the decomposition (Photolysis).
 
 *Example:* Silver bromide exposed to light.
 ```
 2AgBr(s) --Light→ 2Ag(s) + Br₂(g)
 ```
-
-![](1.png)
-
-
-**Figure 10.1** photo decomposition of silver bromide
 
 > The yellow coloured silver bromide turns into grey coloured silver metal.
 
@@ -196,7 +179,10 @@ Light facilitates the decomposition.
 
 It is a reaction between an element and a compound. When they react, one of the elements of the compound-reactant is replaced by the element-reactant.
 
-![](1.4.png)
+**General scheme:**
+```
+A + BC → AC + B
+```
 
 *Example 1:* Zinc metal in hydrochloric acid.
 ```
@@ -207,13 +193,8 @@ Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)
 ```
 Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)
 ```
-![](2.png)
 
-
-**Figure 10.2** Displacement of copper
-
-
-**Activity Series** (Mnemonic: **P**lease **S**end **L**ions, **C**ats **M**onkeys **A**nd **Z**ebras **I**nto **L**ovely **H**ot **C**ountries **S**igned **G**eneral **P**enguin)
+**Activity Series** (mnemonic: Please Send Lions, Cats, Monkeys, And Zebras Into Lovely Hot Countries Signed General Penguin)
 
 | Activity | Element |
 |----------|---------|
@@ -234,14 +215,6 @@ Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)
 
 > More active elements readily displace less active elements from their aqueous solution.
 
-**Question:** Which of the metals displaces hydrogen gas from hydrochloric acid? Silver or Zinc?
-
-**Answer:** Zinc (Zn) displaces hydrogen gas from HCl because zinc is above hydrogen in the activity series, while silver is below hydrogen.
-
-```
-Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)
-```
-
 ---
 
 #### (d) Double Displacement Reactions
@@ -261,16 +234,9 @@ When aqueous solutions of two compounds are mixed, if they react to form an inso
 Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s)↓ + 2KNO₃(aq)
 ```
 
-![](3.png)
-
-
-**Figure 10.3** Precipitation of PbI2
-
 **(ii) Neutralization Reactions**
 
 Acid reacts with base to form salt and water.
-
-![](1.6.png)
 
 *Example 1:* Sodium hydroxide with hydrochloric acid.
 ```
@@ -286,12 +252,13 @@ HNO₃(aq) + NH₄OH(aq) → NH₄NO₃(aq) + H₂O(l)
 
 #### (e) Combustion Reactions
 
-A combustion reaction is one in which the reactant rapidly combines with oxygen to form one or more oxides and energy (heat).
+A **combustion reaction** is one in which the reactant rapidly combines with oxygen to form one or more oxides and energy (heat). So in combustion reactions, one of the reactants must be oxygen. Combustion reactions are majorly used as heat energy sources in many of our day to day activities.
 
-*Example:* Combustion of propane.
-```
-C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l) + Heat
-```
+**Example:** LPG is a mixture of hydrocarbon gases like propane, butane, propylene, etc. All these hydrocarbons burn with oxygen to form carbon dioxide and water.
+
+$$\text{C}_3\text{H}_{8(g)} + 5\text{O}_{2(g)} \rightarrow 3\text{CO}_{2(g)} + 4\text{H}_2\text{O}_{(l)} + \text{Heat}$$
+
+Since heat is evolved, it is an **exothermic reaction**. As oxygen is added, it is also an oxidation. So combustion may be called as an **exothermic oxidation**. If a flame is formed, then it is called **burning**.
 
 ![](4.png)
 
@@ -329,28 +296,27 @@ C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l) + Heat
 
 A reversible reaction is a reaction in which the products can be converted back to the reactants. Represented by a double arrow.
 
-![](1.7.png)
+**General scheme:**
+```
+AB ⇌ A + B
+```
 
 *Example:* Decomposition of phosphorous pentachloride.
 ```
 PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)
 ```
 
-> Initially, the forward reaction proceeds faster than the backward reaction. After some time, the speed of both reactions become equal. At equilibrium, the amount of PCl₅ is more than that of PCl₃ and Cl₂.
-
-**MORE TO KNOW:** If hydrogen peroxide is poured on a wound, it decomposes into water and oxygen. The gaseous oxygen bubbles away, preventing the reverse reaction.
-```
-2H₂O₂(aq) ⇌ 2H₂O(l) + O₂(g)
-```
+> Initially, the forward reaction proceeds faster than the backward reaction. After some time, the speed of both reactions become equal.
 
 #### Irreversible Reactions
 
-The reaction that cannot be reversed is called irreversible reaction. Unidirectional.
+The reaction that cannot be reversed is called **irreversible reaction**. The irreversible reactions are unidirectional, i.e., they take place only in the forward direction.
 
-*Example:* Combustion of coal.
-```
-C(s) + O₂(g) → CO₂(g) + Heat
-```
+**Example:** The combustion of coal into carbon dioxide and water.
+
+$$\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat}$$
+
+In this reaction, solid coal burns with oxygen and gets converted into carbon dioxide gas. As the product is a gas, as soon as it is formed it escapes out of the reaction container. It is extremely hard to decompose a gas into a solid. Thus, the backward reaction is not possible in this case.
 
 ### Table 10.2: Differences between reversible and irreversible reactions
 
@@ -373,28 +339,23 @@ For reaction: A → B
 Rate = -d[A]/dt = +d[B]/dt
 ```
 
-Where:
-- `[A]` = Concentration of A
-- `[B]` = Concentration of B
-- Negative sign indicates decrease in concentration of A with time
-- Positive sign indicates increase in concentration of B with time
-
-### Why is reaction rate important?
-
-Faster the reaction, more will be the amount of the product in a specified time. The rate of a reaction is important for:
-- A chemist for designing a process to get a good yield of a product
-- A food processor who hopes to slow down the reactions that cause food to spoil
-
 ### 10.2.1 Factors influencing the rate of a reaction
 
-| Factor | Effect on Rate |
-|--------|---------------|
-| **Nature of the reactants** | Stronger acids react faster (e.g., HCl vs CH₃COOH with Na) |
-| **Concentration of reactants** | Higher concentration = faster reaction |
-| **Temperature** | Higher temperature = faster reaction |
-| **Pressure** | Increasing pressure (for gases) increases rate |
-| **Catalyst** | Increases reaction rate without being consumed |
-| **Surface area of reactants** | Powdered form reacts more readily than solid chunks |
+1. **Nature of the reactants**
+2. **Concentration of the reactants**
+3. **Temperature**
+4. **Catalyst**
+5. **Pressure**
+6. **Surface area of the reactants**
+
+| Factor | Effect |
+|--------|--------|
+| Nature of reactants | Stronger acids react faster (e.g., HCl vs CH₃COOH with Na) |
+| Concentration | Higher concentration = faster reaction |
+| Temperature | Higher temperature = faster reaction |
+| Catalyst | Increases reaction rate without being consumed |
+| Pressure | Increasing pressure (for gases) increases rate |
+| Surface area | Powdered form reacts more readily than solid chunks |
 
 *Example:* Manganese dioxide as catalyst for potassium chlorate decomposition.
 
@@ -407,24 +368,17 @@ In a reversible reaction, both forward and backward reactions take place simulta
 **Chemical Equilibrium:** It is state of a reversible chemical reaction in which no change in the amount of the reactants and products takes place.
 
 At equilibrium:
-```
-Rate of forward reaction = Rate of backward reaction
-```
+$$\text{Rate of forward reaction = Rate of backward reaction}$$
 
 *Example:*
 ```
 CaCO₃(s) ⇌ CaO(s) + CO₂(g)
 ```
 
-**Physical Equilibrium:** When water kept in closed vessel evaporates:
+**Physical Equilibrium:** When water kept in closed vessel evaporates, it forms water vapour. At equilibrium:
 ```
 H₂O(l) ⇌ H₂O(g)
 ```
-
-![](6.png)
-
-
-**Figure 10.6** State of physical equilibrium
 
 ### Characteristics of equilibrium
 
@@ -443,21 +397,21 @@ Self-ionisation of water:
 ```
 H₂O(l) + H₂O(l) ⇌ H₃O⁺(aq) + OH⁻(aq)
 ```
-![](1.8.png)
 
 **Ionic product of water (Kw):**
 ```
 Kw = [H₃O⁺][OH⁻] = [H⁺][OH⁻]
 ```
 
-- Unit: mol² dm⁻⁶
-- At 25°C: **Kw = 1.00 × 10⁻¹⁴**
+Unit: mol² dm⁻⁶
+
+At 25°C: **Kw = 1.00 × 10⁻¹⁴**
 
 ---
 
 ## 10.5 pH SCALE
 
-pH scale is a scale for measuring the hydrogen ion concentration in a solution. The 'p' in pH stands for 'Potenz' in German meaning 'power'. pH notation was devised by the Danish biochemist Sorensen in 1909.
+pH scale is a scale for measuring the hydrogen ion concentration in a solution. The 'p' in pH stands for 'Potenz' in German meaning 'power'. Devised by Sorensen in 1909.
 
 **pH scale:** 0 to 14
 
@@ -551,38 +505,32 @@ pH + pOH = 14 (at 25°C)
 
 ### Example Problems
 
-**Example:** Calculate the pH of 0.01 M HNO₃
+**Example 1:** Calculate the pH of 0.01 M HNO₃
 ```
 [H⁺] = 0.01 = 1 × 10⁻²
 pH = -log₁₀(10⁻²) = 2
+```
+
+**Example 2:** Calculate the pH of 0.001 M HCl
+```
+[H⁺] = 1 × 10⁻³
+pH = -log₁₀(10⁻³) = 3
+```
+
+**Example 3:** Calculate the pH of 1 × 10⁻⁴ M NaOH
+```
+[OH⁻] = 1 × 10⁻⁴
+pOH = -log₁₀(10⁻⁴) = 4
+pH = 14 - 4 = 10
 ```
 
 ---
 
 ## 10.8 PROBLEMS
 
-**Example 1:** Calculate the pH of 0.001 M HCl
+**Example 4:** Calculate the pH of a solution in which [H⁺] = 1.0 × 10⁻⁸ mol litre⁻¹
 ```
-[H⁺] = 1 × 10⁻³
-pH = -log₁₀(10⁻³) = 3
-```
-
-**Example 2:** pH of 5 × 10⁻⁵ M H₂SO₄
-```
-[H⁺] = 2 × 5 × 10⁻⁵ = 1 × 10⁻⁴
-pH = 4
-```
-
-**Example 3:** pH of 1 × 10⁻⁴ M NaOH
-```
-[OH⁻] = 1 × 10⁻⁴
-pOH = 4
-pH = 14 - 4 = 10
-```
-
-**Example 4:** pH when [H⁺] = 1.0 × 10⁻⁸ M
-```
-pH = 8
+pH = -log₁₀(10⁻⁸) = 8
 ```
 
 **Example 5:** If pH = 4.5, what is pOH?
@@ -618,18 +566,62 @@ pOH = 14 - 4.5 = 9.5
 
 ### I. Choose the correct answer
 
-| Q.No. | Question | Answer |
-|-------|----------|--------|
-| 1 | H₂(g) + Cl₂(g) → 2HCl(g) is | **b. Combination Reaction** |
-| 2 | Photolysis is caused by | **c. light** |
-| 3 | C(s) + O₂(g) → CO₂(g) + Heat is classified as | **d. i, ii and iv** (Combination, Combustion, Irreversible) |
-| 4 | Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s)↓ + 2NaCl(aq) is | **c. Precipitation** |
-| 5 | Correct statements about chemical equilibrium | **a. i, ii and iii** |
-| 6 | X(s) + 2HCl(aq) → XCl₂(aq) + H₂(g); X could be | **d. i and iv** (Zn and Mg) |
-| 7 | NOT "element + element → compound" | **c. 2CO(g) + O₂(g) → 2CO₂(g)** |
-| 8 | Represents a precipitation reaction | **c. A(aq) + B(aq) → C(s) + D(aq)** |
-| 9 | pH = 3; [OH⁻] concentration is | **c. 1 × 10⁻¹¹ M** |
-| 10 | Powdered CaCO₃ reacts faster because of | **a. large surface area** |
+1. H₂(g) + Cl₂(g) → 2HCl(g) is
+   - a. Decomposition Reaction
+   - b. **Combination Reaction** ✓
+   - c. Single Displacement Reaction
+   - d. Double Displacement Reaction
+
+2. Photolysis is a decomposition reaction caused by
+   - a. heat
+   - b. electricity
+   - c. **light** ✓
+   - d. mechanical energy
+
+3. C(s) + O₂(g) → CO₂(g) + Heat can be classified as:
+   - (i) Combination Reaction
+   - (ii) Combustion Reaction
+   - (iii) Decomposition Reaction
+   - (iv) Irreversible Reaction
+   - **Answer: d. i, ii and iv** ✓
+
+4. Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s)↓ + 2NaCl(aq) represents:
+   - a. Neutralisation
+   - b. Combustion
+   - c. **Precipitation** ✓
+   - d. Single displacement
+
+5. Correct statements about chemical equilibrium:
+   - (i) It is dynamic in nature
+   - (ii) The rate of forward and backward reactions are equal
+   - (iii) Irreversible reactions do not attain chemical equilibrium
+   - (iv) The concentration of reactants and products may be different
+   - **Answer: a. i, ii and iii** ✓
+
+6. X(s) + 2HCl(aq) → XCl₂(aq) + H₂(g). Which could be X?
+   - (i) Zn (ii) Ag (iii) Cu (iv) Mg
+   - **Answer: d. i and iv** ✓
+
+7. Which is NOT "element + element → compound"?
+   - a. C(s) + O₂(g) → CO₂(g)
+   - b. 2K(s) + Br₂(l) → 2KBr(s)
+   - c. **2CO(g) + O₂(g) → 2CO₂(g)** ✓ (compound + element)
+   - d. 4Fe(s) + 3O₂(g) → 2Fe₂O₃(s)
+
+8. Which represents a precipitation reaction?
+   - **Answer: c. A(aq) + B(aq) → C(s) + D(aq)** ✓
+
+9. The pH of a solution is 3. Its [OH⁻] concentration is
+   - a. 1 × 10⁻³ M
+   - b. 3 M
+   - c. **1 × 10⁻¹¹ M** ✓
+   - d. 11 M
+
+10. Powdered CaCO₃ reacts more rapidly than flaky CaCO₃ because of
+    - a. **large surface area** ✓
+    - b. high pressure
+    - c. high concentration
+    - d. high temperature
 
 ### II. Fill in the blanks
 
@@ -647,11 +639,11 @@ pOH = 14 - 4.5 = 9.5
 ### III. Match the following
 
 | REACTION | TYPE |
-|----------|------|
-| NH₄OH + CH₃COOH → CH₃COONH₄ + H₂O | **Neutralisation** |
-| Zn + CuSO₄ → ZnSO₄ + Cu | **Single Displacement** |
-| ZnCO₃ --Heat→ ZnO + CO₂ | **Thermal decomposition** |
-| C₂H₄ + 4O₂ → 2CO₂ + 2H₂O + Heat | **Combustion** |
+|:---|:---|
+| $\text{NH}_4\text{OH}_{(aq)} + \text{CH}_3\text{COOH}_{(aq)} \rightarrow \text{CH}_3\text{COONH}_{4(aq)} + \text{H}_2\text{O}_{(l)}$ | Single Displacement |
+| $\text{Zn}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{ZnSO}_{4(aq)} + \text{Cu}_{(s)}$ | Combustion |
+| $\text{ZnCO}_{3(s)} \xrightarrow{\text{Heat}} \text{ZnO}_{(s)} + \text{CO}_{2(g)}$ | Neutralisation |
+| $\text{C}_2\text{H}_{4(g)} + 4\text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)} + 2\text{H}_2\text{O}_{(g)} + \text{Heat}$ | Thermal decomposition |
 
 ### IV. True or False
 
@@ -707,25 +699,25 @@ Adding heat provides energy to break more bonds and thus speeds up the reaction.
 
 ### VIII. Solve the following problems
 
-**1. Lemon juice pH = 2:**
-```
-[H⁺] = 10⁻² = 0.01 M
-```
+1. **Lemon juice pH = 2:**
+   ```
+   [H⁺] = 10⁻² = 0.01 M
+   ```
 
-**2. pH of 1.0 × 10⁻⁴ M HNO₃:**
-```
-pH = -log(10⁻⁴) = 4
-```
+2. **pH of 1.0 × 10⁻⁴ M HNO₃:**
+   ```
+   pH = -log(10⁻⁴) = 4
+   ```
 
-**3. pH of 1.0 × 10⁻⁵ M KOH:**
-```
-pOH = 5, pH = 14 - 5 = 9
-```
+3. **pH of 1.0 × 10⁻⁵ M KOH:**
+   ```
+   pOH = 5, pH = 14 - 5 = 9
+   ```
 
-**4. [OH⁻] = 1 × 10⁻¹¹ M:**
-```
-pOH = 11, pH = 14 - 11 = 3
-```
+4. **[OH⁻] = 1 × 10⁻¹¹ M:**
+   ```
+   pOH = 11, pH = 14 - 11 = 3
+   ```
 
 ---
 
