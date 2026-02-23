@@ -1,38 +1,7 @@
----
-title: 'PLANT AND ANIMAL  HORMONES'
-weight: 16
 
----
-# PLANT AND ANIMAL HORMONES
+# Plant and Animal Hormones
 
-## Learning Objectives
-At the end of this lesson the students will be able to:
-- Define hormone
-- List out plant hormones
-- Classify plant hormones into growth promoters and growth inhibitors
-- Differentiate the physiological effects of various plant hormones
-- Understand how plant hormones control and coordinate various physiological activities in plants
-- Know the various endocrine glands in the human body
-- Identify the location and structure of the endocrine glands in the human body
-- Differentiate exocrine and endocrine glands
-- Know the specific site of action and their functions
-- Identify the disorders which occur due to decreased or increased hormone
-
----
-
-## Introduction
-
-The word hormone is derived from the Greek word "hormon" meaning "to excite". The function of control and coordination in plants is performed by chemical substances produced by the plants called plant hormones. In plants several cells are capable of producing hormones. These phytohormones are transported to different parts of the plants to perform various physiological functions.
-
-Endocrine glands in vertebrate animals possess a diversified communication system to co-ordinate physiological and metabolic functions by chemical integration. The endocrine system acts through chemical messengers known as hormones which are produced by specialized glands. Physiological processes such as digestion, metabolism, growth, development and reproduction are controlled by hormones.
-
----
-
-## 16.1 Plant Hormones
-
-Plant hormones are organic molecules that are produced at extremely low concentration in plants. These molecules control morphological, physiological and biochemical activities.
-
-### Types of Plant Hormones
+## Types of Plant Hormones
 
 There are five major classes of plant hormones:
 
@@ -42,430 +11,359 @@ There are five major classes of plant hormones:
 4. **Abscisic Acid (ABA)**
 5. **Ethylene**
 
-Among all these plant hormones, **auxins, cytokinins and gibberellins promote plant growth** while **abscisic acid and ethylene inhibit plant growth**.
-![](img1.png)
+Among all these plant hormones, **auxins, cytokinins, and gibberellins** promote plant growth while **abscisic acid and ethylene** inhibit plant growth.
 
 ---
-
 
 ## 16.1.1 Auxins
 
 Auxins (Gk. *auxein* = to grow) were the first plant hormones discovered. The term auxin was introduced by Kogl and Haagen-Smith (1931). Auxins are produced at the tip of stems and roots from where they migrate to the zone of elongation.
 
-Charles Darwin (1880) observed unilateral growth and curvature of canary grass (*Phalaris canariensis*) coleoptiles. He came to the conclusion that some 'influence' was transmitted from the tip of the coleoptile to the basal region. This 'influence' was later identified as Auxin.
+Charles Darwin (1880) observed unilateral growth and curvature of canary grass (*Phalaris canariensis*) coleoptiles. He concluded that some 'influence' was transmitted from the tip of the coleoptile to the basal region. This 'influence' was later identified as Auxin.
 
 ### 16.1.1.1 Went's Experiment
 
-**Frits Warmolt Went** (1903–1990), a Dutch biologist demonstrated the existence and effect of auxin in plants. He did a series of experiments in *Avena*.
+Frits Warmolt Went (1903–1990), a Dutch biologist, demonstrated the existence and effect of auxin in plants through a series of experiments in *Avena*:
 
-- **First experiment:** He removed the tips of *Avena* coleoptiles. The cut tips did not grow, indicating that the tips produced something essential for growth.
-- **Second experiment:** He placed agar blocks on the decapitated coleoptile tips. The coleoptile tips did not show any response.
-- **Third experiment:** He placed the detached coleoptile tips on agar blocks. After an hour, he discarded the tips and placed this agar block on the decapitated coleoptile. It grew straight up, indicating that some chemical had diffused from the cut coleoptile tips into the agar block which stimulated the growth.
+- **First experiment**: Removed the tips of *Avena* coleoptiles. The cut tips did not grow, indicating that the tips produced something essential for growth.
+- **Second experiment**: Placed agar blocks on the decapitated coleoptile tips. No response was observed.
+- **Third experiment**: Placed detached coleoptile tips on agar blocks. After an hour, he discarded the tips and placed this agar block on the decapitated coleoptile. It grew straight up, indicating that some chemical had diffused from the cut coleoptile tips into the agar block which stimulated growth.
 
-From his experiments, Went concluded that a chemical diffusing from the tip of coleoptiles was responsible for growth, and he named it **"Auxin"** meaning 'to grow'.
-
-![](img2.png)
+Went concluded that a chemical diffusing from the tip of coleoptiles was responsible for growth, and he named it **"Auxin"** meaning 'to grow'.
 
 ### Types of Auxins
 
 | Type | Description | Examples |
 |------|-------------|----------|
-| **Natural Auxins** | Auxins produced by the plants | IAA (Indole-3-Acetic Acid), PAA (Phenyl Acetic Acid), IAN (Indole-3-Acetonitrile) |
-| **Synthetic Auxins** | Artificially synthesized auxins with auxin-like properties | 2,4-D (2,4-Dichlorophenoxy Acetic Acid), IBA (Indole-3-Butyric Acid), NAA (α-Naphthalene Acetic Acid), 2,4,5-T |
+| **Natural Auxins** | Produced by plants | IAA (Indole-3-Acetic Acid), PAA (Phenyl Acetic Acid), IAN (Indole-3-Acetonitrile) |
+| **Synthetic Auxins** | Artificially synthesized | 2,4-D (2,4-Dichlorophenoxy Acetic Acid), IBA (Indole-3-Butyric Acid), NAA (α-Naphthalene Acetic Acid), 2,4,5-T |
 
 ### Physiological Effects of Auxins
 
-1. **Cell Elongation:** Auxins promote the elongation of stems and coleoptiles
-2. **Root Formation:** Induce root formation at low concentration; inhibit at higher concentration
-3. **Apical Dominance:** Auxins produced by apical buds suppress growth of lateral buds
-4. **Parthenocarpy:** Seedless fruits without fertilization (e.g., Watermelon, Grapes, Lime)
-5. **Prevents Abscission:** Auxins prevent the formation of abscission zone
-
-![](img3.png)
+1. Promote elongation of stems and coleoptiles
+2. Induce root formation at low concentration; inhibit at higher concentration
+3. **Apical dominance**: Auxins produced by apical buds suppress growth of lateral buds
+4. **Parthenocarpy**: Induce seedless fruits without fertilization (e.g., Watermelon, Grapes, Lime)
+5. Prevent formation of abscission zone
 
 ---
 
 ## 16.1.2 Cytokinins
 
-Cytokinins (*Cytos* - cell; *kinesis* - division) are plant hormones that promote cell division or cytokinesis in plant cells. First isolated from Herring fish sperm. **Zeatin** was the cytokinin isolated from *Zea mays*. Found abundantly in liquid endosperm of coconut.
+Cytokinins (*Cytos* = cell; *kinesis* = division) are plant hormones that promote cell division or cytokinesis in plant cells. First isolated from Herring fish sperm. **Zeatin** was the cytokinin isolated from *Zea mays*. Found abundantly in liquid endosperm of coconut.
 
 ### Physiological Effects of Cytokinins
 
-1. Induces cell division (cytokinesis) in the presence of auxins
-2. Causes cell enlargement
+1. Induce cell division (cytokinesis) in the presence of auxins
+2. Cause cell enlargement
 3. Essential for morphogenesis (formation of new organs from callus in tissue culture)
-4. Promotes growth of lateral buds even in presence of apical bud
-5. **Richmond-Lang Effect:** Delays the process of ageing in plants
+4. Promote growth of lateral buds even in presence of apical bud
+5. **Richmond-Lang effect**: Delay senescence (aging) in plants
 
 ---
 
 ## 16.1.3 Gibberellins
 
-Gibberellins are the most abundantly found plant hormones. **Kurosawa (1926)** observed Bakanae disease or "foolish seedling disease" in rice crops. This internodal elongation was caused by fungus *Gibberella fujikuroi*. The active substance was identified as Gibberellic acid.
+The most abundantly found plant hormones. Kurosawa (1926) observed **Bakanae disease** (foolish seedling disease) in rice crops. This internodal elongation was caused by fungus *Gibberella fujikuroi*. The active substance was identified as Gibberellic acid.
 
 ### Physiological Effects of Gibberellins
 
-1. **Stem Elongation:** Stimulates extraordinary elongation of internode (e.g., Corn and sugarcane)
-2. **Bolting:** Treatment of rosette plants induces sudden shoot elongation followed by flowering
-3. **Male Flowers:** Promotes production of male flowers in monoecious plants (Cucurbits)
-4. **Dormancy:** Breaks dormancy of potato tubers
-5. **Parthenocarpy:** More efficient than auxins in inducing seedless fruits
-
-![](img4.png)
+1. Stimulate extraordinary elongation of internodes (e.g., Corn, Sugarcane)
+2. **Bolting**: Treatment of rosette plants with gibberellin induces sudden shoot elongation followed by flowering
+3. Promote production of male flowers in monoecious plants (Cucurbits)
+4. Break dormancy of potato tubers
+5. More efficient than auxins in inducing parthenocarpic fruits
 
 ---
 
 ## 16.1.4 Abscisic Acid (ABA)
 
-Abscisic acid is a **growth inhibitor** which regulates abscission and dormancy. It increases tolerance of plants to various kinds of stress, so it is also called **stress hormone**. Found in chloroplast of plants.
+A growth inhibitor which regulates abscission and dormancy. Increases tolerance of plants to various kinds of stress → called **stress hormone**. Found in chloroplast of plants.
 
 ### Physiological Effects of Abscisic Acid
 
-1. **Abscission:** Promotes separation of leaves, flowers and fruits from branch
-2. **Stomatal Closure:** During water stress and drought conditions, ABA causes stomatal closure
-3. **Senescence:** Promotes senescence in leaves by causing loss of chlorophyll
-4. **Bud Dormancy:** Induces bud dormancy towards approach of winter in trees like birch
-5. **Lateral Bud Growth:** Powerful inhibitor of lateral bud growth in plants
+1. Promotes abscission (separation of leaves, flowers, fruits from branch)
+2. Causes stomatal closure during water stress and drought conditions
+3. Promotes senescence in leaves by causing loss of chlorophyll
+4. Induces bud dormancy towards winter in trees like birch
+5. Powerful inhibitor of lateral bud growth in tomato
 
-![](img5.png)
 ---
 
 ## 16.1.5 Ethylene
 
-Ethylene is a **gaseous plant hormone** and **growth inhibitor**. Mainly concerned with maturation and ripening of fruits. Maximum synthesis occurs during ripening of fruits like apples, bananas and melons.
+A **gaseous plant hormone** and growth inhibitor. Mainly concerned with maturation and ripening of fruits. Maximum synthesis occurs during ripening of apples, bananas, and melons.
 
-### Activity
-*Place unripe tomatoes in a paper bag with ripe bananas. The banana produces ethylene gas, causing tomatoes to ripen.*
+### Activity: Fruit Ripening
+
+Place unripe tomatoes in a paper bag with a ripe banana. The banana produces ethylene gas, causing tomatoes to ripen. Tomatoes without banana remain unripe.
 
 ### Physiological Effects of Ethylene
 
-1. **Fruit Ripening:** Promotes ripening of fruits (Tomato, Apple, Mango, Banana)
-2. **Inhibits Elongation:** Inhibits elongation of stem and root in dicots
-3. **Senescence:** Hastens senescence of leaves and flowers
-4. **Abscission:** Stimulates formation of abscission zone, leading to premature shedding
-5. **Dormancy:** Breaks dormancy of buds, seeds and storage organs
-
-![](img6.png)
----
-
-## Concept Map: Plant Hormones
-
+1. Promotes ripening of fruits (Tomato, Apple, Mango, Banana)
+2. Inhibits elongation of stem and root in dicots
+3. Hastens senescence of leaves and flowers
+4. Stimulates formation of abscission zone → premature shedding
+5. Breaks dormancy of buds, seeds, and storage organs
 
 ---
 
-## 16.2 Human Endocrine Glands
+# 16.2 Human Endocrine Glands
 
-Endocrine glands in animals possess a versatile communication system to coordinate biological functions. **Exocrine glands** have specific ducts to carry their secretions (e.g., salivary glands, mammary glands, sweat glands). **Endocrine glands** are ductless glands; their secretions (hormones) diffuse into the bloodstream and act on specific target organs.
+Endocrine glands possess a versatile communication system to coordinate biological functions.
 
-> **Endocrinology:** Branch of biology dealing with study of endocrine glands and their physiology.
-> **Thomas Addison:** Father of Endocrinology
-> **W.M. Bayliss and E.H. Starling:** Introduced the term hormone in 1909; discovered secretin
+| Feature | Endocrine Glands | Exocrine Glands |
+|---------|------------------|-----------------|
+| Ducts | Ductless | Have specific ducts |
+| Secretions | Hormones (minute quantities) | Enzymes, other substances |
+| Transport | Diffuse into bloodstream | Through ducts to target site |
+| Examples | Pituitary, Thyroid, Adrenal | Salivary, mammary, sweat glands |
+
+> **Endocrinology**: Branch of biology dealing with endocrine glands and their physiology. **Thomas Addison** = Father of Endocrinology. **W.M. Bayliss and E.H. Starling** (1909) introduced the term "hormone" and discovered secretin.
 
 ### Endocrine Glands in Humans
 
-| Gland | Location | Main Hormones |
-|-------|----------|---------------|
-| Pituitary gland | Base of midbrain | Multiple (see below) |
-| Thyroid gland | Neck, around trachea | T3, T4 |
-| Parathyroid gland | Posterior surface of thyroid | Parathormone |
-| Pancreas (Islets of Langerhans) | Behind stomach | Insulin, Glucagon |
-| Adrenal gland | Above kidneys | Cortisol, Aldosterone, Adrenaline, Noradrenaline |
-| Gonads (Testes/Ovary) | Pelvic region | Testosterone / Estrogen, Progesterone |
-| Thymus gland | Upper chest | Thymosin |
+- Pituitary gland
+- Thyroid gland
+- Parathyroid gland
+- Pancreas (Islets of Langerhans)
+- Adrenal gland (Cortex and Medulla)
+- Gonads (Testes and Ovary)
+- Thymus gland
 
 ---
 
 ## 16.2.1 Pituitary Gland
 
-The pituitary gland (hypophysis) is a pea-shaped compact mass of cells located at the base of the midbrain, attached to the hypothalamus by a pituitary stalk. Composed of:
+Pea-shaped compact mass of cells located at the base of midbrain, attached to hypothalamus by pituitary stalk. Called the **"Master gland"** as it regulates and controls other endocrine glands.
+
+### Structure
 - **Anterior lobe (Adenohypophysis)**
 - **Posterior lobe (Neurohypophysis)**
 - Intermediate lobe (non-existent in humans)
 
-Called the **"Master gland"** because it regulates and controls other endocrine glands.
+### Hormones of Anterior Pituitary
 
-### Hormones of Anterior Pituitary (Adenohypophysis)
+| Hormone | Function |
+|---------|----------|
+| **Growth Hormone (GH)** | Development and enlargement of all tissues; stimulates muscle, cartilage, long bone growth; controls cell metabolism |
+| **Thyroid Stimulating Hormone (TSH)** | Controls growth and activities of thyroid gland |
+| **Adrenocorticotropic Hormone (ACTH)** | Stimulates adrenal cortex; influences protein synthesis |
+| **Gonadotropic Hormones (GTH)** | FSH and LH - essential for normal development of gonads |
+| **Prolactin (PRL)** | Initiates mammary gland development; stimulates milk production |
 
-| Hormone | Abbreviation | Function |
-|---------|--------------|----------|
-| Growth Hormone | GH | Development and enlargement of all tissues; stimulates growth of muscles, cartilage and long bones |
-| Thyroid Stimulating Hormone | TSH | Controls growth and activities of thyroid gland |
-| Adrenocorticotropic Hormone | ACTH | Stimulates adrenal cortex; influences protein synthesis |
-| Follicle Stimulating Hormone | FSH | Part of Gonadotropic hormones; sperm formation in males, ovarian follicle growth in females |
-| Luteinizing Hormone | LH | Part of Gonadotropic hormones; testosterone secretion in males, ovulation in females |
-| Prolactin | PRL | Initiates mammary gland development; stimulates milk production |
-
-#### Disorders of Growth Hormone
+#### Growth Hormone Disorders
 
 | Condition | Cause | Characteristics |
 |-----------|-------|---------------|
 | **Dwarfism** | Decreased GH in children | Stunted growth, delayed skeletal formation, mental disability |
-| **Gigantism** | Oversecretion of GH in children | Overgrowth of all body tissues, abnormal height increase |
-| **Acromegaly** | Excess GH in adults | Abnormal enlargement of head, face, hands and feet |
+| **Gigantism** | Oversecretion of GH in children | Overgrowth of all tissues, abnormal height increase |
+| **Acromegaly** | Excess GH in adults | Abnormal enlargement of head, face, hands, feet |
 
-### Hormones of Posterior Pituitary (Neurohypophysis)
+#### FSH and LH Functions
 
-| Hormone | Alternative Name | Function |
-|---------|------------------|----------|
-| **Vasopressin** | Antidiuretic Hormone (ADH) | Increases water reabsorption in kidney tubules; reduces urine output |
-| **Oxytocin** | - | Uterine contraction during childbirth; milk ejection from mammary glands |
+**FSH (Follicle Stimulating Hormone):**
+- Male: Stimulates germinal epithelium of testes for sperm formation
+- Female: Initiates growth and development of ovarian follicles
 
-**Diabetes Insipidus:** Deficiency of ADH causing reduced water reabsorption and increased urine output (polyuria).
+**LH (Luteinizing Hormone):**
+- Male: Promotes Leydig cells to secrete testosterone
+- Female: Causes ovulation, develops corpus luteum, produces estrogen and progesterone
 
-![](img7.png)
+### Hormones of Posterior Pituitary
+
+| Hormone | Function | Deficiency |
+|---------|----------|------------|
+| **Vasopressin / ADH** | Increases water reabsorption in kidney tubules; reduces urine output | Diabetes insipidus (polyuria) |
+| **Oxytocin** | Uterine contraction during childbirth; milk ejection from mammary glands | — |
+
+> **Melatonin**: Hormone from pineal gland; "time messenger" signaling nighttime. Light exposure at night decreases melatonin, interrupting sleep.
+
 ---
 
 ## 16.2.2 Thyroid Gland
 
-Composed of two distinct lobes lying on either side of the trachea, connected by the **isthmus**. Composed of glandular follicles filled with colloid material called **thyroglobulin**.
+Composed of two distinct lobes on either side of trachea, connected by **isthmus**. Contains glandular follicles filled with colloid material called **thyroglobulin**.
 
-**Requirements:** Tyrosine (amino acid) and **iodine** for hormone formation (120 μg iodine/day).
-
-![](img8.png)
-
-### Thyroid Hormones
-- **Triiodothyronine (T3)**
-- **Tetraiodothyronine or Thyroxine (T4)**
+**Hormones**: Triiodothyronine (**T3**) and Tetraiodothyronine/Thyroxine (**T4**)
 
 ### Functions of Thyroid Hormones
 
 - Production of energy by maintaining Basal Metabolic Rate (BMR)
-- Maintains normal body temperature
-- Influences activity of central nervous system
-- Controls growth and bone formation
-- Essential for normal physical, mental and personality development
-- Known as **"personality hormone"**
-- Regulates cell metabolism
+- Maintain normal body temperature
+- Influence central nervous system activity
+- Control growth and bone formation
+- Essential for physical, mental, and personality development → **"Personality hormone"**
+- Regulate cell metabolism
+
+> Requires **120 μg of iodine** daily for thyroxine production.
 
 ### Thyroid Dysfunction
 
 #### Hypothyroidism (Decreased secretion)
 
-| Disorder | Cause | Symptoms |
-|----------|-------|----------|
-| **Simple Goitre** | Inadequate iodine in diet | Enlargement of thyroid gland, swelling in neck |
+| Condition | Cause | Symptoms |
+|-----------|-------|----------|
+| **Simple Goitre** | Inadequate iodine in diet | Enlargement of thyroid gland, neck swelling |
 | **Cretinism** | Decreased thyroid hormones in children | Stunted growth, mental defect, lack of skeletal development, deformed bones |
 | **Myxoedema** | Deficiency in adults | Mentally sluggish, weight gain, puffiness of face and hands |
 
 #### Hyperthyroidism (Excess secretion)
 
-| Disorder | Symptoms |
-|----------|----------|
-| **Grave's Disease** | Protrusion of eyeballs (Exophthalmia), increased metabolic rate, high body temperature, profuse sweating, weight loss, nervousness |
+| Condition | Symptoms |
+|-----------|----------|
+| **Grave's Disease** | Protrusion of eyeballs (exophthalmia), increased metabolic rate, high temperature, profuse sweating, weight loss, nervousness |
 
 ---
 
 ## 16.2.3 Parathyroid Gland
 
-Four small oval bodies situated on the posterior surface of thyroid lobes. Chief cells secrete **Parathormone (PTH)**.
-
-![](img9.png)
+Four small oval bodies on posterior surface of thyroid lobes. Chief cells secrete **Parathormone (PTH)**.
 
 ### Functions
-- Regulates calcium and phosphorus metabolism
-- Acts on bone, kidney and intestine to maintain blood calcium levels
+Regulates calcium and phosphorus metabolism; acts on bone, kidney, and intestine to maintain blood calcium levels.
 
-### Parathyroid Dysfunction
-
-**Tetany:** Removal of parathyroid glands causes decreased parathormone secretion, leading to:
-- Muscle spasms (sustained contraction of muscles in face, larynx, hands and feet)
-- Painful cramps of the limbs
+### Dysfunction
+**Tetany**: Removal during thyroidectomy causes decreased parathormone → muscle spasms, painful cramps in face, larynx, hands, feet.
 
 ---
 
 ## 16.2.4 Pancreas (Islets of Langerhans)
 
-Elongated, yellowish gland in the loop of stomach and duodenum. Both **exocrine** (digestive enzymes) and **endocrine** (hormones).
+Elongated, yellowish gland in loop of stomach and duodenum. Both exocrine (digestive enzymes) and endocrine.
 
-![](img10.png)
-
-**Islets of Langerhans** contain:
+**Islets of Langerhans**:
 - **Alpha cells** → secrete **Glucagon**
 - **Beta cells** → secrete **Insulin**
 
-> **Discovery:** Frederick Banting, Charles Best and MacLeod discovered human insulin in 1921; first used in treatment on January 11, 1922.
+> Discovered by Fredrick Banting, Charles Best, and MacLeod (1921). First used to treat diabetes on January 11, 1922.
 
 ### Functions
 
 | Hormone | Function |
 |---------|----------|
-| **Insulin** | Converts glucose to glycogen (stored in liver and muscles); promotes glucose transport into cells; **decreases** blood glucose |
-| **Glucagon** | Breaks down glycogen to glucose in liver; **increases** blood glucose |
+| **Insulin** | Converts glucose to glycogen (stored in liver and muscles); promotes glucose transport into cells; decreases blood glucose |
+| **Glucagon** | Breaks down glycogen to glucose in liver; increases blood glucose |
 
 ### Diabetes Mellitus
-
-Caused by **insulin deficiency**:
-
-| Symptom | Description |
-|---------|-------------|
-| Hyperglycemia | Increased blood sugar level |
-| Glycosuria | Excretion of excess glucose in urine |
-| Polyuria | Frequent urination |
-| Polydipsia | Increased thirst |
-| Polyphagia | Increased appetite |
+Caused by insulin deficiency:
+- Hyperglycemia (increased blood sugar)
+- Glycosuria (glucose in urine)
+- Polyuria (frequent urination)
+- Polydipsia (increased thirst)
+- Increased appetite
 
 ---
 
 ## 16.2.5 Adrenal Gland
 
-Located above each kidney (suprarenal glands). Two distinct parts:
+Located above each kidney (suprarenal). Two distinct parts:
 
-### Adrenal Cortex (Outer part)
+### Adrenal Cortex (Outer)
 Three layers: zona glomerulosa, zona fasciculata, zona reticularis
 
 | Hormone Type | Secreted By | Hormones | Functions |
 |--------------|-------------|----------|-----------|
 | **Glucocorticoids** | Zona fasciculata | Cortisol, Corticosterone | Regulate cell metabolism; stimulate glucose formation from glycogen; anti-inflammatory and anti-allergic |
-| **Mineralocorticoids** | Zona glomerulosa | Aldosterone | Reabsorb sodium ions; increase potassium excretion; regulate electrolyte balance, fluid volume, osmotic pressure and blood pressure |
+| **Mineralocorticoids** | Zona glomerulosa | Aldosterone | Reabsorb sodium from renal tubules; increase potassium excretion; regulate electrolyte balance, fluid volume, blood pressure |
 
-> **Life-saving hormone:** Cortisol maintains body in living condition and recovers from severe stress reactions.
+> **Cortisol** = "Life-saving hormone" – maintains body in living condition during shock.
 
-### Adrenal Medulla (Inner part)
-Composed of chromaffin cells; richly supplied with sympathetic and parasympathetic nerves.
+### Adrenal Medulla (Inner)
+Composed of chromaffin cells. Secretes **"Emergency hormones"** or **"Flight, fright, and fight hormones"**:
 
-| Hormone | Alternative Name | Functions |
-|---------|------------------|-----------|
-| **Epinephrine** | Adrenaline | Converts glycogen to glucose; increases heartbeat and blood pressure; increases respiration rate; dilates pupil; decreases blood flow to skin and viscera |
-| **Norepinephrine** | Noradrenaline | Similar actions to epinephrine |
-
-Called **"Emergency hormones"** or **"Flight, fright and fight hormones"** - produced during stress and emotion.
-
-![](img11.png)
+| Hormone | Functions |
+|---------|-----------|
+| **Epinephrine (Adrenaline)** | Converts glycogen to glucose; increases heartbeat and blood pressure; increases respiration rate; dilates pupil; decreases skin blood flow |
+| **Norepinephrine (Noradrenaline)** | Similar actions to epinephrine |
 
 ---
 
 ## 16.2.6 Reproductive Glands (Gonads)
 
 ### Testes (Male)
-- Composed of seminiferous tubules, Leydig cells and Sertoli cells
-- **Leydig cells** form endocrine part; secrete **Testosterone**
+- Seminiferous tubules, Leydig cells, Sertoli cells
+- **Leydig cells** secrete **Testosterone**
 
-#### Functions of Testosterone
+**Functions of Testosterone:**
 - Influences spermatogenesis
 - Stimulates protein synthesis and muscular growth
-- Develops secondary sexual characters (body/facial hair, deep voice)
+- Develops secondary sexual characteristics (body/facial hair, deep voice)
 
 ### Ovary (Female)
-Located in pelvic cavity; secrete:
 - **Estrogen** (from Graafian follicles)
 - **Progesterone** (from corpus luteum)
 
-#### Functions of Estrogens
-- Brings about puberty changes
+**Functions of Estrogen:**
+- Puberty changes
 - Initiates oogenesis
-- Stimulates maturation of ovarian follicles
-- Develops secondary sexual characters (breast development, high-pitched voice)
+- Stimulates ovarian follicle maturation
+- Develops secondary sexual characteristics (breast development, high-pitched voice)
 
-#### Functions of Progesterone
-- Responsible for premenstrual changes of uterus
-- Prepares uterus for implantation of fertilized ovum
+**Functions of Progesterone:**
+- Premenstrual uterine changes
+- Prepares uterus for implantation
 - Maintains pregnancy
-- Essential for formation of placenta
+- Essential for placenta formation
 
 ---
 
 ## 16.2.7 Thymus Gland
 
-Partly endocrine and partly lymphoid gland. Located in upper chest covering lower end of trachea.
+Partly endocrine, partly lymphoid. Located in upper chest covering lower trachea.
 
-**Hormone:** **Thymosin**
+**Hormone**: **Thymosin**
 
-### Functions of Thymosin
+**Functions:**
 - Stimulatory effect on immune function
 - Stimulates production and differentiation of T-lymphocytes
 
-![](img12.png)
+---
+
+# Points to Remember
+
+- Auxins are produced at tips of stems and roots; migrate to zone of elongation
+- Cytokinins promote cell division/cytokinesis
+- Gibberellins induce seedless fruit and parthenocarpic fruits
+- Abscisic acid = growth inhibitor; regulates abscission and dormancy; stress hormone
+- Ethylene = gaseous hormone; concerned with maturation and ripening
+- Pituitary gland = "Master gland"
+- Thyroid hormones: T3 and T4
+- Parathormone maintains blood calcium levels
+- Pancreas secretes insulin and glucagon to maintain blood glucose
+- Adrenal cortex: cortisol and aldosterone; Adrenal medulla: epinephrine and norepinephrine
+- Sex glands: testes (testosterone) and ovaries (estrogen/progesterone)
 
 ---
 
-## Points to Remember
+# Textbook Evaluation
 
-- Auxins are produced at the tip of stems and roots, migrating to zone of elongation
-- Cytokinins promote cell division (cytokinesis) in plant cells
-- Gibberellins induce formation of seedless fruit and parthenocarpic fruits
-- Abscisic acid is a growth inhibitor regulating abscission and dormancy; increases stress tolerance
-- Ethylene is a gaseous hormone mainly concerned with fruit maturation and ripening
-- Pituitary gland is the "Master gland" regulating other endocrine glands
-- Thyroid hormones: T3 (Triiodothyronine) and T4 (Thyroxine)
-- Parathormone maintains blood calcium levels acting on bone, kidney and intestine
-- Pancreas secretes insulin and glucagon to maintain blood glucose levels
-- Adrenal cortex secretes cortisol and aldosterone; adrenal medulla secretes epinephrine and norepinephrine
-- Sex glands: testes (testosterone) and ovaries (estrogen, progesterone)
+## I. Choose the Correct Answer
 
----
+1. Gibberellins cause: **b) Elongation of dwarf plants**
+2. Hormone with positive effect on apical dominance: **b) Auxin**
+3. Not naturally found in plants: **a) 2,4-D**
+4. Avena coleoptile test by: **d) F.W. Went**
+5. LH secreted by: **c) Anterior pituitary**
+6. Exocrine gland: **c) Salivary gland**
+7. Both exocrine and endocrine: **a) Pancreas**
+8. "Master Gland": **b) Pituitary gland**
 
-## Concept Map: Human Endocrine Glands
+## II. Fill in the Blanks
 
+1. **Auxin** causes cell elongation, apical dominance and prevents abscission
+2. **Ethylene** is a gaseous hormone involved in abscission and fruit ripening
+3. **Abscisic acid** causes stomatal closure
+4. Gibberellins induce stem elongation in **rosette/dwarf** plants
+5. Hormone with negative effect on apical dominance: **Cytokinin**
+6. Calcium metabolism controlled by **Parathormone**
+7. Beta cells secrete **Insulin**
+8. Thyroid gland controlled by **Thyroid Stimulating Hormone (TSH)**
+9. Decreased thyroid in children leads to **Cretinism**
 
----
+## III. Matching
 
-## TEXTBOOK EVALUATION
-
-### I. Choose the correct answer
-
-1. Gibberellins cause:
-   - a) Shortening of genetically tall plants
-   - b) **Elongation of dwarf plants** ✓
-   - c) Promotion of rooting
-   - d) Yellowing of young leaves
-
-2. The hormone which has positive effect on apical dominance is:
-   - a) Cytokinin
-   - b) **Auxin** ✓
-   - c) Gibberellin
-   - d) Ethylene
-
-3. Which one of the following hormones is naturally not found in plants:
-   - a) **2,4-D** ✓
-   - b) GA3
-   - c) Gibberellin
-   - d) IAA
-
-4. Avena coleoptile test was conducted by:
-   - a) Darwin
-   - b) N. Smit
-   - c) Paal
-   - d) **F.W. Went** ✓
-
-5. LH is secreted by:
-   - a) Adrenal gland
-   - b) Thyroid gland
-   - c) **Anterior pituitary** ✓
-   - d) Hypothalamus
-
-6. Identify the exocrine gland:
-   - a) Pituitary gland
-   - b) Adrenal gland
-   - c) **Salivary gland** ✓
-   - d) Thyroid gland
-
-7. Which organ acts as both exocrine and endocrine gland:
-   - a) **Pancreas** ✓
-   - b) Kidney
-   - c) Liver
-   - d) Lungs
-
-8. Which one is referred as "Master Gland"?
-   - a) Pineal gland
-   - b) **Pituitary gland** ✓
-   - c) Thyroid gland
-   - d) Adrenal gland
-
-### II. Fill in the blanks
-
-1. **Auxin** causes cell elongation, apical dominance and prevents abscission.
-2. **Ethylene** is a gaseous hormone involved in abscission of organs and acceleration of fruit ripening.
-3. **Abscisic acid** causes stomatal closure.
-4. Gibberellins induce stem elongation in **rosette/dwarf** plants.
-5. The hormone which has negative effect on apical dominance is **cytokinin**.
-6. Calcium metabolism of the body is controlled by **parathormone/parathyroid hormone**.
-7. In the islets of Langerhans, beta cells secrete **insulin**.
-8. The growth and functions of thyroid gland is controlled by **TSH/Thyroid Stimulating Hormone**.
-9. Decreased secretion of thyroid hormones in children leads to **cretinism**.
-
-### III. Match the following
-
-**a) Column I with Columns II and III**
+### a) Column Matching
 
 | Column I | Column II | Column III |
 |----------|-----------|------------|
@@ -473,125 +371,110 @@ Partly endocrine and partly lymphoid gland. Located in upper chest covering lowe
 | Ethylene | Fruits | Ripening |
 | Abscisic acid | Chloroplast | Abscission |
 | Cytokinin | Coconut milk | Cell division |
-| Gibberellins | Gibberella fujikuroi | Internodal elongation |
+| Gibberellins | *Gibberella fujikuroi* | Internodal elongation |
 
-**b) Hormones with their deficiency states**
+### b) Hormone-Disorder Matching
 
 | Hormone | Disorder |
 |---------|----------|
 | Thyroxine | Simple goitre |
 | Insulin | Diabetes mellitus |
 | Parathormone | Tetany |
-| Growth hormone | Acromegaly/Gigantism/Dwarfism |
+| Growth hormone | Acromegaly |
 | ADH | Diabetes insipidus |
 
-### IV. State whether True or False
+## IV. True or False
 
-1. **True** - A plant hormone concerned with stimulation of cell division and promotion of nutrient mobilization is cytokinin.
-2. **True** - Gibberellins cause parthenocarpy in tomato.
-3. **False** - Ethylene **accelerates** senescence of leaves, flowers and fruits.
-4. **True** - Exophthalmic goiter is due to over secretion of thyroxine.
-5. **False** - Pituitary gland is divided into **two** lobes (anterior and posterior).
-6. **False** - Estrogen is secreted by **Graafian follicles** of ovary.
+1. Cytokinin stimulates cell division and nutrient mobilization: **TRUE**
+2. Gibberellins cause parthenocarpy in tomato: **TRUE**
+3. Ethylene retards senescence: **FALSE** (It hastens senescence)
+4. Exophthalmic goitre due to over-secretion of thyroxine: **TRUE**
+5. Pituitary divided into four lobes: **FALSE** (Two lobes in humans)
+6. Estrogen secreted by corpus luteum: **FALSE** (Secreted by Graafian follicles; progesterone by corpus luteum)
 
-### V. Assertion and Reasoning
+## V. Assertion and Reasoning
 
-1. **(a)** Both A and R are true and R is correct explanation of A
-2. **(a)** Both A and R are true and R is correct explanation of A
-3. **(a)** Both A and R are true and R is correct explanation of A
+1. **(a)** Both true; R correctly explains A
+2. **(a)** Both true; R correctly explains A  
+3. **(a)** Both true; R correctly explains A
 
-### VI. Answer in a word or sentence
+## VI. Answer in a Word or Sentence
 
-1. **Gibberellin** promotes production of male flowers in Cucurbits.
-2. **2,4-D / NAA / IBA** (any synthetic auxin)
-3. **Gibberellin** induces parthenocarpy in tomatoes.
-4. **Prolactin (PRL)** / **Oxytocin** is responsible for milk secretion/ejection.
-5. **Aldosterone** and **ADH/Vasopressin** regulate water and mineral metabolism.
-6. **Adrenaline/Epinephrine** (or Noradrenaline) is secreted during emergency.
-7. **Pancreas** secretes digestive enzymes and hormones.
-8. **Pituitary and hypothalamus** (or Pineal gland) are associated.
+1. Male flowers in Cucurbits: **Gibberellin**
+2. Synthetic auxin: **2,4-D / NAA / IBA**
+3. Parthenocarpy in tomatoes: **Gibberellins**
+4. Milk secretion after childbirth: **Prolactin / Oxytocin**
+5. Water and mineral metabolism: **Aldosterone / ADH**
+6. Emergency hormone: **Epinephrine/Adrenaline (or Norepinephrine)**
+7. Digestive enzymes and hormones: **Pancreas**
+8. Endocrine glands associated with kidneys: **Adrenal glands**
 
-### VII. Short Answer Questions
+## VII. Short Answer Questions
 
-*(Sample answers)*
+*(Key points for answers)*
 
-1. **Synthetic auxins** are artificially synthesized compounds with auxin-like properties. Examples: 2,4-D, NAA, IBA, 2,4,5-T.
+1. **Synthetic auxins**: Artificially synthesized compounds with auxin-like properties. Examples: 2,4-D, NAA, IBA, 2,4,5-T
 
-2. **Bolting** is sudden shoot elongation followed by flowering in rosette plants. It can be artificially induced by **gibberellin treatment**.
+2. **Bolting**: Sudden shoot elongation followed by flowering in rosette plants. Induced artificially by gibberellin application.
 
-3. Two physiological activities of ABA:
-   - Promotes abscission (separation of leaves, flowers, fruits)
-   - Causes stomatal closure during water stress
+3. **Abscisic acid activities**: (a) Promotes abscission (b) Causes stomatal closure during water stress (c) Induces dormancy (d) Promotes senescence
 
-4. To prevent leaf fall and fruit drop: Apply **auxins** externally because auxins prevent formation of abscission zone.
+4. **Prevent leaf/fruit drop**: Apply auxins. Reason: Auxins prevent formation of abscission zone.
 
-5. **Chemical messengers** are hormones - substances produced by endocrine glands that travel through blood to target organs to coordinate physiological activities.
+5. **Chemical messengers**: Hormones - substances produced in minute quantities by endocrine glands, transported via blood to target organs.
 
-6. **Differences between endocrine and exocrine glands:**
+6. **Endocrine vs Exocrine**: See table in section 16.2
 
-| Endocrine Glands | Exocrine Glands |
-|------------------|-----------------|
-| Ductless glands | Have specific ducts |
-| Secrete hormones | Secrete enzymes/other substances |
-| Secretions diffuse into blood | Secretions carried through ducts |
-| Act on distant target organs | Act locally or at specific sites |
+7. **Parathormone role**: Regulates calcium and phosphorus metabolism; maintains blood calcium levels.
 
-7. **Role of parathormone:** Regulates calcium and phosphorus metabolism; maintains blood calcium levels by acting on bone, kidney and intestine.
+8. **Posterior pituitary hormones**: Vasopressin/ADH (acts on kidney tubules) and Oxytocin (acts on uterus and mammary glands).
 
-8. **Posterior pituitary hormones:**
-   - **Vasopressin/ADH:** Acts on kidney tubules (increases water reabsorption)
-   - **Oxytocin:** Acts on uterus (contraction) and mammary glands (milk ejection)
+9. **Personality hormone**: Thyroid hormones influence physical, mental, and personality development; maintain normal body functions.
 
-9. Thyroid hormones are called **personality hormones** because they are essential for normal physical, mental and personality development.
+10. **Iodine requirement**: Thyroxine (T4) requires iodine. Low intake causes simple goitre.
 
-10. **Thyroxine/T4** requires iodine. Low iodine intake causes **goitre** (enlargement of thyroid gland).
+## VIII. Long Answer Questions
 
-### VIII. Long Answer Questions
+*(Detailed answers based on content above)*
 
-*(Key points)*
+1. (a) **Ethylene** - gaseous hormone; actions: fruit ripening, promotes abscission, breaks seed dormancy
+   (b) **Abscisic acid** - stress hormone; increases tolerance to various stresses, causes stomatal closure
 
-1. **(a) Ethylene** - Gaseous plant hormone. Actions: (i) Fruit ripening, (ii) Senescence of leaves/flowers, (iii) Abscission zone formation.
-   
-   **(b) Abscisic acid (ABA)** - Called stress hormone because it increases tolerance to various stresses (drought, water stress) and causes stomatal closure.
+2. **Went's experiment** - see section 16.1.1.1
 
-2. **Went's Experiment** - Demonstrates auxin production at coleoptile tip (see section 16.1.1.1).
+3. **Gibberellin effects** - see section 16.1.3
 
-3. **Physiological effects of gibberellins:** (1) Stem elongation, (2) Bolting, (3) Male flower production, (4) Breaking dormancy, (5) Parthenocarpy.
+4. **Estrogens** - produced by Graafian follicles of ovary; roles in puberty, oogenesis, secondary sexual characteristics
 
-4. **Estrogens** are produced by **Graafian follicles of ovary**. Role: Puberty changes, oogenesis, follicle maturation, secondary sexual characters.
+5. **ADH deficiency**: Diabetes insipidus (excessive urine). **Insulin deficiency**: Diabetes mellitus (high blood sugar). Difference: ADH affects water reabsorption; insulin affects glucose metabolism.
 
-5. **Lack of ADH:** Diabetes insipidus - increased urine output, normal blood glucose.
-   **Lack of Insulin:** Diabetes mellitus - increased blood glucose, glucose in urine.
-   **Difference:** ADH affects water reabsorption; Insulin affects glucose metabolism.
+## IX. Higher Order Thinking Skills (HOTS)
 
-### IX. Higher Order Thinking Skills (HOTS)
+1. a. **Gibberellin on rice**: Elongated internodes, Bakanae disease symptoms
+   b. **Rotten fruit with unripe fruits**: Unripe fruits ripen faster due to ethylene from rotten fruit
+   c. **No cytokinin in culture**: No cell division, no organ formation from callus
 
-1. **a)** Gibberellin applied to rice seedlings → Internodal elongation (Bakanae disease symptoms)
-   **b)** Rotten fruit mixed with unripe fruits → Ethylene gas released causes rapid ripening of unripe fruits
-   **c)** Cytokinin not added to culture medium → No cell division/morphogenesis; poor growth
+2. a. **Gibberellin**
+   b. **Internodal elongation**
+   c. Functions: Stem elongation, bolting, parthenocarpy, breaking dormancy
 
-2. **a)** **Gibberellin**
-   **b)** Property causing disease: **Stem/internodal elongation**
-   **c)** Two functions: (i) Induces bolting, (ii) Efficient in inducing parthenocarpy
+3. **Thyroid gland**; **Excess thyroxine** (Hyperthyroidism/Grave's disease)
 
-3. **Thyroid gland**; **Hyperthyroidism/Excess thyroxine secretion** (Grave's disease symptoms)
+4. **Adrenal medulla** secretes epinephrine/norepinephrine during stress ("fight or flight" response)
 
-4. Due to secretion of **adrenaline/epinephrine** - "fight or flight" response triggered by exam anxiety/stress.
-
-5. **Possible cause:** Diabetes mellitus (insulin deficiency).
-   **Preventive measures:** Regular exercise, balanced diet (low sugar), maintain healthy weight, regular blood glucose monitoring, medication as prescribed.
+5. **Diabetes mellitus** (insulin deficiency). Prevention: Balanced diet, regular exercise, maintain healthy weight, regular blood sugar monitoring.
 
 ---
 
-## Reference Books
+# Reference Books
 
 1. Helgi Opik and Stephen Rolfe, *The Physiology of Flowering Plants*, Cambridge University Press
 2. Berry AK, *A Textbook of Endocrinology*, 11th edition, Emkay Publications, New Delhi
 3. Prakash S Lohar, *Endocrinology, Hormones and Human Health*, MJP Publishers, Chennai
 
-## Internet Resources
+# Internet Resources
 
 1. https://www.biologydiscussion.com/auxins
-2. https://www.mcdaniel.edu/biology/Bot
+2. https://www.mcdaniel.edu/biology
 3. https://www.ndsu.edu/pubweb/chiwonlee/plsc210
-
+```
