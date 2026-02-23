@@ -229,6 +229,9 @@ You must say the colour of the word but not the name of the word.
 | GREEN | BLUE | PURPLE | RED |
 | PURPLE | YELLOW | RED | BLUE |
 
+**Activity 3**
+
+
 ![](acti3.png)
 
 ## Points to Remember
