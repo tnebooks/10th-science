@@ -28,41 +28,57 @@ weight: 4
 
 **சூத்திரம்:**
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 
 இங்கு:
 - {{< katex display=true >}}
-s1
-{{< /katex >}} = மின்ணோட்டம் (Ampere)
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ = மின்ணோட்டம் (Ampere)
 - {{< katex display=true >}}
-s1
-{{< /katex >}} = மின்னூட்டம் (Coulomb)
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ = மின்னூட்டம் (Coulomb)
 - {{< katex display=true >}}
-s1
-{{< /katex >}} = நேரம் (விநாடி)
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ = நேரம் (விநாடி)
 
 ### 4.1.2 அலகு 
 
 கூலும் மின்னூட்டம் ஒரு விநாடி நேரத்தில் கடத்தியின் எதாவது ஒரு குறுக்குத்தட்டுப் பகுதி வழியாகக் கடந்து செல்லும்போது அக்கடத்தியில் பாயும் மின்ணோட்டம் ஒரு ஆம்பியர் என வரையறை செய்யப்படுகிறது.
 
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 
 **தீர்க்கப்பட்ட கணக்கு 1:**
 மின்விளக்கின் வழியாகப் பாய்கிறது எனில் அவ்வழியாகச் செல்லும் மின்ணோட்டத்தின் அளவு என்ன?
 
 **தீர்வு:**
 - மின்னூட்டம் {{< katex display=true >}}
-s1
-{{< /katex >}} கூலும்
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ கூலும்
 - காலம் {{< katex display=true >}}
-s1
-{{< /katex >}} விநாடி
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ விநாடி
 - மின்ணோட்டம் {{< katex display=true >}}
-s1
-{{< /katex >}} A
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ A
 
 ---
 
@@ -93,19 +109,27 @@ s1
 ![](img4.png)
 
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 
 இங்கு:
 - {{< katex display=true >}}
-s1
-{{< /katex >}} = மின்னழுத்த வேறுபாடு
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ = மின்னழுத்த வேறுபாடு
 - {{< katex display=true >}}
-s1
-{{< /katex >}} = வேலை
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ = வேலை
 - {{< katex display=true >}}
-s1
-{{< /katex >}} = மின்னூட்டம்
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ = மின்னூட்டம்
 
 ### 4.3.3 அலகு - வோல்ட்
 
@@ -122,24 +146,34 @@ s1
 இவ்விதியின்படி ஒரே வெப்பநிலையில், கடத்தி ஒன்றின் வழியாகப் பாயும் சீரான மின்ணோட்டம் கடத்தியின் முனைகளுக்கிடையே உள்ள மின்னழுத்த வேறுபாட்டிற்கு நேர்கவில அளவுடன் அளவிடப்படும்.
 
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 
 அல்லது, {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 
 இந்த மாறிலி மின்தடை {{< katex display=true >}}
-s1
-{{< /katex >}} ஆகும்.
-
-{{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
 
+ ஆகும்.
+
+{{< katex display=true >}}
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+
+
 இங்கு {{< katex display=true >}}
-s1
-{{< /katex >}} என்பது மின்தடையாகும். ஒரு குறிப்பிட்ட பொருளுக்கு (எ.கா. நிக்கல் கம்பி) குறிப்பிட்ட வெப்பநிலையில் மின்தடை ஒரு மாறிலி ஆகும்.
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ என்பது மின்தடையாகும். ஒரு குறிப்பிட்ட பொருளுக்கு (எ.கா. நிக்கல் கம்பி) குறிப்பிட்ட வெப்பநிலையில் மின்தடை ஒரு மாறிலி ஆகும்.
 
 ![](img6.png)
 
@@ -152,19 +186,25 @@ s1
 மின்னழுத்தம் ஒரு வோல்ட்டாக இருக்கும்போது கடத்தியில் செல்லும் மின்ணோட்டம் ஒரு ஆம்பியர் எனில் அம்மின்தடை ஒரு ஓம் ஆகும்.
 
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 
 **தீர்க்கப்பட்ட கணக்கு 3:**
 30V மின்னழுத்த வேறுபாடுடன் 2A மின்ணோட்டம் பாயும் கடத்தியின் மின்தடையைக் காண்க.
 
 **தீர்வு:**
 - {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 - {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 
 ---
 
@@ -173,42 +213,62 @@ s1
 ### 4.6.1 மின்தடை எண்
 
 நீளத்திற்கு ({{< katex display=true >}}
-s1
-{{< /katex >}}) எதிர்கவிலும் அளவிடப்படும்.
-
-{{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
 
+) எதிர்கவிலும் அளவிடப்படும்.
+
+{{< katex display=true >}}
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+
+
 இங்கு {{< katex display=true >}}
-s1
-{{< /katex >}}).
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+).
 
 ### 4.6.2 கடத்தும் எண்
 
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
 
+
+
 | பொருள் | மின்தடை எண் ({{< katex display=true >}}
-s1
-{{< /katex >}}) |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+) |
 |--------|-------------------------------|
 | செம்பு | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | தங்கம் | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | அலுமினியம் | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | கண்ணாடி | {{< katex display=true >}}
-s1
-{{< /katex >}} வரை |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ வரை |
 | ரப்பர் | {{< katex display=true >}}
-s1
-{{< /katex >}} வரை |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ வரை |
 
 ---
 
@@ -225,15 +285,21 @@ s1
 - மொத்த மின்னழுத்தம் = தனித்தனி மின்னழுத்தங்களின் கூடுதல்
 
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
 
+
+
 {{< katex display=true >}}
-s1
-{{< /katex >}} எண்ணிக்கையிலான சமமான மின்தடைகள் தொடரில் இணைக்கப்படும்போது:
-{{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+ எண்ணிக்கையிலான சமமான மின்தடைகள் தொடரில் இணைக்கப்படும்போது:
+{{< katex display=true >}}
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+
 
 ### 4.7.2 பக்க இணைப்பு
 
@@ -246,15 +312,21 @@ s1
 - மொத்த மின்ணோட்டம் = தனித்தனி மின்ணோட்டங்களின் கூடுதல்
 
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
 
+
+
 {{< katex display=true >}}
-s1
-{{< /katex >}} எண்ணிக்கையிலான சமமான மின்தடைகள் பக்க இணைப்பில் இணைக்கப்படும்போது:
-{{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+ எண்ணிக்கையிலான சமமான மின்தடைகள் பக்க இணைப்பில் இணைக்கப்படும்போது:
+{{< katex display=true >}}
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+
 
 ### 4.7.3 கலப்பு இணைப்பு
 
@@ -276,12 +348,16 @@ s1
 மின்கம்பியின் வழியாக மின்ணோட்டம் தேவைப்படுத்தும்போது வெப்பம் உருவாகிறது. இந்த நிகழ்வு **ஜூலின் வெப்ப விதி** எனப்படும்.
 
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
 
+
+
 அல்லது, {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 
 ### பயன்கள்:
 1. **மின்வெப்ப அடுப்பு** - மின்சூடாக்கி, தண்ணீர் காய்ச்சி
@@ -293,15 +369,19 @@ s1
 ## 4.9 மின்திறன்
 
 {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 
 ### அலகுகள்:
 - **வாட் (Watt)** - SI அலகு
 - **குதிரைத்திறன்** = 746 வாட்
 - **கிலோவாட் மணி (kWh)** = {{< katex display=true >}}
-s1
-{{< /katex >}} ஜூல்
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ ஜூல்
 
 ---
 
@@ -357,29 +437,45 @@ s1
 | கருத்து | விளக்கம் |
 |--------|---------|
 | மின்ணோட்டம் | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | ஓமின் விதி | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | மின்தடை | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | மின்தடை எண் | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | தொடர் இணைப்பு | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | பக்க இணைப்பு | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | ஜூலின் வெப்ப விதி | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | மின்திறன் | {{< katex display=true >}}
-s1
-{{< /katex >}} |
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ |
 | 1 குதிரைத்திறன் | 746 வாட் |
 
 ---
@@ -388,22 +484,30 @@ s1
 
 **கணக்கு 4:**
 10 மீட்டர் நீளமும், {{< katex display=true >}}
-s1
-{{< /katex >}} குறுக்குத்தட்டுப் பரப்பும் கொண்ட கம்பியின் மின்தடை 2 ஓம் எனில்:
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ குறுக்குத்தட்டுப் பரப்பும் கொண்ட கம்பியின் மின்தடை 2 ஓம் எனில்:
 - (i) மின்தடை எண்
 - (ii) மின்கடத்துதிறன்
 - (iii) மின்கடத்தும் எண்
 
 **தீர்வு:**
 - {{< katex display=true >}}
-s1
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
 {{< /katex >}}
+
+
 - {{< katex display=true >}}
-s1
-{{< /katex >}} mho
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ mho
 - {{< katex display=true >}}
-s1
-{{< /katex >}} Siemens/m
+\frac{\Delta L}{L_o} = \alpha_L \Delta T
+{{< /katex >}}
+
+ Siemens/m
 
 ---
 
