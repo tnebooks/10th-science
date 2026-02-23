@@ -229,20 +229,7 @@ You must say the colour of the word but not the name of the word.
 | GREEN | BLUE | PURPLE | RED |
 | PURPLE | YELLOW | RED | BLUE |
 
-**Activity 3**
-Use the letter and number code to decode the given information
-
-| A | B | C | D | E | F | G | H | I | J | K | L | M |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 8 | 2 | 15 | 24 | 4 | 9 | 45 | 8 | 25 | 7 | 19 | 1 | 12 |
-
-| N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 10 | 8 | 2 | 13 | 8 | 5 | 13 | 1 | 5 | 19 | 15 | 1 | 21 |
-
-{{< katex >}}\overline{24}{{< /katex >}} {{< katex >}}\overline{18} \overline{13} \overline{26}{{< /katex >}} 
-8 2 15 24 4 9 45 8 25 7 19 1 15 21 1 9 8 7 22 7 2 18 23 25 4 1 12 10 8 2 13 8 5 13 1 5 BZ 19 15 1 21 1 9 8 22 7 87 8 24 26 19115 {{< katex >}}\overline{12}{{< /katex >}} 23 24 9 18 7 3 23 1 12 9 
-J A B C D E F G H I K L M 24 2 21 18 1 22 12 10 4 16 14 26 20 N O P Q R S T U V W X Y Z 7 9 19 6 15 5 8 13 11 25 3 23 0
+![](acti3.png)
 
 ## Points to Remember
 * Nervous system controls and coordinates the activities of our body.
