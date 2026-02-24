@@ -1,5 +1,5 @@
 ---
-title: 'HEALTH AND DISEASES'
+title: "HEALTH AND DISEASES"
 weight: 21
 ---
 
@@ -46,11 +46,12 @@ Child abuse constitutes all forms of physical or emotional ill treatment, sexual
 Sexual harassment is a form of power and dominance of one person over another, which can result in harmful consequence to the victim. It refers to inappropriate or forced sexual contact. Adolescent girls and women encounter sexual harassment in different forms. Sexual abuse is more common at work places. Verbal remarks, comments, gestures and looks are the most common forms of abuse. This results in psychological distress, physical illness and eating disorders in the affected individuals.
 
 > **More to Know**
-> 
+>
 > The Ministry of Women and Child Development championed the introduction of the **Protection of Children from Sexual Offences (POCSO) Act, 2012**. People who traffic children for sexual purposes are also punishable under the provisions relating to the Act.
-![](1.png)
+> ![](1.png)
 
 **Objectives of the POCSO Act, 2012**
+
 - To protect children from the offences of:
   - Sexual assault
   - Sexual harassment
@@ -82,14 +83,13 @@ Measures adopted for monitoring and assessment of abused child who have undergon
 **Community based efforts:** Conducting awareness campaign on child abuse and its prevention.
 
 > **More to Know**
-> 
+>
 > The **National Commission for Protection of Child Rights (NCPCR)** was set up in March 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005. This act emphasizes the principle of universality and inviolability of child rights and recognizes the tone of urgency in all the child related policies of the country.
-> 
+>
 > Protection of all children of all age group upto 18 years of age is of equal importance. Policies define priority actions for the most vulnerable children.
 
 ![](2.png)
 ![](3.png)
-
 
 **CHILD HELPLINE: 1098**
 
@@ -98,6 +98,7 @@ Measures adopted for monitoring and assessment of abused child who have undergon
 The most important social policy proclaimed universally is the prevention of child abuse. Taking steps to prevent childhood sexual abuse is parental and institutional responsibility.
 
 **Instructions to be given by parents and teachers to the child:**
+
 - Do not talk to any suspected person or strangers and to maintain a distance.
 - Not to be alone with unknown person.
 - To be careful while travelling alone in public or private transport.
@@ -113,7 +114,6 @@ It is the responsibility of every individual living in a society to ensure a saf
 The physical and mental dependency on alcohol, smoking and drugs is called **addiction**. The addictive potential of these substances pulls an individual into a vicious cycle leading to regular abuse and dependency. This is of serious concern because abuse of tobacco, alcohol or drugs produce many harmful effects in an individual, to the family and even to the society. This dangerous behavior pattern among youth can be prevented through proper education and awareness.
 
 ![](4.png)
-
 
 ---
 
@@ -135,15 +135,16 @@ Persons who consume these drugs become fully dependent on them, they cannot live
 - **Psychological dependence:** Is a feel that drugs help them to reduce stress/anxiety.
 
 > **Do You Know?**
-> 
+>
 > - **International Day against Drug Abuse and Illicit Trafficking** - June 26
 > - **Narcotic Drugs and Psychotropic Substances Act** was introduced in 1985.
-> 
+>
 > World Health Organization (WHO) 1984 suggested the use of the term **drug dependence** in place of drug addiction or drug abuse.
 
 ### 21.3.3 Behavioural Changes of Drug Users
 
 Adverse effects of drug use among adolescents are:
+
 - Drop in academic performance, absence from school or college.
 - Lack of interest in personal hygiene, isolation, depression, fatigue and aggressive behaviour.
 - Deteriorating relationship with family and friends.
@@ -170,7 +171,7 @@ Family members, friends and society on the whole have a very important role to p
 
 ## 21.4 Tobacco Abuse
 
-Tobacco is obtained from the tobacco plant *Nicotiana tobaccum* and *Nicotiana rustica*. The dried and cured leaves of its young branches make the commercial tobacco used worldwide. Addiction to tobacco is due to **'nicotine'** an alkaloid present in it. Nicotine is a stimulant, highly harmful and poisonous substance.
+Tobacco is obtained from the tobacco plant _Nicotiana tobaccum_ and _Nicotiana rustica_. The dried and cured leaves of its young branches make the commercial tobacco used worldwide. Addiction to tobacco is due to **'nicotine'** an alkaloid present in it. Nicotine is a stimulant, highly harmful and poisonous substance.
 
 ### 21.4.1 Tobacco Use
 
@@ -195,7 +196,7 @@ When smoke is inhaled, the chemicals get absorbed by the tissues and cause the f
 (vii) Tobacco chewing causes **oral cancer** (mouth cancer).
 
 > **Info Bits**
-> 
+>
 > World Health Organization (WHO) 1984 suggested the use of the term drug. WHO issued a directive under which all cigarette advertisements and packs carry a statutory warning **"Smoking is injurious to health"**.
 
 **Activity 1:** Collect pictures of people affected by tobacco chewing and tobacco smoking. Identify which part of the body is affected and the health hazards it can lead to.
@@ -205,12 +206,11 @@ When smoke is inhaled, the chemicals get absorbed by the tissues and cause the f
 Knowing the dangers of smoking and chewing tobacco adolescents and the old people need to avoid these habits. Proper counselling and medical assistance can help an addict to give up the habit of smoking.
 
 > **More to Know**
-> 
+>
 > **Anti Tobacco Act** was passed on May 1st 2004. By 2030 tobacco is expected to be single biggest cause of death worldwide accounting for 10 million deaths per year.
-> 
+>
 > **May 31st** is observed as **No Tobacco Day (World Anti-Tobacco Day)**.
-![](5.png)
-
+> ![](5.png)
 
 ---
 
@@ -231,21 +231,20 @@ Prolonged use of alcohol depresses the nervous system, by acting as a sedative a
 - **Liver damage** resulting in **fatty liver** which leads to **cirrhosis** and formation of fibrous tissues
 - Body loses its control and consciousness eventually leading to health complications and ultimately to death
 
-
 ![](6.png)
 
+## 21.6 Rehabilitation Measures for Alcoholics
 
- ## 21.6   Rehabilitation Measures for Alcoholics 
-Education and counselling: Education and proper counselling will help the alcoholics to overcome their problems and stress, to accept failures in their life. 
-Physical activity: Individuals undergoing rehabilitation should be channelized into healthy activities like reading, music, sports, yoga and 
+Education and counselling: Education and proper counselling will help the alcoholics to overcome their problems and stress, to accept failures in their life.
+Physical activity: Individuals undergoing rehabilitation should be channelized into healthy activities like reading, music, sports, yoga and
 meditation.
-Seeking help from parents and peer groups: When a problematic situation occurs, the affected individuals should seek help and guidance from parents and peers. This would help them to share their feeling of anxiety, wrong doing and get rid of the habit. 
-Medical assistance: Individual should seek help from psychologists and psychiatrists to get relieved from this condition and to lead a  relaxed and peaceful life. 
+Seeking help from parents and peer groups: When a problematic situation occurs, the affected individuals should seek help and guidance from parents and peers. This would help them to share their feeling of anxiety, wrong doing and get rid of the habit.
+Medical assistance: Individual should seek help from psychologists and psychiatrists to get relieved from this condition and to lead a relaxed and peaceful life.
 Alcohol de-addiction and rehabilitation programmes are helpful to the individual so that they could get rid of the problem completely and can lead a normal and healthy life.
 
+## 21.7 Diseases and Disorders due to Lifestyle Modifications
 
-## 21.7   Diseases and Disorders due to Lifestyle Modifications
-Diseases are prevalent in our society due to our improper way of living, conditions of stress and strain. These diseases are non-communicable and affect the person who are suffering from particular symptoms. It is an impairment of the body tissue or organ, disturbances in metabolic function which require modification of an individual's normal life.  
+Diseases are prevalent in our society due to our improper way of living, conditions of stress and strain. These diseases are non-communicable and affect the person who are suffering from particular symptoms. It is an impairment of the body tissue or organ, disturbances in metabolic function which require modification of an individual's normal life.
 
 ## 21.8 Diabetes Mellitus
 
@@ -257,9 +256,7 @@ IDDM accounts for **10 to 20%** of the known diabetics. The condition also occur
 
 **Causes:** Genetic inheritance and environmental factors (infections due to virus, acute stress) are the cause for this condition.
 
-
 ![](7.png)
-
 
 ### 21.8.2 Type-2 Non-Insulin Dependent Diabetes Mellitus (NIDDM)
 
@@ -268,7 +265,7 @@ This is also called as **adult onset diabetes** and accounting for **80 to 90%**
 **Causes:** The causes are multifactorial which include increasing age (affecting middle aged and older people), **obesity**, **sedentary lifestyle**, **overeating** and physically inactivity.
 
 > **More to Know**
-> 
+>
 > One in every 8 individuals in India is a diabetic. The revised WHO estimates for the year 2025 is 57.2 million diabetics in India. The average age for the onset of diabetes is 40 years, while it is 55 years in other countries. World Health Organization projects that diabetes will be 7th leading cause of death by the year 2030.
 
 **Symptoms:** Diabetes mellitus is associated with several metabolic alterations. The most important symptoms are:
@@ -281,7 +278,7 @@ This is also called as **adult onset diabetes** and accounting for **80 to 90%**
 - Fatigue and loss of weight
 
 > **Do You Know?**
-> 
+>
 > According to WHO recommendation, if the **fasting blood glucose** is greater than **140 mg/dl** or the **random blood glucose** is greater than **200 mg/dl** on more than two occasions, diagnosis for confirming diabetes is established.
 
 ### 21.8.3 Prevention and Control of Diabetes
@@ -290,13 +287,13 @@ Diet, hypoglycemic drugs, insulin injection and exercise are the management opti
 
 #### Table 21.1: Differences between Type-1 and Type-2 Diabetes Mellitus
 
-| Factors | Type-1 Insulin dependent diabetes mellitus (IDDM) | Type-2 Non-insulin dependent diabetes mellitus (NIDDM) |
-|:---|:---|:---|
-| **Prevalence** | 10-20% | 80-90% |
-| **Age of onset** | Juvenile onset (<20 years) | Maturity onset (>30 years) |
-| **Body weight** | Normal or Underweight | Obese |
-| **Defect** | Insulin deficiency due to destruction of β-cells | Target cells do not respond to insulin |
-| **Treatment** | Insulin administration is necessary | Can be controlled by diet, exercise and medicine |
+| Factors          | Type-1 Insulin dependent diabetes mellitus (IDDM) | Type-2 Non-insulin dependent diabetes mellitus (NIDDM) |
+| :--------------- | :------------------------------------------------ | :----------------------------------------------------- |
+| **Prevalence**   | 10-20%                                            | 80-90%                                                 |
+| **Age of onset** | Juvenile onset (<20 years)                        | Maturity onset (>30 years)                             |
+| **Body weight**  | Normal or Underweight                             | Obese                                                  |
+| **Defect**       | Insulin deficiency due to destruction of β-cells  | Target cells do not respond to insulin                 |
+| **Treatment**    | Insulin administration is necessary               | Can be controlled by diet, exercise and medicine       |
 
 **Dietary management:** Low carbohydrate and fibre rich diets are more appropriate. Carbohydrates should be taken in the form of starch and complex sugars. Refined sugars (sucrose and glucose) should be avoided. Diet comprising whole grains, millets (jowar, bajra, ragi), green leafy vegetables, wheat and unpolished rice should be included in diet regularly.
 
@@ -309,7 +306,7 @@ Carbohydrates is maintained to about **50-55%** of the total calories. High prot
 **Education and Awareness:** People with diabetics should be educated on the nature of disease they have and the possibility of complications of the disease, if blood sugar is not kept under control. Instructions regarding diet, exercise and drugs should be explained.
 
 > **Info Bits**
-> 
+>
 > Flax seeds containing insoluble fibre, Guavas, Tomatoes and Spinach are foods which help reduce blood sugar levels.
 
 ---
@@ -325,7 +322,7 @@ Obesity occurs if intake of calories is more than the expenditure of energy. Ove
 {{< /katex >}}
 
 > **More to Know**
-> 
+>
 > Every 7 calories of excess consumption leads to 1gm fat deposit and increase in body weight. Weight due to fat in adipose tissue exceeds more than 20% to 25% of body weight. An adult weighing **10%** more than the standard weight is **OVERWEIGHT** and **20%** more is **OBESE**.
 
 **Causes and risk factors:** Obesity is due to genetic factors, physical inactivity, eating habits (overeating) and endocrine factors. Obesity is a positive risk factor in development of **hypertension, diabetes, gall bladder disease, coronary heart disease** and stroke.
@@ -345,7 +342,7 @@ Obesity occurs if intake of calories is more than the expenditure of energy. Ove
 It usually develops slowly over many years beginning from childhood, they may form a fatty streak to a fibrous complicated plaque. It leads to the narrowing of blood vessels leading to **atherosclerosis** in the large and medium sized arteries that supply the heart muscle with oxygen. It leads to sudden **ischemia** (deficient blood supply to heart muscle) and **myocardial infarction** (death of the heart muscle tissue).
 
 > **More to Know**
-> 
+>
 > Desirable level for blood cholesterol should be less than **200 mg/dl** for Indians. The risk of coronary heart disease increases slowly as blood cholesterol levels increases from 200 to 300 mg/dl.
 
 **Risk factors:** **Hypercholesterolemia** (High blood cholesterol) and **high blood pressure (Hypertension)** are the major causes and contributing factors for heart disease and if untreated may cause severe damage to brain, kidney and eventually lead to death.
@@ -355,7 +352,7 @@ It usually develops slowly over many years beginning from childhood, they may fo
 **Symptoms:** Shortness of breath, headache, tiredness, dizziness, chest pain, swelling of leg, and gastrointestinal problems.
 
 > **Do You Know?**
-> 
+>
 > **HDL** (High Density Lipoprotein) or **"good" cholesterol** lowers risk of heart disease while **LDL** (Low Density Lipoprotein) or **"bad" cholesterol** increases risk of heart disease.
 
 ### 21.10.1 Prevention and Control of Heart Disease
@@ -379,7 +376,7 @@ Cancer is an **abnormal and uncontrolled division of cells** that invade and des
 The cancerous cells migrate to distant parts of the body and affect new tissues. This process is called **metastasis**. The frequent sites of metastasis are lungs, bones, liver, skin and brain.
 
 > **More to Know**
-> 
+>
 > - **World Cancer Day** - 4th February
 > - **National Cancer Awareness Day** - 7th November
 
@@ -394,8 +391,9 @@ Cancers are classified on the basis of the tissues from which they are derived:
 3. **Leukaemia** - are characterized by an increase in the formation of white blood cells in the bone marrow and lymph nodes. Leukaemia are called **blood cancers**. Most common type of cancer which also affect children below 15 years of age.
 
 > **More to Know**
-> 
+>
 > **Types of Tumours:**
+>
 > - **Benign tumours** or **Non malignant tumours:** Remain confined in the organ affected and do not spread to other parts of the body.
 > - **Malignant tumours:** Mass of proliferating cells which grow very rapidly invading and damaging the surrounding normal tissues.
 
@@ -436,7 +434,7 @@ To prevent lung cancer tobacco smoking is to be avoided and protective measures 
 **AIDS** is a severe viral disease and caused by **Human Immunodeficiency Virus (HIV)**. It is a condition in which immune system fails and suppress the body's disease fighting mechanism. They attack the lymphocytes and the affected individual is prone to infectious diseases.
 
 > **Do You Know?**
-> 
+>
 > **Dr. Suniti Solomon**, pioneered HIV research and treatment in India. She set up the first voluntary testing and counselling centre and an AIDS Research group in Chennai during 80's. Her team was the first to document evidence of HIV infection in India in 1985 (First Indian AIDS patient in Chennai).
 
 ### 21.12.1 Transmission of HIV
@@ -469,9 +467,8 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 
 ![](8.png)
 
-
 > **More to Know**
-> 
+>
 > Many people are ignorant about AIDS and it has been said that – **"don't die of ignorance"**. In our country **NACO (National AIDS Control Organization)** and other **NGO'S (Non-Governmental Organizations)** are educating people about AIDS. Every year **December 1st** is observed as the **"World AIDS Day"**.
 
 ---
@@ -487,173 +484,6 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 - **Coronary heart disease** is the most common form and is caused by deposition of cholesterol in the blood vessels.
 - **Cancer** is an abnormal and uncontrolled division of cells that invade and destroy surrounding tissue forming a tumor or neoplasm.
 - **AIDS** is caused by **Human immunodeficiency virus (HIV)**.
-
----
-
-## TEXTBOOK EVALUATION
-
-### I. Choose the correct answer
-
-1. Tobacco consumption is known to stimulate secretion of adrenaline. The component causing this could be
-   - a) Nicotine
-   - b) Tannic acid
-   - c) Curcumin
-   - d) Leptin
-
-2. World 'No Tobacco Day' is observed on
-   - a) May 31
-   - b) June 6
-   - c) April 22
-   - d) October 2
-
-3. Cancer cells are more easily damaged by radiations than normal cells because they are
-   - a) Different in structure
-   - b) Non-dividing
-   - c) Mutated Cells
-   - d) Undergoing rapid division
-
-4. Which type of cancer affects lymph nodes and spleen?
-   - a) Carcinoma
-   - b) Sarcoma
-   - c) Leukemia
-   - d) Lymphoma
-
-5. Excessive consumption of alcohol leads to
-   - a) Loss of memory
-   - b) Cirrhosis of liver
-   - c) State of hallucination
-   - d) Supression of brain function
-
-6. Coronary heart disease is due to
-   - a) Streptococci bacteria
-   - b) Inflammation of pericardium
-   - c) Weakening of heart valves
-   - d) Insufficient blood supply to heart muscles
-
-7. Cancer of the epithelial cells is called
-   - a) Leukemia
-   - b) Sarcoma
-   - c) Carcinoma
-   - d) Lipoma
-
-8. Metastasis is associated with
-   - a) Malignant tumour
-   - b) Benign tumour
-   - c) Both (a) and (b)
-   - d) Crown gall tumour
-
-9. Polyphagia is a condition seen in
-   - a) Obesity
-   - b) Diabetes mellitus
-   - c) Diabetes insipidus
-   - d) AIDS
-
-10. Where does alcohol effect immediately after drinking?
-    - a) Eyes
-    - b) Auditory region
-    - c) Liver
-    - d) Central nervous system
-
-### II. State whether True or False, if false write the correct statement
-
-1. AIDS is an epidemic disease.
-2. Cancer causing genes are called Oncogenes.
-3. Obesity is characterized by tumour formation.
-4. In leukemia both WBCs and RBCs increase in number.
-5. Study of cause of disease is called etiology.
-6. AIDS is not transmitted by contact with a patient's clothes.
-7. Type 2 diabetes mellitus results due to insulin deficiency.
-8. Carcinogens are cancer causing agents.
-9. Nicotine is a narcotic drug.
-10. Cirrhosis is associated with brain.
-
-### III. Expand the following abbreviations
-
-1. IDDM
-2. HIV
-3. BMI
-4. AIDS
-5. CHD
-6. NIDDM
-
-### IV. Match the following
-
-| Column A | Column B |
-|:---|:---|
-| 1. Sarcoma | - Stomach cancer |
-| 2. Carcinoma | - Excessive thirst |
-| 3. Polydipsia | - Excessive hunger |
-| 4. Polyphagia | - Lack of blood flow to heart muscle |
-| 5. Myocardial Infarction | - Connective tissue cancer |
-
-### V. Fill in the blanks
-
-1. Cirrhosis is caused in liver due to excessive use of __________________
-2. A highly poisonous chemicals derived from tobacco is _________________
-3. Blood cancer is called ___________.
-4. Less response of a drug to a specific dose with repeated use is called ________
-5. Insulin resistance is a condition in _____________ diabetes mellitus
-
-### VI. Analogy type questions
-
-Identify the first words and their relationship and suggest a suitable word for the fourth blank
-
-1. Communicable : AIDS : Non communicable : ___________
-2. Chemotherapy : Chemicals : Radiation therapy : _____________
-3. Hypertension : Hypercholesterolomia : Glycosuria : _______________
-
-### VII. Answer in a sentence
-
-1. What are psychotropic drugs?
-2. Mention the diseases caused by tobacco smoke.
-3. What are the contributing factors for Obesity?
-4. What is adult onset diabetes?
-5. What is metastasis?
-6. How does insulin deficiency occur?
-
-### VIII. Short answer questions
-
-1. What are the various routes by which transmission of human immuno deficiency virus takes place?
-2. How is a cancer cell different from a normal cell?
-3. Differentiate between Type-1 and Type-2 diabetes mellitus
-4. Why is a dietary restriction recommended for an obese individual?
-5. What precautions can be taken for preventing heart diseases?
-
-### IX. Long answer questions
-
-1. Suggest measures to overcome the problems of an abused child.
-2. Changes in lifestyle is a risk factor for occurrence of cardiovascular diseases. Can it be modified? If yes, suggest measures for prevention.
-
-### X. Higher Order Thinking Skills (HOTS)
-
-1. What is the role of fat in the cause of atherosclerosis?
-2. Eating junk food and consuming soft drinks results in health problems like obesity, still children prefer. What are the suggestions you would give to avoid children eating junk food/consumption of soft drinks?
-3. Regular physical exercise is advisable for normal functioning of human body. What are the advantages of practising exercise in daily life?
-4. A leading weekly magazine has recently published a survey analysis which says that number of AIDS patient in the country is increasing day by day. The report says that the awareness among the people about AIDS is still very poor. You are discussing the magazine report in your class and a team of your class decides to help people to fight against the dreadful disease.
-   - a) What problem you face when trying to educate the people in your village near by your school?
-   - b) How do you overcome the problem?
-
-### XI. Value based questions
-
-1. Once a person starts taking drugs or alcohol it is difficult to get rid of the habit. Why?
-2. Men addicted to tobacco lead to oxygen deficiency in their body. What could be the possible reason?
-3. Name any three foods that are to be avoided and included in the diet of a diabetic patient. Why should it be followed?
-4. How can informational efforts change people's HIV knowledge and behaviour?
-
-### XII. Assertion and Reasoning
-
-In each of the following questions, a statement of Assertion is given and a corresponding statement of Reason is given just below it. Of statements given below mark the correct answer as:
-
-- a. If both Assertion and Reason are true and Reason is the correct explanation of Assertion
-- b. If both Assertion and Reason are true that Reason is not the correct explanation of Asssertion
-- c. Assertion is true but Reason is false
-- d. Both Assertion and Reason are false
-
-1. **Assertion:** All drugs act on the brain.
-   **Reason:** Drugs disturb the functioning of the body and mind.
-
-2. **Assertion:** Excretion of excess glucose in urine is observed in a person with diabetes mellitus.
-   **Reason:** Pancreas is unable to produce sufficient quantity of insulin.
 
 ---
 
