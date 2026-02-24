@@ -112,7 +112,8 @@ When a body is heated or cooled, the length of the body changes due to change in
 The ratio of increase in length of the body per degree rise in temperature to its unit length is called as the **coefficient of linear expansion**. The SI unit of Coefficient of Linear expansion is **K⁻¹**. The value of coefficient of linear expansion is different for different materials.
 
 ![](img2.png)
-**Figure 3.2** Linear expansion
+
+_Figure 3.2 Linear expansion_
 
 The equation relating the change in length and the change in temperature of a body is given below:
 

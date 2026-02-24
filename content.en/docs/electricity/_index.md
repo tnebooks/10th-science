@@ -33,7 +33,7 @@ In a similar manner, the electric current passes from the positive terminal (hig
 
 ![](1.png)
 
-**Figure 4.1** Electron Flow
+_Figure 4.1 Electron Flow_
 
 ### 4.1.1 Definition of electric current
 Electric current is often termed as 'current' and it is represented by the symbol 'I'. It is defined as the **rate of flow of charges** in a conductor. This means that the electric current represents the amount of charges flowing in any cross section of a conductor (say a metal wire) in unit time. If a net charge 'Q' passes through any cross section of a conductor in time 't', then the current flowing through the conductor is:
@@ -63,7 +63,7 @@ An electric circuit is a closed conducting loop (or) path, which has a network o
 
 ![](2.png)
 
-**Figure 4.2** A Simple electric circuit
+_Figure 4.2 A Simple electric circuit_
 
 
 In this circuit, if the switch is 'on', the bulb glows. If it is switched off, the bulb does not glow. Therefore, the circuit must be closed in order that the current passes through it. The potential difference required for the flow of charges is provided by the battery. The electrons flow from the negative terminal to the positive terminal of the battery.
@@ -93,12 +93,9 @@ The electric potential at a point is defined as the amount of work done in movin
 ### 4.3.2 Electric Potential Difference
 The electric potential difference between two points is defined as the amount of work done in moving a unit positive charge from one point to another point against the electric force.
 
-
 ![](3.png)
 
-**Figure 4.3** Electric potential
-
-
+_Figure 4.3 Electric potential_
 
 Suppose, you have moved a charge Q from a point A to another point B. Let 'W' be the work done to move the charge from A to B. Then, the potential difference between the points A and B is given by:
 
@@ -146,11 +143,9 @@ Potential Difference V = \frac{W}{Q} = \frac{100}{10} = 10 \text{ volt}
 ## 4.4 Ohm's Law
 A German physicist, Georg Simon Ohm established the relation between the potential difference and current, which is known as **Ohm's Law**.
 
-
 ![](4.png)
 
-**Figure 4.4** Electric circuit to understand Ohm's law
-
+_Figure 4.4 Electric circuit to understand Ohm's law_
 
 According to Ohm's law, at a constant temperature, the steady current 'I' flowing through a conductor is directly proportional to the potential difference 'V' between the two ends of the conductor.
 
@@ -173,7 +168,7 @@ Here, R is a constant for a given material (say Nichrome) at a given temperature
 
 ![](5.png)
 
-**Figure4.5** Relation between potential difference and current
+_Figure4.5 Relation between potential difference and current_
 
 ---
 
@@ -291,7 +286,7 @@ If resistors are connected end to end, so that the same current passes through e
 
 ![](6.png)
 
-**Figure 4.6** Series connection of resistors
+_Figure 4.6 Series connection of resistors_
 
 Let three resistances{{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}} be connected in series. Let the current flowing through them be I. According to Ohm's Law, the potential differences {{< katex display=true >}}V_1, V_2 and V_3 {{< /katex >}}across{{< katex display=true >}}  R_1, R_2 and R_3{{< /katex >}} respectively, are given by:
 {{< katex display=true >}} 
@@ -349,7 +344,7 @@ A parallel circuit has two or more loops through which current can pass. If the 
 
 ![](7.png)
 
-**Figure 4.7** Parallel connection of resistors
+_Figure 4.7 Parallel connection of resistors_
 
 
 Consider that three resistors {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}are connected across two common points A and B. The potential difference across each resistance is the same and equal to the potential difference between A and B. The current I arriving at A divides into three branches{{< katex display=true >}}  I_1, I_2 and I_3{{< /katex >}} passing through {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}respectively.
@@ -405,7 +400,7 @@ If you consider the connection of a set of parallel resistors that are connected
 
 ![](8.png)
 
-**Figure 4.8** Series-parallel combination of resistors
+_Figure 4.8 Series-parallel combination of resistors_
 
 
 Using the parallel formula:
@@ -565,7 +560,7 @@ The meter is used to record the consumption of electrical energy. The fuse box c
 
 ![](10.png)
 
-**Figure 4.10** Domestic electric circuit
+_Figure 4.10 Domestic electric circuit_
 
 
 An **MCB** is a switching device, which can be activated automatically as well as manually. It has a spring attached to the switch, which is attracted by an electromagnet when an excess current passes through the circuit. Hence, the circuit is broken and the protection of the appliance is ensured.
@@ -616,7 +611,7 @@ Displays in digital watches and calculators, traffic signals, street lights, dec
 
 ![](12.png)
 
-**Figure 4.12** Seven segment display
+_Figure 4.12 Seven segment display_
 
 A **'Seven Segment Display'** is the display device used to give an output in the form of numbers or text. It is used in digital meters, digital clocks, microwave ovens, etc. It consists of 7 segments of LEDs in the form of the digit 8. These seven LEDs are named as a, b, c, d, e, f and g. An extra 8th LED is used to display a dot.
 
