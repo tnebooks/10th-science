@@ -70,8 +70,9 @@ Take a glass tumbler and place a small cardboard on it as shown in the figure. N
 
 The cardboard falls off the ground and the coin falls into the glass tumbler.
 
-** Figure: Inertia of rest
-![Figure: Inertia of rest](inertia.png "Figure: Inertia of rest")
+![](inertia.png "Figure: Inertia of rest")
+
+*Figure: Inertia of rest*
 
 In activity described above, the inertia of the coin keeps it in the state of rest when the cardboard moves. Then, when the cardboard has moved, the coin falls into the tumbler due to gravity. This happen due to 'inertia of rest'.
 
@@ -89,7 +90,9 @@ c) **Inertia of direction:** The resistance of a body to change its direction of
 - When you make a sharp turn while driving a car, you tend to lean sideways. *(Inertia of direction).*
 - When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down. *(Inertia of rest).*
 
-![Figure: Inertia of rest](motion.png "Figure 1.1 Inertia of motion")
+![](motion.png "Figure 1.1 Inertia of motion")
+
+*Figure 1.1 Inertia of motion*
 
 ---
 
