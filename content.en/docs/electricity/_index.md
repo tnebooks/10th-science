@@ -33,7 +33,7 @@ In a similar manner, the electric current passes from the positive terminal (hig
 
 ![](1.png)
 
-**Figure 4.1** Electron Flow
+_Figure 4.1 Electron Flow_
 
 ### 4.1.1 Definition of electric current
 Electric current is often termed as 'current' and it is represented by the symbol 'I'. It is defined as the **rate of flow of charges** in a conductor. This means that the electric current represents the amount of charges flowing in any cross section of a conductor (say a metal wire) in unit time. If a net charge 'Q' passes through any cross section of a conductor in time 't', then the current flowing through the conductor is:
@@ -63,7 +63,7 @@ An electric circuit is a closed conducting loop (or) path, which has a network o
 
 ![](2.png)
 
-**Figure 4.2** A Simple electric circuit
+_Figure 4.2 A Simple electric circuit_
 
 
 In this circuit, if the switch is 'on', the bulb glows. If it is switched off, the bulb does not glow. Therefore, the circuit must be closed in order that the current passes through it. The potential difference required for the flow of charges is provided by the battery. The electrons flow from the negative terminal to the positive terminal of the battery.
@@ -93,12 +93,9 @@ The electric potential at a point is defined as the amount of work done in movin
 ### 4.3.2 Electric Potential Difference
 The electric potential difference between two points is defined as the amount of work done in moving a unit positive charge from one point to another point against the electric force.
 
-
 ![](3.png)
 
-**Figure 4.3** Electric potential
-
-
+_Figure 4.3 Electric potential_
 
 Suppose, you have moved a charge Q from a point A to another point B. Let 'W' be the work done to move the charge from A to B. Then, the potential difference between the points A and B is given by:
 
@@ -146,11 +143,9 @@ Potential Difference V = \frac{W}{Q} = \frac{100}{10} = 10 \text{ volt}
 ## 4.4 Ohm's Law
 A German physicist, Georg Simon Ohm established the relation between the potential difference and current, which is known as **Ohm's Law**.
 
-
 ![](4.png)
 
-**Figure 4.4** Electric circuit to understand Ohm's law
-
+_Figure 4.4 Electric circuit to understand Ohm's law_
 
 According to Ohm's law, at a constant temperature, the steady current 'I' flowing through a conductor is directly proportional to the potential difference 'V' between the two ends of the conductor.
 
@@ -173,7 +168,7 @@ Here, R is a constant for a given material (say Nichrome) at a given temperature
 
 ![](5.png)
 
-**Figure4.5** Relation between potential difference and current
+_Figure4.5 Relation between potential difference and current_
 
 ---
 
@@ -291,7 +286,7 @@ If resistors are connected end to end, so that the same current passes through e
 
 ![](6.png)
 
-**Figure 4.6** Series connection of resistors
+_Figure 4.6 Series connection of resistors_
 
 Let three resistances{{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}} be connected in series. Let the current flowing through them be I. According to Ohm's Law, the potential differences {{< katex display=true >}}V_1, V_2 and V_3 {{< /katex >}}across{{< katex display=true >}}  R_1, R_2 and R_3{{< /katex >}} respectively, are given by:
 {{< katex display=true >}} 
@@ -349,7 +344,7 @@ A parallel circuit has two or more loops through which current can pass. If the 
 
 ![](7.png)
 
-**Figure 4.7** Parallel connection of resistors
+_Figure 4.7 Parallel connection of resistors_
 
 
 Consider that three resistors {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}are connected across two common points A and B. The potential difference across each resistance is the same and equal to the potential difference between A and B. The current I arriving at A divides into three branches{{< katex display=true >}}  I_1, I_2 and I_3{{< /katex >}} passing through {{< katex display=true >}} R_1, R_2 and R_3 {{< /katex >}}respectively.
@@ -405,7 +400,7 @@ If you consider the connection of a set of parallel resistors that are connected
 
 ![](8.png)
 
-**Figure 4.8** Series-parallel combination of resistors
+_Figure 4.8 Series-parallel combination of resistors_
 
 
 Using the parallel formula:
@@ -565,7 +560,7 @@ The meter is used to record the consumption of electrical energy. The fuse box c
 
 ![](10.png)
 
-**Figure 4.10** Domestic electric circuit
+_Figure 4.10 Domestic electric circuit_
 
 
 An **MCB** is a switching device, which can be activated automatically as well as manually. It has a spring attached to the switch, which is attracted by an electromagnet when an excess current passes through the circuit. Hence, the circuit is broken and the protection of the appliance is ensured.
@@ -616,7 +611,7 @@ Displays in digital watches and calculators, traffic signals, street lights, dec
 
 ![](12.png)
 
-**Figure 4.12** Seven segment display
+_Figure 4.12 Seven segment display_
 
 A **'Seven Segment Display'** is the display device used to give an output in the form of numbers or text. It is used in digital meters, digital clocks, microwave ovens, etc. It consists of 7 segments of LEDs in the form of the digit 8. These seven LEDs are named as a, b, c, d, e, f and g. An extra 8th LED is used to display a dot.
 
@@ -735,113 +730,6 @@ Since the resistors are connected in parallel, the same potential difference exi
 
 ---
 
-## Textbook Evaluation
-
-### I. Choose the best answer
-1. Which of the following is correct?
-   - a) Rate of change of charge is electrical power.
-   - b) Rate of change of charge is current.
-   - c) Rate of change of energy is current.
-   - d) Rate of change of current is charge.
-
-2. SI unit of resistance is
-   - a) mho
-   - b) joule
-   - c) ohm
-   - d) ohm meter
-
-3. In a simple circuit, why does the bulb glow when you close the switch?
-   - a) The switch produces electricity.
-   - b) Closing the switch completes the circuit.
-   - c) Closing the switch breaks the circuit.
-   - d) The bulb is getting charged.
-
-4. Kilowatt hour is the unit of
-   - a) resistivity
-   - b) conductivity
-   - c) electrical energy
-   - d) electrical power
-
-### II. Fill in the blanks
-1. When a circuit is open, ____________ cannot pass through it.
-2. The ratio of the potential difference to the current is known as ________.
-3. The wiring in a house consists of _________ circuits.
-4. The power of an electric device is a product of _________ and __________.
-5. LED stands for ___________________.
-
-### III. State whether true or false (correct if false)
-1. Ohm's law states the relationship between power and voltage.
-2. MCB is used to protect house hold electrical appliances.
-3. The SI unit for electric current is the coulomb.
-4. One unit of electrical energy consumed is equal to 1000 kilowatt hour.
-5. The effective resistance of three resistors connected in series is lesser than the lowest of the individual resistances.
-
-### IV. Match the items
-
-| Column - I | Column - II |
-|------------|-------------|
-| (i) electric current | (a) volt |
-| (ii) potential difference | (b) ohm meter |
-| (iii) specific resistance | (c) watt |
-| (iv) electrical power | (d) joule |
-| (v) electrical energy | (e) ampere |
-
-### V. Assertion and Reason
-Mark the correct choice as:
-- a) if both assertion and reason are true and reason is correct explanation
-- b) if both are true but reason is not correct explanation
-- c) if assertion is true but reason is false
-- d) if assertion is false but reason is true
-
-1. **Assertion:** Electric appliances with a metallic body have three wire connections.
-   **Reason:** Three pin connections reduce heating of the connecting wires
-
-2. **Assertion:** In a simple battery circuit the point of highest potential is the positive terminal of the battery.
-   **Reason:** The current flows towards the point of the highest potential
-
-3. **Assertion:** LED bulbs are far better than incandescent bulbs.
-   **Reason:** LED bulbs consume less power than incandescent bulbs.
-
-### VI. Very Short Answer
-1. Define the unit of current.
-2. What happens to the resistance, as the conductor is made thicker?
-3. Why is tungsten metal used in bulbs, but not in fuse wires?
-4. Name any two devices, which are working on the heating effect of the electric current.
-
-### VII. Short Answer
-1. Define electric potential and potential difference.
-2. What is the role of the earth wire in domestic circuits?
-3. State Ohm's law.
-4. Distinguish between the resistivity and conductivity of a conductor.
-5. What connection is used in domestic appliances and why?
-
-### VIII. Long Answer
-1. With the help of a circuit diagram derive the formula for the resultant resistance of three resistances connected: a) in series and b) in parallel
-2. a) What is meant by electric current? b) Name and define its unit. c) Which instrument is used to measure the electric current? How should it be connected in a circuit?
-3. a) State Joule's law of heating. b) An alloy of nickel and chromium is used as the heating element. Why? c) How does a fuse wire protect electrical appliances?
-4. Explain about domestic electric circuits. (circuit diagram not required)
-5. a) What are the advantages of LED TV over the normal TV? b) List the merits of LED bulb.
-
-### IX. Numerical Problems
-1. An electric iron consumes energy at the rate of 420W when heating is at the maximum rate and 180W when heating is at the minimum rate. The applied voltage is 220V. What is the current in each case?
-
-2. A 100 watt electric bulb is used for 5 hours daily and four 60 watt bulbs are used for 5 hours daily. Calculate the energy consumed (in kWh) in the month of January.
-
-3. A torch bulb is rated at 3V and 600mA. Calculate its: a) power b) resistance c) energy consumed if it is used for 4 hours at 3V
-
-4. A piece of wire having a resistance R is cut into five equal parts.
-   a) How will the resistance of each part of the wire change compared with the original resistance?
-   b) If the five parts of the wire are placed in parallel, how will the resistance of the combination change?
-   c) What will be ratio of the effective resistance in series connection to that of the parallel connection?
-
-### X. HOTS (Higher Order Thinking Skills)
-1. Two resistors when connected in parallel give the resultant resistance of 2 ohm; but when connected in series the effective resistance becomes 9 ohm. Calculate the value of each resistance.
-
-2. How many electrons are passing per second in a circuit in which there is a current of 5A?
-
-3. A piece of wire of resistance 10 ohm is drawn out so that its length is increased to three times its original length. Calculate the new resistance.
-
----
 
 ## Reference Books
 1. Electrodynamics by Griffiths
