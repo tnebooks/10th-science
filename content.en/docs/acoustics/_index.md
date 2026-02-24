@@ -30,7 +30,7 @@ By touching a ringing bell or a musical instrument while it is producing music, 
 
 ![](1.png)
 
-**Figure 5.1** Production of sound waves
+_Figure 5.1 Production of sound waves_
 
 Suppose you and your friend are on the Moon. Will you be able to hear any sound produced by your friend? As the Moon does not have air, you will not be able to hear any sound produced by your friend. Hence, you understand that the sound produced due to the vibration of different bodies needs a material medium like air, water, steel, etc, for its propagation. Hence, sound can propagate through a gaseous medium or a liquid medium or a solid medium.
 
@@ -45,7 +45,7 @@ Sound waves are longitudinal waves that can travel through any medium (solids, l
 
 ![](2.png)
 
-**Figure 5.2** Sound propagates as longitudinal waves
+_Figure 5.2 Sound propagates as longitudinal waves_
 
 ---
 
@@ -173,7 +173,7 @@ When sound waves travel in a given medium and strike the surface of another medi
 
 ![](3.png)
 
-**Figure 5.3** Reflection of sound
+_Figure 5.3 Reflection of sound_
 
 ---
 
@@ -187,7 +187,7 @@ These laws can be observed from Figure 5.4.
 
 ![](4.png)
 
-**Figure 5.4** Laws of reflection
+_Figure 5.4 Laws of reflection_
 
 In the above Figure 5.4, the sound waves that travel towards the reflecting surface are called the incident waves. The sound waves bouncing back from the reflecting surface are called reflected waves. For all practical purposes, the point of incidence and the point of reflection is the same point on the reflecting surface.
 
@@ -204,7 +204,7 @@ A longitudinal wave travels in a medium in the form of compressions and rarefact
 
 ![](5.png)
 
-**Figure 5.5** Reflection of sound at a denser medium
+_Figure 5.5 Reflection of sound at a denser medium_
 
 ---
 
@@ -213,7 +213,7 @@ Consider a wave travelling in a solid medium striking on the interface between t
 
 ![](6.png)
 
-**Figure 5.6** Reflection of sound at a rarer medium
+_Figure 5.6 Reflection of sound at a rarer medium_
 
 > **More to know:**
 > **What is meant by rarer and denser medium?**
@@ -324,7 +324,7 @@ v_S and v_L
 
 ![](7.png)
 
-**Figure 5.7** Source and listener moving towards each other
+_Figure 5.7 Source and listener moving towards each other_
 
 Let n and n' be the frequency of the sound produced by the source and the sound observed by the listener respectively. Then, the expression for the apparent frequency n' is:
 
