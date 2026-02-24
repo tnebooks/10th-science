@@ -7,3 +7,4 @@ themes/
 .hugo_build.lock
 .public
 .resource
+.DS_Store

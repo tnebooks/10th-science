@@ -1,12 +1,14 @@
 ---
-title: 'LAWS OF MOTION'
+title: "LAWS OF MOTION"
 weight: 1
 ---
+
 # UNIT1:LAWS OF MOTION
 
 ## Learning Objectives
 
 At the end of this lesson students will be able to:
+
 - Understand the concepts of force and motion.
 - Explain inertia and its types.
 - State the three laws of Newton.
@@ -33,10 +35,11 @@ One answer for all the above questions is 'Force'. In a common man's understandi
 Let us define force in a more scientific manner using the three laws proposed by Sir Isaac Newton. These laws help you to understand the motion of a body and also to predict the future course of its motion, if you know the forces acting on it. Before Newton formulated his three laws of motion, a different perception about the force and motion of bodies prevailed. Let us first look at these ideas and then eventually learn about Newton's laws in this unit.
 
 > **Mechanics** is the branch of physics that deals with the effect of force on bodies. It is divided into two branches, namely, statics and dynamics.
-> 
+>
 > **Statics:** It deals with the bodies, which are at rest under the action of forces.
-> 
+>
 > **Dynamics:** It is the study of moving bodies under the action of forces. Dynamics is further divided as:
+>
 > - **Kinematics:** It deals with the motion of bodies without considering the cause of motion.
 > - **Kinetics:** It deals with the motion of bodies considering the cause of motion.
 
@@ -72,7 +75,7 @@ The cardboard falls off the ground and the coin falls into the glass tumbler.
 
 ![](inertia.png "Figure: Inertia of rest")
 
-*Figure: Inertia of rest*
+_Figure: Inertia of rest_
 
 In activity described above, the inertia of the coin keeps it in the state of rest when the cardboard moves. Then, when the cardboard has moved, the coin falls into the tumbler due to gravity. This happen due to 'inertia of rest'.
 
@@ -86,13 +89,13 @@ c) **Inertia of direction:** The resistance of a body to change its direction of
 
 ### 1.2.2 Examples of Inertia
 
-- An athlete runs some distance before jumping. Because, this will help him jump longer and higher. *(Inertia of motion)*
-- When you make a sharp turn while driving a car, you tend to lean sideways. *(Inertia of direction).*
-- When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down. *(Inertia of rest).*
+- An athlete runs some distance before jumping. Because, this will help him jump longer and higher. _(Inertia of motion)_
+- When you make a sharp turn while driving a car, you tend to lean sideways. _(Inertia of direction)._
+- When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down. _(Inertia of rest)._
 
 ![](motion.png "Figure 1.1 Inertia of motion")
 
-*Figure 1.1 Inertia of motion*
+_Figure 1.1 Inertia of motion_
 
 ---
 
@@ -104,7 +107,7 @@ The product of mass and velocity of a moving body gives the magnitude of linear 
 
 **Linear Momentum = mass × velocity**
 
-   p=mv
+p=mv
 
 It helps to measure the magnitude of a force. Unit of momentum in SI system is kg m s⁻¹ and in C.G.S system its unit is g cm s⁻¹.
 
@@ -119,6 +122,7 @@ This law states that every body continues to be in its state of rest or the stat
 ### 1.4.2 Force
 
 Force is an external effort in the form of push or pull, which:
+
 1. produces or tries to produce the motion of a static body.
 2. stops or tries to stop a moving body.
 3. changes or tries to change the direction of motion of a moving body.
@@ -128,7 +132,7 @@ Force has both magnitude and direction. So, it is a vector quantity.
 ### 1.4.3 Types of forces
 
 Based on the direction in which the forces act, they can be classified into two types as:
-(a) **Like parallel forces** and 
+(a) **Like parallel forces** and
 (b) **Unlike parallel forces**.
 
 **(a) Like parallel forces:** Two or more forces of equal or unequal magnitude acting along the same direction, parallel to each other are called like parallel forces.
@@ -142,20 +146,16 @@ When several forces act simultaneously on the same body, then the combined effec
 Table 1.1 Action of forces
 ![](1.1.png)
 
-
 ![](parallel.png)
-*a) Unlike parallel forces –Tug of war*
-
+_a) Unlike parallel forces –Tug of war_
 
 ![](parallelforce.png)
-*b) Unbalanced forces -Action of a lever*
-
+_b) Unbalanced forces -Action of a lever_
 
 ![](pm.png)
-*(c) Like parallel forces*
+_(c) Like parallel forces_
 
-
-*Figure 1.2: Combined effect of forces*
+_Figure 1.2: Combined effect of forces_
 
 If the resultant force of all the forces acting on a body is equal to zero, then the body will be in equilibrium. Such forces are called **balanced forces**. If the resultant force is not equal to zero, then it causes the motion of the body due to **unbalanced forces**.
 
@@ -171,7 +171,7 @@ The door can be easily opened or closed when you apply the force at a point far 
 
 ![](rotating.png)
 
-*Figure 1.3: Rotating effect of a force*
+_Figure 1.3: Rotating effect of a force_
 
 The axis of the fixed edge about which the door is rotated is called as the **'axis of rotation'**. Fix one end of a rod to the floor/wall, and apply a force at the other end tangentially. The rod will be turned about the fixed point is called as **'point of rotation'**.
 
@@ -199,11 +199,11 @@ By convention, the direction of moment of a force or couple is taken as **positi
 
 ![](clock.png)
 
-*Figure 1.4(a): Clockwise moment* 
+_Figure 1.4(a): Clockwise moment_
 
 ![](anti.png)
 
-*Figure 1.4(b): Anticlockwise moment*
+_Figure 1.4(b): Anticlockwise moment_
 
 ### 1.4.7 Application of Torque
 
@@ -222,7 +222,7 @@ When a number of like or unlike parallel forces act on a rigid body and the body
 
 ![](principle.png)
 
-*Figure 1.5: Principle of moments*
+_Figure 1.5: Principle of moments_
 
 In the illustration given in figure 1.5, the force F₁ produces an anticlockwise rotation at a distance d₁ from the point of pivot P (called fulcrum) and the force F₂ produces a clockwise rotation at a distance d₂ from the point of pivot P. The principle of moments can be written as follows:
 
@@ -241,11 +241,11 @@ According to this law, "the force acting on a body is directly proportional to t
 This law helps us to measure the amount of force. So, it is also called as 'law of force'. Let, 'm' be the mass of a moving body, moving along a straight line with an initial speed 'u'. After a time interval of 't', the velocity of the body changes to **v** due to the impact of an unbalanced external force F.
 
 - Initial momentum of the body: {{< katex display=true >}}P_i = mu
-{{< /katex >}}
+  {{< /katex >}}
 - Final momentum of the body: {{< katex display=true >}}P_f = mv
-{{< /katex >}}
+  {{< /katex >}}
 - Change in momentum: {{< katex display=true >}}\Delta p = P_f - P_i = mv - mu
-{{< /katex >}}
+  {{< /katex >}}
 
 By Newton's second law of motion,
 
@@ -321,12 +321,13 @@ i. a large force acting for a short period of time and
 ii. a smaller force acting for a longer period of time.
 
 **Examples:**
+
 - Automobiles are fitted with springs and shock absorbers to reduce jerks while moving on uneven roads.
 - In cricket, a fielder pulls back his hands while catching the ball. He experiences a smaller force for a longer interval of time to catch the ball, resulting in a lesser impulse on his hands.
 
 ![](image.png)
 
-*Figure 1.6: Example of impulsive force*
+_Figure 1.6: Example of impulsive force_
 
 ---
 
@@ -334,12 +335,13 @@ ii. a smaller force acting for a longer period of time.
 
 Newton's third law states that **'for every action, there is an equal and opposite reaction. They always act on two different bodies'**.
 
-If a body A applies a force {{< katex display=true >}}F_A {{< /katex >}}on a body B, then the body B reacts with force {{< katex display=true >}}F_B{{< /katex >}} on the body A, 
+If a body A applies a force {{< katex display=true >}}F_A {{< /katex >}}on a body B, then the body B reacts with force {{< katex display=true >}}F_B{{< /katex >}} on the body A,
 
 which is equal to {{< katex display=true >}}F_A{{< /katex >}} in magnitude, but opposite in direction.{{< katex display=true >}} F_B = -F_A
 {{< /katex >}}
 
 **Examples:**
+
 - When birds fly they push the air downwards with their wings (Action) and the air pushes the bird upwards (Reaction).
 - When a person swims he pushes the water using the hands backwards (Action), and the water pushes the swimmer in the forward direction (Reaction).
 - When you fire a bullet, the gun recoils backward and the bullet is moving forward (Action) and the gun equalises this forward action by moving backward (Reaction).
@@ -354,7 +356,7 @@ Let us prove the law of conservation of linear momentum with the following illus
 
 ![](linearmotion.png)
 
-*Figure 1.7: Conservation of linear momentum*
+_Figure 1.7: Conservation of linear momentum_
 
 ### Proof:
 
@@ -405,7 +407,7 @@ Force between the masses is always attractive and it does not depend on the medi
 
 ![](laws.png)
 
-*Figure 1.8: Gravitational force between two masses*
+_Figure 1.8: Gravitational force between two masses_
 
 Let, {{< katex display=true >}}m_1 and m_2
 {{< /katex >}} be the masses of two bodies A and B placed r metre apart in space
@@ -443,7 +445,7 @@ When a body is at rests on the surface of the Earth, it is acted upon by the gra
 
 ![](earth.png)
 
-*Figure 1.9: Relation between g and G*
+_Figure 1.9: Relation between g and G_
 
 Here, the radius of the body considered is negligible when compared with the Earth's radius. Now, the same force can be obtained from Newton's second law of motion. According to this law, the force acting on the body is given by the product of its mass and acceleration (called as weight). Here, acceleration of the body is under the action of gravity hence a = g
 
@@ -507,7 +509,7 @@ Let us see this from the following illustration:
 
 ![](moving.png)
 
-*Figure 1.10: A person in a moving lift*
+_Figure 1.10: A person in a moving lift_
 
 Let us consider a person of mass m, who is travelling in lift. The actual weight of the person is {{< katex display=true >}}W = mg{{< /katex >}} which is acting vertically downwards. The reaction force exerted by the lift's surface {{< katex display=true >}}\mathbf{R}{{< /katex >}}, taken as apparent weight is acting vertically upwards.
 
@@ -519,7 +521,7 @@ Have you gone to an amusement park and taken a ride in a roller coaster? or in a
 
 ![](rollar.png)
 
-*Figure 1.11: Weightlessness in a roller coaster*
+_Figure 1.11: Weightlessness in a roller coaster_
 
 Its amazing!!. You actually feel as if you are falling freely without having any weight. This is due to the phenomenon of **'weightlessness'**. You seem to have lost your weight when you move down with a certain acceleration. Sometimes, you experience the same feeling while travelling in a lift.
 
@@ -535,15 +537,15 @@ Astronauts are not floating but falling freely around the earth due to their hug
 
 ![](astronauts.png)
 
-*Figure 1.12: Weightlessness of astronauts*
+_Figure 1.12: Weightlessness of astronauts_
 
 ### Table 1.2: Apparent weight of a person in a moving lift
 
-| Case 1: Lift is moving upward with an acceleration 'a' | Case 2: Lift is moving downward with an acceleration 'a' | Case 3: Lift is at rest. | Case 4: Lift is falling down freely |
-|:---|:---|:---|:---|
+| Case 1: Lift is moving upward with an acceleration 'a'                  | Case 2: Lift is moving downward with an acceleration 'a'                | Case 3: Lift is at rest.                                         | Case 4: Lift is falling down freely                                        |
+| :---------------------------------------------------------------------- | :---------------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------- |
 | R - W = F_net = ma_net <br> R = W + ma <br> R = mg + ma <br> R = m(g+a) | W - R = F_net = ma_net <br> R = W - ma <br> R = mg - ma <br> R = m(g-a) | Here, the acceleration is zero <br> a = 0 <br> R = W <br> R = mg | Here, the acceleration is equal to g <br> a = g <br> R = m(g-g) <br> R = 0 |
-| R > W | R < R = W | R = W | R = 0 |
-| Apparent weight is greater than the actual weight. | Apparent weight is lesser than the actual weight. | Apparent weight is equal to the actual weight. | Apparent weight is equal to zero. |
+| R > W                                                                   | R < R = W                                                               | R = W                                                            | R = 0                                                                      |
+| Apparent weight is greater than the actual weight.                      | Apparent weight is lesser than the actual weight.                       | Apparent weight is equal to the actual weight.                   | Apparent weight is equal to zero.                                          |
 
 ### 1.12.3 Application of Newton's law of gravitation
 
@@ -610,168 +612,6 @@ From the centre of the Earth, the object is placed at twice the radius of the ea
 
 ---
 
-## TEXTBOOK EVALUATION
-
-### I. Choose the correct answer
-
-1. Inertia of a body depends on
-   - a) weight of the object
-   - b) acceleration due to gravity of the planet
-   - c) mass of the object
-   - d) Both a & b
-
-2. Impulse is equals to
-   - a) rate of change of momentum
-   - b) rate of force and time
-   - c) change of momentum
-   - d) rate of change of mass
-
-3. Newton's III law is applicable
-   - a) for a body is at rest
-   - b) for a body in motion
-   - c) both a & b
-   - d) only for bodies with equal masses
-
-4. Plotting a graph for momentum on the Y-axis and time on X-axis. slope of momentum-time graph gives
-   - a) Impulsive force
-   - b) Acceleration
-   - c) Force
-   - d) Rate of force
-
-5. In which of the following sport the turning of effect of force used
-   - a) swimming
-   - b) tennis
-   - c) cycling
-   - d) hockey
-
-6. The unit of 'g' is m s⁻². It can be also expressed as
-   - a) cm s⁻¹
-   - b) N kg⁻¹
-   - c) N m² kg⁻¹
-   - d) cm² s⁻²
-
-7. One kilogram force equals to
-   - a) 9.8 dyne
-   - b) 9.8 × 10⁴ N
-   - c) 98 × 10⁴ dyne
-   - d) 980 dyne
-
-8. The mass of a body is measured on planet Earth as M kg. When it is taken to a planet of radius half that of the Earth then its value will be ____ kg
-   - a) 4M
-   - b) 2M
-   - c) M/4
-   - d) M
-
-9. If the Earth shrinks to 50% of its real radius its mass remaining the same, the weight of a body on the Earth will
-   - a) decrease by 50%
-   - b) increase by 50%
-   - c) decrease by 25%
-   - d) increase by 300%
-
-10. To project the rockets which of the following principle(s) is /(are) required?
-    - a) Newton's third law of motion
-    - b) Newton's law of gravitation
-    - c) law of conservation of linear momentum
-    - d) both a and c
-
----
-
-### II. Fill in the blanks
-
-1. To produce a displacement _________ is required
-2. Passengers lean forward when sudden brake is applied in a moving vehicle. This can be explained by _________
-3. By convention, the clockwise moments are taken as _________ and the anticlockwise moments are taken as _________
-4. _________ is used to change the speed of car.
-5. A man of mass 100 kg has a weight of _________ at the surface of the Earth
-
----
-
-### III. State whether the following statements are true or false. Correct the statement if it is false
-
-1. The linear momentum of a system of particles is always conserved.
-2. Apparent weight of a person is always equal to his actual weight
-3. Weight of a body is greater at the equator and less at the polar region.
-4. Turning a nut with a spanner having a short handle is so easy than one with a long handle.
-5. There is no gravity in the orbiting space station around the Earth. So the astronauts feel weightlessness.
-
----
-
-### IV. Match the following
-
-| Column I | Column II |
-|:---|:---|
-| a. Newton's I law | - propulsion of a rocket |
-| b. Newton's II law | - Stable equilibrium of a body |
-| c. Newton's III law | - Law of force |
-| d. Law of conservation of Linear momentum | - Flying nature of bird |
-
----
-
-### V. Assertion & Reasoning
-
-Mark the correct choice as
-- (a) If both the assertion and the reason are true and the reason is the correct explanation of assertion.
-- (b) If both the assertion and the reason are true, but the reason is not the correct explanation of the assertion.
-- (c) Assertion is true, but the reason is false.
-- (d) Assertion is false, but the reason is true.
-
-1. **Assertion:** The sum of the clockwise moments is equal to the sum of the anticlockwise moments.
-   **Reason:** The principle of conservation of momentum is valid if the external force on the system is zero.
-
-2. **Assertion:** The value of 'g' decreases as height and depth increases from the surface of the Earth.
-   **Reason:** 'g' depends on the mass of the object and the Earth.
-
----
-
-### VI. Answer briefly.
-
-1. Define inertia. Give its classification.
-2. Classify the types of force based on their application.
-3. If a 5N and a 15N forces are acting opposite to one another. Find the resultant force and the direction of action of the resultant force
-4. Differentiate mass and weight.
-5. Define moment of a couple.
-6. State the principle of moments.
-7. State Newton's second law.
-8. Why a spanner with a long handle is preferred to tighten screws in heavy vehicles?
-9. While catching a cricket ball the fielder lowers his hands backwards. Why?
-10. How does an astronaut float in a space shuttle?
-
----
-
-### VII. Solve the given problems
-
-1. Two bodies have a mass ratio of 3:4 The force applied on the bigger mass produces an acceleration of 12 ms⁻². What could be the acceleration of the other body, if the same force acts on it.
-
-2. A ball of mass 1 kg moving with a speed of 10 ms⁻¹ rebounds after a perfect elastic collision with the floor. Calculate the change in linear momentum of the ball.
-
-3. A mechanic unscrew a nut by applying a force of 140 N with a spanner of length 40 cm. What should be the length of the spanner if a force of 40 N is applied to unscrew the same nut?
-
-4. The ratio of masses of two planets is 2:3 and the ratio of their radii is 4:7 Find the ratio of their accelerations due to gravity.
-
----
-
-### VIII. Answer in detail.
-
-1. What are the types of inertia? Give an example for each type.
-2. State Newton's laws of motion?
-3. Deduce the equation of a force using Newton's second law of motion.
-4. State and prove the law of conservation of linear momentum.
-5. Describe rocket propulsion.
-6. State the universal law of gravitation and derive its mathematical expression
-7. Give the applications of universal law gravitation.
-
----
-
-### IX. HOT Questions
-
-1. Two blocks of masses 8 kg and 2 kg respectively lie on a smooth horizontal surface in contact with one other. They are pushed by a horizontally applied force of 15 N. Calculate the force exerted on the 2 kg mass.
-
-2. A heavy truck and bike are moving with the same kinetic energy. If the mass of the truck is four times that of the bike, then calculate the ratio of their momenta. (Ratio of momenta = 2:1)
-
-3. "Wearing helmet and fastening the seat belt is highly recommended for safe journey" Justify your answer using Newton's laws of motion.
-
----
-
 ## REFERENCE BOOKS
 
 - Concept of physics - HC verma
@@ -813,4 +653,7 @@ Kinematics
 - You will observe (M₁+M₂)a = M₂g. Hence Newton's Second Law is verified. Repeat the experiment with different masses. Also do this in different environment like Earth, Moon, Uranus and Jupiter. Click reset to restart the experiment.
 
 **Link:** http://amrita.olabs.edu.in/?sub=1&brch=1&sim=44&cnt
+
+```
+
 ```
