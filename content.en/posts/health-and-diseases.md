@@ -1,7 +1,7 @@
 ---
 author: "Michael Henderson"
 date: 2014-09-28
-linktitle: "Health and Diseases"
+linktitle: "HEALTH AND DISEASES"
 menu:
   main:
     parent: tutorials

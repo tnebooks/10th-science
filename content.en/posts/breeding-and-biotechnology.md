@@ -1,7 +1,7 @@
 ---
 author: "Michael Henderson"
 date: 2014-09-28
-linktitle: "Breeding and Biotechnology"
+linktitle: "BREEDING AND BIOTECHNOLOGY"
 menu:
   main:
     parent: tutorials
