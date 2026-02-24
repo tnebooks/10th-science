@@ -138,10 +138,9 @@ _{92}\mathrm{U}^{238} \rightarrow _{90}\mathrm{Th}^{234} + _{2}\mathrm{He}^{4} \
 
 In α-decay, the parent nucleus emits an α particle and so it is clear that for the daughter nucleus, the mass number decreases by four and the atomic number decreases by two.
 
-
 ![](1.png)
 
-**Figure 6.1** Alpha decay
+_Figure 6.1 Alpha decay_
 
 ### 6.2.4 Beta decay
 
@@ -172,12 +171,9 @@ _{92}\mathrm{U}^{235} + _{0}\mathrm{n}^{1} \rightarrow _{56}\mathrm{Ba}^{141} + 
 
 The average energy released in each fission process is about 3.2 x {{< katex >}}10^{-11} J{{< /katex >}}. Nuclear fission is pictorially represented in Figure 6.2
 
-
 ![](2.png)
 
-**Figure 6.2** Nuclear fission
-
-
+_Figure 6.2 Nuclear fission_
 
 ### 6.3.2 Fissionable materials
 
@@ -209,10 +205,9 @@ In the controlled chain reaction the number of neutrons released is maintained t
 
 In the uncontrolled chain reaction the number of neutrons multiplies indefinitely and causes fission in a large amount of the fissile material. This results in the release of a huge amount of energy within a fraction of a second. This kind of chain reaction is used in the **atom bomb** to produce an explosion.
 
-
 ![](3.png)
 
-**Figure 6.3** Uncontrolled chain reaction
+_Figure 6.3 Uncontrolled chain reaction_
 
 ### 6.3.4 Critical Mass
 
@@ -236,7 +231,7 @@ An atom bomb consists of a piece of fissile material whose mass is subcritical. 
 
 ![](4.png)
 
-**Figure 6.4** Atom bomb
+_Figure 6.4 Atom bomb_
 
 
 During this explosion tremendous amount of energy in the form of heat, light and radiation is released. A region of very high temperature and pressure is formed in a fraction of a second along with the emission of hazardous radiation like γ rays, which adversely affect the living creatures. This type of atom bombs were exploded in 1945 at Hiroshima and Nagasaki in Japan during the World War II.
@@ -265,10 +260,9 @@ _{1}\mathrm{H}^{2} + _{1}\mathrm{H}^{2} \rightarrow _{2}\mathrm{He}^{4} + Q \tex
 
 Here,{{< katex display=true >}} _{1}\mathrm{H}^{2} {{< /katex >}}represents an isotope of hydrogen known as **'deuterium'**. The average energy released in each fusion reaction is about {{< katex display=true >}}3.84 \times 10^{-12} J {{< /katex >}}.
 
-
 ![](5.png)
 
-**Figure 6.5** Nuclear fusion
+_Figure 6.5 Nuclear fusion_
 
 The mass of the daughter nucleus formed during a nuclear reaction (fission and fusion) is lesser than the sum of the masses of the two parent nuclei. This difference in mass is called **mass defect**. This mass is converted into energy, according to the mass-energy equivalence. This concept of mass-energy equivalence was proposed by Einstein in 1905. It stated that mass can be converted into energy and vice versa. The relation between mass and energy proposed by Einstein is:
 
@@ -370,10 +364,9 @@ The International Commission on Radiological Protection (ICRP) has recommended c
 
 ### 6.6.2 Preventive measures
 
-
 ![](6.png)
 
-**Figure. 6.6** Lead coated aprons model.
+_Figure. 6.6 Lead coated aprons model._
 
 - Radioactive materials should be kept in a thick walled lead container.
 - Lead coated aprons and lead gloves should be used while working with hazardous radioactive materials.
@@ -413,7 +406,7 @@ The essential components of a nuclear reactor are:
 
 ![](7.png)
 
-**Figure 6.7** Schematic diagram of a nuclear reactor
+_Figure 6.7 Schematic diagram of a nuclear reactor_
 
 
 ### 6.7.3 Uses of a nuclear reactor
