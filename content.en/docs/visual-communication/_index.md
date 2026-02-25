@@ -6,6 +6,7 @@ weight: 23
 # UNIT 23: VISUAL COMMUNICATION
 
 ## Learning Objectives
+
 At the end of this lesson the students will be able to:
 
 - Differentiate a File from a Folder
@@ -52,11 +53,11 @@ For example if the computer is operating on the Windows OS, we can collect our n
 
 As per it’s name we can type notes in ‘Notepad’ and save the created files in a folder. Likewise in the ‘Paint’ app we can draw and edit pictures. With these pictures, let us see how we can create image gallery, animations and graphics easily.
 
-![](teacher%20(2).png)
+![](<teacher%20(2).png>)
 
 Pictures and audio-visuals gives us more understanding than teaching and writing on the black board. Is it right?
 
-![](teacher%20(1).png)
+![](<teacher%20(1).png>)
 
 Instead of saying a story like ‘once upon a time there was a king’ we can understand the concept easily by seeing the video and also it registers firmly in the minds of the students.
 
@@ -119,7 +120,6 @@ Click the menu **Script → Event**, drag a **when green flag clicked** block to
 
 ![](img4.png)
 
-
 Click the menu **Script → Motion** menu, drag a **goto x: 0 y: 0** block to the scripts area and snap it to the bottom of the when green flag clicked block.
 
 ![](img5.png)
@@ -145,7 +145,7 @@ Click the green flag at the top right corner of the stage to run your program.
 
 **Program for print the word “Hello” with sound**
 
-![](img7(0).png)
+![](<img7(0).png>)
 
 1. Click events in script option.
 
@@ -155,7 +155,6 @@ Click the green flag at the top right corner of the stage to run your program.
 
 ![](img8.png)
 
-
 3. Click Looks in script option. Drag “say” to script area.
 
 ![](img9.png)
@@ -163,7 +162,6 @@ Click the green flag at the top right corner of the stage to run your program.
 4. Type “Hello” word in say tab.
 
 ![](img10.png)
-
 
 5. Click sounds in script option. Drag play sound to script area. Choose the hello sound from the audio file.
 
@@ -183,58 +181,3 @@ Click the green flag at the top right corner of the stage to run your program.
 (Hello text displayed by sprite)
 
 ---
-
-## TEXTBOOK EVALUATION
-
-### I. Choose the best answer
-
-1. Which software is used to create animation?  
-   a) Paint  
-   b) PDF  
-   c) MS Word  
-   d) Scratch
-
-2. All files are stored in the ____________  
-   a) Folder  
-   b) box  
-   c) Pai  
-   d) scanner
-
-3. Which is used to build scripts?  
-   a) Script area  
-   b) Block palette  
-   c) stage  
-   d) sprite
-
-4. Which is used to edit programs?  
-   a) Inkscape  
-   b) script editor  
-   c) stage  
-   d) sprite
-
-5. Where you will create category of blocks?  
-   a) Block palette  
-   b) Block menu  
-   c) Script area  
-   d) sprite
-
----
-
-### II. Match the Following
-
-| Column A | Column B |
-| :--- | :--- |
-| 1. Script Area | Type notes |
-| 2. Folder | Animation software |
-| 3. Scratch | Edit programs |
-| 4. Costume editor | Store files |
-| 5. Notepad | Build Scripts |
-
----
-
-### III. Answer the following
-
-1. What is Scratch?
-2. Write a short note on editor and its main parts?
-3. What is Stage?
-4. What is Sprite?
