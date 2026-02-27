@@ -142,14 +142,20 @@ Coal and Petroleum are natural resources. They are called fossil fuels as they a
 **YOU KNOW?**
 India is the third largest consumer of crude oil in the world, after the United States and China.
 
-Coal is used for generation of electricity at Thermal power plants. Petroleum also known as crude oil is processed in oil refineries to produce petrol and diesel which are used to run automobiles, trucks, trains, ships and airplanes etc. Kerosene and LPG (Liquefied Petroleum Gas) obtained from petroleum is used as domestic fuel for cooking food. The coal and petroleum reserves can get exhausted if we continue using them at a rapid rate. The formation of these fossil fuels is a very slow process and takes very long period of time for renewal.
+Coal is used for generation of electricity at Thermal power plants. Petroleum also known as crude oil is processed in oil refineries to produce petrol and diesel which are used to run automobiles, trucks, trains, ships and airplanes etc. Kerosene and LPG (Liquefied Petroleum Gas) obtained from petroleum is used as domestic fuel for cooking food. 
+
+The coal and petroleum reserves can get exhausted if we continue using them at a rapid rate. The formation of these fossil fuels is a very slow process and takes very long period of time for renewal.
 
 ### 22.5.3 Steps to Conserve Coal and Petroleum Resources
 
 It is necessary to conserve or save coal and petroleum resources for the future use, which can be done by reducing their consumption.
+
 (i) If electricity is saved, it will inturn reduce the use of coal.
+
 (ii) Using bicycle for covering short distances instead of using cars, scooters or motorcycles.
+
 (iii) Using pressure cooker can reduce the consumption of kerosene and LPG while cooking food. Solar cooker and solar heaters can be used wherever possible.
+
 (iv) Motor vehicles should be designed with fuel efficient engines to increase efficiency and also reduce air pollution.
 
 **Case study of Taj Mahal**
@@ -157,7 +163,9 @@ The Taj Mahal is one of the seven wonders of the world and is located in Agra, U
 
 ## 22.6 Non-Conventional (Alternative) Energy Resources
 
-The energy crisis has shown that for sustainable development in energy sector we must conserve the non-renewable conventional resources from its rapid depletion and replace them by non-polluting, renewable sources which are environmentally clean. Efforts are made to develop new sources of energy which is called non-conventional sources of energy. It would provide greater initiative to local people who could assess their needs and resources and plan a strategy that could be useful to them.
+The energy crisis has shown that for sustainable development in energy sector we must conserve the non-renewable conventional resources from its rapid depletion and replace them by non-polluting, renewable sources which are environmentally clean. 
+
+Efforts are made to develop new sources of energy which is called non-conventional sources of energy. It would provide greater initiative to local people who could assess their needs and resources and plan a strategy that could be useful to them.
 
 ### 22.6.1 Solar Energy
 
@@ -170,9 +178,13 @@ The energy from the sun can be harnessed to provide power. The various devices u
 Solar cells (Photovoltaic devices) is made up of silicon that converts sunlight directly into electricity. Solar cell produces electricity without polluting the environment. Since it uses no fuel other than sunlight, no harmful gases, no burning and no wastes are produced. These can be installed in remote and inacessible areas (forests and hilly regions) where setting up of power plant is expensive.
 
 **Uses of Solar cells**
+
 (i) It can be used for street lighting, traffic signals, water pumping, battery charging system etc.
+
 (ii) It is used in artificial satellites and space probes.
+
 (iii) It provides radio and TV transmission to remote areas.
+
 (iv) It is used in calculators, electronic toys and watches.
 
 **Solar Panel**
@@ -194,9 +206,13 @@ In solar thermal power plants, many solar panels are used to concentrate sun ray
 A capacity of 100 litres solar heater can save upto 1500 units of electricity per year.
 
 **Advantages of Solar Energy**
+
 (i) It is available in abundance in our country and is free of cost.
+
 (ii) It is a renewable source of energy.
+
 (iii) It can be used for generating electricity or heat.
+
 (iv) It does not cause pollution.
 
 ### 22.6.2 Biogas
@@ -204,23 +220,35 @@ A capacity of 100 litres solar heater can save upto 1500 units of electricity pe
 Biogas is the mixture of methane (nearly 75%), hydrogen sulphide, carbon dioxide and hydrogen. It is produced by the decomposition of animal wastes (cow dung) and plant wastes in the absence of oxygen. It is also commonly called as 'Gobar gas' since the starting material used is cow dung which means gobar in Hindi.
 
 **Uses of biogas**
+
 (i) It is used as fuel for cooking.
+
 (ii) It is used to run motors and pump sets.
+
 (iii) It is used to generate electricity.
 
 **Advantages of biogas**
+
 (i) It burns without smoke and therefore causes less pollution.
+
 (ii) An excellent way to get rid of organic wastes like bio-waste and sewage material.
+
 (iii) Left over slurry is a good manure rich in nitrogen and phosphorus.
+
 (iv) It is safe and convenient to use.
+
 (v) It can reduce the amount of greenhouse gases emitted.
 
 ### 22.6.3 Shale gas
 
-Shale refers to the soft finely stratified sedimentary rock that is formed from the compaction of small old rocks containing mud and minerals - such as quartz and calcite, trapped beneath earth's surface. These rocks contain fossil fuels like oil and gas in their pores. The fuel is extracted by a technique called hydraulic fracturing (drilling or well boring of sedimentary rocks layers to reach productive reservoir layers).
+Shale refers to the soft finely stratified sedimentary rock that is formed from the compaction of small old rocks containing mud and minerals - such as quartz and calcite, trapped beneath earth's surface. These rocks contain fossil fuels like oil and gas in their pores. 
+
+The fuel is extracted by a technique called hydraulic fracturing (drilling or well boring of sedimentary rocks layers to reach productive reservoir layers).
 
 **Environmental concerns of shale gas**
+
 (i) Shale drilling could affect groundwater reserves, which can contaminate the drinking water resources and also affect the fertility of the soil.
+
 (ii) Million gallons of water is needed to break and release the shale gas, which inturn can affect the water table.
 
 **More to Know**
@@ -246,29 +274,47 @@ Windmill is a machine that converts the energy of wind into rotational energy by
 (iii) Expenses on periodic maintenance is low when compared to the other power sources.
 
 **Activity 1**
-Collect information regarding the (i) Tehri Dam project (ii) Sardar Sarovar Dam project.
+
+Collect information regarding the 
+
+(i) Tehri Dam project 
+
+(ii) Sardar Sarovar Dam project.
 
 ### 22.6.5 Water Energy
 
-Earth's surface is covered with nearly 71% of water. Harnessing the energy from the flowing water can be used to produce electricity. The technique to harness the water energy is called Hydropower. The electrical energy is derived from water flow, water falling from a height. Hilly areas are suitable for this purpose where there is continous flow of water in large amounts falling from high slopes. It does not cause environmental pollution or waste generation. Hydropower plants converts the kinetic energy of flowing water into electricity. This is called hydroelectricity.
+Earth's surface is covered with nearly 71% of water. Harnessing the energy from the flowing water can be used to produce electricity. The technique to harness the water energy is called Hydropower. 
+
+The electrical energy is derived from water flow, water falling from a height. Hilly areas are suitable for this purpose where there is continous flow of water in large amounts falling from high slopes. It does not cause environmental pollution or waste generation. 
+
+Hydropower plants converts the kinetic energy of flowing water into electricity. This is called hydroelectricity.
 
 ### 22.6.6 Tidal Energy
 
-Tidal energy is the energy obtained from the movement of water due to ocean tides. Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted on the oceans of the earth. A tidal stream is a fast flowing body of water created by tides. Turbines are placed in tidal streams. When the tides hit the turbine, the turbine rotates and converts the tidal energy into electric energy.
+Tidal energy is the energy obtained from the movement of water due to ocean tides. Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted on the oceans of the earth. 
+
+A tidal stream is a fast flowing body of water created by tides. Turbines are placed in tidal streams. When the tides hit the turbine, the turbine rotates and converts the tidal energy into electric energy.
 
 **Advantages of tidal energy**
+
 (i) Tidal energy does not produce any pollution.
+
 (ii) It does not use any fuel and does not produce any waste.
+
 (iii) Tides are predictable, so tidal energy can be produced at any time.
+
 (iv) Water is denser than air and therefore can generate electricity at lower speeds than wind turbines.
 
 ## 22.7 Rainwater Harvesting
 
-Rainwater harvesting is a technique of collecting and storing rainwater for future use. It is a traditional method of storing rain water in underground tanks, ponds, lakes, check dams and used in future. The main purpose of rainwater harvesting is to make the rainwater percolate under the ground so as to recharge 'groundwater level'.
+Rainwater harvesting is a technique of collecting and storing rainwater for future use. It is a traditional method of storing rain water in underground tanks, ponds, lakes, check dams and used in future. 
+
+The main purpose of rainwater harvesting is to make the rainwater percolate under the ground so as to recharge  **"groundwater level"**.
 
 ### Methods of rainwater harvesting
 
 (i) **Roof top rainwater harvesting:** Roof-tops are excellent rain catchers. The rain water that falls on the roof of the houses, apartments, commercial buildings etc. is collected and stored in the surface tank and can be used for domestic purpose.
+
 (ii) **Recharge pit:** In this method, the rainwater is first collected from the roof tops or open spaces and is directed into the percolation pits through pipes for filtration. After filtration the rainwater enters the recharge pits or ground wells.
 
 ![](img4.png)
