@@ -53,8 +53,11 @@ The neurons may be of different types based on their structure and functions.
 **Fig. 15.2** Unipolar (A), Bipolar (B) and multipolar (C) neurons
 
 Structurally the neurons may be of the following types:
+
 (i) **Unipolar neurons:** Only one nerve process arises from the cyton which acts as both axon and dendron.
+
 (ii) **Bipolar neurons:** The cyton gives rise to two nerve processes of which one acts as an axon while another as a dendron.
+
 (iii) **Multipolar neurons:** The cyton gives rise to many dendrons and an axon.
 
 | Types | Location |
@@ -70,7 +73,9 @@ On the basis of functions neurons are categorised as:-
 
 ### 15.1.3 Types of Nerve Fibres
 Nerve fibres are of two types based on the presence or absence of myelin sheath.
+
 (i) **Myelinated nerve fibre:** The axon is covered with myelin sheath.
+
 (ii) **Non-myelinated nerve fibre:** The axon is not covered by myelin sheath.
 
 Myelinated and non-myelinated nerve fibres form the white matter and grey matter of the brain.
@@ -108,8 +113,11 @@ The brain and the spinal cord being delicate vital structures are well protected
 **Fig. 15.4** Meninges of Brain
 
 The brain is the controlling centre of all the body activities. It is covered by three connective tissue membrane or meninges:
+
 (i) **Duramater** (dura: tough; mater: membrane) is the outermost thick fibrous membrane
+
 (ii) **Arachnoid membrane** (arachnoid: spider) is the middle, thin vascular membrane providing web like cushion
+
 (iii) **Piamater** (Pia: soft or tender) is the innermost, thin delicate membrane richly supplied with blood.
 
 Meningeal membranes protect the brain from mechanical injury.
@@ -178,19 +186,26 @@ The grey matter of spinal cord is 'H' shaped. The upper end of letter 'H' forms 
 The brain is suspended in a special fluid environment called cerebrospinal fluid (CSF). It is lymph like, watery fluid that surrounds and protects the brain within the skull. It also fills the central canal of the spinal cord.
 
 **Functions:**
+
 (i) It acts as shock absorbing fluid and protects the brain from damage when it is subjected to sudden jerk.
+
 (ii) It supplies nutrients to the brain.
+
 (iii) It collects and removes wastes from the brain.
+
 (iv) It is also responsible for maintaining a constant pressure inside the cranium.
 
 ## 15.5 Reflex Action
 A reflex is any response that occurs automatically without consciouness. There are two types of reflexes.
+
 (i) **Simple or basic reflexes:** These reflexes are inbuilt and unlearned responses. Many of the actions we perform in our day to day life are simple reflexes. e.g., winking of eyes when any dust particles enters, sneezing, coughing, yawning, etc. We perform these actions without thinking.
+
 (ii) **Acquired or conditioned reflexes:** These reflexes are the result of practice and learning. Playing harmonium by striking a particular key on seeing a music note is an example of conditioned reflexes which required conscious training effort. Can you think of some more examples of conditioned reflexes?
 
 Most of the reflex actions are monitored and controlled by the spinal cord, hence also known as spinal reflexes. The pathway taken by nerve impulse to accomplish reflex action is called reflex arc.
 
 Now, let us understand how the body executes reflex action when we touch a hot plate.
+
 (i) When we touch a very hot pan, the stimulus is the heat which is sensed by receptor called as heat receptors or thermoreceptors in our hand. This stimulus (heat) inturn triggers an impulse in sensory neuron.
 
 ![](7.png)
@@ -198,8 +213,11 @@ Now, let us understand how the body executes reflex action when we touch a hot p
 **Fig. 15.7** Reflex action and its pathway
 
 (ii) The sensory neuron transmits or conveys the message to the spinal cord.
+
 (iii) Spinal cord interprets the stimulus and the impulse is passed on to the relay neuron which inturn transmits it to a motor neuron.
+
 (iv) Motor neurons carry command from spinal cord to our arm.
+
 (v) Muscle in our arm contracts and we withdraw our hand immediately from the pan.
 
 In this example, muscle is an effector organ which has responded to the heat. You will study in higher classes how the neuronal impulse triggers the muscular movement.
