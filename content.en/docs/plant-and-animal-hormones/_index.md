@@ -1,5 +1,30 @@
+---
+title: 'PLANT AND ANIMAL HORMONES'
+weight: 16
+---
+#  UNIT 16 : PLANT AND ANIMAL HORMONES
 
-# Plant and Animal Hormones
+## Learning Objectives
+At the end of this lesson the students will be able to:
+- Define hormone
+- List out plant hormones.
+- Classify plant hormones into growth promoters and growth inhibitors.
+- Differentiate the physiological effects of various plant hormones.
+- Understand how plant hormones control and coordinate various physiological activities in plants.
+- Know the various endocrine glands in the human body. 
+- Identify the location and structure of the endocrine glands in the human body.
+- Differentiate exocrine and endocrine glands.
+- Know the specific site of action and their functions.
+- Identify the disorders which occur due to decreased or increased hormone secretion.
+
+
+## Introduction
+The word hormone is derived from the Greek word “hormon” meaning “ to excite”. The function of control and coordination in plants is performed by chemical substances produced by the plants called plant hormones. In plants several cells are capable of producing hormones. These phytohormones are transported to different parts of the plants to perform various physiological functions. 
+
+Endocrine glands in vertebrate animals possess a diversified communication system to co-ordinate physiological and metabolic functions by chemical integration. The endocrine system acts through chemical messengers known as hormones which are produced by specialized glands. Physiological processes such as digestion, metabolism, growth, development and reproduction are controlled by hormones.
+
+## 16.1 Plant Hormones
+Plant hormones are organic molecules that are produced at extremely low concentration in plants. These molecules control morphological, physiological and biochemical responses. 
 
 ## Types of Plant Hormones
 
@@ -15,6 +40,8 @@ Among all these plant hormones, **auxins, cytokinins, and gibberellins** promote
 
 ---
 
+![](img1.png)
+
 ## 16.1.1 Auxins
 
 Auxins (Gk. *auxein* = to grow) were the first plant hormones discovered. The term auxin was introduced by Kogl and Haagen-Smith (1931). Auxins are produced at the tip of stems and roots from where they migrate to the zone of elongation.
@@ -23,28 +50,29 @@ Charles Darwin (1880) observed unilateral growth and curvature of canary grass (
 
 ### 16.1.1.1 Went's Experiment
 
-Frits Warmolt Went (1903–1990), a Dutch biologist, demonstrated the existence and effect of auxin in plants through a series of experiments in *Avena*:
+Frits Warmolt Went (1903–1990), a Dutch biologist, demonstrated the existence and effect of auxin in plants. He did a series of experiments in Avena coleoptiles. 
 
-- **First experiment**: Removed the tips of *Avena* coleoptiles. The cut tips did not grow, indicating that the tips produced something essential for growth.
-- **Second experiment**: Placed agar blocks on the decapitated coleoptile tips. No response was observed.
-- **Third experiment**: Placed detached coleoptile tips on agar blocks. After an hour, he discarded the tips and placed this agar block on the decapitated coleoptile. It grew straight up, indicating that some chemical had diffused from the cut coleoptile tips into the agar block which stimulated growth.
+In his first experiment he removed the tips of Avena coleoptiles. The cut tips did not grow indicating that the tips produced something essential for growth.In his second experiment he placed the agar blocks on the decapitated coleoptile tips. The coleoptile tips did not show any response. In his next experiment he placed the detached coleoptile tips on agar blocks. After an hour, he discarded the tips and placed this agar block on the decapitated coleoptile. It grew straight up indicating that some chemical had diffused from the cut coleoptile tips into the agar block which stimulated the growth. 
 
-Went concluded that a chemical diffusing from the tip of coleoptiles was responsible for growth, and he named it **"Auxin"** meaning 'to grow'.
+From his experiments Went concluded that a chemical diffusing from the tip of coleoptiles was responsible for growth, and he named it as “Auxin” meaning "to grow”.
 
-### Types of Auxins
+![](img2.png)
 
-| Type | Description | Examples |
-|------|-------------|----------|
-| **Natural Auxins** | Produced by plants | IAA (Indole-3-Acetic Acid), PAA (Phenyl Acetic Acid), IAN (Indole-3-Acetonitrile) |
-| **Synthetic Auxins** | Artificially synthesized | 2,4-D (2,4-Dichlorophenoxy Acetic Acid), IBA (Indole-3-Butyric Acid), NAA (α-Naphthalene Acetic Acid), 2,4,5-T |
+ **Types of Auxins:** Auxins are classified into two types, namely natural auxins and synthetic auxins.
+1.  **Natural Auxins:** Auxins produced by the plants are called natural auxins. Example: IAA (Indole – 3 - Acetic Acid)
+2.  **Synthetic Auxins:**  Artificially synthesized auxins that have properties like auxins are called as synthetic auxins. Example: 2,4 D (2,4 Dichlorophenoxy Acetic Acid). 
 
-### Physiological Effects of Auxins
+**Physiological effects of auxins:** Auxins bring about a variety of physiological effects in different parts of the plant body. 
 
-1. Promote elongation of stems and coleoptiles
-2. Induce root formation at low concentration; inhibit at higher concentration
-3. **Apical dominance**: Auxins produced by apical buds suppress growth of lateral buds
-4. **Parthenocarpy**: Induce seedless fruits without fertilization (e.g., Watermelon, Grapes, Lime)
-5. Prevent formation of abscission zone
+1. Auxins promote the elongation of stems and coleoptiles which makes them to grow.
+![](img3.png)
+2. Auxins induce root formation at low concentration and inhibit it at higher concentration.
+3. The auxins produced by the apical buds suppress growth of lateral buds. This is called apical dominance.
+4. Seedless fruits without fertilization are induced by the external application of auxins. (Parthenocarpy). Examples: Watermelon, Grapes, Lime etc.
+5. Auxins prevent the formation of abscission layer. 
+
+
+> **Do You Know** Phenyl Acetic Acid (PAA) and Indole 3 Acetonitrile (IAN) are natural auxins. Indole 3 Butyric Acid (IBA), Indole-3-Propionic Acid, α-Naphthalene Acetic Acid (NAA), 2, 4, 5-T (2,4,5 Trichlorophenoxy Acetic Acid) are some of the synthetic auxins.
 
 ---
 
@@ -54,39 +82,52 @@ Cytokinins (*Cytos* = cell; *kinesis* = division) are plant hormones that promot
 
 ### Physiological Effects of Cytokinins
 
-1. Induce cell division (cytokinesis) in the presence of auxins
-2. Cause cell enlargement
-3. Essential for morphogenesis (formation of new organs from callus in tissue culture)
-4. Promote growth of lateral buds even in presence of apical bud
-5. **Richmond-Lang effect**: Delay senescence (aging) in plants
+1. Cytokinin induces cell division (cytokinesis) in the presence of auxins.
+2. Cytokinin also causes cell enlargement.
+3. Both auxins and cytokinins are essential for the formation of new organs from the callus in tissue culture (Morphogenesis).
+4. Cytokinins promote the growth of lateral buds even in the presence of apical bud.
+5. Application of cytokinin delays the process of ageing in plants. This is called Richmond Lang effect.
 
 ---
 
 ## 16.1.3 Gibberellins
 
-The most abundantly found plant hormones. Kurosawa (1926) observed **Bakanae disease** (foolish seedling disease) in rice crops. This internodal elongation was caused by fungus *Gibberella fujikuroi*. The active substance was identified as Gibberellic acid.
+Gibberellins are the most abundantly found plant hormones. Kurosawa (1926) observed **Bakanae disease** or  **foolish seedling disease** in rice crops. This internodal elongation in rice was caused by fungus Gibberella fujikuroi. The active substance was identified as **Gibberellic acid**.
+
+The most abundantly found plant hormones. Kurosawa (1926) observed  (foolish seedling disease) in rice crops. This internodal elongation was caused by fungus *Gibberella fujikuroi*. The active substance was identified as Gibberellic acid.
 
 ### Physiological Effects of Gibberellins
 
-1. Stimulate extraordinary elongation of internodes (e.g., Corn, Sugarcane)
-2. **Bolting**: Treatment of rosette plants with gibberellin induces sudden shoot elongation followed by flowering
-3. Promote production of male flowers in monoecious plants (Cucurbits)
-4. Break dormancy of potato tubers
-5. More efficient than auxins in inducing parthenocarpic fruits
+1. Application of gibberellins on plants stimulate extraordinary elongation of internode. e.g. Corn and Pea.
+
+![](img4.png)
+
+2. Treatment of rosette plants with gibberellin induces sudden shoot elongation followed by flowering. This is called bolting.
+3. Gibberellins promote the production of male flowers in monoecious plants (Cucurbits).
+4. Gibberellins break dormancy of potato tubers.
+5. Gibberellins are efficient than auxins in inducing the formation of seedless fruit - Parthenocarpic fruits (Development of fruits without fertilization) e.g. Tomato.
 
 ---
 
 ## 16.1.4 Abscisic Acid (ABA)
 
-A growth inhibitor which regulates abscission and dormancy. Increases tolerance of plants to various kinds of stress → called **stress hormone**. Found in chloroplast of plants.
+Abscisic acid (ABA) is a growth inhibitor which regulates abscission and dormancy. It increases tolerance of plants to various kinds of stress. So, it is also called as**stress hormone**. It is found in the chloroplast of plants. 
 
 ### Physiological Effects of Abscisic Acid
 
-1. Promotes abscission (separation of leaves, flowers, fruits from branch)
-2. Causes stomatal closure during water stress and drought conditions
-3. Promotes senescence in leaves by causing loss of chlorophyll
-4. Induces bud dormancy towards winter in trees like birch
-5. Powerful inhibitor of lateral bud growth in tomato
+1. ABA promotes the process of abscission (separation of leaves, flowers and fruits from the branch).
+2. During water stress and drought conditions ABA causes stomatal closure. 
+
+![](img5.png)
+
+> **Activity** Place two or three unripe tomatoes in a brown paper bag with a ripe bananas and roll the top closed. In another bag place two or three unripe tomatoes only and roll the top closed, Observe what happens to the tomatoes? Why?
+
+As the banana continues to ripen in the first bag, it produces ethylene gas. The gas trapped in the bag will cause tomatoes to ripen.The tomatoes remain unripe in the second bag
+
+
+3. ABA promotes senescence in leaves by causing loss of chlorophyll.
+4. ABA induces bud dormancy towards the approach of winter in trees like birch.
+5. ABA is a powerful inhibitor of lateral bud growth in tomato.
 
 ---
 
@@ -100,7 +141,8 @@ Place unripe tomatoes in a paper bag with a ripe banana. The banana produces eth
 
 ### Physiological Effects of Ethylene
 
-1. Promotes ripening of fruits (Tomato, Apple, Mango, Banana)
+1. Promotes ripening of fruits (Tomato, Apple, Mango, Banana, etc)
+![](img6.png)
 2. Inhibits elongation of stem and root in dicots
 3. Hastens senescence of leaves and flowers
 4. Stimulates formation of abscission zone → premature shedding
