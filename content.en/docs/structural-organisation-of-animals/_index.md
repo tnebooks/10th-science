@@ -312,8 +312,7 @@ Brain is situated in the cranial cavity and covered by three membranes called an
 
 Forebrain consists of a pair of olfactory lobes, cerebral hemispheres and diencephalon. The right and left cerebral hemispheres are connected by transverse band of nerve tissue called corpus callosum.
 
-The midbrain includes the optic lobes. The hindbrain consists of the cerebellum, pons varolii and medulla oblongata.
-
+The midbrain includes the optic lobes. The hindbrain consists of the cerebellum, ponsvarolii and medulla oblongata. You will study about the details of mammalian brain in the chapter on nervous system
 ## 13.2.8 Urinogenital System
 It comprises the urinary or excretory system and the genital or reproductive system. Therefore, they are usually described as urinogenital system in vertebrates.
 
