@@ -31,11 +31,18 @@ Mendel (1822-1884) was an Austrian monk who discovered the basic principles of h
 
 ![](a1.png)
 
+
+### Reasons for Mendel's success
+He chose the pea plant as it was advantageous for experimental work in many aspects
+1. It is naturally self-pollinating and so is very easy to raise pure breeding individuals.
+2. It has a short life span as it is an annual and so it was possible to follow several generations.
+3. It is easy to cross-pollinate.
+4. It has deeply defined contrasting characters.
+5. The flowers are bisexual.
+
 ---
 
-## 18.2 Monohybrid Cross
-
-### Inheritance of One Gene
+## 18.2 Monohybrid Cross Inheritance of One Gene
 Crosses involving inheritance of only one pair of contrasting characters are called monohybrid crosses. For example it is a cross between two forms of a single trait like a cross between tall and dwarf plant.
 
 ### Mendel's Explanation of Monohybrid Cross
@@ -50,22 +57,15 @@ In the {{< katex >}}F_{2}{{< /katex >}} generation 3 different types were obtain
 - Tall Heterozygous - Tt - 2
 - Dwarf Homozygous - tt - 1
 
-![](a2.png)
-
-**Figure 18.1** Monohybrid cross
-
 So the genotypic ratio 1:2:1. A genotype is the genetic constitution of an organism
 
-### Reasons for Mendel's success
-He chose the pea plant as it was advantageous for experimental work in many aspects
-1. It is naturally self-pollinating and so is very easy to raise pure breeding individuals.
-2. It has a short life span as it is an annual and so it was possible to follow several generations.
-3. It is easy to cross-pollinate.
-4. It has deeply defined contrasting characters.
-5. The flowers are bisexual.
 
 ### Mendel's Interpretation on Monohybrid cross
 Based on these observations it was confirmed by Mendel that 'factors' are passed on from one generation to another, now refered to as genes. Tallness and Dwarfness are determined by a pair of contrasting factors, tall plant possess a pair of factors (represented by T- taking the first letter of the dominant character) and a plant is dwarf because it possess factors for dwarfness (represented as t- recessive character). These factors occur in pairs and may be alike as in pure breeding tall plants (TT) and dwarf plants (tt). This is referred to as homozygous. If they are unlike (Tt) they are referred to as heterozygous.
+
+![](a2.png)
+
+**Figure 18.1** Monohybrid cross
 
 1. Two factors making up a pair of contrasting characters are called alleles. Phenotypic expression of alleles are called allelomorphs. One member of each pair is contributed by one parent.
 2. When two factors for alternative expression of a trait are brought together by fertilization. The character which expresses itself is called dominant (Tallness) condition and that which is masked is called recessive condition (Dwarfness).
@@ -223,9 +223,7 @@ The nucleotides are formed according to the purines and pyrimidines present in t
 
 ### 18.6.2 DNA Replication
 
-DNA replication is one of the basic process that occurs within a cell. DNA molecule produces exact copies of its own structure during replication process. The two strands of a DNA molecule have complementary base pairs, the nucleotides of each strand provide the information needed to produce its new strand. The two resulting daughter cells contain exactly the same genetic information as the parent cell.
-
-DNA replication involves the following steps:
+DNA replication is one of the basic process that occurs within a cell. DNA molecule produces exact copies of its own structure during replication process. The two strands of a DNA molecule have complementary base pairs, the nucleotides of each strand provide the information needed to produce its new strand. The two resulting daughter cells contain exactly the same genetic information as the parent cell.DNA replication involves the following steps:
 
 **Origin of replication**
 The specific points on the DNA, where the replication begins, is the site of origin of replication. The two strands open and separate at this point forming the replication fork.
@@ -284,8 +282,6 @@ The sudden change in the structure or number of chromosomes is called chromosoma
 
 **Euploidy:** It is the condition in which the individual bears more than the usual number of diploid {{< katex >}}(2n){{< /katex >}} chromosomes. If an individual has three haploid sets of chromosomes, the condition is called triploidy {{< katex >}}(3n){{< /katex >}}. Triploid plants and animals are typically sterile. If it has four haploid sets of chromosomes, the condition is called tetraploidy {{< katex >}}(4n){{< /katex >}}. Tetraploid plants are advantageous as they often result in increased fruit and flower size.
 
-> **DO YOU KNOW?**
-> Sickle cell anaemia is caused by the mutation of a single gene. Alteration in the gene brings a change in the structure of the protein part of haemoglobin molecule. Due to the change in the protein molecule, the red blood cell (RBC) that carries the haemoglobin is sickle shaped.
 
 ![](a11.png)
 
@@ -303,6 +299,8 @@ This condition was first identified by a doctor named Langdon Down in1866. It is
 **2. Gene or point mutation**
 Gene mutation is the changes occurring in nucleotide sequence of a gene. It involves substitution, deletion, insertion or inversion of a single or more than one nitrogenous base. Gene alteration results i   n abnormal protein formation in an organism.
 
+> **DO YOU KNOW?**
+> Sickle cell anaemia is caused by the mutation of a single gene. Alteration in the gene brings a change in the structure of the protein part of haemoglobin molecule. Due to the change in the protein molecule, the red blood cell (RBC) that carries the haemoglobin is sickle shaped.
 ---
 
 ## Points to Remember

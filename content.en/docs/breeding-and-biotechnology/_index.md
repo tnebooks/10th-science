@@ -16,7 +16,7 @@ At the end of this lesson the students will be able to:
 - Identify the steps involved in genetic engineering.
 - Understand the practical applications of DNA fingerprinting.
 - Gain knowledge on gene therapy.
-- Know the importance of stem cells.
+- Know the importance of stem cells technology.
 
 ## Introduction
 
@@ -24,7 +24,7 @@ India's population is likely to reach 1.7 billion by 2050. Current rate of India
 
 **Plant breeding** is the art of developing economically important plants with superior quality.
 
-**Animal husbandry** involves the breeding of animals. It aims at improving the genotypes of animals to make them more useful to the welfare of mankind. This emphasizes domestication and propagation of animals, under controlled conditions to enhance food production and food security.
+**Animal husbandry** involves the breeding of animals. It aims at improving the genotypes of animals to make them more useful to the welfare of mankind. This emphasizes domestication and propagation of animals, under controlled conditions to enhance food production and food quality.
 
 Another breakthrough was the emergence of **biotechnology** as an entity of modern biology, which paved way to develop advanced healthcare products, diagnostic kits and food production to improve the quality of human life.
 
@@ -138,7 +138,9 @@ Some common examples for mass selection are groundnut varieties like **TMV-2** a
 
 **2. Pureline Selection**
 
-Pureline is "the progeny of a single individual obtained by self breeding". This is also called as individual plant selection. In pureline selection large numbers of plants are selected from a self-pollinated crop and harvested separately. Individual plant progenies from them are evaluated separately. The best one is released as a pureline variety. Progeny is similar both genotypically and phenotypically.
+Pureline is "the progeny of a single individual obtained by self breeding". This is also called as individual plant selection. In pureline selection large numbers of plants are selected from a self-pollinated crop and harvested individually. 
+
+Individual plant progenies from them are evaluated separately. The best one is released as a pureline variety. Progeny is similar both genotypically and phenotypically.
 
 **3. Clonal Selection**
 
@@ -160,9 +162,7 @@ Some achievements of polyploidy breeding are:
 
 **Mutation** is defined as the sudden heritable change in the nucleotide sequence of DNA in an organism. It is a process by which genetic variations are created which in turn brings about changes in the organism. The organism which undergoes mutation is called a **mutant**.
 
-The factors which induce mutations are known as **mutagens** or mutagenic agents. Mutagens are of two types:
-- **Physical mutagens**
-- **Chemical mutagens**
+The factors which induce mutations are known as **mutagens** or mutagenic agents. Mutagens are of two types namely physical mutagens and  chemical mutagens.
 
 > **More to Know: Gamma Garden**
 > Gamma garden or Atomic garden is a concept popularised after World War II for the peaceful use of atomic energy for crop improvement. This is a type of induced mutation breeding where radioactive sources particularly gamma rays from Cobalt-60 or Caesium-137 are used to induce desirable mutations in crop plants.
@@ -171,16 +171,14 @@ The factors which induce mutations are known as **mutagens** or mutagenic agents
 
 **i. Physical mutagens:** Radiations like X-rays, α, β and γ-rays, UV rays, temperature etc. which induce mutations are called physical mutagens.
 
-**ii. Chemical mutagens:** Chemical substances that induce mutations are called chemical mutagens. e.g. Mustard gas and nitrous acid.
-
-The utilisation of induced mutation in crop improvement is called **mutation breeding**.
+**ii. Chemical mutagens:** Chemical substances that induce mutations are called chemical mutagens. e.g. Mustard gas and nitrous acid. The utilisation of induced mutation in crop improvement is called **mutation breeding**.
 
 #### Achievements of mutation breeding
 
 Some achievements of mutation breeding are:
-- **Sharbati Sonora** wheat produced from Sonora-64 by using gamma rays
+- **Sharbati Sonora** wheat produced from Sonora-64 by using gamma rays.
 - **Atomita 2** rice with saline tolerance and pest resistance
-- Groundnuts with thick shells
+- **Groundnuts** with thick shells
 
 ### 20.3.5 Hybridization
 
@@ -218,6 +216,7 @@ Inbreeding refers to the mating of closely related animals within the same breed
 
 It is the breeding of unrelated animals. The offsprings formed are called **hybrids**. The hybrids are stronger and vigorous than their parents. Cross between two different species with desirable features of economic value are mated.
 
+
 **Example: Mule**
 - Cross between Male Donkey × Female Horse = Mule
 - Mule is superior to horse in strength, intelligence, ability to work and resistance to diseases but they are sterile.
@@ -225,11 +224,11 @@ It is the breeding of unrelated animals. The offsprings formed are called **hybr
 ![](img6.png)
 
 **Info bits: Cross breed of fowls:**
-- White Leghorn × Plymouth Rock = Hybrid fowl - yield more eggs
+- White Leghorn × Plymouth Rock => Hybrid fowl - yield more eggs
 
 **Cross breed of cows:**
 - Developed by mating the bulls of exotic breeds and cows of indigenous breeds.
-- Brown Swiss × Sahiwal = Karan Swiss - yield 2-3 times more milk than indigenous cows.
+- Brown Swiss × Sahiwal => Karan Swiss - yield 2-3 times more milk than indigenous cows.
 
 ### 20.4.3 Heterosis
 
@@ -251,7 +250,7 @@ The term recombinant is used because DNA from two different sources can be joine
 
 **Plasmid** is the small circular double stranded DNA molecule found in the cytoplasm of bacterial cell and separated from chromosomal DNA. It can replicate independently.
 
-> **DO YOU KNOW?**
+> **More to Know**
 > Restriction enzymes recognises a specific base pair sequence (palindromic sequence) in DNA called as restriction site and cleaves the phosphodiester bond within the DNA.
 
 ### 20.5.1 Techniques of Genetic Engineering – Basic Requirements
@@ -278,8 +277,8 @@ Using this strategy several enzymes, hormones and vaccines can be produced comme
 
 ![](img7.png)
 
-> **Info bits: Development of Dolly**
-> Dolly was the first cloned female sheep, developed by Dr. Ian Wilmut and his colleagues at the Roslin Institute, Scotland in July 1996. She was created by somatic cell nuclear transfer technique. She lived for 6.5 years and died in 2003 because of lung disease.
+<!-- > **Info bits: Development of Dolly**
+> Dolly was the first cloned female sheep, developed by Dr. Ian Wilmut and his colleagues at the Roslin Institute, Scotland in July 1996. She was created by somatic cell nuclear transfer technique. She lived for 6.5 years and died in 2003 because of lung disease. -->
 
 ![](img8.png)
 ---
@@ -295,7 +294,7 @@ Using genetic engineering techniques medicinally important valuable proteins or 
 - **Tissue plasminogen activator** is used to dissolve blood clots and prevent heart attack.
 - Development of **vaccines** against various diseases like Hepatitis B and rabies.
 
-> Eli Lilly and Company, United States, in 1979 first started commercial production of human insulin by using rDNA technology.
+> **Do You Know** Eli Lilly and Company, United States, in 1979 first started commercial production of human insulin by using rDNA technology.
 
 ### Gene Therapy
 
@@ -334,13 +333,17 @@ Sometimes cells, tissues and organs in the body may be permanently damaged or lo
 
 ## 20.8 DNA Fingerprinting Technology
 
-The human genome has 3 billion base pairs. The DNA pattern of two individuals cannot be same except for identical twins. Each person's DNA sequence is unique due to the small difference in the base pairs. Therefore, if we want to compare the genetic difference among the two individuals, **DNA fingerprinting** is the easier and quicker method. This technique was developed by **Alec Jeffreys** in 1985.
+The human genome has 3 billion base pairs. The DNA pattern of two individuals cannot be same except for identical twins. Each person's DNA sequence is unique due to the small difference in the base pairs. Therefore, if we want to compare the genetic difference among the two individuals, **DNA fingerprinting** is the easier and quicker method. This technique was developed by **Alec Jeffreys**.
 
 The technique analyses each individual's unique DNA sequences and provides distinctive characteristics of individual which helps in identification. **Variable number of tandem repeat sequences (VNTRs)** serve as molecular markers for identification.
 
-In human beings, 99% of the DNA base sequences are the same and this is called as **bulk genomic DNA**. The remaining 1% DNA sequence differs from one individual to another. This 1% DNA sequence is present as small stretch of repeated sequences which is known as **satellite DNA**. The number of copies of the repeat sequence also called as VNTRs differs from one individual to another, and results in variation in the size of the DNA fragment.
+In human beings, 99% of the DNA base sequences are the same and this is called as **bulk genomic DNA**. The remaining 1% DNA sequence differs from one individual to another. This 1% DNA sequence is present as small stretch of repeated sequences which is known as **satellite DNA**. The number of copies of the repeat sequence also called as VNTRs differs from one individual to another, and results in variation in the size of the DNA segment.
 
 ![](img10.png)
+
+As shown in the illustration, the sequence AGCT is repeated six times in first person, five times in second person and seven times in third
+person. Because of this, DNA segment of third person will be larger in size followed by DNA segment of first person and then the second person. Thus, it is clear that satellite DNA bring about variation within the population. Variation in DNA banding pattern reveals differences among the individuals.
+
 
 ### Applications of DNA Fingerprinting
 1. DNA fingerprinting technique is widely used in forensic applications like crime investigation such as identifying the culprit. It is also used for paternity testing in case of disputes.
@@ -352,9 +355,9 @@ In human beings, 99% of the DNA base sequences are the same and this is called a
 
 One of the most tremendous development of genetic engineering is the production of genetically modified (GM) plants and animals. **Genetic modification** refers to the alteration or manipulation of genes in the organisms using rDNA techniques in order to produce the desired characteristics. The DNA fragment inserted is called **transgene**. Plants or animals expressing a modified endogenous gene or a foreign gene are also known as **transgenic organisms**.
 
-The transgenic plants are much stable, with improved nutritional quality, resistant to diseases and tolerant to various environment conditions. Similarly transgenic animals are used to produce proteins of medicinal importance at low cost and improve livestock production.
+The transgenic plants are much stable, with improved nutritional quality, resistant to diseases and tolerant to various environment conditions. Similarly transgenic animals are used to produce proteins of medicinal importance at low cost and improve livestock quality.
 
-### Some examples of genetically modified plants and animals:
+Some examples of genetically modified plants and animals are given in the table below.
 
 **Genetically Modified Plants**
 
