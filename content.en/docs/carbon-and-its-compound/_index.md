@@ -166,8 +166,11 @@ In ancient days, the names of organic compounds were related to the natural thin
 
 ### 11.5.2 Components of an IUPAC name
 The IUPAC name of the any organic compound consists of three parts:
+
 i. Root word
+
 ii. Prefix
+
 iii. Suffix
 
 These parts are combined as per the following sequence to get the IUPAC name of the compound:
@@ -460,10 +463,15 @@ CH₃CH₂OH + 2[O] → CH₃COOH + H₂O
 ---
 
 ### 11.7.2 Physical Properties
+
 (i) Ethanoic acid is a colourless liquid having an unpleasant odour.
+
 (ii) It is sour in taste.
+
 (iii) It is miscible with water in all proportions.
+
 (iv) Its boiling point is higher than the corresponding alcohols, aldehydes and ketones.
+
 (v) On cooling, pure ethanoic acid is frozen to form ice like flakes. They look like glaciers, so it is called glacial acetic acid.
 
 ---
@@ -585,11 +593,17 @@ Development of synthetic detergents is a big achievement in the field of cleansi
 Detergents are prepared by adding sulphuric acid to the processed hydrocarbon obtained from petroleum. This chemical reaction result in the formation of molecules similar to the fatty acid in soap. Then, an alkali is added to the mixture to produce the 'surfactant molecules', which do not bond with the minerals present in the hard water, thus preventing the formation of their precipitates.
 
 In addition to a 'surfactant', the modern detergent contains several other ingredients. They are listed as follows:
+
 i) Sodium silicate, which prevents the corrosion and ensures that the detergent does not damage the washing machine.
+
 ii) Fluorescent whitening agents that give a glow to the clothes.
+
 iii) Oxygen bleaches, such as 'sodium perborate', enable the removal of certain stains from the cloth.
+
 iv) Sodium sulphate is added to prevent the caking of the detergent powder.
+
 v) Enzymes are added to break down some stains caused by biological substances like blood and vegetable juice.
+
 vi) Certain chemicals that give out a pleasant smell are also added to make the clothes fragrant after they are washed with detergents.
 
 ---
