@@ -23,6 +23,7 @@ In some cases of mixtures, their components can be separated easily whereas in s
 
 
 ![](1.png)
+
 a) Homogeneous mixture
 b) Heterogeneous mixture
 ---
@@ -128,7 +129,8 @@ For example, you are given two cups of tea. When you taste them, you feel that o
 When we compare two solutions having same solute and solvent, the one which contains higher amount of solute per the given amount of solvent is said to be **'concentrated solution'** and the another is said to be **'dilute solution'**.
 
 ![](5.png)
-Dilute and Concentrated Solution
+
+_Figure 9.5 : Dilute and Concentrated Solution_
 
 
 Differentiating solutions as dilute and concentrated is a qualitative representation. It does not imply the quantity of the solute. This difference is observed by means of some physical characteristics such as colour, density, etc.
@@ -357,7 +359,7 @@ Deliquescence in Sodium hydroxide
 
 ---
 
-## PROBLEMS BASED ON SOLUBILITY AND PERCENTAGE BY MASS AND VOLUME
+## 9.9 PROBLEMS BASED ON SOLUBILITY AND PERCENTAGE BY MASS AND VOLUME
 
 ### I. Problems based on solubility
 
