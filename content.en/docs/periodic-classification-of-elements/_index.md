@@ -111,7 +111,8 @@ The increase, down a group, is due to the increase in the valence shell number d
 ### 8.3.2 Ionic Radii
 
 It is defined as the distance from the centre of the nucleus of the ion upto the point where it exerts its influence on the electron cloud of the ion.
-![](8.5.png)
+
+![](8.4.png)
 
 You know that ions are formed when an atom lose or gain electrons. When a neutral atom loses an electron, it becomes a positively charged ion called **cation**, whereas the gain of an electron by a neutral atom forms a negatively charged ion called **anion**. The size of the ions is important to determine their behaviours in solutions and the structure of ionic solids.
 
@@ -186,7 +187,16 @@ Along the period, from left to right in the periodic table, the electronegativit
 
 > **Test yourself**
 > Predict the nature of the bond in the following molecules.
-> (i) NaCl (ii) NaBr (iii) NaI (iv) NaF (v) NaH
+
+ (i) NaCl
+
+ (ii) NaBr
+
+(iii) NaI 
+
+(iv) NaF 
+
+(v) NaH
 
 ---
 
@@ -504,8 +514,11 @@ Copper is not attacked by alkalis.
 ### Uses of Copper:
 
 i. It is extensively used in manufacturing electric cables and other electric appliances.
+
 ii. It is used for making utensils, containers, calorimeters and coins,
+
 iii. It is used in electroplating.
+
 iv. It is alloyed with gold and silver for making coins and jewels
 
 ---
