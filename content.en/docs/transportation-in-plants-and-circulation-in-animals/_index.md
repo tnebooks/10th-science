@@ -192,8 +192,8 @@ The upward movement of water and minerals from roots to different plant parts is
 2. **Capillary Action**: Water or any liquid rises in a capillary tube because of physical forces, this phenomenon is called capillary action. In the same way, in stem water rises up to certain height because of capillary action.
 3. **Adhesion-cohesion of Water Molecules**: Water molecules form a continuous column in the xylem because of forces of adhesion and cohesion among the molecules.
 
-- **Cohesion**: The force of attraction between molecules of water is called cohesion.
-- **Adhesion**: The force of attraction between molecules of different substances is called adhesion. Water molecules stick to a xylem because of force of adhesion.
+4. **Cohesion**: The force of attraction between molecules of water is called cohesion.
+5. **Adhesion**: The force of attraction between molecules of different substances is called adhesion. Water molecules stick to a xylem because of force of adhesion.
 
 > **More to Know**
 > 
@@ -283,11 +283,18 @@ These are small and colourless. They do not have nucleus. There are about 2,50,0
 ### Functions of blood
 
 i) Transport of respiratory gases (Oxygen and CO₂).
+
 ii) Transport of digested food materials to the different body cells.
+
 iii) Transport of hormones.
+
+
 iv) Transport of nitrogenous excretory products like ammonia, urea and uric acid.
+
 v) It is involved in protection of the body and defense against diseases.
+
 vi) It acts as buffer and also helps in regulation of pH and body temperature.
+
 vii) It maintains proper water balance in the body.
 
 ---

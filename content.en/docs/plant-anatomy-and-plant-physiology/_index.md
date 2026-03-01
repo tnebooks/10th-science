@@ -14,21 +14,28 @@ At the end of this lesson the students will be able to:
 - Elaborate on the structure and functions of plastids.
 - Enumerate the steps involved in photosynthesis.
 - Understand the structure of mitochondria
-- List the basic events of aerobic and anaerobic
+- List the basic events of aerobic and anaerobic respiration.
 
 
 ## Introduction
-Plants exhibits varying degrees of organization. Atoms are organized into molecules, molecules into organelles, organelles into cells, cells into tissues and tissues into organs. The first account of internal structure of plants was published by English Physician Nehemiah Grew. He is known as Father of Plant Anatomy. Plant anatomy (Gk Ana = as under; Temnein = to cut) is the study of internal structure of plants. You have already studied the different kinds of tissues in standard IX. In this lesson, you will study about the internal structure of plant tissues, process of photosynthesis and
+- List the basic events of aerobic and anaerobic respiration
+- List the basic events of aerobic and anaerobic respiration
+Plants exhibits varying degrees of organization. Atoms are organized into molecules, molecules into organelles, organelles into cells, cells into tissues and tissues into organs. The first account of internal structure of plants was published by English Physician Nehemiah Grew. He is known as Father of Plant Anatomy. Plant anatomy (Gk Ana = as under; Temnein = to cut) is the study of internal structure of plants. You have already studied the different kinds of tissues in standard IX. In this lesson, you will study about the internal structure of plant tissues, process of photosynthesis and respiration.
 
 ## 12.1 Tissues
 Tissues are the group of cells that are similar or dissimilar in structure and origin, but perform similar function. Plant tissues can be broadly classified into two, based on their ability to divide. They are:
+
 i) Meristamatic tissue
+
 ii) Permanent tissue
 
 ## 12.2 Tissue System
 Sachs (1875) classified tissue system in plants into three types:
+
 i) Dermal or Epidermal tissue system
+
 ii) Ground tissue system
+
 iii) Vascular tissue system
 
 The functions of these tissues are given in Table 12.1
@@ -42,14 +49,17 @@ The functions of these tissues are given in Table 12.1
 | Vascular Tissue System | Vascular tissues - Xylem tissue - Phloem tissue | · Transport of water and minerals · Transport of food |
 
 ### 12.2.1 Dermal or Epidermal Tissue System
-It consists of epidermis, stomata and epidermal outgrowths. Epidermis is the outer most layer. Minute pores called stomata are present in the epidermis of leaf and
+It consists of epidermis, stomata and epidermal outgrowths. Epidermis is the outer most layer. Minute pores called stomata are present in the epidermis of leaf and stem.
 
 Cuticle is present on the outer wall of epidermis to check evaporation of water. Trichomes and root hairs are the epidermal
 
 #### Functions:
+
 i) Epidermis protects the inner tissues.
+
 ii) Stomata helps in transpiration.
-iii) Root hairs help in absorption of water and
+
+iii) Root hairs help in absorption of water and minerals.
 
 ### 12.2.2 Ground Tissue System
 It includes all the tissues of the plant body except epidermal and vascular tissues like:
