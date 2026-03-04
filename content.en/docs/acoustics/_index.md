@@ -1,6 +1,8 @@
 ---
 title: 'ACOUSTICS'
 weight: 5
+categories:
+    - acoustics
 ---
 
 # UNIT 5 : ACOUSTICS

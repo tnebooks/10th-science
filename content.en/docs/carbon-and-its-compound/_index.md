@@ -1,7 +1,8 @@
-
 ---
 title: 'CARBON AND ITS COMPOUND'
 weight: 11
+categories:
+    - carbon-and-its-compound
 ---
 
 # UNIT 11:CARBON AND ITS COMPOUNDS

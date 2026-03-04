@@ -1,6 +1,8 @@
 ---
 title: 'ELECTRICITY'
 Weight: 4
+categories:
+    - electricity
 ---
 
 # UNIT4 :  Electricity

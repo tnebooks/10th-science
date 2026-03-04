@@ -1,6 +1,8 @@
 ---
 title: 'PLANT ANATOMY AND PLANT PHYSIOLOGY'
 weight: 12
+categories:
+    - plant-anatomy-and-plant-physiology
 ---
 
 # UNIT 12 : PLANT ANATOMY AND PLANT PHYSIOLOGY

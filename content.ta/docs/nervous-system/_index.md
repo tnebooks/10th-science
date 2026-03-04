@@ -1,6 +1,8 @@
 ---
 title: 'நரம்பு மண்டலம்'
 weight: 15
+categories:
+    - nervous-system
 ---
 # அலகு 15 : நரம்பு மண்டலம் 
 

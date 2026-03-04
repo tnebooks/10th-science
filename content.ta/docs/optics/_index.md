@@ -1,6 +1,8 @@
 ---
 title: "ஒளியியல்"
 weight: 2
+categories:
+    - optics
 ---
 
 # ஒளியியல்

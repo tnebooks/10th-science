@@ -1,6 +1,8 @@
 ---
 title: "உடல் நலம் மற்றும் நோய்கள்"
 weight: 21
+categories:
+      - health-and-diseases
 ---
 # அலகு 21: உடல் நலம் மற்றும் மனநோய்கள்
 

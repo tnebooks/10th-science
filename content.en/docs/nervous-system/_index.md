@@ -1,6 +1,8 @@
 ---
 title: 'NERVOUS SYSTEM'
 weight: 15
+categories:
+    - nervous-system
 ---
 # UNIT 15: NERVOUS SYSTEM
 

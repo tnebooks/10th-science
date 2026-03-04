@@ -1,6 +1,8 @@
 ---
 title: "காட்சிச்தொடர்பு"
 weight: 23
+categories:
+    - visual-communication
 ---
 
 # அலகு 23: காட்சித் தொடர்பு

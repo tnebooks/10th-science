@@ -1,6 +1,8 @@
 ---
 title: "இயக்க விதிகள்"
 weight: 1
+categories:
+    - laws-of-motion
 ---
 
 # இயக்கவிதிகள்

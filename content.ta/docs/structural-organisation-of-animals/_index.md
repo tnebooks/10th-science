@@ -1,6 +1,8 @@
 ---
 title: 'உயிரிகளின் அமைப்பு நிலைகள்'
 weight: 13
+categories:
+    - structural-organisation-of-animals
 ---
 # அலகு 13: உயிரினங்களின் அனைப்பு நிலைகள்
 

@@ -1,6 +1,8 @@
 ---
 title: "LAWS OF MOTION"
 weight: 1
+categories:
+    - laws-of-motion
 ---
 
 # UNIT1:LAWS OF MOTION

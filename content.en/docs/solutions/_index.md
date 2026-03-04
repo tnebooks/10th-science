@@ -1,6 +1,8 @@
 ---
 title: 'SOLUTIONS'
 weight: 9
+categories:
+    - solutions
 ---
 # UNIT9:SOLUTIONS
 

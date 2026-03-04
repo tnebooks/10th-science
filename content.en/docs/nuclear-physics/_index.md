@@ -1,6 +1,8 @@
 ---
 title: 'NUCLEAR PHYSICS'
 weight: 6
+categories:
+    - nuclear-physics
 ---
 # UNIT 6:  NUCLEAR PHYSICS
 

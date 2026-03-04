@@ -1,6 +1,8 @@
 ---
 title: 'PLANT AND ANIMAL HORMONES'
 weight: 16
+categories:
+    - plant-and-animal-hormones
 ---
 #  UNIT 16 : PLANT AND ANIMAL HORMONES
 

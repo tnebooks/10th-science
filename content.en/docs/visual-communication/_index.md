@@ -1,6 +1,8 @@
 ---
 title: "VISUAL COMMUNICATION"
 weight: 23
+categories:
+    - visual-communication
 ---
 
 # UNIT 23: VISUAL COMMUNICATION

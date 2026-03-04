@@ -1,6 +1,8 @@
 ---
 title: 'மின்னோட்டவியல்'
 weight: 4
+categories:
+      - electricity
 ---
 
 # அலகு 4 :மின்னோட்டவியல்

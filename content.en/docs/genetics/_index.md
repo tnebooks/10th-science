@@ -1,6 +1,8 @@
 ---
 title: 'GENETICS'
 weight: 18
+categories:
+    - genetics
 ---
 # UNIT 18: GENETICS
 

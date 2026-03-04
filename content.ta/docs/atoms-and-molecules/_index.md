@@ -1,6 +1,8 @@
 ---
 title: 'அணுக்களும் மூலக்கூறுகளும்'
 weight: 7
+categories:
+    - atoms-and-molecules
 ---
 # அணுக்களும் மூலக்கூறுகளும்
 

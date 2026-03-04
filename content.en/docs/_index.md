@@ -1,7 +1,6 @@
 ---
 title: 'Science'
 categories:
-    - biology
-    - botany
+    - science
 weight: 1
 --- 

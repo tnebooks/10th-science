@@ -1,6 +1,8 @@
 ---
 title: 'ATOMS AND MOLECULES'
 weight: 7
+categories:
+    - atoms-and-molecules
 ---
 
 # UNIT 7: ATOMS AND MOLECULES

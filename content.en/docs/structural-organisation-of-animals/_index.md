@@ -1,6 +1,8 @@
 ---
 title: 'STRUCTURAL ORGANISATION  OF ANIMALS'
 weight: 13
+categories:
+    - structural-organisation-of-animals
 ---
 
 # UNIT 13:STRUCTURAL ORGANISATION OF ANIMALS

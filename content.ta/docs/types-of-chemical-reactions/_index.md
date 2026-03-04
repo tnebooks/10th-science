@@ -1,6 +1,8 @@
 ---
 title: 'வேதிவினைகளின் வகைகள்'
 weight: 10
+categories:
+    - types-of-chemical-reactions
 ---
 # 10. வேதி வினைகளின் வகைகள் 
 

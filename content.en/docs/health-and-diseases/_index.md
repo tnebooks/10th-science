@@ -1,6 +1,8 @@
 ---
 title: "HEALTH AND DISEASES"
 weight: 21
+categories:
+    - health-and-diseases
 ---
 
 # UNIT 21: Health and Diseases

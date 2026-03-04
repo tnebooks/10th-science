@@ -1,6 +1,8 @@
 ---
 title: 'அணுக்கரு இயற்பியல்'
 weight: 6
+categories:
+    - nuclear-physics
 ---
 
 # அலகு 6 : அணுக்கரு இயற்பியல்

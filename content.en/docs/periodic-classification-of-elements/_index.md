@@ -1,6 +1,8 @@
 ---
 title: 'PERIODIC CLASSIFICATION OF ELEMENTS'
 weight: 8
+categories:
+    - periodic-classification-of-elements
 ---
 # UNIT-8 : PERIODIC CLASSIFICATION OF ELEMENTS
 

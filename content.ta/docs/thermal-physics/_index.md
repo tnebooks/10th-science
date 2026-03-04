@@ -1,6 +1,8 @@
 ---
 title: 'வெப்ப இயற்பியல்'
 weight: 3
+categories:
+    - thermal-physics
 ---
 # அலகு 3 : வெப்ப இயற்பியல்
 

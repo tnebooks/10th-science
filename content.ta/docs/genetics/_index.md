@@ -1,6 +1,8 @@
 ---
 title: 'மரபியல்'
 weight: 18
+categories:
+      - genetics
 ---
 # அலகு 18: மரபியல்
 

@@ -1,6 +1,8 @@
 ---
 title: 'உயிரின் தோற்றமும் பரிணாமமும்'
 weight: 19
+categories:
+    - origin-and-evolution-of-life
 ---
 # உயிரினங்களின் தோற்றமும் பரிணாமமும் 
 

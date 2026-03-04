@@ -1,6 +1,8 @@
 ---
 title: 'தாவரங்களின் கடத்துதல் மற்றும் விலங்குகளின் சுற்றோட்டம்'
 weight: 14
+categories:
+    - transportation-in-plants-and-circulation-in-animals
 ---
 # அலகு 14
 # தாவரங்களின் கடத்துதல் மற்றும் விலங்குகளின் சுற்றோட்டம்

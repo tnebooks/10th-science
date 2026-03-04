@@ -1,6 +1,8 @@
 ---
 title: 'தாவர உள்ளமைப்பியல் மற்றும் தாவர செயலியல்'
 weight: 12
+categories:
+    - plant-anatomy-and-plant-physiology
 ---
 # அலகு 12: தாவர உடலமைப்பியல் மற்றும் தாவரசெயலியல்
 

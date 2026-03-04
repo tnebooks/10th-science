@@ -1,6 +1,8 @@
 ---
 title: 'ORIGIN AND EVOLUTION OF LIFE'
 weight: 19
+categories:
+    - origin-and-evolution-of-life
 ---
 # UNIT 19: Origin and Evolution of Life
 

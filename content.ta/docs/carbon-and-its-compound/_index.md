@@ -1,6 +1,8 @@
 ---
 title: 'கார்பனும் அதன் சேர்மங்களும்'
 weight: 11
+categories:
+    - carbon-and-its-compound
 ---
 # அலகு 11: கார்பனும் அதன் சேர்மங்களும்
 

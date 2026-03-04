@@ -1,6 +1,8 @@
 ---
 title: 'REPRODUCTION  IN  PLANTS AND ANIMALS'
 weight: 17
+categories:
+    - reproduction-in-plants-and-animals
 ---
 # UNIT 17:REPRODUCTION IN PLANTS AND ANIMALS
 

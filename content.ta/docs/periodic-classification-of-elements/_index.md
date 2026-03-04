@@ -1,6 +1,8 @@
 ---
 title: 'தனிமங்களின் ஆவர்த்தன வகைப்பாடு'
 weight: 8
+categories:
+    - periodic-classification-of-elements
 ---
 
 # அலகு 8

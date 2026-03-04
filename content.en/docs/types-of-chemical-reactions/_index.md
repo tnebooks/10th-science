@@ -1,3 +1,9 @@
+---
+title: 'TYPES-OF-CHEMICAL-REACTIONS'
+weight: 14
+categories:
+    - types-of-chemical-reactions
+---
 
 # 10 TYPES OF CHEMICAL REACTIONS
 

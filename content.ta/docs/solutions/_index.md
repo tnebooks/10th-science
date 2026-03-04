@@ -1,6 +1,8 @@
 ---
 title: 'கரைசல்கள்'
 weight: 9
+categories:
+    - solutions
 ---
 
 

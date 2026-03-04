@@ -1,6 +1,8 @@
 ---
 title: 'தாவர மற்றும் விலங்கு ஹார்மோன்கள்'
 weight: 16
+categories:
+    - plant-and-animal-hormones
 ---
 
 # அலகு 16: தாவரமும் விலங்கும் ஹார்மோன்கள்

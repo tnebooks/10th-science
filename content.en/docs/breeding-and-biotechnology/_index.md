@@ -1,6 +1,8 @@
 ---
 title: 'BREEDING AND BIOTECHNOLOGY'
 weight: 20
+categories:
+    - breeding-and-biotechnology
 ---
 
 # UNIT 20:BREEDING AND BIOTECHNOLOGY

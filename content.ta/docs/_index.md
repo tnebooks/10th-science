@@ -1,7 +1,6 @@
 ---
 title: 'அறிவியல்'
 categories:
-    - biology
-    - botany
+    - science
 weight: 1
 --- 

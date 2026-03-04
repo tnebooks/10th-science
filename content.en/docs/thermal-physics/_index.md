@@ -1,6 +1,8 @@
 ---
 title: 'THERMAL PHYSICS'
 weight: 3
+categories:
+    - thermal-physics
 ---
 # UNIT3:THERMAL PHYSICS
 

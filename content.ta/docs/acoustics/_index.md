@@ -1,6 +1,8 @@
 ---
 title: 'ஒலியியல்'
 weight: 5
+categories:
+    - acoustics
 ---
 
 # ஒலியியல் 

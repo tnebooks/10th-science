@@ -1,6 +1,9 @@
 ---
 title: "OPTICS"
 weight: 2
+categories:
+    - optics
+---
 
 # UNIT 2: OPTICS
 
