@@ -1,6 +1,8 @@
 ---
 title: "சுற்றுச்சூழல் மேலாண்மை"
 weight: 22
+categories:
+      - environmental-management
 ---
 # அலகு 22 - சுற்றுச்சூழல் மேலாண்மை
 

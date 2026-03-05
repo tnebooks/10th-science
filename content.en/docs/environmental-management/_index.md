@@ -1,6 +1,8 @@
 ---
 title: "ENVIRONMENTAL MANAGEMENT"
 weight: 22
+categories:
+      - environmental-management
 ---
 
 # UNIT 22: ENVIRONMENTAL MANAGEMENT
