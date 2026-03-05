@@ -1,0 +1,12 @@
+---
+choices:
+  - "SA node"
+  - "AV node"
+  - "Purkinje fibres"
+  - "Bundle of His"
+answer:
+  - "SA node"
+explanation: "The Sinoatrial (SA) node is known as the 'Heart of heart' or the natural pacemaker. It is a small cluster of specialized cells located in the right atrium that generates the electrical impulses responsible for initiating each heartbeat. Because it sets the fundamental rhythm for the entire heart, it is considered the heart's internal engine."
+---
+
+ 'Heart of heart' is called:
