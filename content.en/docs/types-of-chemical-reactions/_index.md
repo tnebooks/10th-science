@@ -1,11 +1,11 @@
 ---
 title: 'TYPES-OF-CHEMICAL-REACTIONS'
-weight: 14
+weight: 10
 categories:
     - types-of-chemical-reactions
 ---
 
-# 10 TYPES OF CHEMICAL REACTIONS
+#  TYPES OF CHEMICAL REACTIONS
 
 ## Learning Objectives
 After completing this lesson learners will be able to
