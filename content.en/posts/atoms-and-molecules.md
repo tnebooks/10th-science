@@ -47,7 +47,7 @@ weight: 7
    - d. Mass of O-16 atom
 
 6. Which of the following statement is incorrect?
-   - a. 12 gram of C-12 contains Avogadro's number of atoms.
+   - a. 1 gram of C-12 contains Avogadro's number of atoms.
    - b. One mole of oxygen gas contains Avogadro's number of molecules.
    - c. One mole of hydrogen gas contains Avogadro's number of atoms.
    - d. One mole of electrons stands for 6.023 × 10²³ electrons.
