@@ -2,11 +2,11 @@
 choices:
   - "swimming"
   - "tennis"
-  - "cricket"
+  - "cycling"
   - "hockey"
 answer:
-  - "cricket"
-explanation: "In cricket, the turning effect of force (torque) is prominently used when the bowler spins the ball (finger spin or wrist spin), causing it to turn off the pitch. The rotation applied by the bowler creates torque, making the ball deviate from its straight path. While cycling also involves torque in pedaling, cricket specifically demonstrates the turning effect of force through ball spinning. Swimming primarily involves thrust, tennis involves linear force and spin, and hockey mainly uses linear force for hitting the ball."
+  - "cycling"
+explanation: "The turning effect of force is called torque. It happens when a force causes an object to rotate about an axis.In cycling, force applied on the pedals causes the wheel and crank to rotate, showing the turning effect of force."
 ---
 
-In which of the following sport the turning of effect of force used
+கீழ்காணும் விளையாட்டுகளில் எதில் விசையின் சுழற்சி விளைவு பயன்படுத்தப்படுகிறது?
