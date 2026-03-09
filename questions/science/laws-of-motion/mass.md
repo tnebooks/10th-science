@@ -2,11 +2,11 @@
 choices:
   - "4M"
   - "2M"
-  - "M/2"
+  - "M/4"
   - "M"
 answer:
   - "M"
-explanation: "Mass is an intrinsic property of matter that measures the amount of substance in a body. It remains constant regardless of location. Unlike weight, which depends on gravitational acceleration and varies from planet to planet, mass does not change with position, gravity, or location. Therefore, even when taken to a planet with different radius or gravity, the mass of the body remains M kg. The options 4M, 2M, or M/2 would represent changes in weight, not mass."
+explanation: "Mass is the amount of matter in a body and does not change based on location.Even if the planet’s radius is halved, the mass remains the same."
 
 ---
 

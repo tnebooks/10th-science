@@ -10,4 +10,4 @@ explanation: "Impulse (J) is defined as the product of force and time (J = F × 
 
 ---
 
- Impulse is equals to
+ Impulse is equals to ___ .
