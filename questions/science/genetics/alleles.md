@@ -5,8 +5,8 @@ choices:
   - "Production of gametes"
   - "Recessive factors"
 answer:
-  - "Pair of genes"
-explanation: "In Mendelian genetics, alleles are defined as alternative forms of a gene that occupy the same locus on homologous chromosomes. Mendel referred to these as 'factors' that occur in pairs (one inherited from each parent) to control a specific trait or character."
+  - "Responsible for character"
+explanation: "Alleles are alternative forms of a gene that determine a particular trait or character in an organism. They influence how a character is expressed in Mendelian inheritance."
 ---
 
- According to Mendel alleles have the following character:
+According to Mendel alleles have the following character:
