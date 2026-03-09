@@ -6,7 +6,8 @@ choices:
   - "0.1 litre"
 answer:
   - "2.24 litre"
-explanation: "First, calculate the number of moles of $CO_2$. The molar mass of $CO_2$ is $44 \\text{ g/mol}$ ($12 + 16 \\times 2$). Thus, $4.4 \\text{ g}$ of $CO_2$ is equal to $0.1 \\text{ mole}$ ($4.4 / 44$). Since $1 \\text{ mole}$ of any gas at S.T.P. occupies $22.4 \\text{ litres}$, $0.1 \\text{ mole}$ will occupy $0.1 \\times 22.4 = 2.24 \\text{ litres}$."
+explanation: "At S.T.P. (Standard Temperature and Pressure: 0°C and 1 atm), 1 mole of any ideal gas occupies 22.4 litres. To find the volume of 4.4 g of CO₂, first calculate the number of moles. The molar mass of CO₂ = 12 + (16 × 2) = 44 g/mol. Number of moles = mass / molar mass = 4.4 g / 44 g/mol = 0.1 mol. Therefore, volume = 0.1 mol × 22.4 L/mol = 2.24 litres."
+
 ---
 
   The volume occupied by 4.4 g of $CO_2$ at S.T.P:

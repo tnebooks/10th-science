@@ -6,7 +6,7 @@ choices:
   - "1 mole atoms of He"
 answer:
   - "1 atom of He"
-explanation: "To find the smallest mass, we compare the values in grams. One mole of Helium (which is $6.023 \\times 10^{23}$ atoms) has a mass of approximately 4 grams. Therefore, a single atom of Helium has a mass of approximately $4 \\div (6.023 \\times 10^{23})$ grams, which is an incredibly tiny number ($6.64 \\times 10^{-24}$ g), making it significantly smaller than 2 grams or a full mole."
+explanation: "1 helium atom has the least mass among the given options. 6.023 × 10²³ helium atoms equal 1 mole (4 g). 2 g helium is half a mole (3.01 × 10²³ atoms). 1 mole helium atom equals 4 g. A single helium atom has a mass of approximately 4 amu (6.64 × 10⁻²⁴ g), which is the smallest mass."
 ---
 
   Which of the following has the smallest mass?
