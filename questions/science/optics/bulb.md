@@ -6,7 +6,7 @@ choices:
   - "a coloured beam of light"
 answer:
   - "a parallel beam of light"
-explanation: "When a point source of light, like a small bulb, is placed at the principal focus ($F$) of a convex lens, the rays of light after refraction through the lens become parallel to the principal axis. This is the reverse of the principle where parallel rays converge at the focus."
+explanation: "When a small bulb is at the principal focus of a convex lens, light rays from the bulb pass through the lens.These rays emerge parallel to each other, forming a parallel beam of light."
 ---
 
  A small bulb is placed at the principal focus of a convex lens. When the bulb is switched on, the lens will produce:

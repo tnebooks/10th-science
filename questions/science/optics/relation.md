@@ -6,7 +6,7 @@ choices:
   - "V_B < V_G > V_R"
 answer:
   - "V_B < V_G < V_R"
-explanation: "In a dispersive medium like a glass prism, the refractive index ($n$) is different for different colors. Red light has the longest wavelength and the lowest refractive index, while blue light has a shorter wavelength and a higher refractive index. Since velocity ($v$) is inversely proportional to the refractive index ($v = c/n$), red light travels the fastest and blue light travels the slowest ($V_B < V_G < V_R$)."
+explanation: "Blue light has the shortest wavelength → highest refractive index → slowest speed, while red light has the longest wavelength → lowest refractive index → fastest speed."
 ---
 
- If $V_{B}$ $V_{G}$ $V_{R}$ be the velocity of blue, green and red light respectively in a glass prism, then which of the following statement gives the correct relation?
+If 𝑉_𝐵, 𝑉_𝐺,𝑉_𝑅 are the velocities of blue, green, and red light in a glass prism, which relation is correct?
