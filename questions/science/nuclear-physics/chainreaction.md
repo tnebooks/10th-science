@@ -6,7 +6,7 @@ choices:
   - "(iii) & (iv) are correct"
 answer:
   - "(i) & (ii) are correct"
-explanation: 
+explanation:  "(i) is correct - Both nuclear reactor and atomic bomb involve chain reaction. (ii) is correct - Nuclear reactor involves controlled chain reaction, where energy is released slowly in a regulated manner. (iii) is incorrect - Nuclear reactor has controlled reaction, not uncontrolled. (iv) is incorrect - Atomic bomb involves uncontrolled chain reaction, not no chain reaction."
 
 ---
 
