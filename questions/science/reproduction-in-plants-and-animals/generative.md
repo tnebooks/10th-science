@@ -1,11 +1,11 @@
 ---
 choices:
-  - "generative cell"
-  - "vegetative cell"
-  - "microspore mother cell"
-  - "microspore"
+  - "Generative cell"
+  - "Vegetative cell"
+  - "Microspore mother cell"
+  - "Microspore"
 answer:
-  - "generative cell"
-explanation: " "
+  - "Generative cell"
+explanation: "In angiosperms, the generative cell divides to produce two male gametes."
 ---
-Male gametes in angiosperms are formed by the division of ___________
+Male gametes in angiosperms are formed by the division of ______.

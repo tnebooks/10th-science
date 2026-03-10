@@ -1,11 +1,11 @@
 ---
 choices:
-  - "primary germ cells"
-  - "sertoli cells"
-  - "leydig cells"
-  - "spermatogonia"
+  - "Primary germ cells"
+  - "Sertoli cells"
+  - "Leydig cells"
+  - "Spermatogonia"
 answer:
-  - "sertoli cells"
-explanation: " "
+  - "Sertoli cells"
+explanation: "Sertoli cells provide nourishment and support to the developing sperm cells in seminiferous tubules."
 ---
-The large elongated cells that provide nutrition to developing sperms are
+The large elongated cells that provide nutrition to developing sperms are:

@@ -1,11 +1,11 @@
 ---
 choices:
-  - "zoospores"
-  - "conidia"
-  - "zygote"
-  - "chlamydospores"
+  - "Zoospores"
+  - "Conidia"
+  - "Zygote"
+  - "Chlamydospores"
 answer:
-  - "zygote"
-explanation: " "
+  - "Zygote"
+explanation: "Syngamy is the fusion of male and female gametes which results in the formation of a zygote."
 ---
-Syngamy results in the formation of _________
+Syngamy results in the formation of:

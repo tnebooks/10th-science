@@ -1,11 +1,11 @@
 ---
 choices:
-  - "calyx and corolla"
-  - "calyx and androecium"
-  - "corolla and gynoecium"
-  - "androecium and gynoecium"
+  - "Calyx and Corolla"
+  - "Calyx and Androecium"
+  - "Corolla and Gynoecium"
+  - "Androecium and Gynoecium"
 answer:
-  - "androecium and gynoecium"
-explanation: " "
+  - "Androecium and Gynoecium"
+explanation: "The essential reproductive parts of a flower are androecium (male) and gynoecium (female)."
 ---
-The essential parts of a flower are ___________
+The essential parts of a flower are ______.

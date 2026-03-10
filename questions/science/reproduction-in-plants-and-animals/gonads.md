@@ -6,6 +6,6 @@ choices:
   - "they are formed from gonads"
 answer:
   - "they are formed from gonads"
-explanation: " "
+explanation: "Gametes are haploid reproductive cells produced in gonads such as testes and ovaries. "
 ---
 What is true of gametes?

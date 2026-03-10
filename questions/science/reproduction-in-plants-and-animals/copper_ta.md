@@ -6,6 +6,6 @@ choices:
   - "அண்டநாளத் துண்டிப்பு"
 answer:
   - "காப்பர் – டி"
-explanation: " "
+explanation: " காப்பர்-டி என்பது கருப்பையில் வைக்கப்படும் IUCD (Intra Uterine Contraceptive Device) ஆகும்."
 ---
 கீழ்க்கண்டவற்றுள் எது IUCD?

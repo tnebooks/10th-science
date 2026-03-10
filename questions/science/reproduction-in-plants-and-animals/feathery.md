@@ -1,11 +1,11 @@
 ---
 choices:
-  - "sessile stigma"
-  - "small smooth stigma"
-  - "colored flower"
-  - "large feathery stigma"
+  - "Sessile stigma"
+  - "Small smooth stigma"
+  - "Colored flower"
+  - "Large feathery stigma"
 answer:
-  - "large feathery stigma"
-explanation: " "
+  - "Large feathery stigma"
+explanation: "Anemophilous (wind-pollinated) flowers have large feathery stigmas to trap pollen carried by wind."
 ---
-Anemophilous flowers have __________
+Anemophilous flowers have:

@@ -1,11 +1,11 @@
 ---
 choices:
-  - "copper –t"
-  - "oral pills"
-  - "diaphragm"
-  - "tubectomy"
+  - "Copper – T"
+  - "Oral pills"
+  - "Diaphragm"
+  - "Tubectomy"
 answer:
-  - "copper –t"
-explanation: " "
+  - "Copper – T"
+explanation: "Copper-T is an Intra Uterine Contraceptive Device (IUCD) used to prevent pregnancy."
 ---
 Which one of the following is an IUCD?

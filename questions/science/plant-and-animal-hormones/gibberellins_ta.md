@@ -1,11 +1,11 @@
 ---
 choices:
-  - "shortening of genetically tall plants"
-  - "elongation of dwarf plants"
-  - "promotion of rooting"
-  - "yellowing of young leaves"
+  - "மரபியல் ரீதியான நெட்டைத் தாவரங்களைக் குட்டையாக்குவது"
+  - "குட்டைத் தாவரங்களை நீட்சி அடையச் செய்வது"
+  - "வேர் உருவாதலை ஊக்குவிப்பது"
+  - "இளம் இலைகள் மஞ்சளாவது"
 answer:
-  - "elongation of dwarf plants"
-explanation: " "
+  - "குட்டைத் தாவரங்களை நீட்சி அடையச் செய்வது"
+explanation: "ஜிப்ரல்லின்கள் (Gibberellins) தாவர வளர்ச்சி ஹார்மோன்கள் ஆகும். இவை தண்டின் நீள வளர்ச்சியை ஊக்குவித்து குட்டைத் தாவரங்களை நீளமாக வளரச் செய்கின்றன."
 ---
-Gibberellins cause:
+ஜிப்ரல்லின்களின் முக்கிய விளைவு ………….

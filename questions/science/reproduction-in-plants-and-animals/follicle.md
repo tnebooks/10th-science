@@ -1,11 +1,11 @@
 ---
 choices:
-  - "anterior pituitary"
-  - "primary follicle"
-  - "graffian follicle"
-  - "corpus luteum"
+  - "Anterior pituitary"
+  - "Primary follicle"
+  - "Graafian follicle"
+  - "Corpus luteum"
 answer:
-  - "graffian follicle"
-explanation: " "
+  - "Graafian follicle"
+explanation: "Estrogen is mainly secreted by the Graafian follicle in the ovary during the menstrual cycle."
 ---
-Estrogen is secreted by
+Estrogen is secreted by ______.
