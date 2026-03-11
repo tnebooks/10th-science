@@ -3,7 +3,7 @@ title: "LAWS OF MOTION"
 weight: 1
 references:
     videos:
-        - youtube:HSDnFOhws0
+        - youtube:-HSDnFOhws0
     links:
         - https://www.grc.nasa.gov
         - https://www.physicsclassroom.com

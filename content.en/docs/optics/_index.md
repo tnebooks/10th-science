@@ -1,6 +1,13 @@
 ---
 title: "OPTICS"
 weight: 2
+references:
+    videos:
+        - youtube:OJ2zwBipgz4
+    links:
+        - www.physicsabout.com
+        - www.khanacademy.org
+
 categories:
     - optics
 ---
@@ -725,11 +732,6 @@ f = \frac{d \times D}{d-D} = \frac{1.5 \times 0.25}{1.5-0.25} = \frac{0.375}{1.2
 
 1. Fundamentals of optics by D.R. Khanna and H.R. Gulati, R. Chand & Co.
 2. Principles of Physics – Halliday, Resnick & Walker, Wiley Publications, New Delhi
-
-## INTERNET RESOURCES
-
-1. www.physicsabout.com
-2. www.khanacademy.org
 
 ---
 
