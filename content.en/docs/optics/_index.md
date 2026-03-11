@@ -3,7 +3,7 @@ title: "OPTICS"
 weight: 2
 references:
     videos:
-        - youtube:OJ2zwBipgz4
+        - youtube:PdmVeFwYCqs?si=o70ZlFWhBQOWw7NK
     links:
         - www.physicsabout.com
         - www.khanacademy.org
