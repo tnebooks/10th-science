@@ -1,6 +1,13 @@
 ---
 title: "LAWS OF MOTION"
 weight: 1
+references:
+    videos:
+        - youtube:HSDnFOhws0
+    links:
+        - https://www.grc.nasa.gov
+        - https://www.physicsclassroom.com
+        - https://www.britannica.com/science/Newtons-law-of-gravitation
 categories:
     - laws-of-motion
 ---
@@ -618,12 +625,6 @@ From the centre of the Earth, the object is placed at twice the radius of the ea
 
 - Concept of physics - HC verma
 - Interactive physics (Newton's law) MTG learning.
-
-## INTERNET RESOURCES
-
-- https://www.grc.nasa.gov
-- https://www.physicsclassroom.com
-- https://www.britannica.com/science/Newtons-law-of-gravitation
 
 ---
 
