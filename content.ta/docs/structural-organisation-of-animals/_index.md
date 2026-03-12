@@ -1,6 +1,14 @@
 ---
 title: 'உயிரிகளின் அமைப்பு நிலைகள்'
 weight: 13
+references:
+    videos:
+        - youtube:8XJphulYSwo?si=A6ebk00Vo9B8nqaB
+    links:
+       - http://leeches-medicinalis.com/
+       - http://www.biologydiscussion.com/zoology
+       - http://animaldiversity.org/accounts/Hirudo_medicinalis/
+       - http://www.notesonzoology.com/rabbit/external-morphology/external-morphology-of-rabbit-with-diagram-chordata-zoology/7642
 categories:
     - structural-organisation-of-animals
 ---
@@ -408,10 +416,3 @@ categories:
 2. Ekambaranatha Ayyar M and Anantha krishnan T.N. 2003. Manual of Zoology, Vol I, Part I & II (Invertebrates), S. Viswanathan Printers and Publishers Pvt
 3. Kotpal R.L, 2012 Modern Text Book of Zoology - Vertebrates, Rastogi Publications, Meerut
 4. Jordan E.L. and Verma P.S. 2003 Chordate Zoology, S. Chand and Company Ltd, New
-
-## இணையவளங்கள்
-
-1. http://leeches-medicinalis.com/
-2. http://www.biologydiscussion.com/zoology
-3. http://animaldiversity.org/accounts/Hirudo_medicinalis/
-4. http://www.notesonzoology.com/rabbit/external-morphology/external-morphology-of-rabbit-with-diagram-chordata-zoology/7642

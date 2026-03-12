@@ -1,6 +1,10 @@
 ---
 title: "காட்சிச்தொடர்பு"
 weight: 23
+references:
+    videos:
+        - youtube:q1uwuJxNvoA?si=yDEaKtSEfpwaB0FY
+   
 categories:
     - visual-communication
 ---

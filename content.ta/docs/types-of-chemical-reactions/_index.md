@@ -1,6 +1,12 @@
 ---
 title: 'வேதிவினைகளின் வகைகள்'
 weight: 10
+references:
+    videos:
+        - youtube:BuNa0DuhqJs?si=-6GGQUfYlV0ZadPS
+    links:
+        - 1. www.chem4kids.com
+        -   http://aravindguptatoys.com/filims.html
 categories:
     - types-of-chemical-reactions
 ---
@@ -426,6 +432,4 @@ $$\begin{aligned}
 1. Text book of inorganic chemistry - P.L. Soni - S. Chand & sons publishers, New Delhi.
 2. Principles of Physical Chemistry - B.R. Ruri, L.R. Sharma, Vishal publishing Co Punjab.
 
-### இணையவளங்கள்
-1. www.chem4kids.com
-2. http://aravindguptatoys.com/filims.html
+

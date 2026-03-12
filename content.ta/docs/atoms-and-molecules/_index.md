@@ -1,6 +1,12 @@
 ---
 title: 'அணுக்களும் மூலக்கூறுகளும்'
 weight: 7
+references:
+    videos:
+        - youtube:Hzo6DboPNGI?si=MBnCEoXxRIVkdH6Q
+    links:
+        - https://www.estimate.com/biology/farabee/biobk/BioBookCHEM1.html
+        - https://www.toppr.com/guides/chemistry/atomsand-molecules/
 categories:
     - atoms-and-molecules
 ---
@@ -503,9 +509,7 @@ n = 1 எனக் கொண்டால்,
 2. Raymond Chang. (2010). Chemistry. New York, NY: The Tata McGraw Hill Companies. Inc.
 3. Julia Burdge. (2011). Chemistry. New York, NY: The Tata McGraw Hill Companies. Inc.
 
-### இணைய வளங்கள்:
-1. https://www.estimate.com/biology/farabee/biobk/BioBookCHEM1.html
-2. https://www.toppr.com/guides/chemistry/atomsand-molecules/
+
 
 ---
 
