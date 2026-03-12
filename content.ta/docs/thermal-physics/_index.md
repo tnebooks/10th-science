@@ -1,6 +1,11 @@
 ---
 title: 'வெப்ப இயற்பியல்'
 weight: 3
+references:
+    videos:
+        - youtube:mdSeg8XDoKw?si=dxoCSwNpT-a2umVf
+    links:
+        - http://aplusphysics.com/courses/honors/thermo/thermal_physics.html
 categories:
     - thermal-physics
 ---
@@ -358,9 +363,7 @@ k_B = 1.381 \times 10^{-23} \text{ J K}^{-1} \text{ என அழைக்கப
 1. Thermodynamics and an introduction to thermo statistics by Herbert Hallen
 2. Fundamentals of Engineering Thermodynamics by Michael Moran.
 
-## இணையத்தளங்கள்
-
-- http://aplusphysics.com/courses/honors/thermo/thermal_physics.html
+ 
 
 ---
 

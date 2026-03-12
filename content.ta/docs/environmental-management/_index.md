@@ -1,6 +1,12 @@
 ---
 title: "சுற்றுச்சூழல் மேலாண்மை"
 weight: 22
+references:
+    videos:
+        - youtube:CKlMPVypjcI?si=0n8TG03mpI3kSdXB
+    links:
+        - http://envfor.nic.in
+        - https://www.ovoenergy.com/guides/energy-guides/120-ways-to-save-energy.html
 categories:
       - environmental-management
 ---
@@ -716,10 +722,7 @@ categories:
 1. Ghatwal G.T. and Harish Sharma, 2005. A Text Book of Environmental Studies', Himalaya Publishing House.
 2. P. D. Sharma, 2013. Ecology and Environment, Rastogi Publications, Meerut.
 
-## இணைய வளங்கள்
 
-1. http://envfor.nic.in
-2. https://www.ovoenergy.com/guides/energy-guides/120-ways-to-save-energy.html
 
 ---
 

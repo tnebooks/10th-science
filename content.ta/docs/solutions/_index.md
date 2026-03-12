@@ -1,6 +1,10 @@
 ---
 title: 'கரைசல்கள்'
 weight: 9
+references:
+    videos:
+        - youtube:Ksttr4FpCL4?si=fqAcXFrYma61rZVz
+    
 categories:
     - solutions
 ---

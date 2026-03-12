@@ -1,6 +1,12 @@
 ---
 title: "ஒளியியல்"
 weight: 2
+references:
+    videos:
+        - youtube:PdmVeFwYCqs?si=o70ZlFWhBQOWw7NK
+    links:
+        - www.physicsabout.com
+        - www.physicsclassroom.com
 categories:
     - optics
 ---
@@ -627,10 +633,6 @@ f = \frac{dD}{d-D} = \frac{1.5 \times 0.25}{1.5 - 0.25} = \frac{0.375}{1.25} = 0
 1. Fundamentals of optics by D.R. Khanna and H.R. Gulati, R Chand & Co
 2. Principles of Physics – Halliday, Resnick & Walker, Wiley Publications, New Delhi
 
-## இணையவளங்கள்
-
-1. www.physicsabout.com
-2. www.physicsclassroom.com
 
 ---
 

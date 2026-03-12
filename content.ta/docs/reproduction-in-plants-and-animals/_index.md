@@ -1,6 +1,15 @@
 ---
 title: 'தாவரங்கள் மற்றும் விலங்குகளில் இனப்பெருக்கம் '
 weight: 17
+references:
+    videos:
+        - youtube:l509vxiFJcQ?si=MSr8ySa_tc1KzEBM
+    links:
+        -  http://www.importantindia.com/10606/population-explosion-in-India/
+        - http://www.yourarticlelibrary.com/population/3-important...control-overpopulation/26950
+        - http://www.momjunction.com>pregnancy>Health
+        - https://leadership.ng/2018/04/08/toilet-hygiene
+        - https://www.boldsky.com/health/wellness/2018/world-menstrual-hygiene-day
 categories:
     - reproduction-in-plants-and-animals
 ---

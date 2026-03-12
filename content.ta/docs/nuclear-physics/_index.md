@@ -1,6 +1,12 @@
 ---
 title: 'அணுக்கரு இயற்பியல்'
 weight: 6
+references:
+    videos:
+        - youtube:zd1mVA5kl_Q?si=2MsGzzLt6Hc4y0zH
+    links:
+        - https://physics.columbia.edu/research/nuclear-physics
+        - http://www.newworldencyclopedia.org/entry/Nuclear_physics
 categories:
     - nuclear-physics
 ---
@@ -849,9 +855,7 @@ _{Z}\text{X}^{\text{A}} \rightarrow _{Z}\text{Y}^{\text{A}}
 1. Physics concepts and connections – by Art Hobson Edition: Pearson education
 2. Modern Physics – by Dr.R Murugesan & Er.Kiruthiga Sivaprasath – S.Chand publications
 
-### இணையவளங்கள்
-1. https://physics.columbia.edu/research/nuclear-physics
-2. http://www.newworldencyclopedia.org/entry/Nuclear_physics
+
 
 ---
 

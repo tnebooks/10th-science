@@ -1,6 +1,13 @@
 ---
 title: 'இனக்கலப்பு மற்றும் உயிரித்தொழில்நுட்பவியல்'
 weight: 20
+references:
+    videos:
+        - youtube:uAihuHaFocA?si=cPjfwZPdA8OR3fmX
+    links:
+        - https://www.embibe.com/study/transgenic-cow-rosie-concept
+        - https://en.wikipedia.org/wiki/DNA_profiling
+        - https://www.krishijagran.com/news/tomato-at-shoots-potato-in-roots
 categories:
     - breeding-and-biotechnology
 ---
@@ -357,11 +364,6 @@ categories:
 1. Chaudhari, H.K., Elementary Principles of Plant Breeding, 2nd Edition.
 2. Dubey, R.C., A Text book of Biotechnology, 5th Edition, S.Chand and Company
 
-## இணைய வளங்கள்
-
-1. https://www.embibe.com/study/transgenic-cow-rosie-concept
-2. https://en.wikipedia.org/wiki/DNA_profiling
-3. https://www.krishijagran.com/news/tomato-at-shoots-potato-in-roots
 ```
 
 This is the complete Markdown conversion of the Tamil science textbook PDF (Unit 20: Breeding and Biotechnology). The document covers:

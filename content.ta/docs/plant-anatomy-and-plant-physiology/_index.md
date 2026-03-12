@@ -1,6 +1,12 @@
 ---
 title: 'தாவர உள்ளமைப்பியல் மற்றும் தாவர செயலியல்'
 weight: 12
+references:
+    videos:
+        - youtube:Es2HGVDDnRA?si=ADLU6urr80esYCUv
+    links:
+        - www.sciencedaily.com
+        - www.britannica.com
 categories:
     - plant-anatomy-and-plant-physiology
 ---
@@ -443,10 +449,6 @@ C₆H₁₂O₆ → 2CO₂ + 2C₂H₅OH + (ATP)
 2. Pandey B.P. Plant Anatomy, S. Chand and Company Ltd, New Delhi
 3. Verma P.S. and Agarwal V.K. Cytology, S. Chand and Company Ltd, New Delhi
 
-## இணையவழி
-
-1. www.sciencedaily.com
-2. www.britannica.com
 
 ---
 

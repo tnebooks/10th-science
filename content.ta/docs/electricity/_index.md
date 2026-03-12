@@ -1,6 +1,12 @@
 ---
 title: 'மின்னோட்டவியல்'
 weight: 4
+references:
+    videos:
+        - youtube:DJYGwZrkdaA?si=mTprxGHbNXUVgI4w
+    links:
+        - https://www.elprocus.com/basic-electrical-circuits-and-their-working-for-electrical-engineers/
+        - https://www.physicsclassroom.com/calcpad/circuits
 categories:
       - electricity
 ---
@@ -674,10 +680,7 @@ s1
 1. Electrodynamics by Griffiths
 2. Fundamentals of Electric Circuits by Charles Alexander
 
-## இணையவளங்கள்
 
-1. https://www.elprocus.com/basic-electrical-circuits-and-their-working-for-electrical-engineers/
-2. https://www.physicsclassroom.com/calcpad/circuits
 
 ---
 

@@ -1,6 +1,12 @@
 ---
 title: 'நரம்பு மண்டலம்'
 weight: 15
+references:
+    videos:
+        - youtube:XSMBeTyGTPY?si=m0nxoh0OWIy7w1yi
+    links:
+        - http://www.britannica.com/science/nervous-system
+        - http://www.sumanasine.com/webcontent/animations/neurobiology.html
 categories:
     - nervous-system
 ---
@@ -295,10 +301,7 @@ categories:
 2. Sherwood.L., 2007, Human Physiology: From cells to systems 6th Edition, Indian edition, Thomson Brooks/Cole.
 3. Singh, H.D., 2007, Handbook of Basic Human Physiology for Paramedical Students. S.Chand and Company Ltd. New Delhi.
 
-## இணையவளங்கள் (Web Resources)
 
-1. http://www.britannica.com/science/nervous-system
-2. http://www.sumanasine.com/webcontent/animations/neurobiology.html
 
 ---
 மனித நரம்பு மண்டலம்

@@ -1,6 +1,14 @@
 ---
 title: "உடல் நலம் மற்றும் நோய்கள்"
 weight: 21
+references:
+    videos:
+        - youtube:XmyoYVcRjOI?si=7pNSXEn8hApiL6es
+    links:
+        - https://www.rossandwilson.com/lecturers
+        - https://www.elsevierhealth.com
+        - https://www.ncpcr.gov.in
+
 categories:
       - health-and-diseases
 ---
@@ -430,11 +438,8 @@ HIV நோய்க்கிருமியை என்சைமா (ELISA - En
 2. Srilakshmi, B. Dietetics, 2014, Multi-color Edition, New Age International Publishers, New Delhi.
 3. Sathyanarayana U. Biochemistry – Revised Edition, Books and (P) Ltd, Kolkata.
 
-## இணையவளங்கள்
 
-1. https://www.rossandwilson.com/lecturers
-2. https://www.elsevierhealth.com
-3. https://www.ncpcr.gov.in
+
 
 ---
 

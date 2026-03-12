@@ -1,6 +1,10 @@
 ---
 title: 'தனிமங்களின் ஆவர்த்தன வகைப்பாடு'
 weight: 8
+references:
+    videos:
+        - youtube:UsxMnISGnps?si=XHKlErC_OUb3TCtw
+   
 categories:
     - periodic-classification-of-elements
 ---
