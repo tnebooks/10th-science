@@ -8,6 +8,10 @@ references:
         - https://www.grc.nasa.gov
         - https://www.physicsclassroom.com
         - https://www.britannica.com/science/Newtons-law-of-gravitation
+    books:
+        - b1:
+            title:  Concept of physics - HC verma
+            url: https://readyourflow.com/book-author/h-c-verma-2/
 categories:
     - laws-of-motion
 ---

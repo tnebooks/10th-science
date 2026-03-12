@@ -8,6 +8,10 @@ references:
         - https://www.grc.nasa.gov
         - https://www.physicsclassroom.com
         - https://www.britannica.com/science/Newtons-law-of-gravitation
+    books:
+        - b1:
+            title:  Concept of physics - HC verma
+            url: https://readyourflow.com/book-author/h-c-verma-2/
 categories:
     - laws-of-motion
 ---
@@ -620,11 +624,6 @@ g = GM/R², g' = GM/R'²
 From the centre of the Earth, the object is placed at twice the radius of the earth.
 
 ---
-
-## REFERENCE BOOKS
-
-- Concept of physics - HC verma
-- Interactive physics (Newton's law) MTG learning.
 
 ---
 
