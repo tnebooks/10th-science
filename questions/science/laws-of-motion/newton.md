@@ -1,11 +1,9 @@
 ---
 choices:
-  - "for a body at rest"
-  - "for a body in motion"
-  - "both (a) & (b)"
   - "only for bodies with equal masses"
 answer:
-  - "both (a) & (b)"
+  - "for a body at rest"
+  - "for a body in motion"
 explanation: "Newton’s Third Law states: For every action, there is an equal and opposite reaction.This law applies to all bodies, whether they are at rest or in motion."
 ---
 
