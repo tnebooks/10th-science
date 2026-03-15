@@ -1,7 +1,6 @@
 ---
 choices:
   - "Block palette"
-  - "Block menu"
   - "Script area"
   - "sprite"
 answer:

@@ -2,7 +2,6 @@
 choices:
   - "difference in K.E and P.E"
   - "sum of P.E and K.E"
-  - "difference in T.E and P.E"
   - "difference in K.E and T.E"
 answer:
   - "difference in T.E and P.E"

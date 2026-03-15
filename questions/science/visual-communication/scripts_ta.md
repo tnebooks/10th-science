@@ -1,6 +1,5 @@
 ---
 choices:
-  - "Script area"
   - "Block palette"
   - "Stage"
   - "Sprite"

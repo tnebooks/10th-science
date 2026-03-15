@@ -2,7 +2,6 @@
 choices:
   - "X or –X"
   - "Y or –Y"
-  - "both (a) and (b)"
   - "Z or –Z"
 answer:
   - "both (a) and (b)"

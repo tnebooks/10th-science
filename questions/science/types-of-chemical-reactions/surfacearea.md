@@ -1,6 +1,5 @@
 ---
 choices:
-    - "large surface area"
     - "high pressure"
     - "high concentration"
     - "high temperature"

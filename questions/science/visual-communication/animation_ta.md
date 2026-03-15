@@ -1,6 +1,5 @@
 ---
 choices:
-  - "Paint"
   - "PDF"
   - "MS Word"
   - "Scratch"

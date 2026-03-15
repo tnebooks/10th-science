@@ -2,7 +2,6 @@
 choices:
   - "carbon dioxide"
   - "oxygen"
-  - "water"
   - "none of the above"
 answer:
   - "water"

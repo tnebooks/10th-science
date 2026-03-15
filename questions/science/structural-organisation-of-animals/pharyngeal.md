@@ -1,7 +1,6 @@
 ---
 choices:
    - "Excretory system"
-   - "Nervous system"
    - "Reproductive system"
    - "Respiratory system"
 answer:

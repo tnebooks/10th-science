@@ -1,6 +1,5 @@
 ---
 choices:
-  - "active transport"
   - "diffusion"
   - "osmosis"
   - "all of them"

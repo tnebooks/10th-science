@@ -1,6 +1,5 @@
 ---
 choices:
-  - "Folder"
   - "box"
   - "Pai"
   - "scanner"

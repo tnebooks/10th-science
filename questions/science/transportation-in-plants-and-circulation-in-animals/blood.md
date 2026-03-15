@@ -1,6 +1,5 @@
 ---
 choices:
-  - "O group"
   - "AB group"
   - "A or B group"
   - "all blood group"

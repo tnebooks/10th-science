@@ -2,7 +2,6 @@
 choices:
   - "ventricle → atrium → vein → arteries"
   - "atrium → ventricle → veins → arteries"
-  - "atrium → ventricle → arteries → vein"
   - "ventricles → vein → atrium → arteries"
 answer:
   - "atrium → ventricle → arteries → vein"

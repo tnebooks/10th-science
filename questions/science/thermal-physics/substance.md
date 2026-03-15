@@ -2,7 +2,6 @@
 choices:
   - "positive"
   - "negative"
-  - "zero"
   - "infinite"
 answer:
   - "zero"

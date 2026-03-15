@@ -1,6 +1,5 @@
 ---
 choices:
-   - "Metameres (somites)"
    - "Proglottids"
    - "Strobila"
    - "All the above"

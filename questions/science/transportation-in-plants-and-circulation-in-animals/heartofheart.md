@@ -1,6 +1,5 @@
 ---
 choices:
-  - "SA node"
   - "AV node"
   - "Purkinje fibres"
   - "Bundle of His"

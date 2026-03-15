@@ -2,7 +2,6 @@
 choices:
   - "Inkscape"
   - "Script editor"
-  - "Stage"
   - "Sprite"
 answer:
   - "Stage"

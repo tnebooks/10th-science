@@ -1,7 +1,6 @@
 ---
 choices:
   - "Inkscape"
-  - "script editor"
   - "stage"
   - "sprite"
 answer:

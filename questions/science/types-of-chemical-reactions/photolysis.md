@@ -2,7 +2,6 @@
 choices:
     - "heat"
     - "electricity"
-    - "light"
     - "mechanical energy"
 answer:
     - "light"

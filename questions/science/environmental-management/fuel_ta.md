@@ -1,7 +1,6 @@
 ---
 choices:
   - "i மட்டும்"
-  - "i மற்றும் ii"
   - "ii மற்றும் iii"
   - "i, ii மற்றும் iii"
 answer:

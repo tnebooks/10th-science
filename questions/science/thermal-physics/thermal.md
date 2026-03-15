@@ -1,6 +1,5 @@
 ---
 choices:
-  - "A ← B, A ← C, B ← C"
   - "A → B, A → C, B → C"
   - "A → B, A ← C, B → C"
   - "A ← B, A → C, B ← C"
