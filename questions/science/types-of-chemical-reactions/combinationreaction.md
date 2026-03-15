@@ -1,10 +1,9 @@
 ---
 choices:
     - "Decomposition Reaction"
-    - "Combination Reaction"
     - "Single Displacement Reaction"
     - "Double Displacement Reaction"
-answer:
+answers:
     - "Combination Reaction"
 explanation: ""
 ---

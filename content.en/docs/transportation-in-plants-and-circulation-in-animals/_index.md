@@ -7,6 +7,11 @@ references:
     links:
        - http://www.britannica.com/science/human-circulatory-system
        - http://biologydictionary.net/circulatory-system/
+    books:
+        - b1:
+            title: V.K. Jain, Fundamentals of Plant physiology, S.Chand and Company, New Delhi
+            url: https://www.britannica.com/science/human-circulatory-system
+       
 categories:
     - transportation-in-plants-and-circulation-in-animals
 ---

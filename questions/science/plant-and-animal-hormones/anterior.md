@@ -1,11 +1,11 @@
 ---
 choices:
-  - "adrenal gland"
-  - "thyroid gland"
-  - "anterior pituitary"
-  - "hypothalamus"
-answer:
-  - "anterior pituitary"
-explanation: " "
+  - adrenal gland
+  - thyroid gland
+  - hypothalamus
+answers:
+  - anterior pituitary
+explanation: ' '
 ---
+
 LH is secreted by

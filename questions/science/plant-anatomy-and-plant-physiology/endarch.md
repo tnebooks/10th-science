@@ -1,12 +1,11 @@
 ---
 choices:
-   - " root"
-   - "stem"
-   - "leaves"
-   - "flower"
-answer:
-   - "stem"
-explanation:
+  - root
+  - leaves
+  - flower
+answers:
+  - stem
+explanation: ''
 ---
 
 The endarch condition is the characteristic feature of

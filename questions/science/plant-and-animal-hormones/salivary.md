@@ -1,11 +1,11 @@
 ---
 choices:
-  - "pituitary gland"
-  - "adrenal gland"
-  - "salivary gland"
-  - "thyroid gland"
-answer:
-  - "salivary gland"
-explanation: " "
+  - pituitary gland
+  - adrenal gland
+  - thyroid gland
+answers:
+  - salivary gland
+explanation: ' '
 ---
+
 Identify the exocrine gland

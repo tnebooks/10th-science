@@ -10,6 +10,10 @@ references:
         - http://www.momjunction.com>pregnancy>Health
         - https://leadership.ng/2018/04/08/toilet-hygiene
         - https://www.boldsky.com/health/wellness/2018/world-menstrual-hygiene-day
+    books:
+        - b1:
+            title: Helgi Opik and Stephen Rolfe, The Physiology of Flowering Plants, Cambridge University Press.
+            url: https://www.biologydiscussion.com/
 categories:
     - reproduction-in-plants-and-animals
 ---

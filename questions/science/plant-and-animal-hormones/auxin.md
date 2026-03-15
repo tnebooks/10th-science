@@ -1,11 +1,11 @@
 ---
 choices:
-  - "cytokinin"
-  - "auxin"
-  - "gibberellin"
-  - "ethylene"
-answer:
-  - "auxin"
-explanation: " "
+  - cytokinin
+  - gibberellin
+  - ethylene
+answers:
+  - auxin
+explanation: ' '
 ---
+
 The hormone which has positive effect on apical dominance is:

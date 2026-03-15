@@ -2,9 +2,8 @@
 choices:
     - "heat"
     - "electricity"
-    - "light"
     - "mechanical energy"
-answer:
+answers:
     - "light"
 explanation: ""
 ---

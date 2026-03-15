@@ -1,12 +1,11 @@
 ---
 choices:
-  - "Ag"
-  - "Hg"
-  - "Mg"
-  - "Al"
-answer:
-  - "Hg"
-explanation: 
+  - Ag
+  - Mg
+  - Al
+answers:
+  - Hg
+explanation: ''
 ---
- ______ is an important metal to form amalgam.
 
+______ is an important metal to form amalgam.

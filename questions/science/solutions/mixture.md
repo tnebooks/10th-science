@@ -1,12 +1,11 @@
 ---
 choices:
-  - "homogeneous"
-  - "heterogeneous"
-  - "homogeneous and heterogeneous"
-  - "non homogeneous"
-answer:
-  - "homogeneous"
-explanation: 
+  - heterogeneous
+  - homogeneous and heterogeneous
+  - non homogeneous
+answers:
+  - homogeneous
+explanation: ''
 ---
-A solution is a __________ mixture.
 
+A solution is a __________ mixture.

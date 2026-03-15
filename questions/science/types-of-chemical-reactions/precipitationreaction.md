@@ -2,9 +2,8 @@
 choices:
     - "Neutralisation"
     - "Combustion"
-    - "Precipitation"
     - "Single displacement"
-answer:
+answers:
     - "Precipitation"
 explanation: ""
 ---

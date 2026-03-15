@@ -3,8 +3,7 @@ choices:
     - "i and ii"
     - "i and iv"
     - "i, ii and iii"
-    - "i, ii and iv"
-answer:
+answers:
     - "i, ii and iv"
 explanation: ""
 ---

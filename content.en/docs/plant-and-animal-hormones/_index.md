@@ -8,6 +8,11 @@ references:
         - https://www.biologydiscussion.com > auxins-his
         - https://www.mcdaniel.edu/biology/Bot.(dia)
         - https://www.ndsu.edu/pubweb/chiwonlee/plsc210
+    books:
+        - b1:
+            title: Helgi Opik and Stephen Rolfe, The Physiology of Flowering Plants, Cambridge University Press.
+            url: https://www.biologydiscussion.com/
+       
 categories:
     - plant-and-animal-hormones
 ---

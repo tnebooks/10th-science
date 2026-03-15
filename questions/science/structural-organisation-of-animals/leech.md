@@ -4,7 +4,7 @@ choices:
    - "Parapodia"
    - "Setae"
    - "Contraction and relaxation of muscles"
-answer:
+answers:
   - "both (a) and (b)"
 explanation:
 ---

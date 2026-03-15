@@ -7,6 +7,10 @@ references:
     links:
         - https://www.elprocus.com/basic-electrical-circuits-and-their-working-for-electrical-engineers/
         - https://www.physicsclassroom.com/calcpad/circuits
+    books:
+        - b1:
+            title: Fundamentals of Electric Circuits by Charles Alexander
+            url: https://ggnindia.dronacharya.info/Downloads/Sub-info/RelatedBook/Electric-Circuit-Analysis-Book-4.pdf
 
 categories:
     - electricity
@@ -738,13 +742,6 @@ Since the resistors are connected in parallel, the same potential difference exi
 - Current in the 4Ω resistor:{{< katex display=true >}} I_3 = \frac{V}{R_3} = \frac{1}{4} = 0.25A{{< /katex >}}
 
 ---
-
-
-## Reference Books
-1. Electrodynamics by Griffiths
-2. Fundamentals of Electric Circuits by Charles Alexander
-
-
 
 ---
 

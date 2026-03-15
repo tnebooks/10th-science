@@ -1,10 +1,8 @@
 ---
 choices:
     - "i, ii and iii"
-    - "i, ii and iv"
     - "ii, iii and iv"
-    - "i, ii and iv"
-answer:
+answers:
     - "i, ii and iv"
 explanation: ""
 ---

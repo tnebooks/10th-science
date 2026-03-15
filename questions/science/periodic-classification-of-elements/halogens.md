@@ -1,12 +1,11 @@
 ---
 choices:
-  - "17th"
-  - "15th"
-  - "18th"
-  - "16th"
-answer:
-  - "17th"
-explanation: 
+  - 15th
+  - 18th
+  - 16th
+answers:
+  - 17th
+explanation: ''
 ---
 
 _____ group contains the member of halogen

@@ -7,6 +7,10 @@ references:
     links:
         - www.sciencedaily.com
         - www.britannica.com
+    books:
+        - b1:
+            title: Pandey B.P. Plant Anatomy, S. Chand and Company Ltd, New Delhi
+            url: https://www.britannica.com/
 categories:
     - plant-anatomy-and-plant-physiology
 ---

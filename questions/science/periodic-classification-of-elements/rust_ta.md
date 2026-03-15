@@ -1,12 +1,11 @@
 ---
 choices:
-  - "FeO·xH₂O"
-  - "Fe₃O₄·xH₂O"
-  - "Fe₂O₃·xH₂O"
-  - "FeO"
-answer:
-  - "Fe₂O₃·xH₂O"
-explanation: 
+  - FeO·xH₂O
+  - Fe₃O₄·xH₂O
+  - FeO
+answers:
+  - Fe₂O₃·xH₂O
+explanation: ''
 ---
-துருவின் வாய்பாடு:
 
+துருவின் வாய்பாடு:

@@ -6,6 +6,10 @@ references:
         - youtube:Ksttr4FpCL4?si=fqAcXFrYma61rZVz
     links:
         - https://www.cwcboe.org/cms/lib/NJ01001185/Centricity/Domain/203/Solutions%20Suspensions%20and%20Colloids.pdf
+    books:
+        - b1:
+            title: Properties Liquids Solutions John Murrell 2nd Edition.
+            url: https://www.wiley.com/en-us/Properties+of+Liquids+and+Solutions%2C+2nd+Edition-p-9780471944195
 categories:
     - solutions
 ---

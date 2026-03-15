@@ -7,6 +7,10 @@ references:
     links:
         - https://physics.columbia.edu/research/nuclear-physics
         - http://www.newworldencyclopedia.org/entry/Nuclear_physics
+    books:
+        - b1:
+            title: Physics concepts and connections – by Art Hobson Edition Pearson education
+            url: https://www.physics.columbia.edu/research/nu-clear-physics
 categories:
     - nuclear-physics
 ---

@@ -9,6 +9,10 @@ references:
         - https://www.webelements.com
         - www.rsc.org/periodic-table
         - https://www.tcyonline.com
+    books:
+        - b1:
+            title: Oxford Inorganic chemistry
+            url: https://www.webelements.com/
 categories:
     - periodic-classification-of-elements
 ---

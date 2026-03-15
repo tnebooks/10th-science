@@ -1,10 +1,9 @@
 ---
 choices:
-  - "Paint"
   - "PDF"
   - "MS Word"
   - "Scratch"
-answer:
+answers:
   - "Paint"
 explanation: "அசைவூட்டும் கொணொளிகளை உருவாக்க பயன்படும் மென்பொருள் Paint ஆகும். Paint மென்பொருளில் படங்களை வரைந்து அசைவூட்டல் உருவாக்கலாம்."
 ---

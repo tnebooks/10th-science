@@ -9,6 +9,10 @@ references:
        - http://www.biologydiscussion.com/zoology
        - http://animaldiversity.org/accounts/Hirudo_medicinalis/
        - http://www.notesonzoology.com/rabbit/external-morphology/external-morphology-of-rabbit-with-diagram-chordata-zoology/7642
+    books:
+        - b1:
+            title: Kotpal R.L, 2014 Modern Text Book of Zoology -Invertebrates,Rastogi Publications, Meerut.
+            url: https://www.biologydiscussion.com/zoology
 categories:
     - structural-organisation-of-animals
 ---

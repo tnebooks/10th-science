@@ -4,7 +4,7 @@ choices:
   - "Benign tumour"
   - "Both (a) and (b)"
   - "Crown gall tumour"
-answer:
+answers:
   - "NMalignant tumour"
 explanation: "Metastasis is associated with malignant tumours."
 ---
