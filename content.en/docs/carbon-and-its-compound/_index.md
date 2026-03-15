@@ -8,6 +8,10 @@ references:
         - https://www.tutorvista.com/
         - https://www.topperlearning.com/
         - http://www.chem4kids.com/
+    books:
+        - b1:
+            title: Organic chemistry - B.S.Bahl & Arun Bahl S.Chand publishers, New delhi.
+            url: https://www.chem4kids.com/
 categories:
     - carbon-and-its-compound
 ---

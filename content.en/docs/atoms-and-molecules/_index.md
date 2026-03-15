@@ -7,6 +7,10 @@ references:
     links:
         - https://www2.estrellamountain.edu/faculty/farabee/biobk/BioBookCHEM1.html
         - https://www.toppr.com/guides/chemistry/atoms-and-molecules/
+    books:
+        - b1:
+            title: Petrucci, Ralph H et.al. General Chemistry Principles & Modern Applications (9thEdition). Upper Saddle River, NJ PearsonPrentice Hall, 2007. Print.
+            url: https://www.toppr.com/guides/chemistry/atoms-and-molecules/
 categories:
     - atoms-and-molecules
 ---

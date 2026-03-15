@@ -7,6 +7,10 @@ references:
     links:
         - www.chem4kids.com
         - http://aravindguptatoys.com/filims.html
+    books:
+        - b1:
+            title: Text book of inorganic chemistry-P.L.Soni-S.Chand & sons publishers, New Delhi
+            url: https://www.chem4kids.com/
 categories:
     - types-of-chemical-reactions
 ---

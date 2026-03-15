@@ -6,6 +6,10 @@ references:
         - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
     links:
         - http://people.bath.ac.uk/ensmjc/Notes/acoustics.pdf
+    books:
+        - b1:
+            title: Fundamentals of sound and vibration by Franky Fahy and David Thombson
+            url: http://people.bath.ac.uk/ensmjc/Notes/acoustics.pdf
         
 categories:
     - acoustics
@@ -462,12 +466,6 @@ In SONAR, by measuring the change in the frequency between the sent signal and r
 - "The apparent frequency" is the frequency of the sound as heard by the listener.
 
 ---
-
-
-## REFERENCE BOOKS
-1. Fundamental Physics by K.L. Gomber and K.L. Gogia
-2. Fundamentals of sound and vibration by Franky Fahy and David Thombson
-3. The theory of sound by Rayleigh and John William Strutt
 
 
 ---
