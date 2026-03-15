@@ -1,12 +1,11 @@
 ---
 choices:
-   - "Cold blooded"
-   - "Warm blooded"
-   - "Poikilothermic"
-   - "All the above"
-answer:
-  - "Warm blooded"
-explanation:
+  - Cold blooded
+  - All the above
+answers:
+  - Poikilothermic
+  - Warm blooded
+explanation: ''
 ---
 
 Mammals are ______________

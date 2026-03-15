@@ -1,12 +1,11 @@
 ---
 choices:
-  - "2"
-  - "3"
-  - "4"
-  - "5"
-answer:
-  - "2"
-explanation: 
+  - '3'
+  - '4'
+  - '5'
+answers:
+  - '2'
+explanation: ''
 ---
-The number of components in a binary solution is __________
 
+The number of components in a binary solution is __________

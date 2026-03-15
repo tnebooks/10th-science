@@ -1,12 +1,11 @@
 ---
 choices:
-   - "Carbohydrate"
-   - "Ethyl alcohol"
-   - "Acetyl CoA"
-   - "Pyruvate"
-answer:
-   - "Ethyl alcohol"
-explanation:
+  - Carbohydrate
+  - Acetyl CoA
+  - Pyruvate
+answers:
+  - Ethyl alcohol
+explanation: ''
 ---
 
 Which is formed during anaerobic respiration

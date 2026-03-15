@@ -3,7 +3,7 @@ choices:
     - "{{< katex display=true >}} (1 \times 10^{-3}) {{< /katex >}} M"
     - "3 M"
     - "11 M"
-answer:
+answers:
     - "{{< katex display=true >}} (1 \times 10^{-11}) {{< /katex >}} M"
 explanation: ""
 ---

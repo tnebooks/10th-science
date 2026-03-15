@@ -1,14 +1,19 @@
 ---
 choices:
-  - "(i) & (ii) are correct"
-  - "(ii) & (iii) are correct"
-  - "(iv) only correct"
-  - "(iii) & (iv) are correct"
-answer:
-  - "(iii) & (iv) are correct"
-explanation: "(iii) is correct - Alpha particles (helium nuclei: ₂He⁴) have high ionizing power because they are heavy particles with +2 charge. (iv) is correct - Gamma rays have very high penetrating power as they are electrically neutral photons. (i) is incorrect - Alpha particles are helium nuclei, not photons. (ii) is incorrect - Gamma rays have very high penetrating power (100 times more than alpha, 10 times more than beta)."
-
+  - (i) & (ii) are correct
+  - (ii) & (iii) are correct
+  - (iv) only correct
+answers:
+  - (iii) & (iv) are correct
+explanation: >-
+  (iii) is correct - Alpha particles (helium nuclei: ₂He⁴) have high ionizing
+  power because they are heavy particles with +2 charge. (iv) is correct - Gamma
+  rays have very high penetrating power as they are electrically neutral
+  photons. (i) is incorrect - Alpha particles are helium nuclei, not photons.
+  (ii) is incorrect - Gamma rays have very high penetrating power (100 times
+  more than alpha, 10 times more than beta).
 ---
+
 Which of the following statements is/are correct?
    - i. α particles are photons
    - ii. Penetrating power of γ radiation is very low

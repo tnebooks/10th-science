@@ -3,7 +3,7 @@ choices:
    - "Excretory system"
    - "Reproductive system"
    - "Respiratory system"
-answer:
+answers:
   - "Nervous system"
 explanation:
 ---

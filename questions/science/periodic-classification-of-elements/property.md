@@ -1,11 +1,11 @@
 ---
 choices:
-  - "atomic radii"
-  - "ionic radii"
-  - "electron affinity"
-  - "electronegativity"
-answer:
-  - "ionic radii"
-explanation: 
+  - atomic radii
+  - electron affinity
+  - electronegativity
+answers:
+  - ionic radii
+explanation: ''
 ---
- _____ is a relative periodic property
+
+_____ is a relative periodic property

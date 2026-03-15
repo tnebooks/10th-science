@@ -3,7 +3,7 @@ choices:
     - "heat"
     - "electricity"
     - "mechanical energy"
-answer:
+answers:
     - "light"
 explanation: ""
 ---

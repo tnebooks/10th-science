@@ -3,7 +3,7 @@ choices:
    - "Proglottids"
    - "Strobila"
    - "All the above"
-answer:
+answers:
   - "Metameres (somites)"
 explanation:
 ---
