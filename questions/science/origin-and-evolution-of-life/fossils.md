@@ -1,9 +1,8 @@
 ---
 choices:
-  - Uranium lead method
   - Potassium-argon method
-  - Both (a) and (c)
 answers:
+- Uranium lead method
   - Radio-carbon method
 explanation: >-
   Radio-carbon dating ($C^{14}$ dating) is the most effective method for dating
