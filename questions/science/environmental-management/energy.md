@@ -1,10 +1,10 @@
 ---
 choices:
   - solar energy
-  - wind energy
   - thermal energy
-answers:
   - hydropower
+answers:
+  - wind energy
 explanation: >-
   Hydropower is considered a conventional and commercial source because it has
   been used on a large scale for decades and integrated into the global power

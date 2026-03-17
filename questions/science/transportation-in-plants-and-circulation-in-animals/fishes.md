@@ -1,10 +1,10 @@
 ---
 choices:
-  - 3
-  - 4
-  - 5
+  - "3"
+  - "4"
+  - "5"
 answers:
-  - 2
+  - "2"
 explanation: >-
   The heart of a fish has only two chambers: one atrium and one ventricle. 
   This is part of a single-circuit circulatory system where blood is 
