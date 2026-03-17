@@ -1,5 +1,8 @@
 ---
-choices: []
+choices: 
+  - '4'
+  - '2'
+  - '5'
 answers:
   - '3'
 explanation: >-

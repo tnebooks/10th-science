@@ -1,5 +1,8 @@
 ---
-choices: []
+choices: 
+  - '9:1:3:1'
+  - '9:1:3:3'
+  - '1:2:1'
 answers:
   - '9:3:3:1'
 explanation: >-

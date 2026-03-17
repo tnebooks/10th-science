@@ -1,5 +1,8 @@
 ---
-choices: []
+choices:
+  - "MacOS, Linux"
+  - "Windows, Android"
+  - "Linux, Unix"
 answers:
   - 'Windows, LINUX'
 explanation: >-
