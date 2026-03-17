@@ -1,10 +1,9 @@
 ---
 choices:
-  - transgenic organisms
-  - genetically modified
   - mutated
 answers:
-  - both a and b
+  - transgenic organisms
+  - genetically modified
 explanation: >-
   Organisms whose genes are modified by inserting a foreign gene or altering
   their own genes are called genetically modified organisms, and when a foreign
