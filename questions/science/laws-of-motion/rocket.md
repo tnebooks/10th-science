@@ -1,10 +1,9 @@
 ---
 choices:
-  - Newton's third law of motion
   - Newton's law of gravitation
-  - law of conservation of linear momentum
 answers:
-  - both a and c
+  - Newton's third law of motion
+  - law of conservation of linear momentum
 explanation: >-
   Newton’s Third Law: A rocket pushes exhaust gases backward, and in reaction,
   it moves forward.Conservation of Linear Momentum: The total momentum of the

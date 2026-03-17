@@ -1,10 +1,9 @@
 ---
 choices:
   - Spontaneous radioactivity
-  - Artificial radioactivity
-  - a & c
 answers:
   - Induced radioactivity
+  - Artificial radioactivity
 explanation: >-
   When a stable nucleus is bombarded with high-energy particles (such as
   neutrons, protons, or alpha particles), it becomes unstable and undergoes

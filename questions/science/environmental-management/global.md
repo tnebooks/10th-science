@@ -1,10 +1,10 @@
 ---
 choices:
+
+answers:
   - raise in level of oceans
   - melting of glaciers
   - sinking of islands
-answers:
-  - all of these
 explanation: >-
   Global warming leads to an increase in Earth's average temperature, which
   triggers a chain reaction: heat causes glaciers and polar ice caps to melt,

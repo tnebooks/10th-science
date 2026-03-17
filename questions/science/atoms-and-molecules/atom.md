@@ -2,9 +2,9 @@
 choices:
   - 28 amu
   - 28 g
-  - 14 g
-answers:
   - 14 amu
+answers:
+  - 14 g
 explanation: >-
   The atomic mass of Nitrogen (N) is 14 atomic mass units (amu). This represents
   the mass of a single nitrogen atom. 1 amu is defined as 1/12th the mass of a

@@ -1,8 +1,7 @@
 ---
 choices:
-  - Uranium lead method
   - Potassium-argon method
-  - Both (a) and (c)
+  - Uranium lead method
 answers:
   - Radio-carbon method
 explanation: >-

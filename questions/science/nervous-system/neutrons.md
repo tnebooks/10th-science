@@ -3,7 +3,6 @@ choices:
   - cerebral cortex
   - embryo
   - respiratory epithelium
-  - spinal cord
 answers:
   - retina of eye
 explanation: >-

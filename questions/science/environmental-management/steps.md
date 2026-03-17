@@ -1,10 +1,10 @@
 ---
 choices:
+
+answers:
   - reduce the amount of waste formed
   - reuse the waste
   - recycle the waste
-answers:
-  - all of the above
 explanation: >-
   Effective waste management follows the '3Rs' hierarchy: Reduce, Reuse, and
   Recycle. Reducing waste at the source is the most effective strategy, followed

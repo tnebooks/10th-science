@@ -1,11 +1,10 @@
 ---
 choices:
+   - "Setae"
    - "Anterior sucker"
    - "Parapodia"
-   - "Setae"
-   - "Contraction and relaxation of muscles"
 answers:
-  - "both (a) and (b)"
+   - "Contraction and relaxation of muscles"
 explanation:
 ---
 

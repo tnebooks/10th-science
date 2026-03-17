@@ -1,10 +1,9 @@
 ---
 choices:
-  - enzyme from organism
-  - live organism
   - vitamins
 answers:
-  - both (a) and (b)
+- enzyme from organism
+- live organism
 explanation: >-
   Both enzymes extracted from organisms and live genetically modified organisms
   are used in biotechnological production.

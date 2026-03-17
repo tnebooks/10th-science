@@ -1,8 +1,7 @@
 ---
 choices:
-  - weight of the object
   - acceleration due to gravity of the planet
-  - both (a) & (b)
+  - weight of the object
 answers:
   - mass of the object
 explanation: >-

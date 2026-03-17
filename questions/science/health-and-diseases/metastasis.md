@@ -1,12 +1,10 @@
 ---
 choices:
-  - "Malignant tumour"
-  - "Benign tumour"
-  - "Both (a) and (b)"
-  - "Crown gall tumour"
+  - Crown gall tumour
+  - Benign tumour
 answers:
-  - "NMalignant tumour"
-explanation: "Metastasis is associated with malignant tumours."
+  - Malignant tumour
+explanation: Metastasis is associated with malignant tumours.
 ---
 
 Metastasis is associated with
