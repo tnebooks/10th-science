@@ -1,10 +1,10 @@
 ---
 choices:
   - 17 g
-  - 32 g
   - 16 g
-answers:
   - 18 g
+answers:
+  - 32 g
 explanation: "Oxygen exists naturally as a diatomic molecule ($O_2$). The atomic mass of a single oxygen atom is approximately 16. Therefore, the molecular mass of $O_2$ is $16 \times 2 = 32$. When expressed in grams, it is called the Gram Molecular Mass."
 ---
 
