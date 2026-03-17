@@ -1,10 +1,10 @@
 ---
 choices:
+
+answers:
   - Stoke’s
   - Anti Stoke’s
   - Rayleigh’s
-answers:
-  - all the above
 explanation: >-
   Raman scattering involves the interaction of photons with matter. It 
   results in three types of lines: Rayleigh lines (no change in frequency), 
