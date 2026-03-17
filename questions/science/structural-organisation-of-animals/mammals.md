@@ -1,9 +1,8 @@
 ---
 choices:
   - Cold blooded
-  - All the above
-answers:
   - Poikilothermic
+answers:
   - Warm blooded
 explanation: ''
 ---

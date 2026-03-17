@@ -1,10 +1,10 @@
 ---
 choices:
+
+answers:
   - "Endocardium"
   - "Epicardium"
   - "Myocardium"
-answers:
-  - "All of the above"
 explanation: "The wall of the human heart consists of three distinct layers: the Epicardium (outer protective layer), the Myocardium (middle muscular layer responsible for contraction), and the Endocardium (inner smooth lining of the heart chambers)."
 ---
 
