@@ -1,10 +1,10 @@
 ---
 choices:
+
+answers:
   - roentgen
   - curie
   - becquerel
-answers:
-  - all the above
 explanation: >-
   Rontgen (R) is the SI unit of exposure for X-rays and gamma rays, measuring
   ionization in air. Curie (Ci) is the traditional unit of radioactivity (1 Ci =
