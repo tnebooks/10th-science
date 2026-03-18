@@ -4,6 +4,13 @@ weight: 23
 references:
     videos:
         - youtube:q1uwuJxNvoA?si=yDEaKtSEfpwaB0FY
+    links:
+        - http://envfor.nic.in
+        - https://www.ovoenergy.com/guides/energy-guides/120-ways-to-save-energy.html
+    books:
+        - b1:
+            title: P.D. Sharma, 2013. Ecology and Environment, Rastogi Publications, Meerut.
+            url: https://www.scribd.com/document/439522041/P-D-Sharma
    
 categories:
     - visual-communication

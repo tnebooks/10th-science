@@ -6,6 +6,10 @@ references:
         - youtube:XmyoYVcRjOI?si=7pNSXEn8hApiL6es
     links:
         - https://www.ross and wilson.com/lecturers
+    books:
+        - b1:
+            title: Srilakshmi, B. Dietetics, 2014, 7th Multicolor Edition, New Age International Publishers, New Delhi.
+            url: https://books.google.com.et/books?id=f_i7j4_cMLIC&printsec=copyright#v=onepage&q&f=false
 categories:
     - health-and-diseases
 ---
@@ -493,15 +497,6 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 - **AIDS** is caused by **Human immunodeficiency virus (HIV)**.
 
 ---
-
-## REFERENCE BOOKS
-
-1. Edward P Sarafino and Timothy W. Smith. 2012, Health Psychology, International Student Version - 7th Edition, Wiley India (P) Ltd, New Delhi.
-2. Srilakshmi, B. Dietetics, 2014, 7th Multicolor Edition, New Age International Publishers, New Delhi.
-3. Sathyanarayana U. Biochemistry – Revised Edition, Books and (P) Ltd.
-
-
-
 
 
 ---

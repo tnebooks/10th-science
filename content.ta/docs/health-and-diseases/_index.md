@@ -8,7 +8,10 @@ references:
         - https://www.rossandwilson.com/lecturers
         - https://www.elsevierhealth.com
         - https://www.ncpcr.gov.in
-
+    books:
+        - b1:
+            title: Srilakshmi, B. Dietetics, 2014, 7th Multicolor Edition, New Age International Publishers, New Delhi.
+            url: https://books.google.com.et/books?id=f_i7j4_cMLIC&printsec=copyright#v=onepage&q&f=false
 categories:
       - health-and-diseases
 ---
@@ -431,15 +434,6 @@ HIV நோய்க்கிருமியை என்சைமா (ELISA - En
 1. குழந்தைகள் HIV பற்றிய புரிதல் மற்றும் நடவடிக்கைகள் பற்றி விவாதிக்கவும்.
 
 ---
-
-## பிற நூல்கள்
-
-1. Edward P Sarafino and Timothy W. Smith. 2012, Health Psychology, International Student Version - 7th Edition, Wiley India (P) Ltd, New Delhi.
-2. Srilakshmi, B. Dietetics, 2014, Multi-color Edition, New Age International Publishers, New Delhi.
-3. Sathyanarayana U. Biochemistry – Revised Edition, Books and (P) Ltd, Kolkata.
-
-
-
 
 ---
 

@@ -9,6 +9,10 @@ references:
         - https://www.genetics.edu.au
         - https://www.bioexplorer.net/chromosomal-mutation.html/
         - https://www.ndss.org/about-down-syndrome/down-syndrome/
+    books:
+        - b1:
+            title: P. S. Verma and V.K. Agarwal, Genetics, S. Chand and Company, New Delhi
+            url: https://dpbck.ac.in/wp-content/uploads/2022/09/Cell-Biology-Verma-and-Agarwal.pdf
 categories:
     - genetics
 ---
@@ -327,17 +331,6 @@ Gene mutation is the changes occurring in nucleotide sequence of a gene. It invo
 - Mutation is an inheritable change in the genetic material of an organism.
 
 ---
-
-
-## REFERENCE BOOKS
-
-1. Veer Bala Rastogi, Introductory Cytology, Rastogi Publications, Meerut
-2. P. S. Verma and V.K. Agarwal, Genetics, S. Chand and Company, New Delhi
-3. Gerald Karp, Janet Iwasa and Wallace Marshall, Cell and Molecular Biology Concepts and Experiment, 8th Edition, Wiley and Sons Publishers
-
-
-
-
 
 ---
 
