@@ -7,6 +7,10 @@ references:
     links:
        - http://www.britannica.com/science/human-circulatory-system
        - http://biologydictionary.net/circulatory-system/
+    books:
+        - b1:
+            title: V.K. Jain, Fundamentals of Plant physiology, S.Chand and Company, New Delhi
+            url: https://www.britannica.com/science/human-circulatory-system
 categories:
     - transportation-in-plants-and-circulation-in-animals
 ---
@@ -852,15 +856,6 @@ O இரத்த வகை கொண்ட நபரை **'இரத்தக�
 5. நீராவிப்போக்கு ஒரு தேவையான தீங்கு செயல் விளக்குக.
 
 ---
-
-## பிற நூல்கள்
-
-1. V.K. Jain, Fundamentals of Plant physiology, S.Chand and Company, New Delhi
-2. D.G Maclean and Dave Hayward, Biology Cambridge IGCSE
-3. S.C.Rastogi., Essential of Animal Physiology, 4th Edition, New Age International Publishers
-4. Elain N. Marieb and Katja Hoehn, 2011, Anatomy and Physiology, 4th Edition, Pearson Publications.
-
-
 
 ---
 

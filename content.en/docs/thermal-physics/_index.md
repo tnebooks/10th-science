@@ -410,14 +410,6 @@ V_2 = \textbf{5 cm}^3
 
 ---
 
-
-## REFERENCE BOOKS
-
-- Thermodynamics and an introduction to thermo statistics by Herbert Hallen
-- Fundamentals of Engineering Thermodynamics by Michael
-
-
-
 ---
 
 ## CONCEPT MAP

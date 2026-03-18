@@ -7,6 +7,10 @@ references:
     links:
         - https://www.estimate.com/biology/farabee/biobk/BioBookCHEM1.html
         - https://www.toppr.com/guides/chemistry/atomsand-molecules/
+    books:
+        - b1:
+            title: Petrucci, Ralph H et.al. General Chemistry Principles & Modern Applications (9thEdition). Upper Saddle River, NJ PearsonPrentice Hall, 2007. Print.
+            url: https://www.toppr.com/guides/chemistry/atoms-and-molecules/
 categories:
     - atoms-and-molecules
 ---
@@ -500,16 +504,6 @@ n = 1 எனக் கொண்டால்,
 - **ஒப்பு மூலக்கூறு நிறை** = 2 × ஆவி அடர்த்தி
 
 ---
-
-
-## மேல் படிப்புக்கு:
-
-### நூல்கள்:
-1. Modern Applications (9th Edition). Upper Saddle River, NJ: Pearson Prentice Hall, 2007.
-2. Raymond Chang. (2010). Chemistry. New York, NY: The Tata McGraw Hill Companies. Inc.
-3. Julia Burdge. (2011). Chemistry. New York, NY: The Tata McGraw Hill Companies. Inc.
-
-
 
 ---
 

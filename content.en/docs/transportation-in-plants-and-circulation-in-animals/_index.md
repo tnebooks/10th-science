@@ -582,16 +582,6 @@ Lymph from the intercellular spaces drains into lymphatic capillaries. Lymph is 
 
 ---
 
-
-## Reference Books
-
-1. V.K. Jain, Fundamentals of Plant physiology, S. Chand and Company, New Delhi
-2. D.G Maclean and Dave Hayward, Biology Cambridge IGCSE
-3. S.C. Rastogi., Essential of Animal Physiology, 4th Edition, New Age International Publishers
-4. Elain N. Marieb and Katja Hoehn, 2011, Anatomy and Physiology, 4th Edition, Pearson
-
-
-
 ---
 
 ## Concept Maps

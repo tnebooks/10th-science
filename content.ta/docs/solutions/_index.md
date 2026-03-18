@@ -4,7 +4,12 @@ weight: 9
 references:
     videos:
         - youtube:Ksttr4FpCL4?si=fqAcXFrYma61rZVz
-    
+    links:
+        - https://www.cwcboe.org/cms/lib/NJ01001185/Centricity/Domain/203/Solutions%20Suspensions%20and%20Colloids.pdf
+    books:
+        - b1:
+            title: Properties Liquids Solutions John Murrell 2nd Edition.
+            url: https://www.wiley.com/en-us/Properties+of+Liquids+and+Solutions%2C+2nd+Edition-p-9780471944195
 categories:
     - solutions
 ---
@@ -506,11 +511,6 @@ categories:
 3. குளிர்பானைங்கள் சேரல் உச்சியில் அதிகேதாக நுணரததுப் பாங்குேதா? அல்லது அடிவதாரததில் அதிகேதாக நுணரததுப் பாங்குேதா? விளக்குக.
 
 ---
-
-## பிற நூல்கள் 
-
-1. Properties Liquids Solutions - John Murrell, 2nd Edition
-2. Fundamental Interrelationships Between Certain Soluble Salts and Soil Colloids (Classic Reprint) - Leslie Theodore Sharp
 
 ---
 

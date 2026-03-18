@@ -9,8 +9,8 @@ references:
         - http://www.sumanasine.com/webcontent/animations/neurobiology.html
     books:
         - b1:
-            title: V.K. Jain, Fundamentals of Plant physiology, S.Chand and Company, New Delhi
-            url: https://www.britannica.com/science/human-circulatory-system
+            title: Guyton and Hall, 2003, Textbook of Medical Physiology; Harcourt Indian Private Limited.
+            url: https://faculty.ksu.edu.sa/sites/default/files/hall_textbook_of_medical_physiology.pdf
        
 categories:
     - nervous-system
@@ -273,13 +273,6 @@ You must say the colour of the word but not the name of the word.
 * CNS is formed of brain and spinal cord. PNS consists of all nerves which connect brain and spinal cord to all parts of the body.
 * ANS operates automatically and formed of sympathetic and parasympathetic nerves.
 * A reflex action is a rapid, automatic response to a stimulus which is not under the voluntary control of the brain.
-
-
-## REFERENCE BOOKS
-1. Guyton and Hall, 2003, Textbook of Medical Physiology; Harcourt Indian Private Limited.
-2. Sherwood. L., 2007, Human Physiology: From cells to systems 6th Edition, Indian edition, Thomson Brooks/Cole.
-3. Singh, H.D., 2007, Handbook of Basic Human Physiology for Paramedical Students. S. Chand and Company Ltd. New Delhi.
-
 
 ## Concept Map
 ```text

@@ -9,6 +9,10 @@ references:
        - http://www.biologydiscussion.com/zoology
        - http://animaldiversity.org/accounts/Hirudo_medicinalis/
        - http://www.notesonzoology.com/rabbit/external-morphology/external-morphology-of-rabbit-with-diagram-chordata-zoology/7642
+    books:
+        - b1:
+            title: Kotpal R.L, 2014 Modern Text Book of Zoology -Invertebrates,Rastogi Publications, Meerut.
+            url: https://www.biologydiscussion.com/zoology
 categories:
     - structural-organisation-of-animals
 ---
@@ -408,11 +412,3 @@ categories:
 - அட்ணடையின் உடல் ஒரே மாதிரியான 33 கண்டங்களாகப் பிரிக்கப்பட்டுள்ளது.
 - ஓம்புயிரியின் உடலில் ஒட்டிக் கொள்வதற்கும், இடப்பெயர்ச்சிக்கும் பயன்படும் இரு ஒட்டுறுப்புகளை அட்ணடைப் பொறுத்துள்ளது.
 - அட்ணடையின் உமிழ்நீரச் சுரப்பிகள் இரத்தம் உணைவைத் தடுக்கும் ஹிருடின் (எதிர் உணைவி) என்பதால் உள்ளச்
-
-
-## பிற நூல்கள்
-
-1. Kotpal R.L, 2014 Modern Text Book of Zoology - Invertebrates, Rastogi Publications, Meerut.
-2. Ekambaranatha Ayyar M and Anantha krishnan T.N. 2003. Manual of Zoology, Vol I, Part I & II (Invertebrates), S. Viswanathan Printers and Publishers Pvt
-3. Kotpal R.L, 2012 Modern Text Book of Zoology - Vertebrates, Rastogi Publications, Meerut
-4. Jordan E.L. and Verma P.S. 2003 Chordate Zoology, S. Chand and Company Ltd, New

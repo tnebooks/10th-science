@@ -7,6 +7,10 @@ references:
     links:
         - https://www.elprocus.com/basic-electrical-circuits-and-their-working-for-electrical-engineers/
         - https://www.physicsclassroom.com/calcpad/circuits
+    books:
+        - b1:
+            title: Fundamentals of Electric Circuits by Charles Alexander
+            url: https://ggnindia.dronacharya.info/Downloads/Sub-info/RelatedBook/Electric-Circuit-Analysis-Book-4.pdf
 categories:
       - electricity
 ---
@@ -675,13 +679,6 @@ s1
 
 ---
 
-## பின்னூல்கள்
-
-1. Electrodynamics by Griffiths
-2. Fundamentals of Electric Circuits by Charles Alexander
-
-
-
 ---
 
 ## கருத்து வரைபடம்
@@ -725,12 +722,6 @@ s1
 **URL:** http://amrita &sim=99&cnt=4
 
 ---
-
-## மேலும் படிக்க
-
-**நூல்கள்:**
-1. Electrodynamics by Griffiths
-2. Fundamentals of Electric Circuits by Charles Alexander
 
 **இணைய வளங்கள்:**
 1. https://www.elprocus.com/basic-electrical-circuits-and-their-working-for-electrical-engineers/

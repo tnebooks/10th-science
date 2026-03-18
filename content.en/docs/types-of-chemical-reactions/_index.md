@@ -977,13 +977,6 @@ d. high temperature
 
 ---
 
-## REFERENCE BOOKS
-
-1. Text book of inorganic chemistry - P.L. Soni - S. Chand & sons publishers, New Delhi.
-2. Principles of Physical Chemistry - B.R. Ruri, L.R. Sharma, Vishal publishing Co Punjab.
-
-
-
 ## Concept Map
 
 ![](image.png)

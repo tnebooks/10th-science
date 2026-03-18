@@ -535,15 +535,7 @@ Amount of sodium nitrate thrown when 50g of water is cooled from 50°C to 30°C 
 - In exothermic process, solubility of solid solute decreases with increase in temperature.
 
 ---
-
-
-## REFERENCE BOOKS
-
-1. Properties Liquids Solutions John Murrell 2nd Edition.
-2. Fundamental Interrelationships Between Certain Soluble Salts and Soil Colloids (Classic Reprint) Hardcover, by Leslie Theodore Sharp
-
  
-
 ---
 
 ## CONCEPT MAP

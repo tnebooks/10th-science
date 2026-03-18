@@ -12,8 +12,8 @@ references:
         - https://www.boldsky.com/health/wellness/2018/world-menstrual-hygiene-day
     books:
         - b1:
-            title: Helgi Opik and Stephen Rolfe, The Physiology of Flowering Plants, Cambridge University Press.
-            url: https://www.biologydiscussion.com/
+            title: Verma P.S and Agarwal, V.K. and Tyagi B.S, Animal Physiology, S.Chand and Company, New Delhi
+            url: https://books.google.co.in/books/about/Animal_Physiology.html?id=eqQMpHgnIFAC&redir_esc=y
 categories:
     - reproduction-in-plants-and-animals
 ---
@@ -523,13 +523,3 @@ The parents and teachers are to create awareness among the school girls about th
 > **Info bits:** The menstrual hygiene scheme to provide subsidized sanitary napkins was launched by the Health ministry in 2011. In Tamil Nadu, UNICEF has developed an affordable incinerator that uses firewood to handle sanitary napkin waste at schools and special wells are equipped where sanitary napkins are disposed.
 
 ---
-
-
-## Reference Books
-
-1. Verma P.S and Agarwal, V.K. and Tyagi B.S, Animal Physiology, S.Chand and Company, New Delhi
-2. Knut Schmidt and Nielsen, Animal Physiology, Foundations of Modern Biology series
-3. Rastogi S.C. Essentials of Animal Physiology, 3rd Edition, Rastogi Publications, Meerut.
-4. Winwood R.S. and Smith J.L., Sear's Anatomy and Physiology for Nurses, 6th Edition, Edward Arnold and Jaypee
-
-
