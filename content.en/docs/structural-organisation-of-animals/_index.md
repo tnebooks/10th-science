@@ -17,7 +17,7 @@ categories:
     - structural-organisation-of-animals
 ---
 
-# UNIT 13:STRUCTURAL ORGANISATION OF ANIMALS
+
 
 ## Learning Objectives
 At the end of this lesson the students will be able to:

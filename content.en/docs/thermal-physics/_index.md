@@ -13,7 +13,7 @@ references:
 categories:
     - thermal-physics
 ---
-# UNIT3:THERMAL PHYSICS
+
 
 ## Learning Objectives
 At the end of this lesson, students will be able to

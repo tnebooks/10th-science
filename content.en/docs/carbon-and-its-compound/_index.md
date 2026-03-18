@@ -16,7 +16,7 @@ categories:
     - carbon-and-its-compound
 ---
 
-# UNIT 11:CARBON AND ITS COMPOUNDS
+
 
 ## Learning Objectives
 After studying this lesson, the student will be able to:

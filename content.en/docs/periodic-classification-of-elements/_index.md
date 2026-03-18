@@ -16,7 +16,7 @@ references:
 categories:
     - periodic-classification-of-elements
 ---
-# UNIT-8 : PERIODIC CLASSIFICATION OF ELEMENTS
+
 
 ## Learning Objectives
 After a thorough perusal of this unit, the students will be able to:

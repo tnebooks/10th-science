@@ -12,7 +12,7 @@ references:
 categories:
     - genetics
 ---
-# UNIT 18: GENETICS
+
 
 ## Learning Objectives
 At the end of this lesson the students will be able to:

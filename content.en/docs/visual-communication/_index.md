@@ -9,7 +9,7 @@ categories:
     - visual-communication
 ---
 
-# UNIT 23: VISUAL COMMUNICATION
+
 
 ## Learning Objectives
 

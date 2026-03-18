@@ -15,7 +15,7 @@ categories:
     - plant-anatomy-and-plant-physiology
 ---
 
-# UNIT 12 : PLANT ANATOMY AND PLANT PHYSIOLOGY
+
 
 ## Learning Objectives
 At the end of this lesson the students will be able to:
