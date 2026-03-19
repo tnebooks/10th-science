@@ -5,9 +5,13 @@ choices:
   - Dissolves well even in hard water
 answers:
   - Sodium salt of a long-chain fatty acid
-explanation: >-
-  The statement refers to the sodium salt of a long-chain fatty acid, which is
-  the chemical nature of soap.
 ---
 
+
 Which statement is correct?
+
+
+```markdown
+  The statement refers to the sodium salt of a long-chain fatty acid, which is
+  the chemical nature of soap.
+```

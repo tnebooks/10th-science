@@ -5,11 +5,15 @@ choices:
   - none of these
 answers:
   - rain fall is high
-explanation: >-
+---
+
+
+Soil erosion is more where there is:
+
+
+```markdown
   Heavy rainfall is one of the primary physical agents of soil erosion.
   High-intensity rain leads to 'splash erosion' where raindrops dislodge soil
   particles, and 'surface runoff' where the excess water carries away the
   loosened topsoil, especially on bare or sloped land.
----
-
-Soil erosion is more where there is:
+```

@@ -13,9 +13,13 @@ answers:
   - >-
     {{< katex >}} (C_2H_5OH) {{</ katex >}} ( and ) {{< katex >}} (C_4H_9OH)
     {{</ katex >}}
-explanation: >-
-  These are homologous compounds because both belong to the alcohol group and
-  have the same functional group (-OH).
 ---
 
+
 Which of the following represents homologous compounds?
+
+
+```markdown
+  These are homologous compounds because both belong to the alcohol group and
+  have the same functional group (-OH).
+```

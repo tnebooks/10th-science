@@ -5,7 +5,11 @@ choices:
     - "mechanical energy"
 answers:
     - "light"
-explanation: ""
 ---
 
+
 Photolysis is a decomposition reaction caused by _________
+
+```markdown
+
+```

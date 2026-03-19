@@ -5,7 +5,15 @@ choices:
   - Rajasthan
 answers:
   - Kalpakkam
-explanation: >-
+---
+
+
+---
+
+Kamini reactor is located at __________
+
+
+```markdown
   India's first nuclear reactor, Apsara (1 MW, swimming pool type research
   reactor), was commissioned on August 4, 1956 at the Bhabha Atomic Research
   Centre (BARC) in Mumbai (then Bombay). However, India's first indigenous
@@ -15,8 +23,4 @@ explanation: >-
   Based on standard Tamil Nadu State Board physics curriculum context where this
   question commonly appears, Kalpakkam is the expected answer as the first
   nuclear power station.
----
-
----
-
-Kamini reactor is located at __________
+```
