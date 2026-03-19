@@ -5,7 +5,11 @@ choices:
     - "{{< katex display=true >}} (\text{A}_{(aq)} + \text{B}_{(s)} \rightarrow \text{C}_{(aq)} + \text{D}_{(l)}) {{< /katex >}}"
 answers:
     - "{{< katex display=true >}} (\text{A}_{(aq)} + \text{B}_{(aq)} \rightarrow \text{C}_{(s)} + \text{D}_{(aq)}) {{< /katex >}}"
-explanation: ""
 ---
 
+
 Which of the following represents a precipitation reaction?
+
+```markdown
+
+```

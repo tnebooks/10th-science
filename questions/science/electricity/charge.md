@@ -5,9 +5,13 @@ choices:
   - The rate of change of current is electric charge
 answers:
   - The rate of flow of charge is electric current
-explanation: >-
-  Electric current is defined as the rate of flow of electric charge through a
-  conductor.
 ---
 
+
 Which of the following is correct?
+
+
+```markdown
+  Electric current is defined as the rate of flow of electric charge through a
+  conductor.
+```

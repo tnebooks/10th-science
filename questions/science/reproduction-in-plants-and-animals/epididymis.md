@@ -5,9 +5,13 @@ choices:
   - Seminiferous tubules
 answers:
   - Epididymis
-explanation: >-
-  Epididymis is a long coiled tube where sperms are stored, mature and become
-  concentrated.
 ---
 
+
 A single highly coiled tube where sperms are stored, get concentrated and mature is known as ______.
+
+
+```markdown
+  Epididymis is a long coiled tube where sperms are stored, mature and become
+  concentrated.
+```
