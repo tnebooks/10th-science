@@ -7,6 +7,10 @@ references:
     links:
         - www.physicsabout.com
         - www.physicsclassroom.com
+    books:
+        - b1:
+            title:  Fundamentals of optics by D.R. Khanna and H.R. Gulati, R. Chand & Co.
+            url: https://www.urbanbae.com/fundamentals-of-optics-paperback-p
 categories:
     - optics
 ---
@@ -627,12 +631,6 @@ f = \frac{dD}{d-D} = \frac{1.5 \times 0.25}{1.5 - 0.25} = \frac{0.375}{1.25} = 0
 {{< /katex >}}
 
 ---
-
-## பயிற்சி நூல்கள்
-
-1. Fundamentals of optics by D.R. Khanna and H.R. Gulati, R Chand & Co
-2. Principles of Physics – Halliday, Resnick & Walker, Wiley Publications, New Delhi
-
 
 ---
 

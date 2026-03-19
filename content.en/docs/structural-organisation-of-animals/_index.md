@@ -17,7 +17,7 @@ categories:
     - structural-organisation-of-animals
 ---
 
-# UNIT 13:STRUCTURAL ORGANISATION OF ANIMALS
+
 
 ## Learning Objectives
 At the end of this lesson the students will be able to:
@@ -368,16 +368,6 @@ A pair of Cowper's gland and perineal gland are the accessory glands present in 
 - Mammary glands are modified glands of the skin and help in nourishing the young ones.
 
 ---
-
-
-# REFERENCE BOOKS
-
-1. Kotpal R.L, 2014 Modern Text Book of Zoology - Invertebrates, Rastogi Publications, Meerut.
-2. Ekambaranatha Ayyar M and Anantha krishnan T.N. 2003. Manual of Zoology, Vol I, Part I & II (Invertebrates), S. Viswanathan Printers and Publishers Pvt Ltd.
-3. Kotpal R.L, 2012 Modern Text Book of Zoology - Vertebrates, Rastogi Publications, Meerut
-4. Jordan E.L. and Verma P.S. 2003 Chordate Zoology, S. Chand and Company Ltd, New Delhi.
-
-
 
 ---
 

@@ -669,14 +669,6 @@ d. Both A and R are false
 
 ---
 
-# REFERENCE BOOKS
-
-1. Helgi Opik and Stephen Rolfe, The Physiology of Flowering Plants, Cambridge University Press.
-2. Berry AK, A Textbook of Endocrinology, 11th edition, Emkay Publications, New Delhi
-3. Prakash S Lohar, Endocrinology, Hormones and Human Health, MJP Publishers (TamilNadu Book House), Chennai
-
-
-
 ---
 
 ## Concept Map

@@ -7,6 +7,10 @@ references:
     links:
         - https://physics.columbia.edu/research/nuclear-physics
         - http://www.newworldencyclopedia.org/entry/Nuclear_physics
+    books:
+        - b1:
+            title: Physics concepts and connections – by Art Hobson Edition Pearson education
+            url: https://www.physics.columbia.edu/research/nu-clear-physics
 categories:
     - nuclear-physics
 ---
@@ -848,14 +852,6 @@ _{Z}\text{X}^{\text{A}} \rightarrow _{Z}\text{Y}^{\text{A}}
 3. அவரைப்பசி ரொட்டிகளை மனித வாழிடத்திலிருந்து தொலைவில் அமைக்கப்பட வேண்டும் - ஏன்?
 
 ---
-
-## பின்னிணைப்பு
-
-### பயன்படுத்தப்பட்ட நூல்கள்
-1. Physics concepts and connections – by Art Hobson Edition: Pearson education
-2. Modern Physics – by Dr.R Murugesan & Er.Kiruthiga Sivaprasath – S.Chand publications
-
-
 
 ---
 

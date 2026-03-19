@@ -13,7 +13,7 @@ references:
 categories:
     - thermal-physics
 ---
-# UNIT3:THERMAL PHYSICS
+
 
 ## Learning Objectives
 At the end of this lesson, students will be able to
@@ -409,14 +409,6 @@ V_2 = \textbf{5 cm}^3
 {{< /katex >}}
 
 ---
-
-
-## REFERENCE BOOKS
-
-- Thermodynamics and an introduction to thermo statistics by Herbert Hallen
-- Fundamentals of Engineering Thermodynamics by Michael
-
-
 
 ---
 

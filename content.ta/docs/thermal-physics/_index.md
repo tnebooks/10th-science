@@ -6,6 +6,10 @@ references:
         - youtube:mdSeg8XDoKw?si=dxoCSwNpT-a2umVf
     links:
         - http://aplusphysics.com/courses/honors/thermo/thermal_physics.html
+    books:
+        - b1:
+            title: Thermodynamics and an introduction to thermo statistics by Herbert Hallen
+            url: https://cdn1.byjus.com/wp-content/uploads/2019/04/Tamilnadu-Board-Class-10-Science-Textbook-Chapter-3.pdf
 categories:
     - thermal-physics
 ---
@@ -356,14 +360,6 @@ k_B = 1.381 \times 10^{-23} \text{ J K}^{-1} \text{ என அழைக்கப
 * நல்லியல்பு வாயு சமன்பாடு **PV = RT**. இது வாயுக்களின் நிலை சமன்பாடு எனவும் அழைக்கப்படும். இதில் R என்பது பொது வாயு மாறிலி (8.31 J mol⁻¹ K⁻¹) ஆகும்.
 
 ---
-
-
-## குறிப்பிடத்தக்க புத்தகங்கள் 
-
-1. Thermodynamics and an introduction to thermo statistics by Herbert Hallen
-2. Fundamentals of Engineering Thermodynamics by Michael Moran.
-
- 
 
 ---
 

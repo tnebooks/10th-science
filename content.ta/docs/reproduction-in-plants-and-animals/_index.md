@@ -10,6 +10,10 @@ references:
         - http://www.momjunction.com>pregnancy>Health
         - https://leadership.ng/2018/04/08/toilet-hygiene
         - https://www.boldsky.com/health/wellness/2018/world-menstrual-hygiene-day
+    books:
+        - b1:
+            title: Verma P.S and Agarwal, V.K. and Tyagi B.S, Animal Physiology, S.Chand and Company, New Delhi
+            url: https://books.google.co.in/books/about/Animal_Physiology.html?id=eqQMpHgnIFAC&redir_esc=y
 categories:
     - reproduction-in-plants-and-animals
 ---

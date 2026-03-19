@@ -16,7 +16,7 @@ categories:
     - laws-of-motion
 ---
 
-# UNIT1:LAWS OF MOTION
+
 
 ## Learning Objectives
 

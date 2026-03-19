@@ -15,7 +15,7 @@ references:
 categories:
     - transportation-in-plants-and-circulation-in-animals
 ---
-# UNIT-14 : Transportation in Plants and Circulation in Animals
+
 
 ## Learning Objectives
 
@@ -581,16 +581,6 @@ Lymph from the intercellular spaces drains into lymphatic capillaries. Lymph is 
 - Lymph is a colourless fluid formed when plasma, proteins and blood cells escape into intercellular spaces in the tissues through the pores present in the walls of capillaries.
 
 ---
-
-
-## Reference Books
-
-1. V.K. Jain, Fundamentals of Plant physiology, S. Chand and Company, New Delhi
-2. D.G Maclean and Dave Hayward, Biology Cambridge IGCSE
-3. S.C. Rastogi., Essential of Animal Physiology, 4th Edition, New Age International Publishers
-4. Elain N. Marieb and Katja Hoehn, 2011, Anatomy and Physiology, 4th Edition, Pearson
-
-
 
 ---
 

@@ -16,7 +16,7 @@ references:
 categories:
     - periodic-classification-of-elements
 ---
-# UNIT-8 : PERIODIC CLASSIFICATION OF ELEMENTS
+
 
 ## Learning Objectives
 After a thorough perusal of this unit, the students will be able to:
@@ -775,13 +775,3 @@ It is a railway bridge which connects the town of Rameshwaram on Pamban Island t
 - The chemical name of rust is hydrated ferric oxide and its formula is Fe₂O₃·xH₂O.
 
 ---
-
-## REFERENCE BOOKS
-
-1. Inorganic chemistry by PL Soni
-2. Physical chemistry by Puri and Sharma
-3. Inorganic chemistry by Atkins
-4. Oxford Inorganic chemistry
-
-
-

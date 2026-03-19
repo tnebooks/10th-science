@@ -7,6 +7,10 @@ references:
     links:
         - www.sciencedaily.com
         - www.britannica.com
+    books:
+        - b1:
+            title: Pandey B.P. Plant Anatomy, S. Chand and Company Ltd, New Delhi
+            url: https://www.britannica.com/
 categories:
     - plant-anatomy-and-plant-physiology
 ---
@@ -441,14 +445,6 @@ C₆H₁₂O₆ → 2CO₂ + 2C₂H₅OH + (ATP)
 - காற்றுச் சுவாசம் 3 படிநிலைகளில் நுண்டுளை பறுகிறது. அவை கிளைக் காலிசிஸ், கிரப் சுழற்சி பெற்றும் எலக்ட்ரான் கடத்தும் தங்கிலி
 
 ---
-
-
-## மேற்கோள்கள்
-
-1. Bajracharya D, Experiments in Plant Physiology, Narosa Publishing House, New Delhi
-2. Pandey B.P. Plant Anatomy, S. Chand and Company Ltd, New Delhi
-3. Verma P.S. and Agarwal V.K. Cytology, S. Chand and Company Ltd, New Delhi
-
 
 ---
 

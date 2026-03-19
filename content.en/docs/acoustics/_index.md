@@ -15,7 +15,7 @@ categories:
     - acoustics
 ---
 
-# UNIT 5 : ACOUSTICS
+
 
 ## Learning Objectives
 By the end of this section, the students will be able to:

@@ -15,7 +15,7 @@ categories:
     - plant-anatomy-and-plant-physiology
 ---
 
-# UNIT 12 : PLANT ANATOMY AND PLANT PHYSIOLOGY
+
 
 ## Learning Objectives
 At the end of this lesson the students will be able to:
@@ -444,14 +444,5 @@ RQ = Volume of CO₂ liberated / Volume of O₂ consumed
 ```
 
 ---
-
-
-# REFERENCE BOOKS
-
-1. Bajracharya D, Experiments in Plant Physiology, Narosa Publishing House, New Delhi
-2. Pandey B.P. Plant Anatomy, S. Chand and Company Ltd, New Delhi
-3. Verma P.S. and Agarwal V.K. Cytology, S. Chand and Company Ltd, New Delhi
-
-
 
 ```

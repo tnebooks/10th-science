@@ -8,11 +8,15 @@ references:
         - https://www.embibe.com/study/transgenic-cow-rosie-concept
         - https://en.wikipedia.org/wiki/DNA_profiling
         - https://www.krishijagran.com/news/tomato-at-shoots-potato-in-roots
+    books:
+        - b1:
+            title: Chaudhari, H.K., Elementary Principles of Plant Breeding, 2nd Edition.
+            url: https://books.google.co.in/books/about/Elementry_Prin_Of_Plant_Breeding.html?id=zJs_AAAAYAAJ&redir_esc=y
 categories:
     - breeding-and-biotechnology
 ---
 
-# UNIT 20:BREEDING AND BIOTECHNOLOGY
+
 
 ## Learning Objectives
 
@@ -393,11 +397,5 @@ Some examples of genetically modified plants and animals are given in the table 
 - **Stem cells** are undifferentiated or unspecialised mass of cells and can be used for the treatment known as stem cell therapy.
 
 ---
-
-## REFERENCE BOOKS
-
-1. Chaudhari, H.K., Elementary Principles of Plant Breeding, 2nd Edition.
-2. Dubey, R.C., A Text book of Biotechnology. 5th Edition. S. Chand and Company
-
 
 ```

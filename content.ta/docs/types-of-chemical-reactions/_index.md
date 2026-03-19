@@ -7,6 +7,10 @@ references:
     links:
         - 1. www.chem4kids.com
         -   http://aravindguptatoys.com/filims.html
+    books:
+        - b1:
+            title: Text book of inorganic chemistry-P.L.Soni-S.Chand & sons publishers, New Delhi
+            url: https://www.chem4kids.com/
 categories:
     - types-of-chemical-reactions
 ---
@@ -424,12 +428,3 @@ $$\begin{aligned}
 - **Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴** (25°C இல்)
 
 ---
-
-
-## மேற்கோள்கள்
-
-### பிற நூல்கள்
-1. Text book of inorganic chemistry - P.L. Soni - S. Chand & sons publishers, New Delhi.
-2. Principles of Physical Chemistry - B.R. Ruri, L.R. Sharma, Vishal publishing Co Punjab.
-
-

@@ -7,6 +7,10 @@ references:
     links:
         -  https://www.tutorvista.com/
         - https://www.topperlearning.com
+    books:
+        - b1:
+            title: Organic chemistry - B.S.Bahl & Arun Bahl S.Chand publishers, New delhi.
+            url: https://www.chem4kids.com/
 categories:
     - carbon-and-its-compound
 ---
@@ -727,14 +731,6 @@ TFM என்றால் மொத்த காரைக் கொழுப்�
 - டிடர்ஜெண்ட் என்பவை சல்போனிக் அமிலத்தின் சோடியம் உப்பு ஆகும். இதில் சோப்பில் உள்ள {{< katex >}}  (-COOH){{</ katex >}}  ( குழுவுக்குப் பதிலாக ) {{< katex >}} -SO_3H {{</ katex >}}  குழு உள்ளது.
 
 ---
-
-
-## பின்னூல்கள்
-
-1. Organic Chemistry - B.S. Bahl & Arun Bahl, S. Chand Publishers, New Delhi.
-2. Organic Chemistry - R.T. Morrison & R.N. Boyd, Prentice Hall Publishers, New Delhi.
-
-
 
 ## கருத்துவளர்படம்
 

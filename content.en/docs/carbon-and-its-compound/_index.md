@@ -16,7 +16,7 @@ categories:
     - carbon-and-its-compound
 ---
 
-# UNIT 11:CARBON AND ITS COMPOUNDS
+
 
 ## Learning Objectives
 After studying this lesson, the student will be able to:
@@ -687,14 +687,6 @@ They have highly branched hydrocarbon chains, which cannot be degraded by micro-
 - Detergents are sodium salts of sulphonic acids. Thus instead of –COOH group in soaps, detergents contain –SO₃H group.
 
 ---
-
-
-## REFERENCE BOOKS
-1. Organic chemistry - B.S. Bahl & Arun Bahl S. Chand publishers, New delhi.
-2. Organic chemistry - R.T. Morrison & R.M.N. Boyd - Prentice Hall Publishers. New Delhi
-
-
-
 ---
 
 ## Concept Map
@@ -725,8 +717,3 @@ The students can know about the Hydrocarbons, its formulae, descriptions and als
 **URL:** https://play.google.com/store/apps/details?id=com.budgietainment.oc
 
 ```
-
-
-
-
-

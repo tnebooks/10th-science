@@ -7,6 +7,10 @@ references:
     links:
         -  http://www.nhs.uk
         - http://www.eniscuola.net/en/2012/11/29/exobiology/
+    books:
+        - b1:
+            title: B.S. Tomar and S.P. Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications
+            url: http://rastogipublications.com/index.php?route=product/product&product_id=87
 categories:
     - origin-and-evolution-of-life
 ---
@@ -290,16 +294,6 @@ iv. தாவரப் புதை உயிர்ப்படிவங்க�
 - பழையானை வாழிடங்களில் இயற்கை எப்படிப்பாது காத்து எனப் பற்றி விளக்குகிறது.
 
 ---
-
-
-## பின்னிணைப்பு
-
-### பயன்படுத்தப்பட்ட நூல்கள்
-1. B.S.Tomar and S.P.Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications, Meerut.
-2. Stephen.C.Stearns and Rolf.F.Hoekstra Evolution - An introduction
-3. Archer, S.D.J., Asuncion de los, R., Lee, K.C., Niederberger, T.S., Cary, S.C., Coyne, K.J., Douglas, S., Lacap-Bugler, D.C. and Pointing, S.B., 2017. A Endolithic microbial diversity in sandstone and granite from the McMurdo Dry Valleys, Antarctica. Polar biology, 40(5):
-
-
 
 ---
 

@@ -7,6 +7,10 @@ references:
     links:
         - http://envfor.nic.in
         - https://www.ovoenergy.com/guides/energy-guides/120-ways-to-save-energy.html
+    books:
+        - b1:
+            title: P.D. Sharma, 2013. Ecology and Environment, Rastogi Publications, Meerut.
+            url: https://www.scribd.com/document/439522041/P-D-Sharma
 categories:
       - environmental-management
 ---
@@ -716,13 +720,6 @@ categories:
 3. 4 – R முறையினைப் பயன்படுத்தி இயற்கை வளங்களை பாதுகாக்க ஏதேனும் மூன்று செயல்பாடுகளை கூறுக.
 
 ---
-
-## பிற நூல்கள்
-
-1. Ghatwal G.T. and Harish Sharma, 2005. A Text Book of Environmental Studies', Himalaya Publishing House.
-2. P. D. Sharma, 2013. Ecology and Environment, Rastogi Publications, Meerut.
-
-
 
 ---
 

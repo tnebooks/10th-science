@@ -7,6 +7,10 @@ references:
     links:
         - http://www.britannica.com/science/nervous-system
         - http://www.sumanasine.com/webcontent/animations/neurobiology.html
+    books:
+        - b1:
+            title: Guyton and Hall, 2003, Textbook of Medical Physiology; Harcourt Indian Private Limited.
+            url: https://faculty.ksu.edu.sa/sites/default/files/hall_textbook_of_medical_physiology.pdf
 categories:
     - nervous-system
 ---
@@ -293,15 +297,6 @@ categories:
 - அனிச்சை செயல் என்பது ஒரு தூண்டலுக்கு மிக வினைவாக தவளிப்படும் பதில் வினைவு. இது மூளையின் கட்டுப்பாட்டில் இல்லாமல்
 
 ---
-
-
-## பி்நூல்கள் (References)
-
-1. Guyton and Hall, 2003, Textbook of Medical Physiology; Harcourt Indian Private Limited.
-2. Sherwood.L., 2007, Human Physiology: From cells to systems 6th Edition, Indian edition, Thomson Brooks/Cole.
-3. Singh, H.D., 2007, Handbook of Basic Human Physiology for Paramedical Students. S.Chand and Company Ltd. New Delhi.
-
-
 
 ---
 மனித நரம்பு மண்டலம்

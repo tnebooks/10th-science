@@ -15,7 +15,7 @@ categories:
     - atoms-and-molecules
 ---
 
-# UNIT 7: ATOMS AND MOLECULES
+
 
 ## Learning Objectives
 

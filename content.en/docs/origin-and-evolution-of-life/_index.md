@@ -7,10 +7,14 @@ references:
     links:
         -  http://www.nhs.uk
         - http://www.eniscuola.net/en/2012/11/29/exobiology/
+    books:
+        - b1:
+            title: B.S. Tomar and S.P. Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications
+            url: http://rastogipublications.com/index.php?route=product/product&product_id=87
 categories:
     - origin-and-evolution-of-life
 ---
-# UNIT 19: Origin and Evolution of Life
+
 
 ## Learning Objectives
 At the end of this lesson the students will be able to:
@@ -289,15 +293,6 @@ NASA is developing the Mars 2020 astrobiology to investigate an astrobiologicall
 - Astrobiology/exobiology is the science which looks for the presence of extra terrestrial life in the universe
 
 ---
-
-
-## REFERENCE BOOKS
-
-1. B.S. Tomar and S.P. Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications
-2. Stephen.C. Stearns and Rolf.F. Hoekstra Evolution - An introduction
-3. Archer, S.D.J., Asuncion de los, R., Lee, K.C., Niederberger, T.S., Cary, S.C., Coyne, K.J., Douglas, S., Lacap-Bugler, D.C. and Pointing, S.B., 2017. A Endolithic microbial diversity in sandstone and granite from the McMurdo Dry Valleys, Antarctica. Polar biology, 40(5)
-
-
 
 ---
 

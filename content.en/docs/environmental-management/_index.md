@@ -7,11 +7,15 @@ references:
     links:
         - http://envfor.nic.in
         - https://www.ovoenergy.com/guides/energy-guides/120-ways-to-save-energy.html
+    books:
+        - b1:
+            title: P.D. Sharma, 2013. Ecology and Environment, Rastogi Publications, Meerut.
+            url: https://www.scribd.com/document/439522041/P-D-Sharma
 categories:
       - environmental-management
 ---
 
-# UNIT 22: ENVIRONMENTAL MANAGEMENT
+
 
 ## Learning Objectives
 
@@ -459,13 +463,6 @@ The 4R approach such as **Reduce, Reuse, Recovery and Recycle** may be followed 
 - Biogas is produced by the anaerobic decomposition of cow dung.
 - The technique of collecting and storing rain water for future purpose is known as rainwater harvesting.
 - Unwanted, non-working and outdated electronic products become e-waste.
-
-## REFERENCE BOOKS
-
-1. Ghatwal G.T. and Harish Sharma, 2005. A Text Book of Environmental Studies, Himalaya Publishing House.
-2. P.D. Sharma, 2013. Ecology and Environment, Rastogi Publications, Meerut.
-
-
 
 ## Concept Map
 

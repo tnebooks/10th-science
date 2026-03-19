@@ -24,5 +24,6 @@ in Windows `Cmd`
 set QUESTIONS_FOLDER=%cd%\questions
 set PUBLIC_FOLDER=%cd%\public
 cd themes\hugo-book
+npm i
 npm run watch
 ```

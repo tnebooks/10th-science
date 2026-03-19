@@ -15,7 +15,7 @@ categories:
     - optics
 ---
 
-# UNIT 2: OPTICS
+
 
 ## Learning Objectives
 At the end of this lesson, students will be able to:
@@ -28,7 +28,7 @@ At the end of this lesson, students will be able to:
   - Solve numerical problems
 ---
 
-# UNIT 2: OPTICS
+
 
 ## Learning Objectives
 

@@ -8,6 +8,10 @@ references:
         - https://www.embibe.com/study/transgenic-cow-rosie-concept
         - https://en.wikipedia.org/wiki/DNA_profiling
         - https://www.krishijagran.com/news/tomato-at-shoots-potato-in-roots
+    books:
+        - b1:
+            title: Chaudhari, H.K., Elementary Principles of Plant Breeding, 2nd Edition.
+            url: https://books.google.co.in/books/about/Elementry_Prin_Of_Plant_Breeding.html?id=zJs_AAAAYAAJ&redir_esc=y
 categories:
     - breeding-and-biotechnology
 ---
@@ -357,23 +361,3 @@ categories:
 - மாறுபாடு அடையாத அல்லது சிறப்பு கல் வகைகளாக மாற ஏற்புடைய கல்களின் தொகுப்பு **குருத்தணுக்கள்**
 
 ---
-
-
-## பிற நூல்கள்
-
-1. Chaudhari, H.K., Elementary Principles of Plant Breeding, 2nd Edition.
-2. Dubey, R.C., A Text book of Biotechnology, 5th Edition, S.Chand and Company
-
-```
-
-This is the complete Markdown conversion of the Tamil science textbook PDF (Unit 20: Breeding and Biotechnology). The document covers:
-
-- **Plant breeding** (Green Revolution, high-yield varieties, disease resistance, biofortification)
-- **Animal breeding** (inbreeding, outbreeding, hybrid vigor)
-- **Genetic engineering** (rDNA technology, gene cloning, Dolly the sheep)
-- **Medical biotechnology** (insulin, growth hormone, gene therapy)
-- **Stem cells** and their applications
-- **DNA fingerprinting** technology
-- **Genetically Modified Organisms (GMOs)**
-
-The content includes learning objectives, detailed explanations, tables, image placeholders, assessment questions, and reference materials.
