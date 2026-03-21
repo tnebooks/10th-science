@@ -4,7 +4,7 @@ choices:
   - 9.8 × 10⁴ N
   - 980 dyne
 answers:
-  - 9.8 × 10⁴ dyne
+  - 98 × 10⁴ dyne
 ---
 
 
