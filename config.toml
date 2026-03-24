@@ -3,8 +3,6 @@
 baseURL = 'http://0.0.0.0:1313/10th-science/'
 theme = 'hugo-book'
 
-copyright = '[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)'
-
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true

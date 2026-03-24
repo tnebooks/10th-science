@@ -1,10 +1,10 @@
 ---
 choices:
-  - மோ (mho)
-  - ஓம்/மீட்டர் (ohm/metre)
-  - ஓம் (ohm)
+  - "மோ (mho)"
+  - "ஓம்/மீட்டர் (ohm/metre)"
+  - "ஓம் (ohm)"
 answers:
-  - ஓம் மீட்டர் (ohm metre)
+  - "ஓம் மீட்டர் (ohm metre)"
 ---
 
 

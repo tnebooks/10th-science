@@ -1,10 +1,10 @@
 ---
 choices:
-  - Mass of a C-12 atom
-  - Mass of a hydrogen atom
-  - Mass of O-16 atom
+  - "Mass of a C-12 atom"
+  - "Mass of a hydrogen atom"
+  - "Mass of O-16 atom"
 answers:
-  - 1/12th of the mass of a C-12 atom
+  - "1/12th of the mass of a C-12 atom"
 ---
 
 

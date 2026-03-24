@@ -1,10 +1,10 @@
 ---
 choices:
-  - cm s⁻¹
-  - N m² kg⁻¹
-  - m² s⁻²
+  - "cm s⁻¹"
+  - "N m² kg⁻¹"
+  - "m² s⁻²"
 answers:
-  - N kg⁻¹
+  - "N kg⁻¹"
 ---
 
 

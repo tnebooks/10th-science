@@ -1,10 +1,10 @@
 ---
 choices:
-  - f
-  - infinity
-  - between f and 2f
+  - "f"
+  - "infinity"
+  - "between f and 2f"
 answers:
-  - 2f
+  - "2f"
 ---
 
 

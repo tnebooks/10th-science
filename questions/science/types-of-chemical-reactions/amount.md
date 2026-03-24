@@ -1,10 +1,10 @@
 ---
 choices:
-  - decreases
-  - first decreases then increases
-  - first increases and then decreases
+  - "decreases"
+  - "first decreases then increases"
+  - "first increases and then decreases"
 answers:
-  - increases
+  - "increases"
 ---
 
 

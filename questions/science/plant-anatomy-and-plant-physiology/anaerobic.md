@@ -1,10 +1,10 @@
 ---
 choices:
-  - Carbohydrate
-  - Acetyl CoA
-  - Pyruvate
+  - "Carbohydrate"
+  - "Acetyl CoA"
+  - "Pyruvate"
 answers:
-  - Ethyl alcohol
+  - "Ethyl alcohol"
 explanation: ''
 ---
 

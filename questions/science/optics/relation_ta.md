@@ -1,10 +1,10 @@
 ---
 choices:
-  - V_B = V_G = V_R
-  - V_B > V_G > V_R
-  - V_B < V_G > V_R
+  - "V_B = V_G = V_R"
+  - "V_B > V_G > V_R"
+  - "V_B < V_G > V_R"
 answers:
-  - V_B < V_G < V_R
+  - "V_B < V_G < V_R"
 ---
 
 

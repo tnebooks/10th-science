@@ -1,9 +1,9 @@
 ---
 choices:
-  - '-ene'
-  - '-al'
+  - "'-ene'"
+  - "'-al'"
 answers:
-  - '-ol'
+  - "'-ol'"
 explanation: The secondary suffix added is '-ol'.
 ---
 

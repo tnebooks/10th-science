@@ -1,10 +1,10 @@
 ---
 choices:
-  - FeO·xH₂O
-  - Fe₃O₄·xH₂O
-  - FeO
+  - "FeO·xH₂O"
+  - "Fe₃O₄·xH₂O"
+  - "FeO"
 answers:
-  - Fe₂O₃·xH₂O
+  - "Fe₂O₃·xH₂O"
 explanation: ''
 ---
 

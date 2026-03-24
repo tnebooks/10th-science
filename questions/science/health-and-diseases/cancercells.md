@@ -1,10 +1,10 @@
 ---
 choices:
-  - Different in structure
-  - Non-dividing
-  - Mutated Cells
+  - "Different in structure"
+  - "Non-dividing"
+  - "Mutated Cells"
 answers:
-  - Undergoing rapid division
+  - "Undergoing rapid division"
 ---
 
 

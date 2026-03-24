@@ -2,9 +2,9 @@
 choices:
 
 answers:
-  - ஸ்டோக்ஸ் (Stoke’s) வரிகள்
-  - ஆன்டி ஸ்டோக்ஸ் (Anti Stoke’s) வரிகள்
-  - ராலே (Rayleigh’s) வரிகள்
+  - "ஸ்டோக்ஸ் (Stoke’s) வரிகள்"
+  - "ஆன்டி ஸ்டோக்ஸ் (Anti Stoke’s) வரிகள்"
+  - "ராலே (Rayleigh’s) வரிகள்"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - B
-  - C
-  - D
+  - "B"
+  - "C"
+  - "D"
 answers:
-  - A
+  - "A"
 ---
 
 

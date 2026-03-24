@@ -1,10 +1,10 @@
 ---
 choices:
-  - wind energy is a renewable energy
-  - production of wind energy is pollution free
-  - usage of wind energy can reduce the consumption of fossil fuels
+  - "wind energy is a renewable energy"
+  - "production of wind energy is pollution free"
+  - "usage of wind energy can reduce the consumption of fossil fuels"
 answers:
-  - the blades of wind mill are operated with the help of electric motor
+  - "the blades of wind mill are operated with the help of electric motor"
 ---
 
 

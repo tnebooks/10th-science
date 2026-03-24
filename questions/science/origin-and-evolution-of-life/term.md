@@ -1,10 +1,10 @@
 ---
 choices:
-  - Khorana
-  - Ronald Ross
-  - Hugo de Vries
+  - "Khorana"
+  - "Ronald Ross"
+  - "Hugo de Vries"
 answers:
-  - J.W. Harsbberger
+  - "J.W. Harsbberger"
 ---
 
 

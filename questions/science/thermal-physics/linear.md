@@ -1,9 +1,9 @@
 ---
 choices:
-  - nature of material
+  - "nature of material"
 answers:
-  - original length
-  - increasing temperature
+  - "original length"
+  - "increasing temperature"
 ---
 
 

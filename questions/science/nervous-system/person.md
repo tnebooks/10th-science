@@ -1,10 +1,10 @@
 ---
 choices:
-  - Medulla oblongata
-  - cerebrum
-  - pons
+  - "Medulla oblongata"
+  - "cerebrum"
+  - "pons"
 answers:
-  - hypothalamus
+  - "hypothalamus"
 ---
 
 

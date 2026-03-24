@@ -1,10 +1,10 @@
 ---
 choices:
-  - a real gas
-  - a noble gas
-  - a rare gas
+  - "a real gas"
+  - "a noble gas"
+  - "a rare gas"
 answers:
-  - an ideal gas
+  - "an ideal gas"
 ---
 
 

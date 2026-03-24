@@ -1,10 +1,10 @@
 ---
 choices:
-  - n = 7 and x = 21
-  - n = 21 and x = 21
-  - n = 7 and x = 7
+  - "n = 7 and x = 21"
+  - "n = 21 and x = 21"
+  - "n = 7 and x = 7"
 answers:
-  - n = 21 and x = 7
+  - "n = 21 and x = 7"
 ---
 
 

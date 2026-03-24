@@ -2,9 +2,9 @@
 choices:
 
 answers:
-  - ராண்ட்ஜன் (roentgen)
-  - கியூரி (curie)
-  - பெக்கரல் (becquerel)
+  - "ராண்ட்ஜன் (roentgen)"
+  - "கியூரி (curie)"
+  - "பெக்கரல் (becquerel)"
 ---
 
 

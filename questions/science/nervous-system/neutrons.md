@@ -1,10 +1,10 @@
 ---
 choices:
-  - cerebral cortex
-  - embryo
-  - respiratory epithelium
+  - "cerebral cortex"
+  - "embryo"
+  - "respiratory epithelium"
 answers:
-  - retina of eye
+  - "retina of eye"
 ---
 
 

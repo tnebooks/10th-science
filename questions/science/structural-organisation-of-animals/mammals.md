@@ -1,9 +1,9 @@
 ---
 choices:
-  - Cold blooded
-  - Poikilothermic
+  - "Cold blooded"
+  - "Poikilothermic"
 answers:
-  - Warm blooded
+  - "Warm blooded"
 explanation: ''
 ---
 

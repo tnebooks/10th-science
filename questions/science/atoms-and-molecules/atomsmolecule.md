@@ -1,10 +1,10 @@
 ---
 choices:
-  - mono atomic molecule
-  - hetero atomic molecule
-  - poly atomic molecule
+  - "mono atomic molecule"
+  - "hetero atomic molecule"
+  - "poly atomic molecule"
 answers:
-  - homo atomic molecule
+  - "homo atomic molecule"
 ---
 
 

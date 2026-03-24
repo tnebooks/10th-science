@@ -2,9 +2,9 @@
 choices:
 
 answers:
-  - raise in level of oceans
-  - melting of glaciers
-  - sinking of islands
+  - "raise in level of oceans"
+  - "melting of glaciers"
+  - "sinking of islands"
 ---
 
 

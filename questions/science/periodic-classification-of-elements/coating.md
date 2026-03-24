@@ -1,10 +1,10 @@
 ---
 choices:
-  - painting
-  - thinning
-  - electroplating
+  - "painting"
+  - "thinning"
+  - "electroplating"
 answers:
-  - galvanization
+  - "galvanization"
 explanation: ''
 ---
 

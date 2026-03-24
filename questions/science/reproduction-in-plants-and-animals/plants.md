@@ -1,10 +1,10 @@
 ---
 choices:
-  - the flowers produce enormous amount of pollen grains.
-  - the stigmas are larger and protruding.
-  - pollen grains are small and dry.
+  - "the flowers produce enormous amount of pollen grains."
+  - "the stigmas are larger and protruding."
+  - "pollen grains are small and dry."
 answers:
-  - the flowers are brightly coloured, have smell and nectar.
+  - "the flowers are brightly coloured, have smell and nectar."
 ---
 
 

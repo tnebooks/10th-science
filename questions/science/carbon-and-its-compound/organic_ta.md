@@ -1,10 +1,10 @@
 ---
 choices:
-  - ஆல்டிஹைடு (Aldehyde)
-  - கார்பாக்சிலிக் அமிலம் (Carboxylic acid)
-  - கீட்டோன் (Ketone)
+  - "ஆல்டிஹைடு (Aldehyde)"
+  - "கார்பாக்சிலிக் அமிலம் (Carboxylic acid)"
+  - "கீட்டோன் (Ketone)"
 answers:
-  - ஆல்கஹால் (Alcohol)
+  - "ஆல்கஹால் (Alcohol)"
 ---
 
 

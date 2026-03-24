@@ -1,10 +1,10 @@
 ---
 choices:
-  - 27.52 m
-  - 275.2 m
-  - 2.752 m
+  - "27.52 m"
+  - "275.2 m"
+  - "2.752 m"
 answers:
-  - 0.02752 m
+  - "0.02752 m"
 ---
 
 If a sound wave travels with a frequency of $1.25 \times 10^4 \text{ Hz}$ at $344 \text{ ms}^{-1}$, the wavelength will be:

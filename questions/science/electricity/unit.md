@@ -1,10 +1,10 @@
 ---
 choices:
-  - resistivity
-  - conductivity
-  - electrical power
+  - "resistivity"
+  - "conductivity"
+  - "electrical power"
 answers:
-  - electrical energy
+  - "electrical energy"
 ---
 
 

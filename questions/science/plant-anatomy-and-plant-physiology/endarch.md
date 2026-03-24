@@ -1,10 +1,10 @@
 ---
 choices:
-  - root
-  - leaves
-  - flower
+  - "root"
+  - "leaves"
+  - "flower"
 answers:
-  - stem
+  - "stem"
 explanation: ''
 ---
 

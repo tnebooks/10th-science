@@ -1,10 +1,10 @@
 ---
 choices:
-  - கிளைத்த தொடர் ஹைட்ரோகார்பன் (Branched chain hydrocarbon)
-  - கிளைத்த மற்றும் நேரான தொடர் ஹைட்ரோகார்பன்கள்
-  - வளைய ஹைட்ரோகார்பன்கள் (Cyclic hydrocarbons)
+  - "கிளைத்த தொடர் ஹைட்ரோகார்பன் (Branched chain hydrocarbon)"
+  - "கிளைத்த மற்றும் நேரான தொடர் ஹைட்ரோகார்பன்கள்"
+  - "வளைய ஹைட்ரோகார்பன்கள் (Cyclic hydrocarbons)"
 answers:
-  - நேரான தொடர் ஹைட்ரோகார்பன்கள் (Linear Chain Hydrocarbons)
+  - "நேரான தொடர் ஹைட்ரோகார்பன்கள் (Linear Chain Hydrocarbons)"
 ---
 
 

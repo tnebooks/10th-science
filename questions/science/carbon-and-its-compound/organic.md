@@ -1,10 +1,10 @@
 ---
 choices:
-  - Aldehyde
-  - Carboxylic acid
-  - Ketone
+  - "Aldehyde"
+  - "Carboxylic acid"
+  - "Ketone"
 answers:
-  - Alcohol
+  - "Alcohol"
 ---
 
 

@@ -1,14 +1,14 @@
 ---
 choices:
-  - Ni
-  - Pd
-  - Pt
+  - "Ni"
+  - "Pd"
+  - "Pt"
 answers:
-  - U
+  - "U"
 ---
 
 
----------- element emits its radiation spontaneously
+---------- "element emits its radiation spontaneously"
 
 ```markdown
   Uranium (U) is a heavy element with an atomic number of 92. Since its 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - stable arrangement of neutrons
-  - reduced size
-  - increased density
+  - "stable arrangement of neutrons"
+  - "reduced size"
+  - "increased density"
 answers:
-  - stable configuration of electrons
+  - "stable configuration of electrons"
 explanation: ''
 ---
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - சகப்பிணைப்பு (Covalent)
-  - முனைவுற்ற பிணைப்பு (Polar)
-  - ஈதல் சகப்பிணைப்பு (Co-ordinate covalent)
+  - "சகப்பிணைப்பு (Covalent)"
+  - "முனைவுற்ற பிணைப்பு (Polar)"
+  - "ஈதல் சகப்பிணைப்பு (Co-ordinate covalent)"
 answers:
-  - அயனிப் பிணைப்பு (Ionic)
+  - "அயனிப் பிணைப்பு (Ionic)"
 ---
 
 

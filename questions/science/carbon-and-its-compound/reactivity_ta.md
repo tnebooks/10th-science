@@ -1,10 +1,10 @@
 ---
 choices:
-  - CH≡CH < CH4 < CH2 = CH2
-  - CH ≡ CH < CH2 = CH2 < CH4
-  - CH4 < CH ≡ CH < CH2 = CH2
+  - "CH≡CH < CH4 < CH2 = CH2"
+  - "CH ≡ CH < CH2 = CH2 < CH4"
+  - "CH4 < CH ≡ CH < CH2 = CH2"
 answers:
-  - CH4 < CH2 = CH2 < CH ≡ CH
+  - "CH4 < CH2 = CH2 < CH ≡ CH"
 ---
 
 

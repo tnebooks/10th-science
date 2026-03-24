@@ -1,10 +1,10 @@
 ---
 choices:
-  - 5 carbon sugar
-  - Phosphate
-  - Nitrogenous bases
+  - "5 carbon sugar"
+  - "Phosphate"
+  - "Nitrogenous bases"
 answers:
-  - Sugar phosphate
+  - "Sugar phosphate"
 ---
 
 

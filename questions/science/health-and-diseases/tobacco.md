@@ -1,10 +1,10 @@
 ---
 choices:
-  - Tannic acid
-  - Curcumin
-  - Leptin
+  - "Tannic acid"
+  - "Curcumin"
+  - "Leptin"
 answers:
-  - Nicotine
+  - "Nicotine"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - molar
-  - pre-molar
-  - incisor
+  - "molar"
+  - "pre-molar"
+  - "incisor"
 answers:
-  - canine
+  - "canine"
 ---
 
 

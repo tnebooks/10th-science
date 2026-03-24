@@ -1,10 +1,10 @@
 ---
 choices:
-  - Lead oxide
-  - Iron
-  - Aluminium
+  - "Lead oxide"
+  - "Iron"
+  - "Aluminium"
 answers:
-  - Lead
+  - "Lead"
 ---
 
 

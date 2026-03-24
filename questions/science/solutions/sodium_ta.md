@@ -1,10 +1,10 @@
 ---
 choices:
-  - ஈரம் கவர்தல் (Hygroscopic)
-  - நீர் நீக்கம் (Dehydration)
-  - சிதைவடைதல் (Dissociation)
+  - "ஈரம் கவர்தல் (Hygroscopic)"
+  - "நீர் நீக்கம் (Dehydration)"
+  - "சிதைவடைதல் (Dissociation)"
 answers:
-  - ஈரம் கசிந்து கரைதல் (Deliquescence)
+  - "ஈரம் கசிந்து கரைதல் (Deliquescence)"
 ---
 
 

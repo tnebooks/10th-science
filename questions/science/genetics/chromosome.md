@@ -1,10 +1,10 @@
 ---
 choices:
-  - Telocentric
-  - Sub-metacentric
-  - Acrocentric
+  - "Telocentric"
+  - "Sub-metacentric"
+  - "Acrocentric"
 answers:
-  - Metacentric
+  - "Metacentric"
 ---
 
 

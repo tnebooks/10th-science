@@ -1,10 +1,10 @@
 ---
 choices:
-  - Hygroscopic
-  - Dehydration
-  - Dissociation
+  - "Hygroscopic"
+  - "Dehydration"
+  - "Dissociation"
 answers:
-  - Deliquescence
+  - "Deliquescence"
 ---
 
 

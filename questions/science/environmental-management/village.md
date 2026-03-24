@@ -1,10 +1,10 @@
 ---
 choices:
-  - electricity
-  - coal
-  - biogas
+  - "electricity"
+  - "coal"
+  - "biogas"
 answers:
-  - wood and animal dung
+  - "wood and animal dung"
 ---
 
 

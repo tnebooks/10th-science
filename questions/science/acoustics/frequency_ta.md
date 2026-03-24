@@ -1,10 +1,10 @@
 ---
 choices:
-  - 50 kHz
-  - 15000 kHz
-  - 10000 kHz
+  - "50 kHz"
+  - "15000 kHz"
+  - "10000 kHz"
 answers:
-  - 20 kHz
+  - "20 kHz"
 ---
 
 

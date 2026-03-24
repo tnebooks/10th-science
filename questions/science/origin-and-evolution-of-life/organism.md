@@ -1,10 +1,10 @@
 ---
 choices:
-  - Ginko biloba
-  - Paleozoic fern
-  - Indian Gondwana
+  - "Ginko biloba"
+  - "Paleozoic fern"
+  - "Indian Gondwana"
 answers:
-  - Archaeopterix
+  - "Archaeopterix"
 ---
 
 

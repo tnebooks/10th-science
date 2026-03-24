@@ -1,10 +1,10 @@
 ---
 choices:
-  - Anterior pituitary
-  - Primary follicle
-  - Corpus luteum
+  - "Anterior pituitary"
+  - "Primary follicle"
+  - "Corpus luteum"
 answers:
-  - Graafian follicle
+  - "Graafian follicle"
 ---
 
 

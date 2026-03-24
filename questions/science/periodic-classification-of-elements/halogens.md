@@ -1,10 +1,10 @@
 ---
 choices:
-  - 15th
-  - 18th
-  - 16th
+  - "15th"
+  - "18th"
+  - "16th"
 answers:
-  - 17th
+  - "17th"
 explanation: ''
 ---
 

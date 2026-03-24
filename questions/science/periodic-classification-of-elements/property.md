@@ -1,10 +1,10 @@
 ---
 choices:
-  - atomic radii
-  - ionic radii
-  - electron affinity
+  - "atomic radii"
+  - "ionic radii"
+  - "electron affinity"
 answers:
-  - electronegativity
+  - "electronegativity"
 ---
 
 

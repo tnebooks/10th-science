@@ -1,10 +1,10 @@
 ---
 choices:
-  - வீனர் (Wiener)
-  - வில்லியம் ஹார்வி (William Harvey)
-  - ஹிஸ் (His)
+  - "வீனர் (Wiener)"
+  - "வில்லியம் ஹார்வி (William Harvey)"
+  - "ஹிஸ் (His)"
 answers:
-  - கார்ல் லேண்ட்ஸ்டெய்னர் (Karl Landsteiner)
+  - "கார்ல் லேண்ட்ஸ்டெய்னர் (Karl Landsteiner)"
 ---
 
 

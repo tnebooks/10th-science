@@ -4,7 +4,7 @@ choices:
   - "Windows, Android"
   - "Linux, Unix"
 answers:
-  - 'Windows, LINUX'
+  - "'Windows, LINUX'"
 ---
 
 

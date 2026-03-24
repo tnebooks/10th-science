@@ -1,9 +1,9 @@
 ---
 choices:
-  - Crown gall tumour
-  - Benign tumour
+  - "Crown gall tumour"
+  - "Benign tumour"
 answers:
-  - Malignant tumour
+  - "Malignant tumour"
 explanation: Metastasis is associated with malignant tumours.
 ---
 

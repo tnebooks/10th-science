@@ -1,10 +1,10 @@
 ---
 choices:
-  - 9.8 dyne
-  - 9.8 × 10⁴ N
-  - 980 dyne
+  - "9.8 dyne"
+  - "9.8 × 10⁴ N"
+  - "980 dyne"
 answers:
-  - 98 × 10⁴ dyne
+  - "98 × 10⁴ dyne"
 ---
 
 

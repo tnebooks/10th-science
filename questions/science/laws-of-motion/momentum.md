@@ -1,10 +1,10 @@
 ---
 choices:
-  - Impulsive force
-  - Acceleration
-  - Rate of force
+  - "Impulsive force"
+  - "Acceleration"
+  - "Rate of force"
 answers:
-  - Force
+  - "Force"
 ---
 
 

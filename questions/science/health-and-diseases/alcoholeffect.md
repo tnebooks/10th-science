@@ -1,10 +1,10 @@
 ---
 choices:
-  - Eyes
-  - Auditory region
-  - Liver
+  - "Eyes"
+  - "Auditory region"
+  - "Liver"
 answers:
-  - Central nervous system
+  - "Central nervous system"
 explanation: Alcohol affects the central nervous system immediately after drinking.
 ---
 

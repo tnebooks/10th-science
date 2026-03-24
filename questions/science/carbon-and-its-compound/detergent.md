@@ -1,10 +1,10 @@
 ---
 choices:
-  - Sodium salt of sulfonic acid
-  - 'Ionic part of detergent {{< katex >}} (SO_3^-Na^+) {{</ katex >}}'
-  - Dissolves well even in hard water
+  - "Sodium salt of sulfonic acid"
+  - "'Ionic part of detergent {{< katex >}} (SO_3^-Na^+) {{</ katex >}}'"
+  - "Dissolves well even in hard water"
 answers:
-  - Sodium salt of a long-chain fatty acid
+  - "Sodium salt of a long-chain fatty acid"
 ---
 
 

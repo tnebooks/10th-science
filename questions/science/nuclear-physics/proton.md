@@ -1,10 +1,10 @@
 ---
 choices:
-  - number of neutron decreases by one
-  - atomic number decreases by one
-  - number of neutron increases by one
+  - "number of neutron decreases by one"
+  - "atomic number decreases by one"
+  - "number of neutron increases by one"
 answers:
-  - number of proton increases by one
+  - "number of proton increases by one"
 ---
 
 

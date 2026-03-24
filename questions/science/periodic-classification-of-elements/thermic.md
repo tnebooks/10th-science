@@ -1,10 +1,10 @@
 ---
 choices:
-  - oxidizing agent
-  - hydrogenating agent
-  - sulphurising agent
+  - "oxidizing agent"
+  - "hydrogenating agent"
+  - "sulphurising agent"
 answers:
-  - reducing agent
+  - "reducing agent"
 explanation: ''
 ---
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - remain different
-  - cannot be predicted
-  - are not equal
+  - "remain different"
+  - "cannot be predicted"
+  - "are not equal"
 answers:
-  - remain same
+  - "remain same"
 ---
 
 

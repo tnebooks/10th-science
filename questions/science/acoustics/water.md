@@ -1,10 +1,10 @@
 ---
 choices:
-  - air > glass > water
-  - water > air > glass
-  - glass < water < air
+  - "air > glass > water"
+  - "water > air > glass"
+  - "glass < water < air"
 answers:
-  - glass > water > air
+  - "glass > water > air"
 ---
 
 

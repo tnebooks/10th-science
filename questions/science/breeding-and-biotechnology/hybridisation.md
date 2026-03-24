@@ -1,10 +1,10 @@
 ---
 choices:
-  - chilli
-  - maize
-  - sugarcane
+  - "chilli"
+  - "maize"
+  - "sugarcane"
 answers:
-  - wheat
+  - "wheat"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - Pair of genes
-  - Production of gametes
-  - Recessive factors
+  - "Pair of genes"
+  - "Production of gametes"
+  - "Recessive factors"
 answers:
-  - Responsible for character
+  - "Responsible for character"
 ---
 
 

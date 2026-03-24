@@ -1,10 +1,10 @@
 ---
 choices:
-  - petroleum
-  - coal
-  - nuclear fuel
+  - "petroleum"
+  - "coal"
+  - "nuclear fuel"
 answers:
-  - trees
+  - "trees"
 ---
 
 

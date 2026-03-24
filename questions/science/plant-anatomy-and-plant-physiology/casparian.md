@@ -1,10 +1,10 @@
 ---
 choices:
-  - cortex
-  - pith
-  - pericycle
+  - "cortex"
+  - "pith"
+  - "pericycle"
 answers:
-  - endodermis
+  - "endodermis"
 explanation: ''
 ---
 

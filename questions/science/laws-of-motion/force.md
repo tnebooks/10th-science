@@ -1,10 +1,10 @@
 ---
 choices:
-  - swimming
-  - tennis
-  - hockey
+  - "swimming"
+  - "tennis"
+  - "hockey"
 answers:
-  - cycling
+  - "cycling"
 ---
 
 

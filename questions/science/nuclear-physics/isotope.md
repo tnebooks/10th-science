@@ -1,10 +1,10 @@
 ---
 choices:
-  - Radio Iodine
-  - Radio Carbon
-  - Radio Nickel
+  - "Radio Iodine"
+  - "Radio Carbon"
+  - "Radio Nickel"
 answers:
-  - Radio Cobalt
+  - "Radio Cobalt"
 ---
 
 

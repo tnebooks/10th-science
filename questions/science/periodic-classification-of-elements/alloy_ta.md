@@ -1,10 +1,10 @@
 ---
 choices:
-  - பித்தளை (Brass)
-  - வெண்கலம் (Bronze)
-  - மெக்னாலியம் (Magnalium)
+  - "பித்தளை (Brass)"
+  - "வெண்கலம் (Bronze)"
+  - "மெக்னாலியம் (Magnalium)"
 answers:
-  - டியூராலுமின் (Duralumin)
+  - "டியூராலுமின் (Duralumin)"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - adrenal gland
-  - thyroid gland
-  - hypothalamus
+  - "adrenal gland"
+  - "thyroid gland"
+  - "hypothalamus"
 answers:
-  - anterior pituitary
+  - "anterior pituitary"
 explanation: ' '
 ---
 

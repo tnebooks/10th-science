@@ -1,10 +1,10 @@
 ---
 choices:
-  - Oral pills
-  - Diaphragm
-  - Tubectomy
+  - "Oral pills"
+  - "Diaphragm"
+  - "Tubectomy"
 answers:
-  - Copper – T
+  - "Copper – T"
 ---
 
 

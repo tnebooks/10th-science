@@ -1,10 +1,10 @@
 ---
 choices:
-  - Sessile stigma
-  - Small smooth stigma
-  - Colored flower
+  - "Sessile stigma"
+  - "Small smooth stigma"
+  - "Colored flower"
 answers:
-  - Large feathery stigma
+  - "Large feathery stigma"
 ---
 
 

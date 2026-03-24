@@ -1,10 +1,10 @@
 ---
 choices:
-  - The switch produces electricity.
-  - Closing the switch breaks the circuit.
-  - The bulb is getting charged
+  - "The switch produces electricity."
+  - "Closing the switch breaks the circuit."
+  - "The bulb is getting charged"
 answers:
-  - Closing the switch completes the circuit.
+  - "Closing the switch completes the circuit."
 ---
 
 

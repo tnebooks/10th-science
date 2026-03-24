@@ -1,10 +1,10 @@
 ---
 choices:
-  - Bequerel
-  - Roentgen
-  - Neils Bohr
+  - "Bequerel"
+  - "Roentgen"
+  - "Neils Bohr"
 answers:
-  - Irene Curie
+  - "Irene Curie"
 ---
 
 

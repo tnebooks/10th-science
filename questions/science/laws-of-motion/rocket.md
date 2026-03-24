@@ -1,9 +1,9 @@
 ---
 choices:
-  - Newton's law of gravitation
+  - "Newton's law of gravitation"
 answers:
-  - Newton's third law of motion
-  - law of conservation of linear momentum
+  - "Newton's third law of motion"
+  - "law of conservation of linear momentum"
 ---
 
 

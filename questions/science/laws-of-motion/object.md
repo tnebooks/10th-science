@@ -1,9 +1,9 @@
 ---
 choices:
-  - acceleration due to gravity of the planet
-  - weight of the object
+  - "acceleration due to gravity of the planet"
+  - "weight of the object"
 answers:
-  - mass of the object
+  - "mass of the object"
 ---
 
 

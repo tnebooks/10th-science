@@ -1,10 +1,10 @@
 ---
 choices:
-  - Vegetative cell
-  - Microspore mother cell
-  - Microspore
+  - "Vegetative cell"
+  - "Microspore mother cell"
+  - "Microspore"
 answers:
-  - Generative cell
+  - "Generative cell"
 explanation: 'In angiosperms, the generative cell divides to produce two male gametes.'
 ---
 

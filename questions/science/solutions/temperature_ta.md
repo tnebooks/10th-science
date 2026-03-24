@@ -1,10 +1,10 @@
 ---
 choices:
-  - அதிவிதிட்ட கரைசல் (Super saturated solution)
-  - தெவிட்ாத கரைசல் (Unsaturated solution)
-  - நீர்த்த கரைசல் (Dilute solution)
+  - "அதிவிதிட்ட கரைசல் (Super saturated solution)"
+  - "தெவிட்ாத கரைசல் (Unsaturated solution)"
+  - "நீர்த்த கரைசல் (Dilute solution)"
 answers:
-  - தெவிட்டிய கரைசல் (Saturated solution)
+  - "தெவிட்டிய கரைசல் (Saturated solution)"
 ---
 
 

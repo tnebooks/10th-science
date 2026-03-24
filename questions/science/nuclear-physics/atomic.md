@@ -1,10 +1,10 @@
 ---
 choices:
-  - less than 83
-  - less than 73
-  - equal to 83
+  - "less than 83"
+  - "less than 73"
+  - "equal to 83"
 answers:
-  - more than 83
+  - "more than 83"
 ---
 
 

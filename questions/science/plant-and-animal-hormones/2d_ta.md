@@ -1,10 +1,10 @@
 ---
 choices:
-  - GA 3
-  - ஜிப்ரல்லின்
-  - IAA
+  - "GA 3"
+  - "ஜிப்ரல்லின்"
+  - "IAA"
 answers:
-  - '2,4 D'
+  - "'2,4 D'"
 explanation: ' '
 ---
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - 1 N
-  - 10 N
-  - 102 dyne
+  - "1 N"
+  - "10 N"
+  - "102 dyne"
 answers:
-  - 1 dyne
+  - "1 dyne"
 ---
 
 

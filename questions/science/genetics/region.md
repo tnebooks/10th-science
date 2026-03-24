@@ -1,10 +1,10 @@
 ---
 choices:
-  - Chromomere
-  - Centrosome
-  - Chromonema
+  - "Chromomere"
+  - "Centrosome"
+  - "Chromonema"
 answers:
-  - Centromere
+  - "Centromere"
 ---
 
 

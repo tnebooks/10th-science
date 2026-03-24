@@ -1,9 +1,9 @@
 ---
 choices:
-  - mutated
+  - "mutated"
 answers:
-  - transgenic organisms
-  - genetically modified
+  - "transgenic organisms"
+  - "genetically modified"
 ---
 
 

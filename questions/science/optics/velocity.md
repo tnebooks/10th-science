@@ -1,10 +1,10 @@
 ---
 choices:
-  - VB = VG = VR
-  - VB > VG > VR
-  - VB < VG > VR
+  - "VB = VG = VR"
+  - "VB > VG > VR"
+  - "VB < VG > VR"
 answers:
-  - VB < VG < VR
+  - "VB < VG < VR"
 ---
 
 

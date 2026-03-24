@@ -1,10 +1,10 @@
 ---
 choices:
-  - oxygen gas is released
-  - nitrogen gas is released
-  - nitrogen gas is utilized
+  - "oxygen gas is released"
+  - "nitrogen gas is released"
+  - "nitrogen gas is utilized"
 answers:
-  - oxygen gas is utilized
+  - "oxygen gas is utilized"
 ---
 
 

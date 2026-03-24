@@ -1,10 +1,10 @@
 ---
 choices:
-  - 22 autosomes and 1 allosome
-  - 46 autosomes
-  - 46 pairs autosomes and 1 pair of allosomes.
+  - "22 autosomes and 1 allosome"
+  - "46 autosomes"
+  - "46 pairs autosomes and 1 pair of allosomes."
 answers:
-  - 22 pairs of autosomes and 1 pair of allosomes.
+  - "22 pairs of autosomes and 1 pair of allosomes."
 ---
 
 

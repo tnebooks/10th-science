@@ -1,10 +1,10 @@
 ---
 choices:
-  - no rain fall
-  - low rainfall
-  - none of these
+  - "no rain fall"
+  - "low rainfall"
+  - "none of these"
 answers:
-  - rain fall is high
+  - "rain fall is high"
 ---
 
 

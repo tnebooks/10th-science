@@ -1,10 +1,10 @@
 ---
 choices:
-  - அணு ஆரம் (atomic radii)
-  - அயனி ஆரம் (ionic radii)
-  - எலக்ட்ரான் நாட்டம் (electron affinity)
+  - "அணு ஆரம் (atomic radii)"
+  - "அயனி ஆரம் (ionic radii)"
+  - "எலக்ட்ரான் நாட்டம் (electron affinity)"
 answers:
-  - எலக்ட்ரான் நெகட்டிவிட்டி / எலக்ட்ரான் கவர் தன்மை (electronegativity)
+  - "எலக்ட்ரான் நெகட்டிவிட்டி / எலக்ட்ரான் கவர் தன்மை (electronegativity)"
 ---
 
 

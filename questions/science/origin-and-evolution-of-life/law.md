@@ -1,10 +1,10 @@
 ---
 choices:
-  - Ontogeny and phylogeny go together
-  - Phylogeny recapitulates ontogeny
-  - There is no relationship between phylogeny and ontogeny
+  - "Ontogeny and phylogeny go together"
+  - "Phylogeny recapitulates ontogeny"
+  - "There is no relationship between phylogeny and ontogeny"
 answers:
-  - Ontogeny recapitulates phylogeny
+  - "Ontogeny recapitulates phylogeny"
 ---
 
 

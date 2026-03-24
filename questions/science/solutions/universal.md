@@ -1,10 +1,10 @@
 ---
 choices:
-  - Acetone
-  - Benzene
-  - Alcohol
+  - "Acetone"
+  - "Benzene"
+  - "Alcohol"
 answers:
-  - Water
+  - "Water"
 explanation: ''
 ---
 

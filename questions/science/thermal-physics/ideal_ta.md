@@ -1,10 +1,10 @@
 ---
 choices:
-  - இயல்பு வாயு (a real gas)
-  - மந்த வாயு (a noble gas)
-  - அரிய வாயு (a rare gas)
+  - "இயல்பு வாயு (a real gas)"
+  - "மந்த வாயு (a noble gas)"
+  - "அரிய வாயு (a rare gas)"
 answers:
-  - நல்லியல்பு வாயு (an ideal gas)
+  - "நல்லியல்பு வாயு (an ideal gas)"
 ---
 
 

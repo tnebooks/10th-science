@@ -1,13 +1,13 @@
 ---
 choices:
-  - flying
+  - "flying"
 answers:
-  - exocrine
-  - endocrine
+  - "exocrine"
+  - "endocrine"
 ---
 
 
-Pancreas acts as ------- gland
+Pancreas acts as ------- "gland"
 
 ```markdown
   The pancreas is a dual-purpose organ known as a heterocrine gland. It 

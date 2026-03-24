@@ -1,10 +1,10 @@
 ---
 choices:
-  - shortening of genetically tall plants
-  - promotion of rooting
-  - yellowing of young leaves
+  - "shortening of genetically tall plants"
+  - "promotion of rooting"
+  - "yellowing of young leaves"
 answers:
-  - elongation of dwarf plants
+  - "elongation of dwarf plants"
 explanation: ' '
 ---
 

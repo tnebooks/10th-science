@@ -1,10 +1,10 @@
 ---
 choices:
-  - petroleum
-  - methane
-  - coal
+  - "petroleum"
+  - "methane"
+  - "coal"
 answers:
-  - shale
+  - "shale"
 ---
 
 

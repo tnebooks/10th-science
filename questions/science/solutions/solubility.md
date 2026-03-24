@@ -1,10 +1,10 @@
 ---
 choices:
-  - No change
-  - decreases
-  - no reaction
+  - "No change"
+  - "decreases"
+  - "no reaction"
 answers:
-  - increases
+  - "increases"
 explanation: ''
 ---
 

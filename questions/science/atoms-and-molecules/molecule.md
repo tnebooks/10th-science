@@ -1,10 +1,10 @@
 ---
 choices:
-  - Glucose
-  - Helium
-  - Hydrogen
+  - "Glucose"
+  - "Helium"
+  - "Hydrogen"
 answers:
-  - Carbon dioxide
+  - "Carbon dioxide"
 ---
 
 

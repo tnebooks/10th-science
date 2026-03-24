@@ -1,10 +1,10 @@
 ---
 choices:
-  - ஒற்றை அணு மூலக்கூறு (mono atomic molecule)
-  - வேற்று அணு மூலக்கூறு (hetero atomic molecule)
-  - பல அணு மூலக்கூறு (poly atomic molecule)
+  - "ஒற்றை அணு மூலக்கூறு (mono atomic molecule)"
+  - "வேற்று அணு மூலக்கூறு (hetero atomic molecule)"
+  - "பல அணு மூலக்கூறு (poly atomic molecule)"
 answers:
-  - ஒத்த அணு மூலக்கூறு (homo atomic molecule)
+  - "ஒத்த அணு மூலக்கூறு (homo atomic molecule)"
 ---
 
 

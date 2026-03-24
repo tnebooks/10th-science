@@ -1,10 +1,10 @@
 ---
 choices:
-  - அதிக மின்தடை எண் (high resistivity)
-  - அதிக உருகுநிலை (high melting point)
-  - எளிதில் ஆக்ஸிஜனேற்றம் அடையாது (not easily oxidized)
+  - "அதிக மின்தடை எண் (high resistivity)"
+  - "அதிக உருகுநிலை (high melting point)"
+  - "எளிதில் ஆக்ஸிஜனேற்றம் அடையாது (not easily oxidized)"
 answers:
-  - மேற்கண்ட அனைத்தும் (All the above)
+  - "மேற்கண்ட அனைத்தும் (All the above)"
 ---
 
 

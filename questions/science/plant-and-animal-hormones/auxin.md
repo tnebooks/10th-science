@@ -1,10 +1,10 @@
 ---
 choices:
-  - cytokinin
-  - gibberellin
-  - ethylene
+  - "cytokinin"
+  - "gibberellin"
+  - "ethylene"
 answers:
-  - auxin
+  - "auxin"
 explanation: ' '
 ---
 

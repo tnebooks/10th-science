@@ -1,10 +1,10 @@
 ---
 choices:
-  - vector DNA
-  - circular DNA
-  - satellite DNA
+  - "vector DNA"
+  - "circular DNA"
+  - "satellite DNA"
 answers:
-  - recombinant of vector DNA and desired DNA
+  - "recombinant of vector DNA and desired DNA"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - Positive
-  - negative
-  - zero
+  - "Positive"
+  - "negative"
+  - "zero"
 answers:
-  - either positive or negative
+  - "either positive or negative"
 ---
 
 

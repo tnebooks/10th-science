@@ -1,10 +1,10 @@
 ---
 choices:
-  - (a) Acrocentric - The centromere is found near the centre of the chromosome with two unequal arms.
-  - (b) Submetacentric - The centromere is found on the proximal end.
-  - (d) Telocentric - The centromere is found at one end with a short arm and a long arm
+  - "(a) Acrocentric - The centromere is found near the centre of the chromosome with two unequal arms."
+  - "(b) Submetacentric - The centromere is found on the proximal end."
+  - "(d) Telocentric - The centromere is found at one end with a short arm and a long arm"
 answers:
-  - (c) Metacentric - The centromere occurs in the centre of the chromosome and forms two equal arms.
+  - "(c) Metacentric - The centromere occurs in the centre of the chromosome and forms two equal arms."
 ---
 
 

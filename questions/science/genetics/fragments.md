@@ -1,10 +1,10 @@
 ---
 choices:
-  - Helicase
-  - DNA polymerase
-  - RNA primer
+  - "Helicase"
+  - "DNA polymerase"
+  - "RNA primer"
 answers:
-  - DNA ligase
+  - "DNA ligase"
 ---
 
 

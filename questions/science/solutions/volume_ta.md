@@ -1,10 +1,10 @@
 ---
 choices:
-  - திரவங்களின் குளிர்ச்சி விளைவு (cooling effect of liquids)
-  - கரைசலின் செறிவு அதிகரித்தல் (increase in concentration of solution)
-  - கரைசலின் செறிவு குறைதல் (decrease in concentration of solution)
+  - "திரவங்களின் குளிர்ச்சி விளைவு (cooling effect of liquids)"
+  - "கரைசலின் செறிவு அதிகரித்தல் (increase in concentration of solution)"
+  - "கரைசலின் செறிவு குறைதல் (decrease in concentration of solution)"
 answers:
-  - திரவங்களின் வெப்ப விரிவு (thermal expansion of liquids)
+  - "திரவங்களின் வெப்ப விரிவு (thermal expansion of liquids)"
 ---
 
 
