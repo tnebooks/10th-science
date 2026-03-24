@@ -1,10 +1,10 @@
 ---
 choices:
-  - Thermal variation
-  - Thermal convection
-  - Evaporation
+  - "Thermal variation"
+  - "Thermal convection"
+  - "Evaporation"
 answers:
-  - Thermal Expansion
+  - "Thermal Expansion"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - கார்பாக்சிலிக் அமிலங்கள் (Carboxylic acids)
-  - எஸ்தர்கள் (Esters)
-  - ஆல்டிஹைடுகள் (Aldehydes)
+  - "கார்பாக்சிலிக் அமிலங்கள் (Carboxylic acids)"
+  - "எஸ்தர்கள் (Esters)"
+  - "ஆல்டிஹைடுகள் (Aldehydes)"
 answers:
-  - ஈதர்கள் (Ethers)
+  - "ஈதர்கள் (Ethers)"
 ---
 
 

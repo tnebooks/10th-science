@@ -1,10 +1,10 @@
 ---
 choices:
-  - sugarcane
-  - rice
-  - maize
+  - "sugarcane"
+  - "rice"
+  - "maize"
 answers:
-  - cow pea
+  - "cow pea"
 ---
 
 

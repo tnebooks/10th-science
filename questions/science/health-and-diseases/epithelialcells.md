@@ -1,10 +1,10 @@
 ---
 choices:
-  - Leukemia
-  - Sarcoma
-  - Lipoma
+  - "Leukemia"
+  - "Sarcoma"
+  - "Lipoma"
 answers:
-  - Carcinoma
+  - "Carcinoma"
 explanation: Cancer of the epithelial cells is called carcinoma.
 ---
 

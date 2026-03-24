@@ -1,10 +1,10 @@
 ---
 choices:
-  - command
-  - folder
-  - paint
+  - "command"
+  - "folder"
+  - "paint"
 answers:
-  - file
+  - "file"
 ---
 
 

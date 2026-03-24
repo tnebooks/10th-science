@@ -1,10 +1,10 @@
 ---
 choices:
-  - when ATP is converted to ADP
-  - when CO₂ is fixed
-  - All of these
+  - "when ATP is converted to ADP"
+  - "when CO₂ is fixed"
+  - "All of these"
 answers:
-  - when H₂O is splitted
+  - "when H₂O is splitted"
 explanation: ''
 ---
 

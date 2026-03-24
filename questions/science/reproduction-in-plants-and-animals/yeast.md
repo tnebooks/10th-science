@@ -1,10 +1,10 @@
 ---
 choices:
-  - Amoeba
-  - Plasmodium
-  - Bacteria
+  - "Amoeba"
+  - "Plasmodium"
+  - "Bacteria"
 answers:
-  - Yeast
+  - "Yeast"
 ---
 
 

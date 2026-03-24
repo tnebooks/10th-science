@@ -1,10 +1,10 @@
 ---
 choices:
-  - 11.2 litre
-  - 5.6 litre
-  - 44.8 litre
+  - "11.2 litre"
+  - "5.6 litre"
+  - "44.8 litre"
 answers:
-  - 22.4 litre
+  - "22.4 litre"
 ---
 
 

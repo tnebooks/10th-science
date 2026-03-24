@@ -1,10 +1,10 @@
 ---
 choices:
-  - behind the retina
-  - on the retina
-  - on the blind spot
+  - "behind the retina"
+  - "on the retina"
+  - "on the blind spot"
 answers:
-  - in front of the retina
+  - "in front of the retina"
 ---
 
 

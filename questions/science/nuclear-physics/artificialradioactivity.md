@@ -1,9 +1,9 @@
 ---
 choices:
-  - Spontaneous radioactivity
+  - "Spontaneous radioactivity"
 answers:
-  - Induced radioactivity
-  - Artificial radioactivity
+  - "Induced radioactivity"
+  - "Artificial radioactivity"
 ---
 
 

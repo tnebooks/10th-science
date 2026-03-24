@@ -2,9 +2,9 @@
 choices:
 
 answers:
-  - Stoke’s
-  - Anti Stoke’s
-  - Rayleigh’s
+  - "Stoke’s"
+  - "Anti Stoke’s"
+  - "Rayleigh’s"
 ---
 
 

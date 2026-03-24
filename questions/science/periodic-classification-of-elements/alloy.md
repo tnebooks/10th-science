@@ -1,10 +1,10 @@
 ---
 choices:
-  - Brass
-  - Bronze
-  - Magnalium
+  - "Brass"
+  - "Bronze"
+  - "Magnalium"
 answers:
-  - Duralumin
+  - "Duralumin"
 ---
 
 

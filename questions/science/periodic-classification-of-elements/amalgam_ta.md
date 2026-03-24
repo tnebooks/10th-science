@@ -1,10 +1,10 @@
 ---
 choices:
-  - Ag
-  - Mg
-  - AI
+  - "Ag"
+  - "Mg"
+  - "AI"
 answers:
-  - Hg
+  - "Hg"
 explanation: ''
 ---
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - single stranded
-  - mutated
-  - polymorphic
+  - "single stranded"
+  - "mutated"
+  - "polymorphic"
 answers:
-  - repetitive
+  - "repetitive"
 ---
 
 

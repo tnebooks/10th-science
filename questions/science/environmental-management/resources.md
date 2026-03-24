@@ -1,10 +1,10 @@
 ---
 choices:
-  - soil fertility
-  - wild life
-  - all of the above
+  - "soil fertility"
+  - "wild life"
+  - "all of the above"
 answers:
-  - wind power
+  - "wind power"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - vibrate but not in any fixed direction
-  - vibrate perpendicular to the direction of the wave motion
-  - do not vibrate
+  - "vibrate but not in any fixed direction"
+  - "vibrate perpendicular to the direction of the wave motion"
+  - "do not vibrate"
 answers:
-  - vibrate along the direction of the wave motion
+  - "vibrate along the direction of the wave motion"
 ---
 
 

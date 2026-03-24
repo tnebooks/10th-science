@@ -1,18 +1,14 @@
 ---
 choices:
-  - >-
-    {{< katex >}} (CH_4){{</ katex >}} ( மற்றும் ) {{< katex >}} (C_3H_6) {{</
-    katex >}}
-  - >-
-    {{< katex >}} (C_2H_4){{</ katex >}} ( மற்றும் ) {{< katex >}} (C_3H_4) {{</
-    katex >}}
-  - >-
-    {{< katex >}} (CH_4){{</ katex >}} ( மற்றும் ) {{< katex >}}( C_4H_{10})
-    {{</ katex >}}
+  - "{{< katex >}} (CH_4){{</ katex >}} ( மற்றும் ) {{< katex >}} (C_3H_6) {{</
+    katex >}}"
+  - "{{< katex >}} (C_2H_4){{</ katex >}} ( மற்றும் ) {{< katex >}} (C_3H_4) {{</
+    katex >}}"
+  - "{{< katex >}} (CH_4){{</ katex >}} ( மற்றும் ) {{< katex >}}( C_4H_{10})
+    {{</ katex >}}"
 answers:
-  - >-
-    {{< katex >}} (C_2H_5OH){{</ katex >}} ( மற்றும் ) {{< katex >}} (C_4H_9OH)
-    {{</ katex >}}
+  - "{{< katex >}} (C_2H_5OH){{</ katex >}} ( மற்றும் ) {{< katex >}} (C_4H_9OH)
+    {{</ katex >}}"
 explanation: 'இவை ஒத்த வகைச் சேர்மங்கள் ஆகும், ஏனெனில் இரண்டும் ஆல்கோஹால் வகையில் உள்ளன.'
 ---
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - Gregor Johann Mendel - Theory of Natural Selection
-  - Watson and Crick - Theory of Evolution
-  - Jean Baptiste Lamarck - Law of Heredity
+  - "Gregor Johann Mendel - Theory of Natural Selection"
+  - "Watson and Crick - Theory of Evolution"
+  - "Jean Baptiste Lamarck - Law of Heredity"
 answers:
-  - Waldeyer - Chromosomes
+  - "Waldeyer - Chromosomes"
 ---
 
 

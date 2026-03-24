@@ -1,10 +1,10 @@
 ---
 choices:
-  - Ne
-  - Ar
-  - Kr
+  - "Ne"
+  - "Ar"
+  - "Kr"
 answers:
-  - He
+  - "He"
 explanation: ''
 ---
 

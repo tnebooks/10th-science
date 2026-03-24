@@ -1,10 +1,10 @@
 ---
 choices:
-  - Wind energy
-  - Solar energy
-  - water energy
+  - "Wind energy"
+  - "Solar energy"
+  - "water energy"
 answers:
-  - Tidal energy
+  - "Tidal energy"
 ---
 
 

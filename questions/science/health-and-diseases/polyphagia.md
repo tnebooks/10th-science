@@ -1,10 +1,10 @@
 ---
 choices:
-  - Obesity
-  - Diabetes insipidus
-  - AIDS
+  - "Obesity"
+  - "Diabetes insipidus"
+  - "AIDS"
 answers:
-  - Diabetes mellitus
+  - "Diabetes mellitus"
 explanation: Polyphagia is a condition seen in Diabetes mellitus.
 ---
 

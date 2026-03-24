@@ -1,10 +1,10 @@
 ---
 choices:
-  - kidney
-  - liver
-  - lungs
+  - "kidney"
+  - "liver"
+  - "lungs"
 answers:
-  - pancreas
+  - "pancreas"
 explanation: ' '
 ---
 

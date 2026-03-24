@@ -1,10 +1,10 @@
 ---
 choices:
-  - heterogeneous
-  - homogeneous and heterogeneous
-  - non homogeneous
+  - "heterogeneous"
+  - "homogeneous and heterogeneous"
+  - "non homogeneous"
 answers:
-  - homogeneous
+  - "homogeneous"
 explanation: ''
 ---
 

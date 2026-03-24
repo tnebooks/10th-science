@@ -1,14 +1,14 @@
 ---
 choices:
-  - Sharbati Sonora
-  - Pusa Gaurav
-  - Himgiri
+  - "Sharbati Sonora"
+  - "Pusa Gaurav"
+  - "Himgiri"
 answers:
-  - Atomita 2
+  - "Atomita 2"
 ---
 
 
--------- is a rice variety produced by mutation breeding that grows well in saline soil.
+-------- "is a rice variety produced by mutation breeding that grows well in saline soil."
 
 ```markdown
   Atomita 2 is a salt-tolerant rice variety developed through mutation 

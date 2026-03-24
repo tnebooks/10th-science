@@ -1,10 +1,10 @@
 ---
 choices:
-  - increases
-  - decreases
-  - either increases or decreases
+  - "increases"
+  - "decreases"
+  - "either increases or decreases"
 answers:
-  - remains same
+  - "remains same"
 ---
 
 

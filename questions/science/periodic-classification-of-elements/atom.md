@@ -1,10 +1,10 @@
 ---
 choices:
-  - Covalent
-  - Polar
-  - co-ordinate covalent
+  - "Covalent"
+  - "Polar"
+  - "co-ordinate covalent"
 answers:
-  - lonic
+  - "lonic"
 ---
 
 

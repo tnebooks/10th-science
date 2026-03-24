@@ -1,10 +1,10 @@
 ---
 choices:
-  - Wiener
-  - William Harvey
-  - His
+  - "Wiener"
+  - "William Harvey"
+  - "His"
 answers:
-  - Karl Landsteiner
+  - "Karl Landsteiner"
 ---
 
 

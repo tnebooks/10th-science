@@ -1,10 +1,10 @@
 ---
 choices:
-  - Paint
-  - Scanner
-  - Scratch
+  - "Paint"
+  - "Scanner"
+  - "Scratch"
 answers:
-  - Notepad
+  - "Notepad"
 ---
 
 

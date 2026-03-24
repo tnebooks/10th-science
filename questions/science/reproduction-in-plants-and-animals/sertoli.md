@@ -1,10 +1,10 @@
 ---
 choices:
-  - Primary germ cells
-  - Leydig cells
-  - Spermatogonia
+  - "Primary germ cells"
+  - "Leydig cells"
+  - "Spermatogonia"
 answers:
-  - Sertoli cells
+  - "Sertoli cells"
 ---
 
 

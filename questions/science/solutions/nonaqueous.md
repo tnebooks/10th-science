@@ -1,10 +1,10 @@
 ---
 choices:
-  - sodium chloride in water
-  - glucose in water
-  - copper sulphate in water
+  - "sodium chloride in water"
+  - "glucose in water"
+  - "copper sulphate in water"
 answers:
-  - sulphur in carbon-di-sulphide
+  - "sulphur in carbon-di-sulphide"
 explanation: ''
 ---
 

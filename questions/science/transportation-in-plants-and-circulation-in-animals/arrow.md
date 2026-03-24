@@ -1,10 +1,10 @@
 ---
 choices:
-  - A is phloem, B is xylem
-  - Both A and B are xylem
-  - Both A and B are phloem
+  - "A is phloem, B is xylem"
+  - "Both A and B are xylem"
+  - "Both A and B are phloem"
 answers:
-  - A is xylem, B is phloem
+  - "A is xylem, B is phloem"
 ---
 
 

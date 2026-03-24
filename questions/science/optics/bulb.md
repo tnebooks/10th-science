@@ -1,10 +1,10 @@
 ---
 choices:
-  - a convergent beam of light
-  - a divergent beam of light
-  - a coloured beam of light
+  - "a convergent beam of light"
+  - "a divergent beam of light"
+  - "a coloured beam of light"
 answers:
-  - a parallel beam of light
+  - "a parallel beam of light"
 ---
 
 

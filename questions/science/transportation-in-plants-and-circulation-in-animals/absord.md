@@ -1,10 +1,10 @@
 ---
 choices:
-  - cuticle
-  - phloem
-  - root cap
+  - "cuticle"
+  - "phloem"
+  - "root cap"
 answers:
-  - root hair
+  - "root hair"
 ---
 
 

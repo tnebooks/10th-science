@@ -1,10 +1,10 @@
 ---
 choices:
-  - chloroplast
-  - stomata
-  - inner mitochondrial membrane
+  - "chloroplast"
+  - "stomata"
+  - "inner mitochondrial membrane"
 answers:
-  - mitochondrial matrix
+  - "mitochondrial matrix"
 explanation: ''
 ---
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - கியூட்டிக்கிள் (cuticle)
-  - புளோயம் (phloem)
-  - வேர் மூடி (root cap)
+  - "கியூட்டிக்கிள் (cuticle)"
+  - "புளோயம் (phloem)"
+  - "வேர் மூடி (root cap)"
 answers:
-  - வேர் தூவிகள் (root hair)
+  - "வேர் தூவிகள் (root hair)"
 ---
 
 

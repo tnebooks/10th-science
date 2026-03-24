@@ -1,10 +1,10 @@
 ---
 choices:
-  - 22.4 litre
-  - 0.24 litre
-  - 0.1 litre
+  - "22.4 litre"
+  - "0.24 litre"
+  - "0.1 litre"
 answers:
-  - 2.24 litre
+  - "2.24 litre"
 ---
 
 

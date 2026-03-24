@@ -1,10 +1,10 @@
 ---
 choices:
-  - cooling effect of liquids
-  - increase in concentration of solution
-  - decrease in concentration of solution
+  - "cooling effect of liquids"
+  - "increase in concentration of solution"
+  - "decrease in concentration of solution"
 answers:
-  - thermal expansion of liquids
+  - "thermal expansion of liquids"
 ---
 
 

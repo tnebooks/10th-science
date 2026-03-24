@@ -1,10 +1,10 @@
 ---
 choices:
-  - IR 24
-  - Atomita 2
-  - Ponni
+  - "IR 24"
+  - "Atomita 2"
+  - "Ponni"
 answers:
-  - IR 8
+  - "IR 8"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - the proximal end
-  - distal end
-  - near the end
+  - "the proximal end"
+  - "distal end"
+  - "near the end"
 answers:
-  - the centre
+  - "the centre"
 ---
 
 

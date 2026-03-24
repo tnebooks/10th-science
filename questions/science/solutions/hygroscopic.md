@@ -1,10 +1,10 @@
 ---
 choices:
-  - ferric chloride
-  - copper sulphate penta hydrate
-  - none of the above
+  - "ferric chloride"
+  - "copper sulphate penta hydrate"
+  - "none of the above"
 answers:
-  - silica gel
+  - "silica gel"
 explanation: ''
 ---
 

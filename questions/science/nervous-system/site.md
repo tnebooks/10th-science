@@ -1,10 +1,10 @@
 ---
 choices:
-  - kidney
-  - ear
-  - lungs
+  - "kidney"
+  - "ear"
+  - "lungs"
 answers:
-  - brain
+  - "brain"
 ---
 
 

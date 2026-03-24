@@ -1,10 +1,10 @@
 ---
 choices:
-  - The switch produces electricity
-  - 'When the switch is closed, the circuit opens'
-  - The bulb gets charged
+  - "The switch produces electricity"
+  - "'When the switch is closed, the circuit opens'"
+  - "The bulb gets charged"
 answers:
-  - 'When the switch is closed, it completes the circuit'
+  - "'When the switch is closed, it completes the circuit'"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - வெப்ப மாறுபாடு (Thermal variation)
-  - வெப்பச் சலனம் (Thermal convection)
-  - ஆவியாதல் (Evaporation)
+  - "வெப்ப மாறுபாடு (Thermal variation)"
+  - "வெப்பச் சலனம் (Thermal convection)"
+  - "ஆவியாதல் (Evaporation)"
 answers:
-  - வெப்ப விரிவு (Thermal Expansion)
+  - "வெப்ப விரிவு (Thermal Expansion)"
 ---
 
 

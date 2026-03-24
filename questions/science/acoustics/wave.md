@@ -1,10 +1,10 @@
 ---
 choices:
-  - speed
-  - frequency
-  - wavelength
+  - "speed"
+  - "frequency"
+  - "wavelength"
 answers:
-  - none of these
+  - "none of these"
 ---
 
 

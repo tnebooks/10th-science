@@ -1,10 +1,10 @@
 ---
 choices:
-  - Oparin
-  - Haldane
-  - Lamarck
+  - "Oparin"
+  - "Haldane"
+  - "Lamarck"
 answers:
-  - Louis Pasteur
+  - "Louis Pasteur"
 ---
 
 

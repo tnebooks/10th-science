@@ -1,10 +1,10 @@
 ---
 choices:
-  - Segregation
-  - Crossing over
-  - Recessiveness
+  - "Segregation"
+  - "Crossing over"
+  - "Recessiveness"
 answers:
-  - Independent assortment
+  - "Independent assortment"
 ---
 
 

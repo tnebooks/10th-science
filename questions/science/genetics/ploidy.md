@@ -1,10 +1,10 @@
 ---
 choices:
-  - Tetraploidy
-  - Euploidy
-  - polyploidy
+  - "Tetraploidy"
+  - "Euploidy"
+  - "polyploidy"
 answers:
-  - Aneuploidy
+  - "Aneuploidy"
 ---
 
 

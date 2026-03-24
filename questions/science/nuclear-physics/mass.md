@@ -1,10 +1,10 @@
 ---
 choices:
-  - b decay
-  - g decay
-  - neutron decay
+  - "b decay"
+  - "g decay"
+  - "neutron decay"
 answers:
-  - a decay
+  - "a decay"
 ---
 
 

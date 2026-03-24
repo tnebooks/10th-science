@@ -1,10 +1,10 @@
 ---
 choices:
-  - convex lens
-  - concave lens
-  - convex mirror
+  - "convex lens"
+  - "concave lens"
+  - "convex mirror"
 answers:
-  - Bifocal lenses
+  - "Bifocal lenses"
 ---
 
 

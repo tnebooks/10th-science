@@ -1,10 +1,10 @@
 ---
 choices:
-  - mho
-  - ohm/metre
-  - ohm
+  - "mho"
+  - "ohm/metre"
+  - "ohm"
 answers:
-  - ohm metre
+  - "ohm metre"
 ---
 
 

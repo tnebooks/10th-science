@@ -1,10 +1,10 @@
 ---
 choices:
-  - stomach
-  - cerebrum
-  - hypothalamus
+  - "stomach"
+  - "cerebrum"
+  - "hypothalamus"
 answers:
-  - medulla oblongata
+  - "medulla oblongata"
 ---
 
 

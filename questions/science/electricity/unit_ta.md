@@ -1,10 +1,10 @@
 ---
 choices:
-  - மின்தடை எண் (resistivity)
-  - மின்கடத்து திறன் (conductivity)
-  - மின் திறன் (electrical power)
+  - "மின்தடை எண் (resistivity)"
+  - "மின்கடத்து திறன் (conductivity)"
+  - "மின் திறன் (electrical power)"
 answers:
-  - மின் ஆற்றல் (electrical energy)
+  - "மின் ஆற்றல் (electrical energy)"
 ---
 
 

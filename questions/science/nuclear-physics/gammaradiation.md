@@ -1,10 +1,10 @@
 ---
 choices:
-  - it affects eyes & bones
-  - it affects tissues
-  - it produces enormous amount of heat
+  - "it affects eyes & bones"
+  - "it affects tissues"
+  - "it produces enormous amount of heat"
 answers:
-  - it produces genetic disorder
+  - "it produces genetic disorder"
 ---
 
 

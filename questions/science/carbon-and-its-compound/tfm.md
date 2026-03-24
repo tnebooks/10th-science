@@ -1,10 +1,10 @@
 ---
 choices:
-  - Mineral salt
-  - Fragrance
-  - Hydrocarbon
+  - "Mineral salt"
+  - "Fragrance"
+  - "Hydrocarbon"
 answers:
-  - Fatty acid
+  - "Fatty acid"
 ---
 
 

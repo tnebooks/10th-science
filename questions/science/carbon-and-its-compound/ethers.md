@@ -1,10 +1,10 @@
 ---
 choices:
-  - Carboxylic acids
-  - Esters
-  - Aldehydes
+  - "Carboxylic acids"
+  - "Esters"
+  - "Aldehydes"
 answers:
-  - Ethers
+  - "Ethers"
 ---
 
 

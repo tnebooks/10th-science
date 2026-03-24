@@ -1,10 +1,10 @@
 ---
 choices:
-  - A concave lens of focal length 5 cm
-  - A convex lens of focal length 10cm
-  - A concave lens of focal length 10 cm
+  - "A concave lens of focal length 5 cm"
+  - "A convex lens of focal length 10cm"
+  - "A concave lens of focal length 10 cm"
 answers:
-  - A convex lens of focal length 5 cm
+  - "A convex lens of focal length 5 cm"
 ---
 
 

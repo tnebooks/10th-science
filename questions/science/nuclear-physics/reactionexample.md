@@ -1,10 +1,10 @@
 ---
 choices:
-  - Nuclear fission
-  - α-decay
-  - β-decay
+  - "Nuclear fission"
+  - "α-decay"
+  - "β-decay"
 answers:
-  - Nuclear fusion
+  - "Nuclear fusion"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - atomic mass
-  - isotopic mass
-  - number of neutrons
+  - "atomic mass"
+  - "isotopic mass"
+  - "number of neutrons"
 answers:
-  - atomic number
+  - "atomic number"
 explanation: ''
 ---
 

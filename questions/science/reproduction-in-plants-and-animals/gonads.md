@@ -1,10 +1,10 @@
 ---
 choices:
-  - they are diploid
-  - they give rise to gonads
-  - they produce hormones
+  - "they are diploid"
+  - "they give rise to gonads"
+  - "they produce hormones"
 answers:
-  - they are formed from gonads
+  - "they are formed from gonads"
 ---
 
 

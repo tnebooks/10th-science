@@ -1,10 +1,10 @@
 ---
 choices:
-  - cooling of earth
-  - trapping of UV rays
-  - cultivation of plants
+  - "cooling of earth"
+  - "trapping of UV rays"
+  - "cultivation of plants"
 answers:
-  - warming of earth
+  - "warming of earth"
 ---
 
 

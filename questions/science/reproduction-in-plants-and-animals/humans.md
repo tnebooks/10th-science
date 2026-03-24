@@ -1,10 +1,10 @@
 ---
 choices:
-  - haploid
-  - triploid
-  - tetraploid
+  - "haploid"
+  - "triploid"
+  - "tetraploid"
 answers:
-  - diploid
+  - "diploid"
 ---
 
 

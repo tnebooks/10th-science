@@ -1,9 +1,9 @@
 ---
 choices:
-  - Meiosis
-  - Amitosis
+  - "Meiosis"
+  - "Amitosis"
 answers:
-  - Mitosis
+  - "Mitosis"
 ---
 
 

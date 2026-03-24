@@ -1,10 +1,10 @@
 ---
 choices:
-  - Calyx and Corolla
-  - Calyx and Androecium
-  - Corolla and Gynoecium
+  - "Calyx and Corolla"
+  - "Calyx and Androecium"
+  - "Corolla and Gynoecium"
 answers:
-  - Androecium and Gynoecium
+  - "Androecium and Gynoecium"
 ---
 
 

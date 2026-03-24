@@ -1,10 +1,10 @@
 ---
 choices:
-  - clonal selection
-  - pureline selection
-  - hybridisation
+  - "clonal selection"
+  - "pureline selection"
+  - "hybridisation"
 answers:
-  - mass selection
+  - "mass selection"
 ---
 
 

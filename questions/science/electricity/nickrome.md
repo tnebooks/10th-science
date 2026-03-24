@@ -1,9 +1,9 @@
 ---
 choices:
 answers:
-  - high resistivity
-  - high melting point
-  - not easily oxidized
+  - "high resistivity"
+  - "high melting point"
+  - "not easily oxidized"
 ---
 
 

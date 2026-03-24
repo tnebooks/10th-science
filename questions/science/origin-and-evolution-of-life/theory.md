@@ -1,10 +1,10 @@
 ---
 choices:
-  - Charles Darwin
-  - Ernst Haeckel
-  - Gregor Mendel
+  - "Charles Darwin"
+  - "Ernst Haeckel"
+  - "Gregor Mendel"
 answers:
-  - Jean Baptiste Lamarck
+  - "Jean Baptiste Lamarck"
 ---
 
 

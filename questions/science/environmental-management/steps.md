@@ -2,9 +2,9 @@
 choices:
 
 answers:
-  - reduce the amount of waste formed
-  - reuse the waste
-  - recycle the waste
+  - "reduce the amount of waste formed"
+  - "reuse the waste"
+  - "recycle the waste"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - Ag
-  - Mg
-  - Al
+  - "Ag"
+  - "Mg"
+  - "Al"
 answers:
-  - Hg
+  - "Hg"
 explanation: ''
 ---
 

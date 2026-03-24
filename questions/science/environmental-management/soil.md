@@ -1,10 +1,10 @@
 ---
 choices:
-  - deforestation
-  - over growing
-  - removal of vegetation
+  - "deforestation"
+  - "over growing"
+  - "removal of vegetation"
 answers:
-  - afforestion
+  - "afforestion"
 ---
 
 

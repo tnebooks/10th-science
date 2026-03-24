@@ -1,10 +1,10 @@
 ---
 choices:
-  - Alkane
-  - Alkyne
-  - Alcohol
+  - "Alkane"
+  - "Alkyne"
+  - "Alcohol"
 answers:
-  - Alkene
+  - "Alkene"
 ---
 
 

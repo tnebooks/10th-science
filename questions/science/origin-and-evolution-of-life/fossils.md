@@ -1,9 +1,9 @@
 ---
 choices:
-  - Potassium-argon method
-  - Uranium lead method
+  - "Potassium-argon method"
+  - "Uranium lead method"
 answers:
-  - Radio-carbon method
+  - "Radio-carbon method"
 ---
 
 

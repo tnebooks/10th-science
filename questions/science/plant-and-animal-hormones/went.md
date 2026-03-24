@@ -1,10 +1,10 @@
 ---
 choices:
-  - Darwin
-  - N. Smit
-  - Paal
+  - "Darwin"
+  - "N. Smit"
+  - "Paal"
 answers:
-  - F.W. Went
+  - "F.W. Went"
 explanation: ' '
 ---
 

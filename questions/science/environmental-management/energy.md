@@ -1,10 +1,10 @@
 ---
 choices:
-  - solar energy
-  - thermal energy
-  - hydropower
+  - "solar energy"
+  - "thermal energy"
+  - "hydropower"
 answers:
-  - wind energy
+  - "wind energy"
 ---
 
 

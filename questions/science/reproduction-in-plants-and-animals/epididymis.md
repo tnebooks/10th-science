@@ -1,10 +1,10 @@
 ---
 choices:
-  - Vasa efferentia
-  - Vas deferens
-  - Seminiferous tubules
+  - "Vasa efferentia"
+  - "Vas deferens"
+  - "Seminiferous tubules"
 answers:
-  - Epididymis
+  - "Epididymis"
 ---
 
 

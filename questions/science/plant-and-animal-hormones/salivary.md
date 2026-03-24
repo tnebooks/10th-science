@@ -1,10 +1,10 @@
 ---
 choices:
-  - pituitary gland
-  - adrenal gland
-  - thyroid gland
+  - "pituitary gland"
+  - "adrenal gland"
+  - "thyroid gland"
 answers:
-  - salivary gland
+  - "salivary gland"
 explanation: ' '
 ---
 

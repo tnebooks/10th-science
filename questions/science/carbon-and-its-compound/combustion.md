@@ -1,10 +1,10 @@
 ---
 choices:
-  - Oxidation of ethanoic acid
-  - Dehydration of ethanol
-  - Oxidation of ethyl
+  - "Oxidation of ethanoic acid"
+  - "Dehydration of ethanol"
+  - "Oxidation of ethyl"
 answers:
-  - Combustion of ethanol
+  - "Combustion of ethanol"
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 choices:
-  - தன்னிச்சையான கதிரியக்கம் (Spontaneous radioactivity)
+  - "தன்னிச்சையான கதிரியக்கம் (Spontaneous radioactivity)"
 answers:
-  - தூண்டப்பட்ட கதிரியக்கம் (Induced radioactivity)
-  - செயற்கை கதிரியக்கம் (Artificial radioactivity)
+  - "தூண்டப்பட்ட கதிரியக்கம் (Induced radioactivity)"
+  - "செயற்கை கதிரியக்கம் (Artificial radioactivity)"
 ---
 
 

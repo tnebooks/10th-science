@@ -1,10 +1,10 @@
 ---
 choices:
-  - Ester
-  - Ketone
-  - Alcohol
+  - "Ester"
+  - "Ketone"
+  - "Alcohol"
 answers:
-  - Aldehyde
+  - "Aldehyde"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - Koodankulam
-  - Mumbai
-  - Rajasthan
+  - "Koodankulam"
+  - "Mumbai"
+  - "Rajasthan"
 answers:
-  - Kalpakkam
+  - "Kalpakkam"
 ---
 
 

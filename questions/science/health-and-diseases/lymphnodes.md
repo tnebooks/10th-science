@@ -1,10 +1,10 @@
 ---
 choices:
-  - Carcinoma
-  - Sarcoma
-  - Leukemia
+  - "Carcinoma"
+  - "Sarcoma"
+  - "Leukemia"
 answers:
-  - Lymphoma
+  - "Lymphoma"
 explanation: Lymphoma is the type of cancer that affects the lymph nodes and spleen.
 ---
 

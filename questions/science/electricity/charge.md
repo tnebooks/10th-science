@@ -1,10 +1,10 @@
 ---
 choices:
-  - The rate of flow of charge is electric power
-  - The rate of change of electrical energy is electric current
-  - The rate of change of current is electric charge
+  - "The rate of flow of charge is electric power"
+  - "The rate of change of electrical energy is electric current"
+  - "The rate of change of current is electric charge"
 answers:
-  - The rate of flow of charge is electric current
+  - "The rate of flow of charge is electric current"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - radial
-  - amphivasal
-  - None of these
+  - "radial"
+  - "amphivasal"
+  - "None of these"
 answers:
-  - conjoint
+  - "conjoint"
 explanation: ''
 ---
 

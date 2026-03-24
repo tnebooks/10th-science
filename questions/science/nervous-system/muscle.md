@@ -1,10 +1,10 @@
 ---
 choices:
-  - afferent neurons
-  - association neuron
-  - unipolar neuron
+  - "afferent neurons"
+  - "association neuron"
+  - "unipolar neuron"
 answers:
-  - efferent neuron
+  - "efferent neuron"
 ---
 
 

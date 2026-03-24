@@ -1,10 +1,10 @@
 ---
 choices:
-  - thalamus
-  - hypothalamus
-  - pons
+  - "thalamus"
+  - "hypothalamus"
+  - "pons"
 answers:
-  - corpus callosum
+  - "corpus callosum"
 ---
 
 

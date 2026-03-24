@@ -1,10 +1,10 @@
 ---
 choices:
-  - pineal gland
-  - thyroid gland
-  - adrenal gland
+  - "pineal gland"
+  - "thyroid gland"
+  - "adrenal gland"
 answers:
-  - pituitary gland
+  - "pituitary gland"
 explanation: ' '
 ---
 

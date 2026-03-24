@@ -1,10 +1,10 @@
 ---
 choices:
-  - Mho
-  - Joule
-  - Ohm meter
+  - "Mho"
+  - "Joule"
+  - "Ohm meter"
 answers:
-  - Ohm
+  - "Ohm"
 explanation: ' The SI unit of electrical resistance is ohm (Ω).'
 ---
 

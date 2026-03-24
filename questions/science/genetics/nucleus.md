@@ -1,10 +1,10 @@
 ---
 choices:
-  - primary constriction
-  - telomere
-  - locus
+  - "primary constriction"
+  - "telomere"
+  - "locus"
 answers:
-  - secondary constriction
+  - "secondary constriction"
 ---
 
 

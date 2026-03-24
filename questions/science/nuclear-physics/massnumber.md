@@ -1,18 +1,18 @@
 ---
 choices:
-  - (i) is correct
-  - (i) & (iv) are correct
-  - (ii) & (iv) are correct
+  - "(i) is correct"
+  - "(i) & (iv) are correct"
+  - "(ii) & (iv) are correct"
 answers:
-  - (ii) and (iii) are correct
+  - "(ii) and (iii) are correct"
 ---
 
 
 In which of the following, no change in mass number of the daughter nuclei takes place
-   - i) α decay
-   - ii) β decay
-   - iii) γ decay
-   - iv) neutron decay
+   - "i) α decay"
+   - "ii) β decay"
+   - "iii) γ decay"
+   - "iv) neutron decay"
 
 
 ```markdown

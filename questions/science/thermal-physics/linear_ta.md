@@ -1,9 +1,9 @@
 ---
 choices:
-  - பொருளின் தன்மை (nature of material)
+  - "பொருளின் தன்மை (nature of material)"
 answers:
-  - ஆரம்ப நீளம் (original length)
-  - வெப்பநிலை உயர்வு (increasing temperature)
+  - "ஆரம்ப நீளம் (original length)"
+  - "வெப்பநிலை உயர்வு (increasing temperature)"
 ---
 
 

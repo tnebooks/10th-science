@@ -1,10 +1,10 @@
 ---
 choices:
-  - 28 amu
-  - 28 g
-  - 14 amu
+  - "28 amu"
+  - "28 g"
+  - "14 amu"
 answers:
-  - 14 g
+  - "14 g"
 ---
 
 

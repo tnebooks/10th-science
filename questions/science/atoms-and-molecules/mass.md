@@ -1,10 +1,10 @@
 ---
 choices:
-  - 6.023 × 10²³ atoms of He
-  - 1 mole atoms of He
-  - 1 atom of He
+  - "6.023 × 10²³ atoms of He"
+  - "1 mole atoms of He"
+  - "1 atom of He"
 answers:
-  - 2 g of He
+  - "2 g of He"
 ---
 
 

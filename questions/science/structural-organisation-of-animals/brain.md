@@ -1,10 +1,10 @@
 ---
 choices:
-  - Mouth
-  - Buccal Cavity
-  - Crop
+  - "Mouth"
+  - "Buccal Cavity"
+  - "Crop"
 answers:
-  - Pharynx
+  - "Pharynx"
 explanation: ''
 ---
 

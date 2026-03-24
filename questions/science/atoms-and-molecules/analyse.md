@@ -1,10 +1,10 @@
 ---
 choices:
-  - i, ii and iii are correct
-  - i and iii are correct
-  - only iii is correct
+  - "i, ii and iii are correct"
+  - "i and iii are correct"
+  - "only iii is correct"
 answers:
-  - only ii is correct
+  - "only ii is correct"
 ---
 
 

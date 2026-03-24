@@ -1,10 +1,10 @@
 ---
 choices:
-  - His-Atrio
-  - Karl Landsteiner
-  - Edward C. Kendal
+  - "His-Atrio"
+  - "Karl Landsteiner"
+  - "Edward C. Kendal"
 answers:
-  - William Harvey
+  - "William Harvey"
 ---
 
 

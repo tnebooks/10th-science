@@ -1,10 +1,10 @@
 ---
 choices:
-  - Zoospores
-  - Conidia
-  - Chlamydospores
+  - "Zoospores"
+  - "Conidia"
+  - "Chlamydospores"
 answers:
-  - Zygote
+  - "Zygote"
 ---
 
 

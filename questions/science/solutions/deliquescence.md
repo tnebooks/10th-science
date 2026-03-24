@@ -1,10 +1,10 @@
 ---
 choices:
-  - Less affinity to water
-  - Strong hatred to water
-  - Inertness to water
+  - "Less affinity to water"
+  - "Strong hatred to water"
+  - "Inertness to water"
 answers:
-  - Strong affinity to water
+  - "Strong affinity to water"
 explanation: ''
 ---
 

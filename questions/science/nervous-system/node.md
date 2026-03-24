@@ -1,10 +1,10 @@
 ---
 choices:
-  - muscles
-  - dendrites
-  - cyton
+  - "muscles"
+  - "dendrites"
+  - "cyton"
 answers:
-  - axons
+  - "axons"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - ஹிஸ்-ஆட்ரியோ (His-Atrio)
-  - கார்ல் லேண்ட்ஸ்டெய்னர் (Karl Landsteiner)
-  - எட்வர்ட் சி. கெண்டல் (Edward C. Kendal)
+  - "ஹிஸ்-ஆட்ரியோ (His-Atrio)"
+  - "கார்ல் லேண்ட்ஸ்டெய்னர் (Karl Landsteiner)"
+  - "எட்வர்ட் சி. கெண்டல் (Edward C. Kendal)"
 answers:
-  - வில்லியம் ஹார்வி (William Harvey)
+  - "வில்லியம் ஹார்வி (William Harvey)"
 ---
 
 
