@@ -4,22 +4,22 @@ answers:
   - TBC
 ---
 
-ஒரு கரைசலில் ஹைட்ராக்சைடு அயனிச் செறிவு $1.0 \times 10^{-9}$ மோல் எனில் அதன் pOH மதிப்பு என்ன?
+If the hydroxide ion concentration in a solution is $1.0 \times 10^{-9}$ mole, what is its pOH value?
 
 ```markdown
-pOH என்பது ஹைட்ராக்சைடு அயன் செறிவின் லோகாரிதம் மதிப்பாகும்.
+pOH is the negative logarithm of the hydroxide ion concentration.
 
-கொடுக்கப்பட்டது:
+Given:
 $[OH^-] = 1.0 \times 10^{-9}$
 
-சமன்பாடு:
+Formula:
 $pOH = -\log_{10}[OH^-]$
 
-மாற்றினால்:
+Substituting:
 $pOH = -\log_{10}(1 \times 10^{-9})$
 
 $\log_{10}(10^{-9}) = -9$
 
-ஆகவே:
+Therefore:
 $pOH = -(-9) = 9$
 ```
