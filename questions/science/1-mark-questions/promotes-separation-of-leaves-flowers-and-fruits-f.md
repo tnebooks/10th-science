@@ -1,10 +1,10 @@
 ---
 choices:
   - "Cytokinin"
-  - "Abscisic acid"
   - "Gibberellin"
-answers:
   - "Ethylene"
+answers:
+  - "Abscisic acid"
 ---
 
 Promotes separation of leaves, flowers and fruits from the branch----?
