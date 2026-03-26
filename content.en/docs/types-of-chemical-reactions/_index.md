@@ -1,5 +1,5 @@
 ---
-title: 'TYPES-OF-CHEMICAL-REACTIONS'
+title: 'TYPES OF CHEMICAL REACTIONS'
 weight: 10
 references:
     videos:
@@ -14,8 +14,6 @@ references:
 categories:
     - types-of-chemical-reactions
 ---
-
-#  TYPES OF CHEMICAL REACTIONS
 
 ## Learning Objectives
 After completing this lesson learners will be able to
@@ -705,7 +703,13 @@ From this process it is clear that one mole of HCl would give one mole of H⁺ i
 
 Thus, [H⁺] = 1 × 10⁻³ mol litre⁻¹
 
-$$\mathrm{pH} = -\log_{10}[\mathrm{H^+}] = -\log_{10}10^{-3} = -(-3 \times \log_{10}10) = -(3 \times 1) = 3$$
+$$\mathrm{pH} = -\log_{10}[\mathrm{H^+}]
+
+  = -\log_{10}10^{-3}
+ 
+  = -(-3 \times \log_{10}10)
+  
+  = -(3 \times 1) = 3$$
 
 Thus, pH = 3
 
@@ -725,7 +729,13 @@ Each mole of sulphuric acid gives two mole of H⁺ ions in the solution. One lit
 Therefore,
 [H⁺] = 1.0 × 10⁻⁴ mol litre⁻¹
 
-$$\mathrm{pH} = -\log_{10}[\mathrm{H^+}] = -\log_{10}10^{-4} = -(-4 \times \log_{10}10) = -(-4 \times 1) = 4$$
+$$\mathrm{pH} = -\log_{10}[\mathrm{H^+}] = 
+
+-\log_{10}10^{-4}
+
+ = -(-4 \times \log_{10}10) 
+ 
+ = -(-4 \times 1) = 4$$
 
 **Example 3:** Calculate the pH of 1 × 10⁻⁴ molar solution of NaOH.
 
@@ -745,7 +755,11 @@ One mole of NaOH would give one mole of OH⁻ ions. Therefore,
 
 [OH⁻] = 1 × 10⁻⁴ mol litre⁻¹
 
-$$\mathrm{pOH} = -\log_{10}[\mathrm{OH^-}] = -\log_{10}[10^{-4}] = -(-4) = 4$$
+$$\mathrm{pOH} = -\log_{10}[\mathrm{OH^-}]
+
+ = -\log_{10}[10^{-4}] =
+
+  -(-4) = 4$$
 
 Since, pH + pOH = 14
 
@@ -766,6 +780,7 @@ pH = -(-8) = 8
 **Solution:**
 pH + pOH = 14
 pOH = 14 - 4.5 = 9.5
+
 pOH = 9.5
 
 ---
@@ -832,6 +847,7 @@ a. i and ii  b. i and iv
 c. i, ii and iii  d. i, ii and iv
 
 4. The chemical equation
+
 Na2SO4(aq) + BaCl2(aq) → BaSO4(s)↓ + 2NaCl(aq)
 represents which of the following types of
 reaction?
