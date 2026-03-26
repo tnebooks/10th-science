@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Cytokinin"
+  - "Auxin"
   - "Gibberellin"
   - "Ethylene"
 answers:
-  - "Auxin"
+  - "Cytokinin"
 ---
 
 Causes cell enlargement----?
