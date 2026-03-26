@@ -1,10 +1,10 @@
 ---
 choices:
   - "Astronomical telescope"
-  - "Simple microscope"
+  - "Compound microscope"
   - "All the above"
 answers:
-  - "Compound microscope"
+  - "Simple microscope"
 ---
 
 ------ "is used to observe finger points in field of forensic science?"
