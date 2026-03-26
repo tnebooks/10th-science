@@ -1,10 +1,9 @@
 ---
 choices:
-  - "Calyx"
-  - "Androecium"
-  - "Gynoecium"
+  - "Calyx" 
 answers:
-  - "Both (b) and (c)"
+   - "Androecium"
+   - "Gynoecium"
 ---
 
 Essential whorls of a flowers are----?

@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Hydra"
+  - "Amoeba"
   - "Spirogyra"
   - "Yeast"
 answers:
-  - "Amoeba"
+  - "Hydra"
 ---
 
 Which organisms reproduces through Fission?
