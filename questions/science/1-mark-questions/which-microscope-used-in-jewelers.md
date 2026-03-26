@@ -1,10 +1,10 @@
 ---
 choices:
-  - "simple"
+  - "Compound"
   - "Cylindrical"
   - "both a& b"
 answers:
-  - "Compound"
+   - "simple"
 ---
 
 Which microscope used in jewelers?

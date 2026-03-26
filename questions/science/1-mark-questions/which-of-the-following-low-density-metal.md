@@ -1,10 +1,9 @@
 ---
 choices:
   - "Copper"
-  - "Iron"
-  - "all the above"
-answers:
   - "Aluminum"
+answers:
+   - "Iron"
 ---
 
 Which of the following low density metal?
