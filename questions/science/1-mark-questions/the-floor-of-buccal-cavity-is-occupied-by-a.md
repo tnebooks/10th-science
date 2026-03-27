@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Muscular Tongue"
+  - "Muscular Pharynx"
   - "Oesophagus"
   - "Caecum"
 answers:
-  - "Muscular Pharynx"
+  - "Muscular Tongue"
 ---
 
 The floor of buccal cavity is occupied by a -------?

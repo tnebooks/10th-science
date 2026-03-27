@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Newton‘s second law"
+  - "Newton‘s first law"
   - "Impulse"
   - "Newton’s third law"
 answers:
-  - "Newton’s first law"
+  - "Newton’s second law"
 ---
 
-Which of the following is called ‗Law of Force‘ ------?
+Which of the following is called ‗Law of Force ------?

@@ -2,9 +2,9 @@
 choices:
   - "Cloud"
   - "Ethyl alcohol in water"
-  - "NaCl in H2O"
+  - "$NaCl \text{ in } H_2O$"
 answers:
-  - "CO2 dissolved in H2O"
+  - "$CO_2 \text{ dissolved in } H_2O$"
 ---
 
 Which is a gaseous solution -----?

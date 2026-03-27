@@ -6,5 +6,4 @@ choices:
 answers:
   - "Brass"
 ---
-
 Which Alloys used to Electrical fitting, Medal -----?

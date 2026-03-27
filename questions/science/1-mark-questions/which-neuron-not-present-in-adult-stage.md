@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Bipolar"
+  - "Unipolar"
   - "Multipolar"
   - "Association"
 answers:
-  - "Unipolar"
+  - "Bipolar"
 ---
 
 Which Neuron not present in Adult stage?

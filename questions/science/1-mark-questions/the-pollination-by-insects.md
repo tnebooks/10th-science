@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Entomophily"
+  - "Anemophily"
   - "Zoophily"
   - "Hydrophily"
 answers:
-  - "Anemophily"
+  - "Entomophily"
 ---
 
 The pollination by insects -----?

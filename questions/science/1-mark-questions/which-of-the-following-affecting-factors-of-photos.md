@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Hormones"
-  - "Leaf age"
-  - "All the above"
+
 answers:
   - "Light"
+  - "Hormones"
+  - "Leaf age"
 ---
 
 Which of the following affecting factors of photosynthesis?

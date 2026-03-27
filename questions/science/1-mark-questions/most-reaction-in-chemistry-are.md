@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Irreversible reaction"
+  - "Reversible reaction"
   - "Neutralization reaction"
   - "Composition"
 answers:
-  - "Reversible reaction"
+  - "Irreversible reaction"
 ---
 
 Most reaction in chemistry are------?
