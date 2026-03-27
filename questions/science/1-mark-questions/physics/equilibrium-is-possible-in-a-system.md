@@ -2,7 +2,6 @@
 choices:
   - "Open"
   - "Thermodynamic"
-  - "Both a and b"
 answers:
   - "Closed"
 ---
