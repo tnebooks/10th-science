@@ -2,7 +2,6 @@
 choices:
   - "Compound"
   - "Cylindrical"
-  - "both a& b"
 answers:
    - "simple"
 ---

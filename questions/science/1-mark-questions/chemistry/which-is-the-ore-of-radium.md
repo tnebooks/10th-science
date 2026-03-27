@@ -2,7 +2,6 @@
 choices:
   - "Platinum"
   - "Marble"
-  - "All the above"
 answers:
   - "Pitch blende"
 ---
