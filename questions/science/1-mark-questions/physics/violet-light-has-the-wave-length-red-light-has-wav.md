@@ -1,10 +1,10 @@
 ---
 choices:
-  - "'Longer, Short'"
+  - "Longer, Short"
   - "Both longer"
   - "Both shorter"
 answers:
-  - "'Short, longer'"
+  - "Short, longer"
 ---
 
 Violet light has the ----- "wave length. Red light has ------wave length."

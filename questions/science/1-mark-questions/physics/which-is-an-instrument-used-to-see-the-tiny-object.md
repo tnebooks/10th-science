@@ -2,7 +2,6 @@
 choices:
   - "Barometer"
   - "Telescope"
-  - "a and b"
 answers:
   - "Microscope"
 ---

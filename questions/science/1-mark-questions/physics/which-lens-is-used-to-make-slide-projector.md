@@ -2,7 +2,6 @@
 choices:
   - "Concave lens"
   - "Bifocal lens"
-  - "a and b"
 answers:
   - "Convex lens"
 ---
