@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Covalent bond"
+  - "Ionic bond"
   - "Hydrogen bond"
   - "50% covalent 50% ionic bond"
 answers:
-  - "Ionic bond"
+  - "Covalent bond"
 ---
 
 Identify the nature of bond present in NaH-----?

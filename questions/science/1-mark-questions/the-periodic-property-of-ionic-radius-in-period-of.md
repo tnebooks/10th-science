@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Decreases"
   - "Remains same"
   - "Zero"
-answers:
   - "Increases"
+answers:
+  - "Decreases"
 ---
 
 The periodic property of Ionic radius in period of -----?

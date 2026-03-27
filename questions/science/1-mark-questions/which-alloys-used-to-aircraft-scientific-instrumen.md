@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Magnalium"
   - "Bronze"
   - "Brass"
-answers:
   - "Duralumin"
+answers:
+  - "Magnalium"
 ---
 
 Which Alloys used to Aircraft, Scientific instruments -----?

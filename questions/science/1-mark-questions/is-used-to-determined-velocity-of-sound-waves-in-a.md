@@ -2,7 +2,6 @@
 choices:
   - "SONAR"
   - "RADAR"
-  - "All the above"
 answers:
   - "Echo"
 ---

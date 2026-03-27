@@ -1,10 +1,10 @@
 ---
 choices:
   - "Steel"
-  - "Wrought Iron"
   - "Magnetite"
-answers:
   - "Pig Iron"
+answers:
+  - "Wrought Iron"
 ---
 
 Which is used to make electromagnets?
