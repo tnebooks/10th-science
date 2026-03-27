@@ -1,10 +1,10 @@
 ---
 choices:
   - "Multipolar neurons"
-  - "Unipolar neurons"
   - "Synaps"
-answers:
   - "Bipolar neurons"
+answers:
+  - "Unipolar neurons"
 ---
 
 The neuron found only in early embryos is-----?
