@@ -1,10 +1,11 @@
 ---
 choices:
-  - "Conservation of natural resources"
+  - "Forest Conservation"
   - "Zoological survey of India"
   - "Development of new breeds of forest plants"
 answers:
-  - "Forest Conservation"
+  - "Conservation of natural resources"
+
 ---
 
 Chipko Andolan is concerned with --------?

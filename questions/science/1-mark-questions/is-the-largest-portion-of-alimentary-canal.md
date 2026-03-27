@@ -1,10 +1,10 @@
 ---
 choices:
   - "buccal cavity"
-  - "crop"
+  - "rectum"
   - "anus"
 answers:
-  - "rectum"
+   - "crop"
 ---
 
 --------- "is the largest portion of alimentary canal."

@@ -1,6 +1,6 @@
 ---
 choices:
-  - "ஈசிஜி"
+  - "ECG"
   - "EFA"
   - "CSF"
 answers:

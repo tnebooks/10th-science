@@ -2,9 +2,9 @@
 choices:
   - "Adrenalin"
   - "Aldosterone"
-  - "Cortisol"
-answers:
   - "Insulin"
+answers:
+  - "Cortisol"
 ---
 
 Is called as life – saving hormone----?

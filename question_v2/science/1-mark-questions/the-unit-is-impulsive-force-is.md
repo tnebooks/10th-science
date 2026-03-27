@@ -1,10 +1,9 @@
 ---
 choices:
-  - "Ns"
-  - "kgm/s"
   - "None"
 answers:
-  - "both a&b"
+  - "Ns"
+  - "kgm/s"
 ---
 
 The unit is impulsive force is ----------.

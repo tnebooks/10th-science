@@ -1,10 +1,10 @@
 ---
 choices:
   - "Impulse"
-  - "Unbalance force"
+  - "Torque"
   - "Balanced force"
 answers:
-  - "Torque"
+  - "Unbalance force"
 ---
 
 Action of a lever is an example of ------?

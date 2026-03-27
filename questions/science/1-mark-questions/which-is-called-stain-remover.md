@@ -1,10 +1,10 @@
 ---
 choices:
   - "Aldehyde"
-  - "Ketone"
   - "Ester."
-answers:
   - "Ether"
+answers:
+  - "Ketone"
 ---
 
 Which is called stain Remover?

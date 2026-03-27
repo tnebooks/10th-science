@@ -2,9 +2,9 @@
 choices:
   - Fish
   - Aves
-  - Reptiles
-answers:
   - Amphibians
+answers:
+    - Reptiles
 ---
 
 Incomplete four chambered heart found in ------?

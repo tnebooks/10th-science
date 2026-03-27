@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Strawberry"
+  - "Bryophyllum"
   - "Asparagus"
   - "Agave"
 answers:
-  - "Bryophyllum"
+  - "Strawberry"
 ---
 
 Example for vegetative reproduction takes place through stem is----?

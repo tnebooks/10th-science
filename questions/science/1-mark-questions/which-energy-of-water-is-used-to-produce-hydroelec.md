@@ -1,10 +1,9 @@
 ---
 choices:
-  - "Potential energy"
   - "Kinetic energy"
   - "None"
 answers:
-  - "Both (a) and (b)"
+  - "Potential energy"
 ---
 
 Which energy of water is used to produce hydroelectricity?
