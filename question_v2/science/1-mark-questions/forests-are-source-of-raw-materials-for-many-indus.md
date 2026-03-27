@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Small-scale
+  - Local
+  - Cottage
 answers:
-  - TBD
+  - Many
 ---
 
-Forests are source of Raw materials for many industries.
+Forests are a source of raw materials for ______ industries ----?

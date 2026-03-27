@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Insulin
+  - Thyroxine
+  - Growth Hormone
 answers:
-  - TBD
+  - Cortisol (Adrenaline/Aldosterone)
 ---
 
-Is also known as life-saving hormone----?
+Which hormone is also known as the 'life-saving hormone' ----?

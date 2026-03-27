@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Autogamy
+  - Cleistogamy
+  - Parthenocarpy
 answers:
-  - TBD
+  - Allogamy
 ---
 
-Cross pollination uis also known as----? Allogamy
+Cross pollination is also known as ----?

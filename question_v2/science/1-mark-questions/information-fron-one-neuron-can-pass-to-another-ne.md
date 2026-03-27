@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Hormones
+  - Enzymes
+  - Antibiotics
 answers:
-  - TBD
+  - Neurotransmitters
 ---
 
-Information fron one neuron can pass to another neuron throught these junctions with the releas of chemicals known as---?
+Information from one neuron can pass to another neuron through these junctions with the release of chemicals known as ----?

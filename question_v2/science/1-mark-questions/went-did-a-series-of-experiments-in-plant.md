@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Pea plant (Pisum sativum)
+  - Maize (Zea mays)
+  - Tobacco (Nicotiana tabacum)
 answers:
-  - TBD
+  - Oat coleoptiles (Avena sativa)
 ---
 
-Went did a series of experiments in plant----?
+Frits Warmolt Went performed a series of experiments to identify the growth hormone in plants using ----?

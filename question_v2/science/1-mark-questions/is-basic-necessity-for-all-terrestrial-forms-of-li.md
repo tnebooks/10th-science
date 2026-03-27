@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Food
+  - Shelter
+  - Sunlight
 answers:
-  - TBD
+  - Water
 ---
 
-Is basic necessity for all terrestrial forms of life----? Water
+Which of the following is the basic necessity for all terrestrial forms of life ----?

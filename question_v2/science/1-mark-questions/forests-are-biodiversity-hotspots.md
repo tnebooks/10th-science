@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Low
+  - Minimal
+  - Artificial
 answers:
-  - TBD
+  - High
 ---
 
-Forests are ‗biodiversity hotspots‘
+Forests are ______ 'biodiversity hotspots' ----?

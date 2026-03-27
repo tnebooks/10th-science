@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Oxytocin
+  - Estrogen
+  - Progesterone
 answers:
-  - TBD
+  - Prolactin
 ---
 
-Hormone initiates development of mammary glands during pregnancy and stimulates production of milk After childbirth----?
+Which hormone initiates the development of mammary glands during pregnancy and stimulates the production of milk after childbirth ----?

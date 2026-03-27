@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Synthetic Auxins
+  - Cytokinins
+  - Gibberellins
 answers:
-  - TBD
+  - Natural Auxins
 ---
 
-Phenyl Acetic Acid and Indole 3 Acetonitrile are examples of----?
+Phenyl Acetic Acid (PAA) and Indole 3 Acetonitrile (IAN) are examples of ----?

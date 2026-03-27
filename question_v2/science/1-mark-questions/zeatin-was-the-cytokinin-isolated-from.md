@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Pea (Pisum sativum)
+  - Rice (Oryza sativa)
+  - Wheat (Triticum)
 answers:
-  - TBD
+  - Maize (Zea mays)
 ---
 
-Zeatin was the cytokinin isolated from----?
+Zeatin, a natural cytokinin, was first isolated from ----?

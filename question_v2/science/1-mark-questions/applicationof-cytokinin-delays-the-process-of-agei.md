@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Abscission
+  - Phototropism
+  - Translocation
 answers:
-  - TBD
+  - Richmond-Lang effect
 ---
 
-Applicationof cytokinin delays the process of ageing in plants is called----?
+Application of cytokinin delays the process of ageing in plants is called ----?

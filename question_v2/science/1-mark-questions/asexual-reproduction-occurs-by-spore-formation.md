@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Vegetative propagation
+  - Budding
+  - Fragmentation
 answers:
-  - TBD
+  - Spore formation
 ---
 
-Asexual reproduction occurs by----? Spore formation
+Asexual reproduction occurs by ----?

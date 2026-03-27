@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Myxedema
+  - Goitre
+  - Acromegaly
 answers:
-  - TBD
+  - Cretinism
 ---
 
-Is caused due to decreased secretion of the thyroid hormone in children ----?
+Which condition is caused due to the decreased secretion of thyroid hormone specifically in children ----?

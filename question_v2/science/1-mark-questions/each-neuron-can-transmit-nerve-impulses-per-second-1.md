@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - 100
+  - 500
+  - 2,000
 answers:
-  - TBD
+  - 1,000
 ---
 
-Each neuron can transmit nerve impulses per second---?
+Each neuron can transmit nerve impulses per second ----?

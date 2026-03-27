@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Sertoli cells
+  - Spermatogonia
+  - Epididymis
 answers:
-  - TBD
+  - Leydig cells (Interstitial cells)
 ---
 
-In male, LH promotes the of the testes to secrere male sex hormone testosterone----?
+In males, LH promotes the ______ of the testes to secrete the male sex hormone testosterone ----?

@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Insulin
+  - Thyroxine
+  - Adrenaline
 answers:
-  - TBD
+  - Secretin
 ---
 
-The first discovered hormone is----?
+The first discovered hormone (found by Bayliss and Starling in 1902) is ----?

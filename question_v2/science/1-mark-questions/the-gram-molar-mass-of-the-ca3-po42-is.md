@@ -1,10 +1,10 @@
 ---
 choices:
-  - 44g
-  - 408g
-  - 16g
+  - 44 grams
+  - 408 grams
+  - 16 grams
 answers:
-  - 308g
+  - 308 grams
 ---
 
-The gram molar mass of the ca3 (Po4)2 is---?
+What is the gram molar mass of Ca3(PO4)2 ----?

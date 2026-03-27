@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Auxin
+  - Gibberellin
+  - Cytokinin
 answers:
-  - TBD
+  - Abscisic Acid
 ---
 
-A growth inhibitor which regulates abscission and dormancy----?
+A growth inhibitor which regulates abscission and dormancy ----?

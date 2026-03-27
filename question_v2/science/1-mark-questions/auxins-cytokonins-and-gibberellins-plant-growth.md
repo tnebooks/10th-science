@@ -1,7 +1,11 @@
 ---
-choices: []
+choices:
+  - Inhibit
+  - Stop
+  - Regulate
+  - Retard
 answers:
-  - TBD
+  - Promote
 ---
 
-Auxins, cytokonins and gibberellins plant growth----?
+Auxins, cytokonins and gibberellins plant growth ----?

@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Insulin
+  - Adrenaline
+  - Prolactin
 answers:
-  - TBD
+  - Thyroxine
 ---
 
-Is known as personality hormone----?
+Which hormone is known as the 'Personality Hormone' ----?
