@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Growth
+  - Flowering
+  - Photosynthesis
 answers:
-  - TBD
+  - Seed germination
 ---
 
-ABA is a powerful inhibitor of in tomato----?
+ABA is a powerful inhibitor of in tomato ----?

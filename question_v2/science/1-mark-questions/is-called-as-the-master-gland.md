@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Thyroid gland
+  - Adrenal gland
+  - Pancreas
 answers:
-  - TBD
+  - Pituitary gland
 ---
 
-Is called as the Master gland----?
+Which gland is called as the Master gland ----?

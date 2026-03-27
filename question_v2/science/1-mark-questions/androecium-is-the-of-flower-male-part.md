@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Female part
+  - Vegetative part
+  - Accessory part
 answers:
-  - TBD
+  - Male part
 ---
 
-Androecium is the of flower----? Male part
+Androecium is the of flower ----?

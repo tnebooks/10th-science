@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Allogamy
+  - Cross-pollination
+  - Xenogamy
 answers:
-  - TBD
+  - Autogamy
 ---
 
-Self-pollination is also known as----? Autogamy
+Self-pollination (the transfer of pollen from the anther to the stigma of the same flower) is also known as ----?

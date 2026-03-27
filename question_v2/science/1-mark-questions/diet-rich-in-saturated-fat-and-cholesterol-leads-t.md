@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Diabetes
+  - Anemia
+  - Liver failure
 answers:
-  - TBD
+  - Heart disease
 ---
 
-Diet rich in saturated fat and cholesterol leads to----? Heart disease
+Diet rich in saturated fat and cholesterol leads to ----?

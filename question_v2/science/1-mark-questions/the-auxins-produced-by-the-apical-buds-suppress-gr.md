@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Parthenocarpy
+  - Phototropism
+  - Bolting
 answers:
-  - TBD
+  - Apical Dominance
 ---
 
-The auxins produced by the apical buds suppress growth of lateral buds is called----?
+The phenomenon where auxins produced by the apical buds suppress the growth of lateral (axillary) buds is called ----?

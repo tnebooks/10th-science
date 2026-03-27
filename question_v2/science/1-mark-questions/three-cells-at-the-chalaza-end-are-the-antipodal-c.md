@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Synergids
+  - Egg apparatus
+  - Secondary nucleus
 answers:
-  - TBD
+  - Antipodal cells
 ---
 
-Three cells at the chalaza end are the----? Antipodal cell
+In the mature embryo sac of an angiosperm, the three cells located at the chalazal end are known as the ----?

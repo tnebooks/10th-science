@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Thyroid, Pituitary, Adrenal
+  - Pineal, Thymus, Pancreas
+  - Hypothalamus, Ovary, Testis
 answers:
-  - TBD
+  - Salivary, Sweat, Gastric
 ---
 
-Examples for exocrine glands are----?
+Examples for exocrine glands are ----?

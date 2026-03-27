@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Auxin
+  - Cytokinin
+  - Abscisic acid
 answers:
-  - TBD
+  - Gibberellin
 ---
 
-Internodal elongation in rice was caused by----?
+Internodal elongation in rice was caused by ----?

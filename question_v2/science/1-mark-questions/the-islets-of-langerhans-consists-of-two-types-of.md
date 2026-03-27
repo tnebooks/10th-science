@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Alpha and Gamma cells
+  - Beta and Delta cells
+  - Nerve and Muscle cells
 answers:
-  - TBD
+  - Alpha and Beta cells
 ---
 
-The Islets of Langerhans consists of two types of cells namely----?
+The Islets of Langerhans (the endocrine part of the pancreas) consists of two main types of cells namely ----?

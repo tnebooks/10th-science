@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Muscle cell
+  - Red blood cell (RBC)
+  - Bone cell
 answers:
-  - TBD
+  - Nerve cell (Neuron)
 ---
 
-The longest cell of the human body is---?
+The longest cell in the human body is the ----?

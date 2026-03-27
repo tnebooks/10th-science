@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Fragmentation
+  - Budding
+  - Binary fission
 answers:
-  - TBD
+  - Spore formation (Sporulation)
 ---
 
-The spores are liberated and they develop into new Hypha after reaching the ground or substratum.
+The method of asexual reproduction in which spores are liberated and develop into new Hypha after reaching a suitable substratum is known as ----?

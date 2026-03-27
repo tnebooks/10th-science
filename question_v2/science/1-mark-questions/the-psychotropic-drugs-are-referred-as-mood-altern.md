@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Antibiotics
+  - Antipyretics
+  - Analgesics
 answers:
-  - TBD
+  - Psychotropic drugs (or Mood-altering drugs)
 ---
 
-The psychotropic drugs are referred as Mood alternating drugs
+Drugs which act on the brain and alter the behavior, consciousness, power of thinking, and perception are called ----?

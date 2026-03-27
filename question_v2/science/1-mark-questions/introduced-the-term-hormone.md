@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Edward Sharpey-Schafer
+  - Frederick Banting
+  - Charles Best
 answers:
-  - TBD
+  - W. M. Bayliss and E. H. Starling (1905)
 ---
 
-Introduced the term hormone----?
+Who introduced the term 'hormone' ----?

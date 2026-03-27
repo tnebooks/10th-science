@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Consuming more resources
+  - Discarding items after single use
+  - Burning plastic waste
 answers:
-  - TBD
+  - Using things again and again
 ---
 
-In Reusing strategy for saving the environment----?
+In the 'Reusing' strategy for saving the environment, what does it primarily involve ----?

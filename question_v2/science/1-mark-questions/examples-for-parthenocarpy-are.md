@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Mango, Neem, Peepal
+  - Coconut, Rose, Hibiscus
+  - Paddy, Wheat, Maize
 answers:
-  - TBD
+  - Banana, Grapes, Papaya
 ---
 
-Examples for parthenocarpy are ----?
+Examples for parthenocarpy (seedless fruits) are ----?

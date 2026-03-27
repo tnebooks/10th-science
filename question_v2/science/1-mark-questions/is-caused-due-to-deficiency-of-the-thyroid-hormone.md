@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Cretinism
+  - Simple Goitre
+  - Acromegaly
 answers:
-  - TBD
+  - Myxedema
 ---
 
-Is caused due to deficiency of the thyroid hormone in adults. ----?
+Which condition is caused due to the deficiency of the thyroid hormone specifically in adults ----?

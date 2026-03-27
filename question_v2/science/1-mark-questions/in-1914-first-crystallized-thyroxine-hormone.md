@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Frederick Sanger
+  - Charles Best
+  - George Barger
 answers:
-  - TBD
+  - Edward C. Kendall
 ---
 
-In 1914 first crystallized thyroxine hormone----?
+In 1914, who first crystallized the thyroxine hormone ----?

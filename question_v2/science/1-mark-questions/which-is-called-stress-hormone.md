@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Insulin
+  - Oxytocin
+  - Melatonin
 answers:
-  - TBD
+  - Adrenaline (or Cortisol)
 ---
 
-which is called stress hormone----?
+Which hormone is known as the "Emergency hormone" or "Stress hormone" because it prepares the body for "Fight, Flight, or Fright"?

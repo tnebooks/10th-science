@@ -1,10 +1,9 @@
 ---
 choices:
-  - "kJ/mol"
-  - "kJmol-1"
   - "kg"
 answers:
-  - "both a&b"
+  - "kJ/mol"
+  - "kJmol-1"
 ---
 
 The unit of ionization energy is ------------

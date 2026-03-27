@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Auxin
+  - Cytokinin
+  - Gibberellin
 answers:
-  - TBD
+  - Abscisic acid (ABA)
 ---
 
-Hastens the senescence of leaves and flowers----?
+______ hastens the senescence of leaves and flowers?

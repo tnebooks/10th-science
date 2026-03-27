@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - LH (Luteinizing Hormone)
+  - Prolactin
+  - Estrogen
 answers:
-  - TBD
+  - FSH (Follicle Stimulating Hormone)
 ---
 
-In male, stimulates the germinal epithlium of testes for formation of sperms----?
+In males, ______ stimulates the germinal epithelium of the testes for the formation of sperms ----?

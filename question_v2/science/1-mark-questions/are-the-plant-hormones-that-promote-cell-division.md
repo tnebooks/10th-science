@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Auxins
+  - Gibberellins
+  - Abscisic acid
 answers:
-  - TBD
+  - Cytokinins
 ---
 
-Are the plant hormones that promote cell division or cytokinesis----?
+Are the plant hormones that promote cell division or cytokinesis ----?

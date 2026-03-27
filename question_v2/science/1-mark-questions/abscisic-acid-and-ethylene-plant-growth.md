@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Stimulate
+  - Promote
+  - Accelerate
 answers:
-  - TBD
+  - Inhibit
 ---
 
-Abscisic acid and ethylene plant growth----?
+Abscisic acid and ethylene plant growth ----?

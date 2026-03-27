@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Bone
+  - Cartilage
+  - Skin
 answers:
-  - TBD
+  - Brain and Spinal cord
 ---
 
-Central nervous system has and delicate vital structures---?
+Central nervous system has and delicate vital structures ----?

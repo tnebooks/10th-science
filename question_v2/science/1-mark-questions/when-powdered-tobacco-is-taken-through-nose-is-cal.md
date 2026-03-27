@@ -1,7 +1,10 @@
 ---
-choices: []
+choices:
+  - Smoking
+  - Chewing
+  - Injecting
 answers:
-  - TBD
+  - Snuffing
 ---
 
-When powdered tobacco is taken through nose, is called----? Snuffing
+When powdered tobacco is taken through the nose, it is called ----?
