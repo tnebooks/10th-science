@@ -1,10 +1,10 @@
 ---
 choices:
-  - "'Denser, rarer'"
+  - "Denser, rarer"
   - "Both Denser"
   - "None"
 answers:
-  - "'Rarer, denser'"
+  - "Rarer, denser"
 ---
 
 The velocity of light is more in a ------ "medium and less in a ---- medium."

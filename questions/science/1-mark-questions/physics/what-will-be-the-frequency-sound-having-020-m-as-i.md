@@ -7,4 +7,4 @@ answers:
   - "1655 Hz"
 ---
 
-What will be the frequency sound having 0.20 m as its wavelength when it travels with a speed of 331ms1?
+What will be the frequency sound having 0.20 m as its wavelength when it travels with a speed of 331ms⁻¹?

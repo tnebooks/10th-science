@@ -2,7 +2,6 @@
 choices:
   - "Acetone"
   - "Alcohol"
-  - "All the above"
 answers:
   - "Water"
 ---
