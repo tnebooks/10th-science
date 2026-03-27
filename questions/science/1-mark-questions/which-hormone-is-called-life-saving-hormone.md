@@ -1,6 +1,6 @@
 ---
 choices:
-    - "Insulin"
+  - "Insulin"
   - "Aldosterone"
   - "Thymosin"
 answers:

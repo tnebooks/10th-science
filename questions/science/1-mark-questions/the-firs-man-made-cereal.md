@@ -4,7 +4,7 @@ choices:
   - "Wheat"
   - "Maize"
 answers:
-  - "Triticale
+  - "Triticale"
 ---
 
 The firs man – made cereal----?
