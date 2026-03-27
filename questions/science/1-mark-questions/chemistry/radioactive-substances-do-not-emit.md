@@ -2,7 +2,6 @@
 choices:
   - "Electron"
   - "Neutron"
-  - "All the above"
 answers:
   - "Proton"
 ---
