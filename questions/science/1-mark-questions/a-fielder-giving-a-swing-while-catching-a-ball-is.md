@@ -1,10 +1,10 @@
 ---
 choices:
   - "Inertia"
-  - "Newton‘s II law"
+  - "Impulse"
   - "Newton’s I law"
 answers:
-  - "Impulse"
+  - "Newton‘s II law"
 ---
 
 A fielder giving a swing while catching a ball is an example of ------?

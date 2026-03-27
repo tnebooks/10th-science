@@ -1,8 +1,8 @@
 ---
 choices:
-  - ஆக
-  - எம்.ஜி
-  - அல்
+  - Ag
+  - Mg
+  - Al
 answers:
   - Hg
 ---

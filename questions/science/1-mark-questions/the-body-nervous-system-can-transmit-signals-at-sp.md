@@ -1,10 +1,9 @@
 ---
 choices:
-  - 350km/h
-  - '220'
-  - 220mph
+  - "220"
+  - "220mph"
 answers:
-  - both a& c
+  - "350km/h"
 ---
 
 The body nervous system can transmit signals at speeds of ------?

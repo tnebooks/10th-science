@@ -1,10 +1,10 @@
 ---
 choices:
   - "Torque"
-  - "Linear momentum"
+  - "Impulse"
   - "Balanced force"
 answers:
-  - "Impulse"
+   - "Linear momentum"
 ---
 
 The ------- "measures the impact of a force on a body."
