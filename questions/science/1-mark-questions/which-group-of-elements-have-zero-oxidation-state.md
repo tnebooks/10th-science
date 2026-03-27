@@ -1,10 +1,10 @@
 ---
 choices:
   - '17'
-  - '18'
   - '15'
-answers:
   - '16'
+answers:
+  - '18'
 ---
 
 Which group of elements have zero oxidation state?

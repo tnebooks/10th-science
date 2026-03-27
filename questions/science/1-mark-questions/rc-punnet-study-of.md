@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Genetics"
+  - "Evolution"
   - "Biogenesis"
   - "Chemical Evolution"
 answers:
-  - "Evolution"
+  - "Genetics"
 ---
 
 R.C Punnet study of -------?

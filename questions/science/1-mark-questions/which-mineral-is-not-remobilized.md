@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Potassium"
+  - "Phosphorous"
   - "Nitrogen"
   - "Calcium"
 answers:
-  - "Phosphorous"
+  - "Potassium"
 ---
 
 Which mineral is not remobilized?

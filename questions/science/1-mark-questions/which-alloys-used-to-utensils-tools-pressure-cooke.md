@@ -1,10 +1,9 @@
 ---
 choices:
   - "Magnalium"
-  - "Duralumin"
+  - "Bronze"
   - "Brass"
 answers:
-  - "Bronze"
+  - "Duralumin"
 ---
-
 Which Alloys used to Utensils, tools, pressure cookers -----?

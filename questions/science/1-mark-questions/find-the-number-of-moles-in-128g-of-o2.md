@@ -7,4 +7,4 @@ answers:
   - "4 moles"
 ---
 
-Find the number of moles in 128g of O2------?
+Find the number of moles in 128g of $O_2$ ------?

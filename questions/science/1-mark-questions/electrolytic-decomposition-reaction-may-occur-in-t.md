@@ -1,10 +1,9 @@
 ---
 choices:
-  - Heat
-  - None
-  - Both a and b
+  - 'None'
 answers:
-  - Both a and c
+  - 'Light'
+  - 'Heat'
 ---
 
 Electrolytic decomposition reaction may occur in the presence of -----?

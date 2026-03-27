@@ -1,10 +1,10 @@
 ---
 choices:
   - "184g"
-  - "95g"
+  - "48g"
   - "80g"
 answers:
-  - "48g"
+  - "95g"
 ---
 
 The solubility of Sodium bromide in 100g of water is -----?

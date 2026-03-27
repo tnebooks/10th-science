@@ -1,10 +1,10 @@
 ---
 choices:
   - "John Dalton"
-  - "Chadwick"
+  - "J.J. Thomson"
   - "Rutherford"
 answers:
-  - "J.J. Thomson"
+  - "Chadwick"
 ---
 
 Who is discovered by Charge less particle?

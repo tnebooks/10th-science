@@ -2,7 +2,6 @@
 choices:
   - "Negative"
   - "Zero"
-  - "Both a &b"
 answers:
   - "Positive"
 ---

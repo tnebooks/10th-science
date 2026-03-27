@@ -2,9 +2,9 @@
 choices:
   - "Alpha"
   - "Beta"
-  - "Gamma"
 answers:
-  - "All of these"
+  - "Gamma"
+
 ---
 
 Which hazardous radiation is the cause for genetic disease?

@@ -2,7 +2,6 @@
 choices:
   - "Endothermic"
   - "Displacement reaction"
-  - "Both a and b"
 answers:
   - "Exothermic"
 ---

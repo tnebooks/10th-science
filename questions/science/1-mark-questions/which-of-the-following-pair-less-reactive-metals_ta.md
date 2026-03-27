@@ -2,7 +2,6 @@
 choices:
   - "'Na, K, Ca, Mg, Al'"
   - "'Zn, Fe, Pb, Cu'"
-  - "மேலே உள்ள அனைத்தும்"
 answers:
   - "'ஏஜி, எச்ஜி'"
 ---

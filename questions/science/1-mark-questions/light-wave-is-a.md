@@ -1,7 +1,6 @@
 ---
 choices:
   - "Longitudinal"
-  - "Both a and b"
   - "None"
 answers:
   - "Transverse"

@@ -1,10 +1,10 @@
 ---
 choices:
   - "Uranium"
-  - "Lead"
   - "polonium"
-answers:
   - "Radium"
+answers:
+  - "Lead"
 ---
 
 Which element used for artificial radioactivity?

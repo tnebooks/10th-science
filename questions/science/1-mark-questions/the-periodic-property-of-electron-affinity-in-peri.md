@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Increases"
   - "Remains same"
   - "Zero"
-answers:
   - "Decreases"
+answers:
+  - "Increases"
 ---
 
 The periodic property of Electron affinity in periods of -----?
