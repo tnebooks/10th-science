@@ -8,8 +8,7 @@ answers:
 ---
 
 
-The name of {{< katex >}} (CH_3CHO) {{</ katex >}} is:
-
+The name of $ \text{CH}_3\text{CHO} $ is:
 
 ```markdown
   CH3CHO is ethanal, which contains the -CHO functional group characteristic of

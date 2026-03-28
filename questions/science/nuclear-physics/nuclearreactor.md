@@ -8,8 +8,6 @@ answers:
 ---
 
 
----
-
 Kamini reactor is located at __________
 
 

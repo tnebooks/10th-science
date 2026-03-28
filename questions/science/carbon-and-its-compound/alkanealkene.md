@@ -8,7 +8,7 @@ answers:
 ---
 
 
-The type of compound with the molecular formula {{< katex >}} (C_3H_6) {{</ katex >}} is:
+The type of compound with the molecular formula $ \text{C}_3\text{H}_6 $ is:
 
 
 ```markdown
