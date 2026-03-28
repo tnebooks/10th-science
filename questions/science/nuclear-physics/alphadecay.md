@@ -1,10 +1,10 @@
 ---
 choices:
-  - "'8, 6'"
-  - "'4, 8'"
-  - "cannot be determined with the given data"
+  - '8, 6'
+  - '4, 8'
+  - 'cannot be determined with the given data'
 answers:
-  - "'8, 4'"
+  - '8, 4'
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - "'-ol'"
-  - "'-oic acid'"
-  - "'-one'"
+  - '- ol'
+  - '- oic acid'
+  - '- one'
 answers:
-  - "'-al'"
+  - '- al'
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 choices:
-  - "7x 10-6 J"
-  - "2.5x 10-6J"
-  - "20.7x 10-6J"
+  - $ 7 \times 10^{-6} \, \text{J} $
+  - $ 2.5 \times 10^{-6} \, \text{J} $
+  - $ 20.7 \times 10^{-6} \, \text{J} $
+
 answers:
-  - "1.6x 10-6J"
+  - $ 1.6 \times 10^{-6} \, \text{J} $
 ---
 
 1eV is equal to-----?
