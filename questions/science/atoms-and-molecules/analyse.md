@@ -8,7 +8,7 @@ answers:
 ---
 
 
-11. Analyse the following and choose the correct statement(s)
+Analyse the following and choose the correct statement(s)
 i) An electron has considerable mass
 ii) A hetero atomic molecule is formed from different kinds of atoms.
 iii) Mass number and atomic mass of an element are same
