@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Strawberry"
+  - "Bryophyllum"
   - "Agave"
   - "Asparagus"
 answers:
-   - "Bryophyllum"
+   - "Strawberry"
 ---
 
 Example for vegetative reproduction takes takes through root is----?

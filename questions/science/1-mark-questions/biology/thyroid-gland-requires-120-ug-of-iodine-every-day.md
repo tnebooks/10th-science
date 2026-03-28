@@ -7,4 +7,4 @@ answers:
   - 120 µg
 ---
 
-The thyroid gland requires approximately ---- of iodine every day for the production of thyroxine?
+How many micrograms (µg) of iodine does the thyroid gland require daily for the production of thyroxine?
