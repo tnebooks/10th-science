@@ -10,6 +10,8 @@ answers:
 
 Identify the conducting tissues by using the arrow marks (referencing standard plant transport diagrams)
 
+![](imgex.png)
+
 ```markdown
   In standard diagrams of a plant stem or leaf, Xylem (A) is typically 
   the tissue that conducts water and minerals upward from the roots, while 
