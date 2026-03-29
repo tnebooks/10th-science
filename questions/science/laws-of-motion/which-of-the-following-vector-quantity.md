@@ -2,7 +2,6 @@
 choices:
   - "Temperature"
   - "Thermal energy"
-  - "All the above"
 answers:
   - "Force"
 ---
