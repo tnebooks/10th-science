@@ -8,4 +8,4 @@ answers:
 explanation: CH₃CHO இன் பெயர் ஆல்டிஹைடு ஆகும்.
 ---
 
-{{< katex >}} (CH_3CHO) {{</ katex >}} இன் பெயர்:
+$ \text{CH}_3\text{CHO} $ இன் பெயர்:
