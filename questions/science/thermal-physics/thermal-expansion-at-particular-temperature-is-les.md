@@ -2,7 +2,6 @@
 choices:
   - "Gas"
   - "Liquid"
-  - "All the above"
 answers:
   - "Solid"
 ---
