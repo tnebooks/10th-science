@@ -8,9 +8,9 @@ answers:
 ---
 
 
-{{< katex display=true >}}
+$$
 (\text{X}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow \text{XCl}_{2(aq)} + \text{H}_{2(g)})
-{{< /katex >}}  
+$$  
 
 மேலுள்ள ஒற்றை மாற்று வினையில் X ஆக இருப்பது எது?
 

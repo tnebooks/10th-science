@@ -14,10 +14,6 @@ references:
 categories:
     - transportation-in-plants-and-circulation-in-animals
 ---
-# அலகு 14
-# தாவரங்களின் கடத்துதல் மற்றும் விலங்குகளின் சுற்றோட்டம்
-
----
 
 ## கற்றல் நோக்கங்கள்
 

@@ -14,7 +14,7 @@ references:
 categories:
     - nervous-system
 ---
-# அலகு 15 : நரம்பு மண்டலம் 
+
 
 ## அறிமுகம் 
 

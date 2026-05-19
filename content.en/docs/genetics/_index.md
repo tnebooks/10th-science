@@ -62,11 +62,11 @@ Crosses involving inheritance of only one pair of contrasting characters are cal
 ### Mendel's Explanation of Monohybrid Cross
 **Parental generation:** Pure breeding tall plant and a pure breeding dwarf plant.
 
-**{{< katex >}}F_{1}{{< /katex >}} generation:** Plants raised from the seeds of pure breeding parental cross in {{< katex >}}F_{1}{{< /katex >}} generation were tall and monohybrids.
+**$$F_{1}$$ generation:** Plants raised from the seeds of pure breeding parental cross in $$F_{1}$$ generation were tall and monohybrids.
 
-**{{< katex >}}F_{2}{{< /katex >}} generation:** Selfing of the {{< katex >}}F_{1}{{< /katex >}} monohybrids resulted in tall and dwarf plants respectively in the ratio of 3:1. The actual number of tall and dwarf plants obtained by Mendel was 787 tall and 277 dwarf. External expression of a particular trait is known as phenotype. So the phenotypic ratio is 3:1.
+**$$F_{2}$$ generation:** Selfing of the $$F_{1}$$ monohybrids resulted in tall and dwarf plants respectively in the ratio of 3:1. The actual number of tall and dwarf plants obtained by Mendel was 787 tall and 277 dwarf. External expression of a particular trait is known as phenotype. So the phenotypic ratio is 3:1.
 
-In the {{< katex >}}F_{2}{{< /katex >}} generation 3 different types were obtained:
+In the $$F_{2}$$ generation 3 different types were obtained:
 - Tall Homozygous - TT (Pure) - 1
 - Tall Heterozygous - Tt - 2
 - Dwarf Homozygous - tt - 1
@@ -83,7 +83,7 @@ Based on these observations it was confirmed by Mendel that 'factors' are passed
 
 1. Two factors making up a pair of contrasting characters are called alleles. Phenotypic expression of alleles are called allelomorphs. One member of each pair is contributed by one parent.
 2. When two factors for alternative expression of a trait are brought together by fertilization. The character which expresses itself is called dominant (Tallness) condition and that which is masked is called recessive condition (Dwarfness).
-3. The factors are always pure and when gametes are formed, the unit factors segregate so that each gamete gets one of the two alternative factors. It means that factors for tallness(T) and dwarfness(t) are separate entities and in a gamete either T or t is present. When {{< katex >}}F_{1}{{< /katex >}} hybrids are self crossed the two entities separate and then unite independently, forming tall and dwarf plants.
+3. The factors are always pure and when gametes are formed, the unit factors segregate so that each gamete gets one of the two alternative factors. It means that factors for tallness(T) and dwarfness(t) are separate entities and in a gamete either T or t is present. When $$F_{1}$$ hybrids are self crossed the two entities separate and then unite independently, forming tall and dwarf plants.
 
 > **Info bits**
 > Punnett square is a checker board form devised by a British geneticist R.C.Punnett for study of genetics. It is a graphical representation to calculate the probability of all possible genotypes of offsprings in a genetic cross.
@@ -96,21 +96,21 @@ Dihybrid cross involves the inheritance of two pairs of contrasting characterist
 
 Mendel crossed pea plants having round-yellow seeds with pea plants having wrinkled-green seeds. Mendel made the following observations:
 
-1. Mendel first crossed pure breeding pea plants having round-yellow seeds with pure breeding pea plants having wrinkled-green seeds and found that only round-yellow seeds were produced in the first generation {{< katex >}}(F_{1}){{< /katex >}}. No wrinkled-green seeds were obtained in the {{< katex >}}F_{1}{{< /katex >}} generation. From this it was concluded that round shape and yellow colour of the seeds were dominant traits over the wrinkled shape and green color of the seeds.
-2. When the hybrids of {{< katex >}}F_{1}{{< /katex >}} generation pea plants having round-yellow seeds were cross-bred by self pollination, then four types of seeds having different combinations of shape and color were obtained in second generation or {{< katex >}}F_{2}{{< /katex >}} generation. They were round yellow, round-green, wrinkled yellow and wrinkled-green seeds.
+1. Mendel first crossed pure breeding pea plants having round-yellow seeds with pure breeding pea plants having wrinkled-green seeds and found that only round-yellow seeds were produced in the first generation $$(F_{1})$$. No wrinkled-green seeds were obtained in the $$F_{1}$$ generation. From this it was concluded that round shape and yellow colour of the seeds were dominant traits over the wrinkled shape and green color of the seeds.
+2. When the hybrids of $$F_{1}$$ generation pea plants having round-yellow seeds were cross-bred by self pollination, then four types of seeds having different combinations of shape and color were obtained in second generation or $$F_{2}$$ generation. They were round yellow, round-green, wrinkled yellow and wrinkled-green seeds.
 
 ![](a3.png)
 
 **Figure 18.2** Dihybrid Cross
 
-The ratio of each phenotype (or appearance) of seeds in the {{< katex >}}F_{2}{{< /katex >}} generation is 9:3:3:1. This is known as the Dihybrid ratio.
+The ratio of each phenotype (or appearance) of seeds in the $$F_{2}$$ generation is 9:3:3:1. This is known as the Dihybrid ratio.
 
 From the above results it can be concluded that the factors for each character or trait remain independent and maintain their identity in the gametes. The factors are independent to each other and pass to the offsprings (through gametes).
 
 ### Results of a Dihybrid Cross:
 Mendel got the following results from his dihybrid cross
-1. **Four Types of Plants:** A dihybrid cross produced four types of {{< katex >}}F_{2}{{< /katex >}} offsprings in the ratio of 9 with two dominant traits, 3 with one dominant trait and one recessive trait, 3 with another dominant trait and another recessive trait and 1 with two recessive traits.
-2. **New Combination:** Two new combinations of traits with round green and wrinkled yellow had appeared in the dihybrid cross ({{< katex >}}F_{1}{{< /katex >}} generation).
+1. **Four Types of Plants:** A dihybrid cross produced four types of $$F_{2}$$ offsprings in the ratio of 9 with two dominant traits, 3 with one dominant trait and one recessive trait, 3 with another dominant trait and another recessive trait and 1 with two recessive traits.
+2. **New Combination:** Two new combinations of traits with round green and wrinkled yellow had appeared in the dihybrid cross ($$F_{1}$$ generation).
 
 ---
 
@@ -119,10 +119,10 @@ Mendel got the following results from his dihybrid cross
 Based on his experiments of monohybrid and dihybrid cross, Mendel proposed three important laws which are now called as Mendel's Laws of Heredity.
 
 **Law of Dominance:**
-"When two homozygous individuals with one or more sets of contrasting characters are crossed, the characters that appear in the {{< katex >}}F_{1}{{< /katex >}} hybrid are dominant and those that do not appear in {{< katex >}}F_{1}{{< /katex >}} are recessive characters".
+"When two homozygous individuals with one or more sets of contrasting characters are crossed, the characters that appear in the $$F_{1}$$ hybrid are dominant and those that do not appear in $$F_{1}$$ are recessive characters".
 
 **Law of Segregation or Law of purity of gametes:**
-"When a pair of contrasting factors are brought together in a {{< katex >}}F_{1}{{< /katex >}} hybrid. The two factors of the allelic pair remain together without mixing and when gametes are formed, the two separate out, so that only one enters each gamete."
+"When a pair of contrasting factors are brought together in a $$F_{1}$$ hybrid. The two factors of the allelic pair remain together without mixing and when gametes are formed, the two separate out, so that only one enters each gamete."
 
 **Law of independent assortment:**
 "In case of inheritance of two or more pairs of characters simultaneously, the factors or genes of one pair assort out independently of the other pair."
@@ -182,7 +182,7 @@ The eukaryotic chromosomes are classified into autosomes and allosomes.
 
 The number of chromosomes in any living organism (animal or plant) is constant. In human, each cell normally contains 23 pairs of chromosomes. Out of which 22 pairs are autosomes and the 23rd pair is the allosome or sex chromosome.
 
-In the body cells of sexually reproducing organisms, the chromosomes generally occur in pairs. This condition is called diploid {{< katex >}}(2n){{< /katex >}}. The gametes produced by the organisms contain a single set of chromosomes. Hence, the gametes are said to be haploid {{< katex >}}(n){{< /katex >}}.
+In the body cells of sexually reproducing organisms, the chromosomes generally occur in pairs. This condition is called diploid $$(2n)$$. The gametes produced by the organisms contain a single set of chromosomes. Hence, the gametes are said to be haploid $$(n)$$.
 
 Karyotype is the number, size and shape of chromosomes in the cell nucleus of an organism. Idiogram is the diagrammatic representation of karyotype of a species. It consists of all the metaphasic chromosomes arranged in homologous pairs according to decreasing length, thickness, position of centromere, shape etc., with the sex chromosomes placed at the end.
 
@@ -220,8 +220,8 @@ The nucleotides are formed according to the purines and pyrimidines present in t
 2. These chains form a double helix structure with two strands which run anti-parallel to one another.
 3. Nitrogenous bases in the centre are linked to sugar-phosphate units which form the backbone of the DNA.
 4. Pairing between the nitrogenous bases is very specific and is always between purine and pyrimidine linked by hydrogen bonds.
-   * Adenine (A) links Thymine (T) with two hydrogen bonds {{< katex >}}(A = T){{< /katex >}}
-   * Cytosine (C) links Guanine (G) with three hydrogen bonds {{< katex >}}(C \equiv G){{< /katex >}}
+   * Adenine (A) links Thymine (T) with two hydrogen bonds $$(A = T)$$
+   * Cytosine (C) links Guanine (G) with three hydrogen bonds $$(C \equiv G)$$
    This is called complementary base pairing.
 5. Hydrogen bonds between the nitrogenous bases make the DNA molecule stable.
 6. Each turn of the double helix is 34 Å (3.4 nm). There are ten base pairs in a complete turn.
@@ -294,14 +294,14 @@ The sudden change in the structure or number of chromosomes is called chromosoma
 **(ii) Changes in the number of chromosomes:** They involve addition or deletion in the number of chromosomes present in a cell. This is called ploidy. There are two types of ploidy:
 (a) Euploidy (b) Aneuploidy.
 
-**Euploidy:** It is the condition in which the individual bears more than the usual number of diploid {{< katex >}}(2n){{< /katex >}} chromosomes. If an individual has three haploid sets of chromosomes, the condition is called triploidy {{< katex >}}(3n){{< /katex >}}. Triploid plants and animals are typically sterile. If it has four haploid sets of chromosomes, the condition is called tetraploidy {{< katex >}}(4n){{< /katex >}}. Tetraploid plants are advantageous as they often result in increased fruit and flower size.
+**Euploidy:** It is the condition in which the individual bears more than the usual number of diploid $$(2n)$$ chromosomes. If an individual has three haploid sets of chromosomes, the condition is called triploidy $$(3n)$$. Triploid plants and animals are typically sterile. If it has four haploid sets of chromosomes, the condition is called tetraploidy $$(4n)$$. Tetraploid plants are advantageous as they often result in increased fruit and flower size.
 
 
 ![](a11.png)
 
 **Figure 18.10** Euploidy
 
-**Aneuploidy:** It is the loss or gain of one or more chromosomes in a set. It is of three types. Monosomy {{< katex >}}(2n-1){{< /katex >}}, Trisomy {{< katex >}}(2n+1){{< /katex >}} and Nullisomy {{< katex >}}(2n-2){{< /katex >}}. In man, Down's syndrome is one of the commonly known aneuploid condition.
+**Aneuploidy:** It is the loss or gain of one or more chromosomes in a set. It is of three types. Monosomy $$(2n-1)$$, Trisomy $$(2n+1)$$ and Nullisomy $$(2n-2)$$. In man, Down's syndrome is one of the commonly known aneuploid condition.
 
 **Down's syndrome**
 This condition was first identified by a doctor named Langdon Down in1866. It is a genetic condition in which there is an extra copy of chromosome 21 (Trisomy 21). It is associated with mental retardation, delayed development, behavioural problems, weak muscle tone, vision and hearing disability are some of the conditions seen in these children.
