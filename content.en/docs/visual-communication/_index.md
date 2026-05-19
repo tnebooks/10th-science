@@ -66,11 +66,8 @@ For example if the computer is operating on the Windows OS, we can collect our n
 
 As per it’s name we can type notes in ‘Notepad’ and save the created files in a folder. Likewise in the ‘Paint’ app we can draw and edit pictures. With these pictures, let us see how we can create image gallery, animations and graphics easily.
 
-![](<teacher%20(2).png>)
-
 Pictures and audio-visuals gives us more understanding than teaching and writing on the black board. Is it right?
 
-![](<teacher%20(1).png>)
 
 Instead of saying a story like ‘once upon a time there was a king’ we can understand the concept easily by seeing the video and also it registers firmly in the minds of the students.
 

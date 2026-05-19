@@ -1,10 +1,10 @@
 ---
 choices:
-  - "Sun"
-  - "Mercury vapour lamp"
+
   - "Sodium vapour lamp"
 answers:
-  - "both a and b"
+  - "Sun"
+  - "Mercury vapour lamp"
 ---
 
 The light which consists of light and various coloures or wavelength----?

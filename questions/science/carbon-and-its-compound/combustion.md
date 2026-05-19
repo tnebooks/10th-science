@@ -8,7 +8,7 @@ answers:
 ---
 
 
-The name of the reaction {{< katex >}} (C_2H_5OH + 3O_2 \rightarrow 2CO_2 + 3H_2O) {{</ katex >}} is:
+The name of the reaction $C_2H_5OH + 3O_2 \rightarrow 2CO_2 + 3H_2O$ is:
 
 
 ```markdown

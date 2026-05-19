@@ -8,9 +8,9 @@ answers:
 ---
 
 
-{{< katex display=true >}}
+$$
 (\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat})
-{{< /katex >}}  
+$$  
 
 மேலுள்ள வினை எந்த வகை(கள்) ஆக வகைப்படுத்தப்படுகிறது?
 

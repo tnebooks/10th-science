@@ -1,7 +1,6 @@
 ---
 choices:
   - "M=G R2/g"
-  - "இரண்டும் a&b"
   - "இல்லை"
 answers:
   - "M=gR2/G"

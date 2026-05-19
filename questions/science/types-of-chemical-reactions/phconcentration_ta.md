@@ -1,10 +1,11 @@
 ---
 choices:
-  - "{{< katex display=true >}} (1 \times 10^{-3}) {{< /katex >}} M"
-  - "3 M"
-  - "11 M"
+  - $$ 1 \times 10^{-3} \, \text{M} $$
+  - $$ 3 \, \text{M} $$
+  - $$ 11 \, \text{M} $$
+
 answers:
-  - "{{< katex display=true >}} (1 \times 10^{-11}) {{< /katex >}} M"
+  - $$ 1 \times 10^{-11} \, \text{M} $$
 ---
 
 

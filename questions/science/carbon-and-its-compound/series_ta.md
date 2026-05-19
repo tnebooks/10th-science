@@ -1,10 +1,10 @@
 ---
 choices:
-  - "C2H2 மற்றும் C2H4"
-  - "CH4 மற்றும் C3H6"
-  - "C2H5OH மற்றும் C4H8OH"
+  - "$C_2H_2$ and $C_2H_4$"
+  - "$CH_4$ and $C_3H_6$"
+  - "$C_2H_5OH$ and $C_4H_8OH$"
 answers:
-  - "C3H8 மற்றும் C4H10"
+  - "$C_3H_8$ and $C_4H_{10}$"
 ---
 
 

@@ -8,4 +8,4 @@ answers:
 explanation: C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O வினை எத்தனால் எரிதல் ஆகும்.
 ---
 
-{{< katex >}} (C_2H_5OH + 3O_2 \rightarrow 2CO_2 + 3H_2O) {{</ katex >}} வினையின் பெயர்:
+ $C_2H_5OH + 3O_2 \rightarrow 2CO_2 + 3H_2O$ வினையின் பெயர்:

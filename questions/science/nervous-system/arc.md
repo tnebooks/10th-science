@@ -1,10 +1,10 @@
 ---
 choices:
-  - "'brain, spinal cord, muscle'"
-  - "'receptor, muscle, spinal cord'"
-  - "'muscle, receptor, brain'"
+  - "brain, spinal cord, muscle"
+  - "receptor, muscle, spinal cord"
+  - "muscle, receptor, brain"
 answers:
-  - "'receptor, spinal cord, muscle'"
+  - "receptor, spinal cord, muscle"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 choices:
-  - "'away from, away from'"
-  - "'towards, towards'"
-  - "'away from, towards'"
+  - "away from, away from"
+  - "towards, towards"
+  - "away from, towards"
 answers:
-  - "'towards, away from'"
+  - "towards, away from"
 ---
 
 

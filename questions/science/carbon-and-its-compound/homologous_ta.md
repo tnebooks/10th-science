@@ -1,14 +1,10 @@
 ---
 choices:
-  - "{{< katex >}} (CH_4){{</ katex >}} ( மற்றும் ) {{< katex >}} (C_3H_6) {{</
-    katex >}}"
-  - "{{< katex >}} (C_2H_4){{</ katex >}} ( மற்றும் ) {{< katex >}} (C_3H_4) {{</
-    katex >}}"
-  - "{{< katex >}} (CH_4){{</ katex >}} ( மற்றும் ) {{< katex >}}( C_4H_{10})
-    {{</ katex >}}"
+  - "$CH_4$ and $C_3H_6$"
+  - "$C_2H_4$ and $C_3H_4$"
+  - "$CH_4$ and $C_4H_{10}$"
 answers:
-  - "{{< katex >}} (C_2H_5OH){{</ katex >}} ( மற்றும் ) {{< katex >}} (C_4H_9OH)
-    {{</ katex >}}"
+  - "$C_2H_5OH$ and $C_4H_9OH$"
 explanation: 'இவை ஒத்த வகைச் சேர்மங்கள் ஆகும், ஏனெனில் இரண்டும் ஆல்கோஹால் வகையில் உள்ளன.'
 ---
 

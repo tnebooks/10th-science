@@ -466,8 +466,6 @@ The 4R approach such as **Reduce, Reuse, Recovery and Recycle** may be followed 
 
 ## Concept Map
 
-![](8.png)
-
 ```text
 Environmental management
 ├── Conservation of Natural Resources

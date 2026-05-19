@@ -2,7 +2,6 @@
 choices:
   - "Frequency"
   - "Focal length"
-  - "All the above"
 answers:
   - "Wavelength"
 ---

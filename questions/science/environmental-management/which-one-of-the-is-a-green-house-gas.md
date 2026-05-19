@@ -1,10 +1,10 @@
 ---
 choices:
-  - "NO2"
-  - "SO2"
-  - "CO"
+  - "$NO_2$"
+  - "$SO_2$"
+  - "$CO$"
 answers:
-  - "CO2"
+  - "$CO_2$"
 ---
 
 Which one of the is a green house gas?
