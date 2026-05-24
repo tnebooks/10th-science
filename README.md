@@ -1,14 +1,7 @@
 ## 10th Science
 
-## Dev
-
 ```sh
-git clone https://github.com/csebooks/hugo-book themes/hugo-book
-
-hugo server --disableFastRender
-
-
-hugo server  --themesDir ../
+git clone https://github.com/gurukulams/design-system ../design-system
 ```
 
 in Linux
@@ -24,7 +17,7 @@ in Windows `Cmd`
 ```bash
 set QUESTIONS_FOLDER=%cd%\questions
 set PUBLIC_FOLDER=%cd%\public
-cd themes\hugo-book
+cd ..\design-system
 npm i
 npm run watch
 ```
