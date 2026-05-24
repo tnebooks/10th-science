@@ -56,30 +56,30 @@ When methane reacts with oxygen, it forms carbon dioxide and water. How can you 
 
 But, this equation does not give the chemical composition of the reactants and products. So, to learn the characteristics of a chemical reaction, it is represented by a chemical equation. In the chemical equation, the chemicals of the reaction are represented by their chemical formulas. The compounds or elements, which undergo reactions (reactants) are shown to the left of an arrow and the compounds formed (products) are shown to the right of the arrow. The arrow indicates the direction of the reaction. Thus, the aforesaid reaction can be written as follows:
 
-{{< katex display=true >}}
+$$
 (\text{CH}_4 + \text{O}_2 \rightarrow \text{CO}_2 + \text{H}_2\text{O})
-{{< /katex >}}
+$$
 
 But, this is also an incomplete chemical equation. Because, the law of conservation of matter states that matter cannot be created or destroyed. You cannot create new atoms by a chemical reaction. In contrast, they are rearranged in different ways by a chemical reaction to form a new compound. So, in a chemical equation, the number of atoms of the reactants and that of the products must be equal. The number of hydrogen and oxygen atoms in the reactants and the products are not equal in the given equation. On balancing the number of atoms, the following equation can be obtained:
 
-{{< katex display=true >}}
+$$
 (\text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O})
-{{< /katex >}}
+$$
 
 Further, the chemical equation provides information on the physical state of the substances and the conditions under which the reaction takes place.
 
-{{< katex display=true >}}
+$$
 (\text{CH}_{4(g)} + 2\text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + 2\text{H}_2\text{O}_{(g)})
-{{< /katex >}}
+$$
 
 A balanced chemical equation is the simplified representation of a chemical reaction which describes the chemical composition, physical state of the reactants and the products, and the reaction conditions.
 
 ### MORE TO KNOW
 The phases or the physical state of the substances in a chemical reaction are denoted in short form within a bracket, as the subscript of the formula, of the respective substances. For example, when solid potassium reacts with liquid water, it produces hydrogen gas and potassium hydroxide solution. All these information of the reaction is given in the chemical equation as shown below:
 
-{{< katex display=true >}}
+$$
 (2\text{K}_{(s)} + 2\text{H}_2\text{O}_{(l)} \rightarrow 2\text{KOH}_{(aq)} + \text{H}_{2(g)})
-{{< /katex >}}
+$$
 
 | Symbol | Phase or physical state |
 |:-------|:------------------------|
@@ -105,9 +105,9 @@ A combination reaction is a reaction in which two or more reactants combine to f
 
 **Example:** Hydrogen gas combines with chlorine gas to form hydrogen chloride gas.
 
-{{< katex display=true >}}
+$$
 (\text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)})
-{{< /katex >}}
+$$
 Depending on the chemical nature of the reactants, there are three classes of combination reactions:
 
 **Element + Element → Compound**
@@ -118,14 +118,14 @@ In this type of combination reaction, two elements react with one other to form 
 
  ![](1.2.png)
 
-{{< katex display=true >}}
-(\text{S}_{(s)} + \text{O}_{2(g)} \rightarrow \text{SO}_{2(g)}){{< /katex >}}
+$$
+(\text{S}_{(s)} + \text{O}_{2(g)} \rightarrow \text{SO}_{2(g)})$$
 
 **Example 2:** Sodium, a silvery-white metal, combines with chlorine, a pale yellow green gas, to form sodium chloride, an edible compound. Here one of the reactants is a metal (sodium) and the other (chlorine) is a nonmetal.
 
-{{< katex display=true >}}
+$$
 (2\text{Na}_{(s)} + \text{Cl}_{2(g)} \rightarrow 2\text{NaCl}_{(s)})
-{{< /katex >}}
+$$
 
 #### Test Yourself:
 Identify the possible combination reactions between the metals and non-metals given in the following table and write their balanced chemical equations:
@@ -138,17 +138,17 @@ Identify the possible combination reactions between the metals and non-metals gi
 
 In this case, a compound reacts with an element to form a new compound. For instance, phosphorous trichloride reacts with chlorine gas and forms phosphorous pentachloride.
 
-   {{< katex display=true >}}
+   $$
 (\text{PCl}_{3(l)} + \text{Cl}_{2(g)} \rightarrow \text{PCl}_{5(s)})
-{{< /katex >}}
+$$
 
 #### Compound + Compound → Compound
 
 It is a reaction between two compounds to form a new compound. In the following reaction, silicon dioxide reacts with calcium oxide to form calcium silicate.
 
-  {{< katex display=true >}}
+  $$
 (\text{SiO}_{2(s)} + \text{CaO}_{(s)} \rightarrow \text{CaSiO}_{3(s)})
-{{< /katex >}}
+$$
 
 Most of the combination reactions are exothermic in nature. Because, they involve the formation of new bonds, which releases a huge amount of energy in the form of heat.
 
@@ -176,15 +176,15 @@ There are three main classes of decomposition reactions. They are:
 
 In this type of reaction, the reactant is decomposed by applying heat. For example, on heating mercury (II) oxide is decomposed into mercury metal and oxygen gas. As the molecule is dissociated by the absorption of heat, it is otherwise called 'Thermolysis'. It is a class of compound to element/element decomposition. i.e. a compound (HgO) is decomposed into two elements (Hg and Oxygen).
 
-   {{< katex display=true >}}
+   $$
 (2\text{HgO}_{(s)} \xrightarrow{\text{Heat}} 2\text{Hg}_{(l)} + \text{O}_{2(g)})
-{{< /katex >}}
+$$
 
 Similarly, when calcium carbonate is heated, it breaks down into calcium oxide and carbon dioxide. It is a type of compound to compound/compound decomposition.
 
-  {{< katex display=true >}}
+  $$
 (\text{CaCO}_{3(s)} \xrightarrow{\text{Heat}} \text{CaO}_{(s)} + \text{CO}_{2(g)})
-{{< /katex >}}
+$$
 
 In thermal decomposition reaction, heat is supplied to break the bonds. Such reactions, in which heat is absorbed, are called 'Endothermic reactions'.
 
@@ -192,9 +192,9 @@ In thermal decomposition reaction, heat is supplied to break the bonds. Such rea
 
 In some of the decomposition reactions, electrical energy is used to bring about the reaction. For example, decomposition of sodium chloride occurs on passing electric current through its aqueous solution. Sodium chloride decomposes into metallic sodium and chlorine gas. This process is termed as 'Electrolysis'.
 
-{{< katex display=true >}}
+$$
 (2\text{NaCl}_{(aq)} \xrightarrow{\text{Electricity}} 2\text{Na}_{(s)} + \text{Cl}_{2(g)})
-{{< /katex >}}
+$$
 
 
 Here, a compound (NaCl) is converted into elements (Na and chlorine). So it is a type of compound to element/element decomposition.
@@ -203,9 +203,9 @@ Here, a compound (NaCl) is converted into elements (Na and chlorine). So it is a
 
 Light is an another form of energy, which facilitates some of the decomposition reactions. For example, when silver bromide is exposed to light, it breaks down into silver metal and bromine gas. As the decomposition is caused by light, this kind of reaction is also called 'Photolysis'.
 
-   {{< katex display=true >}}
+   $$
 (2\text{AgBr}_{(s)} \xrightarrow{\text{Light}} 2\text{Ag}_{(s)} + \text{Br}_{2(g)})
-{{< /katex >}}
+$$
 
 ![](1.png)
 
@@ -224,13 +224,13 @@ It is a reaction between an element and a compound. When they react, one of the 
 
 'A' displaces element 'B' from the compound 'BC' and hence a single displacement reaction occurs. If zinc metal is placed in hydrochloric acid, hydrogen gas is evolved. Here, hydrogen is displaced by zinc metal and zinc chloride is formed.
 
-{{< katex display=true >}}
+$$
 (\text{Zn}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow \text{ZnCl}_{2(aq)} + \text{H}_{2(g)})
-{{< /katex >}}
+$$
 
-{{< katex display=true >}}
+$$
 (\text{Fe}_{(s)} + \text{CuSO}_{4(aq)} \rightarrow \text{FeSO}_{4(aq)} + \text{Cu}_{(s)})
-{{< /katex >}}
+$$
 
 
 If an iron nail is placed in an aqueous solution of copper (II) sulphate as shown in Fig. 10.2, the iron displaces copper from its aqueous solution and the so formed copper deposits over the iron nail.
@@ -505,9 +505,9 @@ In a reversible reaction, both forward and backward reactions take place simulta
 
 **Chemical Equilibrium:** It is state of a reversible chemical reaction in which no change in the amount of the reactants and products takes place. At equilibrium,
 
-{{< katex display=true >}}
+$$
 (\text{Rate of forward reaction} = \text{Rate of backward reaction})
-{{< /katex >}}
+$$
 
 Explanation: Initially the rate of the forward reaction is greater than the rate of the backward reaction. However, during the course of reaction, the concentration of the reactants decreases and the concentration of the products increases. Since the rate of a reaction is directly proportional to the concentration, the rate of the forward reaction decreases with time, whereas the rate of the backward reaction increases.
 
@@ -525,9 +525,9 @@ At this stage, the volume of the liquid and gaseous phases remain constant. Sinc
 
 **Physical equilibrium** is a state of a physical change at which the volume of all the phases remain unchanged.
 
-{{< katex display=true >}}
+$$
 (\text{H}_2\text{O}_{(l)} \underset{\text{Condensation}}{\stackrel{\text{Evaporation}}{\rightleftharpoons}} \text{H}_2\text{O}_{(g)})
-{{< /katex >}}
+$$
 
 ![](6.png)
 
@@ -549,9 +549,9 @@ At this stage, the volume of the liquid and gaseous phases remain constant. Sinc
 
 Although pure water is often considered as a non-conductor of electricity, precise measurements show that it conducts electricity to a little extent. This conductivity of water has resulted from the self-ionisation of water. Self-ionisation or auto ionisation is a reaction in which two like molecules react to give ions. In the process of ionisation of water, a proton from one water molecule is transferred to another water molecule leaving behind an OH⁻ ion. The proton gets dissolved in water forming the hydronium ion as shown in the following equation:
 
-{{< katex display=true >}}
+$$
 (2\text{H}_2\text{O}_{(l)} \rightleftharpoons \text{H}_3\text{O}^+_{(aq)} + \text{OH}^-_{(aq)})
-{{< /katex >}}
+$$
 
 ![](1.8.png)
 
@@ -691,12 +691,12 @@ $$\mathrm{pH} = 14 - 11.76 = 2.24$$
 
 **Solution:** HCl is a strong acid and is completely dissociated in its solutions according to the process:
 
-{{< katex display=true >}}
+$$
 ([\text{H}^+] = 1 \times 10^{-3} \text{ mol litre}^{-1})
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 (\text{pH} = -\log_{10}[10^{-3}] = 3)
-{{< /katex >}}
+$$
 
 
 From this process it is clear that one mole of HCl would give one mole of H⁺ ions. Therefore, the concentration of H⁺ ions would be equal to that of HCl, i.e., 0.001 molar or 1.0 × 10⁻³ mol litre⁻¹.
@@ -717,12 +717,12 @@ Thus, pH = 3
 
 **Solution:** Sulphuric acid dissociates in water as:
 
-{{< katex display=true >}}
+$$
 ([\text{H}^+] = 1.0 \times 10^{-4} \text{ mol litre}^{-1})
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 (\text{pH} = 4)
-{{< /katex >}}
+$$
 
 Each mole of sulphuric acid gives two mole of H⁺ ions in the solution. One litre of H₂SO₄ solution contains 5 × 10⁻⁵ moles of H₂SO₄ which would give 2 × 5 × 10⁻⁵ = 10 × 10⁻⁵ or 1.0 × 10⁻⁴ moles of H⁺ ion in one litre of the solution.
 
@@ -741,15 +741,15 @@ $$\mathrm{pH} = -\log_{10}[\mathrm{H^+}] =
 
 **Solution:** NaOH is a strong base and dissociates in its solution as:
 
-{{< katex display=true >}}
+$$
 ([\text{OH}^-] = 1 \times 10^{-4} \text{ mol litre}^{-1})
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 (\text{pOH} = 4)
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 (\text{pH} = 14 - 4 = 10)
-{{< /katex >}}
+$$
 
 One mole of NaOH would give one mole of OH⁻ ions. Therefore,
 

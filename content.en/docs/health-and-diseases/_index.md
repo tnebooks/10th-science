@@ -328,9 +328,9 @@ Carbohydrates is maintained to about **50-55%** of the total calories. High prot
 
 Obesity occurs if intake of calories is more than the expenditure of energy. Over weight and obesity are conditions where the body weight is greater than the mean standard weight for age and height of an individual. **Body mass index (BMI)** is an estimate of body fat and health risk.
 
-{{< katex display=true >}}
+$$
 \mathrm{BMI} = \mathrm{Weight}\left(\mathrm{kg}\right) / \mathrm{Height}\left(\mathrm{m}\right)^{2}
-{{< /katex >}}
+$$
 
 > **More to Know**
 >

@@ -17,33 +17,33 @@ answers:
   இது அசல் விசையிலிருந்து $1/4$ பங்கு ஆகும்.
 
   
-{{< katex display=true >}}
+$$
 m_1 \quad \underset{r}{\underline{\hspace{4cm}}} \quad m_2
-{{< /katex >}}
+$$
 
-{{< katex display=true >}}
+$$
 m_1 \quad \underset{2r}{\underline{\hspace{4cm}}} \quad m_2
-{{< /katex >}}
+$$
 
-{{< katex display=true >}}
+$$
 F = G \frac{m_1 m_2}{r^2}
-{{< /katex >}}
+$$
 
-{{< katex display=true >}}
+$$
 F^{\prime} = G \frac{m_1 m_2}{(2r)^2}
-{{< /katex >}}
+$$
 
-{{< katex display=true >}}
+$$
 F^{\prime} = G \frac{m_1 m_2}{4r^2}
-{{< /katex >}}
+$$
 
-{{< katex display=true >}}
+$$
 F^{\prime} = \frac{F}{4}
-{{< /katex >}}
+$$
 
 **விடை:**
 
-{{< katex display=true >}}
+$$
 F^{\prime} = \frac{F}{4}
-{{< /katex >}}
+$$
 ```

@@ -80,33 +80,33 @@ If you denote the parent and daughter nuclei as X and Y respectively, then the n
 
 **Example:**
 
-{{< katex display=true >}}
+$$
 _{4}\mathrm{Be}^{9} + _{2}\mathrm{He}^{4} \rightarrow _{6}\mathrm{C}^{13*}
-{{< /katex >}}
+$$
 
-{{< katex display=treu >}}
+$$
 _{6}\mathrm{C}^{13*}\rightarrow _{6}\mathrm{C}^{12} + _{0}\mathrm{n}^{1}
-{{< /katex >}}
+$$
 
 
-In the above nuclear reaction,{{< katex display=true >}} _{6}\mathrm{C}^{13*} {{< /katex >}}is unstable and is radioactive. This reaction can be represented as (α,n).
+In the above nuclear reaction,$$ _{6}\mathrm{C}^{13*} $$is unstable and is radioactive. This reaction can be represented as (α,n).
 
 ### 6.1.5 Units of Radioactivity
 
-**Curie:** It is the traditional unit of radioactivity. It is defined as the quantity of a radioactive substance which undergoes {{< katex display=true >}}3.7 \times 10^{10} {{< /katex >}}disintegrations in one second. This is actually close to the activity of 1g of radium 226.
-{{< katex display=true >}}
+**Curie:** It is the traditional unit of radioactivity. It is defined as the quantity of a radioactive substance which undergoes $$3.7 \times 10^{10} $$disintegrations in one second. This is actually close to the activity of 1g of radium 226.
+$$
 1 \text{ curie} = 3.7 \times 10^{10} \text{ disintegrations per second}
-{{< /katex >}}
+$$
 
 **Rutherford (Rd):** It is another unit of radioactivity. It is defined as the quantity of a radioactive substance, which produces 10^{6} disintegrations in one second.
-{{< katex display=true >}}
+$$
 1 \text{ Rd} = 10^{6} \text{ disintegrations per second}
-{{< /katex >}}
+$$
 
 **Becquerel (Bq):** It is the SI unit of radioactivity. It is defined as the quantity of one disintegration per second.
 
-**Roentgen (R):** It is the radiation exposure of γ and x-rays is measured by another unit called roentgen. One roentgen is defined as the quantity of radioactive substance which produces a charge of {{< katex display=true >}}2.58 \times 10^{-4}
-{{< /katex >}}coulomb in 1 kg of air under standard conditions of pressure, temperature and humidity.
+**Roentgen (R):** It is the radiation exposure of γ and x-rays is measured by another unit called roentgen. One roentgen is defined as the quantity of radioactive substance which produces a charge of $$2.58 \times 10^{-4}
+$$coulomb in 1 kg of air under standard conditions of pressure, temperature and humidity.
 
 ---
 
@@ -144,9 +144,9 @@ In 1913, Soddy and Fajan framed the displacement laws governing the daughter nuc
 
 A nuclear reaction in which an unstable parent nucleus emits an alpha particle and forms a stable daughter nucleus, is called **'alpha decay'**.
 
-**E.g.:** Decay of uranium {{< katex display=true >}}(\mathrm{U}^{238}) to thorium (\mathrm{Th}^{234}) {{< /katex >}}with the emission of an alpha particle.
-{{< katex display=true >}}
-_{92}\mathrm{U}^{238} \rightarrow _{90}\mathrm{Th}^{234} + _{2}\mathrm{He}^{4} \text{ (α-decay)}{{< /katex >}}
+**E.g.:** Decay of uranium $$(\mathrm{U}^{238}) to thorium (\mathrm{Th}^{234}) $$with the emission of an alpha particle.
+$$
+_{92}\mathrm{U}^{238} \rightarrow _{90}\mathrm{Th}^{234} + _{2}\mathrm{He}^{4} \text{ (α-decay)}$$
 
 In α-decay, the parent nucleus emits an α particle and so it is clear that for the daughter nucleus, the mass number decreases by four and the atomic number decreases by two.
 
@@ -159,8 +159,8 @@ _Figure 6.1 Alpha decay_
 A nuclear reaction, in which an unstable parent nucleus emits a beta particle and forms a stable daughter nucleus, is called **'beta decay'**.
 
 **E.g.:** Beta decay of phosphorous.
-{{< katex display=true >}}
-_{15}\mathrm{P}^{32} \rightarrow _{16}\mathrm{S}^{32} + _{-1}\mathrm{e}^{0} \text{ (β-decay)}{{< /katex >}}
+$$
+_{15}\mathrm{P}^{32} \rightarrow _{16}\mathrm{S}^{32} + _{-1}\mathrm{e}^{0} \text{ (β-decay)}$$
 
 In β-decay there is no change in the mass number of the daughter nucleus but the atomic number increases by one.
 
@@ -178,10 +178,10 @@ In a γ-decay, only the energy level of the nucleus changes. The atomic number a
 
 In 1939, German Scientist Otto Hahn and F. Strassman discovered that when a uranium nucleus is bombarded with a neutron, it breaks up into two smaller nuclei of comparable mass along with the emission of a few neutrons and energy. This process of breaking (splitting) up of a heavier nucleus into two smaller nuclei with the release of a large amount of energy and a few neutrons is called **'nuclear fission'**.
 
-**E.g.:** Nuclear fission of a uranium nucleus{{< katex display=true >}} (\mathrm{U}^{235})
-_{92}\mathrm{U}^{235} + _{0}\mathrm{n}^{1} \rightarrow _{56}\mathrm{Ba}^{141} + _{36}\mathrm{Kr}^{92} + 3_{0}\mathrm{n}^{1} + Q \text{ (energy)}{{< /katex >}}
+**E.g.:** Nuclear fission of a uranium nucleus$$ (\mathrm{U}^{235})
+_{92}\mathrm{U}^{235} + _{0}\mathrm{n}^{1} \rightarrow _{56}\mathrm{Ba}^{141} + _{36}\mathrm{Kr}^{92} + 3_{0}\mathrm{n}^{1} + Q \text{ (energy)}$$
 
-The average energy released in each fission process is about 3.2 x {{< katex >}}10^{-11} J{{< /katex >}}. Nuclear fission is pictorially represented in Figure 6.2
+The average energy released in each fission process is about 3.2 x $$10^{-11} J$$. Nuclear fission is pictorially represented in Figure 6.2
 
 ![](2.png)
 
@@ -191,11 +191,11 @@ _Figure 6.2 Nuclear fission_
 
 A fissionable material is a radioactive element, which undergoes fission in a sustained manner when it absorbs a neutron. It is also termed as **'fissile material'**.
 
-**E.g.:**{{< katex display=true >}} \mathrm{U}^{235}, plutonium (\mathrm{Pu}^{239}
-and \mathrm{Pu}^{241}){{< /katex >}}
+**E.g.:**$$ \mathrm{U}^{235}, plutonium (\mathrm{Pu}^{239}
+and \mathrm{Pu}^{241})$$
 
-All isotopes of uranium do not undergo nuclear fission when they absorb a neutron. For example, natural uranium consists of 99.28% of {{< katex display=true >}}_{92}\mathrm{U}^{238} and 0.72% of _{92}\mathrm{U}^{235}. Of these two, \mathrm{U}^{238}
-{{< /katex >}}does not undergo fission whereas{{< katex display=true >}} \mathrm{U}^{235}{{< /katex >}} undergoes fission. Hence, {{< katex display=true >}}\mathrm{U}^{235}{{< /katex >}} is a fissionable material and {{< katex display=true >}}\mathrm{U}^{238}{{< /katex >}} is non-fissionable.
+All isotopes of uranium do not undergo nuclear fission when they absorb a neutron. For example, natural uranium consists of 99.28% of $$_{92}\mathrm{U}^{238} and 0.72% of _{92}\mathrm{U}^{235}. Of these two, \mathrm{U}^{238}
+$$does not undergo fission whereas$$ \mathrm{U}^{235}$$ undergoes fission. Hence, $$\mathrm{U}^{235}$$ is a fissionable material and $$\mathrm{U}^{238}$$ is non-fissionable.
 
 There are some radioactive elements, which can be converted into fissionable material. They are called as **fertile materials**.
 
@@ -225,7 +225,7 @@ _Figure 6.3 Uncontrolled chain reaction_
 
 During a nuclear fission process, about 2 to 3 neutrons are released. But, all these neutrons may not be available to produce further fission. Some of them may escape from the system, which is termed as **'leakage of neutrons'** and some may be absorbed by the non-fissionable materials present in the system. These two factors lead to the loss of neutrons. To sustain the chain reaction, the rate of production of neutrons due to nuclear fission must be more than the rate of its loss. This can be achieved only when the size (i.e., mass) of the fissionable material is equal to a certain optimum value. This is known as **'critical mass'**.
 
-The minimum mass of a fissile material necessary to sustain the chain reaction is called **'critical mass {{< katex display=true >}}(m_c){{< /katex >}}'**. It depends on the nature, density and the size of the fissile material.
+The minimum mass of a fissile material necessary to sustain the chain reaction is called **'critical mass $$(m_c)$$'**. It depends on the nature, density and the size of the fissile material.
 
 - If the mass of the fissile material is less than the critical mass, it is termed as **'subcritical'**.
 - If the mass of the fissile material is more than the critical mass, it is termed as **'supercritical'**.
@@ -249,12 +249,12 @@ _Figure 6.4 Atom bomb_
 During this explosion tremendous amount of energy in the form of heat, light and radiation is released. A region of very high temperature and pressure is formed in a fraction of a second along with the emission of hazardous radiation like γ rays, which adversely affect the living creatures. This type of atom bombs were exploded in 1945 at Hiroshima and Nagasaki in Japan during the World War II.
 
 > **DO YOU KNOW?**
-> **Electron Volt (eV)** is the unit used in nuclear physics to measure the energy of small particles. It is nothing but the energy of one electron when it is accelerated using an electric potential of one volt.{{< katex display=true >}}
+> **Electron Volt (eV)** is the unit used in nuclear physics to measure the energy of small particles. It is nothing but the energy of one electron when it is accelerated using an electric potential of one volt.$$
  1 \text{ eV} = 1.602 \times 10^{-19} \text{ joule}.
- {{< /katex >}} {{< katex display=true >}}
+ $$ $$
 1 \text{ million electron volt} = 1 \text{ MeV}
 = 10^{6} \text{ eV (mega electron volt)}
-{{< /katex >}} The energy released in a nuclear fission process is about 200 MeV.
+$$ The energy released in a nuclear fission process is about 200 MeV.
 
 ---
 
@@ -267,10 +267,10 @@ You have learnt that energy can be produced when a heavy nucleus is split up int
 The process in which two lighter nuclei combine to form a heavier nucleus is termed as **'nuclear fusion'**.
 
 **E.g.:**
-{{< katex display=true >}}
-_{1}\mathrm{H}^{2} + _{1}\mathrm{H}^{2} \rightarrow _{2}\mathrm{He}^{4} + Q \text{ (Energy)}{{< /katex >}}
+$$
+_{1}\mathrm{H}^{2} + _{1}\mathrm{H}^{2} \rightarrow _{2}\mathrm{He}^{4} + Q \text{ (Energy)}$$
 
-Here,{{< katex display=true >}} _{1}\mathrm{H}^{2} {{< /katex >}}represents an isotope of hydrogen known as **'deuterium'**. The average energy released in each fusion reaction is about {{< katex display=true >}}3.84 \times 10^{-12} J {{< /katex >}}.
+Here,$$ _{1}\mathrm{H}^{2} $$represents an isotope of hydrogen known as **'deuterium'**. The average energy released in each fusion reaction is about $$3.84 \times 10^{-12} J $$.
 
 ![](5.png)
 
@@ -278,9 +278,9 @@ _Figure 6.5 Nuclear fusion_
 
 The mass of the daughter nucleus formed during a nuclear reaction (fission and fusion) is lesser than the sum of the masses of the two parent nuclei. This difference in mass is called **mass defect**. This mass is converted into energy, according to the mass-energy equivalence. This concept of mass-energy equivalence was proposed by Einstein in 1905. It stated that mass can be converted into energy and vice versa. The relation between mass and energy proposed by Einstein is:
 
-{{< katex display=true >}}\mathbf{E} = \mathbf{m}\mathbf{c}^{2}{{< /katex >}}
+$$\mathbf{E} = \mathbf{m}\mathbf{c}^{2}$$
 
-where c is the velocity of light in vacuum and is equal to {{< katex display=true >}} 3 \times 10^{8} \text{ m s}^{-1}{{< /katex >}}.
+where c is the velocity of light in vacuum and is equal to $$ 3 \times 10^{8} \text{ m s}^{-1}$$.
 
 > **DO YOU KNOW?**
 > The nuclear bomb that was dropped in Hiroshima during World War II was called as 'Little boy'. It was a gun-type bomb which used a uranium core. The bomb, which was subsequently dropped over Nagasaki was called as 'Fat man'. It was an explosion type bomb, which used a plutonium core.
@@ -291,10 +291,10 @@ Earth's atmosphere contains a small trace of hydrogen. If nuclear fusion is a sp
 
 The answer is that nuclear fusion can take place only under certain conditions.
 
-Nuclear fusion is possible only at an extremely high temperature of the order of {{< katex display=true >}}10^{7} to 10^{9} K{{< /katex >}} and a high pressure to push the hydrogen nuclei closer to fuse with each other. Hence, it is named as **'Thermonuclear reaction'**.
+Nuclear fusion is possible only at an extremely high temperature of the order of $$10^{7} to 10^{9} K$$ and a high pressure to push the hydrogen nuclei closer to fuse with each other. Hence, it is named as **'Thermonuclear reaction'**.
 
 > **DO YOU KNOW?**
-> Nuclear fusion is the combination of two lighter nuclei. The charge of both nuclei is positive. According to electrostatic theory, when they come closer they tend to repel each other. This repulsive force will be overcome by the kinetic energy of the nuclei at higher temperature of the order of{{< katex display=true >}} 10^{7} to 10^{9} K.{{< /katex >}}
+> Nuclear fusion is the combination of two lighter nuclei. The charge of both nuclei is positive. According to electrostatic theory, when they come closer they tend to repel each other. This repulsive force will be overcome by the kinetic energy of the nuclei at higher temperature of the order of$$ 10^{7} to 10^{9} K.$$
 
 ### 6.4.3 Stellar Energy
 
@@ -307,7 +307,7 @@ Fusion reaction that takes place in the cores of the Sun and other stars results
 Hydrogen bomb is based on the principle of **nuclear fusion**. A hydrogen bomb is always designed to have an inbuilt atom bomb which creates the high temperature and pressure required for fusion when it explodes. Then, fusion takes place in the hydrogen core and leads to the release of a very large amount of energy in an uncontrolled manner. The energy released in a hydrogen bomb (or fusion bomb) is much higher than that released in an atom bomb (or fission bomb).
 
 > **DO YOU KNOW?**
-> Sun fuses about 620 million metric tons of hydrogen each second and radiates about {{< katex display=true >}}3.8 \times 10^{26} {{< /katex >}}.joule of energy per second. When this energy is radiated towards the Earth, it decreases in its intensity. When it reaches the Earth its value is about 1.4 kilo joule per unit area in unit time.
+> Sun fuses about 620 million metric tons of hydrogen each second and radiates about $$3.8 \times 10^{26} $$.joule of energy per second. When this energy is radiated towards the Earth, it decreases in its intensity. When it reaches the Earth its value is about 1.4 kilo joule per unit area in unit time.
 
 **Table 6.3 Features of Nuclear fission and nuclear fusion**
 
@@ -336,26 +336,26 @@ Medical applications of radio isotopes can be divided into two parts:
 
 Radio isotopes are used as tracers to diagnose the nature of circulatory disorders of blood, defects of bone metabolism, to locate tumors, etc. Some of the radio isotopes which are used as tracers are: hydrogen, carbon, nitrogen, sulphur, etc.
 
-- Radio sodium {{< katex display=true >}}(\mathrm{Na}^{24}){{< /katex >}}. is used for the effective functioning of heart.
-- Radio-Iodine {{< katex display=true >}}(\mathrm{I}^{131}){{< /katex >}}. is used to cure goiter.
-- Radio-iron {{< katex display=true >}}(\mathrm{Fe}^{59}){{< /katex >}}. is used to diagnose anaemia and also to provide treatment for the same.
-- Radio phosphorous {{< katex display=true >}}(\mathrm{P}^{32}){{< /katex >}}. is used in the treatment of skin diseases.
-- Radio cobalt {{< katex display=true >}}(\mathrm{Co}^{60}){{< /katex >}}. and radio-gold {{< katex display=true >}}(\mathrm{Au}^{198}){{< /katex >}}. are used in the treatment of skin cancer.
+- Radio sodium $$(\mathrm{Na}^{24})$$. is used for the effective functioning of heart.
+- Radio-Iodine $$(\mathrm{I}^{131})$$. is used to cure goiter.
+- Radio-iron $$(\mathrm{Fe}^{59})$$. is used to diagnose anaemia and also to provide treatment for the same.
+- Radio phosphorous $$(\mathrm{P}^{32})$$. is used in the treatment of skin diseases.
+- Radio cobalt $$(\mathrm{Co}^{60})$$. and radio-gold $$(\mathrm{Au}^{198})$$. are used in the treatment of skin cancer.
 - Radiations are used to sterilize the surgical devices as they can kill the germs and microbes.
 
 ### 6.5.3 Industries
 
 In industries, radioactive isotopes are used as tracers to detect any manufacturing defects such as cracks and leaks. Packaging faults can also be identified through radio activity. Gauges, which have radioactive sources are used in many industries to check the level of gases, liquids and solids.
 
-- An isotope of californium {{< katex display=true >}}(\mathrm{Cf}^{252}){{< /katex >}}. is used in the airlines to detect the explosives in the luggage.
-- An isotope of Americium {{< katex display=true >}}(\mathrm{Am}^{241}){{< /katex >}}. is used in many industries as a smoke detector.
+- An isotope of californium $$(\mathrm{Cf}^{252})$$. is used in the airlines to detect the explosives in the luggage.
+- An isotope of Americium $$(\mathrm{Am}^{241})$$. is used in many industries as a smoke detector.
 
 ### 6.5.4 Archeological research
 
 Using the technique of **radio carbon dating**, the age of the Earth, fossils, old paintings and monuments can be determined. In radio carbon dating, the existing amount of radio carbon is determined and this gives an estimate about the age of these things.
 
 > **DO YOU KNOW?**
-> How old is our mother Earth? Any guess?? It is nearly {{< katex display=true >}}4.54 \times 10^{9}{{< /katex >}}. years (around 45 Crore 40 lakh years). Wow!!
+> How old is our mother Earth? Any guess?? It is nearly $$4.54 \times 10^{9}$$. years (around 45 Crore 40 lakh years). Wow!!
 
 ---
 
@@ -444,60 +444,60 @@ Nuclear power is the fifth largest source of power in India. **Tarapur Atomic Po
 ### Solved problem 6.1
 
 Identify A, B, C, and D from the following nuclear reactions.
-{{< katex display=true >}}
+$$
 (i) _{13}\mathrm{Al}^{27} + \mathrm{A} \rightarrow _{15}\mathrm{P}^{30} + \mathrm{B}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 (ii) _{12}\mathrm{Mg}^{24} + \mathrm{B} \rightarrow _{11}\mathrm{Na}^{24} + \mathrm{C}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 (iii) _{92}\mathrm{U}^{238} + \mathrm{B} \rightarrow _{93}\mathrm{Np}^{239} + \mathrm{D}
-{{< /katex >}}
+$$
 **Solution:**
-{{< katex display=true >}}
+$$
 (i) _{13}\mathrm{Al}^{27} + _{2}\mathrm{He}^{4} \rightarrow _{15}\mathrm{P}^{30} + _{0}\mathrm{n}^{1}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 (ii) _{12}\mathrm{Mg}^{24} + _{0}\mathrm{n}^{1} \rightarrow _{11}\mathrm{Na}^{24} + _{1}\mathrm{H}^{1}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 (iii) _{92}\mathrm{U}^{238} + _{0}\mathrm{n}^{1} \rightarrow _{93}\mathrm{Np}^{239} + _{-1}\mathrm{e}^{0}
-{{< /katex >}}
+$$
 **A is alpha particle, B is neutron, C is proton, and D is electron.**
 
 ---
 
 ### Solved problem 6.2
 
-A radon specimen emits radiation of {{< katex display=true >}}3.7 \times 10^{3} GBq per second.{{< /katex >}} Convert this disintegration in terms of curie. {{< katex display=true >}}(one curie = 3.7 \times 10^{10} disintegration per second){{< /katex >}}
+A radon specimen emits radiation of $$3.7 \times 10^{3} GBq per second.$$ Convert this disintegration in terms of curie. $$(one curie = 3.7 \times 10^{10} disintegration per second)$$
 
 **Solution:**
-{{< katex display=true >}}
+$$
 1 \text{ Bq} = \text{one disintegration per second}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 1 \text{ curie} = 3.7 \times 10^{10} \text{ Bq}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 1 \text{ Bq} = \frac{1}{3.7 \times 10^{10}} \text{ curie}
-{{< /katex >}}
-{{< katex display=true >}}
-\therefore 3.7 \times 10^{3} \text{ GBq} = 3.7 \times 10^{3} \times 10^{9} \times \frac{1}{3.7 \times 10^{10}}{{< /katex >}} {{< katex display=true >}}= 100 \text{ curie}
-{{< /katex >}}
+$$
+$$
+\therefore 3.7 \times 10^{3} \text{ GBq} = 3.7 \times 10^{3} \times 10^{9} \times \frac{1}{3.7 \times 10^{10}}$$ $$= 100 \text{ curie}
+$$
 ---
 
 ### Solved problem 6.3
-{{< katex display=true >}}
-_{92}\mathrm{U}^{235}{{< /katex >}} experiences one α-decay and one β-decay. Find number of neutrons in the final daughter nucleus that is formed.
+$$
+_{92}\mathrm{U}^{235}$$ experiences one α-decay and one β-decay. Find number of neutrons in the final daughter nucleus that is formed.
 
 **Solution:**
 
 Let X and Y be the resulting nucleus after the emission of the alpha and beta particles respectively.
-{{< katex display=true >}}
+$$
 _{92}\mathrm{U}^{235} \xrightarrow{\alpha \text{ decay}} _{90}\mathrm{X}^{231} + _{2}\mathrm{He}^{4}
 
 _{90}\mathrm{X}^{231} \xrightarrow{\beta \text{ decay}} _{91}\mathrm{Y}^{231} + _{-1}\mathrm{e}^{0}
-{{< /katex >}}
+$$
 Number of neutrons = Mass number – Atomic number = 231 - 91 = **140**
 
 ---
@@ -510,26 +510,26 @@ Calculate the amount of energy released when a radioactive substance undergoes f
 
 Mass defect in the reaction (m) = 2 kg
 
-{{< katex display=true >}}Velocity of light (c) = 3 \times 10^{8} \text{ m s}^{-1}{{< /katex >}}
+$$Velocity of light (c) = 3 \times 10^{8} \text{ m s}^{-1}$$
 
 By Einstein's equation,
 
 Energy released E = mc²
-{{< katex display=true >}}
-So E = 2 \times (3 \times 10^{8})^{2} = 1.8 \times 10^{17} J{{< /katex >}}
+$$
+So E = 2 \times (3 \times 10^{8})^{2} = 1.8 \times 10^{17} J$$
 
 ---
 
 ## Points to Remember
 
 - This phenomenon of spontaneous emission of radiation from certain elements on its own is called **'natural radioactivity'**.
-- **Curie** is defined as the quantity of a radioactive substance, which undergoes {{< katex display=true >}}3.7 \times 10^{10} {{< /katex >}}disintegrations in one second. This is actually close to the activity of 1g of radium-226.
-- **Rutherford (Rd)** is defined as the quantity of a radioactive substance which produces{{< katex display=true >}} 10^{6}{{< /katex >}}
+- **Curie** is defined as the quantity of a radioactive substance, which undergoes $$3.7 \times 10^{10} $$disintegrations in one second. This is actually close to the activity of 1g of radium-226.
+- **Rutherford (Rd)** is defined as the quantity of a radioactive substance which produces$$ 10^{6}$$
 disintegrations in one second.
-  - {{< katex display=true >}}1 \text{ Rd} = 10^{6} {{< /katex >}}disintegrations per second.
+  - $$1 \text{ Rd} = 10^{6} $$disintegrations per second.
 - The SI unit of radioactivity is **becquerel**. It is defined as the quantity of one disintegration per second.
-- Helium nucleus {{< katex display=true >}}(_{2}\mathrm{He}^{4}){{< /katex >}} consisting of two protons and two neutrons is known as **alpha particle**.
-- **Beta particles** are electrons {{< katex display=true >}}(_{-1}\mathrm{e}^{0}\){{< /katex >}}, which are the basic elementary particles present in all atoms.
+- Helium nucleus $$(_{2}\mathrm{He}^{4})$$ consisting of two protons and two neutrons is known as **alpha particle**.
+- **Beta particles** are electrons $$(_{-1}\mathrm{e}^{0}\)$$, which are the basic elementary particles present in all atoms.
 - **Gamma rays** are electromagnetic waves consisting of photons.
 - A nuclear reaction in which an unstable parent nucleus emits an alpha particle and forms a stable daughter nucleus is called as **'alpha decay'**.
 - A nuclear reaction in which an unstable parent nucleus emits a beta particle and forms a stable daughter nucleus is called as **'beta decay'**.

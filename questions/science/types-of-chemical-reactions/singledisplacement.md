@@ -8,9 +8,9 @@ answers:
 ---
 
 
-A single displacement reaction is represented by {{< katex display=true >}}
+A single displacement reaction is represented by $$
 (\text{X}_{(s)} + 2\text{HCl}_{(aq)} \rightarrow \text{XCl}_{2(aq)} + \text{H}_{2(g)})
-{{< /katex >}}. Which of the following(s) could be X?
+$$. Which of the following(s) could be X?
    - "(i) Zn (ii) Ag (iii) Cu (iv) Mg"
 
 ```markdown

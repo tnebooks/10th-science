@@ -16,7 +16,6 @@ references:
 categories:
     - plant-and-animal-hormones
 ---
-#  UNIT 16 : PLANT AND ANIMAL HORMONES
 
 ## Learning Objectives
 At the end of this lesson the students will be able to:

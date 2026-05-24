@@ -8,9 +8,9 @@ answers:
 ---
 
 
-A reaction between carbon and oxygen is represented by {{< katex display=true >}}
+A reaction between carbon and oxygen is represented by $$
 (\text{C}_{(s)} + \text{O}_{2(g)} \rightarrow \text{CO}_{2(g)} + \text{Heat})
-{{< /katex >}}. In which of the type(s), the above reaction can be classified?
+$$. In which of the type(s), the above reaction can be classified?
    - "(i) Combination Reaction"
    - "(ii) Combustion Reaction"
    - "(iii) Decomposition Reaction"

@@ -43,15 +43,15 @@ The first scientific theory of the atom was proposed by John Dalton. Few of the 
 
 - An atom is no longer indivisible (after the discovery of the electron, proton, and neutron).
 - Atoms of the same element may have different atomic mass. (discovery of isotopes ).
-- Atoms of different elements may have same atomic masses (discovery of Isobars {{< katex display=true >}}
+- Atoms of different elements may have same atomic masses (discovery of Isobars $$
 _{18}Ar^{40}, _{20}Ca^{40}
-{{< /katex >}}).
+$$).
 - Atoms of one element can be transmuted into atoms of other elements. In other words, atom is no longer indestructible (discovery of artificial transmutation).
 - Atoms may not always combine in a simple whole number ratio (E.g. Glucose C₆H₁₂O₆ C:H:O = 6:12:6 or 1:2:1 and Sucrose C₁₂H₂₂O₁₁ C:H:O = 12:22:11).
 - Atom is the smallest particle that takes part in a chemical reaction.
-- The mass of an atom can be converted into energy ({{< katex display=true >}}
+- The mass of an atom can be converted into energy ($$
 E = mc^2
-{{< /katex >}}).
+$$).
 
 The modern atomic theory is the basis for all the studies of chemical and physical processes that involve atoms. You have studied the most fundamental ideas about an atom in your lower classes. Let us discuss some more concepts about atoms in this lesson.
 
@@ -69,17 +69,17 @@ Atomic mass unit is one-twelfth of the mass of a carbon-12 atom; an isotope of c
 
 ### 7.1.1 Relative Atomic Mass (RAM)
 
-As an atom is very small, its absolute mass cannot be determined directly. The early pioneers of chemistry used to measure the atomic mass of an atom relative to an atom of another element. They measured the masses of equal number of atoms of two or more elements at a time, to determine their relative masses. They established one element as a standard, gave it an arbitrary value of atomic mass and using this value they measured the relative mass of other elements. The mass obtained by this way is called **relative atomic mass**. In the beginning, the mass of hydrogen atom was chosen as a standard and masses of other atoms were compared with it, because of the existence of isotopic character of hydrogen ({{< katex display=true >}}
+As an atom is very small, its absolute mass cannot be determined directly. The early pioneers of chemistry used to measure the atomic mass of an atom relative to an atom of another element. They measured the masses of equal number of atoms of two or more elements at a time, to determine their relative masses. They established one element as a standard, gave it an arbitrary value of atomic mass and using this value they measured the relative mass of other elements. The mass obtained by this way is called **relative atomic mass**. In the beginning, the mass of hydrogen atom was chosen as a standard and masses of other atoms were compared with it, because of the existence of isotopic character of hydrogen ($$
 ^1H^1, ^1H^2, ^1H^3
-{{< /katex >}}). Later hydrogen atom was replaced by oxygen atom as the standard. Now, the stable isotope of carbon (C-12) with atomic mass 12 is used as the standard for measuring the relative atomic mass of an element.
+$$). Later hydrogen atom was replaced by oxygen atom as the standard. Now, the stable isotope of carbon (C-12) with atomic mass 12 is used as the standard for measuring the relative atomic mass of an element.
 
-**Relative atomic mass of an element** is the ratio between the average mass of its isotopes to {{< katex display=true >}}
+**Relative atomic mass of an element** is the ratio between the average mass of its isotopes to $$
 \frac{1}{12}
-{{< /katex >}} part of the mass of a carbon-12 atom. It is denoted as **Aᵣ**. It is otherwise called "Standard Atomic Weight".
+$$ part of the mass of a carbon-12 atom. It is denoted as **Aᵣ**. It is otherwise called "Standard Atomic Weight".
 
-{{< katex display=true >}}
+$$
 \text{Relative Atomic Mass (A}_r\text{)} = \frac{\text{Average mass of the isotopes of the element}}{\frac{1}{12} \text{ of the mass of one Carbon-12 atom}}
-{{< /katex >}}
+$$
 
 Modern methods of determination of atomic mass by Mass Spectrometry uses C-12 as standard. For most of the elements, the relative atomic mass is very closer to a whole number and it is rounded off to a whole number, to make calculations easier. Table 7.1 lists some of the elements of periodic table and their Aᵣ values.
 
@@ -111,28 +111,28 @@ The **average atomic mass** of an element is the weighted average of the masses 
 
 But, the abundance of isotopes of each element may differ. So, the abundancy of all these isotopes are taken into consideration while calculating the atomic mass. Then, what do we mean by a weighted average? Let us consider an element which exists as a mixture of 50% of an isotope having a mass of 9 amu, and 50% of another isotope having a mass of 10 amu. Then, its average atomic mass is calculated by the following equation:
 
-{{< katex display=true >}}
+$$
 \text{Average atomic mass} = (\text{Mass of 1st isotope} \times \%\text{ abundance of 1st isotope}) + (\text{Mass of 2nd isotope} \times \%\text{ abundance of 2nd isotope})
-{{< /katex >}}
+$$
 
 Thus, for the given element the average atomic mass:
-{{< katex display=true >}}
+$$
 = \left(9 \times \frac{50}{100}\right) + \left(10 \times \frac{50}{100}\right) = 4.5 + 5 = 9.5 \text{ amu}
-{{< /katex >}}
+$$
 
 > **Note:** In the calculations involving percentages, you need to convert percentage abundance into fractional abundance. For example, 50 percent is converted into 50/100 or 0.50 as shown in the aforesaid calculation.
 
 The atomic masses of elements, given in the periodic table, are average atomic masses. Sometimes, the term **atomic weight** is used to mean average atomic mass. It is observed, from the periodic table that atomic masses of most of the elements are not whole numbers. For instance, the atomic mass of carbon given in the periodic table is 12.01 amu, not 12.00 amu. The reason is that while calculating the atomic mass of carbon, both of its natural isotopes such as carbon-12 and carbon-13 are considered. The natural abundance of C-12 and C-13 are 98.90% and 1.10% respectively. The average of the atomic mass of carbon is calculated as follows:
 
-{{< katex display=true >}}
+$$
 \text{Average atomic mass of carbon} = \left(12 \times \frac{98.9}{100}\right) + \left(13 \times \frac{1.1}{100}\right)
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 = (12 \times 0.989) + (13 \times 0.011)
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 = 11.868 + 0.143 = 12.011 \text{ amu}
-{{< /katex >}}
+$$
 
 So it is important to understand that if it is mentioned that the atomic mass of carbon is 12 amu, it refers to the average atomic mass of the carbon isotopes, not the mass of the individual atoms of carbon.
 
@@ -158,18 +158,18 @@ So it is important to understand that if it is mentioned that the atomic mass of
 | ₈O¹⁷ | 16.9991 | 0.038 |
 | ₈O¹⁸ | 17.9992 | 0.205 |
 
-{{< katex display=true >}}
+$$
 \text{The atomic mass of oxygen} = (15.9949 \times 0.99757) + (16.9991 \times 0.00038) + (17.9992 \times 0.00205) = 15.999 \text{ amu}
-{{< /katex >}}
+$$
 
 **Example 2:** Boron naturally occurs as a mixture of boron-10 (5 protons + 5 neutrons) and boron-11 (5 protons + 6 neutrons) isotopes. The percentage abundance of B-10 is 20 and that of B-11 is 80. Then, the atomic mass of boron is calculated as follows:
 
-{{< katex display=true >}}
+$$
 \text{Atomic mass of boron} = \left(10 \times \frac{20}{100}\right) + \left(11 \times \frac{80}{100}\right)
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 = (10 \times 0.20) + (11 \times 0.80) = 2 + 8.8 = 10.8 \text{ amu}
-{{< /katex >}}
+$$
 
 ---
 
@@ -230,9 +230,9 @@ Fluorine (F₂), Carbon dioxide (CO₂), Phosphorous (P₄), Sulphur (S₈), Amm
 
 As the molecules are made of atoms, they also have their own mass. The mass of the molecule of an element or compound is measured in the C-12 scale and hence called **relative molecular mass**.
 
-The **Relative Molecular Mass** of a molecule is the ratio between the mass of one molecule of the substance to {{< katex display=true >}}
+The **Relative Molecular Mass** of a molecule is the ratio between the mass of one molecule of the substance to $$
 \frac{1}{12}
-{{< /katex >}} mass of an atom of Carbon-12.
+$$ mass of an atom of Carbon-12.
 
 > **Do You Know?**
 > Relative Molecular Mass is only a ratio. So, it has no unit. If the molecular mass of a compound is expressed in grams, it is called **Gram Molecular Mass**.
@@ -249,31 +249,31 @@ The relative molecular mass is obtained by adding together the relative atomic m
 Sulphuric acid contains 2 atoms of hydrogen, 1 atom of sulphur and 4 atoms of oxygen.
 
 Therefore, Relative molecular mass of sulphuric acid:
-{{< katex display=true >}}
+$$
 = (2 \times \text{mass of hydrogen}) + (1 \times \text{mass of sulphur}) + (4 \times \text{mass of oxygen})
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 = (2 \times 1) + (1 \times 32) + (4 \times 16) = 98
-{{< /katex >}}
+$$
 
-i.e., one molecule of H₂SO₄ is 98 times as heavy as {{< katex display=true >}}
+i.e., one molecule of H₂SO₄ is 98 times as heavy as $$
 \frac{1}{12}
-{{< /katex >}} of the mass of a carbon –12.
+$$ of the mass of a carbon –12.
 
 **Example 2:** Relative molecular mass of water (H₂O) is calculated as follows:
 A water molecule is made of 2 atoms of hydrogen and one atom of oxygen.
 
 So, the relative molecular mass of water:
-{{< katex display=true >}}
+$$
 = (2 \times \text{mass of hydrogen}) + (1 \times \text{mass of oxygen})
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 = (2 \times 1) + (1 \times 16) = 18
-{{< /katex >}}
+$$
 
-i.e., one molecule of H₂O is 18 times as heavy as {{< katex display=true >}}
+i.e., one molecule of H₂O is 18 times as heavy as $$
 \frac{1}{12}
-{{< /katex >}} of the mass of a carbon –12.
+$$ of the mass of a carbon –12.
 
 ---
 
@@ -323,20 +323,20 @@ One mole of any gas occupies **22.4 litre** or **22400 ml** at S.T.P. This volum
 
 ### Calculation of number of moles by Different modes
 
-{{< katex display=true >}}
+$$
 \text{Number of moles} 
    = \frac{\text{Mass}}{\text{Atomic Mass}}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
    = \frac{\text{Mass}}{\text{Molecular mass}}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
  
 = \frac{\text{Number of Atoms}}{6.023 \times 10^{23}} 
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
  = \frac{\text{Number of Molecules}}{6.023 \times 10^{23}}
-{{< /katex >}}
+$$
 
 ![](img1.png)
 
@@ -350,30 +350,30 @@ The **percentage composition** of a compound represents the mass of each element
 
 Let us understand the percentage composition of oxygen and hydrogen by taking the example of H₂O. It can be calculated using the formula:
 
-{{< katex display=true >}}
+$$
 \text{Mass \% of an element} = \frac{\text{mass of that element in the compound}}{\text{molecular mass of the compound}} \times 100
-{{< /katex >}}
+$$
 
 Now,
 - Molecular mass of H₂O = 2(1) + 16 = 18 g
-- Mass % of hydrogen = {{< katex display=true >}}
+- Mass % of hydrogen = $$
 \frac{2}{18} \times 100 = 11.11\%
-{{< /katex >}}
-- Mass % of oxygen = {{< katex display=true >}}
+$$
+- Mass % of oxygen = $$
 \frac{16}{18} \times 100 = 88.89\%
-{{< /katex >}}
+$$
 
 This percentage composition is useful to determine the empirical formula and molecular formula.
 
 **Example 1:** Find the mass percentage composition of methane (CH₄).
 
 - Molecular mass of CH₄ = 12 + 4 = 16 g
-- Mass % of carbon = {{< katex display=true >}}
+- Mass % of carbon = $$
 \frac{12}{16} \times 100 = 75\%
-{{< /katex >}}
-- Mass % of hydrogen = {{< katex display=true >}}
+$$
+- Mass % of hydrogen = $$
 \frac{4}{16} \times 100 = 25\%
-{{< /katex >}}
+$$
 
 ---
 
@@ -385,12 +385,12 @@ The **Avogadro's law** states that **"equal volumes of all gases under similar c
 
 It follows that the volume of any given gas must be proportional to the number of molecules in it. If 'V' is the volume and 'n' is the number of molecules of a gas, then Avogadro law is represented, mathematically, as follows:
 
-{{< katex display=true >}}
+$$
 V \propto n
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 V = \text{constant} \times n
-{{< /katex >}}
+$$
 
 Thus, one litre (1 dm³) of hydrogen contains the same number of molecules as in one litre of oxygen, i.e. the volume of the gas is directly proportional to the number of molecules of the gas.
 
@@ -400,25 +400,25 @@ Thus, one litre (1 dm³) of hydrogen contains the same number of molecules as in
 
 Let us consider the reaction between hydrogen and chlorine to form hydrogen chloride gas:
 
-{{< katex display=true >}}
+$$
 \text{H}_{2(g)} + \text{Cl}_{2(g)} \rightarrow 2\text{HCl}_{(g)}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 1 \text{ vol} + 1 \text{ vol} \rightarrow 2 \text{ volumes}
-{{< /katex >}}
+$$
 
 According to Avogadro's law 1 volume of any gas is occupied by 'n' number of molecules.
-{{< katex display=true >}}
+$$
 n \text{ molecules} + n \text{ molecules} \rightarrow 2n \text{ molecules}
-{{< /katex >}}
+$$
 
 If n = 1 then:
-{{< katex display=true >}}
+$$
 1 \text{ molecule} + 1 \text{ molecule} \rightarrow 2 \text{ molecules}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 \frac{1}{2} \text{ molecule} + \frac{1}{2} \text{ molecule} \rightarrow 1 \text{ molecule}
-{{< /katex >}}
+$$
 
 1 molecule of hydrogen chloride gas is made up of ½ molecule of hydrogen and ½ molecule of chlorine. Hence, the molecules can be subdivided. This law is in agreement with Dalton's atomic theory.
 
@@ -451,47 +451,47 @@ The Relative Molecular Mass of a gas or vapour is the ratio between the mass of 
 
 Vapour density is the ratio of the mass of a certain volume of a gas or vapour, to the mass of an equal volume of hydrogen, measured under the same conditions of temperature and pressure.
 
-{{< katex display=true >}}
+$$
 \text{Vapour Density} = \frac{\text{Mass of a given volume of gas or vapour at S.T.P}}{\text{Mass of the same volume of hydrogen}}
-{{< /katex >}}
+$$
 
 According to Avogadro's law, equal volumes of all gases contain equal number of molecules.
 
 Thus, let the number of molecules in one volume = n, then:
 
-{{< katex display=true >}}
+$$
 \text{V.D.} = \frac{\text{Mass of 'n' molecules of a gas or vapour at S.T.P}}{\text{Mass of 'n' molecules of hydrogen}}
-{{< /katex >}}
+$$
 
 Cancelling 'n' which is common, you get:
 
-{{< katex display=true >}}
+$$
 \text{V.D.} = \frac{\text{Mass of 1 molecule of a gas or vapour at S.T.P}}{\text{Mass of 1 molecule of hydrogen}}
-{{< /katex >}}
+$$
 
 However, since hydrogen is diatomic:
 
-{{< katex display=true >}}
+$$
 \text{V.D.} = \frac{\text{Mass of 1 molecule of a gas or vapour at S.T.P}}{2 \times \text{Mass of 1 atom of hydrogen}}
-{{< /katex >}}
+$$
 
 When you compare the formula of vapour density with relative molecular mass, they can be represented as:
 
-{{< katex display=true >}}
+$$
 \text{V.D.} = \frac{\text{Relative molecular mass}}{2}
-{{< /katex >}}
+$$
 
 Now on cross multiplication, you have:
 
-{{< katex display=true >}}
+$$
 2 \times \text{vapour density} = \text{Relative molecular mass of a gas}
-{{< /katex >}}
+$$
 
 (Or)
 
-{{< katex display=true >}}
+$$
 \text{Relative molecular mass} = 2 \times \text{Vapour density}
-{{< /katex >}}
+$$
 
 ---
 
@@ -526,21 +526,21 @@ Calculate the gram molecular mass of the:
 
 **1) Calculate the number of moles in 46 g of sodium?**
 
-{{< katex display=true >}}
+$$
 \text{Number of moles} = \frac{\text{Mass of the element}}{\text{Atomic mass of the element}} = \frac{46}{23} = \textbf{2 moles of sodium}
-{{< /katex >}}
+$$
 
 **2) 5.6 litre of oxygen at S.T.P**
 
-{{< katex display=true >}}
+$$
 \text{Number of moles} = \frac{\text{Given volume of O}_2 \text{ at S.T.P}}{\text{Molar volume at S.T.P}} = \frac{5.6}{22.4} = \textbf{0.25 mole of oxygen}
-{{< /katex >}}
+$$
 
 **3) Calculate the number of moles of a sample that contains 12.046 × 10²³ atoms of iron?**
 
-{{< katex display=true >}}
+$$
 \text{Number of moles} = \frac{\text{Number of atoms of iron}}{\text{Avogadro's number}} = \frac{12.046 \times 10^{23}}{6.023 \times 10^{23}} = \textbf{2 moles of iron}
-{{< /katex >}}
+$$
 
 ---
 
@@ -548,35 +548,35 @@ Calculate the gram molecular mass of the:
 
 **1) 0.3 mole of aluminium (Atomic mass of Al = 27)**
 
-{{< katex display=true >}}
+$$
 \text{Mass} = \text{No. of moles} \times \text{atomic mass}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 \text{Mass of Al} = 0.3 \times 27 = \textbf{8.1 g}
-{{< /katex >}}
+$$
 
 **2) 2.24 litre of SO₂ gas at S.T.P**
 
 - Molecular mass of SO₂ = 32 + (16 × 2) = 32 + 32 = 64
-- Number of moles of SO₂ = {{< katex display=true >}}
+- Number of moles of SO₂ = $$
 \frac{2.24}{22.4}
-{{< /katex >}} = 0.1 mole
+$$ = 0.1 mole
 - Mass = 0.1 × 64 = **6.4 g**
 
 **3) 1.51 × 10²³ molecules of water**
 
 - Molecular mass of H₂O = 18
-- Number of moles = {{< katex display=true >}}
+- Number of moles = $$
 \frac{1.51 \times 10^{23}}{6.023 \times 10^{23}}
-{{< /katex >}} = 0.25 mole
+$$ = 0.25 mole
 - Mass = 0.25 × 18 = **4.5 g**
 
 **4) 5 × 10²³ molecules of glucose?**
 
 - Molecular mass of glucose = 180
-- Mass of glucose = {{< katex display=true >}}
+- Mass of glucose = $$
 \frac{180 \times 5 \times 10^{23}}{6.023 \times 10^{23}}
-{{< /katex >}} = **149.43 g**
+$$ = **149.43 g**
 
 ---
 
@@ -584,28 +584,28 @@ Calculate the gram molecular mass of the:
 
 **1) Calculate the number of molecules in 11.2 litre of CO₂ at S.T.P**
 
-- Number of moles of CO₂ = {{< katex display=true >}}
+- Number of moles of CO₂ = $$
 \frac{11.2}{22.4}
-{{< /katex >}} = 0.5 mole
+$$ = 0.5 mole
 - Number of molecules of CO₂ = 0.5 × 6.023 × 10²³ = **3.011 × 10²³ molecules of CO₂**
 
 **2) Calculate the number of atoms present in 1 gram of gold (Atomic mass of Au = 198)**
 
-{{< katex display=true >}}
+$$
 \text{Number of atoms of Au} = \frac{\text{Mass of Au} \times \text{Avogadro's number}}{\text{Atomic mass of Au}}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 = \frac{1}{198} \times 6.023 \times 10^{23} = \textbf{3.042 × 10²¹ atoms}
-{{< /katex >}}
+$$
 
 **3) Calculate the number of molecules in 54 g of H₂O?**
 
-{{< katex display=true >}}
+$$
 \text{Number of molecules} = \frac{\text{Avogadro number} \times \text{Given mass}}{\text{Gram molecular mass of water}}
-{{< /katex >}}
-{{< katex display=true >}}
+$$
+$$
 = \frac{6.023 \times 10^{23} \times 54}{18} = \textbf{18.069 × 10²³ molecules}
-{{< /katex >}}
+$$
 
 **4) Calculate the number of atoms of oxygen and carbon in 5 moles of CO₂.**
 
@@ -625,22 +625,22 @@ Calculate the gram molecular mass of the:
 
 **1) 2.5 mole of CO₂ at S.T.P**
 
-{{< katex display=true >}}
+$$
 \text{Volume of CO}_2 \text{ at S.T.P} = 22.4 \times 2.5 = \textbf{56 litres}
-{{< /katex >}}
+$$
 
 **2) 12.046 × 10²³ of ammonia gas molecules**
 
-- Number of moles = {{< katex display=true >}}
+- Number of moles = $$
 \frac{12.046 \times 10^{23}}{6.023 \times 10^{23}}
-{{< /katex >}} = 2 moles
+$$ = 2 moles
 - Volume occupied by NH₃ = 2 × 22.4 = **44.8 litres at S.T.P**
 
 **3) 14 g nitrogen gas**
 
-- Number of moles = {{< katex display=true >}}
+- Number of moles = $$
 \frac{14}{28}
-{{< /katex >}} = 0.5 mole
+$$ = 0.5 mole
 - Volume occupied by N₂ at S.T.P = 0.5 × 22.4 = **11.2 litres**
 
 ---
@@ -650,23 +650,23 @@ Calculate the gram molecular mass of the:
 **Calculate % of S in H₂SO₄**
 
 - Molecular mass of H₂SO₄ = (1 × 2) + (32 × 1) + (16 × 4) = 2 + 32 + 64 = 98 g
-- % of S in H₂SO₄ = {{< katex display=true >}}
+- % of S in H₂SO₄ = $$
 \frac{32}{98} \times 100
-{{< /katex >}} = **32.65%**
+$$ = **32.65%**
 
 ---
 
 ## Points to Remember
 
-- Two or more forms of an element having the same atomic number, but different mass number are called **Isotopes** ({{< katex display=true >}}
+- Two or more forms of an element having the same atomic number, but different mass number are called **Isotopes** ($$
 _{17}Cl^{35}, _{17}Cl^{37}
-{{< /katex >}}).
-- Atoms of different elements having the same mass number, but different atomic numbers are called **Isobars** ({{< katex display=true >}}
+$$).
+- Atoms of different elements having the same mass number, but different atomic numbers are called **Isobars** ($$
 _{18}Ar^{40}, _{20}Ca^{40}
-{{< /katex >}}).
-- Atoms of different elements having the same number of neutrons, but different atomic number and different mass number are called **Isotones** ({{< katex display=true >}}
+$$).
+- Atoms of different elements having the same number of neutrons, but different atomic number and different mass number are called **Isotones** ($$
 _{6}C^{13}, _{7}N^{14}
-{{< /katex >}}).
+$$).
 - Relative atomic mass of an element is the ratio between the mass of one atom of the element to 1/12th of the mass of the atom of carbon-12.
 - Average atomic mass of an element is calculated by adding the masses of its isotopes, each multiplied by their natural abundance on the Earth.
 - Relative molecular mass of a molecule is the ratio between the mass of one molecule of the substance to 1/12th of the mass of the atom of carbon –12.

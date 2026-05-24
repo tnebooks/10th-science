@@ -14,7 +14,7 @@ references:
 categories:
       - environmental-management
 ---
-# அலகு 22 - சுற்றுச்சூழல் மேலாண்மை
+
 
 ![அலகு 22 - சுற்றுச்சூழல் மேலாண்மை](d1.png)
 
