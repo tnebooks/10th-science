@@ -18,26 +18,12 @@ categories:
 ---
 
 
-## Learning Objectives
-After a thorough perusal of this unit, the students will be able to:
-- recognize the basis of the modern periodic law and its development.
-- list the features of groups and periods of the modern periodic table.
-- explain the trend in periodic properties along the periods and groups.
-- distinguish between ores and minerals.
-- list out the types of separation of impurities from the ores.
-- recall the various places of occurrences of minerals in the state of Tamil Nadu.
-- put forth the properties of metals.
-- identify the stages involved in metallurgical processes.
-- think scientifically on alloys and their types.
-- develop an idea on amalgam.
-- understand the reason for corrosion and the methods of its prevention.
-
 ## INTRODUCTION
 The eighteenth and nineteenth centuries witnessed a rapid development in chemistry in all spheres of scientific activities. By 1860, scientists had already discovered 60 elements and determined their atomic masses. They noticed that some elements had similar properties and hence arranged them into groups. During this period, several new elements were discovered. These elements were found to have different properties. It was realized that instead of studying the properties of all these elements individually, it would be more convenient to divide them into groups and periods in such a way that each group contained a certain number of elements (like an array of fruits and vegetables showing orderliness) with similar properties and periods showing a regular gradation. So, scientists made several attempts to arrange elements in a logical way. You have studied about all these early attempts of arrangement of elements in standard IX. In continuation of the knowledge gained in the topic periodic classification of elements in standard IX with earlier concepts and their subsequent deliberations, you get set to go ahead with the higher order of thinking to enhance your knowledge on the properties of elements.
 
 ---
 
-## 8.1 MODERN PERIODIC LAW
+## MODERN PERIODIC LAW
 
 Mendeleev's periodic table had some discrepancies, which were difficult to overcome. For example, the atomic mass of argon (39.95 amu) is greater than that of potassium (39.10 amu), but argon comes before potassium in the periodic table. If elements were arranged solely according to increasing atomic mass, argon would appear in the position occupied by potassium in our modern periodic table (see in Figure 8.1). No chemist would place argon, a gas with no tendency to react, in the same group as lithium and sodium, which are two highly reactive metals. This kind of discrepancies suggested that some fundamental property other than atomic mass must be the basis of periodicity. The fundamental property turned out to be the number of protons in an atom's nucleus, something that could not have been known by Mendeleev and his contemporaries.
 
@@ -47,7 +33,7 @@ Henry Moseley, a British scientist in 1912, discovered a new property of element
 
 ---
 
-## 8.2 MODERN PERIODIC TABLE
+## MODERN PERIODIC TABLE
 
 With reference to the modern periodic law, the elements were arranged in the increasing order of their atomic numbers to form the modern periodic table. The modern periodic table is a tabular arrangement of elements in periods and groups, highlighting the regular repetition of properties of the elements.
 
@@ -57,7 +43,7 @@ As you have studied the features of the modern periodic table in standard IX, he
 
 ![](img1.png)
 
-### 8.2.1 Features of Periods
+### Features of Periods
 
 - The horizontal rows are called periods. There are seven periods in the periodic table.
 - **First period** (Atomic number 1 and 2): This is the shortest period. It contains only two elements (Hydrogen and Helium).
@@ -68,7 +54,7 @@ As you have studied the features of the modern periodic table in standard IX, he
 - **Sixth period** (Atomic number 55 to 86): This is the longest period. It contains 32 elements (Caesium to Radon). This includes 8 representative elements, 10 transition elements and 14 inner transition elements (Lanthanides).
 - **Seventh period** (Atomic number 87 to 118): Like the sixth period, this period also accommodates 32 elements. Recently 4 elements have been included by IUPAC.
 
-### 8.2.2 Features of Groups
+### Features of Groups
 
 - The vertical columns in the periodic table starting from top to bottom are called groups. There are 18 groups in the periodic table.
 - Based on the common characteristics of elements in each group, they can be grouped as various families:
@@ -93,13 +79,13 @@ As you have studied the features of the modern periodic table in standard IX, he
 
 ---
 
-## 8.3 PERIODIC TRENDS IN PROPERTIES
+## PERIODIC TRENDS IN PROPERTIES
 
 The electronic configurations of elements help us to explain the periodic recurrence of physical and chemical properties. Anything which repeats itself after a regular interval is called periodic and this behaviour is called periodicity. Some of the atomic properties of the elements are periodic.
 
 Properties such as atomic radius, ionic radius, ionisation energy, electronegativity, electron affinity, show a regular periodicity and hence they are called periodic properties. The main significance of the modern periodic table is that it gives a clear understanding of the general properties and trends within a group or a period to predict with considerable accuracy, the properties of any element, even though that element may be unfamiliar to us.
 
-### 8.3.1 Atomic Radius
+### Atomic Radius
 
 Atomic radius of an atom is defined as the distance between the centre of its nucleus and the outermost shell containing the valence electron. Direct measurement of the radius of an isolated atom is not possible. Except for noble gases, usually the atomic radius is referred to as covalent radius or metallic radius depending on the nature of the bonding between the concerned atoms.
 
@@ -122,7 +108,7 @@ The increase, down a group, is due to the increase in the valence shell number d
 
 ![](img3.png)
 
-### 8.3.2 Ionic Radii
+### Ionic Radii
 
 It is defined as the distance from the centre of the nucleus of the ion upto the point where it exerts its influence on the electron cloud of the ion.
 
@@ -140,13 +126,13 @@ For instance, lithium and sodium lose the single electron from their outermost e
 
 So, as seen in atomic radius, ionic radii also **decrease along the period** from left to right and **increase down the group**.
 
-### 8.3.3 Ionisation Energy
+### Ionisation Energy
 
 Ionisation energy is the minimum energy required to remove an electron from an isolated gaseous atom in its ground state to form a cation. It is otherwise called ionisation enthalpy. It is measured in kJ/mol. Higher the ionisation energy, it is more difficult to remove the electron.
 
 As the atomic size decreases from left to right in a period, more energy is required to remove the electrons. So, the ionisation energy **increases along the period**. But, down the group, the atomic size increases and hence the valence electrons are loosely bound. They require relatively less energy for the removal. Thus, ionisation energy **decreases down the group** in the periodic table.
 
-### 8.3.4 Electron Affinity
+### Electron Affinity
 
 Electron affinity is the amount of energy released when an isolated gaseous atom gains an electron to form its anion. It is also measured in kJ/mol and represented by the following equation:
 
@@ -163,7 +149,7 @@ Like ionisation energy, electron affinity also **increases from left to right in
 > **More to Know**
 > Noble gases show no tendency to accept electrons because the outer s and p orbitals of noble gases are completely filled. No more electrons can be added to them and hence their electron affinities are zero.
 
-### 8.3.5 Electronegativity
+### Electronegativity
 
 Electronegativity of an element is the measure of the tendency of its atom to attract the shared pair of electrons towards itself in a covalent bond.
 
@@ -214,7 +200,7 @@ Along the period, from left to right in the periodic table, the electronegativit
 
 ---
 
-## 8.4 METALLURGY
+## METALLURGY
 
 Human life is associated with various metals. We use metals in our day to day activities. It is the utmost need to have some metals like sodium, potassium, calcium, iron, etc. in the human body. Deficiency of these metals affects the metabolic activities thereby playing a vital role in our life.
 
@@ -225,7 +211,7 @@ A metallurgical process involve three main steps as follows:
 2. **Production of the metal**: It is the conversion of the ore into metal.
 3. **Refining of the metal**: It is the process of purification of the metal.
 
-### 8.4.1 Terminology in metallurgy
+### Terminology in metallurgy
 
 - **Minerals**: A mineral may be a single compound or a complex mixture of various compounds of metals found in the Earth.
 - **Ore**: The mineral from which a metal can be readily and economically extracted on a large scale is said to be an ore.
@@ -241,7 +227,7 @@ A metallurgical process involve three main steps as follows:
 
 ![](img5.png)
 
-### 8.4.2 Types of separation or concentration of an ore
+### Types of separation or concentration of an ore
 
 There are four major types of separation of ores based on the nature of the ore.
 
@@ -264,7 +250,7 @@ The ore is treated with a suitable reagent such that the ore is soluble in it bu
 
 ---
 
-## 8.5 OCCURRENCE OF ORES IN TAMIL NADU
+## OCCURRENCE OF ORES IN TAMIL NADU
 
 - **Lime stone**: Coimbatore, Cuddalore, Dindugul
 - **Gypsum**: Tiruchi and Coimbatore Districts
@@ -277,9 +263,9 @@ The ore is treated with a suitable reagent such that the ore is soluble in it bu
 
 ---
 
-## 8.6 PROPERTIES OF METALS
+## PROPERTIES OF METALS
 
-### 8.6.1 Physical properties
+### Physical properties
 
 1. **Physical state**: All metals are solids at room temperature except mercury and gallium.
 2. **Lustre**: Metals possess a high lustre (called metallic lustre).
@@ -291,7 +277,7 @@ The ore is treated with a suitable reagent such that the ore is soluble in it bu
 8. **Conduction of heat and electricity**: Metals are good conductors of heat and electricity; silver and copper excel in this property (exception: tungsten)
 9. **Solubility**: Usually, metals do not dissolve in liquid solvents.
 
-### 8.6.2 Chemical Properties
+### Chemical Properties
 
 - **Valence electrons**: Atoms of metals usually have 1, 2 or 3 electrons in their outermost shell.
 - **Formation of ions**: Metals form Positive ions by the loss of electrons and hence they are electro positive.
@@ -301,7 +287,7 @@ The ore is treated with a suitable reagent such that the ore is soluble in it bu
 
 ---
 
-## 8.7 METALLURGY OF ALUMINIUM
+## METALLURGY OF ALUMINIUM
 
 Aluminium is the metal found most abundantly in the Earth's crust. Since it is a reactive metal, it occurs in the combined state.
 
@@ -424,7 +410,7 @@ Aluminium is used in:
 
 ---
 
-## 8.8 METALLURGY OF COPPER
+## METALLURGY OF COPPER
 
 ### Occurrence:
 It was named as cuprum by the Romans because they got it from the Island of Cyprus. Copper is found in the native state as well as combined state.
@@ -537,7 +523,7 @@ iv. It is alloyed with gold and silver for making coins and jewels
 
 ---
 
-## 8.9 METALLURGY OF IRON
+## METALLURGY OF IRON
 
 ### Occurrence:
 Iron is the second most abundant metal available next to aluminium. It occurs in nature as oxides, sulphides and carbonates.
@@ -661,13 +647,13 @@ When iron is dipped in con. HNO₃ it becomes chemically passive or inert due to
 
 ---
 
-## 8.10 ALLOYS
+## ALLOYS
 
 An **alloy** is a homogeneous mixture of two or more metals or of one or more metals with certain non-metallic elements.
 
 The properties of alloys are often different from those of its components. Pure gold is brittle to be used. The addition of small percentage of copper enhances its strength and utility.
 
-### 8.10.1 Amalgam
+### Amalgam
 
 An **amalgam** is an alloy of mercury with another metal. These alloys are formed through metallic bonding with the electrostatic force of attraction between the electrons and the positively charged metal ions. Silver tin amalgam is used for dental filling.
 
@@ -679,7 +665,7 @@ iii. To lower the melting point.
 iv. To increase hardness and tensile strength.
 v. To increase resistance to electricity.
 
-### 8.10.2 Method of making alloys
+### Method of making alloys
 
 (a) By fusing the metals together. E.g. Brass is made by melting zinc and copper.
 
@@ -691,7 +677,7 @@ Alloys can be considered as solid solutions in which the metal with high concent
 
 For example, brass is a solid solution of zinc (solute) in copper (solvent).
 
-### 8.10.3 Types of Alloys
+### Types of Alloys
 
 Based on the presence of Iron, alloys can be classified into:
 
@@ -721,7 +707,7 @@ Based on the presence of Iron, alloys can be classified into:
 
 ---
 
-## 8.11 CORROSION
+## CORROSION
 
 It is the gradual destruction of metals by chemical or electrochemical reaction with the environment. It is a natural process which converts a metal into its oxide, hydroxide or sulphide so that it loses its metallic characteristics.
 
@@ -732,13 +718,13 @@ It is the gradual destruction of metals by chemical or electrochemical reaction 
 ![](img10.png)
 
 
-### 8.11.1 Types of Corrosion
+### Types of Corrosion
 
 **i. Dry Corrosion or Chemical Corrosion**: The corrosive action in the absence of moisture is called dry corrosion. It is the process of a chemical attack on a metal by a corrosive liquids or gases such as O₂, N₂, SO₂, H₂S etc. It occurs at high temperature. Of all the gases mentioned above O₂ is the most reactive gas to impart the chemical attack.
 
 **ii. Wet Corrosion or Electrochemical Corrosion**: The corrosive action in the presence of moisture is called wet corrosion. It occurs as a result of electrochemical reaction of metal with water or aqueous solution of salt or acids or bases.
 
-### 8.11.2 Methods of preventing corrosion
+### Methods of preventing corrosion
 
 **i. Alloying**: The metals can be alloyed to prevent from the process of corrosion. E.g: Stainless Steel
 
@@ -754,7 +740,7 @@ d) **Cathodic Protection**: It is the method of controlling corrosion of a metal
 
 ---
 
-## 8.12 PAMBAN BRIDGE
+## PAMBAN BRIDGE
 
 It is a railway bridge which connects the town of Rameshwaram on Pamban Island to mainland India. Opened on 1914, it was India's first sea bridge in India until the opening of the Bandra-Worli Sea Link in 2010. We can control the corrosion and renovation of historical pamban bridge by a periodical protective coating which will be the strong example for applied chemistry to uphold our history.
 

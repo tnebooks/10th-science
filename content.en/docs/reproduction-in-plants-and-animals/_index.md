@@ -19,29 +19,13 @@ categories:
 ---
 
 
-## Learning Objectives
-
-At the end of this lesson the students will be able to:
-- Differentiate vegetative, asexual and sexual reproduction.
-- Describe parts of flower and their functions.
-- Understand the types and modes of pollination and their significance.
-- Understand the process of double fertilization, steps involved in fertilization (syngamy and triple fusion), embryo development, endosperm development and formation of seed.
-- Understand the process of sexual reproduction in human beings.
-- Know the structure of testicular and ovarian cells.
-- Know the structural details of human sperm and ovum.
-- Realize the events of menstrual cycle and fertilization.
-- Gain awareness on reproductive health and strategies.
-- Gain knowledge on personal and social hygiene.
-
----
-
 ## Introduction
 
 "Living organisms cannot survive for an indefinite period on earth. All living organisms have the ability to produce more of its own kind by the process called reproduction. Reproduction is the unfolding of life forms where new individuals are formed. It ensures continuity and survival of the species. This process is to preserve individual species and it is called as self-perpetuation. The time required to reproduce also varies from organism to organism. You may find great variations in period of reproduction in yeast, bacteria, rat, cow, elephant and humans. In sexual reproduction offsprings are produced by the union of male and female gametes (sperm and egg). The male and female gametes contain the genetic material or genes present on the chromosomes which transmit the characteristic traits to the next generation. There are three types of reproduction in plants namely i) Vegetative ii) Asexual and iii) Sexual
 
 ---
 
-## 17.1 Vegetative Reproduction
+## Vegetative Reproduction
 
 In this type, new plantlets are formed from vegetative (somatic) cells, buds or organs of plant. The vegetative part of plant (root, stem, leaf or bud) gets detached from the parent body and grows into an independent daughter plant. It has only mitotic division, no gametic fusion and daughter plants are genetically similar to the parent plant.
 
@@ -95,7 +79,7 @@ The ability of the lost body parts of an individual organism to give rise to an 
 
 ---
 
-## 17.2 Asexual Reproduction
+## Asexual Reproduction
 
 Production of an offspring by a single parent without the formation and fusion of gametes is called asexual reproduction. It involves only mitotic cell divisions and meiosis does not occur. Offspring produced by asexual reproduction are not only identical to parents but are also exact copies of their parent.
 
@@ -110,11 +94,11 @@ During spore formation a structure called sporangium develops from the fungal hy
 
 ---
 
-## 17.3 Sexual Reproduction in Plants
+## Sexual Reproduction in Plants
 
 Sexual reproduction is the process in which two gametes (male and female) are fused to produce offspring of their own kind. In such cases both sexes, male and female sex organs are needed to produce gametes.
 
-### 17.3.1 Parts of a Typical Flower
+### Parts of a Typical Flower
 
 A flower is a modified shoot with limited growth to carry out sexual reproduction. A flower consists of four whorls borne on a thalamus. These whorls are from outside:
 
@@ -152,7 +136,7 @@ The ovary contains the ovules.
 
 **Figure:17.9** Gynoecium
 
-### 17.3.2 Structure of the Ovule
+### Structure of the Ovule
 
 The main part of the ovule is the **nucellus** which is enclosed by two **integuments** leaving an opening called as **micropyle**. The ovule is attached to the ovary wall by a stalk known as **funiculus**. **Chalaza** is the basal part.
 
@@ -170,7 +154,7 @@ It involves:
 1. Pollination
 2. Fertilization
 
-### 17.4 Pollination
+### Pollination
 
 The transfer of pollen grains from anther to stigma of a flower is called as pollination.
 
@@ -178,7 +162,7 @@ The transfer of pollen grains from anther to stigma of a flower is called as pol
 1. It results in fertilization which leads to the formation of fruits and seed.
 2. New varieties of plants are formed through new combination of genes in case of cross pollination.
 
-### 17.4.1 Types of Pollination
+### Types of Pollination
 
 1. **Self-pollination**
 2. **Cross pollination**
@@ -211,7 +195,7 @@ Cross-pollination is the transfer of pollen from the anthers of a flower to the 
 
 ---
 
-## 17.5 Agents of Cross Pollination
+## Agents of Cross Pollination
 
 In order to bring about cross pollination, it is necessary that the pollen should be carried from one flower to another of a different plant. This takes place through the agency of animals, insects, wind and water.
 
@@ -236,7 +220,7 @@ When pollination takes place with the help of animals, it is called **Zoophily**
 
 ---
 
-## 17.6  Fertilization in Plants
+## Fertilization in Plants
 
 ![](12.png)
 
@@ -265,7 +249,7 @@ The seed contains the future plant or embryo which develops into a seedling unde
 
 ---
 
-## 17.7 Sexual Reproduction in Human
+## Sexual Reproduction in Human
 
 In human beings the male and female reproductive organs differ anatomically and physiologically. New individuals develop by the fusion of gametes. Sexual reproduction involves the fusion of two haploid gametes (male and the female gametes) to form a diploid individual (zygote).
 
@@ -285,7 +269,7 @@ The secondary (accessory) sex organs include those structures which are involved
 - Development of foetus
 - Child birth
 
-### 17.7.1 Male Reproductive Organ - Structure of Testes
+### Male Reproductive Organ - Structure of Testes
 
 Testes are the reproductive glands of the male that are oval shaped organs which lie outside the abdominal cavity of a man in a sac like structure called **scrotum**.
 
@@ -297,7 +281,7 @@ The process of **spermatogenesis** takes place in the seminiferous tubules. The 
 
 **Figure:17.13** L.S of human testes
 
-### 17.7.2 Female Reproductive Organ - Structure of Ovary
+### Female Reproductive Organ - Structure of Ovary
 
 The ovaries are located on either side of the lower abdomen composed of two almond shaped bodies, each lying near the lateral end of fallopian tube. Each ovary is a compact structure consisting of an outer **cortex** and an inner **medulla**. The cortex is composed of a network of connective tissue called as **stroma** and is lined by the **germinal epithelium**. The epithelial cells called the **granulosa cells** surround each ovum in the ovary together forming the **primary follicle**. As the egg grows larger, the follicle also enlarges and gets filled with the fluid and is called the **Graafian follicle**.
 
@@ -309,11 +293,11 @@ The ovaries are located on either side of the lower abdomen composed of two almo
 
 ---
 
-## 17.8 Gametogenesis
+## Gametogenesis
 
 The formation of the sperm in male and the ovum in female is called **gametogenesis**. It involves **spermatogenesis** (formation of spermatozoa) and **oogenesis** (the formation of ova). Gametes with haploid cells are produced through meiosis.
 
-### 17.8.1 Structure of Human Sperm
+### Structure of Human Sperm
 
 The spermatozoan consists of **head**, a **middle piece** and **tail**. The sperm head is elongated and formed by the condensation of nucleus. The anterior portion has a cap
 
@@ -323,7 +307,7 @@ The spermatozoan consists of **head**, a **middle piece** and **tail**. The sper
 
  like structure called **acrosome**. It contains **hyaluronidase** an enzyme that helps the sperm to enter the ovum during fertilization. A short neck connects the head and middle piece which comprises the centrioles. The middle piece contains the **mitochondria** which provides energy for the movement of tail. It brings about sperm motility which is essential for fertilization.
 
-### 17.8.2 Structure of Human Ovum
+### Structure of Human Ovum
 
 The mature ovum or egg is spherical in shape. The ovum is almost free of yolk. It contains abundant cytoplasm and the nucleus. The ovum is surrounded by three membranes. The plasma membrane is surrounded by inner thin **zona pellucida** and an outer thick **corona radiata**. The corona radiata is formed of follicle cells. The membrane forming the surface layer of the ovum is called **vitelline membrane**. The fluid-filled space between zona pellucida and the surface of the egg is called **perivitelline space**.
 
@@ -341,7 +325,7 @@ The reproductive system in both males and females becomes functional and an incr
 
 ---
 
-## 17.9 Menstrual Cycle - Process of Ovulation
+## Menstrual Cycle - Process of Ovulation
 
 The cyclic events that take place in a rhythmic fashion during the reproductive period of a woman's life is called **menstrual cycle**. In human females the menstrual cycle starts at the age of 11-13 years which marks the onset of puberty and is called **menarche**, and ceases around 48-50 years of age and this stage is termed **menopause**. The reproductive period is marked by characteristic events repeated almost every month in physiologically normal women (28 days with minor variation) in the form of a menstrual flow. The menstrual cycle consists of 4 phases:
 
@@ -368,7 +352,7 @@ These phases show simultaneous synchrony of events in both ovary and uterus. Cha
 
 ---
 
-## 17.10 Fertilization to Foetal Development
+## Fertilization to Foetal Development
 
 ### Fertilization
 Fertilization in human is internal and occurs in the oviduct of the female genital tract. It takes place usually in the **ampulla of the fallopian tube**. An oocyte is alive for about 24 hours after it is released from the follicle. Fertilisation must take place within 24 hours. The sperm enters into the ovum and fuses with it, resulting in the formation of a **'zygote'**. This process is called fertilization. The zygote is a fertilized egg.
@@ -407,7 +391,7 @@ The process of milk production after child birth from mammary glands of the moth
 
 ---
 
-## 17.11 Reproductive Health
+## Reproductive Health
 
 According to World Health Organization (WHO) reproductive health means a total well being in all aspects of reproduction, ability to reproduce and regulate fertility, women's ability to undergo pregnancy and safe child birth, maternal and infant survival and well being.
 
@@ -431,7 +415,7 @@ It has integrated all services which include:
 
 ---
 
-## 17.12 Population Explosion and Family Planning
+## Population Explosion and Family Planning
 
 **Population explosion** defined as the sudden and rapid rise in the size of population, especially human population. Realizing the dangers inherent in population growth, the Government of India has taken several measures to check population growth and introduced family planning. India has been one of the first country in the world to launch the nation wide family planning programme in 1952.
 
@@ -439,7 +423,7 @@ It has integrated all services which include:
 
 > **Do You Know?** The inverted red triangle is a symbol of family planning in India for family welfare. It is displayed prominently at all hospitals, primary health clinics and family welfare centres where any help or advice about family planning is available free of cost. The symbol is displayed along with a slogan **Small Family, Happy Family**.
 
-### 17.12.1 Contraception
+### Contraception
 
 **Contraception** is one of the best birth control measures. A number of techniques or methods have been developed to prevent pregnancies in women. The devices used for contraception are called **contraceptive devices**. Common contraceptive methods used to prevent pregnancy are discussed below:
 
@@ -471,7 +455,7 @@ Surgical contraception or sterilization techniques are terminal methods to preve
 
 ---
 
-## 17.13 Urinary Tract Infection (UTI)
+## Urinary Tract Infection (UTI)
 
 Many diseases affect both women and men, but a few diseases occur at a higher frequency in woman. Woman are susceptible to UTI from the bacteria that are present on skin, rectum or vagina. This will enter the urethra, before moving upwards. The types of UTI are:
 
@@ -486,23 +470,23 @@ The bacteria present in the urinary bladder which may not show any symptoms.
 
 ---
 
-## 17.14 Personal Hygiene
+## Personal Hygiene
 
 **Hygiene** is the practice of healthy living and personal cleanliness. **Personal hygiene** is caring of one's own body and health. **Social hygiene** is proper care of the surrounding environment. The main aspect of hygiene are body hygiene, food hygiene, sanitary hygiene and hygienic environment.
 
-### 17.14.1 Body Hygiene
+### Body Hygiene
 Washing is vital to all age group of people which maintains our personal hygiene. A daily bath regularly keeps skin clean and free of germs. Hair should be kept clean by frequent washing. Mouth wash should be done after every meal. We should wash our hands many times during the day.
 
 Cloth towels used to dry our hands or body should be dried after each use and laundered regularly. Clothes, handkerchief, undergarments and socks should be washed daily. Washing prevents body odour, infections and skin diseases.
 
-### 17.14.2 Toilet Hygiene
+### Toilet Hygiene
 The toilet has a lot to do with personal hygiene and general health as it is a place that cannot be avoided and used regularly. Parents should guide and practice their children on how to use the toilets at home, in schools and other public places so that it will protect the children from various contagious infections and diseases. The following measures can ensure toilet hygiene:
 
 1. The floors of the toilet should be maintained clean and dry. This helps to reduce the bad odour and also infection.
 2. Toilet flush handles, door knobs, faucets, paper towel dispensers, light switches and walls should be cleaned with disinfectants to kill harmful germs and bacteria.
 3. Hands should be washed thoroughly with soap before and after toilet use.
 
-### 17.14.3 Menstrual and Napkin Hygiene
+### Menstrual and Napkin Hygiene
 
 Women's health depends upon the level of cleanliness to keep them free from skin and genitourinary tract infections.
 

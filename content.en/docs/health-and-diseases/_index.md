@@ -16,20 +16,6 @@ categories:
 
 
 
-## Learning Objectives
-
-At the end of this lesson the students will be able to:
-
-- Understand the types of abuses and associated behavioural changes.
-- Gain knowledge of prevention and protection from child sexual abuse.
-- Know the causes for drug, tobacco and alcohol addiction and its effects on health.
-- Analyse the possible ways of de-addiction.
-- Know about the diseases and disorders associated with lifestyle modification.
-- Compare the features of Type-1 and Type-2 diabetes mellitus and relates the signs and symptoms.
-- Explain the underlying cause and symptoms for obesity, heart disease, cancer and AIDS.
-- Suggest remedial measures for prevention and control of these diseases and disorders.
-- To create awareness among the individuals in the society to lead healthy life.
-
 ## Introduction
 
 Abuses occur in a variety of forms and are deeply rooted in cultural, social and economic practices. Solving this global problem however requires a much better understanding of its occurrence, causes and consequences with context to sexual and childhood abuse, this is followed by substance abuse.
@@ -40,7 +26,7 @@ The role of behaviour in health has been receiving increased attention in countr
 
 ---
 
-## 21.1 Abuse and Types of Abuse
+## Abuse and Types of Abuse
 
 Abuse refers to cruel, violent, harmful or injurious treatment of another human being. It includes physical, emotional or psychological, verbal, child and sexual abuses. Abuse can occur within the family and with people who are not associated with the family.
 
@@ -48,11 +34,11 @@ These days the use of drugs, alcohol and tobacco has been increasing especially 
 
 Let's analyse some of the consequences of sexual and childhood abuse, its prevention and protection.
 
-### 21.1.1 Child Abuse
+### Child Abuse
 
 Child abuse constitutes all forms of physical or emotional ill treatment, sexual abuse, exploitation resulting in child's ill health, survival and development. Physical abuse of a child is defined as those acts that cause physical harm such as threatening, beating, kicking and hitting the child.
 
-### 21.1.2 Sexual Abuse
+### Sexual Abuse
 
 Sexual harassment is a form of power and dominance of one person over another, which can result in harmful consequence to the victim. It refers to inappropriate or forced sexual contact. Adolescent girls and women encounter sexual harassment in different forms. Sexual abuse is more common at work places. Verbal remarks, comments, gestures and looks are the most common forms of abuse. This results in psychological distress, physical illness and eating disorders in the affected individuals.
 
@@ -69,13 +55,13 @@ Sexual harassment is a form of power and dominance of one person over another, w
   - Pornography
 - To establish Special Courts for speedy trial of such offences.
 
-### 21.1.3 Child Sexual Abuse
+### Child Sexual Abuse
 
 Children are considered soft targets for sexual abuse because they may not realize that they are being abused. Commonly, abusers are persons well known to the child, may even be living in the same locality. Abusers also bribe (use chocolates and toys) to lure children and take advantage of the child's innocence.
 
 Sexually abused children show symptoms of genital injury, abdominal pain, frequent urinary infection and behavioural changes.
 
-### 21.1.4 Approaches for Protection of an Abused Child
+### Approaches for Protection of an Abused Child
 
 Measures adopted for monitoring and assessment of abused child who have undergone signs and symptoms of distress are:
 
@@ -120,7 +106,7 @@ It is the responsibility of every individual living in a society to ensure a saf
 
 ---
 
-## 21.2 Drug, Alcohol and Tobacco Abuse
+## Drug, Alcohol and Tobacco Abuse
 
 The physical and mental dependency on alcohol, smoking and drugs is called **addiction**. The addictive potential of these substances pulls an individual into a vicious cycle leading to regular abuse and dependency. This is of serious concern because abuse of tobacco, alcohol or drugs produce many harmful effects in an individual, to the family and even to the society. This dangerous behavior pattern among youth can be prevented through proper education and awareness.
 
@@ -128,17 +114,17 @@ The physical and mental dependency on alcohol, smoking and drugs is called **add
 
 ---
 
-## 21.3 Drug Abuse
+## Drug Abuse
 
 Drugs are normally used for the treatment of disease on advice of a physician and withdrawn after recovery. A person who is habituated to a drug due to its prolonged use is called **drug addict**. This is called **drug addiction** or **drug dependence**.
 
 A drug that modifies the physical, biological, psychological or social behaviour of a person by stimulating, depressing or disturbing the functions of the body and the mind is called **addictive drug**. These drugs interact with the central nervous system and affect the individual physically and mentally.
 
-### 21.3.1 Types of Drugs
+### Types of Drugs
 
 There are certain drugs called **psychotropic drugs** which acts on the brain and alter the behaviour, consciousness, power of thinking and perception. They are referred as **mood altering drugs**.
 
-### 21.3.2 Drug Dependence
+### Drug Dependence
 
 Persons who consume these drugs become fully dependent on them, they cannot live without drugs. This condition is referred as **drug dependence**.
 
@@ -152,7 +138,7 @@ Persons who consume these drugs become fully dependent on them, they cannot live
 >
 > World Health Organization (WHO) 1984 suggested the use of the term **drug dependence** in place of drug addiction or drug abuse.
 
-### 21.3.3 Behavioural Changes of Drug Users
+### Behavioural Changes of Drug Users
 
 Adverse effects of drug use among adolescents are:
 
@@ -164,7 +150,7 @@ Adverse effects of drug use among adolescents are:
 - Always looking out for an easy way to get money for obtaining drugs.
 - Prone to infections like AIDS and hepatitis.
 
-### 21.3.4 Drug De-addiction
+### Drug De-addiction
 
 Management of de-addiction is a complicated and difficult task. The path to recovery of drug addicts is long and often challenging.
 
@@ -180,15 +166,15 @@ Family members, friends and society on the whole have a very important role to p
 
 ---
 
-## 21.4 Tobacco Abuse
+## Tobacco Abuse
 
 Tobacco is obtained from the tobacco plant _Nicotiana tobaccum_ and _Nicotiana rustica_. The dried and cured leaves of its young branches make the commercial tobacco used worldwide. Addiction to tobacco is due to **'nicotine'** an alkaloid present in it. Nicotine is a stimulant, highly harmful and poisonous substance.
 
-### 21.4.1 Tobacco Use
+### Tobacco Use
 
 Tobacco is used for smoking, chewing and snuffing. Inhaling tobacco smoke from cigars, cigarettes, bidis, pipes, hukka is called **smoking**. Tobacco in powder form is chewed with pan. When powdered tobacco is taken through nose, it is called snuffing.
 
-### 21.4.2 Smoking Hazards and Effects of Tobacco
+### Smoking Hazards and Effects of Tobacco
 
 When smoke is inhaled, the chemicals get absorbed by the tissues and cause the following harmful effects:
 
@@ -212,7 +198,7 @@ When smoke is inhaled, the chemicals get absorbed by the tissues and cause the f
 
 **Activity 1:** Collect pictures of people affected by tobacco chewing and tobacco smoking. Identify which part of the body is affected and the health hazards it can lead to.
 
-### 21.4.3 Prevention of Smoking
+### Prevention of Smoking
 
 Knowing the dangers of smoking and chewing tobacco adolescents and the old people need to avoid these habits. Proper counselling and medical assistance can help an addict to give up the habit of smoking.
 
@@ -225,13 +211,13 @@ Knowing the dangers of smoking and chewing tobacco adolescents and the old peopl
 
 ---
 
-## 21.5 Alcohol Abuse
+## Alcohol Abuse
 
 The consumption of alcohol is a social evil practiced by the wealthier and poorer sections of the society. The dependence of alcohol is called **alcoholism** and the addict is termed as **alcoholic**. It is called **alcohol abuse**. Drinking of alcohol impairs one's physical, physiological and psychological functions.
 
 **Activity 2:** Collect pictures of individuals with normal liver and alcoholic liver, compare and indicate the changes you find in them.
 
-### 21.5.1 Harmful Effects of Alcohol to Health
+### Harmful Effects of Alcohol to Health
 
 Prolonged use of alcohol depresses the nervous system, by acting as a sedative and analgesic substance. Some of the harmful effects are:
 
@@ -244,7 +230,7 @@ Prolonged use of alcohol depresses the nervous system, by acting as a sedative a
 
 ![](6.png)
 
-## 21.6 Rehabilitation Measures for Alcoholics
+## Rehabilitation Measures for Alcoholics
 
 Education and counselling: Education and proper counselling will help the alcoholics to overcome their problems and stress, to accept failures in their life.
 Physical activity: Individuals undergoing rehabilitation should be channelized into healthy activities like reading, music, sports, yoga and
@@ -253,15 +239,15 @@ Seeking help from parents and peer groups: When a problematic situation occurs, 
 Medical assistance: Individual should seek help from psychologists and psychiatrists to get relieved from this condition and to lead a relaxed and peaceful life.
 Alcohol de-addiction and rehabilitation programmes are helpful to the individual so that they could get rid of the problem completely and can lead a normal and healthy life.
 
-## 21.7 Diseases and Disorders due to Lifestyle Modifications
+## Diseases and Disorders due to Lifestyle Modifications
 
 Diseases are prevalent in our society due to our improper way of living, conditions of stress and strain. These diseases are non-communicable and affect the person who are suffering from particular symptoms. It is an impairment of the body tissue or organ, disturbances in metabolic function which require modification of an individual's normal life.
 
-## 21.8 Diabetes Mellitus
+## Diabetes Mellitus
 
 Diabetes mellitus is a chronic metabolic disorder. It is characterized by increased blood glucose level due to insufficient, deficient or failure of insulin secretion. This is the most common pancreatic endocrine disorder. The incidence of Type-1 and Type-2 diabetes is increasing worldwide.
 
-### 21.8.1 Type-1 Insulin Dependent Diabetes Mellitus (IDDM)
+### Type-1 Insulin Dependent Diabetes Mellitus (IDDM)
 
 IDDM accounts for **10 to 20%** of the known diabetics. The condition also occurs in children (**juvenile onset diabetes**) and young adults, the onset is usually sudden and can be life threatening. This is caused by the **destruction of β-cells of the pancreas**. It is characterized by abnormally elevated blood glucose levels (**hyperglycemia**) resulting from inadequate insulin secretion.
 
@@ -269,7 +255,7 @@ IDDM accounts for **10 to 20%** of the known diabetics. The condition also occur
 
 ![](7.png)
 
-### 21.8.2 Type-2 Non-Insulin Dependent Diabetes Mellitus (NIDDM)
+### Type-2 Non-Insulin Dependent Diabetes Mellitus (NIDDM)
 
 This is also called as **adult onset diabetes** and accounting for **80 to 90%** of the diabetic population. It develops slowly, usually milder and more stable. Insulin production by the pancreas is normal but its action is impaired. The target cells do not respond to insulin. It does not allow the movement of glucose into cells.
 
@@ -292,7 +278,7 @@ This is also called as **adult onset diabetes** and accounting for **80 to 90%**
 >
 > According to WHO recommendation, if the **fasting blood glucose** is greater than **140 mg/dl** or the **random blood glucose** is greater than **200 mg/dl** on more than two occasions, diagnosis for confirming diabetes is established.
 
-### 21.8.3 Prevention and Control of Diabetes
+### Prevention and Control of Diabetes
 
 Diet, hypoglycemic drugs, insulin injection and exercise are the management options based on the type and severity of the condition. The overall goal of diabetes management is to maintain normal blood glucose levels.
 
@@ -322,7 +308,7 @@ Carbohydrates is maintained to about **50-55%** of the total calories. High prot
 
 ---
 
-## 21.9 Obesity
+## Obesity
 
 **Obesity** is the state in which there is an accumulation of excess body fat with an abnormal increase in body weight. Obesity is a complex multifactorial chronic disease developing from influence of social, behavioural, psychological, metabolic and cellular factors.
 
@@ -338,7 +324,7 @@ $$
 
 **Causes and risk factors:** Obesity is due to genetic factors, physical inactivity, eating habits (overeating) and endocrine factors. Obesity is a positive risk factor in development of **hypertension, diabetes, gall bladder disease, coronary heart disease** and stroke.
 
-### 21.9.1 Prevention and Control of Obesity
+### Prevention and Control of Obesity
 
 **Diet Management:** Low calorie, normal protein, vitamins and mineral, restricted carbohydrate and fat, high fiber diet can prevent overweight. Calorie restriction for weight reduction is safe and most effective.
 
@@ -346,7 +332,7 @@ $$
 
 ---
 
-## 21.10 Heart Disease
+## Heart Disease
 
 **Cardiovascular disease (CVD)** is associated with diseases of the heart and blood vessels. **Coronary heart disease (CHD)** is the most common form and is caused by **deposition of cholesterol in the blood vessels**.
 
@@ -366,7 +352,7 @@ It usually develops slowly over many years beginning from childhood, they may fo
 >
 > **HDL** (High Density Lipoprotein) or **"good" cholesterol** lowers risk of heart disease while **LDL** (Low Density Lipoprotein) or **"bad" cholesterol** increases risk of heart disease.
 
-### 21.10.1 Prevention and Control of Heart Disease
+### Prevention and Control of Heart Disease
 
 **Diet management:** Reduction in the intake of calories, low saturated fat and cholesterol rich food, low carbohydrates and common salt are some of the dietary modifications. Diet rich in polyunsaturated fatty acids (PUFA) is essential. Increase in the intake of fibre diet, fruits and vegetables, protein, minerals and vitamin are recommended.
 
@@ -378,7 +364,7 @@ It usually develops slowly over many years beginning from childhood, they may fo
 
 ---
 
-## 21.11 Cancer
+## Cancer
 
 Cancer causes about **4 million deaths** annually throughout the world. In India more than **one million people** suffer from cancer. Cancer is derived from Latin word meaning crab. The study of cancer is called **Oncology** (Oncos = Tumor).
 
@@ -391,7 +377,7 @@ The cancerous cells migrate to distant parts of the body and affect new tissues.
 > - **World Cancer Day** - 4th February
 > - **National Cancer Awareness Day** - 7th November
 
-### 21.11.1 Types of Cancers
+### Types of Cancers
 
 Cancers are classified on the basis of the tissues from which they are derived:
 
@@ -408,7 +394,7 @@ Cancers are classified on the basis of the tissues from which they are derived:
 > - **Benign tumours** or **Non malignant tumours:** Remain confined in the organ affected and do not spread to other parts of the body.
 > - **Malignant tumours:** Mass of proliferating cells which grow very rapidly invading and damaging the surrounding normal tissues.
 
-### 21.11.2 Carcinogenic Agents
+### Carcinogenic Agents
 
 Cancer causing agents are called **carcinogens**. They are physical, chemical agents, ionizing radiations and biological agents.
 
@@ -420,7 +406,7 @@ Cancer causing agents are called **carcinogens**. They are physical, chemical ag
 
 **Biological agents:** Cancer causing viruses are called **oncogenic viruses**.
 
-### 21.11.3 Treatment of Cancer
+### Treatment of Cancer
 
 The treatment of cancer involves the following methods:
 
@@ -432,7 +418,7 @@ The treatment of cancer involves the following methods:
 
 **Immunotherapy:** Biological response modifiers like interferons are used to activate the immune system and help in destroying the tumour cells.
 
-### 21.11.4 Preventive Measures for Cancer
+### Preventive Measures for Cancer
 
 Cancer control programmes should focus on **primary prevention** and **early detection**.
 
@@ -440,7 +426,7 @@ To prevent lung cancer tobacco smoking is to be avoided and protective measures 
 
 ---
 
-## 21.12 AIDS (Acquired Immunodeficiency Syndrome)
+## AIDS (Acquired Immunodeficiency Syndrome)
 
 **AIDS** is a severe viral disease and caused by **Human Immunodeficiency Virus (HIV)**. It is a condition in which immune system fails and suppress the body's disease fighting mechanism. They attack the lymphocytes and the affected individual is prone to infectious diseases.
 
@@ -448,7 +434,7 @@ To prevent lung cancer tobacco smoking is to be avoided and protective measures 
 >
 > **Dr. Suniti Solomon**, pioneered HIV research and treatment in India. She set up the first voluntary testing and counselling centre and an AIDS Research group in Chennai during 80's. Her team was the first to document evidence of HIV infection in India in 1985 (First Indian AIDS patient in Chennai).
 
-### 21.12.1 Transmission of HIV
+### Transmission of HIV
 
 AIDS virus has been found in urine, tears, saliva, breast milk and vaginal secretions. The virus is transmitted by an infected patient who comes in contact with blood of a healthy person. HIV/AIDS is **not transmitted by touch or any physical contact**. It spreads through contact of body fluids or blood.
 
@@ -458,7 +444,7 @@ AIDS virus has been found in urine, tears, saliva, breast milk and vaginal secre
 (iii) By transfusion of contaminated/infected blood or blood products
 (iv) From infected mother to her child through placenta/breast milk
 
-### 21.12.2 Symptoms and Treatment of AIDS
+### Symptoms and Treatment of AIDS
 
 **Symptoms:** Infected individuals become immunodeficient. The person becomes more susceptible to viral, bacterial, protozoan and fungal infections. Swelling of lymph nodes, damage to brain, loss of memory, lack of appetite and weight loss, fever, chronic diarrhoea, cough, lethargy, pharyngitis, nausea and vomiting.
 
@@ -466,7 +452,7 @@ AIDS virus has been found in urine, tears, saliva, breast milk and vaginal secre
 
 **Treatment:** Anti-retroviral drugs and immunostimulative therapy can prolong the life of the infected person.
 
-### 21.12.3 Prevention and Control of AIDS
+### Prevention and Control of AIDS
 
 The following steps may help in controlling and prevent the spreading of HIV infection:
 
@@ -499,56 +485,3 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 ---
 
 
----
-
-## Concept Map
-
-**Abuses and Disorders due to Lifestyle Modification**
-
-```
-Abuses and Disorders due to Lifestyle Modification
-|
-|-- Abuses
-|   |
-|   |-- Child abuse
-|   |
-|   |-- Sexual abuse
-|   |
-|   |-- Drug abuse
-|   |
-|   |-- Tobacco abuse
-|   |
-|   |-- Alcohol abuse
-|
-|-- Protection and Prevention
-|   |
-|   |-- Counselling and Psychotherapy
-|   |
-|   |-- Family support
-|   |
-|   |-- Community based efforts
-|   |
-|   |-- Abuse prevention campaigns
-|   |
-|   |-- Rehabilitation
-|
-|-- Disorders due to Lifestyle Modification
-|   |
-|   |-- Diabetes Mellitus
-|   |
-|   |-- Obesity
-|   |
-|   |-- Cancer
-|
-|-- Protection and Prevention
-    |
-    |-- Dietary management
-    |
-    |-- Physical activity and body weight maintenance
-    |
-    |-- Medication and therapy
-    |
-    |-- Education and awareness
-```
-
----

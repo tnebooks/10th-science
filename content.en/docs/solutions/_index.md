@@ -5,7 +5,7 @@ references:
     videos:
         - youtube:Ksttr4FpCL4?si=fqAcXFrYma61rZVz
     links:
-        - https://www.cwcboe.org/cms/lib/NJ01001185/Centricity/Domain/203/Solutions%20Suspensions%20and%20Colloids.pdf
+        - "[Unreal Chemist - Chemistry Lab](https://play.google.com/store/apps/details?id=com.PixelMiller.UnrealChemist)"
     books:
         - b1:
             title: Properties Liquids Solutions John Murrell 2nd Edition.
@@ -14,17 +14,6 @@ categories:
     - solutions
 ---
 
-
-## Learning Objectives
-
-After studying this lesson, students will able to:
-- define solution.
-- recognize the types of solutions.
-- analyse the factors influencing solubility.
-- explain the various modes of expression of concentration of solution.
-- calculate the solubility of solutes in solvents.
-- correlate the hydrated salts and anhydrous salts.
-- distinguish between deliquescent and hygroscopic substances.
 
 ## INTRODUCTION
 
@@ -39,7 +28,7 @@ a) Homogeneous mixture
 b) Heterogeneous mixture
 ---
 
-## 9.1 SOLUTIONS IN DAY-TO-DAY LIFE
+## SOLUTIONS IN DAY-TO-DAY LIFE
 
 One of the naturally existing solutions is sea water. We cannot imagine life on earth without sea water. It is a mixture of many dissolved salts. The another one is air. It is a mixture of gases like nitrogen, oxygen, carbon dioxide and other gases.
 
@@ -47,7 +36,7 @@ All the life forms on the earth are associated with solutions. Plants take solut
 
 ---
 
-## 9.2 COMPONENTS OF SOLUTIONS
+## COMPONENTS OF SOLUTIONS
 
 We know that, a solution is a homogeneous mixture of two or more substances. In a solution, the component which is present in lesser amount (by weight), is called **solute** and the component, which is present in a larger amount (by weight) is called **solvent**. The solute gets distributed uniformly throughout the solvent and thus forming the mixture homogeneous. So, the solvent acts as a dissolving medium in a solution. The process of uniform distribution of solute into solvent is called **dissolution**.
 
@@ -69,9 +58,9 @@ Formation of Copper sulphate solution
 
 ---
 
-## 9.3 TYPES OF SOLUTIONS
+## TYPES OF SOLUTIONS
 
-### 9.3.1 Based on the physical state of the solute and the solvent
+### Based on the physical state of the solute and the solvent
 
 We know that substances normally exist in three physical states (phases) i.e., solid, liquid and gas. In binary solutions, both the solvent and solute may exist in any of these physical states. But the solvent constitutes the major part of the solution. Its physical state is the primary factor which determine the characteristics of the solution.
 
@@ -90,7 +79,7 @@ We know that substances normally exist in three physical states (phases) i.e., s
 | Liquid | Gas | Water vapour in air (cloud) |
 | Gas | Gas | Mixture of Helium-Oxygen gases |
 
-### 9.3.2 Based on the type of solvent
+### Based on the type of solvent
 
 Most of the substances are soluble in water. That is why, water is called as **'Universal solvent'**. However some substances do not dissolve in water. Therefore, other solvents such as ethers, benzene, alcohols etc., are used to prepare a solution.
 
@@ -111,7 +100,7 @@ The solution in which any liquid, other than water, acts as a solvent is called 
 a) Sulphur is soluble in CS₂ b) Sulphur is insoluble in water
 
 
-### 9.3.3 Based on the amount of solute
+### Based on the amount of solute
 
 The amount of the solute that can be dissolved in the given amount of solvent is limited under any given conditions. Based on the amount of solute, in the given amount of solvent, solutions are classified into the following types:
 
@@ -131,7 +120,7 @@ The amount of the solute that can be dissolved in the given amount of solvent is
 > **Conceptual Thoughts**
 > You are given two samples of solutions of NaCl. Can you identify which one is saturated? and How?
 
-### 9.3.4 Concentrated and dilute solutions
+### Concentrated and dilute solutions
 
 It is another kind of classification of unsaturated solutions. It expresses the relative concentration of two solutions with respect to their solutes present in the given amount of the solvent.
 
@@ -148,7 +137,7 @@ Differentiating solutions as dilute and concentrated is a qualitative representa
 
 ---
 
-## 9.4 SOLUBILITY
+## SOLUBILITY
 
 Usually, there is a limit to the amount of solute that can be dissolved in a given amount of solvent at a given temperature. When this limit is reached, we have a saturated solution and any excess solute that is added, simply settle down at the bottom of the solution.
 
@@ -176,7 +165,7 @@ $$
 | Sodium bromide | NaBr (s) | 95 |
 | Sodium iodide | NaI (s) | 184 |
 
-### 9.4.1 Factors affecting solubility
+### Factors affecting solubility
 
 There are three main factors which govern the solubility of a solute. They are:
 1. Nature of the solute and solvent
@@ -220,7 +209,7 @@ Effect of pressure on solubility
 
 ---
 
-## 9.5 CONCENTRATION OF A SOLUTION
+## CONCENTRATION OF A SOLUTION
 
 So far, we discussed what is a solution? what does it consist of and its types. Most of the chemical reactions take place in solutions form. So it is essential to quantify the solute in solvent to study the reactions.
 
@@ -230,7 +219,7 @@ Quantitatively, concentration of a solution may be expressed in different method
 - Percentage by mass (% mass)
 - Percentage by volume (% volume)
 
-### 9.5.1 Mass percentage
+### Mass percentage
 
 Mass percentage of a solution is defined as the percentage by mass of the solute present in the solution. It is mostly used when solute is solid and solvent is liquid.
 
@@ -248,7 +237,7 @@ $$
 
 Usually, mass percentage is expressed as **w/w (weight/weight)**; mass percentage is independent of temperature.
 
-### 9.5.2 Volume percentage
+### Volume percentage
 
 Volume percentage is defined as the percentage by volume of solute (in ml) present in the given volume of the solution.
 
@@ -274,7 +263,7 @@ Ointment (w/w percent)
 
 ---
 
-## 9.6 HYDRATED SALTS AND WATER OF CRYSTALLIZATION
+## HYDRATED SALTS AND WATER OF CRYSTALLIZATION
 
 When ionic substances are dissolved in water to make their saturated aqueous solution, their ions attract water molecules which then attached chemically in certain ratio. This process is called **hydration**. These ionic substances crystallize out from their saturated aqueous solution with a definite number of molecules of water. The number of water molecules found in the crystalline substance is called **water of crystallization**. Such salts are called **hydrated salts**.
 
@@ -295,7 +284,7 @@ On heating these hydrated crystalline salts, they lose their water of crystalliz
 | Green Vitriol | Iron (II) sulphate heptahydrate | FeSO₄·7H₂O |
 | White Vitriol | Zinc sulphate heptahydrate | ZnSO₄·7H₂O |
 
-### 9.6.1 Copper sulphate pentahydrate CuSO₄·5H₂O (Blue vitriol)
+### Copper sulphate pentahydrate CuSO₄·5H₂O (Blue vitriol)
 
 The number of water molecules in blue vitriol is five. So its water of crystallization is 5. When blue coloured copper sulphate crystals are gently heated, it loses its five water molecules and becomes colourless anhydrous copper sulphate.
 
@@ -316,7 +305,7 @@ If you add few drops of water or allow it to cool, the colourless anhydrous salt
 Anhydrous copper sulphate turns to blue when water is added
 
 
-### 9.6.2 Magnesium sulphate heptahydrate MgSO₄·7H₂O (Epsom salt)
+### Magnesium sulphate heptahydrate MgSO₄·7H₂O (Epsom salt)
 
 Its water of crystallization is 7. When magnesium sulphate heptahydrate crystals are gently heated, it loses seven water molecules, and becomes anhydrous magnesium sulphate.
 
@@ -330,7 +319,7 @@ If you add few drops of water or allow it to cool, the colourless anhydrous salt
 
 ---
 
-## 9.7 HYGROSCOPY
+## HYGROSCOPY
 
 Certain substances, when exposed to the atmospheric air at ordinary temperature, absorb moisture without changing their physical state. Such substances are called **hygroscopic substances** and this property is called **hygroscopy**.
 
@@ -344,7 +333,7 @@ Hygroscopic substances are used as drying agents.
 
 ---
 
-## 9.8 DELIQUESCENCE
+## DELIQUESCENCE
 
 Certain substances which are so hygroscopic, when exposed to the atmospheric air at ordinary temperatures, absorb enough water and get completely dissolved. Such substances are called **deliquescent substances** and this property is called **deliquescence**.
 
@@ -370,7 +359,7 @@ Deliquescence in Sodium hydroxide
 
 ---
 
-## 9.9 PROBLEMS BASED ON SOLUBILITY AND PERCENTAGE BY MASS AND VOLUME
+## PROBLEMS BASED ON SOLUBILITY AND PERCENTAGE BY MASS AND VOLUME
 
 ### I. Problems based on solubility
 
@@ -536,24 +525,3 @@ $$
 
 ---
  
----
-
-## CONCEPT MAP
-
-[Visual concept map showing relationships between: Solvent + Solute → Solution → Types of solution, Solubility, Concentration of solution, Salt → Hydrated salt, Water absorbing from atmospheric air → Deliquescence, Hygroscopy]
-
----
-
-## ICT CORNER
-
-**BEAKER** application enable the students to use their mobile as virtual chemistry laboratory and also to do various experiments on their own.
-
-### Steps
-- Access the application "BEAKER – Mix Chemicals" with help of the URL or QR code, Install it in the mobile. You can see that the screen will act like a beaker after opening the application.
-- If you click the round button, you can see many elements and compounds.
-- If you click any elements and compounds, it will be added to the beaker in the home screen.
-- By clicking Menu at the left side, You can see lid, match stick, burner and chemist. Use those whenever necessary.
-
-**URL:** https://play.google.com/store/apps/details?id=air.thix.sciencesense.beaker
-
-```

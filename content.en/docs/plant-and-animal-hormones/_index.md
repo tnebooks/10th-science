@@ -17,26 +17,12 @@ categories:
     - plant-and-animal-hormones
 ---
 
-## Learning Objectives
-At the end of this lesson the students will be able to:
-- Define hormone
-- List out plant hormones.
-- Classify plant hormones into growth promoters and growth inhibitors.
-- Differentiate the physiological effects of various plant hormones.
-- Understand how plant hormones control and coordinate various physiological activities in plants.
-- Know the various endocrine glands in the human body. 
-- Identify the location and structure of the endocrine glands in the human body.
-- Differentiate exocrine and endocrine glands.
-- Know the specific site of action and their functions.
-- Identify the disorders which occur due to decreased or increased hormone secretion.
-
-
 ## Introduction
 The word hormone is derived from the Greek word “hormon” meaning “ to excite”. The function of control and coordination in plants is performed by chemical substances produced by the plants called plant hormones. In plants several cells are capable of producing hormones. These phytohormones are transported to different parts of the plants to perform various physiological functions. 
 
 Endocrine glands in vertebrate animals possess a diversified communication system to co-ordinate physiological and metabolic functions by chemical integration. The endocrine system acts through chemical messengers known as hormones which are produced by specialized glands. Physiological processes such as digestion, metabolism, growth, development and reproduction are controlled by hormones.
 
-## 16.1 Plant Hormones
+## Plant Hormones
 Plant hormones are organic molecules that are produced at extremely low concentration in plants. These molecules control morphological, physiological and biochemical responses. 
 
 ## Types of Plant Hormones
@@ -54,13 +40,13 @@ Among all these plant hormones auxins, cytokinins and gibberellins promote plant
 
 ---
 
-## 16.1.1 Auxins
+## Auxins
 
 Auxins (Gk. auxein = to grow) were the first plant hormones discovered. The term auxin was introduced by Kogl and Haagen-Smith (1931). Auxins are produced at the tip of stems and roots from where they migrate to the zone of elongation.
 
 Charles Darwin (1880), observed unilateral growth and curvature of canary grass (*Phalaris canariensis*) coleoptiles. He came to the conclusion that some 'influence' was transmitted from the tip of the coleoptile to the basal region. This 'influence' was later identified as Auxin.
 
-### 16.1.1.1 Went's Experiment
+### Went's Experiment
 
 Frits Warmolt Went (1903–1990), a Dutch biologist demonstrated the existence and effect of auxin in plants. He did a series of experiments in *Avena*.
 
@@ -103,7 +89,7 @@ Auxins bring about a variety of physiological effects in different parts of the 
 
 ---
 
-## 16.1.2 Cytokinins
+## Cytokinins
 
 Cytokinins (Cytos - cell; kinesis - division) are the plant hormones that promote cell division or cytokinesis in plant cells. It was first isolated from Herring fish sperm. Zeatin was the cytokinin isolated from *Zea mays*. Cytokinin is found abundantly in liquid endosperm of coconut.
 
@@ -117,7 +103,7 @@ Cytokinins (Cytos - cell; kinesis - division) are the plant hormones that promot
 
 ---
 
-## 16.1.3 Gibberellins
+## Gibberellins
 
 Gibberellins are the most abundantly found plant hormones. Kurosawa (1926) observed Bakanae disease or foolish seedling disease in rice crops. This internodal elongation in rice was caused by fungus *Gibberella fujikuroi*. The active substance was identified as Gibberellic acid.
 
@@ -134,7 +120,7 @@ Gibberellins are the most abundantly found plant hormones. Kurosawa (1926) obser
 
 ---
 
-## 16.1.4 Abscisic Acid
+## Abscisic Acid
 
 Abscisic acid (ABA) is a growth inhibitor which regulates abscission and dormancy. It increases tolerance of plants to various kinds of stress. So, it is also called as **stress hormone**. It is found in the chloroplast of plants.
 
@@ -157,7 +143,7 @@ As the banana continues to ripen in the first bag, it produces ethylene gas. The
 
 ---
 
-## 16.1.5 Ethylene
+## Ethylene
 
 Ethylene is a gaseous plant hormone. It is a growth inhibitor. It is mainly concerned with maturation and ripening of fruits. Maximum synthesis of ethylene occurs during ripening of fruits like apples, bananas and melons.
 
@@ -174,7 +160,7 @@ Ethylene is a gaseous plant hormone. It is a growth inhibitor. It is mainly conc
 
 ---
 
-## 16.2 Human Endocrine Glands
+## Human Endocrine Glands
 
 Endocrine glands in animals possess a versatile communication system to coordinate biological functions. Exocrine glands and endocrine glands are two kinds of glands found in animals. Endocrine glands are found in different regions of the body of animals as well as human beings. These glands are called ductless glands. Their secretions are called hormones which are produced in minute quantities. The secretions diffuse into the blood stream and are carried to the distant parts of the body. They act on specific organs which are referred as target organs.
 
@@ -194,7 +180,7 @@ Endocrine glands present in human and other vertebrates are:
 
 ---
 
-## 16.2.1 Pituitary Gland
+## Pituitary Gland
 
 The pituitary gland or hypophysis is a pea shaped compact mass of cells located at the base of the midbrain attached to the hypothalamus by a pituitary stalk.
 
@@ -270,7 +256,7 @@ It helps in the contraction of the smooth muscles of uterus at the time of child
 
 ---
 
-## 16.2.2 Thyroid Gland
+## Thyroid Gland
 
 The thyroid gland is composed of two distinct lobes lying one on either side of the trachea. The two lobes are connected by means of a narrow band of tissue known as the isthmus. This gland is composed of glandular follicles and lined by cuboidal epithelium. The follicles are filled with colloid material called thyroglobulin.
 
@@ -320,7 +306,7 @@ It is caused due to the excess secretion of the thyroid hormones which leads to 
 
 ---
 
-## 16.2.3 Parathyroid Gland
+## Parathyroid Gland
 
 The parathyroid glands are four small oval bodies that are situated on the posterior surface of the thyroid lobes. The chief cells of the gland are mainly concerned with secretion of parathormone.
 
@@ -340,7 +326,7 @@ Removal of parathyroid glands during thyroidectomy (removal of thyroid) causes d
 
 ---
 
-## 16.2.4 Pancreas (Islets of Langerhans)
+## Pancreas (Islets of Langerhans)
 
 Pancreas is an elongated, yellowish gland situated in the loop of stomach and duodenum. It is exocrine and endocrine in nature. The exocrine pancreas secretes pancreatic juice which plays a role in digestion while, the endocrine portion is made up of Islets of Langerhans.
 
@@ -375,7 +361,7 @@ The deficiency of insulin causes **Diabetes mellitus**. It is characterised by:
 
 ---
 
-## 16.2.5 Adrenal Gland
+## Adrenal Gland
 
 The adrenal glands are located above each kidney. They are also called supra renal glands. The outer part is the adrenal cortex and the inner part is the adrenal medulla. The two distinct parts are structurally and functionally different.
 
@@ -437,7 +423,7 @@ Most of its actions are similar to those of adrenaline.
 
 ---
 
-## 16.2.6 Reproductive Glands (Gonads)
+## Reproductive Glands (Gonads)
 
 The sex glands are of two types the testes and the ovaries. The testes are present in male, while the ovaries are present in female.
 
@@ -472,7 +458,7 @@ Estrogen is produced by the Graafian follicles of the ovary and progesterone fro
 
 ---
 
-## 16.2.7 Thymus Gland
+## Thymus Gland
 
 Thymus is partly an endocrine gland and partly a lymphoid gland. It is located in the upper part of the chest covering the lower end of trachea. Thymosin is the hormone secreted by thymus gland.
 
@@ -665,44 +651,6 @@ d. Both A and R are false
 4. Sanjay is sitting in the exam hall. Before the start of the exam, he sweats a lot, with increased rate of heart beat. Why does this condition occur?
 
 5. Susan's father feels very tired and frequently urinates. After clinical diagnosis he was advised to take an injection daily to maintain his blood glucose level. What would be the possible cause for this? Suggest preventive measures.
-
----
-
----
-
-## Concept Map
-
-### Plant Hormones
-
-```
-Plant Hormones
-├── Growth Promoters
-│   ├── Auxins
-│   ├── Cytokinins
-│   └── Gibberellins
-└── Growth Inhibitors
-    ├── Abscisic Acid
-    └── Ethylene
-```
-
-### Human Endocrine Glands - Concept Map
-
-```
-ENDOCRINE GLANDS
-├── PITUITARY GLAND
-│   ├── ADENOHYPOPHYSIS → GH, PRL, TSH, ACTH, FSH, LH
-│   └── NEUROHYPOPHYSIS → VASOPRESSIN, OXYTOCIN
-├── THYROID GLAND → T3, T4
-├── PARATHYROID GLAND → PARATHORMONE
-├── PANCREAS (ISLETS OF LANGERHANS) → INSULIN, GLUCAGON
-├── ADRENAL GLAND
-│   ├── ADRENAL CORTEX → CORTISOL, ALDOSTERONE
-│   └── ADRENAL MEDULLA → EPINEPHRINE, NOREPINEPHRINE
-├── GONADS
-│   ├── TESTIS → TESTOSTERONE
-│   └── OVARY → ESTROGEN, PROGESTERONE
-└── THYMUS GLAND → THYMOSIN
-```
 
 ---
 

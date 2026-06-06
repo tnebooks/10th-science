@@ -5,8 +5,7 @@ references:
     videos:
         - youtube:1l2zgjfRhDI?si=WbJ7aLCVF2JTsVHb
     links:
-        - https://www.elprocus.com/basic-electrical-circuits-and-their-working-for-electrical-engineers/
-        - https://www.physicsclassroom.com/calcpad/circuits
+        - "[Ohm's Law Simulation](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html)"
     books:
         - b1:
             title: Fundamentals of Electric Circuits by Charles Alexander
@@ -18,28 +17,12 @@ categories:
 
 
 
-## Learning Objectives
-At the end of this lesson, students will be able to:
-- Make an electric circuit.
-- Differentiate between electric potential and potential difference.
-- Infer what electrical resistivity and conductivity mean.
-- Know the effective resistance of a system of resistors connected in series and parallel.
-- Understand the heating effect of the electric current.
-- Define electric power and electric energy and explain domestic electric circuits.
-- Know the modern appliances such as LED bulb and LED.
-
-
-
-
-
----
-
 ## Introduction
 You have already learnt about electricity in your lower classes, haven't you? Well, electricity deals with the flow of electric charges through a conductor. As a common term it refers to a form of energy. The usage of electric current in our day to day life is very important and indispensable. You are already aware of the fact that it is used in houses, educational institutions, hospitals, industries, etc. Therefore, its generation and transmission becomes a very crucial aspect of our life. In this lesson you will learn various terms used in understanding the concept of electricity. Eventually, you will realise the importance of the applications of electricity in day to day life.
 
 ---
 
-## 4.1 Electric Current
+## Electric Current
 The motion of electric charges (electrons) through a conductor (e.g., copper wire) will constitute an electric current. This is similar to the flow of water through a channel or flow of air from a region of high pressure to a region of low pressure.
 
 In a similar manner, the electric current passes from the positive terminal (higher electric potential) of a battery to the negative terminal (lower electric potential) through a wire as shown in the Figure 4.1.
@@ -48,12 +31,12 @@ In a similar manner, the electric current passes from the positive terminal (hig
 
 _Figure 4.1 Electron Flow_
 
-### 4.1.1 Definition of electric current
+### Definition of electric current
 Electric current is often termed as 'current' and it is represented by the symbol 'I'. It is defined as the **rate of flow of charges** in a conductor. This means that the electric current represents the amount of charges flowing in any cross section of a conductor (say a metal wire) in unit time. If a net charge 'Q' passes through any cross section of a conductor in time 't', then the current flowing through the conductor is:
 
 $$I = \frac{Q}{t}$$
 
-### 4.1.2 SI unit of electric current
+### SI unit of electric current
 The SI unit of electric current is **ampere (A)**. The current flowing through a conductor is said to be one ampere, when a charge of one coulomb flows across any cross-section of a conductor, in one second. Hence,
 
 $$
@@ -70,7 +53,7 @@ $$
 
 ---
 
-## 4.2 Electric Circuit
+## Electric Circuit
 An electric circuit is a closed conducting loop (or) path, which has a network of electrical components through which electrons are able to flow. This path is made using electrical wires so as to connect an electric appliance to a source of electric charges (battery).
 
 
@@ -83,7 +66,7 @@ In this circuit, if the switch is 'on', the bulb glows. If it is switched off, t
 
 By convention, the direction of current is taken as the direction of flow of positive charge (or) opposite to the direction of flow of electrons. Thus, electric current passes in the circuit from the positive terminal to the negative terminal.
 
-### 4.2.1 Electrical components
+### Electrical components
 
 The electric circuit given in Figure 4.2 consists of different components, such as a battery, a switch and a bulb. All these components can be represented by using certain symbols. It is easier to represent the components of a circuit using their respective symbols.
 
@@ -96,14 +79,14 @@ also summarized in the table.
 
 ---
 
-## 4.3 Electric Potential and Potential Difference
+## Electric Potential and Potential Difference
 You are now familiar with the water current and air current. You also know that there must be a difference in temperature between two points in a solid for the heat to flow in it. Similarly, a difference in electric potential is needed for the flow of electric charges in a conductor. In the conductor, the charges will flow from a point in it, which is at a higher electric potential to a point, which is at a lower electric potential.
 
-### 4.3.1 Electric Potential
+### Electric Potential
 The electric potential at a point is defined as the amount of work done in moving a unit positive charge from infinity to that point against the electric force.
 
 
-### 4.3.2 Electric Potential Difference
+### Electric Potential Difference
 The electric potential difference between two points is defined as the amount of work done in moving a unit positive charge from one point to another point against the electric force.
 
 ![](3.png)
@@ -132,7 +115,7 @@ $$
 
 
 
-### 4.3.3 Volt
+### Volt
 The SI unit of electric potential or potential difference is **volt (V)**.
 
 The potential difference between two points is one volt, if one joule of work is done in moving one coulomb of charge from one point to another against the electric force.
@@ -153,7 +136,7 @@ Potential Difference V = \frac{W}{Q} = \frac{100}{10} = 10 \text{ volt}
 $$
 ---
 
-## 4.4 Ohm's Law
+## Ohm's Law
 A German physicist, Georg Simon Ohm established the relation between the potential difference and current, which is known as **Ohm's Law**.
 
 ![](4.png)
@@ -185,7 +168,7 @@ _Figure4.5 Relation between potential difference and current_
 
 ---
 
-## 4.5 Resistance of a Material
+## Resistance of a Material
 Resistance of a material is its property to oppose the flow of charges and hence the passage of current through it. It is different for different materials.
 
 From Ohm's Law:
@@ -195,7 +178,7 @@ $$
 
 The resistance of a conductor can be defined as the ratio between the potential difference across the ends of the conductor and the current flowing through it.
 
-### 4.5.1 Unit of Resistance
+### Unit of Resistance
 The SI unit of resistance is **ohm** and it is represented by the symbol **Ω**.
 
 Resistance of a conductor is said to be one ohm if a current of one ampere flows through it when a potential difference of one volt is maintained across its ends.
@@ -215,9 +198,9 @@ $$
 
 ---
 
-## 4.6 Electrical Resistivity & Electrical Conductivity
+## Electrical Resistivity & Electrical Conductivity
 
-### 4.6.1 Electrical Resistivity
+### Electrical Resistivity
 You can verify by doing an experiment that the resistance of any conductor 'R' is directly proportional to the length of the conductor 'L' and is inversely proportional to its area of cross section 'A'.
 $$
 R \propto L, \quad R \propto \frac{1}{A}$$
@@ -245,7 +228,7 @@ Electrical resistivity of a conductor is a measure of the resisting power of a s
 > **Do You Know?**
 > Nichrome is a conductor with highest resistivity equal to$$  1.5 \times 10^{-6} \Omega m. $$Hence, it is used in making heating elements.
 
-### 4.6.2 Conductance and Conductivity
+### Conductance and Conductivity
 **Conductance** of a material is the property of a material to aid the flow of charges and hence, the passage of current in it. The conductance of a material is mathematically defined as the reciprocal of its resistance (R). Hence, the conductance 'G' of a conductor is given by:
 
 $$
@@ -287,12 +270,12 @@ Given: Length, L = 10 m, Resistance, R = 2 ohm and Area, A =$$ 2 \times 10^{-7} 
 
 ---
 
-## 4.7 System of Resistors
+## System of Resistors
 So far, you have learnt how the resistance of a conductor affects the current through a circuit. You have also studied the case of the simple electric circuit containing a single resistor. Now in practice, you may encounter a complicated circuit, which uses a combination of many resistors. This combination of resistors is known as 'system of resistors' or 'grouping of resistors'. Resistors can be connected in various combinations. The two basic methods of joining resistors together are:
 a) Resistors connected in series
 b) Resistors connected in parallel
 
-### 4.7.1 Resistors in Series
+### Resistors in Series
 A series circuit connects the components one after the other to form a 'single loop'. A series circuit has only one loop through which current can pass. If the circuit is interrupted at any point in the loop, no current can pass through the circuit and hence no electric appliances connected in the circuit will work.
 
 If resistors are connected end to end, so that the same current passes through each of them, then they are said to be connected in series.
@@ -351,7 +334,7 @@ $$
 - The current, $$ I = \frac{V}{R_S} = \frac{10}{10} = 1A
 $$
 
-### 4.7.2 Resistances in Parallel
+### Resistances in Parallel
 A parallel circuit has two or more loops through which current can pass. If the circuit is disconnected in one of the loops, the current can still pass through the other loop(s). The wiring in a house consists of parallel circuits.
 
 
@@ -407,7 +390,7 @@ Hence,$$ R_P = \frac{R}{n}$$
 
 The equivalent resistance in a parallel combination is less than the lowest of the individual resistances.
 
-### 4.7.3 Series Connection of Parallel Resistors
+### Series Connection of Parallel Resistors
 If you consider the connection of a set of parallel resistors that are connected in series, you get a series-parallel circuit. Let $$R_1 and R_2 $$be connected in parallel to give an effective resistance of $$ R_{P1} $$. Similarly, let$$  R_3 and R_4  $$be connected in parallel to give an effective resistance of $$  R_{P2}. $$Then, both of these parallel segments are connected in series.
 
 
@@ -427,13 +410,11 @@ $$
 R_{total} = R_{P1} + R_{P2}
 $$
 
-### 4.7.4 Parallel Connection of Series Resistors
+### Parallel Connection of Series Resistors
 If you consider a connection of a set of series resistors connected in a parallel circuit, you get a parallel-series circuit. Let $$ R_1 and R_2 $$be connected in series to give an effective resistance of$$  R_{S1} $$. Similarly, let $$ R_3 and R_4 $$ be connected in series to give an effective resistance of $$ R_{S2} $$. Then, both of these serial segments are connected in parallel.
 
 
-![](9.png)
-
-**Figure 4.9** Parallel-series combination of resistors
+![Figure 4.9:  ](9.png)Parallel-series combination of resistors
 
 
 Using the series formula:
@@ -449,7 +430,7 @@ $$
 \frac{1}{R_{total}} = \frac{1}{R_{S1}} + \frac{1}{R_{S2}}
 $$
 
-### 4.7.5 Difference between Series and Parallel Connections
+### Difference between Series and Parallel Connections
 
 | S. No. | Criteria | Series | Parallel |
 |--------|----------|--------|----------|
@@ -459,12 +440,12 @@ $$
 
 ---
 
-## 4.8 Heating Effect of Current
+## Heating Effect of Current
 Have you ever touched the motor casing of a fan, which has been used for a few hours continuously? The motor casing is warm. This is due to the heating effect of current. The same can be observed by touching a bulb, which was used for a long duration.
 
 Generally, a source of electrical energy can develop a potential difference across a resistor, which is connected to that source. This potential difference constitutes a current through the resistor. For continuous drawing of current, the source has to continuously spend its energy. A part of the energy from the source can be converted into useful work and the rest will be converted into heat energy. Thus, the passage of electric current through a wire, results in the production of heat. This phenomenon is called **heating effect of current**.
 
-### 4.8.1 Joule's Law of Heating
+### Joule's Law of Heating
 Let 'I' be the current flowing through a resistor of resistance 'R', and 'V' be the potential difference across the resistor. The charge flowing through the circuit for a time interval 't' is 'Q'.
 
 The work done in moving the charge Q across the ends of the resistor with a potential difference of V is VQ. This energy spent by the source gets dissipated in the resistor as heat. Thus, the heat produced in the resistor is:
@@ -489,7 +470,7 @@ Joule's law of heating states that the heat produced in any resistor is:
 - directly proportional to the resistance of the resistor.
 - directly proportional to the time for which the current is passing through the resistor.
 
-### 4.8.2 Applications of Heating Effect
+### Applications of Heating Effect
 
 #### 1. Electric Heating Device
 The heating effect of electric current is used in many home appliances such as electric iron, electric toaster, electric oven, electric heater, geyser, etc. In these appliances **Nichrome**, which is an alloy of Nickel and Chromium is used as the heating element. Because:
@@ -515,7 +496,7 @@ $$H = 6^2 \times 5 \times 300 = 36 \times 5 \times 300 = 54000 \text{ J}$$
 
 ---
 
-## 4.9 Electric Power
+## Electric Power
 In general, power is defined as the rate of doing work or rate of spending energy. Similarly, the electric power is defined as the rate of consumption of electrical energy. It represents the rate at which the electrical energy is converted into some other form of energy.
 
 Suppose a current 'I' flows through a conductor of resistance 'R' for a time 't', then the potential difference across the two ends of the conductor is 'V'. The work done 'W' to move the charge across the ends of the conductor is:
@@ -532,7 +513,7 @@ $$
 
 Thus, the electric power is the product of the electric current and the potential difference due to which the current passes in a circuit.
 
-### 4.9.1 Unit of Electric Power
+### Unit of Electric Power
 The SI unit of electric power is **watt**. When a current of 1 ampere passes across the ends of a conductor, which is at a potential difference of 1 volt, then the electric power is:
 
 $$
@@ -544,7 +525,7 @@ Thus, one watt is the power consumed when an electric device is operated at a po
 > **Horse Power:**
 > The horse power (hp) is a unit in the foot-pound-second (fps) or English system, sometimes used to express the electric power. It is equal to **746 watt**.
 
-### 4.9.2 Consumption of Electrical Energy
+### Consumption of Electrical Energy
 Electricity is consumed both in houses and industries. Consumption of electricity is based on two factors:
 - (i) Amount of electric power
 - (ii) Duration of usage
@@ -561,7 +542,7 @@ $$
 
 ---
 
-## 4.10 Domestic Electric Circuits
+## Domestic Electric Circuits
 The electricity produced in power stations is distributed to all the domestic and industrial consumers through overhead and underground cables.
 
 In our homes, electricity is distributed through the domestic electric circuits wired by the electricians. The first stage of the domestic circuit is to bring the power supply to the main-box from a distribution panel, such as a transformer. The important components of the main-box are:
@@ -579,9 +560,7 @@ _Figure 4.10 Domestic electric circuit_
 An **MCB** is a switching device, which can be activated automatically as well as manually. It has a spring attached to the switch, which is attracted by an electromagnet when an excess current passes through the circuit. Hence, the circuit is broken and the protection of the appliance is ensured.
 
 
-![](11.png)
-
-**Figure 4.11** A fuse and an MCB
+![Figure 4.11:  ](11.png)A fuse and an MCB
 
 
 The electricity is brought to houses by two insulated wires. Out of these two wires:
@@ -601,26 +580,26 @@ All the circuits in a house are connected in **parallel**, so that:
 > **Do You Know?**
 > In India, domestic circuits are supplied with an alternating current of potential 220/230V and frequency 50Hz. In countries like USA and UK, domestic circuits are supplied with an alternating current of potential 110/120V and frequency 60Hz.
 
-### 4.10.1 Overloading and Short Circuiting
+### Overloading and Short Circuiting
 The fuse wire or MCB will disconnect the circuit in the event of an **overloading** and **short circuiting**.
 
 **Overloading** happens when a large number of appliances are connected in series to the same source of electric power. This leads to a flow of excess current in the electric circuit. When the amount of current passing through a wire exceeds the maximum permissible limit, the wires get heated to such an extent that a fire may be caused.
 
 **Short Circuit** occurs when a live wire comes in contact with a neutral wire. This happens when the insulation of the wires get damaged due to temperature changes or some external force. Due to a short circuit, the effective resistance in the circuit becomes very small, which leads to the flow of a large current through the wires. This results in heating of wires to such an extent that a fire may be caused in the building.
 
-### 4.10.2 Earthing
+### Earthing
 In domestic circuits, a third wire called the **earth wire** having a **green insulation** is usually connected to the body of the metallic electric appliance. The other end of the earth wire is connected to a metal tube or a metal electrode, which is buried into the Earth.
 
 This wire provides a low resistance path to the electric current. The earth wire sends the current from the body of the appliance to the Earth, whenever a live wire accidentally touches the body of the metallic electric appliance. Thus, the earth wire serves as a protective conductor, which saves us from electric shocks.
 
 ---
 
-## 4.11 LED Bulb
+## LED Bulb
 An **LED bulb** is a semiconductor device that emits visible light when an electric current passes through it. The colour of the emitted light will depend on the type of materials used. With the help of the chemical compounds like Gallium Arsenide and Gallium Phosphide, the manufacturer can produce LED bulbs that radiates red, green, yellow and orange colours.
 
 Displays in digital watches and calculators, traffic signals, street lights, decorative lights, etc., are some examples for the use of LEDs.
 
-### 4.11.1 Seven Segment Display
+### Seven Segment Display
 
 ![](12.png)
 
@@ -628,7 +607,7 @@ _Figure 4.12 Seven segment display_
 
 A **'Seven Segment Display'** is the display device used to give an output in the form of numbers or text. It is used in digital meters, digital clocks, microwave ovens, etc. It consists of 7 segments of LEDs in the form of the digit 8. These seven LEDs are named as a, b, c, d, e, f and g. An extra 8th LED is used to display a dot.
 
-### 4.11.2 Merits of a LED Bulb
+### Merits of a LED Bulb
 1. As there is no filament, there is no loss of energy in the form of heat. It is cooler than the incandescent bulb.
 2. In comparison with the fluorescent light, the LED bulbs have significantly low power requirement.
 3. It is not harmful to the environment.
@@ -640,14 +619,14 @@ A **'Seven Segment Display'** is the display device used to give an output in th
 
 ---
 
-## 4.12 LED Television
+## LED Television
 LED Television is one of the most important applications of Light Emitting Diodes. An LED TV is actually an LCD TV (Liquid Crystal Display) with LED display.
 
 An LED display uses LEDs for backlight and an array of LEDs act as pixels. LEDs emitting white light are used in monochrome (black and white) TV; Red, Green and Blue (RGB) LEDs are used in colour television.
 
 The first LED television screen was developed by James P. Mitchell in 1977. It was a monochromatic display. But, after about three decades, in 2009, SONY introduced the first commercial LED Television.
 
-### 4.12.1 Advantages of LED Television
+### Advantages of LED Television
 - It has brighter picture quality.
 - It is thinner in size.
 - It uses less power and consumes very less energy.
@@ -742,24 +721,4 @@ Since the resistors are connected in parallel, the same potential difference exi
 - Current in the 4Ω resistor:$$ I_3 = \frac{V}{R_3} = \frac{1}{4} = 0.25A$$
 
 ---
-
----
-
-## ICT Corner: Ohm's Law
-**URL:** http://amrita.olabs.edu.in/?sub=1&brch=4&sim=99&cnt=4
-
-In this activity you will be able to:
-- (i) verify Ohm's law
-- (ii) understand the relation between current, voltage and resistance
-
-**Steps:**
-- Open the browser and type "olabs.edu.in" in the address bar. Click physics tab and then click "Ohm's law and resistance" under class 10 section. Go to "simulator" tab to do the experiment.
-- Construct the electric circuit as per the connection diagram by clicking "show circuit diagram" tab. You can connect wires between electric component by dragging the mouse between the component.
-- Switch on the key and note down the voltage (V) and current (I). Find the value of resistance using the formula $$R = \frac{V}{I}$$. Repeat the experiment for different values of voltage and current. Check whether the resistance remains constant.
-- Find the value of Resistance/(length in Cm). Enter the value of resistance and resistance per unit length in the result. Verify the answer.
-
-**Note:**
-1. One time sign up is needed to do simulation. Then login using that username and password.
-2. Read theory, procedure and animation to get the theory by clicking the corresponding tab.
-```
 
