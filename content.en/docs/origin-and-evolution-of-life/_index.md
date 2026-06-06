@@ -5,8 +5,7 @@ references:
     videos:
         - youtube:RM6LMxufYdU?si=GKBnUP6O03G_4fKc
     links:
-        -  http://www.nhs.uk
-        - http://www.eniscuola.net/en/2012/11/29/exobiology/
+        -  "[Human Evolution Clicker](https://play.google.com/store/apps/details?id=com.banana4apps.evolution)"
     books:
         - b1:
             title: B.S. Tomar and S.P. Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications
@@ -35,7 +34,7 @@ Origin of life is linked with the origin of earth. The Big Bang theory explains 
 
 ---
 
-## 19.1 Theories on Origin of Life
+## Theories on Origin of Life
 Many theories have been postulated to explain the origin of life. The views on the origin of life has been put forth as:
 
 ### Special Creation
@@ -55,10 +54,10 @@ This idea was developed by Oparin (1922) and Haldane (1929). They proposed that 
 
 ---
 
-## 19.2 Evidences of Evolution
+## Evidences of Evolution
 Evolution can be better understood only by observing the interrelationship between the existing organisms and also relating the similarities with the extinct organisms. The inter relationship of the organisms is also supported by evidences from different branches of biology. These evidences support the concept that all organisms have evolved from common ancestors.
 
-### 19.2.1 Evidences from Morphology and Anatomy
+### Evidences from Morphology and Anatomy
 The comparative study of morphology and anatomy of animals, reveal that they possess common set of structures.
 
 #### i. Homologous Organs
@@ -82,7 +81,7 @@ The reappearance of ancestral characters in some individuals is called atavism. 
 
 ---
 
-### 19.2.2 Evidences from Embryology
+### Evidences from Embryology
 The study of comparative embryology of different animals, supports the concept of evolution. The embryos from fish to mammals are similar in their early stages of development. The differentiation of their special characters appear in the later stages of development.
 
 ![](p3.png)
@@ -93,7 +92,7 @@ The study of comparative embryology of different animals, supports the concept o
 
 ---
 
-### 19.2.3 Evidences from Palaeontology
+### Evidences from Palaeontology
 Palaeontology deals with the study of fossils. Leonardo da Vinci is called the Father of Palaeontology. The study of fossils helps us to understand the line of evolution of many invertebrates and vertebrates. Fossil records show that the evolution has taken a gradual process from simple to complex organisms. The origin of modern birds is supported by the evidences from fossils.
 
 #### Archaeopteryx
@@ -105,10 +104,10 @@ Archaeopteryx is the oldest known fossil bird. It was an early birdlike form fou
 
 ---
 
-## 19.3 Theories of Evolution
+## Theories of Evolution
 Life had evolved along with evolution of earth towards the end of 18th century. Evolution is the gradual change occurring in living organisms over a period of time. Formation of new species due to changes in specific characters over several generations as response to natural selection, is called evolution. The natural changes occurring is explained through the theories of evolution as proposed by Lamarck and Darwin.
 
-### 19.3.1 Lamarckism
+### Lamarckism
 Jean Baptiste Lamarck (1744-1829) was a French naturalist, well known for his theory of evolution. Lamarck's theory of evolution was published in 'Philosophic Zoologique' in the year 1809. It is popularly known as 'Theory of inheritance of Acquired Characters" or "Use and Disuse theory".
 
 #### Principles of Lamarckism
@@ -133,7 +132,7 @@ When there is a change in the environment, the animals respond to the change. Th
 
 ---
 
-### 19.3.2 Darwinism or Theory of Natural Selection
+### Darwinism or Theory of Natural Selection
 Charles Darwin (1809-1882) was one of the great naturalist and philosopher of 18th century. He was born in England in 1809. While studying in college through his friendship with Professor J.S. Henslow he was fascinated towards nature. At that time the British Admiralty planned a voyage of exploration for 5 years on a ship named H.M.S. Beagle around South America. Dr Henslow was asked to nominate a young naturalist for the voyage. Darwin was given the opportunity. During his five years (1831–1835) voyage he visited many parts of the world, a number of islands including the Galapagos island and Pacific island. Darwin made elaborate observations on nature of the land, plants and animals of the regions he visited. He further worked for a period of 20 years to develop the theory of natural selection.
 
 Darwin published his observations and conclusions under the name 'Origin of species' in 1859. The book of Darwin demonstrates the fact of evolution. It elaborates on the theory of Natural selection for evolutionary transformation.
@@ -164,7 +163,7 @@ According to Darwin, new species originates by the gradual accumulation of favou
 
 ---
 
-## 19.4 Variation
+## Variation
 Sexual reproduction, which involves meiosis helps in recombination of genes during gametic fusion. This leads to differences in the phenotype of the offspring from its parents. These differences are called variations.
 
 Variation is the difference found among individuals of the same species and the offspring of the same parent. Variation is the raw material which plays an important role in evolution. Evolution would not be possible without variation.
@@ -190,7 +189,7 @@ Mutation and Variation are two events involved in the process of evolution. Muta
 
 ---
 
-## 19.5 Paleobotany
+## Paleobotany
 Paleobotany is derived from Greek words paleon that means "old" and botany the study of plants. It is the branch of paleontology that deals with recovery and identification of plant remains of geological past.
 
 A plant fossil is any preserved part of a plant that has died long back. Fossils may be a prehistoric impression that may be hundred to millions of years old. Majority of the plant fossils are disarticulated parts of plants, it is rare to find plants to be preserved as whole.
@@ -209,7 +208,7 @@ He is the "Father of Indian Paleobotany" (1891–1949). He presented his researc
 
 ---
 
-### 19.5.1 Fossilization
+### Fossilization
 The process of formation of fossil in the rocks is called fossilization.
 
 Common methods of fossilization includes petrifaction, molds and cast, carbonization, preservation, compression and infiltration.
@@ -233,7 +232,7 @@ The precipitation of minerals takes place which later on infiltrate the cell wal
 
 ---
 
-### 19.5.2 Determination of Age of Fossils
+### Determination of Age of Fossils
 The age of fossils is determined by radioactive elements present in it. They may be carbon, uranium, lead or potassium. It is used in paleobotany and anthropology for determining the age of human fossils and manuscripts.
 
 #### Radioactive Carbon (C14) Dating Method
@@ -246,7 +245,7 @@ The geological time scale is a system of chronological dating that relates geolo
 
 ---
 
-## 19.6 Ethnobotany
+## Ethnobotany
 Ethnobotany is the study of a region's plants and their practical uses through the traditional knowledge of the local culture of people. The term Ethnobotany was coined by J.W. Harshberger in 1895 to include the study of plants used by the primitive and aboriginal people. Though this discipline has existed for ages, ethnobotany emerged as a distinct academic branch of natural science in 20th century.
 
 ### Aspects of Ethnobotany
@@ -260,7 +259,7 @@ Ethnobotany has relevance with problems of nutrition, health care and life suppo
 
 ---
 
-## 19.7 Astrobiology/Exobiology
+## Astrobiology/Exobiology
 Are we alone in the universe? If your answer is no, then how do you detect the existence of life in space? Astrobiology/exobiology is the science which looks for the presence of extra terrestrial life in the universe.
 
 Astrobiology deals with the origin, evolution and distribution of life in the universe and to investigate the possibility of life in other planets.
@@ -294,24 +293,3 @@ NASA is developing the Mars 2020 astrobiology to investigate an astrobiologicall
 
 ---
 
----
-
-## Concept Map
-
-*Concept Map showing: Evolution → Origin of life (Views: Special creation, Spontaneous generation, Biogenesis, Extra terrestrial origin, Chemical evolution) / Evidences for evolution (Morphology and Anatomy: Homologous organs, Analogous organs, Vestigial organs, Atavism; Embryology: Biogenetic law; Paleontology: Fossils) / Theories of evolution (Lamarckism: Use and Disuse Theory; Darwinism: Theory of Natural Selection)*
-
-*Concept Map showing: Evolution → Ethnobotany (Ethnic groups in India, Importance of ethnobotany) / Paleobotany (Fossilization: Petrifaction, Mold and cast, Preservation, Compression, Replacement; Determination of age of fossils: Radioactive carbon dating method)*
-
----
-
-## ICT CORNER: ORIGIN AND EVOLUTION OF LIFE
-
-This game will enable the students to understand the evolution of living organisms. But it was created on the basis of general truths and not specific scientific facts.
-
-### Steps
-- Access the application "HUMAN EVOLUTION CLICKER GAME: RISE OF MANKIND" with the help of provided URL or QR code. Download and Install it in the mobile.
-- You can view a bubble for ten seconds, touch it to reveal the hidden DNA.
-- By joining two DNAs, a bacteria will be formed. By joining two bacteria, amoeba will be appeared.
-- Continue the same to form many other species by combining different species. There are 52 living organism exist now in the application. Explore.
-
----

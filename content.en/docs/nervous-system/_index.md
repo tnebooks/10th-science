@@ -31,7 +31,7 @@ One of the characteristic features of all living organisms is responding to stim
 
 To provide the correct response to a stimulus, it is necessary that all the organs work together in a proper coordinated manner. This working together of various organs in a systematic, controlled and efficient way to produce proper response to various stimuli is called coordination. In animals including human the coordination between the various cells and organs is essential for their diverse activities to maintain physiological balance called homeostasis. In this unit we shall learn about one of the major regulatory systems the nervous system and its control over the body activities.
 
-## 15.1 Nervous System
+## Nervous System
 The nervous system is made up of nervous tissues. It is formed of three distinct components namely the neurons, neuroglia and nerve fibres.
 
 (i) **Neuron or nerve cell:** A neuron or nerve cell is the structural and functional unit of the nervous system. It is the longest cell of the human body with a length of over 100µm. These cells are highly specialised to detect, receive and transmit different kinds of stimuli. Information is conducted through neurons in the form of electrical impulses from one part of the body to another.
@@ -40,7 +40,7 @@ The nervous system is made up of nervous tissues. It is formed of three distinct
 
 (iii) **Nerve fibres:** The nerve fibres are the long slender processes of neurons. A number of nerve fibres are bundled up together to form nerves.
 
-### 15.1.1 Structure of Neuron
+### Structure of Neuron
 A neuron typically consists of three basic parts: Cyton, Dendrites and Axon.
 
 ![](1.png)
@@ -58,7 +58,7 @@ A neuron typically consists of three basic parts: Cyton, Dendrites and Axon.
 **Activity 1**
 Create a model of a neuron using clay or beads.
 
-### 15.1.2 Types of Neurons
+### Types of Neurons
 The neurons may be of different types based on their structure and functions.
 
 ![](2.png)
@@ -84,7 +84,7 @@ On the basis of functions neurons are categorised as:-
 (ii) Motor or efferent neurons which carry impulses from the central nervous system to effector organ such as the muscle fibre or the gland.
 (iii) Association neurons conduct impulses between sensory and motor neurons.
 
-### 15.1.3 Types of Nerve Fibres
+### Types of Nerve Fibres
 Nerve fibres are of two types based on the presence or absence of myelin sheath.
 
 (i) **Myelinated nerve fibre:** The axon is covered with myelin sheath.
@@ -93,7 +93,7 @@ Nerve fibres are of two types based on the presence or absence of myelin sheath.
 
 Myelinated and non-myelinated nerve fibres form the white matter and grey matter of the brain.
 
-## 15.2 Transmission of Nerve Impulse
+## Transmission of Nerve Impulse
 All the information from the environment are detected by the receptors located in our sense organs such as the eyes, the nose, the skin etc. Information from the receptors is transmitted as electrical impulse and is received by the dendritic tips of the neuron. This impulse travels from the dendrite to the cell body and then along the axon to its terminal end. On reaching the axonal end, it causes the nerve endings to release a chemical (neurotransmitter) which diffuses across a synapse and starts a similar electrical impulse in the dendrites of the next neuron, then to their cell body to be carried along the axon.
 
 In this way, the electrical signal reaches the brain or spinal cord. The response from brain (or spinal cord) is similarly passed on to the effector organs such as the muscle or gland cell, that undergoes the desired response.
@@ -107,16 +107,16 @@ The flow of nerve impulses from axonal end of one neuron to dendrite of another 
 **DO YOU KNOW?**
 Each neuron can transmit 1,000 nerve impulses per second and make as many as ten thousands of synaptic contacts with other neurons.
 
-### 15.2.1 Neurotransmitters
+### Neurotransmitters
 Neurotransmitters are the chemicals which allow the transmission of nerve impulse from the axon terminal of one neuron to the dendron of another neuron or to an effector organ. The important neurotransmitter released by neurons is called Acetylcholine.
 
-## 15.3 Human Nervous System
+## Human Nervous System
 The complexity of nervous system can be observed during the course of evolution. We the human beings differ from other animals in our ability to think and take actions, which is due to the well developed nervous system.
 
 Human nervous system is differentiated into central nervous system (CNS), peripheral nervous system (PNS) and autonomic nervous system (ANS).
 The CNS acts as centre for information processing and control. It consists of the brain and the spinal cord. The PNS is made up of the nerves which connect the brain and spinal cord to all parts of the body. The ANS is formed of sympathetic and parasympathetic nerves.
 
-### 15.3.1 Central Nervous System
+### Central Nervous System
 The brain and the spinal cord being delicate vital structures are well protected in bony cavities of the skull and the vertebral column respectively. CNS is formed of two types of matter such as white matter or grey matter with respect to the presence or absence of myelin sheath which we have discussed earlier.
 
 **Brain**
@@ -195,7 +195,7 @@ The grey matter of spinal cord is 'H' shaped. The upper end of letter 'H' forms 
 
 **Fig. 15.6** Structure of spinal cord
 
-## 15.4 Cerebrospinal Fluid
+## Cerebrospinal Fluid
 The brain is suspended in a special fluid environment called cerebrospinal fluid (CSF). It is lymph like, watery fluid that surrounds and protects the brain within the skull. It also fills the central canal of the spinal cord.
 
 **Functions:**
@@ -208,7 +208,7 @@ The brain is suspended in a special fluid environment called cerebrospinal fluid
 
 (iv) It is also responsible for maintaining a constant pressure inside the cranium.
 
-## 15.5 Reflex Action
+## Reflex Action
 A reflex is any response that occurs automatically without consciouness. There are two types of reflexes.
 
 (i) **Simple or basic reflexes:** These reflexes are inbuilt and unlearned responses. Many of the actions we perform in our day to day life are simple reflexes. e.g., winking of eyes when any dust particles enters, sneezing, coughing, yawning, etc. We perform these actions without thinking.
@@ -235,7 +235,7 @@ Now, let us understand how the body executes reflex action when we touch a hot p
 
 In this example, muscle is an effector organ which has responded to the heat. You will study in higher classes how the neuronal impulse triggers the muscular movement.
 
-## 15.6 Peripheral Nervous System
+## Peripheral Nervous System
 Peripheral nervous system is formed by the nerves arising from the brain and the spinal cord. The nerves arising from the brain are called cranial nerves. Nerves arising from spinal cord are called spinal nerves.
 
 **Cranial Nerves**
@@ -244,7 +244,7 @@ In man, there are 12 pairs of cranial nerves. Some of the cranial nerves are sen
 **Spinal Nerves**
 There are 31 pairs of spinal nerves. Each spinal nerve has a dorsal sensory root and the ventral motor root. The direction of impulses in dorsal spinal root is towards the spinal cord and in ventral spinal root away from the spinal cord.
 
-## 15.7 Autonomic Nervous System
+## Autonomic Nervous System
 Autonomic nervous system (ANS) is also called as visceral nervous system as it regulates the function of internal visceral organs of our body through its two antagonistic (opposite) components sympathetic and parasympathetic systems. They enable the body to perform rapid and specific visceral activities in order to maintain steady state. It controls the involuntary functions of the visceral organs.
 
 ![](8.png)

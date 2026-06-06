@@ -5,8 +5,7 @@ references:
     videos:
         - youtube:zd1mVA5kl_Q?si=2MsGzzLt6Hc4y0zH
     links:
-        - https://physics.columbia.edu/research/nuclear-physics
-        - http://www.newworldencyclopedia.org/entry/Nuclear_physics
+        - "[Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom)"
     books:
         - b1:
             title: Physics concepts and connections – by Art Hobson Edition Pearson education
@@ -36,19 +35,19 @@ Humans are very much interested in knowing about atoms. Things around us are mad
 
 ---
 
-## 6.1 RADIOACTIVITY
+## RADIOACTIVITY
 
-### 6.1.1 Discovery of radioactivity
+### Discovery of radioactivity
 
 In 1896, French physicist Henri Becquerel finished his research for the week and stored a certain amount of uranium compound away in a drawer for the week end. By chance, an unexposed photographic plate was also stored in the same drawer. After a week he returned and noticed that the film had been exposed to some radiation. He discovered that he could reproduce the effect whenever he placed uranium near a photographic film. Apparently, uranium radiated something that could affect a photographic plate. This phenomenon was called as **Radioactivity**. Uranium was identified to be a radioactive element.
 
 Two years later, the Polish physicist Marie Curie and her husband Pierre Curie detected radioactivity in 'Pitchblende', a tiny black substance. They were not surprised at the radioactivity of pitchblende, which is known as an ore of uranium. Later, they discovered that the radiation was more intense from pure uranium. Also, it was found that the pitchblende had less concentration of uranium. They concluded that some other substance was present in pitchblende. After separating this new substance, they discovered that it had unknown chemical properties and it also emitted radiations spontaneously like uranium. They named this new substance as **'Radium'**. The radioactive elements emit harmful radioactive radiations like alpha rays or beta rays or gamma rays.
 
-### 6.1.2 Definition of radioactivity
+### Definition of radioactivity
 
 The nucleus of some elements is unstable. Such nuclei undergo nuclear decay and get converted into more stable nuclei. During this nuclear reaction, these nuclei emit certain harmful radiations and elementary particles. The phenomenon of nuclear decay of certain elements with the emission of radiations like alpha, beta, and gamma rays is called **'radioactivity'** and the elements, which undergo this phenomenon are called **'radioactive elements'**.
 
-### 6.1.3 Natural Radioactivity
+### Natural Radioactivity
 
 The elements such as uranium and radium undergo radioactivity and emit the radiations on their own without any human intervention. This phenomenon of spontaneous emission of radiation from certain elements on their own is called **'natural radioactivity'**.
 
@@ -57,7 +56,7 @@ The elements whose atomic number is more than 82 undergo spontaneous radioactivi
 > **DO YOU KNOW?**
 > There have been 29 radioactive substances discovered so far. Most of them are rare earth metals and transition metals.
 
-### 6.1.4 Artificial Radioactivity (or) Induced Radioactivity
+### Artificial Radioactivity (or) Induced Radioactivity
 
 The phenomenon by which even light elements are made radioactive, by artificial or induced methods, is called **'artificial radioactivity'** or **'man-made radioactivity'**.
 
@@ -91,7 +90,7 @@ $$
 
 In the above nuclear reaction,$$ _{6}\mathrm{C}^{13*} $$is unstable and is radioactive. This reaction can be represented as (α,n).
 
-### 6.1.5 Units of Radioactivity
+### Units of Radioactivity
 
 **Curie:** It is the traditional unit of radioactivity. It is defined as the quantity of a radioactive substance which undergoes $$3.7 \times 10^{10} $$disintegrations in one second. This is actually close to the activity of 1g of radium 226.
 $$
@@ -110,18 +109,18 @@ $$coulomb in 1 kg of air under standard conditions of pressure, temperature and 
 
 ---
 
-## 6.2 ALPHA, BETA AND GAMMA RAYS
+## ALPHA, BETA AND GAMMA RAYS
 
 When a radioactive nucleus undergoes radioactivity, it emits harmful radiations. These radiations are usually comprised of any of the three types of particles. They are **alpha (α), beta (β) and gamma (γ) rays**.
 
 > **DO YOU KNOW?**
 > Uranium, named after the planet Uranus, was discovered by Martin Klaproth, a German chemist in a mineral called pitchblende.
 
-### 6.2.1 Properties of Alpha, Beta and Gamma rays
+### Properties of Alpha, Beta and Gamma rays
 
 These three particles possess certain similarities and dissimilarities in their properties as listed below in Table 6.2.
 
-### 6.2.2 Radioactive displacement law
+### Radioactive displacement law
 
 In 1913, Soddy and Fajan framed the displacement laws governing the daughter nucleus produced during an alpha and beta decay. They are stated below:
 
@@ -140,7 +139,7 @@ In 1913, Soddy and Fajan framed the displacement laws governing the daughter nuc
 | **Effect of electric and magnetic field** | Deflected by both the fields (in accordance with Fleming’s left-hand rule). | Deflected by both the fields, but the direction of deflection is opposite to that for α rays (in accordance with Fleming’s left-hand rule). | They are not deflected by both the fields. |
 | **Speed** | Their speed ranges from $$\frac{1}{10}$$ to $$\frac{1}{20}$$ times the speed of light. | Their speed can go up to $$\frac{9}{10}$$ times the speed of light. | They travel with the speed of light. |
 
-### 6.2.3 Alpha decay
+### Alpha decay
 
 A nuclear reaction in which an unstable parent nucleus emits an alpha particle and forms a stable daughter nucleus, is called **'alpha decay'**.
 
@@ -154,7 +153,7 @@ In α-decay, the parent nucleus emits an α particle and so it is clear that for
 
 _Figure 6.1 Alpha decay_
 
-### 6.2.4 Beta decay
+### Beta decay
 
 A nuclear reaction, in which an unstable parent nucleus emits a beta particle and forms a stable daughter nucleus, is called **'beta decay'**.
 
@@ -166,15 +165,15 @@ In β-decay there is no change in the mass number of the daughter nucleus but th
 
 > **Note:** In a nuclear reaction, the element formed as the product nucleus is identified by the atomic number of the resulting nucleus and not by its mass number.
 
-### 6.2.5 Gamma decay
+### Gamma decay
 
 In a γ-decay, only the energy level of the nucleus changes. The atomic number and mass number of the radioactive nucleus remain the same.
 
 ---
 
-## 6.3 NUCLEAR FISSION
+## NUCLEAR FISSION
 
-### 6.3.1 Definition
+### Definition
 
 In 1939, German Scientist Otto Hahn and F. Strassman discovered that when a uranium nucleus is bombarded with a neutron, it breaks up into two smaller nuclei of comparable mass along with the emission of a few neutrons and energy. This process of breaking (splitting) up of a heavier nucleus into two smaller nuclei with the release of a large amount of energy and a few neutrons is called **'nuclear fission'**.
 
@@ -187,7 +186,7 @@ The average energy released in each fission process is about 3.2 x $$10^{-11} J$
 
 _Figure 6.2 Nuclear fission_
 
-### 6.3.2 Fissionable materials
+### Fissionable materials
 
 A fissionable material is a radioactive element, which undergoes fission in a sustained manner when it absorbs a neutron. It is also termed as **'fissile material'**.
 
@@ -201,7 +200,7 @@ There are some radioactive elements, which can be converted into fissionable mat
 
 **E.g.:** Uranium-238, Thorium-232, Plutonium-240.
 
-### 6.3.3 Chain Reaction
+### Chain Reaction
 
 A uranium nucleus (U-235) when bombarded with a neutron undergoes fission producing three neutrons. These three neutrons in turn can cause fission in three other uranium nuclei present in the sample, thus producing nine neutrons. These nine neutrons in turn may produce twenty seven neutrons and so on. This is known as **'chain reaction'**. A chain reaction is a self-propagating process in which the number of neutrons goes on multiplying rapidly almost in a geometrical progression.
 
@@ -221,7 +220,7 @@ In the uncontrolled chain reaction the number of neutrons multiplies indefinitel
 
 _Figure 6.3 Uncontrolled chain reaction_
 
-### 6.3.4 Critical Mass
+### Critical Mass
 
 During a nuclear fission process, about 2 to 3 neutrons are released. But, all these neutrons may not be available to produce further fission. Some of them may escape from the system, which is termed as **'leakage of neutrons'** and some may be absorbed by the non-fissionable materials present in the system. These two factors lead to the loss of neutrons. To sustain the chain reaction, the rate of production of neutrons due to nuclear fission must be more than the rate of its loss. This can be achieved only when the size (i.e., mass) of the fissionable material is equal to a certain optimum value. This is known as **'critical mass'**.
 
@@ -233,7 +232,7 @@ The minimum mass of a fissile material necessary to sustain the chain reaction i
 **Activity 6.2**
 Using beads make a chain reaction model.
 
-### 6.3.5 Atom bomb
+### Atom bomb
 
 The atom bomb is based on the principle of **uncontrolled chain reaction**. In an uncontrolled chain reaction, the number of neutrons and the number of fission reactions multiply almost in a geometrical progression. This releases a huge amount of energy in a very small time interval and leads to an explosion.
 
@@ -258,11 +257,11 @@ $$ The energy released in a nuclear fission process is about 200 MeV.
 
 ---
 
-## 6.4 NUCLEAR FUSION
+## NUCLEAR FUSION
 
 You have learnt that energy can be produced when a heavy nucleus is split up into two smaller nuclei. Similarly, energy can be produced when two lighter nuclei combine to form a heavier nucleus. This phenomenon is known as **nuclear fusion**.
 
-### 6.4.1 Definition
+### Definition
 
 The process in which two lighter nuclei combine to form a heavier nucleus is termed as **'nuclear fusion'**.
 
@@ -285,7 +284,7 @@ where c is the velocity of light in vacuum and is equal to $$ 3 \times 10^{8} \t
 > **DO YOU KNOW?**
 > The nuclear bomb that was dropped in Hiroshima during World War II was called as 'Little boy'. It was a gun-type bomb which used a uranium core. The bomb, which was subsequently dropped over Nagasaki was called as 'Fat man'. It was an explosion type bomb, which used a plutonium core.
 
-### 6.4.2 Conditions necessary for nuclear fusion
+### Conditions necessary for nuclear fusion
 
 Earth's atmosphere contains a small trace of hydrogen. If nuclear fusion is a spontaneous process at normal temperature and pressure, then a number of fusion processes would happen in the atmosphere which may lead to explosions. But, we do not encounter any such explosions. Can you explain why?
 
@@ -296,13 +295,13 @@ Nuclear fusion is possible only at an extremely high temperature of the order of
 > **DO YOU KNOW?**
 > Nuclear fusion is the combination of two lighter nuclei. The charge of both nuclei is positive. According to electrostatic theory, when they come closer they tend to repel each other. This repulsive force will be overcome by the kinetic energy of the nuclei at higher temperature of the order of$$ 10^{7} to 10^{9} K.$$
 
-### 6.4.3 Stellar Energy
+### Stellar Energy
 
 The stars like our Sun emit a large amount of energy in the form of light and heat. This energy is termed as the **stellar energy**. Where does this high energy come from? All stars contain a large amount of hydrogen. The surface temperature of the stars is very high which is sufficient to induce fusion of the hydrogen nuclei.
 
 Fusion reaction that takes place in the cores of the Sun and other stars results in an enormous amount of energy, which is called as **'stellar energy'**. Thus, nuclear fusion or thermonuclear reaction is the source of light and heat energy in the Sun and other stars.
 
-### 6.4.4 Hydrogen Bomb
+### Hydrogen Bomb
 
 Hydrogen bomb is based on the principle of **nuclear fusion**. A hydrogen bomb is always designed to have an inbuilt atom bomb which creates the high temperature and pressure required for fusion when it explodes. Then, fusion takes place in the hydrogen core and leads to the release of a very large amount of energy in an uncontrolled manner. The energy released in a hydrogen bomb (or fusion bomb) is much higher than that released in an atom bomb (or fission bomb).
 
@@ -320,15 +319,15 @@ Hydrogen bomb is based on the principle of **nuclear fusion**. A hydrogen bomb i
 
 ---
 
-## 6.5 USES OF RADIOACTIVITY
+## USES OF RADIOACTIVITY
 
 Many radio isotopes can be obtained from radioactivity. These radio isotopes have found wide variety of applications in the fields of medicine, agriculture, industry and research.
 
-### 6.5.1 Agriculture
+### Agriculture
 
 The radio isotope of phosphorous (P-32) helps to increase the productivity of crops. The radiations from the radio isotopes can be used to kill the insects and parasites and prevent the wastage of agricultural products. Certain perishable cereals exposed to radiations remain fresh beyond their normal life, enhancing the storage time. Very small doses of radiation prevent sprouting and spoilage of onions, potatoes and gram.
 
-### 6.5.2 Medicine
+### Medicine
 
 Medical applications of radio isotopes can be divided into two parts:
 - i) Diagnosis
@@ -343,14 +342,14 @@ Radio isotopes are used as tracers to diagnose the nature of circulatory disorde
 - Radio cobalt $$(\mathrm{Co}^{60})$$. and radio-gold $$(\mathrm{Au}^{198})$$. are used in the treatment of skin cancer.
 - Radiations are used to sterilize the surgical devices as they can kill the germs and microbes.
 
-### 6.5.3 Industries
+### Industries
 
 In industries, radioactive isotopes are used as tracers to detect any manufacturing defects such as cracks and leaks. Packaging faults can also be identified through radio activity. Gauges, which have radioactive sources are used in many industries to check the level of gases, liquids and solids.
 
 - An isotope of californium $$(\mathrm{Cf}^{252})$$. is used in the airlines to detect the explosives in the luggage.
 - An isotope of Americium $$(\mathrm{Am}^{241})$$. is used in many industries as a smoke detector.
 
-### 6.5.4 Archeological research
+### Archeological research
 
 Using the technique of **radio carbon dating**, the age of the Earth, fossils, old paintings and monuments can be determined. In radio carbon dating, the existing amount of radio carbon is determined and this gives an estimate about the age of these things.
 
@@ -359,7 +358,7 @@ Using the technique of **radio carbon dating**, the age of the Earth, fossils, o
 
 ---
 
-## 6.6 SAFETY MEASURES
+## SAFETY MEASURES
 
 In day to day life, you do receive some natural radiation from the Sun. The radioactive elements present in the soil and rocks, the house hold appliances like television, microwave ovens, cell phones and the X-rays used in hospitals. These radiations do not produce any severe effects as they are very low in intensity.
 
@@ -367,14 +366,14 @@ The second source of radiation exposure is man-made. These are due to nuclear re
 
 Improper and careless handling of radioactive materials release harmful radiations in our environment. These radiations are very harmful to the human body. A person who is exposed to radiations very closely or for a longer duration, is at a greater health risk and can be affected genetically.
 
-### 6.6.1 Permitted range
+### Permitted range
 
 The International Commission on Radiological Protection (ICRP) has recommended certain maximum permissible exposure limits to radiation that is believed to be safe without producing any appreciable injury to a person. Safe limit of overall exposure to radiation is given as **20 milli sievert per year**. In terms of roentgen, the safe limit of receiving the radiation is about **100 mR per week**. If the exposure is 100 R, it may cause fatal diseases like leukemia (death of red blood corpuscle in the blood) or cancer. When the body is exposed to about 600 R, it leads to death.
 
 > **DO YOU KNOW?**
 > **Dosimeter** is a device used to detect the levels of exposure to an ionizing radiation. It is frequently used in the environments where exposure to radiation may occur such as nuclear power plants and medical imaging facilities. Pocket dosimeter is used to provide the wearer with an immediate reading of his/her exposure to X-rays and γ rays.
 
-### 6.6.2 Preventive measures
+### Preventive measures
 
 ![](6.png)
 
@@ -388,15 +387,15 @@ _Figure. 6.6 Lead coated aprons model._
 
 ---
 
-## 6.7 NUCLEAR REACTOR
+## NUCLEAR REACTOR
 
 A **Nuclear reactor** is a device in which the nuclear fission reaction takes place in a self-sustained and controlled manner to produce electricity. The first nuclear reactor was built in 1942 at Chicago, USA.
 
-### 6.7.1 Types of nuclear reactors
+### Types of nuclear reactors
 
 Breeder reactor, fast breeder reactor, pressurized water reactor, pressurized heavy water reactor, boiling water reactor, water cooled reactor, gas-cooled reactor, fusion reactor and thermal reactor are some types of nuclear reactors, which are used in different places.
 
-### 6.7.2 Components of a nuclear reactors
+### Components of a nuclear reactors
 
 The essential components of a nuclear reactor are:
 1. Fuel
@@ -421,14 +420,14 @@ The essential components of a nuclear reactor are:
 _Figure 6.7 Schematic diagram of a nuclear reactor_
 
 
-### 6.7.3 Uses of a nuclear reactor
+### Uses of a nuclear reactor
 
 - Nuclear reactors are widely used in power generation.
 - They are also used to produce radio isotopes, which are used in a variety of applications.
 - Some reactors help us to do research in the field of nuclear physics.
 - Breeder reactors are used to convert non-fissionable materials into fissionable materials.
 
-### 6.7.4 Nuclear power plants in India
+### Nuclear power plants in India
 
 Indian Atomic Energy Commission (AEC) was established in August 1948 by the Department of Indian Scientific Research committee at Bombay (now Mumbai) in Maharashtra. It is the nodal agency for all the research done in the field of atomic energy. **Dr. Homi Jahangir Bhabha** was the first chairman of Indian Atomic Energy Commission. Now, it is known as **Bhaba Atomic Research Centre (BARC)**.
 
@@ -551,43 +550,3 @@ disintegrations in one second.
 
 
 
----
-
-## CONCEPT MAP
-
-```
-Radio Activity
-├── Artificial Radioactivity
-│   ├── Nuclear Fission
-│   │   ├── Controlled → Nuclear Reactor
-│   │   └── Uncontrolled → Atom Bomb
-│   └── Nuclear Fusion
-│       ├── Natural → Stellar Energy
-│       └── Artificial → Hydrogen Bomb
-└── Natural Radioactivity
-    ├── α rays
-    ├── β rays
-    └── γ rays
-
-[Uses] [Safety Measures]
-```
-
-![](8.png)
-
-
----
-
-## ICT CORNER
-
-### Modern Atomic Theory
-
-To enable the students to build structure of different elements with electrons, protons and neutrons. They also know how new elements are formed as a result of Nuclear reactions.
-
-**Steps**
-- Access and download the application 'atom.phys' in your mobile by using the provided URL or QR code.
-- Click 'Modeling' to build the structure of an element by making changes in electron, proton and neutron.
-- Click 'Nuclear decays' to know how new elements are formed because of the decay/destruction of atoms.
-- Finally click 'Tests' to check your knowledge by answering the questions.
-
-**URL:** https://play.google.com/store/apps/details?id=com.CowboyBebop.AtomPhys&hl=en
-```

@@ -1,12 +1,11 @@
 ---
-title: "OPTICS"
+title: "Optics"
 weight: 2
 references:
     videos:
         - youtube:PdmVeFwYCqs?si=o70ZlFWhBQOWw7NK
     links:
-        - www.physicsabout.com
-        - www.khanacademy.org
+        - "[Geometric Optics](https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html)"
     books:
         - b1:
             title:  Fundamentals of optics by D.R. Khanna and H.R. Gulati, R. Chand & Co.
@@ -14,21 +13,6 @@ references:
 categories:
     - optics
 ---
-
-
-
-## Learning Objectives
-At the end of this lesson, students will be able to:
-  - State the laws of refraction
-  - List the properties of light
-  - Explain the scattering of light and its various kinds
-  - Understand the images formed by concave and convex lens
-  - Analyze the ray diagram of concave and convex lens
-  - Understand the working of human eye and optical instruments
-  - Solve numerical problems
----
-
-
 
 ## Learning Objectives
 
@@ -54,7 +38,7 @@ You would have studied about the reflection and refraction of light elaborately 
 
 ---
 
-## 2.1 PROPERTIES OF LIGHT
+## PROPERTIES OF LIGHT
 
 Let us recall the properties of light and the important aspects on refraction of light.
 
@@ -69,15 +53,15 @@ Let us recall the properties of light and the important aspects on refraction of
 
 ---
 
-## 2.2 REFRACTION OF LIGHT
+## REFRACTION OF LIGHT
 
 When a ray of light travels from one transparent medium into another obliquely, the path of the light undergoes deviation. This deviation of ray of light is called refraction. Refraction takes place due to the difference in the velocity of light in different media. The velocity of light is more in a rarer medium and less in a denser medium. Refraction of light obeys two laws of refraction.
 
-### 2.2.1 First law of refraction:
+### First law of refraction:
 
 The incident ray, the refracted ray of light and the normal to the refracting surface all lie in the same plane.
 
-### 2.2.2 Second law of refraction:
+### Second law of refraction:
 
 The ratio of the sine of the angle of incidence and sine of the angle of refraction is equal to the ratio of refractive indices of the two media. This law is also known as Snell's law.
 
@@ -97,7 +81,7 @@ $$
 
 ---
 
-## 2.3 REFRACTION OF A COMPOSITE LIGHT - DISPERSION OF LIGHT
+## REFRACTION OF A COMPOSITE LIGHT - DISPERSION OF LIGHT
 
 We know that Sun is the fundamental and natural source of light. If a source of light produces a light of single colour, it is known as a monochromatic source. On the other hand, a composite source of light produces a white light which contains light of different colours. Sun light is a composite light which consists of light of various colours or wavelengths. Another example for a composite source is a mercury vapour lamp.
 
@@ -113,7 +97,7 @@ Angle of refraction is the smallest for red and the highest for violet. From Sne
 
 ---
 
-## 2.4 SCATTERING OF LIGHT
+## SCATTERING OF LIGHT
 
 When sunlight enters the Earth's atmosphere, the atoms and molecules of different gases present in the atmosphere refract the light in all possible directions. This is called as 'Scattering of light'. In this phenomenon, the beam of light is redirected in all directions when it interacts with a particle of medium. The interacting particle of the medium is called as 'scatterer'.
 
@@ -121,7 +105,7 @@ When sunlight enters the Earth's atmosphere, the atoms and molecules of differen
 
 _Figure 2.1 Scattering of light_
 
-### 2.4.1 Types of scattering
+### Types of scattering
 
 When a beam of light, interacts with a constituent particle of the medium, it undergoes many kinds of scattering. Based on initial and final energy of the light beam, scattering can be classified as:
 
@@ -192,7 +176,7 @@ You will study more about Raman Effect in higher classes.
 
 ---
 
-## 2.5 LENSES
+## LENSES
 
 A lens is an optically transparent medium bounded by two spherical refracting surfaces or one plane and one spherical surface.
 
@@ -204,7 +188,7 @@ Lens is basically classified into two types. They are:
 
 **(ii) Concave or bi-concave Lens:** It is a lens bounded by two spherical surfaces such that it is thinner at the centre than at the edges. A parallel beam of light passing through it, is diverged or spread out. So, a concave lens is also called as diverging lens.
 
-### 2.5.1 Other types of Lenses
+### Other types of Lenses
 
 **Plano-convex lens:** If one of the faces of a bi-convex lens is plane, it is known as a plano-convex lens.
 
@@ -216,7 +200,7 @@ _Figure 2.2 Types of lenses_
 
 ---
 
-## 2.6 IMAGES FORMED DUE TO REFRACTION THROUGH A CONVEX AND CONCAVE LENS
+## IMAGES FORMED DUE TO REFRACTION THROUGH A CONVEX AND CONCAVE LENS
 
 When an object is placed in front of a lens, the light rays from the object fall on the lens. The position, size and nature of the image formed can be understood only if we know certain basic rules.
 
@@ -242,7 +226,7 @@ towards the principal focus_
 
 ---
 
-## 2.7 REFRACTION THROUGH A CONVEX LENS
+## REFRACTION THROUGH A CONVEX LENS
 
 Let us discuss the formation of images by a convex lens when the object is placed at various positions.
 
@@ -298,7 +282,7 @@ principal focus F and optical centre O_
 
 ---
 
-## 2.8 APPLICATIONS OF CONVEX LENSES
+## APPLICATIONS OF CONVEX LENSES
 
 1. Convex lenses are used as camera lenses
 2. They are used as magnifying lenses
@@ -307,7 +291,7 @@ principal focus F and optical centre O_
 
 ---
 
-## 2.9 REFRACTION THROUGH A CONCAVE LENS
+## REFRACTION THROUGH A CONCAVE LENS
 
 Let us discuss the formation of images by a concave lens when the object is placed at two possible positions.
 
@@ -337,7 +321,7 @@ position and size of image with object distance_
 
 ---
 
-## 2.10 APPLICATIONS OF CONCAVE LENSES
+## APPLICATIONS OF CONCAVE LENSES
 
 1. Concave lenses are used as eye lens of 'Galilean Telescope'
 2. They are used in wide angle spy hole in doors.
@@ -345,7 +329,7 @@ position and size of image with object distance_
 
 ---
 
-## 2.11 LENS FORMULA
+## LENS FORMULA
 
 Like spherical mirrors, we have lens formula for spherical lenses. The lens formula gives the relationship among distance of the object (u), distance of the image (v) and the focal length (f) of the lens. It is expressed as:
 
@@ -357,7 +341,7 @@ It is applicable to both convex and concave lenses. We need to give an at most c
 
 ---
 
-## 2.12 SIGN CONVENTION
+## SIGN CONVENTION
 
 Cartesian sign conventions are used for measuring the various distances in the ray diagrams of spherical lenses. According to cartesian sign convention,
 
@@ -370,7 +354,7 @@ Cartesian sign conventions are used for measuring the various distances in the r
 
 ---
 
-## 2.13 MAGNIFICATION OF A LENS
+## MAGNIFICATION OF A LENS
 
 Like spherical mirrors, we have magnification for spherical lenses. Spherical lenses produce magnification and it is defined as the ratio of the height of the image to the height of an object. Magnification is denoted by the letter 'm'. If height of the object is h and height of the image is h', the magnification produced by lens is:
 
@@ -388,7 +372,7 @@ If the magnification is greater than 1, then we get an enlarged image. On the ot
 
 ---
 
-## 2.14 LENS MAKER'S FORMULA
+## LENS MAKER'S FORMULA
 
 All lenses are made up of transparent materials. Any optically transparent material will have a refractive index. The lens formula relates the focal length of a lens with the distance of object and image. For a maker of any lens, knowledge of radii of curvature of the lens is required. This clearly indicates the need for an equation relating the radii of curvature of the lens, the refractive index of the given material of the lens and the required focal length of the lens. The lens maker's formula is one such equation. It is given as:
 
@@ -400,7 +384,7 @@ where μ is the refractive index of the material of the lens; R₁ and R₂ are 
 
 ---
 
-## 2.15 POWER OF A LENS
+## POWER OF A LENS
 
 When a ray of light falls on a lens, the ability to converge or diverge these light rays depends on the focal length of the lens. This ability of a lens to converge (convex lens) or diverge (concave lens) is called as its power. Hence, the power of a lens can be defined as the degree of convergence or divergence of light rays. Power of a lens is numerically defined as the reciprocal of its focal length.
 
@@ -426,7 +410,7 @@ By convention, the power of a convex lens is taken as positive whereas the power
 
 ---
 
-## 2.16 HUMAN EYE
+## HUMAN EYE
 
 The human eyes are most valuable and sensitive organs responsible for vision. They are the gateway to the wonderful world.
 
@@ -474,7 +458,7 @@ The maximum distance up to which the eye can see objects clearly is called as fa
 
 ---
 
-## 2.17 DEFECTS IN EYE
+## DEFECTS IN EYE
 
 A normal human eye can clearly see all the objects placed between 25 cm and infinity. But, for some people, the eye loses its power of accommodation. This could happen due to many reasons including ageing. Hence, their vision becomes defective. Let us discuss some of the common defects of human eye.
 
@@ -526,7 +510,7 @@ In this defect, eye cannot see parallel and horizontal lines clearly. It may be 
 
 ---
 
-## 2.18 MICROSCOPE
+## MICROSCOPE
 
 This is an optical instrument, which helps us to see tiny (very small) objects. It is classified as:
 
@@ -579,7 +563,7 @@ A travelling microscope is one of the best instrument for measuring very small l
 
 ---
 
-## 2.19 TELESCOPE
+## TELESCOPE
 
 Have you seen the recent lunar eclipse? With our naked eye we can't visualize the phenomena distinctly. Then, how can we see the distant object in clearer manner? It is possible with telescope.
 
@@ -731,28 +715,3 @@ $$
 
 ---
 
----
-
-## Concept Map
-
-![Concept Map showing: Light branches into Refraction, Dispersion, Scattering of light, and Optical Instruments](concept_map.png)
-
----
-
-## ICT CORNER
-
-### Formation of different types of images by a convex lens
-
-In this activity you will be able to understand the images formed by convex lens.
-
-**Steps:**
-
-- Open the browser and type 'phet.colorado.edu/en/simulation/legacy/geometric-optics' in the address bar.
-- Take the pencil and raise it so that the eraser is sitting on the principal axis. Click on the "principal rays" button.
-- Place the object at different positions (infinity, beyond 2F, at 2F, between F and 2F, at F, between F and optic centre) from a convex lens and observe different types of images. Explain the result.
-- Will the rays ever form an image? Click on "virtual image" to check your answer.
-
-![ICT Activity Steps](ict_steps.png)
-
-**Cells alive**
-URL: [Resources available]

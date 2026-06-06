@@ -39,7 +39,7 @@ The scientific name of the Indian cattle leech is **Hirudinaria granulosa** whic
 The scientific name of the common rabbit is **Oryctolagus cuniculus**. It represents Phylum Chordata and Class Mammalia. Mammals occupy the highest group in the animal kingdom and show advancement over the other groups of animals. They are warm blooded and possess covering of hair on the body. Mammary gland in females is the most striking feature of a mammal.
 
 
-# 13.1 The Indian Cattle Leech (Hirudinaria granulosa)
+# The Indian Cattle Leech (Hirudinaria granulosa)
 
 ## Taxonomic Position
 
@@ -51,10 +51,10 @@ The scientific name of the common rabbit is **Oryctolagus cuniculus**. It repres
 | Genus | Hirudinaria |
 | Species | granulosa |
 
-## 13.1.1 Habit and Habitat
+## Habit and Habitat
 Hirudinaria granulosa (Indian Cattle Leech) is found in India, Bangladesh, Pakistan, Myanmar and Srilanka. It lives in freshwater ponds, lakes, swamps and slow streams. They are ectoparasitic and feed on the blood of fishes, frogs, cattle and human. It is sanguivorous (blood sucking) in nature.
 
-## 13.1.2 External Morphology
+## External Morphology
 
 **Shape and Size:** The body of a leech is soft, vermiform, elongated and segmented. It becomes ribbon shaped when extended and almost cylindrical when contracted. Leeches may grow to a length of 35 cm.
 
@@ -80,7 +80,7 @@ Hirudinaria granulosa (Indian Cattle Leech) is found in India, Bangladesh, Pakis
 
 (v) **Female genital pore:** It lies mid-ventrally between second and third annuli of 11th segment.
 
-## 13.1.3 Divisions of the Body
+## Divisions of the Body
 The body of leech is divided into six regions:
 
 | Region | Segments |
@@ -92,7 +92,7 @@ The body of leech is divided into six regions:
 | Caudal region | 23rd-26th |
 | Posterior sucker | 27th-33rd |
 
-## 13.1.4 Body Wall
+## Body Wall
 Body wall of leech includes five layers:
 (i) Cuticle (outermost layer)
 (ii) Epidermis which lies below the cuticle
@@ -100,7 +100,7 @@ Body wall of leech includes five layers:
 (iv) Muscular layer formed of circular and longitudinal muscles
 (v) Botryoidal tissue lies beneath longitudinal muscles and fills the entire coelom around the viscera
 
-## 13.1.5 Locomotion
+## Locomotion
 Locomotion in leech takes place by:
 (i) Looping or crawling movement
 (ii) Swimming
@@ -111,7 +111,7 @@ This type of movement is brought about by the contraction and relaxation of musc
 ### (ii) Swimming Movement
 Leeches swim very actively and perform undulating movements in water.
 
-## 13.1.6 Digestive System
+## Digestive System
 The digestive system includes the long alimentary canal and the digestive glands.
 
 ### Alimentary Canal
@@ -156,23 +156,23 @@ Leeches prevent blood clotting by secreting a protein called hirudin. They also 
 | Male genital aperture | 10th |
 | Female genital aperture | 11th |
 
-## 13.1.7 Respiratory System
+## Respiratory System
 Respiration takes place through the skin in leech. Dense network of tiny blood vessels called as capillaries containing the haemocoelic fluid extend in between the cells of the epidermis. The exchange of respiratory gases takes place by diffusion. Oxygen dissolved in water diffuses through the skin into haemocoelic fluid, while carbon dioxide diffuses out. The skin is kept moist and slimy due to secretion of mucus which also prevents it from drying.
 
-## 13.1.8 Circulatory System
+## Circulatory System
 In leech, circulation is brought about by haemocoelic system. There are no true blood vessels. The blood vessels are replaced by channels called haemocoelic channels or canals filled with blood like fluid. The coelomic fluid contains haemoglobin.
 
 There are four longitudinal channels. One channel lies above (dorsal) the alimentary canal, one below (ventral) the alimentary canal. The other two channels lie on either (lateral) side of the alimentary canal which serve as heart and have inner valves. All the four channels are connected together posteriorly in the 26th segment.
 
-## 13.1.9 Nervous System
+## Nervous System
 The central nervous system of leech consists of a nerve ring and a paired ventral nerve cord. The nerve ring surrounds the pharynx and is formed of suprapharyngeal ganglion (brain), circumpharyngeal connective and subpharyngeal ganglion. The subpharyngeal ganglion lies below the pharynx and is formed by the fusion of four pairs of ganglia.
 
 ![](img3.png)
 
-## 13.1.10 Excretory System
+## Excretory System
 In leech, excretion takes place by segmentally arranged paired tubules called nephridia. There are 17 pairs of nephridia which open out by nephridiopores from 6th to 22nd segments.
 
-## 13.1.11 Reproductive System
+## Reproductive System
 Leech is **hermaphrodite** because both the male and female reproductive organs are present in the same individual.
 
 ### Male Reproductive System
@@ -197,7 +197,7 @@ The ova are budded off from the ovary. From each ovary runs a short oviduct. The
 > **More to Know: Medicinal value of Leech**
 > Leeches are effective in increasing blood circulation and breaking up blood clots. It is surprising that they can be used to treat cardiovascular diseases. Biochemical substances derived from leech saliva are used for preparation of pharmaceutical drugs that can treat hypertension.
 
-## 13.1.12 Parasitic Adaptations of Leech
+## Parasitic Adaptations of Leech
 Leeches lead a parasitic mode of life by sucking the blood of vertebrates and show several important adaptations in their structure:
 
 1. Blood is sucked by pharynx.
@@ -211,7 +211,7 @@ Leeches lead a parasitic mode of life by sucking the blood of vertebrates and sh
 
 ---
 
-# 13.2 Rabbit (Oryctolagus cuniculus)
+# Rabbit (Oryctolagus cuniculus)
 
 ## Taxonomic Position
 
@@ -224,13 +224,13 @@ Leeches lead a parasitic mode of life by sucking the blood of vertebrates and sh
 | Genus | Oryctolagus |
 | Species | cuniculus |
 
-## 13.2.1 Habit and Habitat
+## Habit and Habitat
 Rabbits are gentle and timid animals. They show leaping movement and live in burrows. They are distributed throughout the world. They are herbivorous animals feeding on grass and vegetables like turnips, carrots and lettuce. Rabbits are gregarious (moving in groups) animals.
 
 > **Do You Know?**
 > The pygmy rabbit was listed as a threatened species in Washington in 1990, because of decline in its population size and distribution due to habitat loss. In March 2003, the Columbia Basin Pygmy Rabbit was federally listed as an endangered species.
 
-## 13.2.2 External Morphology
+## External Morphology
 
 ![](img5.png)
 
@@ -254,12 +254,12 @@ The anus is present at the posterior end of the abdomen at the base of tail. In 
 
 Mammary glands are modified glands of the skin. They secrete milk and help in nourishing young ones. The sweat glands and sebaceous glands embedded in the skin regulate the body temperature.
 
-## 13.2.3 Coelom (Body cavity)
+## Coelom (Body cavity)
 Rabbit is a coelomate animal. The body is divisible into thoracic cavity and abdominal cavity separated by transverse partition called **diaphragm**. Diaphragm is the characteristic feature of mammals. Breathing movements are brought by the movement of the diaphragm.
 
 Lungs and heart lie in the thoracic cavity, whereas, abdominal cavity encloses digestive and urinogenital organs.
 
-## 13.2.4 Digestive System
+## Digestive System
 The digestive system includes the alimentary canal and the associated digestive glands. The alimentary canal consists of mouth, buccal cavity, pharynx, oesophagus, stomach, small intestine, caecum, large intestine and anus.
 
 Mouth is a transverse slit bounded by upper and lower lips. It leads into the buccal cavity. The floor of the buccal cavity is occupied by a muscular tongue. Jaws bear teeth.
@@ -291,7 +291,7 @@ Or written as: **2033/1023**
 
 Canines are absent. The gap between the incisors and premolar is called **diastema**. It helps in mastication and chewing of food in herbivorous animals.
 
-## 13.2.5 Respiratory System
+## Respiratory System
 Respiration takes place by a pair of lungs, which are light spongy tissues enclosed in the thoracic cavity. The thoracic cavity is bound dorsally by the vertebral column and ventrally by the sternum, laterally by the ribs. On the lower side of the thoracic cavity is the dome shaped diaphragm.
 
 ![](img8.png)
@@ -304,7 +304,7 @@ Tracheal walls are supported by rings of cartilage which help in the free passag
 
 The respiratory events consist of inspiration (breathing in) and expiration (breathing out) allowing exchange of gases (oxygen and carbon dioxide). Inspiration is an active process while expiration is a passive process.
 
-## 13.2.6 Circulatory System
+## Circulatory System
 The circulatory system is formed of blood, blood vessels and heart. The heart is pear shaped and lies in the thoracic cavity in between the lungs. It is enclosed by pericardium, a double layered membrane.
 
 ![](img9.png)
@@ -315,7 +315,7 @@ The right auricle opens into the right ventricle by right auriculoventricular ap
 
 The right auricle receives deoxygenated blood through two precaval (superior vena cava) and one postcaval (inferior vena cava) veins from all parts of the body. The left auricle receives oxygenated blood from the pulmonary veins from the lungs. From the right ventricle arises pulmonary trunk which carries the deoxygenated blood to the lungs and from the left ventricle arises the systemic arch (aorta) which supplies oxygenated blood to all parts of the body.
 
-## 13.2.7 Nervous System
+## Nervous System
 The nervous system in rabbit is formed of the central nervous system (CNS), peripheral nervous system (PNS) and autonomic nervous system (ANS).
 
 CNS consists of brain and spinal cord. PNS is formed of 12 pairs of cranial nerves and 37 pairs of spinal nerves. ANS comprises sympathetic and parasympathetic nerves.
@@ -327,7 +327,7 @@ Brain is situated in the cranial cavity and covered by three membranes called an
 Forebrain consists of a pair of olfactory lobes, cerebral hemispheres and diencephalon. The right and left cerebral hemispheres are connected by transverse band of nerve tissue called corpus callosum.
 
 The midbrain includes the optic lobes. The hindbrain consists of the cerebellum, ponsvarolii and medulla oblongata. You will study about the details of mammalian brain in the chapter on nervous system
-## 13.2.8 Urinogenital System
+## Urinogenital System
 It comprises the urinary or excretory system and the genital or reproductive system. Therefore, they are usually described as urinogenital system in vertebrates.
 
 ### Excretory System

@@ -36,7 +36,7 @@ At the end of this lesson the students will be able to:
 
 ---
 
-## 18.1 Gregor Johann Mendel - Father of Genetics
+## Gregor Johann Mendel - Father of Genetics
 
 Mendel (1822-1884) was an Austrian monk who discovered the basic principles of heredity through his experiments. His experiments are the foundation for modern genetics. He was born in 1822 to a family of farmers in Silesian of Czechoslovakia. After finishing his high school at the age of 18, he entered the Augustinian Monastery at Brunn as a priest. From there he went to the University of Vienna for training in physics, mathematics and natural science. Mendel returned to the monastery in 1854 and continued to work as a priest and teach in high school. In his leisure time he started his famous experiments on the garden pea plant. He conducted his experiments in the monastery for about seven years from 1856 to 1863. He had worked on nearly 10000 pea plants of 34 different varieties. Mendel noted that they differ from one another in many ways. Thus Mendel had chosen 7 pairs of contrasting characters for his study as shown in the table.
 
@@ -56,7 +56,7 @@ He chose the pea plant as it was advantageous for experimental work in many aspe
 
 ---
 
-## 18.2 Monohybrid Cross Inheritance of One Gene
+## Monohybrid Cross Inheritance of One Gene
 Crosses involving inheritance of only one pair of contrasting characters are called monohybrid crosses. For example it is a cross between two forms of a single trait like a cross between tall and dwarf plant.
 
 ### Mendel's Explanation of Monohybrid Cross
@@ -77,9 +77,7 @@ So the genotypic ratio 1:2:1. A genotype is the genetic constitution of an organ
 ### Mendel's Interpretation on Monohybrid cross
 Based on these observations it was confirmed by Mendel that 'factors' are passed on from one generation to another, now refered to as genes. Tallness and Dwarfness are determined by a pair of contrasting factors, tall plant possess a pair of factors (represented by T- taking the first letter of the dominant character) and a plant is dwarf because it possess factors for dwarfness (represented as t- recessive character). These factors occur in pairs and may be alike as in pure breeding tall plants (TT) and dwarf plants (tt). This is referred to as homozygous. If they are unlike (Tt) they are referred to as heterozygous.
 
-![](a2.png)
-
-**Figure 18.1** Monohybrid cross
+![Figure 18.1:  ](a2.png)Monohybrid cross
 
 1. Two factors making up a pair of contrasting characters are called alleles. Phenotypic expression of alleles are called allelomorphs. One member of each pair is contributed by one parent.
 2. When two factors for alternative expression of a trait are brought together by fertilization. The character which expresses itself is called dominant (Tallness) condition and that which is masked is called recessive condition (Dwarfness).
@@ -90,7 +88,7 @@ Based on these observations it was confirmed by Mendel that 'factors' are passed
 
 ---
 
-## 18.3 Dihybrid Cross- Inheritance Two Genes and Law of Independent Assortment
+## Dihybrid Cross- Inheritance Two Genes and Law of Independent Assortment
 
 Dihybrid cross involves the inheritance of two pairs of contrasting characteristics (or contrasting traits) at the same time. The two pairs of contrasting characteristics chosen by Mendel were shape and colour of seeds: round-yellow seeds and wrinkled-green seeds.
 
@@ -99,9 +97,7 @@ Mendel crossed pea plants having round-yellow seeds with pea plants having wrink
 1. Mendel first crossed pure breeding pea plants having round-yellow seeds with pure breeding pea plants having wrinkled-green seeds and found that only round-yellow seeds were produced in the first generation $$(F_{1})$$. No wrinkled-green seeds were obtained in the $$F_{1}$$ generation. From this it was concluded that round shape and yellow colour of the seeds were dominant traits over the wrinkled shape and green color of the seeds.
 2. When the hybrids of $$F_{1}$$ generation pea plants having round-yellow seeds were cross-bred by self pollination, then four types of seeds having different combinations of shape and color were obtained in second generation or $$F_{2}$$ generation. They were round yellow, round-green, wrinkled yellow and wrinkled-green seeds.
 
-![](a3.png)
-
-**Figure 18.2** Dihybrid Cross
+![Figure 18.2:  ](a3.png)Dihybrid Cross
 
 The ratio of each phenotype (or appearance) of seeds in the $$F_{2}$$ generation is 9:3:3:1. This is known as the Dihybrid ratio.
 
@@ -114,7 +110,7 @@ Mendel got the following results from his dihybrid cross
 
 ---
 
-## 18.4 Mendel's Laws
+## Mendel's Laws
 
 Based on his experiments of monohybrid and dihybrid cross, Mendel proposed three important laws which are now called as Mendel's Laws of Heredity.
 
@@ -132,21 +128,19 @@ Based on his experiments of monohybrid and dihybrid cross, Mendel proposed three
 
 ---
 
-## 18.5 Chromosomes, DNA and Genes
+## Chromosomes, DNA and Genes
 
 The human body is made up of million cells. The nucleus of each cell contains thin thread like structures called chromosomes. The term 'chromosomes' was first coined by Waldeyer in 1888. The chromosomes are the carrier of genetic material which contain the heredity information.
 
 The chromosomes are highly condensed coiled chromatin fibres packed with the DNA (Deoxyribonucleic acid) that forms the genetic material. Genes are segments of DNA, which are responsible for the inheritance of a particular phenotypic character. Each gene is present at a specific position on a chromosome called its locus. During cell division, the genetic information present in the genes are passed from one generation to another.
 
-### 18.5.1 Structure of a Chromosome
+### Structure of a Chromosome
 
 The chromosomes are thin, long and thread like structures consisting of two identical strands called sister chromatids. They are held together by the centromere. Each chromatid is made up of spirally coiled thin structure called chromonema. The chromonema has number of bead-like structures along its length which are called chromomeres.
 
 The chromosomes are made up of DNA, RNA, chromosomal proteins (histones and non-histones) and certain metallic ions. These proteins provide structural support to the chromosome.
 
-![](a4.png)
-
-**Figure 18.3** Structure of chromosome
+![Figure 18.3:  ](a4.png)Structure of chromosome
 
 A chromosome consists of the following regions
 - **Primary constriction:** The two arms of a chromosome meet at a point called primary constriction or centromere. The centromere is the region where spindle fibres attach to the chromosomes during cell division.
@@ -157,7 +151,7 @@ A chromosome consists of the following regions
 > **DO YOU KNOW?**
 > Telomeres act as aging clock in every cell. Telomeres are protective sequences of nucleotides found in chromosomes. As a cell divides every time, they become shorter. Telomeres get too short to do their job, causing our cells to age.
 
-### 18.5.2 Types of Chromosomes based on the position of Centromere
+### Types of Chromosomes based on the position of Centromere
 
 Based on the position of centromere, the chromosomes are classified as Telocentric, Acrocentric, Submetacentric and Metacentric
 
@@ -166,11 +160,9 @@ Based on the position of centromere, the chromosomes are classified as Telocentr
 3. **Submetacentric:** The centromere is found near the centre of the chromosome. Thus forming two unequal arms. They are J shaped or L shaped chromosomes.
 4. **Metacentric:** The centromere occurs in the centre of the chromosome and form two equal arms. They are V shaped chromosomes.
 
-![](a5.png)
+![Figure 18.4:  ](a5.png)Types of chromosomes based on position of centromere
 
-**Figure 18.4** Types of chromosomes based on position of centromere
-
-### 18.5.3 Types of Chromosomes based on function
+### Types of Chromosomes based on function
 
 The eukaryotic chromosomes are classified into autosomes and allosomes.
 
@@ -178,7 +170,7 @@ The eukaryotic chromosomes are classified into autosomes and allosomes.
 
 **Allosomes** are chromosomes which are responsible for determining the sex of an individual. They are also called as sex chromosomes or hetero-chromosomes. There are two types of sex chromosomes, X and Y- chromosomes. Human males have one X chromosome and one Y chromosome and human females have two X chromosomes.
 
-### 18.5.4 Karyotype
+### Karyotype
 
 The number of chromosomes in any living organism (animal or plant) is constant. In human, each cell normally contains 23 pairs of chromosomes. Out of which 22 pairs are autosomes and the 23rd pair is the allosome or sex chromosome.
 
@@ -186,13 +178,11 @@ In the body cells of sexually reproducing organisms, the chromosomes generally o
 
 Karyotype is the number, size and shape of chromosomes in the cell nucleus of an organism. Idiogram is the diagrammatic representation of karyotype of a species. It consists of all the metaphasic chromosomes arranged in homologous pairs according to decreasing length, thickness, position of centromere, shape etc., with the sex chromosomes placed at the end.
 
-![](a6.png)
-
-**Figure 18.5** Normal human karyotype
+![Figure 18.5:  ](a6.png)Normal human karyotype
 
 ---
 
-## 18.6 Structure of DNA
+## Structure of DNA
 
 DNA is the hereditary material as it contains the genetic information. It is the most important constituent of a chromosome. The most widely accepted model of DNA is the double helical structure of James Watson and Francis Crick. They proposed the three-dimensional model of DNA on the basis of X-ray diffraction studies of DNA obtained by Rosalind Franklin and Maurice Wilkins. In appreciation of their discoveries on the molecular structure of nucleic acids Watson, Crick and Wilkins were awarded Nobel prize for Medicine in 1962.
 
@@ -210,11 +200,9 @@ DNA is a large molecule consisting of millions of nucleotides. Hence, it is also
 
 The nucleotides are formed according to the purines and pyrimidines present in them.
 
-![](a7.png)
+![Figure 18.6:  ](a7.png)Structure of DNA
 
-**Figure 18.6** Structure of DNA
-
-### 18.6.1 Watson and Crick model of DNA
+### Watson and Crick model of DNA
 
 1. DNA molecule consists of two polynucleotide chains.
 2. These chains form a double helix structure with two strands which run anti-parallel to one another.
@@ -227,15 +215,13 @@ The nucleotides are formed according to the purines and pyrimidines present in t
 6. Each turn of the double helix is 34 Å (3.4 nm). There are ten base pairs in a complete turn.
 7. The nucleotides in a helix are joined together by phosphodiester bonds.
 
-![](a8.png)
-
-**Figure 18.7** Nucleotides in a DNA
+![Figure 18.7:  ](a8.png)Nucleotides in a DNA
 
 > **More to Know**
 > **Chargaff rule of DNA base pairing**
 > Erwin Chargaff states that in DNA, the proportion of adenine is always equal to that of thymine. and the proportion of guanine always equal to that of cytosine.
 
-### 18.6.2 DNA Replication
+### DNA Replication
 
 DNA replication is one of the basic process that occurs within a cell. DNA molecule produces exact copies of its own structure during replication process. The two strands of a DNA molecule have complementary base pairs, the nucleotides of each strand provide the information needed to produce its new strand. The two resulting daughter cells contain exactly the same genetic information as the parent cell.DNA replication involves the following steps:
 
@@ -255,36 +241,32 @@ In one strand, the daughter strand is synthesized as a continuous strand which i
 
 The replication stops when the replication fork of the two sides meet at a site called terminus, which is situated opposite to origin of replication site.
 
-![](a9.png)
+![Figure 18.8:  ](a9.png)Replication of DNA
 
-**Figure 18.8** Replication of DNA
-
-### 18.6.3 Significance of DNA
+### Significance of DNA
 - It is responsible for the transmission of hereditary information from one generation to next generation.
 - It contains information required for the formation of proteins.
 - It controls the developmental process and life activities of an organism.
 
 ---
 
-## 18.7 Sex Determination
+## Sex Determination
 
 The formation of zygote into male or female sex during development is called sex determination. Sex is determined by the chromosomes of an individual.
 
-### 18.7.1 Sex Determination in Human
+### Sex Determination in Human
 
 Recall that human beings have 23 pairs of chromosomes out of which 22 pairs are autosomes and one pair (23rd pair) is the sex chromosome. The female gametes or the eggs formed are similar in their chromosome type (22+XX). Therefore, human females are homogametic.
 
 The male gametes or sperms produced are of two types. They are produced in equal proportions. The sperm bearing (22+X) chromosomes and the sperm bearing (22+Y) chromosomes. The human males are called heterogametic.
 
-![](a10.png)
-
-**Figure 18.9** Sex determination in human
+![Figure 18.9:  ](a10.png)Sex determination in human
 
 It is a chance of probability as to which category of sperm fuses with the egg. If the egg (X) is fused by the X-bearing sperm an XX individual (female) is produced. If the egg (X) is fused by the Y-bearing sperm an XY individual (male) is produced. The sperm, produced by the father, determines the sex of the child. The mother is not responsible in determining the sex of the child.
 
 Now let's see how the chromosomes take part in this formation. Fertilization of the egg (22+X) with a sperm (22+X) will produce a female child (44+XX). while fertilization of the egg (22+X) with a sperm (22+Y) will give rise to a male child (44+XY).
 
-### 18.7.2 Mutation
+### Mutation
 
 The term mutation was introduced by Hugo De Vries in 1901 when he observed phenotypic changes in the evening primrose plant, Oenothera lamarckiana. Mutation is an inheritable sudden change in the genetic material (DNA) of an organism. Mutations are classified into two main types, namely chromosomal mutation and gene mutation.
 
@@ -297,18 +279,14 @@ The sudden change in the structure or number of chromosomes is called chromosoma
 **Euploidy:** It is the condition in which the individual bears more than the usual number of diploid $$(2n)$$ chromosomes. If an individual has three haploid sets of chromosomes, the condition is called triploidy $$(3n)$$. Triploid plants and animals are typically sterile. If it has four haploid sets of chromosomes, the condition is called tetraploidy $$(4n)$$. Tetraploid plants are advantageous as they often result in increased fruit and flower size.
 
 
-![](a11.png)
-
-**Figure 18.10** Euploidy
+![Figure 18.10:  ](a11.png)Euploidy
 
 **Aneuploidy:** It is the loss or gain of one or more chromosomes in a set. It is of three types. Monosomy $$(2n-1)$$, Trisomy $$(2n+1)$$ and Nullisomy $$(2n-2)$$. In man, Down's syndrome is one of the commonly known aneuploid condition.
 
 **Down's syndrome**
 This condition was first identified by a doctor named Langdon Down in1866. It is a genetic condition in which there is an extra copy of chromosome 21 (Trisomy 21). It is associated with mental retardation, delayed development, behavioural problems, weak muscle tone, vision and hearing disability are some of the conditions seen in these children.
 
-![](a12.png)
-
-**Figure 18.11** Aneuploidy
+![Figure 18.11:  ](a12.png)Aneuploidy
 
 **2. Gene or point mutation**
 Gene mutation is the changes occurring in nucleotide sequence of a gene. It involves substitution, deletion, insertion or inversion of a single or more than one nitrogenous base. Gene alteration results i   n abnormal protein formation in an organism.
@@ -332,54 +310,3 @@ Gene mutation is the changes occurring in nucleotide sequence of a gene. It invo
 
 ---
 
----
-
-## Concept Map
-
-```text
-Genetics
-├── Chromosomes
-│   ├── Structure
-│   │   ├── Primary constriction
-│   │   ├── Secondary constriction
-│   │   ├── Centromere
-│   │   ├── Telomere
-│   │   └── Satellite
-│   ├── Types of chromosome
-│   │   ├── Telocentric
-│   │   ├── Acrocentric
-│   │   ├── Submetacentric
-│   │   └── Metacentric
-│   ├── Kinds of chromosomes
-│   │   ├── Autosomes
-│   │   └── Allosomes
-│   └── Sex determination in human
-│       ├── Male (44+XY)
-│       └── Female (44+XX)
-├── DNA
-│   ├── Nucleotide
-│   │   ├── a pentose sugar
-│   │   ├── a nitrogenous base
-│   │   └── a phosphate group
-│   └── Replication
-│       ├── Origin of replication
-│       ├── Unwinding of DNA
-│       ├── Formation of RNA primer
-│       ├── Synthesis of new complementary DNA
-│       └── Termination
-├── Mutation
-│   ├── Chromosomal mutation
-│   │   ├── Changes in the structure
-│   │   └── Changes in number
-│   │       ├── Euploidy
-│   │       ├── Aneuploidy
-│   │       └── Down's syndrome
-│   └── Gene mutation
-│       ├── Substitution
-│       ├── Deletion
-│       ├── Insertion
-│       └── Inversion
-└── Mendel's Laws of Heredity
-    ├── Law of Dominance
-    ├── Law of Segregation
-    └── Law of Independent assortment

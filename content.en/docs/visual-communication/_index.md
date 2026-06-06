@@ -40,13 +40,13 @@ The reason we prefer computer is its speed and the ability to store data. How ca
 
 ---
 
-## 23.1 FILE
+## FILE
 
 The output we get from any application is commonly referred as ‘file’. Therefore the application for the specific purposes determines the nature of the file.
 
 ---
 
-### 23.1.1 FOLDER
+### FOLDER
 
 A folder is a storage space that contains multiple files. We can create files as per the user’s need. For clear understanding, we can take the example of a bookshelf in a library. The individual book can be considered as a ‘file’ and the whole set of books in a shelf can be considered as folders.
 
@@ -75,7 +75,7 @@ The device which helps in explaining the concepts easily through pictures is kno
 
 ---
 
-## 23.2 SCRATCH
+## SCRATCH
 
 ### Introduction
 

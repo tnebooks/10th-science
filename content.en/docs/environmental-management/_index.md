@@ -35,17 +35,17 @@ Resources can be renewed simultaneously along with their exploitation (forests, 
 
 Expanding human population resulted in expanding needs of man. With scientific and technological advancement man started utilizing natural resources at a much larger scale. Continuous increase in population caused an increased demand for resources. Therefore, conservation of natural resources makes important contributions to the social and economic development of the country.
 
-## 22.1 Conservation and Judicious Use of Resources
+## Conservation and Judicious Use of Resources
 
 Natural resources are conserved for their biological, economic and recreational values. The use of natural resources in excess and unplanned way leads to imbalance in the environment. A judicious balance should be maintained between exploitation of resources and its replenishment. Proper utilization and management of nature and its resources is termed as conservation.
 
 We have to build a sustainable world, which should last forever. Some of the ways to sustain continuous use of resources are practices to utilise energy efficiently, avoid wastage of water, avoid usage of plastics and other non-biodegradable materials and to take care for the environment we live. It is important that we manage and use our resources carefully so as to preserve for the future generations.
 
-## 22.2 Forest and its Importance
+## Forest and its Importance
 
 Forests are an important component of our environment and are dominated by microorganisms, flowering plants, shrubs, climbers, dense trees and provide a vast habitat for wild animals. Forests also contribute to the economic development of our country. Forests are vital for human life, it is a source for a wide range of renewable natural resource. They provide wood, food, fodder, fibre and medicine. Forests are major factor of environmental concern. They act as carbon sink, regulate climatic conditions, increase rainfall, reduce global warming, prevent natural hazards like flood and landslides, protect wildlife and also act as catchments for water conservation. They also play a vital role in maintaining the ecological balance.
 
-### 22.2.1 Deforestation and its Effects
+### Deforestation and its Effects
 
 Deforestation is the destruction of large area of forests. This happens for many reasons like intensive agriculture, urbanization, construction of dams, roads, buildings and industries, hydroelectric projects, forest fires, construction of mountain and forest roads. It is a threat to the economy, quality of life and future of the environment. India is losing about 1.5 million hectares of forest cover every year.
 
@@ -56,7 +56,7 @@ The Chipko movement was a non-violent agitation in 1973 that was aimed at protec
 **Effects of Deforestation**
 Deforestation gives rise to ecological problems like floods, drought, soil erosion, loss of wild life, extinction of species, imbalance of biogeochemical cycles, alteration of climatic conditions and desertification.
 
-### 22.2.2 Conservation of Forests
+### Conservation of Forests
 
 India has an area of 752.3 lakh hectare classified as reserved forests and 215.1 lakh hectare as protected forests. The important measures taken for conservation of forests are as follows:
 
@@ -64,15 +64,15 @@ India has an area of 752.3 lakh hectare classified as reserved forests and 215.1
 - **Social forestry programme:** It should be undertaken on a large scale with active participation of the public and utilization of common land to produce firewood, fodder and timber for the benefit of the rural community. This relieves pressure on existing forests and to safeguard future of tribals.
 - **Forest Conservation through Laws:** Adopting stringent laws and policies to conserve and protect forests are through National Forest Policy, (1952 and 1988) and Forest Conservation Act, 1980.
 
-## 22.3 Wildlife and its Conservation
+## Wildlife and its Conservation
 
 Wild life refers to the undomesticated animals living in their natural habitats (forests, grasslands and deserts) an area without human habitation. They are needed for maintaining biological diversity. It also helps in promoting economic activities that generates revenue through tourism. Conservation of forest and wildlife is interrelated with each other.
 
-### 22.3.1 Decline in Wildlife Population
+### Decline in Wildlife Population
 
 Wildlife of India is a great natural heritage. Exploitation of wildlife resources has decreased global wildlife population by 52% between 1970 and 2014. Over exploitation and shrinking of forest cover areas has resulted in animals becoming extinct, some are threatened and some are on the verge of extinction. In recent years, increase in human encroachment has posed a threat to India's wildlife.
 
-### 22.3.2 Aims of Wildlife Management
+### Aims of Wildlife Management
 
 The main aim of wildlife conservation are:
 
@@ -95,7 +95,7 @@ The main aim of wildlife conservation are:
 **DO YOU KNOW?**
 Jim Corbett National Park was the first to be established in 1936 in Uttarakhand, India. There are 15 biosphere reserves in India. The Nilgiris is a biosphere reserve in Tamil Nadu.
 
-### 22.3.4 Organisations Involved in Conservation of Wildlife
+### Organisations Involved in Conservation of Wildlife
 
 (i) Indian Board for WildLife (IBWL)
 (ii) World Wildlife Fund (WWF) for Nature
@@ -116,15 +116,15 @@ Rathika Ramasamy, a native of Venkatachalapuram village, Theni District in Tamil
 - Sea Turtle Conservation Project was launched in 1999.
 - Indian Rhino Vision 2020 is to conserve at least 3000 greater one-horned rhinos in Assam, India by 2020.
 
-## 22.4 Soil Erosion
+## Soil Erosion
 
 The top layers of soil contain humus and mineral salts, which are vital for the growth of plants. Removal of upper layer of soil by wind and water is called soil erosion. Soil erosion causes a significant loss of humus, nutrients and decrease the fertility of soil.
 
-### 22.4.1 Agents of Soil Erosion
+### Agents of Soil Erosion
 
 Agents of soil erosion are high velocity of wind, air currents, flowing water, landslide, human activities (deforestation, farming and mining) and overgrazing by cattle.
 
-### 22.4.2 Management of Soil Erosion
+### Management of Soil Erosion
 
 - Retain vegetation cover, so that soil is not exposed.
 - Cattle grazing should be controlled.
@@ -133,7 +133,7 @@ Agents of soil erosion are high velocity of wind, air currents, flowing water, l
 - Reforestation, terracing and contour ploughing.
 - Wind speed can be controlled by planting trees in form of a shelter belt.
 
-## 22.5 Renewable and Non-Renewable Energy Resources
+## Renewable and Non-Renewable Energy Resources
 
 Energy is an important input for development. The expansion of possible energy resources has been directly related with the pace of agricultural and industrial development in every part of the world. Energy resources can be classified as non-renewable and renewable.
 
@@ -143,11 +143,11 @@ Energy obtained from sources that cannot renew themselves over a short period of
 **Renewable (Inexhaustible) energy resources**
 These energy resources are available in unlimited amount in nature and they can be renewed over a short period of time, inexpensive and can be harvested continuously. These comprise the vast potential of non-conventional energy resources which include biofuel, biomass energy, geothermal energy, water energy (hydroelectric energy and tidal energy), solar energy, wave energy and wind energy.
 
-### 22.5.1 Fossil Fuels
+### Fossil Fuels
 
 Fossil fuels are found inside the earth's crust and are energy rich substances formed by natural process, such as anaerobic decomposition of buried dead organisms, over millions of years. As the accumulating sediment layers produce heat and pressure, the remains of the organisms are gradually transformed into hydrocarbons. e.g. petroleum, coal and natural gas.
 
-### 22.5.2 Coal and Petroleum
+### Coal and Petroleum
 
 Coal and Petroleum are natural resources. They are called fossil fuels as they are formed from the degradation of biomass buried deep under the earth millions of years ago.
 
@@ -158,7 +158,7 @@ Coal is used for generation of electricity at Thermal power plants. Petroleum al
 
 The coal and petroleum reserves can get exhausted if we continue using them at a rapid rate. The formation of these fossil fuels is a very slow process and takes very long period of time for renewal.
 
-### 22.5.3 Steps to Conserve Coal and Petroleum Resources
+### Steps to Conserve Coal and Petroleum Resources
 
 It is necessary to conserve or save coal and petroleum resources for the future use, which can be done by reducing their consumption.
 
@@ -173,13 +173,13 @@ It is necessary to conserve or save coal and petroleum resources for the future 
 **Case study of Taj Mahal**
 The Taj Mahal is one of the seven wonders of the world and is located in Agra, Uttarpradesh. It is built with white marble. The Mathura oil refinery owned by Indian Oil Corporation present around this area produce sulphur and nitrogen oxides. The white marble became yellow due to air pollution. The Government of India has set up emission standards around the monument to protect it from the damage.
 
-## 22.6 Non-Conventional (Alternative) Energy Resources
+## Non-Conventional (Alternative) Energy Resources
 
 The energy crisis has shown that for sustainable development in energy sector we must conserve the non-renewable conventional resources from its rapid depletion and replace them by non-polluting, renewable sources which are environmentally clean. 
 
 Efforts are made to develop new sources of energy which is called non-conventional sources of energy. It would provide greater initiative to local people who could assess their needs and resources and plan a strategy that could be useful to them.
 
-### 22.6.1 Solar Energy
+### Solar Energy
 
 Solar energy is the energy obtained from the sun. The sun gives out vast amount of light and heat. It is only a little less than half (47%) of solar energy which falls on the atmosphere reaches the earth's surface. If we could use just a small part of this energy it would fulfill all the country's need for power. Solar energy has advantages and also certain limitations.
 
@@ -202,9 +202,7 @@ Solar cells (Photovoltaic devices) is made up of silicon that converts sunlight 
 **Solar Panel**
 Arrangement of many solar cells side by side connected to each other is called solar panel. The capacity to provide electric cuurent is much increased in the solar panel. But the process of manufacture is very expensive.
 
-![](img1.png)
-
-**Figure 22.1** Solar Panel
+![Figure 22.1:  ](img1.png)Solar Panel
 
 **Solar Cooker**
 It consist of an insulated metal box or wooden box which is painted from inside so as to absorb maximum solar radiations. A thick glass sheet forms the cover over the Solar Cooker box. The reflector is the plane mirror which is attached to the box. The food is cooked by energy radiated by the sun.
@@ -227,7 +225,7 @@ A capacity of 100 litres solar heater can save upto 1500 units of electricity pe
 
 (iv) It does not cause pollution.
 
-### 22.6.2 Biogas
+### Biogas
 
 Biogas is the mixture of methane (nearly 75%), hydrogen sulphide, carbon dioxide and hydrogen. It is produced by the decomposition of animal wastes (cow dung) and plant wastes in the absence of oxygen. It is also commonly called as 'Gobar gas' since the starting material used is cow dung which means gobar in Hindi.
 
@@ -251,7 +249,7 @@ Biogas is the mixture of methane (nearly 75%), hydrogen sulphide, carbon dioxide
 
 (v) It can reduce the amount of greenhouse gases emitted.
 
-### 22.6.3 Shale gas
+### Shale gas
 
 Shale refers to the soft finely stratified sedimentary rock that is formed from the compaction of small old rocks containing mud and minerals - such as quartz and calcite, trapped beneath earth's surface. These rocks contain fossil fuels like oil and gas in their pores. 
 
@@ -266,7 +264,7 @@ The fuel is extracted by a technique called hydraulic fracturing (drilling or we
 **More to Know**
 India has identified six basins as areas for shale gas exploration: Cambay (Gujarat), Assam-Arakan (North East), Gondwana (Central India), Krishna Godavari onshore (East Coast), Cauvery onshore and Indo-Gangetic basins.
 
-### 22.6.4 Wind Energy
+### Wind Energy
 
 The kinetic energy possessed by the wind is due to its high speed, that can be converted into mechanical power by wind turbines. The rotatory motion of wind mill produces wind energy. It can be used for generating electricity, run water pumps, flour mills, draw water from wells etc.
 
@@ -276,9 +274,7 @@ The world's largest and tallest wind turbine is situated in Hawaii. One wind tur
 **Windmill**
 Windmill is a machine that converts the energy of wind into rotational energy by broad blade attached to the rotating axis. When the blowing air strikes the blades of the windmill, it exerts force and causes the blades to rotate. The rotational movement of the blades operate the generator and the electricity is produced. The energy output from each windmill is coupled together to get electricity on a commercial scale.
 
-![](img3.png)
-
-**Figure 22.2** Windmill
+![Figure 22.2:  ](img3.png)Windmill
 
 **Advantages of Wind energy**
 (i) Wind energy is free, eco-friendly, renewable source of energy.
@@ -293,7 +289,7 @@ Collect information regarding the
 
 (ii) Sardar Sarovar Dam project.
 
-### 22.6.5 Water Energy
+### Water Energy
 
 Earth's surface is covered with nearly 71% of water. Harnessing the energy from the flowing water can be used to produce electricity. The technique to harness the water energy is called Hydropower. 
 
@@ -301,7 +297,7 @@ The electrical energy is derived from water flow, water falling from a height. H
 
 Hydropower plants converts the kinetic energy of flowing water into electricity. This is called hydroelectricity.
 
-### 22.6.6 Tidal Energy
+### Tidal Energy
 
 Tidal energy is the energy obtained from the movement of water due to ocean tides. Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted on the oceans of the earth. 
 
@@ -317,7 +313,7 @@ A tidal stream is a fast flowing body of water created by tides. Turbines are pl
 
 (iv) Water is denser than air and therefore can generate electricity at lower speeds than wind turbines.
 
-## 22.7 Rainwater Harvesting
+## Rainwater Harvesting
 
 Rainwater harvesting is a technique of collecting and storing rainwater for future use. It is a traditional method of storing rain water in underground tanks, ponds, lakes, check dams and used in future. 
 
@@ -329,9 +325,7 @@ The main purpose of rainwater harvesting is to make the rainwater percolate unde
 
 (ii) **Recharge pit:** In this method, the rainwater is first collected from the roof tops or open spaces and is directed into the percolation pits through pipes for filtration. After filtration the rainwater enters the recharge pits or ground wells.
 
-![](img4.png)
-
-**Figure 22.3** Rain water Harvesting
+![Figure 22.3:  ](img4.png)Rain water Harvesting
 
 People living in rural areas adopt a variety of water collecting methods to capture and store as rain water. Some of the methods used are:
 (i) **Digging of tanks or lakes (Eris):** It is one of the traditional water harvesting system in Tamil Nadu. Eris are constructed in such a way that if the water in one eri overflows, it automatically gets diverted to the eri of the next village, as these eris are interconnected.
@@ -348,7 +342,7 @@ Rainwater harvesting helps to:
 (iii) Reduces flood and soil erosion.
 (iv) Water stored in ground is not contaminated by human and animal wastes and hence can be used for drinking purpose.
 
-## 22.8 Electrical Energy Management
+## Electrical Energy Management
 
 Electricity or electric power is produced by generators. The generators are operated by the turbines attached to it. The turbines are rotated by steam, moving water or wind power to produce electricity.
 
@@ -360,7 +354,7 @@ The following measures can be taken even at home and school to save electricity:
 (iv) Maximise the use of solar radiation. Solar water heating system can be used instead of electric geysers.
 (v) Minimise the use of air conditioners.
 
-## 22.9 E-Wastes and its Management
+## E-Wastes and its Management
 
 E-wastes are generally called as electronic wastes, which includes the spoiled, outdated, non-repairable electrical and electronic devices. These wastes contain toxic metals like lead, cadmium, chromium and mercury, though also contain iron, copper, silicon, aluminum and gold which can be recovered. Neverthless, only 5% of e-wastes produced are recycled.
 
@@ -392,7 +386,7 @@ Disposal of any kind of electrical and electronic devices without knowledge can 
 - **Mercury:** Chronic damage to brain and respiratory system.
 - **Plastics including Polyvinyl Chloride (PVC):** Burning produces dioxin which can cause developmental and reproductive problems, damages the immune system.
 
-## 22.10 Sewage Management
+## Sewage Management
 
 Untreated sewage or wastewater generated from domestic and industrial process is the leading polluter of water sources in India. Sewage water results in agricultural and environmental contamination and degradation.
 
@@ -415,14 +409,11 @@ The conventional wastewater treatment methods involve the following steps: (a) P
 - **Disinfection:** Chlorination and ultraviolet (UV) radiation of treated water is required to remove any microorganism contamination.
 - **Water recycling:** The water will then be supplied for domestic or industrial purposes.
 
-![](img5.png)
+![Figure 22.4:  ](img5.png)A view of sewage treatment plant
 
-**Figure 22.4** A view of sewage treatment plant
+![Figure 22.5:  ](img6.png)Conventional Wastewater Treatment
 
-![](img6.png)
-**Figure 22.5** Conventional Wastewater Treatment
-
-## 22.11 Solid Waste Management
+## Solid Waste Management
 
 Solid wastes mainly include municipal wastes, hospital wastes, industrial wastes and e- wastes etc. The solid wastes are dumped in the soil which results in landscape pollution. Solid-waste management involves the collection, treatment and proper disposing of solid material that is discarded from the household and industrial activities.
 
@@ -433,13 +424,9 @@ Solid wastes mainly include municipal wastes, hospital wastes, industrial wastes
 (iii) **Incineration:** It is the burning of non-biodegradable solid wastes (medical wastes) in properly constructed furnace at high temperature.
 (iv) **Composting:** Biodegradable matter of solid wastes is digested by microbial action or earthworms and converted into humus.
 
-![](img7.png)
+![Figure 22.6:  ](img7.png)Collection of degradable and non-degradable solid wastes
 
-**Figure 22.6** Collection of degradable and non-degradable solid wastes
-
-![](img8.png)
-
-**Figure 22.7** Collection of various types of solid wastes in separate bins
+![Figure 22.7:  ](img8.png)Collection of various types of solid wastes in separate bins
 
 ### Recycling of wastes
 

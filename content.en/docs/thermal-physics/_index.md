@@ -5,7 +5,7 @@ references:
     videos:
         - youtube:mdSeg8XDoKw?si=dxoCSwNpT-a2umVf
     links:
-        - http://alluom/courses/honors.thermo/thermophysics.htm
+        - "[Boyle's Law Simulator](https://mechsimulator.com/tools/boyles-law/)"
     books:
         - b1:
             title: Thermodynamics and an introduction to thermo statistics by Herbert Hallen
@@ -34,11 +34,11 @@ Sun is the primary source of thermal energy for all living organisms. Thermal en
 
 ---
 
-## 3.1 TEMPERATURE
+## TEMPERATURE
 
 Temperature is defined as the degree of hotness of a body. The temperature is higher for a hotter body than for a colder body. It is also be defined as the property which determines whether a body is in equilibrium or not with the surroundings (or average kinetic energy of the molecules). Further, temperature is the property, which determines the direction of flow of heat. It is a scalar quantity. The SI unit of temperature is **kelvin (K)**. There are other commonly used units of temperature such as degree celsius (°C) and degree fahrenheit (°F).
 
-### 3.1.1 Absolute scale (kelvin scale) of temperature
+### Absolute scale (kelvin scale) of temperature
 
 The temperature measured in relation to absolute zero using the kelvin scale is known as absolute scale temperature. It is also known as the thermodynamic temperature. Each unit of the thermodynamic scale of temperature is defined as the fraction of 1/273.16th part of the thermodynamic temperature of the triple point of water. A temperature difference of 1°C is equal to that of 1K. Zero Kelvin is the absolute scale of temperature of the absolute zero.
 
@@ -49,7 +49,7 @@ The temperature measured in relation to absolute zero using the kelvin scale is 
 
   0K=-273°C
 
-### 3.1.2 Thermal equilibrium
+### Thermal equilibrium
 
 Two or more physical systems or bodies are said to be in **thermal equilibrium** if there is no net flow of thermal energy between the systems. Heat energy always flows from one body to the other due to a temperature difference between them. Thus, you can define thermal equilibrium in another way. If two bodies are said to be in thermal equilibrium, then, they will be at the same temperature.
 
@@ -62,7 +62,7 @@ When a cold body is placed in contact with a hot body, some thermal energy is tr
 
 ---
 
-## 3.2 THERMAL ENERGY
+## THERMAL ENERGY
 
 If you leave a cup of hot milk on a table for some time, what happens? The hotness of the milk decreases after some time. Similarly, if you keep a bottle of cold water on a table, the water becomes warmer after some time. What do you infer from these observations?
 
@@ -76,7 +76,7 @@ Heat is a scalar quantity. The SI unit of heat energy absorbed or evolved is **j
 
 During the process of transferring heat energy, the body at lower temperature is heated while the body at higher temperature is cooled. Thus, sometimes, this process of transfer of heat energy is termed as 'cooling'. But, in most of the cases the term 'heating' is used instead of 'cooling'. When the thermal energy is transferred from one body to another, this results in the rise or lowering of the temperature of either of the bodies.
 
-### 3.2.1 Characteristic features of heat energy transfer
+### Characteristic features of heat energy transfer
 
 1. Heat always flows from a system at higher temperature to a system at lower temperature.
 2. The mass of a system is not altered when it is heated or cooled.
@@ -84,7 +84,7 @@ During the process of transferring heat energy, the body at lower temperature is
    
    **Heat gained = Heat lost**
 
-### 3.2.2 Other units of Heat energy
+### Other units of Heat energy
 
 Though the SI unit of heat energy is joule, there are some other commonly used units.
 
@@ -94,7 +94,7 @@ Though the SI unit of heat energy is joule, there are some other commonly used u
 
 ---
 
-## 3.3 EFFECT OF HEAT ENERGY
+## EFFECT OF HEAT ENERGY
 
 When a certain amount of heat energy is given to a substance, it will undergo one or more of the following changes:
 - Temperature of the substance rises.
@@ -103,7 +103,7 @@ When a certain amount of heat energy is given to a substance, it will undergo on
 
 The rise in temperature is in proportion to the amount of heat energy supplied. It also depends on the nature and mass of the substance. About the rise in temperature and the change of state, you have studied in previous classes. In the following section, we shall discuss about the expansion of substances due to heat.
 
-### 3.3.1 Expansion of Substances
+### Expansion of Substances
 
 When heat energy is supplied to a body, there can be an increase in the dimension of the object. This change in the dimension due to rise in temperature is called **thermal expansion** of the object. The expansion of liquids (e.g. mercury) can be seen when a thermometer is placed in warm water. All forms of matter (solid, liquid and gas) undergo expansion on heating.
 
@@ -208,7 +208,7 @@ Heating a liquid without using a container is not possible. Thus, in practice, y
 
 **Coefficient of apparent expansion** is defined as the ratio of the apparent rise in the volume of the liquid per degree rise in temperature to its unit volume. The SI unit of coefficient of apparent expansion is **K⁻¹**.
 
-### 3.3.2 Experiment to measure real and apparent expansion of liquid
+### Experiment to measure real and apparent expansion of liquid
 
 To start with, the liquid whose real and apparent expansion is to be determined is poured in a container up to a level. Mark this level as L₁. Now, heat the container and the liquid using a burner as shown in the Figure 3.5. Initially, the container receives the thermal energy and it expands. As a result, the volume of the liquid appears to have reduced. Mark this reduced level of liquid as L₂.
 
@@ -221,14 +221,14 @@ On further heating, the thermal energy supplied to the liquid through the contai
 
 ---
 
-## 3.4 FUNDAMENTAL LAWS OF GASES
+## FUNDAMENTAL LAWS OF GASES
 
 The three fundamental laws which connect the relation between pressure, volume and temperature are as follows:
 1. Boyle's Law
 2. Charles's law
 3. Avogadro's law
 
-### 3.4.1 Boyle's law
+### Boyle's law
 
 When the temperature of a gas is kept constant, the volume of a fixed mass of gas is **inversely proportional** to its pressure.
 
@@ -244,7 +244,7 @@ $$
 PV = \text{constant}
 $$
 
-### 3.4.2 Charles's law (The law of volume)
+### Charles's law (The law of volume)
 
 Charles's law was formulated by a French scientist Jacques Charles. According to this law, When the pressure of gas is kept constant, the volume of a gas is **directly proportional** to the temperature of the gas.
 
@@ -252,7 +252,7 @@ $$
 V \propto T \quad \text{or} \quad \frac{V}{T} = \text{constant}
 $$
 
-### 3.4.3 Avogadro's law
+### Avogadro's law
 
 Avogadro's law states that at constant pressure and temperature, the volume of a gas is directly proportional to number of atoms or molecules present in it.
 
@@ -264,15 +264,15 @@ $$
 
 ---
 
-## 3.5 GASES
+## GASES
 
 Gases are classified as real gases and ideal gases.
 
-### 3.5.1 Real Gases
+### Real Gases
 
 If the molecules or atoms of a gases interact with each other with a definite amount of intermolecular or inter atomic force of attraction, then the gases are said to be **real gases**. At very high temperature or low pressure, a real gases behaves as an ideal gases because in this condition there is no interatomic or intermolecular force of attraction.
 
-### 3.5.2 Ideal Gases
+### Ideal Gases
 
 If the atoms or molecules of a gas do not interact with each other, then the gas is said to be an **ideal gas** or a **perfect gas**.
 
@@ -280,7 +280,7 @@ Actually, in practice, no gas is ideal. The molecules of any gas will have a cer
 
 Ideal gases obey Boyle's law, Charles's law and Avogadro's law. All these laws state the relationship between various properties of a gas such as pressure (P), volume (V), temperature (T) and number of atoms (n). In a given state of the gas, all these parameters will have a definite set of values. When there is a change in the state of the gas, any one or more of these parameters change its value. The above said laws relate these changes.
 
-### 3.5.3 Ideal Gas Equation
+### Ideal Gas Equation
 
 The ideal gas equation is an equation, which relates all the properties of an ideal gas. An ideal gas obeys Boyle's law and Charles' law and Avogadro's law.
 
@@ -410,32 +410,3 @@ $$
 
 ---
 
----
-
-## CONCEPT MAP
-
-*Visual concept map showing:*
-- THERMAL PHYSICS branches into:
-  - Temperature (Thermal Equilibrium, Kelvin scale)
-  - Thermal Energy (Units: Calorie, Kilocalorie)
-  - Effects of Heat Energy → Expansion of Substances
-    - Solid (Linear, Superficial, Cubical)
-    - Liquid (Real Expansion, Apparent Expansion)
-    - Gas (Real Gas, Ideal Gas → Obeys Boyle's Law, Charles's Law, Avogadro's Law → Ideal Gas Equation)
-  - Fundamental Laws
-
----
-
-## ICT CORNER
-
-### Boyle's law
-
-In this activity you will be able to verify pressure is proportional to reciprocal of volume (Boyle's Law)
-
-**Steps:**
-- Open the browser and type "physics-chemistry-interactive-flash-animation.com/matter_change_state_measurement_mass_volume/pressure_volume_boyle_mariotte_law_ideal_gas_closed_system_MCQ.htm" in the address bar. Click enter to start the experiment.
-- Change the volume by adjusting the piston of the syringe (between 20ml to 80ml) and observe how the pressure changes.
-- Tabulate observed values. You will observe when volume decreases pressure inside the syringe gets increased and vice versa. Thus Boyle's law (PV = constant)
-
-**Cells alive**
-URL: http://www.physics-chemistry-interactive-flash-animation.com/matter_change_state_measurement_mass_volume/pressure_volume_boyle_mariotte_law_

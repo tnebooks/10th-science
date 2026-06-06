@@ -5,8 +5,7 @@ references:
     videos:
         - youtube:ZsAzoYqsaQ0?si=4rtVJY75JYDepV-D
     links:
-       - http://www.britannica.com/science/human-circulatory-system
-       - http://biologydictionary.net/circulatory-system/
+       - "[Cardiovascular System](https://www.msdmanuals.com/home/multimedia/3dmodel/cardiovascular-system)"
     books:
         - b1:
             title: V.K. Jain, Fundamentals of Plant physiology, S.Chand and Company, New Delhi
@@ -44,25 +43,23 @@ Water absorbed by the roots have to reach entire plant and the food synthesised 
 
 ---
 
-## 14.1 Means of Transport in Plants
+## Means of Transport in Plants
 
 The transport of materials in and out of the cells is carried out by diffusion and active transport in plants.
 
-### 14.1.1 Diffusion
+### Diffusion
 
 The movement of solid liquid and gaseous molecules from a region of higher concentration to a region of their lower concentration without the utilization of energy is called diffusion. This is a passive process.
 
 
-![](1.png)
-
-**Figure 14.1:** Diffusion
+![Figure 14.1: Diffusion](1.png)
 
 
-### 14.1.2 Active Transport
+### Active Transport
 
 Active transport utilizes energy to pump molecules against a concentration gradient. Active transport is carried out by membrane bound proteins. These proteins use energy to carry substances across the cell membrane hence they are often referred to as pumps. These pumps can transport substances from a low concentration to a high concentration ('uphill' transport).
 
-### 14.1.3 Osmosis
+### Osmosis
 
 Osmosis is the movement of solvent or water molecules from the region of higher concentration to the region of lower concentration through a semi-permeable membrane. This process is carried out till an equilibrium is reached. Osmosis is the passive movement of water or any other solvent molecules.
 
@@ -70,9 +67,7 @@ Osmosis is the movement of solvent or water molecules from the region of higher 
 
 It occurs when a living plant cell is placed in a hypertonic solution water molecule moves out of the cell and resulting in the shrinkage of protoplasm away from the cell wall.
 
-![](2.png)
-
-**Figure 14.2:** Plasmolysis
+![Figure 14.2: Plasmolysis](2.png)
 
 
 **Activity 1: Demonstration of Osmosis**
@@ -85,65 +80,55 @@ Imbibition is a type of diffusion in which a solid plant material absorbs water 
 
 ---
 
-## 14.2 Root Hair - Water Absorbing Unit
+## Root Hair - Water Absorbing Unit
 
 There are millions of root hairs on the tip of the root which absorb water and minerals by diffusion. Root hairs are thin walled, slender extension of epidermal cell that increase the surface area of absorption.
 
 
-![](3.png)
-
-**Figure 14.3:** Root Tip with Root Hairs
+![Figure 14.3: Root Tip with Root Hairs](3.png)
 
 ---
 
-## 14.3 Pathway of Water Absorbed by Roots
+## Pathway of Water Absorbed by Roots
 
 Once the water enters the root hairs, the concentration of water molecules in the root hair cells become more than that of the cortex. Thus water from the root hair moves to the cortical cells by osmosis and then reaches the xylem. From there the water is transported to the stem and leaves.
 
-![](4.png)
-
-**Figure 14.4:** T.S. of the root showing movement of water from soil to xylem
+![Figure 14.4: T.S. of the root showing movement of water from soil to xylem](4.png)
 
 ---
 
-## 14.4 Types of Movement of Water into the Root Cells
+## Types of Movement of Water into the Root Cells
 
 Once water is absorbed by the root hairs, it can move deeper into root layers by two distinct pathways:
 
 - **Apoplast pathway**
 - **Symplast pathway**
 
-### 14.4.1 Apoplast Pathway
+### Apoplast Pathway
 
 The apoplastic movement of water occurs exclusively through the intercellular spaces and the walls of the cells. Apoplastic movement does not involve crossing the cell membrane. This movement is dependent on the gradient.
 
-### 14.4.2 Symplast Pathway
+### Symplast Pathway
 
 In this method, water molecules move to the adjacent cells, through the plasma membrane, cytoplasm and plasmodesmata. This method of transport is slow as water moves through plasma membrane. It is in accordance to the concentration gradient.
 
-![](5.png)
-
-**Figure 14.5:** Symplastic and Apoplastic pathways of Water
+![Figure 14.5: Symplastic and Apoplastic pathways of Water](5.png)
 
 ---
 
-## 14.5 Transpiration
+## Transpiration
 
 Transpiration is the evaporation of water from the aerial parts of the plant especially through stomata in leaves. Stomata are open in the day and closed at night. The opening and closing of the stomata is due to the change in turgidity of the guard cells. When water enters into the guard cells, they become turgid and the stoma open. When the guard cells lose water, it becomes flaccid and the stoma closes.
 
-![](6.png)
-
-**Figure 14.6:** Process of Transpiration
+![Figure 14.6: Process of Transpiration](6.png)
 
 Water evaporates from mesophyll cells of leaves through the open stomata, this lowers water concentration in mesophyll cells. As a result, more water is drawn into these cells from the xylem present in the veins through the process of osmosis. As water is lost from the leaves, pressure is created at the top to pull more water from the xylem to the mesophyll cells, this process is called **transpiration pull**. This extends up to the roots causing the roots to absorb more water from the soil to ensure continuous flow of water from the roots to the leaves.
 
-### 14.5.1 Factors affecting Transpiration
+### Factors affecting Transpiration
 
 Transpiration is affected by several external factors such as temperature, light, humidity, and wind speed. Internal factors that affect transpiration include number and distribution of stomata, percentage of open stomata, water status of the plant, canopy structure etc.
 
-![](7.png)
-
-**Figure 14.7:** Guard cell in turgid and flaccid condition
+![Figure 14.7: Guard cell in turgid and flaccid condition](7.png)
 
 ### Significance of Transpiration
 
@@ -155,13 +140,13 @@ Transpiration is affected by several external factors such as temperature, light
 
 ---
 
-## 14.6 Root Pressure
+## Root Pressure
 
 As mineral ions from the soil are actively transported into the xylem tissue of the root, water moves along and increases the pressure inside the xylem. This pressure is called **root pressure** and is responsible for pushing water upward to some extent.
 
 ---
 
-## 14.7 Uptake of Minerals
+## Uptake of Minerals
 
 Plants depend on minerals from soil for its nutritional requirements. All minerals cannot be passively absorbed by the roots. Two factors account for this:
 1. Minerals are present in the soil as charged particles (ions) that cannot move across cell membranes and
@@ -171,13 +156,13 @@ Therefore, most minerals enter the root by active absorption through the cytopla
 
 ---
 
-## 14.8 Translocation of Mineral Ions
+## Translocation of Mineral Ions
 
 Minerals are remobilised from older dying leaves to younger leaves. This phenomenon can be seen in deciduous plants. Elements like phosphorus, sulphur, nitrogen and potassium are easily mobilised, while elements like calcium are not remobilised. Small amounts of material exchange takes place between xylem and phloem.
 
 ---
 
-## 14.9 Phloem Transport
+## Phloem Transport
 
 The food synthesised by the leaves are transported by the phloem either to the area of requirement or stored. Phloem tissue is composed of sieve tubes which have sieve plates. Cytoplasmic strands pass through the pores in the sieve plates.
 
@@ -187,19 +172,17 @@ Since the source-sink relationship is variable, the direction of movement in the
 
 ---
 
-## 14.10 Translocation of Sugars
+## Translocation of Sugars
 
 The mechanism of translocation of sugars from source to sink is through **pressure flow hypothesis**. Glucose prepared at source (by photosynthesis) is converted to sucrose. Sucrose moves into the companion cells, then into the living phloem sieve tube cells by active transport. This process produces a hypertonic condition in the phloem. Water in the adjacent xylem moves into the phloem by osmosis. As osmotic pressure builds up, the phloem sap moves to areas of lower pressure. By active transport sucrose moves into the cells where it is utilised or stored. As sugars are removed, the osmotic pressure decreases and water moves out of the phloem.
 
 ---
 
-## 14.11 Ascent of Sap and its Events – An Overview
+## Ascent of Sap and its Events – An Overview
 
 The upward movement of water and minerals from roots to different plant parts is called **ascent of sap**. A number of factors play a role in ascent of sap and it takes places in following steps:
 
-![](8.png)
-
-**Figure 14.8:** Ascent of Sap
+![Figure 14.8: Ascent of Sap](8.png)
 
 1. **Root Pressure**: Water from soil enters the root hairs due to osmosis. Root pressure is responsible for movement of water up to the base of the stem.
 2. **Capillary Action**: Water or any liquid rises in a capillary tube because of physical forces, this phenomenon is called capillary action. In the same way, in stem water rises up to certain height because of capillary action.
@@ -220,7 +203,7 @@ Choose a small soft stemmed plant. Cut the stem horizontally near the base with 
 
 ---
 
-## 14.12 Blood
+## Blood
 
 Blood is the main circulatory medium in the human body. It is a red coloured fluid connective tissue.
 
@@ -251,9 +234,7 @@ They are the most abundant cells in the human body. RBCs are formed in the bone 
 
 WBC's are colourless. They do not have haemoglobin and are nucleated cells. It is found in the bone marrow, spleen, thymus and lymph nodes. They are capable of amoeboid movement.
 
-![](9.png)
-
-**Figure 14.9:** Leucocytes
+![Figure 14.9: Leucocytes](9.png)
 
 The white blood corpuscles can be grouped into two categories:
 1. **Granulocytes**
@@ -312,7 +293,7 @@ vii) It maintains proper water balance in the body.
 
 ---
 
-## 14.13 Blood Vessels - Arteries and Veins
+## Blood Vessels - Arteries and Veins
 
 Blood vessels are a network of branched tubes that transport blood. There are three types of blood vessels namely **arteries**, **veins** and **capillaries**.
 
@@ -323,9 +304,7 @@ Blood vessels are a network of branched tubes that transport blood. There are th
 **Capillaries**: Capillaries are narrow tubes formed by branching of arterioles which then unite to form the venules and veins. They are about 8μm in diameter. Capillaries are formed of single layer of endothelial cells.
 
 
-![](10.png)
-
-**Figure 14.10:** Structure of blood vessel
+![Figure 14.10: Structure of blood vessel](10.png)
 
 ### Table 14.1: Differences between Artery and Vein
 
@@ -341,7 +320,7 @@ Blood vessels are a network of branched tubes that transport blood. There are th
 
 ---
 
-## 14.14 Types of Circulatory System
+## Types of Circulatory System
 
 Animals possess two types of circulatory system. They are:
 1. **Open type**
@@ -361,15 +340,13 @@ In closed type the blood flows in a complete circuit around the body through spe
 
 ---
 
-## 14.15 Structure of Human Heart
+## Structure of Human Heart
 
 Heart is a muscular pumping organ that pumps out the blood into the blood vessels. Human heart is situated between the lungs, slightly tilted toward the left and above the diaphragm in the thoracic cavity. The heart is made of specialized type of muscle called the **cardiac muscle**.
 
 The heart is enclosed in a double walled sac called **pericardium**. It contains lubricating pericardial fluid which reduces friction during heart beat and protects it from mechanical injuries.
 
-![](11.png)
-
-**Figure 14.11:** External structure of human heart
+![Figure 14.11: External structure of human heart](11.png)
 
 The human heart is **four chambered**. The two upper thin walled chambers of the heart are called **auricle** or **atria** (sing: atrium) and two lower thick walled chambers are called **ventricles**. The chambers are separated by partition called **septum**. The septum between auricles and ventricles prevents the mixing of oxygenated and deoxygenated blood.
 
@@ -377,9 +354,7 @@ The two auricles are separated from each other by **interatrial septum**. The le
 
 The ventricles form the lower part of the heart. The two ventricles are separated from each other by an **interventricular septum**. The left and right ventricles have thick walls because the ventricles have to pump out blood with force away from the heart. From the right ventricle arises the **pulmonary trunk** which bifurcates to form right and left **pulmonary arteries**. The right and left pulmonary arteries supply deoxygenated blood to the lungs of the respective side. The left ventricle is longer and narrower than the right ventricle. The walls are about three times thicker than the right ventricle. The left ventricle gives rise to **aorta**. The oxygenated blood is supplied by the aorta to various organs of the body. The **coronary arteries** supply blood to the heart muscles.
 
-![](12.png)
-
-**Figure 14.12:** Internal structure of human heart
+![Figure 14.12: Internal structure of human heart](12.png)
 
 ### Valves
 
@@ -399,7 +374,7 @@ The valves are the muscular flaps that regulate the flow of blood in a single di
 
 **Semilunar valves**: The major arteries (pulmonary artery and aorta) which leave the heart have semilunar valves which prevent backward flow of blood into the ventricles. They are the **pulmonary** and **aortic semilunar valves**.
 
-### 14.15.1 Types of Blood Circulation
+### Types of Blood Circulation
 
 The blood circulates in our body as oxygenated and deoxygenated blood. The types of circulation are:
 
@@ -413,11 +388,9 @@ When the blood circulates twice through the heart in one complete cycle it is ca
 
 However, in some animals the oxygenated and deoxygenated blood are mixed and pass through the heart only once. This type of circulation is called **single circulation**. e.g., fishes, amphibians and certain reptiles.
 
-![](13.png)
+![Figure 14.13: Pulmonary Systemic and circulation](13.png)
 
-**Figure 14.13:** Pulmonary Systemic and circulation
-
-### 14.15.2 Heart Beat
+### Heart Beat
 
 One complete contraction (systole) and relaxation (diastole) of the atrium and ventricles of the heart constitute heartbeat. The heart normally beats **72-75 times per minute**.
 
@@ -451,7 +424,7 @@ The human heart is **myogenic** in nature. Contraction is initiated by a special
 - What causes your pulse?
 - What causes the change in your heart beat rate in each situation?
 
-### 14.15.3 Cardiac Cycle
+### Cardiac Cycle
 
 The sequence of events occurring from the beginning to the completion of one heart beat is called **cardiac cycle**. During cardiac cycle blood flows through the chambers of the heart in a specific direction. Each cardiac cycle lasts about **0.8 second**. The events during a single cardiac cycle involves:
 
@@ -463,7 +436,7 @@ The sequence of events occurring from the beginning to the completion of one hea
 ![](carcycle.png)
 
 
-### 14.15.4 Heart Sound
+### Heart Sound
 
 The rhythmic closure and opening of the valves cause the sound of the heart.
 
@@ -471,7 +444,7 @@ The first sound **LUBB** is of longer duration and is produced by the closure of
 
 ---
 
-## 14.16 Blood pressure
+## Blood pressure
 
 Blood pressure is the force exerted during the flow of blood against the lateral walls of arteries. The blood pressure is high in the arteries gradually drops in the arterioles and capillaries and become very low in the veins.
 
@@ -489,21 +462,17 @@ A prolonged or constant elevation of blood pressure is a condition known as **hy
 
 A stethoscope is used to detect the sound produced by the internal organs of human body. The heart sound is heard by placing the stethoscope on the chest. It is a useful diagnostic tool to identify and localize health problems and diagnose disease. The modern electronic stethoscopes are high precisioned instruments.
 
-![](14.png)
-
-**Figure 14.14:** Stethoscope
+![Figure 14.14: Stethoscope](14.png)
 
 ### Sphygmomanometer
 
 Sphygmomanometer is a clinical instrument used to measure blood pressure when a person is in a relaxed and resting condition. The pressure of the brachial artery is measured. It helps to estimate the state of blood circulation and the working of the heart. It helps to diagnose conditions such as increased or decreased blood pressure. Monometric and modern digital types are the apparatus used to measure blood pressure.
 
-![](15.png)
-
-**Figure 14.15:** Monometric (A) and Digital (B) type blood pressure apparatus
+![Figure 14.15: Monometric (A) and Digital (B) type blood pressure apparatus](15.png)
 
 ---
 
-## 14.17 Blood Groups
+## Blood Groups
 
 The concept of blood grouping was developed by **Karl Landsteiner (1900)**. He identified blood groups A, B and O. AB blood group was recognized by Decastello and Sturli (1902).
 
@@ -540,15 +509,13 @@ Persons with **'O' blood group** are called **'Universal Donor'** as they can do
 
 ---
 
-## 14.18 Lymphatic System
+## Lymphatic System
 
 The lymphatic system comprises of lymphatic capillaries, lymphatic vessels, lymph nodes and lymphatic ducts. Lymph is the fluid that flows through the lymphatic system.
 
 The lymphatic capillaries unite to form large lymphatic vessels. Lymph nodes are small oval or pear shaped structures located along the length of lymphatic vessels.
 
-![](16.png)
-
-**Figure 14.16:** Lymphatic System in Man
+![Figure 14.16: Lymphatic System in Man](16.png)
 
 ### Lymph
 
@@ -582,29 +549,3 @@ Lymph from the intercellular spaces drains into lymphatic capillaries. Lymph is 
 
 ---
 
----
-
-## Concept Maps
-
-*Figure: Transportation in Plants - Concept Map*
-
-*Figure: Circulatory System - Concept Map*
-
----
-
-## ICT Corner
-
-**CHE-cardiovascular system** - This 3D application enables the student to know about the structure and functions of cardio vascular system.
-
-**Steps**:
-- Access the application CHE – cardiovascular system with the help of URL or QR code given below.
-- After installing it in your device, when you open the app, you can see 4 sections as Introduction, Heart – structure & functions, Blood circulatory system and Blood.
-- In each section, description as well as supportive images will be given.
-- If you click the picture, a video will be played in it. You can zoom in and zoom out the images and also you can see its any direction by making movements.
-- We can maximize as well as minimize the speed of the 3D animation to get clear details of the structures.
-
----
-
-*Pictures are indicative only*
-
----
