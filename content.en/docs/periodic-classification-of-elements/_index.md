@@ -18,20 +18,6 @@ categories:
 ---
 
 
-## Learning Objectives
-After a thorough perusal of this unit, the students will be able to:
-- recognize the basis of the modern periodic law and its development.
-- list the features of groups and periods of the modern periodic table.
-- explain the trend in periodic properties along the periods and groups.
-- distinguish between ores and minerals.
-- list out the types of separation of impurities from the ores.
-- recall the various places of occurrences of minerals in the state of Tamil Nadu.
-- put forth the properties of metals.
-- identify the stages involved in metallurgical processes.
-- think scientifically on alloys and their types.
-- develop an idea on amalgam.
-- understand the reason for corrosion and the methods of its prevention.
-
 ## INTRODUCTION
 The eighteenth and nineteenth centuries witnessed a rapid development in chemistry in all spheres of scientific activities. By 1860, scientists had already discovered 60 elements and determined their atomic masses. They noticed that some elements had similar properties and hence arranged them into groups. During this period, several new elements were discovered. These elements were found to have different properties. It was realized that instead of studying the properties of all these elements individually, it would be more convenient to divide them into groups and periods in such a way that each group contained a certain number of elements (like an array of fruits and vegetables showing orderliness) with similar properties and periods showing a regular gradation. So, scientists made several attempts to arrange elements in a logical way. You have studied about all these early attempts of arrangement of elements in standard IX. In continuation of the knowledge gained in the topic periodic classification of elements in standard IX with earlier concepts and their subsequent deliberations, you get set to go ahead with the higher order of thinking to enhance your knowledge on the properties of elements.
 

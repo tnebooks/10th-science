@@ -18,16 +18,6 @@ categories:
 
 
 
-## Learning Objectives
-
-At the end of this lesson the students will be able to:
-
-- Differentiate a File from a Folder
-- Know how to create a File and a Folder
-- Use the software application to create Animation
-
----
-
 ## INTRODUCTION
 
 In general, whenever we think of computers, the things that come to our mind is computer screen, keyboard, mouse and CPU. We learnt about computer and parts of a computer as introductory part in standard VI. Apart from that, software and hardware also plays vital role in the working of computer. Now, shall we learn how to operate the computer?

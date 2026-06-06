@@ -16,23 +16,6 @@ categories:
 
 
 
-## Learning Objectives
-
-At the end of this lesson students will be able to:
-
-- Understand the concepts of force and motion.
-- Explain inertia and its types.
-- State the three laws of Newton.
-- Apply Newtonian concept of force and motion.
-- Define force, momentum and impulse.
-- Distinguish between mass and weight
-- Analyze weightlessness and the principle of conservation of momentum.
-- Explain the law of gravitation and its applications.
-- Understand the variations in 'g' due to height and depth.
-- Solve numerical problems related to force and motion.
-
----
-
 ## INTRODUCTION
 
 Human beings are so curious about things around them. Things around us are related to one another. Some bodies are at rest and some are in motion. Rest and motion are interrelated terms.

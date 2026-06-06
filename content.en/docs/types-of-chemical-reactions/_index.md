@@ -15,21 +15,6 @@ categories:
     - types-of-chemical-reactions
 ---
 
-## Learning Objectives
-After completing this lesson learners will be able to
-
-- infer different types of chemical reaction.
-- acquire knowledge about combination reaction and skill to perform a combination reaction using quick lime and water.
-- identify and differentiate between reversible and irreversible reactions.
-- explain the reversible reaction occurring at the equilibrium state.
-- list and explain characteristics of equilibrium state.
-- define rate of reaction.
-- discuss the dependence of rate of reactions on concentration, temperature and catalyst.
-- define pH.
-- correlate the concentration of hydrogen ions and pH with neutral, acidic and basic nature of aqueous solutions.
-- recognize the importance of pH in everyday life.
-- explain the term ionic product of water.
-
 ## INTRODUCTION
 As you know from your earlier studies, a chemical reaction involves breaking of old chemical bonds and formation of new chemical bonds. This change may happen spontaneously or it may be facilitated by external forces or energy. Chemistry is all about chemical reactions. In your day to day life, you could observe many chemical reactions. A clear understanding of these reactions is essential in order to manipulate them for the sake of human life and environment. So, chemistry mainly focuses on chemical reactions. Let us try to find the answer for the following questions:
 

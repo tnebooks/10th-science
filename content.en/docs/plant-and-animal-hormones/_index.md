@@ -17,20 +17,6 @@ categories:
     - plant-and-animal-hormones
 ---
 
-## Learning Objectives
-At the end of this lesson the students will be able to:
-- Define hormone
-- List out plant hormones.
-- Classify plant hormones into growth promoters and growth inhibitors.
-- Differentiate the physiological effects of various plant hormones.
-- Understand how plant hormones control and coordinate various physiological activities in plants.
-- Know the various endocrine glands in the human body. 
-- Identify the location and structure of the endocrine glands in the human body.
-- Differentiate exocrine and endocrine glands.
-- Know the specific site of action and their functions.
-- Identify the disorders which occur due to decreased or increased hormone secretion.
-
-
 ## Introduction
 The word hormone is derived from the Greek word “hormon” meaning “ to excite”. The function of control and coordination in plants is performed by chemical substances produced by the plants called plant hormones. In plants several cells are capable of producing hormones. These phytohormones are transported to different parts of the plants to perform various physiological functions. 
 

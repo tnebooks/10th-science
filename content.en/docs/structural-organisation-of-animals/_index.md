@@ -19,16 +19,6 @@ categories:
 
 
 
-## Learning Objectives
-At the end of this lesson the students will be able to:
-- Understand the external morphology of the leech and rabbit.
-- Recognise the structural features of different organ systems.
-- Will be able to understand the physiology of various organ systems of leech and rabbit.
-- Learn the parasitic adaptations of leech.
-- Identify the type of dentition and its significance in rabbit.
-- Perceive the differences between the structural organisation of an invertebrate (leech) and vertebrate (rabbit).
-
----
 ## Introduction
 The variety in nature and habits of animals in the biosphere are quite amazing and interesting. What we see around us may be just few, but there are innumerable species living in this world. You have learnt in lower classes about the classification of animal kingdom. We will recall here that 'Kingdom Animalia' is divided into two groups, Invertebrates and Vertebrates.
 

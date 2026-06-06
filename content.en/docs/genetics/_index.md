@@ -18,18 +18,6 @@ categories:
 ---
 
 
-## Learning Objectives
-At the end of this lesson the students will be able to:
-- Know about Mendelian laws.
-- Differentiate between phenotype and genotype.
-- Understand the process of monohybrid and dihybrid cross.
-- Differentiate between a chromosome, DNA and gene.
-- Understand the structure of chromosome.
-- Classify the chromosomes based on the position of centromere.
-- Understand the structure and replication of DNA.
-- Define mutation and classify the chromosomal and gene mutation.
-- Identify the chromosomal abnormality of Down's syndrome.
-
 ## INTRODUCTION
 
 "Like Begets Like" is an important and universal phenomenon of life as the living beings produce offspring of their own kind. Colour of eye, color of hair, shape of nose, type of earlobe, etc, are inheritable traits. Have you ever wondered, how do we inherit traits and characteristics from our father and mother? Some of our characteristics might have been inherited from our grandparents. How do we inherit characters from one generation to another? It is because of the genes we inherit from our parents. These genes are responsible for the physical outlook and biological functions. The branch of biology that deals with the genes, genetic variation and heredity of living organisms is called genetics. Heredity is transmission of characters, from one generation to the next generation, while variation refers to the differences shown by the individuals of the same species and also by the offspring of the same parents. All these can happen only due to chromosomes. Now let's see what chromosomes are and how they are composed with DNA, that form the genetic material.

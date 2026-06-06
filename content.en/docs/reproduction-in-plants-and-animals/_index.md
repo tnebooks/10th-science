@@ -19,22 +19,6 @@ categories:
 ---
 
 
-## Learning Objectives
-
-At the end of this lesson the students will be able to:
-- Differentiate vegetative, asexual and sexual reproduction.
-- Describe parts of flower and their functions.
-- Understand the types and modes of pollination and their significance.
-- Understand the process of double fertilization, steps involved in fertilization (syngamy and triple fusion), embryo development, endosperm development and formation of seed.
-- Understand the process of sexual reproduction in human beings.
-- Know the structure of testicular and ovarian cells.
-- Know the structural details of human sperm and ovum.
-- Realize the events of menstrual cycle and fertilization.
-- Gain awareness on reproductive health and strategies.
-- Gain knowledge on personal and social hygiene.
-
----
-
 ## Introduction
 
 "Living organisms cannot survive for an indefinite period on earth. All living organisms have the ability to produce more of its own kind by the process called reproduction. Reproduction is the unfolding of life forms where new individuals are formed. It ensures continuity and survival of the species. This process is to preserve individual species and it is called as self-perpetuation. The time required to reproduce also varies from organism to organism. You may find great variations in period of reproduction in yeast, bacteria, rat, cow, elephant and humans. In sexual reproduction offsprings are produced by the union of male and female gametes (sperm and egg). The male and female gametes contain the genetic material or genes present on the chromosomes which transmit the characteristic traits to the next generation. There are three types of reproduction in plants namely i) Vegetative ii) Asexual and iii) Sexual

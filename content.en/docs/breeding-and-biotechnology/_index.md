@@ -18,19 +18,6 @@ categories:
 
 
 
-## Learning Objectives
-
-At the end of this lesson the students will be able to:
-- Define and discuss the steps and methods involved in plant breeding.
-- Know the crop varieties produced by crop improvement.
-- Understand animal breeding and its implications.
-- Point out the differences between inbreeding and outbreeding.
-- Know what is hybrid vigour and its importance.
-- Identify the steps involved in genetic engineering.
-- Understand the practical applications of DNA fingerprinting.
-- Gain knowledge on gene therapy.
-- Know the importance of stem cells technology.
-
 ## Introduction
 
 India's population is likely to reach 1.7 billion by 2050. Current rate of India's food production will be able to meet only 59% of the country's food demand at that time. How can India feed 1.7 billion people by 2050? This can be made possible by 'Plant breeding' and 'Animal husbandry'.

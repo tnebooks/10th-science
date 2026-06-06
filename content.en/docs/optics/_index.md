@@ -14,20 +14,6 @@ categories:
     - optics
 ---
 
-## Learning Objectives
-
-At the end of this lesson, students will be able to:
-
-- State the laws of refraction.
-- List the properties of light.
-- Explain the scattering of light and its various kinds.
-- Understand the images formed by concave and convex lens.
-- Analyze the ray diagram of concave and convex lens.
-- Understand the working of human eye and optical instruments.
-- Solve numerical problems.
-
----
-
 ## INTRODUCTION
 
 Light is a form of energy which travels in the form of waves. The path of light is called ray of light and group of these rays are called as beam of light. Any object which gives out light are termed as source of light. Some of the sources emit their own light and they are called as luminous objects. All the stars, including the Sun, are examples for luminous objects.

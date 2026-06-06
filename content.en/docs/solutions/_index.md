@@ -15,17 +15,6 @@ categories:
 ---
 
 
-## Learning Objectives
-
-After studying this lesson, students will able to:
-- define solution.
-- recognize the types of solutions.
-- analyse the factors influencing solubility.
-- explain the various modes of expression of concentration of solution.
-- calculate the solubility of solutes in solvents.
-- correlate the hydrated salts and anhydrous salts.
-- distinguish between deliquescent and hygroscopic substances.
-
 ## INTRODUCTION
 
 You have learnt about mixtures in your lower classes. Most of the substances that we encounter in our daily life are mixtures of two or more substances. The substances present in a mixture may exist in one or more physical state. For example, when we burn wood, the smoke released is a mixture of solid carbon and gases like CO₂, CO.

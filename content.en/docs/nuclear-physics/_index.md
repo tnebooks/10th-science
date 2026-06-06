@@ -15,20 +15,6 @@ categories:
 ---
 
 
-## Learning Objectives
-After learning this unit, students will be able to:
-- Define radio activity.
-- Distinguish between natural and artificial radio activity.
-- Relate the properties of alpha, beta and gamma rays.
-- State Soddy and Fajan's displacement law of nuclear disintegration.
-- Understand the concept of nuclear fission and nuclear fusion.
-- Identify fissionable materials.
-- Analyze controlled and uncontrolled chain reactions.
-- Explain the principle of atom bomb and hydrogen bomb.
-- List the uses of radio activity.
-- Understand the components of a nuclear reactor.
-- Identify the precautionary measures while handling a radioactive material.
-
 ## INTRODUCTION
 
 Humans are very much interested in knowing about atoms. Things around us are made up of atoms. A Greek Philosopher 'Democritus' in 400 BC (BCE) believed that matter is made up of tiny indestructible units called atoms. Later, in 1803, John Dalton considered that elements consist of atoms, which are identical in nature. J J Thomson discovered cathode rays, known as electrons, experimentally and Goldstein discovered positive rays, which were named as protons by Rutherford. In 1932, James Chadwick discovered the chargeless particles called neutrons. Presently, a large number of elementary particles like photon, meson, positron and nutrino have been discovered. In 1911, the British scientist, Ernest Rutherford explained that the mass of an atom is concentrated in its central part called Nucleus.

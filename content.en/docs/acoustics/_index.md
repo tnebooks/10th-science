@@ -15,19 +15,6 @@ categories:
     - acoustics
 ---
 
-## Learning Objectives
-By the end of this section, the students will be able to:
-- Understand how sound is produced and transmitted.
-- Relate the speed of sound, its frequency, and its wavelength.
-- Know the speed of sound in various media.
-- Explain the factors affecting the speed of sound in a gaseous medium.
-- Demonstrate the phenomenon of reflection of sound.
-- Determine the speed of sound using the method of echo.
-- Understand Doppler Effect.
-- Solve numerical problems related to the above.
-
----
-
 ## INTRODUCTION
 Sound plays a major role in our lives. We communicate with each other mainly through sound. In our daily life, we hear a variety of sounds produced by different sources like humans, animals, vehicle horns, etc. Hence, it becomes inevitable to understand how sound is produced, how it is propagated and how you hear the sound from various sources. It is sometimes misinterpreted that acoustics only deals with musical instruments and design of auditoria and concert halls. But, acoustics is a branch of physics that deals with production, transmission, reception, control, and effects of sound. You have studied about propagation and properties of sound waves in IX standard. In this lesson we will study about reflection of sound waves, Echo and Doppler effect.
 

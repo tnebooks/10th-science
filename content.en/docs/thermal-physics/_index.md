@@ -15,19 +15,6 @@ categories:
 ---
 
 
-## Learning Objectives
-At the end of this lesson, students will be able to
-- Understand the concept of heat and temperature
-- Know the absolute scale of temperature
-- Understand the thermal energy and the thermal equilibrium
-- Classification of expansion of substances
-- Know the fundamental laws of gases
-- Distinguish between real gas and ideal gas
-- Derive the ideal gas equation
-- Solve the numerical problems
-
----
-
 ## INTRODUCTION
 
 Sun is the primary source of thermal energy for all living organisms. Thermal energy is the cause and temperature is the effect. All living organisms need a particular temperature for their survival. In the kitchen, a container with a steel bottom is placed on the induction stove. Do you know why? All of us have a common man's understanding of thermal energy and temperature. But, in this chapter, you shall learn about thermal energy and temperature in a scientific manner. We shall also discuss about how thermal energy is transferred and the effects of thermal energy.

@@ -17,15 +17,6 @@ categories:
 ---
 
 
-## Learning Objectives
-At the end of the lesson the students will be able to:
-* Admire nervous system as the control and coordinating centre of the body.
-* Learn the components of the nervous system.
-* Analyse the transmission of nerve impulses.
-* Understand the divisions of human nervous system.
-* Interpret the different sections of brain which handle different functions.
-* Know the significance of reflex action and its operative pathway.
-
 ## Introduction
 One of the characteristic features of all living organisms is responding to stimuli. 'Stimulus' refers to the changes in the environmental condition, that are detected by receptors present in the body. Relevant changes in the activities of organisms to a particular stimuli are called their reactions or responses. Living organisms show their response to different kinds of stimuli like light, heat, cold, sound, smell, taste, touch, pressure, pain or the force of gravity etc. For example, withdrawal of hand when we touch hot objects or closing the eyes when flashed with bright light, in this condition heat or light is the stimulus to which the body shows its response. Thus, on receiving a stimulus, the body responds in a manner that is most appropriate for its survival and functioning.
 

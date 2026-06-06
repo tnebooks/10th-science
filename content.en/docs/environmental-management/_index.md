@@ -17,16 +17,6 @@ categories:
 
 
 
-## Learning Objectives
-
-At the end of this lesson the students will be able to:
-
-- Differentiate between renewable and non-renewable resources.
-- Gain knowledge about the need for conservation of various natural resources.
-- To know the various methods which can be adopted of conservation of natural resources.
-- Create awareness about the limited exploitation of natural resources.
-- Get motivated to participate in the protection of environment and its management.
-
 ## Introduction
 
 Environmental management deals with the different aspects of environment, its structure, function, its quality and its maintenance including conservation of its living and non-living components. The diversified natural resources on this earth provide the necessities for survival of all forms of life including man. Everything that comes from nature has some utility for man but its utilization is possible based on the availability of appropriate technology.
