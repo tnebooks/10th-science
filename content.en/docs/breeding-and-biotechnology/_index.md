@@ -18,19 +18,6 @@ categories:
 
 
 
-## Learning Objectives
-
-At the end of this lesson the students will be able to:
-- Define and discuss the steps and methods involved in plant breeding.
-- Know the crop varieties produced by crop improvement.
-- Understand animal breeding and its implications.
-- Point out the differences between inbreeding and outbreeding.
-- Know what is hybrid vigour and its importance.
-- Identify the steps involved in genetic engineering.
-- Understand the practical applications of DNA fingerprinting.
-- Gain knowledge on gene therapy.
-- Know the importance of stem cells technology.
-
 ## Introduction
 
 India's population is likely to reach 1.7 billion by 2050. Current rate of India's food production will be able to meet only 59% of the country's food demand at that time. How can India feed 1.7 billion people by 2050? This can be made possible by 'Plant breeding' and 'Animal husbandry'.
@@ -43,17 +30,17 @@ Another breakthrough was the emergence of **biotechnology** as an entity of mode
 
 ---
 
-## 20.1 Modern Agricultural Practices and Crop Improvement
+## Modern Agricultural Practices and Crop Improvement
 
 Modern agricultural practices are activities carried out to improve cultivation of plants. It includes preparation of soil, sowing, application of manures and fertilizers, proper irrigation, protection from weeds and pests harvesting, threshing and storage.
 
 The aim of **crop improvement** is to develop improved crop varieties possessing higher yield, better quality, resistance to diseases and shorter duration.
 
-### 20.2 Green Revolution
+### Green Revolution
 
 **Green Revolution** is the process of increasing food production through high yielding crop varieties and modern agricultural techniques in underdeveloped and developing nations. **Dr. Norman E. Borlaug**, an American agronomist the "Father of the Green Revolution", received the Nobel Peace Prize in 1970. In India **Dr. M.S. Swaminathan** joined with Dr. Borlaug in bringing Green Revolution by introducing Mexican wheat varieties. This eventually increased wheat and rice production between 1960 and 2000.
 
-#### 20.2.1 Breeding for high yield and better quality
+#### Breeding for high yield and better quality
 
 Major challenge that India faced during post-independence period was having enough food production for the growing population. Efforts were taken to develop high yielding varieties of crops, leading to Green Revolution.
 
@@ -69,7 +56,7 @@ Major challenge that India faced during post-independence period was having enou
 > **More to Know: Dr. G. Nammalvar**
 > Dr. G. Nammalvar (1938-2013) was a Tamil agricultural scientist, environmental activist and organic farming expert. He founded Nammalvar Ecological Foundation for Farm Research and Global Food Security Trust (NEFFFRGFST Vanagam) to create public awareness about the benefits of organic farming.
 
-#### 20.2.2 Plant Breeding for Disease Resistance
+#### Plant Breeding for Disease Resistance
 
 Plant diseases are caused by pathogens like viruses, bacteria and fungi. This affects crop yield. Hence, it is important to develop disease resistant varieties of crops, that would increase the yield and reduce the use of fungicides and bactericides.
 
@@ -81,7 +68,7 @@ Plant diseases are caused by pathogens like viruses, bacteria and fungi. This af
 | Cauliflower | Pusa Shubhra, Pusa Snowball K-1 | Black rot |
 | Cowpea | Pusa Komal | Bacterial blight |
 
-#### 20.2.3 Plant Breeding for Insects/Pests Resistance
+#### Plant Breeding for Insects/Pests Resistance
 
 In addition to microorganisms, a large number of insects and pests also cause damage to the crops. Hence, insect and pest resistant crop varieties were developed.
 
@@ -93,7 +80,7 @@ In addition to microorganisms, a large number of insects and pests also cause da
 | Flat Bean | Pusa Sem 2, Pusa Sem 3 | Leaf hopper, aphids and fruit borer |
 | Lady's finger | Pusa Sawani, Pusa A4 | Shoot and fruit borer |
 
-#### 20.2.4 Plant Breeding for Improved Nutritional Quality
+#### Plant Breeding for Improved Nutritional Quality
 
 Undernutrition and protein malnutrition among human population is a major health problem which has been receiving much focus throughout the world. Apart from humans it also affects the health of farm animals. To combat these conditions, human and animal health are to be determined by the nutritional quality of the feed crops. The nutritional quality of crops depends on quality and quantity of nutrients. The nutritional quality may be improved with respect to its:
 1. Protein content and quality of protein
@@ -117,7 +104,7 @@ Biofortification is the scientific process of developing crop plants enriched wi
 
 ---
 
-## 20.3 Methods of Plant Breeding for Crop Improvement
+## Methods of Plant Breeding for Crop Improvement
 
 Methods of plant breeding to develop high yielding varieties are given below:
 1. Introduction of new varieties of plants
@@ -126,11 +113,11 @@ Methods of plant breeding to develop high yielding varieties are given below:
 4. Mutation breeding
 5. Hybridization
 
-### 20.3.1 Introduction of New Varieties of Plants
+### Introduction of New Varieties of Plants
 
 It is a process of introducing high yielding varieties of plants from one place to another. Such plants are called as **exotic species**. These imported plant materials may carry pathogens and pests, hence they are thoroughly tested in a plant quarantine before being introduced to the fields. e.g. *Phaseolus mungo* was introduced from China.
 
-### 20.3.2 Selection
+### Selection
 
 Selection is one of the oldest methods of plant breeding in which individual plants or groups of plants are sorted out from a mixed population based on the morphological characters.
 
@@ -159,7 +146,7 @@ Individual plant progenies from them are evaluated separately. The best one is r
 
 A group of plants produced from a single plant through vegetative or asexual reproduction are called **clones**. All the plants of a clone are similar both in genotype and phenotype. Selection of desirable clones from the mixed population of vegetatively propagated crop is called clonal selection.
 
-### 20.3.3 Polyploidy Breeding
+### Polyploidy Breeding
 
 Sexually reproducing organisms have two complete set of chromosomes in their somatic cells. This is called **diploid (2n)**. The gametic cells have only one set of chromosome. This is called **haploid (n)**. An organism having more than two sets of chromosomes is called **polyploid** (Greek: Polys = many + aploos = one fold + eidos = form). Such condition is called **Polyploidy**. It can be induced by physical agents such as heat or cold treatment, X-rays and chemical agents like colchicine.
 
@@ -171,7 +158,7 @@ Some achievements of polyploidy breeding are:
 - **Triticale (6n)** is a hybrid of wheat and rye. To make this plant fertile polyploidy is induced. It has higher dietary fibre and protein.
 - **Raphano brassica** is an allotetraploid by colchicine treatment
 
-### 20.3.4 Mutation Breeding
+### Mutation Breeding
 
 **Mutation** is defined as the sudden heritable change in the nucleotide sequence of DNA in an organism. It is a process by which genetic variations are created which in turn brings about changes in the organism. The organism which undergoes mutation is called a **mutant**.
 
@@ -193,7 +180,7 @@ Some achievements of mutation breeding are:
 - **Atomita 2** rice with saline tolerance and pest resistance
 - **Groundnuts** with thick shells
 
-### 20.3.5 Hybridization
+### Hybridization
 
 **Hybridization** may be defined as the process of crossing two or more types of plants for bringing their desired characters together into one progeny called **hybrid**. Hybrid is superior in one or more characters to both parents. Hybridization is the common method of creating genetic variation to get improved varieties.
 
@@ -205,7 +192,7 @@ The cycle of crop raising and selection continues till the plants with the desir
 
 ---
 
-## 20.4 Animal Breeding
+## Animal Breeding
 
 A **breed** is a group of animals of common origin within a species that has certain distinguishing characters that are not found in other members of the same species like general appearance and others striking features.
 
@@ -217,7 +204,7 @@ Animal breeding aims at improving the genotypes of domesticated animals to incre
 
 When breeding takes place between animals of the same breed, it is called **inbreeding**. The cross between different breeds is called **outbreeding**.
 
-### 20.4.1 Inbreeding
+### Inbreeding
 
 Inbreeding refers to the mating of closely related animals within the same breed for about 4-6 generations. Superior males and superior females of the same breed are identified and mated in pairs. It helps in the accumulation of superior genes and elimination of genes which are undesirable.
 
@@ -225,7 +212,7 @@ Inbreeding refers to the mating of closely related animals within the same breed
 
 **Inbreeding depression:** Continued inbreeding reduces fertility and productivity. Inbreeding exposes harmful recessive genes that are eliminated by selection.
 
-### 20.4.2 Outbreeding
+### Outbreeding
 
 It is the breeding of unrelated animals. The offsprings formed are called **hybrids**. The hybrids are stronger and vigorous than their parents. Cross between two different species with desirable features of economic value are mated.
 
@@ -243,7 +230,7 @@ It is the breeding of unrelated animals. The offsprings formed are called **hybr
 - Developed by mating the bulls of exotic breeds and cows of indigenous breeds.
 - Brown Swiss × Sahiwal => Karan Swiss - yield 2-3 times more milk than indigenous cows.
 
-### 20.4.3 Heterosis
+### Heterosis
 
 The superiority of the hybrid obtained by cross breeding is called as **heterosis** or **hybrid vigour**.
 
@@ -255,7 +242,7 @@ The superiority of the hybrid obtained by cross breeding is called as **heterosi
 
 ---
 
-## 20.5 Genetic Engineering
+## Genetic Engineering
 
 **Genetic engineering** is the manipulation and transfer of genes from one organism to another organism to create a new DNA called as **recombinant DNA (rDNA)**.
 
@@ -266,14 +253,14 @@ The term recombinant is used because DNA from two different sources can be joine
 > **More to Know**
 > Restriction enzymes recognises a specific base pair sequence (palindromic sequence) in DNA called as restriction site and cleaves the phosphodiester bond within the DNA.
 
-### 20.5.1 Techniques of Genetic Engineering – Basic Requirements
+### Techniques of Genetic Engineering – Basic Requirements
 
 Important discoveries that led to the stepping stone of rDNA technology were:
 - Presence of plasmid in bacteria that can undergo replication independently along with chromosomal DNA.
 - **Restriction enzymes** cuts or break DNA at specific sites and are also called as **molecular scissors**.
 - **DNA ligases** are the enzymes which help in ligating (joining) the broken DNA fragments.
 
-### 20.5.2 Gene Cloning
+### Gene Cloning
 
 What reminds to your mind when you hear the word clone? Of course, 'DOLLY' the cloned sheep. The carbon copy of an individual is often called a clone. However, more appropriately, a clone means to make a genetically exact copy of an organism.
 
@@ -296,7 +283,7 @@ Using this strategy several enzymes, hormones and vaccines can be produced comme
 ![](img8.png)
 ---
 
-## 20.6 Biotechnology in Medicine
+## Biotechnology in Medicine
 
 Using genetic engineering techniques medicinally important valuable proteins or polypeptides that form the potential pharmaceutical products for treatment of various diseases have been developed on a commercial scale.
 
@@ -320,7 +307,7 @@ Gene therapy conducted till date has targeted only somatic (non-reproductive) ce
 
 ---
 
-## 20.7 Stem Cells
+## Stem Cells
 
 Our body is composed of over 200 specialised cell types, that can carry out specific functions. e.g. neurons or nerve cell that can transmit signals, or heart cells which contract to pump blood or pancreatic cells to secrete insulin. These specialised cells are called as **differentiated cells**.
 
@@ -344,7 +331,7 @@ Sometimes cells, tissues and organs in the body may be permanently damaged or lo
 
 ---
 
-## 20.8 DNA Fingerprinting Technology
+## DNA Fingerprinting Technology
 
 The human genome has 3 billion base pairs. The DNA pattern of two individuals cannot be same except for identical twins. Each person's DNA sequence is unique due to the small difference in the base pairs. Therefore, if we want to compare the genetic difference among the two individuals, **DNA fingerprinting** is the easier and quicker method. This technique was developed by **Alec Jeffreys**.
 
@@ -364,7 +351,7 @@ person. Because of this, DNA segment of third person will be larger in size foll
 
 ---
 
-## 20.9 Genetically Modified Organisms (GMOs)
+## Genetically Modified Organisms (GMOs)
 
 One of the most tremendous development of genetic engineering is the production of genetically modified (GM) plants and animals. **Genetic modification** refers to the alteration or manipulation of genes in the organisms using rDNA techniques in order to produce the desired characteristics. The DNA fragment inserted is called **transgene**. Plants or animals expressing a modified endogenous gene or a foreign gene are also known as **transgenic organisms**.
 

@@ -15,21 +15,6 @@ categories:
     - types-of-chemical-reactions
 ---
 
-## Learning Objectives
-After completing this lesson learners will be able to
-
-- infer different types of chemical reaction.
-- acquire knowledge about combination reaction and skill to perform a combination reaction using quick lime and water.
-- identify and differentiate between reversible and irreversible reactions.
-- explain the reversible reaction occurring at the equilibrium state.
-- list and explain characteristics of equilibrium state.
-- define rate of reaction.
-- discuss the dependence of rate of reactions on concentration, temperature and catalyst.
-- define pH.
-- correlate the concentration of hydrogen ions and pH with neutral, acidic and basic nature of aqueous solutions.
-- recognize the importance of pH in everyday life.
-- explain the term ionic product of water.
-
 ## INTRODUCTION
 As you know from your earlier studies, a chemical reaction involves breaking of old chemical bonds and formation of new chemical bonds. This change may happen spontaneously or it may be facilitated by external forces or energy. Chemistry is all about chemical reactions. In your day to day life, you could observe many chemical reactions. A clear understanding of these reactions is essential in order to manipulate them for the sake of human life and environment. So, chemistry mainly focuses on chemical reactions. Let us try to find the answer for the following questions:
 
@@ -90,7 +75,7 @@ $$
 
 ---
 
-## 10.1 TYPES OF CHEMICAL REACTIONS
+## TYPES OF CHEMICAL REACTIONS
 
 ### Classification based on the nature of rearrangements of atoms
 
@@ -358,7 +343,7 @@ Many thousands of reactions fall under these five categories and further you wil
 
 ---
 
-## 10.1.2 Classification based on the direction of the reaction
+## Classification based on the direction of the reaction
 
 You know that innumerable changes occur every day around us. Are all they permanent? For example, liquid water freezes into ice, but then ice melts into liquid water. In other words, freezing is reversed. So, it is not a permanent change. Moreover, it is a physical change. Physical changes can be reversed easily. Can chemical changes be reversed? Can the products be converted into reactants? Let us consider the burning of a wood. The carbon compounds present in the wood are burnt into carbon dioxide gas and water. Can we get back the wood immediately from carbon dioxide and water? We cannot. So, it is a permanent change. In most of the cases, we cannot. But, some chemical reactions can be reversed. Our mobile phone gets energy from its lithium ion battery by chemical reactions. It is called discharging. On recharging the mobile, these chemical reactions are reversed. Thus, chemical reactions may be reversed under suitable conditions. Hence, they are grouped into two categories such as reversible and irreversible reactions.
 
@@ -407,7 +392,7 @@ You will learn more about these reactions in your higher classes.
 
 ---
 
-## 10.2 RATE OF A CHEMICAL REACTION
+## RATE OF A CHEMICAL REACTION
 
 So far we discussed various types of chemical reactions and the nature of the reactants and products. Let us consider the following reactions:
 
@@ -449,7 +434,7 @@ Note: '[]' represents the concentration, 'd' represents the infinitesimal change
 
 Faster the reaction, more will be the amount of the product in a specified time. So, the rate of a reaction is important for a chemist for designing a process to get a good yield of a product. Rate of reaction is also important for a food processor who hopes to slow down the reactions that cause food to spoil.
 
-### 10.2.1 Factors influencing the rate of a reaction
+### Factors influencing the rate of a reaction
 
 Can the rate of a reaction be changed? The rate of a reaction can be changed. For example, iron gets rusted faster in an acid than in water. Important factors that affect rate of a reaction are:
 
@@ -499,7 +484,7 @@ You will study more about reaction rate in your higher classes.
 
 ---
 
-## 10.3 STATE OF EQUILIBRIUM
+## STATE OF EQUILIBRIUM
 
 In a reversible reaction, both forward and backward reactions take place simultaneously. When the rate of the forward reaction becomes equal to the rate of backward reaction, then no more product is formed. This stage of the reaction is called 'equilibrium state'. After this stage, no net change in the reaction can occur and hence in the amount of the reactants and products. Since this equilibrium is attained in a chemical reaction, it is called 'Chemical Equilibrium'.
 
@@ -545,7 +530,7 @@ $$
 
 ---
 
-## 10.4 IONIC PRODUCT OF WATER
+## IONIC PRODUCT OF WATER
 
 Although pure water is often considered as a non-conductor of electricity, precise measurements show that it conducts electricity to a little extent. This conductivity of water has resulted from the self-ionisation of water. Self-ionisation or auto ionisation is a reaction in which two like molecules react to give ions. In the process of ionisation of water, a proton from one water molecule is transferred to another water molecule leaving behind an OH⁻ ion. The proton gets dissolved in water forming the hydronium ion as shown in the following equation:
 
@@ -568,7 +553,7 @@ Its unit is mol² dm⁻⁶. At 25°C, its value is 1.00 × 10⁻¹⁴.
 
 ---
 
-## 10.5 pH SCALE
+## pH SCALE
 
 All the aqueous solutions may contain hydrogen and hydroxyl ions due to self-ionisation of water. In addition to this ionisation, substances dissolved in water also may produce hydrogen ions or hydroxyl ions. The concentration of these ions decides whether the solution is acidic or basic. pH scale is a scale for measuring the hydrogen ion concentration in a solution. The 'p' in pH stands for 'Potenz' in German meaning 'power'. pH notation was devised by the Danish biochemist Sorensen in 1909. pH scale is a set of numbers from 0 to 14 which is used to indicate whether a solution is acidic, basic or neutral.
 
@@ -606,7 +591,7 @@ A more common method of measuring pH in a school laboratory is by using the pH p
 
 ---
 
-## 10.6 ROLE OF pH IN EVERYDAY LIFE
+## ROLE OF pH IN EVERYDAY LIFE
 
 ### Are plants and animals pH sensitive?
 
@@ -634,7 +619,7 @@ The survival of aquatic life in such rivers becomes difficult.
 
 ---
 
-## 10.7 pH CALCULATION
+## pH CALCULATION
 
 The pH is the negative logarithm of the hydrogen ion concentration
 
@@ -685,7 +670,7 @@ $$\mathrm{pH} = 14 - 11.76 = 2.24$$
 
 ---
 
-## 10.8 PROBLEMS
+## PROBLEMS
 
 **Example 1:** Calculate the pH of 0.001 molar solution of HCl.
 
@@ -991,12 +976,3 @@ d. high temperature
 3. What is the pH of 1.0 × 10⁻⁵ molar solution of KOH?
 4. The hydroxide ion concentration of a solution is 1 × 10⁻¹¹ M. What is the pH of the solution?
 
----
-
-## Concept Map
-
-![](image.png)
-
-*Figure: Concept Map of Chemical Reactions*
-
----

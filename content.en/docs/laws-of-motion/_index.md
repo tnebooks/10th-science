@@ -5,9 +5,7 @@ references:
     videos:
         - youtube:-HSDnFOhws0
     links:
-        - https://www.grc.nasa.gov
-        - https://www.physicsclassroom.com
-        - https://www.britannica.com/science/Newtons-law-of-gravitation
+        - "[Newton's Second Law Experiment](https://www.walter-fendt.de/html5/phen/newtonlaw2_en.htm)"
     books:
         - b1:
             title:  Concept of physics - HC verma
@@ -17,23 +15,6 @@ categories:
 ---
 
 
-
-## Learning Objectives
-
-At the end of this lesson students will be able to:
-
-- Understand the concepts of force and motion.
-- Explain inertia and its types.
-- State the three laws of Newton.
-- Apply Newtonian concept of force and motion.
-- Define force, momentum and impulse.
-- Distinguish between mass and weight
-- Analyze weightlessness and the principle of conservation of momentum.
-- Explain the law of gravitation and its applications.
-- Understand the variations in 'g' due to height and depth.
-- Solve numerical problems related to force and motion.
-
----
 
 ## INTRODUCTION
 
@@ -58,7 +39,7 @@ Let us define force in a more scientific manner using the three laws proposed by
 
 ---
 
-## 1.1 FORCE AND MOTION
+## FORCE AND MOTION
 
 According to Aristotle a Greek Philosopher and Scientist, the natural state of earthly bodies is 'rest'. He stated that a moving body naturally comes to rest without any external influence of the force. Such motions are termed as 'natural motion' (Force independent). He also proposed that a force (a push or a pull) is needed to make the bodies to move from their natural state (rest) and behave contrary to their own natural state called as 'violent motion' (Force dependent). Further, he said, when two different mass bodies are dropped from a height, the heavier body falls faster than the lighter one.
 
@@ -74,7 +55,7 @@ Galileo proposed the following concepts about force, motion and inertia of bodie
 
 ---
 
-## 1.2 INERTIA
+## INERTIA
 
 While you are travelling in a bus or in a car, when a sudden brake is applied, the upper part of your body leans in the forward direction. Similarly, when the vehicle suddenly is move forward from rest, you lean backward. This is due to, any body would like to continue to be in its state of rest or the state of motion. This is known as **inertia**.
 
@@ -92,7 +73,7 @@ _Figure: Inertia of rest_
 
 In activity described above, the inertia of the coin keeps it in the state of rest when the cardboard moves. Then, when the cardboard has moved, the coin falls into the tumbler due to gravity. This happen due to 'inertia of rest'.
 
-### 1.2.1 Types of Inertia
+### Types of Inertia
 
 a) **Inertia of rest:** The resistance of a body to change its state of rest is called inertia of rest.
 
@@ -100,7 +81,7 @@ b) **Inertia of motion:** The resistance of a body to change its state of motion
 
 c) **Inertia of direction:** The resistance of a body to change its direction of motion is called inertia of direction.
 
-### 1.2.2 Examples of Inertia
+### Examples of Inertia
 
 - An athlete runs some distance before jumping. Because, this will help him jump longer and higher. _(Inertia of motion)_
 - When you make a sharp turn while driving a car, you tend to lean sideways. _(Inertia of direction)._
@@ -112,7 +93,7 @@ _Figure 1.1 Inertia of motion_
 
 ---
 
-## 1.3 LINEAR MOMENTUM
+## LINEAR MOMENTUM
 
 The impact of a force is more if the velocity and the mass of the body is more. To quantify the impact of a force exactly, a new physical quantity known as linear momentum is defined. The linear momentum measures the impact of a force on a body.
 
@@ -126,13 +107,13 @@ It helps to measure the magnitude of a force. Unit of momentum in SI system is k
 
 ---
 
-## 1.4 NEWTON'S LAWS OF MOTION
+## NEWTON'S LAWS OF MOTION
 
-### 1.4.1 Newton's First Law
+### Newton's First Law
 
 This law states that every body continues to be in its state of rest or the state of uniform motion along a straight line unless it is acted upon by some external force. It gives the definition of force as well as inertia.
 
-### 1.4.2 Force
+### Force
 
 Force is an external effort in the form of push or pull, which:
 
@@ -142,7 +123,7 @@ Force is an external effort in the form of push or pull, which:
 
 Force has both magnitude and direction. So, it is a vector quantity.
 
-### 1.4.3 Types of forces
+### Types of forces
 
 Based on the direction in which the forces act, they can be classified into two types as:
 (a) **Like parallel forces** and
@@ -152,7 +133,7 @@ Based on the direction in which the forces act, they can be classified into two 
 
 **(b) Unlike parallel forces:** If two or more equal forces or unequal forces act along opposite directions parallel to each other, then they are called unlike parallel forces.
 
-### 1.4.4 Resultant Force
+### Resultant Force
 
 When several forces act simultaneously on the same body, then the combined effect of the multiple forces can be represented by a single force, which is termed as 'resultant force'. It is equal to the vector sum (adding the magnitude of the forces with their direction) of all the forces.
 
@@ -176,19 +157,17 @@ Examples: Drawing water from a well, force applied with a crow bar, forces on a 
 
 A system can be brought to equilibrium by applying another force, which is equal to the resultant force in magnitude, but opposite in direction. Such force is called as **'Equilibrant'**.
 
-### 1.4.5 Rotating Effect of Force
+### Rotating Effect of Force
 
 Have you observed the position of the handle in a door? It is always placed at the edge of door and not at some other place. Why? Have you tried to push a door by placing your hand closer to the hinges or the fixed edge? What do you observe?
 
 The door can be easily opened or closed when you apply the force at a point far away from the fixed edge. In this case, the effect of the force you apply is to turn the door about the fixed edge. This turning effect of the applied force is more when the distance between the fixed edge and the point of application of force is more.
 
-![](rotating.png)
-
-_Figure 1.3: Rotating effect of a force_
+![Figure 1.3: Rotating effect of a force](rotating.png)
 
 The axis of the fixed edge about which the door is rotated is called as the **'axis of rotation'**. Fix one end of a rod to the floor/wall, and apply a force at the other end tangentially. The rod will be turned about the fixed point is called as **'point of rotation'**.
 
-### 1.4.6 Moment of the Force
+### Moment of the Force
 
 The rotating or turning effect of a force about a fixed point or fixed axis is called **moment of the force** about that point or **torque (τ)**. It is measured by the product of the force (F) and the perpendicular distance (d) between the fixed point or the fixed axis and the line of action of the force.
 
@@ -218,7 +197,7 @@ _Figure 1.4(a): Clockwise moment_
 
 _Figure 1.4(b): Anticlockwise moment_
 
-### 1.4.7 Application of Torque
+### Application of Torque
 
 **1. Gears:**
 A gear is a circular wheel with teeth around its rim. It helps to change the speed of rotation of a wheel by changing the torque and helps to transmit power.
@@ -229,25 +208,23 @@ Most of you have played on the seesaw. Since there is a difference in the weight
 **3. Steering Wheel**
 A small steering wheel enables you to manoeuvre a car easily by transferring a torque to the wheels with less effort.
 
-### 1.4.8 Principle of Moments
+### Principle of Moments
 
 When a number of like or unlike parallel forces act on a rigid body and the body is in equilibrium, then the algebraic sum of the moments in the clockwise direction is equal to the algebraic sum of the moments in the anticlockwise direction. In other words, at equilibrium, the algebraic sum of the moments of all the individual forces about any point is equal to zero.
 
-![](principle.png)
-
-_Figure 1.5: Principle of moments_
+![Figure 1.5: Principle of moments_
 
 In the illustration given in figure 1.5, the force F₁ produces an anticlockwise rotation at a distance d₁ from the point of pivot P (called fulcrum) and the force F₂ produces a clockwise rotation at a distance d₂ from the point of pivot P. The principle of moments can be written as follows:
 
 $$\text{Moment in clockwise direction} = \text{Moment in anticlockwise direction}
 $$
 
-$$F_1 \times d_1 = F_2 \times d_2 \quad ...(1.4)
+$$F_1 \times d_1 = F_2 \times d](principle.png)2 \quad ...(1.4)
 $$
 
 ---
 
-## 1.5 NEWTON'S SECOND LAW OF MOTION
+## NEWTON'S SECOND LAW OF MOTION
 
 According to this law, "the force acting on a body is directly proportional to the rate of change of linear momentum of the body and the change in momentum takes place in the direction of the force".
 
@@ -308,7 +285,7 @@ $$
 
 ---
 
-## 1.6 Impulse
+## Impulse
 
 A large force acting for a very short interval of time is called as **'Impulsive force'**. When a force F acts on a body for a period of time t, then the product of force and time is known as **'impulse'** represented by J.
 
@@ -338,13 +315,11 @@ ii. a smaller force acting for a longer period of time.
 - Automobiles are fitted with springs and shock absorbers to reduce jerks while moving on uneven roads.
 - In cricket, a fielder pulls back his hands while catching the ball. He experiences a smaller force for a longer interval of time to catch the ball, resulting in a lesser impulse on his hands.
 
-![](image.png)
-
-_Figure 1.6: Example of impulsive force_
+![Figure 1.6: Example of impulsive force](image.png)
 
 ---
 
-## 1.7 NEWTON'S THIRD LAW OF MOTION
+## NEWTON'S THIRD LAW OF MOTION
 
 Newton's third law states that **'for every action, there is an equal and opposite reaction. They always act on two different bodies'**.
 
@@ -361,15 +336,13 @@ $$
 
 ---
 
-## 1.8 PRINCIPLE OF CONSERVATION OF LINEAR MOMENTUM
+## PRINCIPLE OF CONSERVATION OF LINEAR MOMENTUM
 
 > There is no change in the linear momentum of a system of bodies as long as no net external force acts on them.
 
 Let us prove the law of conservation of linear momentum with the following illustration:
 
-![](linearmotion.png)
-
-_Figure 1.7: Conservation of linear momentum_
+![Figure 1.7: Conservation of linear momentum_
 
 ### Proof:
 
@@ -393,7 +366,7 @@ $$
 $$\frac{m_1(v_1 - u_1)}{t} = -\frac{m_2(v_2 - u_2)}{t}
 $$
 
-$$m_1v_1 + m_2v_2 = m_1u_1 + m_2u_2 \quad ...(1.9)
+$$m_1v_1 + m_2v_2 = m_1u_1 + m_2u](linearmotion.png)2 \quad ...(1.9)
 $$
 
 The above equation confirms in the absence of an external force, the algebraic sum of the momentum after collision is numerically equal to sum of the momentum before collision.
@@ -402,7 +375,7 @@ Hence the law of conservation linear momentum is proved.
 
 ---
 
-## 1.9 ROCKET PROPULSION
+## ROCKET PROPULSION
 
 Propulsion of rockets is based on the law of conservation of linear momentum as well as Newton's III law of motion. Rockets are filled with a fuel (either liquid or solid) in the propellant tank. When the rocket is fired, this fuel is burnt and a hot gas is ejected with a high speed from the nozzle of the rocket, producing a huge momentum. To balance this momentum, an equal and opposite reaction force is produced in the combustion chamber, which makes the rocket project forward.
 
@@ -410,17 +383,15 @@ While in motion, the mass of the rocket gradually decreases, until the fuel is c
 
 ---
 
-## 1.10 GRAVITATION
+## GRAVITATION
 
-### 1.10.1 Newton's universal law of gravitation
+### Newton's universal law of gravitation
 
 This law states that **every particle of matter in this universe attracts every other particle with a force**. This force is directly proportional to the product of their masses and inversely proportional to the square of the distance between the centers of these masses. The direction of the force acts along the line joining the masses.
 
 Force between the masses is always attractive and it does not depend on the medium where they are placed.
 
-![](laws.png)
-
-_Figure 1.8: Gravitational force between two masses_
+![Figure 1.8: Gravitational force between two masses_
 
 Let, $$m_1 and m_2
 $$ be the masses of two bodies A and B placed r metre apart in space
@@ -435,13 +406,13 @@ On combining the above two expressions:
 $$F \propto \frac{m_1 \times m_2}{r^2}
 $$
 
-$$F = G\frac{m_1m_2}{r^2} \quad ...(1.10)
+$$F = G\frac{m_1m](laws.png)2}{r^2} \quad ...(1.10)
 $$
 
 Where G is the **universal gravitational constant**. Its value in SI unit is $$6.674 \times 10^{-11} \text{ N m}^2 \text{ kg}^{-2}
 $$.
 
-### 1.10.2 Acceleration due to gravity (g)
+### Acceleration due to gravity (g)
 
 When you throw any object upwards, its velocity ceases at a particular height and then it falls down due to the gravitational force of the Earth.
 
@@ -449,16 +420,14 @@ The velocity of the object keeps changing as it falls down. This change in veloc
 
 Mean value of the acceleration due to gravity is taken as **9.8 m s⁻²** on the surface of the Earth. This means that the velocity of a body during the downward free fall motion varies by 9.8 ms⁻¹ for every 1 second. However, the value of g is not the same at all points on the surface of the earth.
 
-### 1.10.3 Relation between g and G
+### Relation between g and G
 
 When a body is at rests on the surface of the Earth, it is acted upon by the gravitational force of the Earth. Let us compute the magnitude of this force in two ways. Let, M be the mass of the Earth and m be the mass of the body. The entire mass of the Earth is assumed to be concentrated at its centre. The radius of the Earth is R = 6378 km (= 6400 km approximately). By Newton's law of gravitation, the force acting on the body is given by
 
 $$F = \frac{GMm}{R^2}
 $$
 
-![](earth.png)
-
-_Figure 1.9: Relation between g and G_
+![Figure 1.9: Relation between g and G](earth.png)
 
 Here, the radius of the body considered is negligible when compared with the Earth's radius. Now, the same force can be obtained from Newton's second law of motion. According to this law, the force acting on the body is given by the product of its mass and acceleration (called as weight). Here, acceleration of the body is under the action of gravity hence a = g
 
@@ -475,7 +444,7 @@ $$
 $$\text{Acceleration due to gravity } \mathbf{g} = \frac{\mathbf{GM}}{\mathbf{R}^2}
 $$
 
-### 1.10.4 Mass of the Earth (M)
+### Mass of the Earth (M)
 
 Rearranging the equation (1.14), the mass of the Earth is obtained as follows:
 
@@ -487,7 +456,7 @@ Substituting the known values of g, R and G, you can calculate the mass of the E
 $$\mathbf{M} = 5.972 \times 10^{24} \text{ kg}
 $$
 
-### 1.10.5 Variation of acceleration due to gravity (g):
+### Variation of acceleration due to gravity (g):
 
 Since, g depends on the geometric radius of the Earth, $$(g \propto 1/R^2)
 $$, its value changes from one place to another on the surface of the Earth. Since, the geometric radius of the Earth is maximum in the equatorial region and minimum in the polar region, the value of g is **maximum in the polar region** and **minimum at the equatorial region**.
@@ -496,7 +465,7 @@ When you move to a higher altitude from the surface of the Earth, the value of g
 
 ---
 
-## 1.11 MASS AND WEIGHT
+## MASS AND WEIGHT
 
 **Mass:** Mass is the basic property of a body. Mass of a body is defined as the quantity of matter contained in the body. Its SI unit is kilogram (kg).
 
@@ -514,27 +483,25 @@ The value of acceleration due to gravity on the surface of the moon is 1.625 ms�
 
 ---
 
-## 1.12 APPARENT WEIGHT
+## APPARENT WEIGHT
 
 The weight that you feel to possess during up and down motion, is not same as your actual weight. Apparent weight is the weight of the body acquired due to the action of gravity and other external forces acting on the body.
 
 Let us see this from the following illustration:
 
-![](moving.png)
-
-_Figure 1.10: A person in a moving lift_
+![Figure 1.10: A person in a moving lift_
 
 Let us consider a person of mass m, who is travelling in lift. The actual weight of the person is $$W = mg$$ which is acting vertically downwards. The reaction force exerted by the lift's surface $$\mathbf{R}$$, taken as apparent weight is acting vertically upwards.
 
 Let us see different possibilities of the apparent weight 'R' of the person that arise, depending on the motion of the lift; upwards or downwards which are given in Table 1.2
 
-### 1.12.1 Weightlessness
+### Weightlessness
 
 Have you gone to an amusement park and taken a ride in a roller coaster? or in a giant wheel? During the fast downward and upward movement, how did you feel?
 
 ![](rollar.png)
 
-_Figure 1.11: Weightlessness in a roller coaster_
+_Figure 1.11: Weightlessness in a roller coaster](moving.png)
 
 Its amazing!!. You actually feel as if you are falling freely without having any weight. This is due to the phenomenon of **'weightlessness'**. You seem to have lost your weight when you move down with a certain acceleration. Sometimes, you experience the same feeling while travelling in a lift.
 
@@ -542,25 +509,23 @@ When the person in a lift moves down with an acceleration (a) equal to the accel
 
 The same effect takes place while falling freely in a roller coaster or on a swing or in a vertical giant wheel. You feel an apparent weight loss and weight gain when you are moving up and down in such rides.
 
-### 1.12.2 Weightlessness of the astronauts
+### Weightlessness of the astronauts
 
 Some of us believe that the astronauts in the orbiting spacestation do not experience any gravitational force of the Earth. So they float. But this is absolutely wrong.
 
 Astronauts are not floating but falling freely around the earth due to their huge orbital velocity. Since spacestation and astronauts have equal acceleration, they are under free fall condition. (R = 0, refer case 4 in Table 1.2). Hence, both the astronauts and the spacestation are in the state of weightlessness.
 
-![](astronauts.png)
-
-_Figure 1.12: Weightlessness of astronauts_
+![Figure 1.12: Weightlessness of astronauts_
 
 ### Table 1.2: Apparent weight of a person in a moving lift
 
 | Case 1: Lift is moving upward with an acceleration 'a'                  | Case 2: Lift is moving downward with an acceleration 'a'                | Case 3: Lift is at rest.                                         | Case 4: Lift is falling down freely                                        |
 | :---------------------------------------------------------------------- | :---------------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------- |
-| R - W = F_net = ma_net <br> R = W + ma <br> R = mg + ma <br> R = m(g+a) | W - R = F_net = ma_net <br> R = W - ma <br> R = mg - ma <br> R = m(g-a) | Here, the acceleration is zero <br> a = 0 <br> R = W <br> R = mg | Here, the acceleration is equal to g <br> a = g <br> R = m(g-g) <br> R = 0 |
+| R - W = F_net = ma_net <br> R = W + ma <br> R = mg + ma <br> R = m(g+a) | W - R = F_net = ma](astronauts.png)net <br> R = W - ma <br> R = mg - ma <br> R = m(g-a) | Here, the acceleration is zero <br> a = 0 <br> R = W <br> R = mg | Here, the acceleration is equal to g <br> a = g <br> R = m(g-g) <br> R = 0 |
 | R > W                                                                   | R < R = W                                                               | R = W                                                            | R = 0                                                                      |
 | Apparent weight is greater than the actual weight.                      | Apparent weight is lesser than the actual weight.                       | Apparent weight is equal to the actual weight.                   | Apparent weight is equal to zero.                                          |
 
-### 1.12.3 Application of Newton's law of gravitation
+### Application of Newton's law of gravitation
 
 1. Dimensions of the heavenly bodies can be measured using the gravitation law. Mass of the Earth, radius of the Earth, acceleration due to gravity, etc. can be calculated with a higher accuracy.
 2. Helps in discovering new stars and planets.
@@ -625,37 +590,3 @@ From the centre of the Earth, the object is placed at twice the radius of the ea
 
 ---
 
----
-
-## Concept Map
-
-```
-Kinematics
-├── Statics
-└── Dynamics
-    ├── Aristotle
-    ├── Galileo
-    └── Issac Newton
-        ├── First law of motion → Inertia and its types
-        ├── Second law of motion → Momentum and force → Mass and weight
-        ├── Third law of motion → Apparent weight → Weightlessness
-        └── Gravitation → Universal law of gravitation → Variation of g
-```
-
----
-
-## ICT CORNER
-
-### Newton's second law
-
-- Open the browser and type "olabs.edu.in" in the address bar. Click physics tab and then click "Newton's second " under class 9 section. Go to "simulator" tab to do the experiment.
-- Select the desired Cart mass (M₁) and vertical mass (M₂) using respective slider. Also select the desired distance (s) by moving the slider. Click on the "Start" button to start the experiment.
-- Observe the time and note it down. Calculate acceleration (a) of the cart using the formula a = 2s/t². Find the force due to rate of change of momentum using (M₁+M₂)a.
-- Calculate force F = M₂g.
-- You will observe (M₁+M₂)a = M₂g. Hence Newton's Second Law is verified. Repeat the experiment with different masses. Also do this in different environment like Earth, Moon, Uranus and Jupiter. Click reset to restart the experiment.
-
-**Link:** http://amrita.olabs.edu.in/?sub=1&brch=1&sim=44&cnt
-
-```
-
-```

@@ -17,22 +17,6 @@ categories:
 
 
 
-## Learning Objectives
-
-At the end of the lesson the students will be able to:
-- acquire the ability to learn about the atoms and molecules.
-- comprehend atomic mass and molecular mass.
-- have information about gram atomic mass and gram molecular mass.
-- perceive the intended meaning of Avogadro's hypothesis of gases.
-- interpret the application of Avogadro's hypothesis.
-- determine the atomicity of a molecule.
-- interpret the relation between vapour density and relative molecular mass.
-- have the facts about the relationship between the volume of a gas and the number of molecules present in it.
-- grasp the idea of mole concept and solve many problems using it.
-- calculate the percentage of composition of a compound.
-
----
-
 ## INTRODUCTION
 
 You have learnt, in your lower classes that matter is around us everywhere. Matter is made of atoms. Curiously the idea of atom was first proposed by the Greek philosophers in the fifth century BC (BCE). But, their theory was more philosophical than scientific.
@@ -57,7 +41,7 @@ The modern atomic theory is the basis for all the studies of chemical and physic
 
 ---
 
-## 7.1 ATOM AND ATOMIC MASS
+## ATOM AND ATOMIC MASS
 
 As you know, anything that has mass and occupies space is called matter. Atoms are the building blocks of matter. Since matter has mass, it must be due to its atoms. According to the modern atomic theory, an atom contains subatomic particles such as protons, neutrons and electrons. Protons and neutrons have considerable mass, but electrons don't have such a considerable mass. Thus, the mass of an atom is mainly contributed by its protons and neutrons and hence the sum of the number of protons and neutrons of an atom is called its **mass number**.
 
@@ -67,7 +51,7 @@ Atomic mass unit is one-twelfth of the mass of a carbon-12 atom; an isotope of c
 
 > **Note:** The symbol 'amu' is no longer used in the modern system and instead, it uses the symbol 'u' to denote unified atomic mass. The mass of a proton or neutron is approximately 1 amu.
 
-### 7.1.1 Relative Atomic Mass (RAM)
+### Relative Atomic Mass (RAM)
 
 As an atom is very small, its absolute mass cannot be determined directly. The early pioneers of chemistry used to measure the atomic mass of an atom relative to an atom of another element. They measured the masses of equal number of atoms of two or more elements at a time, to determine their relative masses. They established one element as a standard, gave it an arbitrary value of atomic mass and using this value they measured the relative mass of other elements. The mass obtained by this way is called **relative atomic mass**. In the beginning, the mass of hydrogen atom was chosen as a standard and masses of other atoms were compared with it, because of the existence of isotopic character of hydrogen ($$
 ^1H^1, ^1H^2, ^1H^3
@@ -103,7 +87,7 @@ Relative Atomic Mass is only a ratio, so it has no unit. If the atomic mass of a
 > - Gram Atomic Mass of nitrogen = 14 g
 > - Gram Atomic Mass of oxygen = 16 g
 
-### 7.1.2 Average Atomic Mass (AAM)
+### Average Atomic Mass (AAM)
 
 How can one measure the atomic mass of an element? It is somewhat more complicated because most of the naturally occurring elements exist as a mixture of isotopes, each of which has its own mass. Thus, it is essential to consider this isotopic mixture while calculating the atomic mass of an element.
 
@@ -173,13 +157,13 @@ $$
 
 ---
 
-## 7.2 MOLECULE AND MOLECULAR MASS
+## MOLECULE AND MOLECULAR MASS
 
 Except noble gases, atoms of most of the elements are found in the combined form with itself or atoms of other elements. It is called as a **molecule**. A molecule is a combination of two or more atoms held together by strong chemical forces of attraction, i.e. chemical bonds.
 
 > **Conceptual Thoughts:** All compounds are molecules; but, all molecules are not compounds. Why?
 
-### 7.2.1 Classification of molecules
+### Classification of molecules
 
 A molecule may contain atoms of the same element or may contain atoms of two or more elements joined in a fixed ratio, in accordance with the law of definite proportions. Thus, a molecule may be an element or a compound. If the molecule is made of similar kind of atoms, then it is called **homoatomic molecule**. The molecule that consist of atoms of different elements is called **heteroatomic molecule**. A compound is a heteroatomic molecule. The number of atoms present in the molecule is called its **'atomicity'**.
 
@@ -226,7 +210,7 @@ Fluorine (F₂), Carbon dioxide (CO₂), Phosphorous (P₄), Sulphur (S₈), Amm
 | Homo | F₂ | O₃ | P₄, S₈ |
 | Hetero | HI, CO | CO₂, H₂O | NH₃, H₂SO₄, CH₄, C₆H₁₂O₆ |
 
-### 7.2.2 Relative Molecular Mass (RMM)
+### Relative Molecular Mass (RMM)
 
 As the molecules are made of atoms, they also have their own mass. The mass of the molecule of an element or compound is measured in the C-12 scale and hence called **relative molecular mass**.
 
@@ -277,7 +261,7 @@ $$ of the mass of a carbon –12.
 
 ---
 
-## 7.3 DIFFERENCE BETWEEN ATOMS AND MOLECULES
+## DIFFERENCE BETWEEN ATOMS AND MOLECULES
 
 Even though atoms are the basic components of molecules, they differ in many aspects when compared to the molecules. Table 7.5 consolidates the major difference between atoms and molecules.
 
@@ -292,7 +276,7 @@ Even though atoms are the basic components of molecules, they differ in many asp
 
 ---
 
-## 7.4 MOLE CONCEPT
+## MOLE CONCEPT
 
 So far we discussed about matters in terms of individual atoms and molecules. Atomic mass units provide a relative scale for the masses of the elements. Since the atoms have such small masses, no usable scale can be devised to weigh them in the calibrated units of atomic mass units. In any real situation, we deal with macroscopic samples containing enormous number of atoms. Therefore, it is convenient to have a special unit to describe a very large number of atoms. The idea of a 'unit' to denote a particular number of objects is not new. For example, the pair (2 items) and the dozen (12 items), are all familiar units. Chemists measure atoms and molecules in **'moles'**. So, you can now understand that **'mole'** denotes a number of particles.
 
@@ -342,7 +326,7 @@ $$
 
 ---
 
-## 7.5 PERCENT COMPOSITION
+## PERCENT COMPOSITION
 
 So far, we were dealing with the number of entities present in a given substance. But many times, the information regarding the percentage of a particular element present in a compound is required.
 
@@ -377,7 +361,7 @@ $$
 
 ---
 
-## 7.6 AVOGADRO HYPOTHESIS
+## AVOGADRO HYPOTHESIS
 
 In 1811 Avogadro framed a hypothesis based on the relationship between the number of molecules present in equal volumes of gases in different conditions.
 
@@ -441,7 +425,7 @@ v. It helps to determine gram molar volume of all gases (i.e., 22.4 litre at STP
 
 ---
 
-## 7.8 RELATIONSHIP BETWEEN VAPOUR DENSITY AND RELATIVE MOLECULAR MASS
+## RELATIONSHIP BETWEEN VAPOUR DENSITY AND RELATIVE MOLECULAR MASS
 
 ### i. Relative molecular mass: (Hydrogen scale)
 
@@ -495,7 +479,7 @@ $$
 
 ---
 
-## 7.9 SOLVED PROBLEMS
+## SOLVED PROBLEMS
 
 ### I. Calculation of molecular mass
 
@@ -687,8 +671,3 @@ $$).
 
 
 
----
-
-## CONCEPT MAP
- ![](img5.png)
----

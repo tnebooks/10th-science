@@ -17,31 +17,19 @@ categories:
 
 
 
-## Learning Objectives
-At the end of this lesson the students will be able to:
-- Understand vascular tissue system their types and functions.
-- Know the structure of dicot root, stem, leaf and monocot root, stem, leaf.
-- Differentiate the internal structure of dicot root, stem, leaf with that of monocot root, stem, leaf.
-- Name the different pigments found in chloroplast.
-- Elaborate on the structure and functions of plastids.
-- Enumerate the steps involved in photosynthesis.
-- Understand the structure of mitochondria
-- List the basic events of aerobic and anaerobic respiration.
-
-
 ## Introduction
 - List the basic events of aerobic and anaerobic respiration
 - List the basic events of aerobic and anaerobic respiration
 Plants exhibits varying degrees of organization. Atoms are organized into molecules, molecules into organelles, organelles into cells, cells into tissues and tissues into organs. The first account of internal structure of plants was published by English Physician Nehemiah Grew. He is known as Father of Plant Anatomy. Plant anatomy (Gk Ana = as under; Temnein = to cut) is the study of internal structure of plants. You have already studied the different kinds of tissues in standard IX. In this lesson, you will study about the internal structure of plant tissues, process of photosynthesis and respiration.
 
-## 12.1 Tissues
+## Tissues
 Tissues are the group of cells that are similar or dissimilar in structure and origin, but perform similar function. Plant tissues can be broadly classified into two, based on their ability to divide. They are:
 
 i) Meristamatic tissue
 
 ii) Permanent tissue
 
-## 12.2 Tissue System
+## Tissue System
 Sachs (1875) classified tissue system in plants into three types:
 
 i) Dermal or Epidermal tissue system
@@ -60,7 +48,7 @@ The functions of these tissues are given in Table 12.1
 | Ground Tissue System | Parenchyma tissue, Chlorenchyma, Collenchyma tissue, Sclerenchyma tissue | · Food storage · Photosynthesis · Support, protection · Support, rigidity |
 | Vascular Tissue System | Vascular tissues - Xylem tissue - Phloem tissue | · Transport of water and minerals · Transport of food |
 
-### 12.2.1 Dermal or Epidermal Tissue System
+### Dermal or Epidermal Tissue System
 It consists of epidermis, stomata and epidermal outgrowths. Epidermis is the outer most layer. Minute pores called stomata are present in the epidermis of leaf and stem.
 
 Cuticle is present on the outer wall of epidermis to check evaporation of water. Trichomes and root hairs are the epidermal
@@ -73,14 +61,14 @@ ii) Stomata helps in transpiration.
 
 iii) Root hairs help in absorption of water and minerals.
 
-### 12.2.2 Ground Tissue System
+### Ground Tissue System
 It includes all the tissues of the plant body except epidermal and vascular tissues like:
 (i) Cortex
 (ii) Endodermis
 (iii) Pericycle
 (iv) Pith
 
-### 12.2.3 Vascular Tissue System
+### Vascular Tissue System
 It consists of xylem and phloem tissues. They are present in the form of bundles called vascular bundles. Xylem conducts water and minerals to different parts of the plant. Phloem conducts food materials to different parts of the
 
 There are three different types of vascular bundles namely:
@@ -113,12 +101,9 @@ Vascular bundle in which xylem completely surrounds the phloem or vice versa is 
 **Exarch**: Protoxylem lies towards the periphery and metaxylem lies towards the
 
 
-![](types_of_vascular_bundle.png)
+![Figure 12.1:  ](types_of_vascular_bundle.png)Types of vascular bundle
 
-
-**Figure 12.1** Types of vascular bundle
-
-## 12.3 Internal Structure of Dicot Root (Bean)
+## Internal Structure of Dicot Root (Bean)
 A thin transverse section of dicot root shows the following
 
 (i) **Epiblema**: It is the outermost layer. Cuticle and stomata are absent. Unicellular root hairs are present. It is also known as Rhizodermis or Piliferous
@@ -136,12 +121,9 @@ A thin transverse section of dicot root shows the following
 (c) **Pith**: Young root contains pith whereas in old root pith is
 
 
-![](Transverse.png)
+![Figure 12.2:  ](Transverse.png)Transverse section of Dicot root
 
-
-**Figure 12.2** Transverse section of Dicot root
-
-## 12.4 Internal Structure of Monocot Root (Maize)
+## Internal Structure of Monocot Root (Maize)
 A thin transverse section of monocot root, shows the following characteristic
 
 i. **Epiblema or Rhizodermis**: It is the outermost layer of the root, and is made up of single layer of thin walled, parenchymatous cell. Stomata and cuticle are absent. The root hair helps in absorption of water and minerals from the soil. This layer also protects the inner
@@ -159,10 +141,7 @@ b) **Vascular tissues**: It consists of many patches of xylem and phloem arrange
 c) **Pith**: It is present at the center. It is made up of parenchyma cells with intercellular spaces. It contains abundant amount of starch grains. It stores food.
 
 
-![](section.png)
-
-
-**Figure 12.3** Transverse section of Monocot root
+![Figure 12.3:  ](section.png)Transverse section of Monocot root
 
 ### Table 12.2 Differences between Dicot and Monocot root
 
@@ -174,7 +153,7 @@ c) **Pith**: It is present at the center. It is made up of parenchyma cells with
 | 4 | Pith | Absent | Present |
 | 5 | Conjunctive Tissue Ex. | Parenchyma Bean | Sclerenchyma Maize |
 
-## 12.5 Internal Structure of Dicot Stem (Sunflower)
+## Internal Structure of Dicot Stem (Sunflower)
 The transverse section of a dicot stem reveals the following structures.
 
 1. **Epidermis**: It is the outermost layer. It is made up of single layer of parenchyma cells, its outer wall is covered with cuticle. It is protective in function.
@@ -200,13 +179,10 @@ The transverse section of a dicot stem reveals the following structures.
    (iv) **Pith**: The large central parenchymatous zone with intercellular spaces is called pith. It helps in the storage of food materials.
 
 
-![](Dicot.png)
+![Figure 12.4:  ](Dicot.png)Transverse section of Dicot stem
 
 
-**Figure 12.4** Transverse section of Dicot stem
-
-
-## 12.6 Internal Structure of Monocot Stem (Maize)
+## Internal Structure of Monocot Stem (Maize)
 A transverse section of monocot stem reveals the following structures.
 
 1. **Epidermis**: It is the outermost layer. It is made up of single layer of parenchyma cells. It is covered with thick cuticle. Multicellular hairs are absent and stomata are also less in number.
@@ -224,10 +200,7 @@ A transverse section of monocot stem reveals the following structures.
 5. **Pith**: Pith is not differentiated in monocot stems.
 
 
-![](transverseee.png)
-
-
-**Figure 12.5** Transverse section of Monocot stem
+![Figure 12.5:  ](transverseee.png)Transverse section of Monocot stem
 
 ### Table 12.3 Differences between Dicot Stem Ex. Sunflower and Monocot Stem Ex. Maize
 
@@ -240,7 +213,7 @@ A transverse section of monocot stem reveals the following structures.
 | 5 | Pith | Present | Absent |
 | 6 | Medullary rays | Present | Absent |
 
-## 12.7 Internal Structure of Dicot Leaf (Dorsiventral Leaf) Ex. Mango Leaf
+## Internal Structure of Dicot Leaf (Dorsiventral Leaf) Ex. Mango Leaf
 The transverse section of leaf shows the following structures.
 
 (i) **Upper epidermis**: This is the outermost layer made of single layered parenchymatous cells without intercellular spaces. The outer wall of the cells are cuticularized. Stomata are less in number.
@@ -256,12 +229,9 @@ The transverse section of leaf shows the following structures.
 (iv) **Vascular bundles**: Vascular bundle are present in mid-rib and lateral veins. Vascular bundles are conjoint, collateral and closed. Each vascular bundle is surrounded by a sheath of parenchymatous cells called bundle sheath. Each vascular bundle consists of xylem lying towards the upper epidermis and phloem towards the lower.
 
 
-![](tra.png)
+![Figure 12.6:  ](tra.png)Transverse section of Dicot leaf
 
-
-**Figure 12.6** Transverse section of Dicot leaf
-
-## 12.8 Internal Structure of Monocot Leaf (Isobilateral Leaf) Ex. Grass Leaf
+## Internal Structure of Monocot Leaf (Isobilateral Leaf) Ex. Grass Leaf
 The transverse section of a monocot leaf reveals the following
 
 (i) **Epidermis**: Monocot leaf has upper and lower epidermis. Epidermis is made up of parenchyma cells. Cuticle is present on the outer wall stomata are present on both upper and lower epidermis. Some cells of upper epidermis are large and thin walled they are known as bulliform
@@ -273,10 +243,7 @@ The transverse section of a monocot leaf reveals the following
 Each vascular bundle is surrounded by parenchymatous bundle sheath. Vascular bundles are conjoint, collateral and closed. Xylem is present towards upper epidermis and phloem towards lower epidermis.
 
 
-![](monocot.png)
-
-
-**Figure 12.7** Transverse section of Monocot Leaf
+![Figure 12.7:  ](monocot.png)Transverse section of Monocot Leaf
 
 ### Table 12.4 Differences between of Dicot and Monocot Leaf
 
@@ -285,22 +252,19 @@ Each vascular bundle is surrounded by parenchymatous bundle sheath. Vascular bun
 | 1 | Dorsiventral leaf | Isobilateral leaf |
 | 2 | Mesophyll is differentiated into palisade and spongy parenchyma | Mesophyll is not differentiated into palisade and spongy parenchyma |
 
-## 12.9 Plant Physiology
+## Plant Physiology
 
-### 12.9.1 Plastids
+### Plastids
 Plastids are double membrane bound organelles found in plants and some algae. They are responsible for preparation and storage of food. There are three types of plastids.
 - Chloroplast - green coloured plastids
 - Chromoplast - yellow, red, orange coloured plastids
 - Leucoplast - colourless plastids
 
-### 12.9.2 Structure of Chloroplast
+### Structure of Chloroplast
 Chloroplasts are green plastids containing green pigment called chlorophyll. Chloroplasts are oval shaped organelles having a diameter of 2-10 micrometer and a thickness of 1-2 micrometer.
 
 
-![](Ultrastructure.png)
-
-
-**Figure 12.8** Ultrastructure of Chloroplast
+![Figure 12.8:  ](Ultrastructure.png)Ultrastructure of Chloroplast
 
 1. **Envelope**: Chloroplast envelope has outer and inner membranes which is separated by intermembrane space.
 
@@ -310,14 +274,14 @@ Chloroplasts are green plastids containing green pigment called chlorophyll. Chl
 
 4. **Grana**: Thylakoids arranged in the form of discs stacked one above the other called granum. Grana are inter connected by stroma lamella.
 
-### 12.9.3 Functions of Chloroplast
+### Functions of Chloroplast
 1. Photosynthesis
 2. Storage of starch
 3. Synthesis of fatty acids
 4. Storage of lipids
 5. Formation of chloroplasts
 
-### 12.9.4 Photosynthesis
+### Photosynthesis
 Photosynthesis (Photo = light; synthesis = to build) is a process by which autotrophic organisms like green plants, algae and chlorophyll containing bacteria utilize the energy from sunlight to synthesize their own food. In this process, carbon dioxide combines with water in the presence of sunlight and chlorophyll to form carbohydrates. During this process oxygen is released as a by-product.
 
 **Chemical Equation:**
@@ -326,13 +290,13 @@ Photosynthesis (Photo = light; synthesis = to build) is a process by which autot
 Carbon dioxide + Water → Glucose + Oxygen + Water
 ```
 
-### 12.9.5 Where does photosynthesis occur?
+### Where does photosynthesis occur?
 Photosynthesis occurs in all green parts of the plant especially in green
 
-### 12.9.6 Photosynthetic Pigments
+### Photosynthetic Pigments
 Pigments involved in photosynthesis are called Photosynthetic pigments. Photosynthetic pigments are of two classes namely, the primary pigments and accessory pigments. Chlorophyll a is the primary pigment that traps solar energy and converts it into electrical and chemical energy. Thus it is called the reaction centre. Other pigments such as chlorophyll b and carotenoids are called accessory pigments as they pass on the absorbed energy to chlorophyll a (Chl.a) molecule. Reaction centre (Primary pigments) and harvesting centre (Accessary pigments) together form photo
 
-### 12.9.7 Role of Sunlight in Photosynthesis
+### Role of Sunlight in Photosynthesis
 The entire process of photosynthesis takes place inside the chloroplast. The structure of chloroplast is such that the light dependent (Light reaction) and light independent (Dark reaction) take place at different sites in the organelle
 
 #### 1. Light dependent Reaction (Hill reaction / Light reaction)
@@ -354,14 +318,11 @@ Dark reaction or biosynthetic pathway takes place in stroma. During this reactio
 In Calvin cycle the inputs are CO₂ from the atmosphere and the ATP and NADPH+H⁺ produced from light
 
 
-![](photo.png)
-
-
-**Figure 12.9** Overview of Hill and Calvin cycle
+![Figure 12.9:  ](photo.png)Overview of Hill and Calvin cycle
 
 > **Info:** Melvin Calvin, an American biochemist, discovered chemical pathway for photosynthesis. The cycle is named as Calvin cycle. He was awarded with Nobel Prize in the year 1961 for his work.
 
-### 12.9.8 Factors Affecting Photosynthesis
+### Factors Affecting Photosynthesis
 
 #### a) Internal Factors:
 i) Pigments
@@ -378,41 +339,36 @@ v) Mineral elements
 
 > **Info bit:** Artificial photosynthesis is a method for producing renewable energy by the use of sunlight. Indian scientist C.N.R. Rao who was conferred the Bharat Ratna (2013) is also working on similar technology of artificial photosynthesis to produce Hydrogen fuel (renewable energy).
 
-## 12.10 Mitochondria
+## Mitochondria
 Mitochondria are filamentous or granular cytoplasmic organelles present in cells. The mitochondria were first discovered by Kolliker in 1857 as granular structures in striated muscles. Mitochondria (singular: mitochondrion) are organelles within eukaryotic cells that produce adenosine triphosphate (ATP) which form the energy currency of the cell, for this reason, the mitochondria is referred to as the "Power house of the cell". Mitochondria vary in size from 0.5μm to 2.0μm. Mitochondria contain 60-70% protein, 25-30% lipids, 5-7% RNA and small amount of DNA and
 
-### 12.10.1 Structure of Mitochondria
+### Structure of Mitochondria
 
 **Mitochondrial Membranes**: It consists two membranes called inner and outer membrane. Each membrane is 60-70Å thick. Outer mitochondrial membrane is smooth and freely permeable to most small molecules. It contains enzymes, proteins and lipids. It has porin molecules (proteins) which form channels for passage of molecules through
 
 Inner mitochondrial membrane is semi permeable membrane and regulates the passage of materials into and out of the mitochondria. It is rich in enzymes and carrier proteins. It consists of 80% proteins and
 
 
-![](Mitochondria.png)
-
-
-**Figure 12.10** Structure of Mitochondria
+![Figure 12.10:  ](Mitochondria.png)Structure of Mitochondria
 
 **Cristae**: The inner mitochondrial membrane gives rise to finger like projections called cristae. These cristae increase the inner surface area (fold in inner membrane) of the mitochondria to hold variety of enzymes.
 
 **Oxysomes**: The inner mitochondrial membrane bear minute regularly spaced tennis racket shaped particles known as oxysomes (F₁ particle). They involve in ATP synthesis.
 
 
-![](oxyzomes.png)
-
-**Figure 12.11** Structure of Oxysomes
+![Figure 12.11:  ](oxyzomes.png)Structure of Oxysomes
 
 **Mitochondrial matrix**: It is a complex mixture of proteins and lipids. Matrix contains enzymes for Krebs cycle, mitochondrial ribosomes (70S), tRNAs and mitochondrial DNA.
 
-### 12.10.2 Functions of Mitochondria
+### Functions of Mitochondria
 - Mitochondria is the main organelle of cell respiration. They produce a large number of ATP molecules. So they are called as power houses of the cell or ATP factory of the cell.
 - It helps the cells to maintain normal concentration of calcium ions.
 - It regulates the metabolic activity of the cell.
 
-## 12.11 TYPES OF RESPIRATION
+## TYPES OF RESPIRATION
 Respiration involves exchange of gases between the organism and the external environment. The plants obtain oxygen from their environment and release carbon dioxide and water vapour. This exchange of gases is known as external respiration. It is a physical process. Biochemical process occurs within cells where the food is oxidized to obtain energy, this is known as cellular respiration
 
-### 12.11.1 Aerobic respiration
+### Aerobic respiration
 Aerobic respiration is the type of cellular respiration in which organic food is completely oxidized with the help of oxygen into carbon dioxide, water and energy. It occurs in most plants and animals.
 
 **Chemical Equation:**
@@ -428,7 +384,7 @@ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP
 
 **c. Electron Transport Chain**: This is accomplished through a system of electron carrier complex called electron transport chain (ETC) located on the inner membrane of the mitochondria. NADH+H⁺ and FADH₂ molecules formed during glycolysis and Krebs cycle are oxidised to NAD⁺ and FAD to release the energy via electrons. The electrons, as they move through the system, release energy which is trapped by ADP to synthesize ATP. This is called oxidative phosphorylation. In this process, O₂ the ultimate acceptor of electrons gets reduced to water.
 
-### 12.11.2 Anaerobic respiration
+### Anaerobic respiration
 Anaerobic respiration takes place without oxygen. Glucose is converted into ethanol (Ethanol fermentation by yeast) or lactic acid (lactic acid fermentation by bacteria).
 
 **Chemical Equation:**
@@ -436,7 +392,7 @@ Anaerobic respiration takes place without oxygen. Glucose is converted into etha
 C₆H₁₂O₆ → 2CO₂ + 2C₂H₅OH + Energy (ATP)
 ```
 
-### 12.11.3 Respiratory quotient (R.Q)
+### Respiratory quotient (R.Q)
 Respiratory quotient is the ratio of volume of carbon dioxide liberated and the volume of oxygen consumed during respiration. It is expressed as
 
 ```
