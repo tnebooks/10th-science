@@ -6,7 +6,10 @@ references:
         - youtube:-HSDnFOhws0
         - youtube:wL9XopHoevU
     links:
-        - "[Newton's Second Law Experiment](https://www.walter-fendt.de/html5/phen/newtonlaw2_en.htm)"
+        - "[நியூட்டனின் இரண்டாம் இயக்க விதி சோதனை](https://www.walter-fendt.de/html5/phen/newtonlaw2_en.htm)"
+        - "[விசைகளும் இயக்கத்தின் அடிப்படைகளும் - மாதிரி உருவகப்படுத்துதல்](https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html)"
+        - "[திருப்புத்திறன் மற்றும் திருப்புத்திறன்களின் தத்துவ மாதிரி உருவகப்படுத்துதல்](https://www.walter-fendt.de/html5/phen/lever_en.htm)"
+        - "[விசை மற்றும் இயக்கம் சார்ந்த ஊடாடும் கற்றல் தளம்](https://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Force)"
     books:
         - b1:
             title:  Concept of physics - HC verma
@@ -85,7 +88,7 @@ categories:
 - ஓடும் மகிழுந்து வளைபவதில் கேட்கும்போது பயணியர், ஒரு பக்கமாக சாய்கிறார்கள் காரணம் திசைக்கான நிறைமை ஆகும்.
 - கிளைகளை உலுக்கிய பின் மரத்திலிருந்து கீழே விழும் இலைகள், பழுத்த பின் விழும் பழங்கள் இவையாவும் ஓய்விற்கான நிறைமைக்கு எடுத்துக்காட்டுகள் ஆகும்.
 
-![இயக்கத்திற்கான நிறைமை](motion.png)
+![இயக்கத்திற்கான நிறைமை](motion.png "youtube:5XAr1oAOgII")
 
 ![திசைக்கான நிறைமை](direction.jpeg "youtube:cEEJj-4L0ZA")
 
@@ -305,9 +308,11 @@ $$
 - பேருந்து கணத்தாக்க விசை அதிர்வுகளைக் குறைப்பதற்கு சுருள்வில் அமைப்புகளும் அதிர்வு உறிஞ்சிகளும் கொடுக்கப்பட்டுள்ளன.
 - கிரிக்கெட் விளையாட்டில், சுவற்றில் வரும் பந்தினைப் பிடிக்க, விளையாட்டு வீரர்கள் தம்முடைய கைகளைப் பின்சென்று இழுத்து சமனாக்க காலத்தை அதிகரிக்கிறார்கள். இது அவரது கைகளில், பந்து ஏற்படுத்தும் கணத்தாக்க விசையின் அளவைக் குறைக்கிறது.
 
----
 
-![Figure 1.6: Example of impulsive force_
+
+![Figure 1.6: Example of impulsive force](image.png)
+
+---
 
 ## நியூட்டனின் மூன்றாம் விதி
 
@@ -573,10 +578,4 @@ $$
 
 புவியின் மையத்திலிருந்து, புவி ஆரத்தின் இருமடங்கு தூரத்தில், ஈர்ப்பு முடுக்க மதிப்பு புவிப்பரப்பின் முடுக்கத்தின் போல் 1/4 மடங்காக அளமயும்.
 
----
-
-## பயிற்சி நூல்கள்
-
-1. Concept of physics - H.C. Verma
-2. Interactive physics (Newton's law) - MTG
 
