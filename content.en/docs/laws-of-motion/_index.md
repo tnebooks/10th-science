@@ -7,6 +7,9 @@ references:
         - youtube:wL9XopHoevU
     links:
         - "[Newton's Second Law Experiment](https://www.walter-fendt.de/html5/phen/newtonlaw2_en.htm)"
+        - "[Forces and Motion Basics Simulation](https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html)"
+        - "[Torque and the Principle of Moments Simulator](https://www.walter-fendt.de/html5/phen/lever_en.htm)"
+        - "[The Force and Motion Interactive Sandbox](https://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Force)"
     books:
         - b1:
             title:  Concept of physics - HC verma
@@ -14,10 +17,6 @@ references:
 categories:
     - laws-of-motion
 ---
-
-
-
-
 
 Human beings are so curious about things around them. Things around us are related to one another. Some bodies are at rest and some are in motion. Rest and motion are interrelated terms.
 
@@ -29,12 +28,9 @@ One answer for all the above questions is 'Force'. In a common man's understandi
 
 Let us define force in a more scientific manner using the three laws proposed by Sir Isaac Newton. These laws help you to understand the motion of a body and also to predict the future course of its motion, if you know the forces acting on it. Before Newton formulated his three laws of motion, a different perception about the force and motion of bodies prevailed. Let us first look at these ideas and then eventually learn about Newton's laws in this unit.
 
-> **Mechanics** is the branch of physics that deals with the effect of force on bodies. It is divided into two branches, namely, statics and dynamics.
->
-> **Statics:** It deals with the bodies, which are at rest under the action of forces.
->
-> **Dynamics:** It is the study of moving bodies under the action of forces. Dynamics is further divided as:
->
+> - **Mechanics** is the branch of physics that deals with the effect of force on bodies. It is divided into two branches, namely, statics and dynamics.
+> - **Statics:** It deals with the bodies, which are at rest under the action of forces.
+> - **Dynamics:** It is the study of moving bodies under the action of forces. Dynamics is further divided as:
 > - **Kinematics:** It deals with the motion of bodies without considering the cause of motion.
 > - **Kinetics:** It deals with the motion of bodies considering the cause of motion.
 
