@@ -18,7 +18,7 @@ categories:
 
 
 
-## Introduction
+
 
 India's population is likely to reach 1.7 billion by 2050. Current rate of India's food production will be able to meet only 59% of the country's food demand at that time. How can India feed 1.7 billion people by 2050? This can be made possible by 'Plant breeding' and 'Animal husbandry'.
 
@@ -113,7 +113,7 @@ Methods of plant breeding to develop high yielding varieties are given below:
 4. Mutation breeding
 5. Hybridization
 
-### Introduction of New Varieties of Plants
+# of New Varieties of Plants
 
 It is a process of introducing high yielding varieties of plants from one place to another. Such plants are called as **exotic species**. These imported plant materials may carry pathogens and pests, hence they are thoroughly tested in a plant quarantine before being introduced to the fields. e.g. *Phaseolus mungo* was introduced from China.
 

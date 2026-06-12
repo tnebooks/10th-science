@@ -14,7 +14,7 @@ categories:
     - optics
 ---
 
-## INTRODUCTION
+
 
 Light is a form of energy which travels in the form of waves. The path of light is called ray of light and group of these rays are called as beam of light. Any object which gives out light are termed as source of light. Some of the sources emit their own light and they are called as luminous objects. All the stars, including the Sun, are examples for luminous objects.
 
@@ -87,9 +87,7 @@ Angle of refraction is the smallest for red and the highest for violet. From Sne
 
 When sunlight enters the Earth's atmosphere, the atoms and molecules of different gases present in the atmosphere refract the light in all possible directions. This is called as 'Scattering of light'. In this phenomenon, the beam of light is redirected in all directions when it interacts with a particle of medium. The interacting particle of the medium is called as 'scatterer'.
 
-![](scattering_diagram.png)
-
-_Figure 2.1 Scattering of light_
+![Figure 2.1 Scattering of light](scattering_diagram.png)
 
 ### Types of scattering
 
@@ -180,9 +178,7 @@ Lens is basically classified into two types. They are:
 
 **Plano-concave lens:** If one of the faces of a bi-concave lens is plane, it is known as a plano-concave lens.
 
-![](types_of_lenses.png)
-
-_Figure 2.2 Types of lenses_
+![Figure 2.2 Types of lenses](types_of_lenses.png)
 
 ---
 
@@ -192,9 +188,7 @@ When an object is placed in front of a lens, the light rays from the object fall
 
 **Rule-1:** When a ray of light strikes the convex or concave lens obliquely at its optical centre, it continues to follow its path without any deviation (Figure 2.3).
 
-![](rule1.png)
-
-_Figure 2.3 Rays passing through the optical centre_
+![Figure 2.3 Rays passing through the optical centre](rule1.png)
 
 **Rule-2:** When rays parallel to the principal axis strikes a convex or concave lens, the refracted rays are converged to (convex lens) or appear to diverge from (concave lens) the principal focus (Figure 2.4).
 
@@ -220,33 +214,25 @@ Let us discuss the formation of images by a convex lens when the object is place
 
 When an object is placed at infinity, a real image is formed at the principal focus. The size of the image is much smaller than that of the object (Figure 2.6).
 
-![](convex_infinity.png)
-
-_Figure 2.6 Object at infinity_
+![Figure 2.6 Object at infinity](convex_infinity.png)
 
 ### Object placed beyond C (&gt;2F)
 
 When an object is placed behind the center of curvature (beyond C), a real and inverted image is formed between the center of curvature and the principal focus. The size of the image is the smaller than that of the object (Figure 2.7).
 
-![](convex_beyond_c.png)
-
-_Figure 2.7 Object placed beyond C (>2F)_
+![Figure 2.7 Object placed beyond C (>2F)](convex_beyond_c.png)
 
 ### Object placed at C
 
 When an object is placed at the center of curvature, a real and inverted image is formed at the other center of curvature. The size of the image is the same as that of the object (Figure 2.8).
 
-![](convex_at_c.png)
-
-_Figure.2.8 Object placed at C_
+![Figure.2.8 Object placed at C](convex_at_c.png)
 
 ### Object placed between F and C
 
 When an object is placed in between the center of curvature and principal focus, a real and inverted image is formed behind the center of curvature. The size of the image is bigger than that of the object (Figure 2.9).
 
-![](convex_between_f_c.png)
-
-_Figure 2.9 Object placed between F and C_
+![Figure 2.9 Object placed between F and C](convex_between_f_c.png)
 
 ### Object placed at the principal focus F
 
@@ -285,9 +271,7 @@ Let us discuss the formation of images by a concave lens when the object is plac
 
 When an object is placed at infinity, a virtual image is formed at the focus. The size of the image is much smaller than that of the object (Figure 2.12).
 
-![](concave_infinity.png)
-
-_Figure 2.12 Concave lens-Object at infinity_
+![Figure 2.12 Concave lens-Object at infinity](concave_infinity.png)
 
 ### Object anywhere on the principal axis at a finite distance
 
@@ -418,9 +402,7 @@ The eye ball is approximately spherical in shape with a diameter of about 2.3 cm
 
 **Ciliary muscles:** Eye lens is fixed between the ciliary muscles. It helps to change the focal length of the eye lens according to the position of the object.
 
-![](human_eye.png)
-
-_Figure 2.15 Human eye_
+![Figure 2.15 Human eye](human_eye.png)
 
 ### Working of the eye
 

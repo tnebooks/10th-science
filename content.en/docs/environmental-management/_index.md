@@ -17,7 +17,7 @@ categories:
 
 
 
-## Introduction
+
 
 Environmental management deals with the different aspects of environment, its structure, function, its quality and its maintenance including conservation of its living and non-living components. The diversified natural resources on this earth provide the necessities for survival of all forms of life including man. Everything that comes from nature has some utility for man but its utilization is possible based on the availability of appropriate technology.
 

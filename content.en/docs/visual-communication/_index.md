@@ -18,7 +18,7 @@ categories:
 
 
 
-## INTRODUCTION
+
 
 In general, whenever we think of computers, the things that come to our mind is computer screen, keyboard, mouse and CPU. We learnt about computer and parts of a computer as introductory part in standard VI. Apart from that, software and hardware also plays vital role in the working of computer. Now, shall we learn how to operate the computer?
 
@@ -67,7 +67,7 @@ The device which helps in explaining the concepts easily through pictures is kno
 
 ## SCRATCH
 
-### Introduction
+#
 
 ‘Scratch’ is a software used to create animations, cartoons and games easily. Scratch is a visual programming language. It was developed in the Massachusetts Institute of Technology (MIT) Media Lab to make programming easier and more fun to learn.
 

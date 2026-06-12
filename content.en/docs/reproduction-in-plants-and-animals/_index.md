@@ -19,7 +19,7 @@ categories:
 ---
 
 
-## Introduction
+
 
 "Living organisms cannot survive for an indefinite period on earth. All living organisms have the ability to produce more of its own kind by the process called reproduction. Reproduction is the unfolding of life forms where new individuals are formed. It ensures continuity and survival of the species. This process is to preserve individual species and it is called as self-perpetuation. The time required to reproduce also varies from organism to organism. You may find great variations in period of reproduction in yeast, bacteria, rat, cow, elephant and humans. In sexual reproduction offsprings are produced by the union of male and female gametes (sperm and egg). The male and female gametes contain the genetic material or genes present on the chromosomes which transmit the characteristic traits to the next generation. There are three types of reproduction in plants namely i) Vegetative ii) Asexual and iii) Sexual
 
