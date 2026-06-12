@@ -17,7 +17,7 @@ categories:
 
 
 
-## Introduction
+
 - List the basic events of aerobic and anaerobic respiration
 - List the basic events of aerobic and anaerobic respiration
 Plants exhibits varying degrees of organization. Atoms are organized into molecules, molecules into organelles, organelles into cells, cells into tissues and tissues into organs. The first account of internal structure of plants was published by English Physician Nehemiah Grew. He is known as Father of Plant Anatomy. Plant anatomy (Gk Ana = as under; Temnein = to cut) is the study of internal structure of plants. You have already studied the different kinds of tissues in standard IX. In this lesson, you will study about the internal structure of plant tissues, process of photosynthesis and respiration.

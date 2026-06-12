@@ -17,7 +17,7 @@ categories:
 
 
 
-## Introduction
+
 You have already learnt about electricity in your lower classes, haven't you? Well, electricity deals with the flow of electric charges through a conductor. As a common term it refers to a form of energy. The usage of electric current in our day to day life is very important and indispensable. You are already aware of the fact that it is used in houses, educational institutions, hospitals, industries, etc. Therefore, its generation and transmission becomes a very crucial aspect of our life. In this lesson you will learn various terms used in understanding the concept of electricity. Eventually, you will realise the importance of the applications of electricity in day to day life.
 
 ---
@@ -27,9 +27,7 @@ The motion of electric charges (electrons) through a conductor (e.g., copper wir
 
 In a similar manner, the electric current passes from the positive terminal (higher electric potential) of a battery to the negative terminal (lower electric potential) through a wire as shown in the Figure 4.1.
 
-![](1.png)
-
-_Figure 4.1 Electron Flow_
+![Figure 4.1 Electron Flow](1.png)
 
 ### Definition of electric current
 Electric current is often termed as 'current' and it is represented by the symbol 'I'. It is defined as the **rate of flow of charges** in a conductor. This means that the electric current represents the amount of charges flowing in any cross section of a conductor (say a metal wire) in unit time. If a net charge 'Q' passes through any cross section of a conductor in time 't', then the current flowing through the conductor is:
@@ -57,9 +55,7 @@ $$
 An electric circuit is a closed conducting loop (or) path, which has a network of electrical components through which electrons are able to flow. This path is made using electrical wires so as to connect an electric appliance to a source of electric charges (battery).
 
 
-![](2.png)
-
-_Figure 4.2 A Simple electric circuit_
+![Figure 4.2 A Simple electric circuit](2.png)
 
 
 In this circuit, if the switch is 'on', the bulb glows. If it is switched off, the bulb does not glow. Therefore, the circuit must be closed in order that the current passes through it. The potential difference required for the flow of charges is provided by the battery. The electrons flow from the negative terminal to the positive terminal of the battery.
@@ -89,9 +85,7 @@ The electric potential at a point is defined as the amount of work done in movin
 ### Electric Potential Difference
 The electric potential difference between two points is defined as the amount of work done in moving a unit positive charge from one point to another point against the electric force.
 
-![](3.png)
-
-_Figure 4.3 Electric potential_
+![Figure 4.3 Electric potential](3.png)
 
 Suppose, you have moved a charge Q from a point A to another point B. Let 'W' be the work done to move the charge from A to B. Then, the potential difference between the points A and B is given by:
 
@@ -139,9 +133,7 @@ $$
 ## Ohm's Law
 A German physicist, Georg Simon Ohm established the relation between the potential difference and current, which is known as **Ohm's Law**.
 
-![](4.png)
-
-_Figure 4.4 Electric circuit to understand Ohm's law_
+![Figure 4.4 Electric circuit to understand Ohm's law](4.png)
 
 According to Ohm's law, at a constant temperature, the steady current 'I' flowing through a conductor is directly proportional to the potential difference 'V' between the two ends of the conductor.
 
@@ -162,9 +154,7 @@ $$
 
 Here, R is a constant for a given material (say Nichrome) at a given temperature and is known as the **resistance** of the material. Since the potential difference V is proportional to the current I, the graph between V and I is a straight line for a conductor.
 
-![](5.png)
-
-_Figure4.5 Relation between potential difference and current_
+![Figure4.5 Relation between potential difference and current](5.png)
 
 ---
 
@@ -280,9 +270,7 @@ A series circuit connects the components one after the other to form a 'single l
 
 If resistors are connected end to end, so that the same current passes through each of them, then they are said to be connected in series.
 
-![](6.png)
-
-_Figure 4.6 Series connection of resistors_
+![Figure 4.6 Series connection of resistors](6.png)
 
 Let three resistances$$ R_1, R_2 and R_3 $$ be connected in series. Let the current flowing through them be I. According to Ohm's Law, the potential differences $$V_1, V_2 and V_3 $$across$$  R_1, R_2 and R_3$$ respectively, are given by:
 $$ 
@@ -338,9 +326,7 @@ $$
 A parallel circuit has two or more loops through which current can pass. If the circuit is disconnected in one of the loops, the current can still pass through the other loop(s). The wiring in a house consists of parallel circuits.
 
 
-![](7.png)
-
-_Figure 4.7 Parallel connection of resistors_
+![Figure 4.7 Parallel connection of resistors](7.png)
 
 
 Consider that three resistors $$ R_1, R_2 and R_3 $$are connected across two common points A and B. The potential difference across each resistance is the same and equal to the potential difference between A and B. The current I arriving at A divides into three branches$$  I_1, I_2 and I_3$$ passing through $$ R_1, R_2 and R_3 $$respectively.
@@ -394,9 +380,7 @@ The equivalent resistance in a parallel combination is less than the lowest of t
 If you consider the connection of a set of parallel resistors that are connected in series, you get a series-parallel circuit. Let $$R_1 and R_2 $$be connected in parallel to give an effective resistance of $$ R_{P1} $$. Similarly, let$$  R_3 and R_4  $$be connected in parallel to give an effective resistance of $$  R_{P2}. $$Then, both of these parallel segments are connected in series.
 
 
-![](8.png)
-
-_Figure 4.8 Series-parallel combination of resistors_
+![Figure 4.8 Series-parallel combination of resistors](8.png)
 
 
 Using the parallel formula:
@@ -552,9 +536,7 @@ In our homes, electricity is distributed through the domestic electric circuits 
 The meter is used to record the consumption of electrical energy. The fuse box contains either a fuse wire or a miniature circuit breaker (MCB). The function of the fuse wire or a MCB is to protect the house hold electrical appliances from overloading due to excess current.
 
 
-![](10.png)
-
-_Figure 4.10 Domestic electric circuit_
+![Figure 4.10 Domestic electric circuit](10.png)
 
 
 An **MCB** is a switching device, which can be activated automatically as well as manually. It has a spring attached to the switch, which is attracted by an electromagnet when an excess current passes through the circuit. Hence, the circuit is broken and the protection of the appliance is ensured.
@@ -601,9 +583,7 @@ Displays in digital watches and calculators, traffic signals, street lights, dec
 
 ### Seven Segment Display
 
-![](12.png)
-
-_Figure 4.12 Seven segment display_
+![Figure 4.12 Seven segment display](12.png)
 
 A **'Seven Segment Display'** is the display device used to give an output in the form of numbers or text. It is used in digital meters, digital clocks, microwave ovens, etc. It consists of 7 segments of LEDs in the form of the digit 8. These seven LEDs are named as a, b, c, d, e, f and g. An extra 8th LED is used to display a dot.
 

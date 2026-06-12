@@ -17,7 +17,7 @@ categories:
     - plant-and-animal-hormones
 ---
 
-## Introduction
+
 The word hormone is derived from the Greek word “hormon” meaning “ to excite”. The function of control and coordination in plants is performed by chemical substances produced by the plants called plant hormones. In plants several cells are capable of producing hormones. These phytohormones are transported to different parts of the plants to perform various physiological functions. 
 
 Endocrine glands in vertebrate animals possess a diversified communication system to co-ordinate physiological and metabolic functions by chemical integration. The endocrine system acts through chemical messengers known as hormones which are produced by specialized glands. Physiological processes such as digestion, metabolism, growth, development and reproduction are controlled by hormones.
