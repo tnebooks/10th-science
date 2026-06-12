@@ -17,7 +17,7 @@ categories:
 ---
 
 
-## Introduction
+
 One of the characteristic features of all living organisms is responding to stimuli. 'Stimulus' refers to the changes in the environmental condition, that are detected by receptors present in the body. Relevant changes in the activities of organisms to a particular stimuli are called their reactions or responses. Living organisms show their response to different kinds of stimuli like light, heat, cold, sound, smell, taste, touch, pressure, pain or the force of gravity etc. For example, withdrawal of hand when we touch hot objects or closing the eyes when flashed with bright light, in this condition heat or light is the stimulus to which the body shows its response. Thus, on receiving a stimulus, the body responds in a manner that is most appropriate for its survival and functioning.
 
 To provide the correct response to a stimulus, it is necessary that all the organs work together in a proper coordinated manner. This working together of various organs in a systematic, controlled and efficient way to produce proper response to various stimuli is called coordination. In animals including human the coordination between the various cells and organs is essential for their diverse activities to maintain physiological balance called homeostasis. In this unit we shall learn about one of the major regulatory systems the nervous system and its control over the body activities.

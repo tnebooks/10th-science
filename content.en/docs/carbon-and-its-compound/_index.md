@@ -16,7 +16,7 @@ categories:
 
 
 
-## INTRODUCTION
+
 You have studied, in your lower classes, that carbon is an inseparable element in human life as we use innumerable number of carbon compounds in our day to day life. Because, the food we eat, medicines we take when ill, clothes we wear; domestic and automobile fuels, paint, cosmetics, automobile parts, etc., that we use contain carbon compounds. The number of carbon compounds found in nature and man-made, is much higher than that of any other element in the periodic table. In fact there are more than 5 million compounds of carbon. The unique nature of carbon, such as catenation, tetravalency and multiple bonding, enables it to combine with itself or other elements like hydrogen, oxygen, nitrogen, sulphur etc., and hence form large number of compounds. All these compounds are made of covalent bonds. These compounds are called organic compounds. In this lesson, you will learn about carbon and its compounds.
 
 ---

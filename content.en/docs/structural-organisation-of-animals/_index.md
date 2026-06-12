@@ -19,7 +19,7 @@ categories:
 
 
 
-## Introduction
+
 The variety in nature and habits of animals in the biosphere are quite amazing and interesting. What we see around us may be just few, but there are innumerable species living in this world. You have learnt in lower classes about the classification of animal kingdom. We will recall here that 'Kingdom Animalia' is divided into two groups, Invertebrates and Vertebrates.
 
 There occurs a great diversity in the habit, habitat, structural organisation and mode of reproduction between the animals existing on earth. In this chapter, you will understand the structural morphology and anatomy of an Invertebrate (Leech) and a Vertebrate (Rabbit).

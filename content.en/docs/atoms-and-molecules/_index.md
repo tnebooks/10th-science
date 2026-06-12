@@ -17,7 +17,7 @@ categories:
 
 
 
-## INTRODUCTION
+
 
 You have learnt, in your lower classes that matter is around us everywhere. Matter is made of atoms. Curiously the idea of atom was first proposed by the Greek philosophers in the fifth century BC (BCE). But, their theory was more philosophical than scientific.
 

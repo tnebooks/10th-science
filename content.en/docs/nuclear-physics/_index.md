@@ -15,7 +15,7 @@ categories:
 ---
 
 
-## INTRODUCTION
+
 
 Humans are very much interested in knowing about atoms. Things around us are made up of atoms. A Greek Philosopher 'Democritus' in 400 BC (BCE) believed that matter is made up of tiny indestructible units called atoms. Later, in 1803, John Dalton considered that elements consist of atoms, which are identical in nature. J J Thomson discovered cathode rays, known as electrons, experimentally and Goldstein discovered positive rays, which were named as protons by Rutherford. In 1932, James Chadwick discovered the chargeless particles called neutrons. Presently, a large number of elementary particles like photon, meson, positron and nutrino have been discovered. In 1911, the British scientist, Ernest Rutherford explained that the mass of an atom is concentrated in its central part called Nucleus.
 
@@ -135,9 +135,7 @@ _{92}\mathrm{U}^{238} \rightarrow _{90}\mathrm{Th}^{234} + _{2}\mathrm{He}^{4} \
 
 In α-decay, the parent nucleus emits an α particle and so it is clear that for the daughter nucleus, the mass number decreases by four and the atomic number decreases by two.
 
-![](1.png)
-
-_Figure 6.1 Alpha decay_
+![Figure 6.1 Alpha decay](1.png)
 
 ### Beta decay
 
@@ -168,9 +166,7 @@ _{92}\mathrm{U}^{235} + _{0}\mathrm{n}^{1} \rightarrow _{56}\mathrm{Ba}^{141} + 
 
 The average energy released in each fission process is about 3.2 x $$10^{-11} J$$. Nuclear fission is pictorially represented in Figure 6.2
 
-![](2.png)
-
-_Figure 6.2 Nuclear fission_
+![Figure 6.2 Nuclear fission](2.png)
 
 ### Fissionable materials
 
@@ -202,9 +198,7 @@ In the controlled chain reaction the number of neutrons released is maintained t
 
 In the uncontrolled chain reaction the number of neutrons multiplies indefinitely and causes fission in a large amount of the fissile material. This results in the release of a huge amount of energy within a fraction of a second. This kind of chain reaction is used in the **atom bomb** to produce an explosion.
 
-![](3.png)
-
-_Figure 6.3 Uncontrolled chain reaction_
+![Figure 6.3 Uncontrolled chain reaction](3.png)
 
 ### Critical Mass
 
@@ -226,9 +220,7 @@ The atom bomb is based on the principle of **uncontrolled chain reaction**. In a
 An atom bomb consists of a piece of fissile material whose mass is subcritical. This piece has a cylindrical void. It has a cylindrical fissile material which can fit into this void and its mass is also subcritical. When the bomb has to be exploded, this cylinder is injected into the void using a conventional explosive. Now, the two pieces of fissile material join to form the supercritical mass, which leads to an explosion.
 
 
-![](4.png)
-
-_Figure 6.4 Atom bomb_
+![Figure 6.4 Atom bomb](4.png)
 
 
 During this explosion tremendous amount of energy in the form of heat, light and radiation is released. A region of very high temperature and pressure is formed in a fraction of a second along with the emission of hazardous radiation like γ rays, which adversely affect the living creatures. This type of atom bombs were exploded in 1945 at Hiroshima and Nagasaki in Japan during the World War II.
@@ -257,9 +249,7 @@ _{1}\mathrm{H}^{2} + _{1}\mathrm{H}^{2} \rightarrow _{2}\mathrm{He}^{4} + Q \tex
 
 Here,$$ _{1}\mathrm{H}^{2} $$represents an isotope of hydrogen known as **'deuterium'**. The average energy released in each fusion reaction is about $$3.84 \times 10^{-12} J $$.
 
-![](5.png)
-
-_Figure 6.5 Nuclear fusion_
+![Figure 6.5 Nuclear fusion](5.png)
 
 The mass of the daughter nucleus formed during a nuclear reaction (fission and fusion) is lesser than the sum of the masses of the two parent nuclei. This difference in mass is called **mass defect**. This mass is converted into energy, according to the mass-energy equivalence. This concept of mass-energy equivalence was proposed by Einstein in 1905. It stated that mass can be converted into energy and vice versa. The relation between mass and energy proposed by Einstein is:
 
@@ -361,9 +351,7 @@ The International Commission on Radiological Protection (ICRP) has recommended c
 
 ### Preventive measures
 
-![](6.png)
-
-_Figure. 6.6 Lead coated aprons model._
+![Figure. 6.6 Lead coated aprons model.](6.png)
 
 - Radioactive materials should be kept in a thick walled lead container.
 - Lead coated aprons and lead gloves should be used while working with hazardous radioactive materials.
@@ -401,9 +389,7 @@ The essential components of a nuclear reactor are:
 **v. Protection wall:** A thick concrete lead wall is built around the nuclear reactor in order to prevent the harmful radiations from escaping into the environment.
 
 
-![](7.png)
-
-_Figure 6.7 Schematic diagram of a nuclear reactor_
+![Figure 6.7 Schematic diagram of a nuclear reactor](7.png)
 
 
 ### Uses of a nuclear reactor

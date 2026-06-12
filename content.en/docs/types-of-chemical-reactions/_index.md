@@ -15,7 +15,7 @@ categories:
     - types-of-chemical-reactions
 ---
 
-## INTRODUCTION
+
 As you know from your earlier studies, a chemical reaction involves breaking of old chemical bonds and formation of new chemical bonds. This change may happen spontaneously or it may be facilitated by external forces or energy. Chemistry is all about chemical reactions. In your day to day life, you could observe many chemical reactions. A clear understanding of these reactions is essential in order to manipulate them for the sake of human life and environment. So, chemistry mainly focuses on chemical reactions. Let us try to find the answer for the following questions:
 
 - You need energy to play, walk, run or to perform various physical activities. Where do you get the energy from?

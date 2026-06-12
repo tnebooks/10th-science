@@ -4,6 +4,7 @@ weight: 1
 references:
     videos:
         - youtube:-HSDnFOhws0
+        - youtube:wL9XopHoevU
     links:
         - "[Newton's Second Law Experiment](https://www.walter-fendt.de/html5/phen/newtonlaw2_en.htm)"
     books:
@@ -16,7 +17,7 @@ categories:
 
 
 
-## INTRODUCTION
+
 
 Human beings are so curious about things around them. Things around us are related to one another. Some bodies are at rest and some are in motion. Rest and motion are interrelated terms.
 
@@ -67,9 +68,7 @@ Take a glass tumbler and place a small cardboard on it as shown in the figure. N
 
 The cardboard falls off the ground and the coin falls into the glass tumbler.
 
-![](inertia.png "Figure: Inertia of rest")
-
-_Figure: Inertia of rest_
+![Figure: Inertia of rest](inertia.png "youtube:I3NC_9Le5F8")
 
 In activity described above, the inertia of the coin keeps it in the state of rest when the cardboard moves. Then, when the cardboard has moved, the coin falls into the tumbler due to gravity. This happen due to 'inertia of rest'.
 
@@ -87,9 +86,11 @@ c) **Inertia of direction:** The resistance of a body to change its direction of
 - When you make a sharp turn while driving a car, you tend to lean sideways. _(Inertia of direction)._
 - When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down. _(Inertia of rest)._
 
-![](motion.png "Figure 1.1 Inertia of motion")
+![Inertia of motion](motion.png "youtube:5XAr1oAOgII")
 
-_Figure 1.1 Inertia of motion_
+![Inertia of direction](direction.jpeg "youtube:cEEJj-4L0ZA")
+
+![Inertia of rest](rest.jpeg "youtube:QVPYpovLlvs")
 
 ---
 
@@ -140,14 +141,11 @@ When several forces act simultaneously on the same body, then the combined effec
 Table 1.1 Action of forces
 ![](1.1.png)
 
-![](parallel.png)
-_a) Unlike parallel forces –Tug of war_
+![a) Unlike parallel forces –Tug of war](parallel.png)
 
-![](parallelforce.png)
-_b) Unbalanced forces -Action of a lever_
+![b) Unbalanced forces -Action of a lever](parallelforce.png)
 
-![](pm.png)
-_(c) Like parallel forces_
+![(c) Like parallel forces](pm.png)
 
 _Figure 1.2: Combined effect of forces_
 
@@ -189,13 +187,9 @@ The unit of moment of a couple is newton metre (N m) in SI system and dyne cm in
 
 By convention, the direction of moment of a force or couple is taken as **positive** if the body is rotated in the anti-clockwise direction and **negative** if it is rotate in the clockwise direction.
 
-![](clock.png)
+![Figure 1.4(a): Clockwise moment](clock.png)
 
-_Figure 1.4(a): Clockwise moment_
-
-![](anti.png)
-
-_Figure 1.4(b): Anticlockwise moment_
+![Figure 1.4(b): Anticlockwise moment](anti.png)
 
 ### Application of Torque
 

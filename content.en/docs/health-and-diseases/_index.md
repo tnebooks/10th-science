@@ -16,7 +16,7 @@ categories:
 
 
 
-## Introduction
+
 
 Abuses occur in a variety of forms and are deeply rooted in cultural, social and economic practices. Solving this global problem however requires a much better understanding of its occurrence, causes and consequences with context to sexual and childhood abuse, this is followed by substance abuse.
 

@@ -16,7 +16,7 @@ categories:
 ---
 
 
-## Introduction
+
 
 Multicellular organisms possess millions of cells in their body. Every cell needs a constant supply of essential substances like nutrients and oxygen to maintain life and survival. Food is the only source of energy and every cell gets its energy by the breakdown of glucose. The cells utilise this energy and govern various vital activities of life.
 

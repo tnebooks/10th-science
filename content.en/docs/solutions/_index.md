@@ -15,7 +15,7 @@ categories:
 ---
 
 
-## INTRODUCTION
+
 
 You have learnt about mixtures in your lower classes. Most of the substances that we encounter in our daily life are mixtures of two or more substances. The substances present in a mixture may exist in one or more physical state. For example, when we burn wood, the smoke released is a mixture of solid carbon and gases like CO₂, CO.
 
@@ -128,9 +128,7 @@ For example, you are given two cups of tea. When you taste them, you feel that o
 
 When we compare two solutions having same solute and solvent, the one which contains higher amount of solute per the given amount of solvent is said to be **'concentrated solution'** and the another is said to be **'dilute solution'**.
 
-![](5.png)
-
-_Figure 9.5 : Dilute and Concentrated Solution_
+![Figure 9.5 : Dilute and Concentrated Solution](5.png)
 
 
 Differentiating solutions as dilute and concentrated is a qualitative representation. It does not imply the quantity of the solute. This difference is observed by means of some physical characteristics such as colour, density, etc.
