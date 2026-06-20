@@ -37,7 +37,8 @@ The transport of materials in and out of the cells is carried out by diffusion a
 The movement of solid liquid and gaseous molecules from a region of higher concentration to a region of their lower concentration without the utilization of energy is called diffusion. This is a passive process.
 
 
-![Figure 14.1: Diffusion](1.png)
+![Before Diffusion](before-diffusion.png)
+![After Diffusion](after-diffusion.png)
 
 
 ### Active Transport
