@@ -14,6 +14,7 @@ references:
    
 categories:
     - visual-communication
+summary: "Visual Communication is the practice of conveying ideas, information, and messages through visual elements such as images, symbols, colors, typography, and design, rather than through text or spoken words alone; it covers the principles of design (balance, contrast, emphasis, movement, pattern, rhythm, and unity), the use of various media like photography, illustration, animation, and digital graphics, and the importance of visual perception and semiotics in creating effective communication in fields like advertising, journalism, education, and user interface design."      
 ---
 
 

@@ -15,6 +15,7 @@ references:
             url: https://www.webelements.com/
 categories:
     - periodic-classification-of-elements
+summary: "Periodic Classification of Elements is the systematic arrangement of elements based on their atomic number, electron configuration, and recurring chemical properties, which led to the development of the modern periodic table; it includes the study of periods (horizontal rows) and groups (vertical columns), trends such as atomic size, ionization energy, electronegativity, and metallic character, and the contributions of scientists like Mendeleev and Moseley in organizing elements into a meaningful framework."    
 ---
 
 

@@ -14,6 +14,7 @@ references:
             url: https://books.google.co.in/books/about/Elementry_Prin_Of_Plant_Breeding.html?id=zJs_AAAAYAAJ&redir_esc=y
 categories:
     - breeding-and-biotechnology
+summary: "Breeding and Biotechnology is the branch of biology that deals with the improvement of plants and animals through selective breeding techniques and modern biotechnological tools, where breeding includes methods like inbreeding, outbreeding, hybridization, and mutation breeding to develop desirable traits such as high yield, disease resistance, and better quality; biotechnology covers the use of living organisms or their enzymes to produce useful products, including genetic engineering, recombinant DNA technology, gene cloning, tissue culture, and the production of vaccines, antibiotics, hormones, and genetically modified crops, along with ethical and safety issues related to biotechnological applications."    
 ---
 
 

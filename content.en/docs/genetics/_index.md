@@ -15,6 +15,7 @@ references:
             url: https://dpbck.ac.in/wp-content/uploads/2022/09/Cell-Biology-Verma-and-Agarwal.pdf
 categories:
     - genetics
+summary: "Genetics is the branch of biology that deals with the study of heredity, variation, and the transmission of traits from parents to offspring through genes, which are segments of DNA located on chromosomes; it covers Mendel's laws of inheritance (law of dominance, law of segregation, and law of independent assortment), the structure and function of DNA and RNA, gene expression, mutations, and genetic disorders, along with modern concepts like genetic engineering, DNA fingerprinting, and the human genome project, which have revolutionized medicine and agriculture."      
 ---
 
 

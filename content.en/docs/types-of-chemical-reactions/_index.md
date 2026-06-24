@@ -13,6 +13,7 @@ references:
             url: https://www.chem4kids.com/
 categories:
     - types-of-chemical-reactions
+summary: "Types of Chemical Reactions covers the classification of chemical changes into five main types: combination (two or more substances combine to form a single product), decomposition (a single compound breaks down into simpler substances), displacement (one element replaces another in a compound), double displacement (exchange of ions between two compounds), and oxidation-reduction (redox) reactions involving transfer of electrons; the chapter also explains exothermic and endothermic reactions based on heat changes, along with balancing chemical equations and predicting products using the activity series and reactivity trends."    
 ---
 
 
