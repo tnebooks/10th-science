@@ -13,6 +13,7 @@ references:
        
 categories:
     - transportation-in-plants-and-circulation-in-animals
+summary: "Transportation in Plants and Circulation in Animals covers the movement of water, minerals, and food throughout plant bodies using xylem (water and minerals upward) and phloem (food both ways), driven by transpiration pull, root pressure, and diffusion; in animals, it involves the circulatory system, including blood, blood vessels (arteries, veins, capillaries), and the heart, which pumps blood to transport oxygen, nutrients, hormones, and waste products, with differences between open and closed circulatory systems and single versus double circulation in vertebrates."    
 ---
 
 
@@ -37,7 +38,8 @@ The transport of materials in and out of the cells is carried out by diffusion a
 The movement of solid liquid and gaseous molecules from a region of higher concentration to a region of their lower concentration without the utilization of energy is called diffusion. This is a passive process.
 
 
-![Figure 14.1: Diffusion](1.png)
+![Before Diffusion](before-diffusion.png)
+![After Diffusion](after-diffusion.png)
 
 
 ### Active Transport

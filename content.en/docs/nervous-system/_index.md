@@ -14,6 +14,7 @@ references:
        
 categories:
     - nervous-system
+summary: "The Nervous System is the master control and communication system of the body, consisting of the central nervous system (brain and spinal cord) and the peripheral nervous system (nerves branching throughout the body), which work together to receive sensory input, integrate information, and generate motor output; it covers the structure and function of neurons (nerve cells), the generation and transmission of nerve impulses through synapses using neurotransmitters, and the division of the peripheral system into somatic (voluntary) and autonomic (involuntary) systems, along with reflex actions and the role of the brain in coordination and higher functions like memory and learning."    
 ---
 
 

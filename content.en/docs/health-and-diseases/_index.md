@@ -12,6 +12,7 @@ references:
             url: https://books.google.com.et/books?id=f_i7j4_cMLIC&printsec=copyright#v=onepage&q&f=false
 categories:
     - health-and-diseases
+summary: "Health and Diseases is the study of physical, mental, and social well-being, along with the causes, transmission, prevention, and treatment of various diseases, where diseases are broadly classified into infectious (caused by pathogens like bacteria, viruses, fungi, and parasites) and non-infectious (caused by genetic factors, lifestyle, or environmental conditions, e.g., diabetes, cancer, and heart disease); it covers the immune system and how it defends the body, the role of vaccines and antibiotics, common diseases like malaria, typhoid, AIDS, and COVID-19, along with preventive measures such as hygiene, balanced diet, and awareness programs for maintaining good health."    
 ---
 
 

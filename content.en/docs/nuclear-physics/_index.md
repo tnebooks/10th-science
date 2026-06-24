@@ -12,6 +12,7 @@ references:
             url: https://www.physics.columbia.edu/research/nu-clear-physics
 categories:
     - nuclear-physics
+summary: "Nuclear physics is the branch of physics that studies the structure, properties, and interactions of atomic nuclei, covering concepts like radioactivity, nuclear fission, and nuclear fusion; it includes the study of alpha, beta, and gamma decay, half-life, binding energy, and mass-energy equivalence (E = mc²), with important applications in nuclear power generation, medical treatments like radiation therapy, and nuclear weapons."    
 ---
 
 

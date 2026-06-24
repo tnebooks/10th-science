@@ -13,6 +13,8 @@ references:
             url: https://www.britannica.com/
 categories:
     - plant-anatomy-and-plant-physiology
+summary: "Plant Anatomy and Plant Physiology is the study of the internal structure and functioning of plants, where anatomy covers tissues (meristematic and permanent), tissue systems (epidermal, ground, and vascular), and the anatomy of root, stem, and leaf; physiology covers life processes like photosynthesis, respiration, transpiration, mineral nutrition, and plant growth hormones, along with transport mechanisms such as diffusion, osmosis, and translocation of water and food through xylem and phloem."
+    
 ---
 
 

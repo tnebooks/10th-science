@@ -13,6 +13,7 @@ references:
 
 categories:
     - electricity
+summary: "Electricity is the branch of physics that deals with electric charges, currents, and their effects, covering concepts like electric potential, resistance, and Ohm's law which states that current is directly proportional to voltage and inversely proportional to resistance; it also includes the study of electric power, series and parallel circuits, heating effect of current (Joule's law), and the relationship between current, voltage, and resistance in electrical systems."    
 ---
 
 

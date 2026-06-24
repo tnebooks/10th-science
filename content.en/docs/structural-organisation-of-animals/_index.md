@@ -15,6 +15,7 @@ references:
             url: https://www.biologydiscussion.com/zoology
 categories:
     - structural-organisation-of-animals
+summary: "Structural Organisation of Animals deals with the hierarchical arrangement of cells, tissues, organs, and organ systems that make up the animal body, covering the four basic types of tissues—epithelial, connective, muscular, and nervous tissue—along with their structure, location, and functions; it also includes the detailed study of the morphology and anatomy of representative animals like the frog, earthworm, and cockroach, explaining how their organ systems such as digestive, circulatory, respiratory, excretory, and reproductive systems are organized to carry out life processes."    
 ---
 
 

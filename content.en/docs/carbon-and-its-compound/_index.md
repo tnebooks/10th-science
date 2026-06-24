@@ -12,6 +12,7 @@ references:
             url: https://www.chem4kids.com/
 categories:
     - carbon-and-its-compound
+summary: "Carbon and its Compounds is the study of the element carbon, which is unique due to its tetravalency and ability to form strong covalent bonds with itself and other elements, leading to millions of organic compounds; it covers the classification of carbon compounds into saturated (single bonds) and unsaturated (double or triple bonds), functional groups like alcohols, aldehydes, carboxylic acids, and halides, homologous series, nomenclature, and important reactions such as combustion, addition, substitution, and esterification, along with the properties and uses of key compounds like ethanol and ethanoic acid."    
 ---
 
 

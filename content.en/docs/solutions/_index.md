@@ -12,6 +12,7 @@ references:
             url: https://www.wiley.com/en-us/Properties+of+Liquids+and+Solutions%2C+2nd+Edition-p-9780471944195
 categories:
     - solutions
+summary: "Solutions are homogeneous mixtures of two or more substances, consisting of a solute (the substance that dissolves) and a solvent (the substance that does the dissolving), and they can exist in solid, liquid, or gaseous states; the chapter covers concentration terms like molarity, molality, mole fraction, and mass percentage, as well as colligative properties such as vapor pressure lowering, boiling point elevation, freezing point depression, and osmotic pressure, along with factors affecting solubility like temperature and pressure (Henry's law)."    
 ---
 
 
