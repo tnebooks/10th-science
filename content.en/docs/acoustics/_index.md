@@ -9,10 +9,11 @@ references:
     books:
         - b1:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson
-            url: http://people.bath.ac.uk/ensmjc/Notes/acoustics.pdf
-        
+            url: http://people.bath.ac.uk/ensmjc/Notes/acoustics.pdf        
 categories:
-    - acoustics
+    - acoustics  
+summary: "Acoustics is the branch of physics that studies the production, transmission, reception, and effects of sound waves, covering concepts like frequency, wavelength, amplitude, and speed of sound in different media; it includes the study of reflection (echo), refraction, diffraction, and interference of sound, as well as the Doppler effect, resonance, and the human perception of pitch and loudness, with applications in music, architecture, and medical imaging like ultrasound."
+
 ---
 
 

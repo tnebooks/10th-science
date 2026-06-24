@@ -12,6 +12,7 @@ references:
             url: https://cdn1.byjus.com/wp-content/uploads/2019/04/Tamilnadu-Board-Class-10-Science-Textbook-Chapter-3.pdf
 categories:
     - thermal-physics
+summary: "Thermal physics is the branch of physics that deals with heat, temperature, and the transfer of thermal energy, including concepts like thermal expansion, specific heat capacity, and the three modes of heat transfer—conduction, convection, and radiation; it also covers the kinetic theory of gases and the laws of thermodynamics, which explain how energy is converted between heat and work, with the first law stating that energy is conserved and the second law stating that entropy always increases in natural processes."    
 ---
 
 

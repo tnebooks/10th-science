@@ -16,6 +16,7 @@ references:
             url: https://books.google.co.in/books/about/Animal_Physiology.html?id=eqQMpHgnIFAC&redir_esc=y
 categories:
     - reproduction-in-plants-and-animals
+summary: "Reproduction in Plants and Animals is the biological process by which organisms produce new individuals of their own kind, ensuring the continuation of species, and is broadly classified into asexual reproduction (involving a single parent, without gamete formation, e.g., binary fission, budding, fragmentation, and vegetative propagation in plants) and sexual reproduction (involving the fusion of male and female gametes to form a zygote); it covers the structure and function of reproductive organs, the process of pollination and fertilization in flowering plants, and the detailed events of gametogenesis, fertilization, embryonic development, and reproductive cycles in animals, along with the role of hormones in regulating reproduction."    
 ---
 
 

@@ -13,6 +13,7 @@ references:
        
 categories:
     - transportation-in-plants-and-circulation-in-animals
+summary: "Transportation in Plants and Circulation in Animals covers the movement of water, minerals, and food throughout plant bodies using xylem (water and minerals upward) and phloem (food both ways), driven by transpiration pull, root pressure, and diffusion; in animals, it involves the circulatory system, including blood, blood vessels (arteries, veins, capillaries), and the heart, which pumps blood to transport oxygen, nutrients, hormones, and waste products, with differences between open and closed circulatory systems and single versus double circulation in vertebrates."    
 ---
 
 
