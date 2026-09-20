@@ -1,7 +1,6 @@
 ---
 title: "Acoustics"
 layout: "single"
-tags: ["Acoustics"]
 summary: "Acoustics"
 ---
 

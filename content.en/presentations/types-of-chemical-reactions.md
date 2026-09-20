@@ -1,7 +1,6 @@
 ---
 title: "TYPES OF CHEMICAL REACTIONS"
 layout: "single"
-tags: ["TYPES OF CHEMICAL REACTIONS"]
 summary: "TYPES OF CHEMICAL REACTIONS"
 ---
 

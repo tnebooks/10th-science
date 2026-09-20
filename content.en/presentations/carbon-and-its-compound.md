@@ -1,7 +1,6 @@
 ---
 title: "CARBON AND ITS COMPOUND"
 layout: "single"
-tags: ["CARBON AND ITS COMPOUND"]
 summary: "CARBON AND ITS COMPOUND"
 ---
 

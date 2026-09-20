@@ -1,7 +1,6 @@
 ---
 title: "GENETICS"
 layout: "single"
-tags: ["GENETICS"]
 summary: "GENETICS"
 ---
 

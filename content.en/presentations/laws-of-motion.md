@@ -1,7 +1,6 @@
 ---
 title: "LAWS OF MOTION"
 layout: "single"
-tags: ["LAWS OF MOTION"]
 summary: "LAWS OF MOTION"
 ---
 

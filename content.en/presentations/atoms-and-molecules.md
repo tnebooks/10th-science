@@ -1,7 +1,6 @@
 ---
 title: "ATOMS AND MOLECULES"
 layout: "single"
-tags: ["ATOMS AND MOLECULES"]
 summary: "ATOMS AND MOLECULES"
 ---
 

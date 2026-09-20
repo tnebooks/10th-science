@@ -1,7 +1,6 @@
 ---
 title: "ஒளியியல்"
 layout: "single"
-tags: ["ஒளியியல்"]
 summary: "ஒளியியல்"
 ---
 

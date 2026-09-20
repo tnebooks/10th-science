@@ -16,7 +16,8 @@ references:
             url: https://readyourflow.com/book-author/h-c-verma-2/
 categories:
     - laws-of-motion
-
+tags:
+    - quarterly
 summary: "According to Newton's First Law, an object stays at rest or moves uniformly unless acted on by an external force; Newton's Second Law states that force equals mass times acceleration (F = ma), which is also the rate of change of momentum; and Newton's Third Law says that every action has an equal and opposite reaction acting on different bodies." 
     
 ---

@@ -1,7 +1,6 @@
 ---
 title: "மரபியல்"
 layout: "single"
-tags: ["மரபியல்"]
 summary: "மரபியல்"
 ---
 
