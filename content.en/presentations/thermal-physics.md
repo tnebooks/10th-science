@@ -1,7 +1,6 @@
 ---
 title: "THERMAL PHYSICS"
 layout: "single"
-tags: ["THERMAL PHYSICS"]
 summary: "THERMAL PHYSICS"
 ---
 

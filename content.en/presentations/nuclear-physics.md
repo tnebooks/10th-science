@@ -1,7 +1,6 @@
 ---
 title: "NUCLEAR PHYSICS"
 layout: "single"
-tags: ["NUCLEAR PHYSICS"]
 summary: "NUCLEAR PHYSICS"
 ---
 

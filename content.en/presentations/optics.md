@@ -1,7 +1,6 @@
 ---
 title: "Optics"
 layout: "single"
-tags: ["Optics"]
 summary: "Optics"
 ---
 

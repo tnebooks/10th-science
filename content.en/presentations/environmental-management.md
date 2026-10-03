@@ -1,7 +1,6 @@
 ---
 title: "ENVIRONMENTAL MANAGEMENT"
 layout: "single"
-tags: ["ENVIRONMENTAL MANAGEMENT"]
 summary: "ENVIRONMENTAL MANAGEMENT"
 ---
 

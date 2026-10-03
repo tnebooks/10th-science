@@ -1,7 +1,6 @@
 ---
 title: "PLANT AND ANIMAL HORMONES"
 layout: "single"
-tags: ["PLANT AND ANIMAL HORMONES"]
 summary: "PLANT AND ANIMAL HORMONES"
 ---
 
