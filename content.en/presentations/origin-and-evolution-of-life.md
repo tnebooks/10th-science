@@ -1,7 +1,6 @@
 ---
 title: "ORIGIN AND EVOLUTION OF LIFE"
 layout: "single"
-tags: ["ORIGIN AND EVOLUTION OF LIFE"]
 summary: "ORIGIN AND EVOLUTION OF LIFE"
 ---
 

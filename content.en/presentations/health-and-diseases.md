@@ -1,7 +1,6 @@
 ---
 title: "HEALTH AND DISEASES"
 layout: "single"
-tags: ["HEALTH AND DISEASES"]
 summary: "HEALTH AND DISEASES"
 ---
 

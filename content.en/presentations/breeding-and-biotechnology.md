@@ -1,7 +1,6 @@
 ---
 title: "BREEDING AND BIOTECHNOLOGY"
 layout: "single"
-tags: ["BREEDING AND BIOTECHNOLOGY"]
 summary: "BREEDING AND BIOTECHNOLOGY"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "REPRODUCTION  IN  PLANTS AND ANIMALS"
 layout: "single"
-tags: ["REPRODUCTION  IN  PLANTS AND ANIMALS"]
 summary: "REPRODUCTION  IN  PLANTS AND ANIMALS"
 ---
 

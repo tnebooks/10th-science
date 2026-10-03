@@ -8,3 +8,6 @@ themes/
 .public
 .resource
 .DS_Store
+
+tools/
+.obsidian/

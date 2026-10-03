@@ -1,7 +1,6 @@
 ---
 title: "VISUAL COMMUNICATION"
 layout: "single"
-tags: ["VISUAL COMMUNICATION"]
 summary: "VISUAL COMMUNICATION"
 ---
 

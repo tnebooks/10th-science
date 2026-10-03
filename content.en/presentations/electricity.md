@@ -1,7 +1,6 @@
 ---
 title: "ELECTRICITY"
 layout: "single"
-tags: ["ELECTRICITY"]
 summary: "ELECTRICITY"
 ---
 

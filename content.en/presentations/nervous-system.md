@@ -1,7 +1,6 @@
 ---
 title: "NERVOUS SYSTEM"
 layout: "single"
-tags: ["NERVOUS SYSTEM"]
 summary: "NERVOUS SYSTEM"
 ---
 

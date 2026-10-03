@@ -1,7 +1,6 @@
 ---
 title: "SOLUTIONS"
 layout: "single"
-tags: ["SOLUTIONS"]
 summary: "SOLUTIONS"
 ---
 
