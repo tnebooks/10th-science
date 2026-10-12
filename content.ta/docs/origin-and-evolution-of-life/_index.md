@@ -12,6 +12,8 @@ references:
             url: http://rastogipublications.com/index.php?route=product/product&product_id=87
 categories:
     - origin-and-evolution-of-life
+tags:
+   - mid-term-2
 summary: "உயிரின் தோற்றம் பற்றிய கோட்பாடுகள், பரிணாமத்திற்கான உடற்கூறியல், கருவியல் மற்றும் தொல்லுயிரியல் சான்றுகள், லாமார்க் மற்றும் டார்வினின் கோட்பாடுகள், வேறுபாடுகள், புதை உயிர்ப் படிவங்கள், வட்டார இனத் தாவரவியல் மற்றும் வான் உயிரியல் ஆகியவற்றை இப்பாடம் விளக்குகிறது."
 ---
 

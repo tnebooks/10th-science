@@ -14,6 +14,7 @@ references:
 categories:
     - atoms-and-molecules
 tags:
+    - mid-term-1
     - quarterly
 summary: "Atoms and Molecules is the branch of science that deals with the fundamental building blocks of matter, where atoms are the smallest particles of an element that retain its chemical properties, and molecules are formed when two or more atoms combine chemically; it covers concepts like atomic structure (protons, neutrons, electrons), atomic number, mass number, valency, chemical bonding, and the mole concept, along with laws of chemical combination such as the law of conservation of mass and the law of definite proportions."
 ---

@@ -13,6 +13,7 @@ references:
 categories:
     - optics
 tags:
+    - mid-term-1
     - quarterly
 summary: "Optics is the branch of physics that deals with the behavior and properties of light, including its reflection, refraction, dispersion, and interference; it covers the study of mirrors and lenses, where reflection follows the law that the angle of incidence equals the angle of reflection, and refraction follows Snell's law, which relates the bending of light to the change in speed when it passes from one medium to another."    
 ---

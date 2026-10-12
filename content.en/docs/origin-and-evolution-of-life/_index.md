@@ -12,6 +12,8 @@ references:
             url: http://rastogipublications.com/index.php?route=product/product&product_id=87
 categories:
     - origin-and-evolution-of-life
+tags:
+   - mid-term-2 
 summary: "Origin and Evolution of Life deals with the theories and evidence regarding how life began on Earth and how it has changed over millions of years, covering the origin of the universe, the Miller-Urey experiment on chemical evolution, and the gradual emergence of simple life forms from non-living matter; it also includes Darwin's theory of natural selection, mechanisms of evolution like mutation, genetic drift, and gene flow, evidence from fossils, comparative anatomy, and molecular biology, leading to the formation of new species and the incredible diversity of life we see today."    
 ---
 

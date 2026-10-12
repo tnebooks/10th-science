@@ -14,6 +14,8 @@ references:
             url: https://books.google.co.in/books/about/Elementry_Prin_Of_Plant_Breeding.html?id=zJs_AAAAYAAJ&redir_esc=y
 categories:
     - breeding-and-biotechnology
+tags:
+   - mid-term-2
 summary: "பயிர் மேம்பாடு, பசுமைப்புரட்சி, தேர்வு, பன்மயம், சடுதிமாற்றம் மற்றும் கலப்பினமாக்கம், விலங்கினக் கலப்பு, மரபுப்பொறியியல், ஜீன் குளோனிங், மருத்துவ உயிரித்தொழில்நுட்பம், ஜீன் சிகிச்சை, குருத்தணுக்கள், டி.என்.ஏ விரல் ரேகை மற்றும் மரபுப் பண்பு மாற்றப்பட்ட உயிரிகள் ஆகியவற்றை இப்பாடம் விளக்குகிறது."
 ---
 

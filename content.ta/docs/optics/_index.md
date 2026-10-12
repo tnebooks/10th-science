@@ -11,9 +11,10 @@ references:
             title:  Fundamentals of optics by D.R. Khanna and H.R. Gulati, R. Chand & Co.
             url: https://www.urbanbae.com/fundamentals-of-optics-paperback-p
 categories:
-    - optics
+   - optics
 tags:
-    - quarterly 
+   - mid-term-1
+   - quarterly 
 summary: "ஒளியின் பண்புகள், ஒளிவிலகல், நிறப்பிரிகை மற்றும் ஒளிச்சிதறல் ஆகியவற்றை இப்பாடம் விளக்குகிறது. குவிலென்ஸ், குழிலென்ஸ், பிம்பங்கள், லென்ஸ் சமன்பாடுகள் மற்றும் திறன், மனிதக் கண் மற்றும் பார்வைக் குறைபாடுகள், நுண்ணோக்கிகள் மற்றும் தொலைநோக்கிகள் ஆகியவை இதில் இடம்பெறுகின்றன."
 ---
 

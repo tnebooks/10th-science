@@ -12,6 +12,8 @@ references:
             url: http://people.bath.ac.uk/ensmjc/Notes/acoustics.pdf        
 categories:
     - acoustics  
+tags:
+   - mid-term-2
 summary: "Acoustics is the branch of physics that studies the production, transmission, reception, and effects of sound waves, covering concepts like frequency, wavelength, amplitude, and speed of sound in different media; it includes the study of reflection (echo), refraction, diffraction, and interference of sound, as well as the Doppler effect, resonance, and the human perception of pitch and loudness, with applications in music, architecture, and medical imaging like ultrasound."
 
 ---
