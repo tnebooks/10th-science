@@ -4,6 +4,98 @@ weight: 21
 references:
     videos:
         - youtube:XmyoYVcRjOI?si=7pNSXEn8hApiL6es
+        - custom:
+            title: "காடுகளும் அதன் முக்கியத்துவமும்"
+            desc: "சுற்றுச்சூழல் சமநிலையைப் பேணுவதிலும் இயற்கையைப் பாதுகாப்பதிலும் காடுகளின் முக்கியப் பங்கு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657443-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "காட்டுப் பாதுகாப்பு"
+            desc: "வனப் பரப்புகளைப் பாதுகாத்து மேம்படுத்துவதற்கான முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657440-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மின்னாற்றல் மேலாண்மை"
+            desc: "மின்சாரத்தை திறம்படப் பயன்படுத்துதல் மற்றும் நிர்வகிக்கும் முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3b7-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "வனவிலங்குகளும் பாதுகாப்பும்"
+            desc: "பல்வேறு வகையான வனவிலங்குகளைப் பாதுகாப்பதற்கான உத்திகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d18-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மண் அரிப்பு"
+            desc: "மண் அரிப்புக்கான காரணங்கள் மற்றும் அதனைத் தடுக்கும் முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d21-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "ஷேல் எரிபொருள்"
+            desc: "பாறை அடுக்குகளில் இருந்து ஷேல் எரிபொருளைப் பிரித்தெடுத்துப் பயன்படுத்துதல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65744f-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "காற்றாற்றல்"
+            desc: "புதுப்பிக்கத்தக்க எரிசக்தி ஆதாரமாக காற்றாலை மின்சாரத்தை உருவாக்குதல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657452-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மாற்று எரிசக்தி ஆதாரங்கள் - உயிர்வாயு"
+            desc: "உயிர்வாயு உற்பத்தியும் அதன் பயன்களும்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657431-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "நீராற்றல் மற்றும் ஓத ஆற்றல்"
+            desc: "நீரோட்டம் மற்றும் கடல் ஓதங்கள் மூலம் மின்சாரம் தயாரித்தல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b94-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மழைநீர் சேகரிப்பு"
+            desc: "மழைநீரைச் சேகரித்து நிலத்தடி நீரை மேம்படுத்தும் முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b82-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மழைநீர் அறுவடை"
+            desc: "மழைநீரைச் சேமித்து வைப்பதற்கான நவீன வழிமுறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3b1-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "மின்னாற்றல் மேலாண்மை"
+            desc: "மின்சாரத்தை சேமிப்பதற்கான உத்திகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b5b-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மின்-கழிவுகளும் மேலாண்மையும்"
+            desc: "மின் சாதனக் கழிவுகளைக் கையாளுதல் மற்றும் அகற்றுதல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b58-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மின்-கழிவுகளும் மேலாண்மையும்"
+            desc: "மின்-கழிவுகளின் மூலங்கள் மற்றும் சுற்றுச்சூழல் பாதிப்புகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3a5-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "சாக்கடை நீர் மூலங்கள்"
+            desc: "வீட்டு மற்றும் தொழிற்சாலைகளில் இருந்து வெளிவரும் கழிவுநீர் மூலங்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da539c82-1405-11f0-abbe-93d159bec7a9.mp4"
+        - custom:
+            title: "கழிவுநீர் சுத்திகரிப்பு முறைகள்"
+            desc: "கழிவுநீரைச் சுத்திகரித்துப் பயன்படுத்தும் முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eabd-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "திடக்கழிவு மேலாண்மை"
+            desc: "திடக்கழிவுகளைப் பாதுகாப்பாக அகற்றும் நடைமுறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da539c7f-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "செயற்கடத்தல்"
+            desc: "ஆற்றலைப் பயன்படுத்தி செல்கள் மூலங்களைக் கடத்தும் முறை."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53ea9f-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "பரவல்"
+            desc: "அதிக செறிவுள்ள பகுதியிலிருந்து குறைந்த செறிவுள்ள பகுதிக்கு மூலக்கூறுகள் நகர்தல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eaab-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "உறிஞ்சல்தன்மை"
+            desc: "தாவரப் பொருட்கள் நீரை உறிஞ்சும் செயல்முறை."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eab1-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "சவ்வூடு பரவல் மற்றும் பிளாஸ்மா சிதைவு - 1"
+            desc: "சவ்வூடு பரவல் மற்றும் அதன் அடிப்படை நிகழ்வுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eab4-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "சவ்வூடு பரவல் மற்றும் பிளாஸ்மா சிதைவு - 2"
+            desc: "சவ்வூடு பரவல் பற்றிய மேம்பட்ட விளக்கங்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eab7-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "கழிவு மறுசுழற்சி (4R முறைகள்)"
+            desc: "குறைத்தல், மறுபயன்பாடு, மறுசுழற்சி மற்றும் மீட்டெடுத்தல் கோட்பாடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eaba-1405-11f0-abbe-93d158bec7a9.mp4"
     links:
         - https://www.rossandwilson.com/lecturers
         - https://www.elsevierhealth.com

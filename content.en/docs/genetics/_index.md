@@ -4,6 +4,54 @@ weight: 18
 references:
     videos:
         - youtube:jWcqZiGuoAM?si=cVYUpplrd0XQetaB
+        - custom:
+            title: "Mutation"
+            desc: "Causes, types, and genetic consequences of mutations."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654cf4-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Various Theories About Origin of Life"
+            desc: "Scientific hypotheses and theories regarding the origin of life."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d09-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Evidences of Evolution I - Evidences from Morphology, Anatomy,"
+            desc: "Evidences of evolution i - evidences from morphology, anatomy,"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcd6-feeb-11ef-80fb-29a65bc2a44b.mp4"
+        - custom:
+            title: "Evidences of Evolution Ii - Embroyology and Palaeontology"
+            desc: "Evidences of evolution ii - embroyology and palaeontology"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcd9-feeb-11ef-80fb-29a65bc2a44b.mp4"
+        - custom:
+            title: "Darwinism"
+            desc: "Charles darwin's theory of evolution by natural selection."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96cd150-08b3-11f0-8a95-9539aab9ccbc.mp4"
+        - custom:
+            title: "Lamarckism"
+            desc: "Lamarckism"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d09bfa50-0ee8-11f0-80bc-eb81adb8d136.mp4"
+        - custom:
+            title: "Lamarckism"
+            desc: "Lamarckism"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654ceb-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Darwins Theory of Natural Selection"
+            desc: "Darwins theory of natural selection"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcc7-feeb-11ef-80fb-29a65bc2a44b.mp4"
+        - custom:
+            title: "Variation"
+            desc: "The role of biological variations in evolutionary processes."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d15-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Fossilization and Age of Fossils"
+            desc: "Processes of fossil formation and dating methods."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bce2-feeb-11ef-80fb-29a65bc2a44b.mp4"
+        - custom:
+            title: "Ethnobotany"
+            desc: "The study of traditional human uses of plants."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/969bef00-c037-11ee-a064-67fe454859f9.mp4"
+        - custom:
+            title: "Astrobiology /exobiology"
+            desc: "The study of life in the universe, including its origin and evolution."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcbe-feeb-11ef-80fb-29a65bc2a44b.mp4"
     links:
         - https://www.genome.gov
         - https://www.genetics.edu.au
@@ -181,8 +229,8 @@ DNA is the hereditary material as it contains the genetic information. It is the
 DNA is a large molecule consisting of millions of nucleotides. Hence, it is also called a polynucleotide. Each nucleotide consists of three components.
 1. A sugar molecules - Deoxyribose sugar.
 2. A nitrogenous base. There are two types of nitrogenous bases in DNA. They are
-   (a) Purines (Adenine and Guanine)
-   (b) Pyrimidines (Cytosine and Thymine)
+(a) Purines (Adenine and Guanine)
+(b) Pyrimidines (Cytosine and Thymine)
 3. A phosphate group
 
 **Nucleoside and Nucleotide**
@@ -199,9 +247,9 @@ The nucleotides are formed according to the purines and pyrimidines present in t
 2. These chains form a double helix structure with two strands which run anti-parallel to one another.
 3. Nitrogenous bases in the centre are linked to sugar-phosphate units which form the backbone of the DNA.
 4. Pairing between the nitrogenous bases is very specific and is always between purine and pyrimidine linked by hydrogen bonds.
-   * Adenine (A) links Thymine (T) with two hydrogen bonds $$(A = T)$$
-   * Cytosine (C) links Guanine (G) with three hydrogen bonds $$(C \equiv G)$$
-   This is called complementary base pairing.
+* Adenine (A) links Thymine (T) with two hydrogen bonds $$(A = T)$$
+* Cytosine (C) links Guanine (G) with three hydrogen bonds $$(C \equiv G)$$
+This is called complementary base pairing.
 5. Hydrogen bonds between the nitrogenous bases make the DNA molecule stable.
 6. Each turn of the double helix is 34 Å (3.4 nm). There are ten base pairs in a complete turn.
 7. The nucleotides in a helix are joined together by phosphodiester bonds.

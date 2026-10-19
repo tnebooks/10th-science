@@ -4,13 +4,125 @@ weight: 14
 references:
     videos:
         - youtube:ZsAzoYqsaQ0?si=4rtVJY75JYDepV-D
+        - custom:
+            title: "Root Hair Water Absorbing Unit"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3de-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Pathway of Water Absorbed by Root"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3cf-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Types of Movement of Water into the Root Cells"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d27-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Transpiration, Importance and Factors Affecting Transpiration"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3e14bcf0-c694-11ee-a861-6d35fc1c2c1f.mp4"
+        - custom:
+            title: "Root Pressure"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d1e-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Uptake of Minerals"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d2d-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Translocation of Mineral Ions"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b88-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Phloem Transport"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b6a-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Translocation of Sugars"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b8b-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Ascent of Sap and Its Events an Overview"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b4f-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Transportation in Plants & Circulation in Animals Part 1"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1c985290-44ec-11ef-b0de-97e03681057c.mp4"
+        - custom:
+            title: "Components of Blood - I"
+            desc: "Components of blood and its functions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d51-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Components of Blood - Ii"
+            desc: "Components of blood and its functions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d54-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Blood Vessel -arteries and Veins"
+            desc: "Components of blood and its functions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e8d78640-a984-11ee-8c4f-d1fbb0187fc0.mp4"
+        - custom:
+            title: "Blood Vessels"
+            desc: "Types of blood vessles and its differentiation"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d3f-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Transportation in Plants & Circulation in Animals Part 5"
+            desc: "Types of blood vessles and its differentiation"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f7721f50-6a89-11ef-909c-41bb43141e5c.mp4"
+        - custom:
+            title: "Types of Circulatory System"
+            desc: "Circulatory system and its types"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657425-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Transportation in Plants & Circulation in Animals Part 3"
+            desc: "Circulatory system and its types"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2d22df40-595f-11ef-acf3-3bca5db1ee16.mp4"
+        - custom:
+            title: "Types of Blood Circulation"
+            desc: "Circulatory system and its types"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657422-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Cardiac Cycle"
+            desc: "Circulatory system and its types"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0984fbcb-30b1-46e1-863c-3393836f32e7.mp4"
+        - custom:
+            title: "Blood Pressure and Its Measuring Instruments"
+            desc: "Circulatory system and its types"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1e335e90-fbff-11ef-914a-8b21877556da.mp4"
+        - custom:
+            title: "Blood Pressure"
+            desc: "Types of blood pressure and measuring instruments"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d3c-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Sphygmomanometer"
+            desc: "Types of blood pressure and measuring instruments"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657419-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Stethoscope"
+            desc: "Types of blood pressure and measuring instruments"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65741c-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Blood Groups"
+            desc: "Types of blood pressure and measuring instruments"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1910256336_V1_1080.mp4"
+        - custom:
+            title: "Blood Groups"
+            desc: "Classification of blood groups ,rh factor and blood donation"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d39-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Lymphatic System"
+            desc: "Classification of blood groups ,rh factor and blood donation"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42c05af0-a741-11ef-829f-b5b040ea3833.mp4"
+        - custom:
+            title: "Composition of Lymph"
+            desc: "Lymphatic system ,lymph and its functions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b6573f2-0a3c-11f0-b0e0-e5021b5adc02.mp4"
     links:
-       - "[Cardiovascular System](https://www.msdmanuals.com/home/multimedia/3dmodel/cardiovascular-system)"
+        - "[Cardiovascular System](https://www.msdmanuals.com/home/multimedia/3dmodel/cardiovascular-system)"
     books:
         - b1:
             title: V.K. Jain, Fundamentals of Plant physiology, S.Chand and Company, New Delhi
             url: https://www.britannica.com/science/human-circulatory-system
-       
+
 categories:
     - transportation-in-plants-and-circulation-in-animals
 tags:

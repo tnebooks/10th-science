@@ -3,7 +3,27 @@ title: 'வெப்ப இயற்பியல்'
 weight: 3
 references:
     videos:
-        - youtube:mdSeg8XDoKw?si=dxoCSwNpT-a2umVf
+         # - youtube:mdSeg8XDoKw?si=dxoCSwNpT-a2umVf
+         - custom:
+            title: "வெப்பநிலை, வெப்பநிலையின் தனிவெப்பநிலை அளவு மற்றும் வெப்ப சமநிலை"
+            desc: "வெப்பநிலை, தனிவெப்பநிலை அளவுகள் மற்றும் வெப்ப சமநிலை பற்றிய கருத்துக்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c13845a0-d72f-11ef-b16f-63a37bb24111.mp4"
+         - custom:
+            title: "வெப்ப இயற்பியல் பகுதி 3"
+            desc: "வெப்ப இயற்பியலில் மேம்பட்ட தலைப்புகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/98a2a470-8a2a-11ef-9d39-4bcac897e65b.mp4"
+         - custom:
+            title: "பாயில் விதி"
+            desc: "வாயுக்களின் அழுத்தம் மற்றும் கனஅளவைத் தொடர்புபடுத்தும் பாயில் விதி பற்றிய ஆய்வு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/57544397-9dbb-475f-b527-58eb04c30c6a.mp4"
+         - custom:
+            title: "சார்லஸ் விதி"
+            desc: "வெப்பநிலைக்கும் கனஅளவிற்கும் உள்ள தொடர்பைப் பற்றிய சார்லஸ் விதியைப் புரிந்துகொள்ளுதல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7e3cac4-7dd8-4d0c-816b-5a6b602a73ad.mp4"
+         - custom:
+            title: "வாயு அழுத்தம் அளிக்கிறது"
+            desc: "வாயுக்கள் மூலக்கூறு ரீதியாக எவ்வாறு அழுத்தத்தை ஏற்படுத்துகின்றன என்பதன் விளக்கம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e5b5feda-e337-46eb-830d-3eec7959a567.mp4"
     links:
         - "[Boyle's Law Simulator](https://mechsimulator.com/tools/boyles-law/)"
     books:

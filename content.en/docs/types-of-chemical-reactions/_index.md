@@ -14,7 +14,7 @@ references:
 categories:
     - types-of-chemical-reactions
 tags:
-   - mid-term-2
+    - mid-term-2
 summary: "Types of Chemical Reactions covers the classification of chemical changes into five main types: combination (two or more substances combine to form a single product), decomposition (a single compound breaks down into simpler substances), displacement (one element replaces another in a compound), double displacement (exchange of ions between two compounds), and oxidation-reduction (redox) reactions involving transfer of electrons; the chapter also explains exothermic and endothermic reactions based on heat changes, along with balancing chemical equations and predicting products using the activity series and reactivity trends."    
 ---
 
@@ -104,7 +104,7 @@ In this type of combination reaction, two elements react with one other to form 
 
 **Example 1:** When solid sulphur reacts with oxygen, it produces sulphur dioxide. Here both the reactants are non-metals.
 
- ![](1.2.png)
+![](1.2.png)
 
 $$
 (\text{S}_{(s)} + \text{O}_{2(g)} \rightarrow \text{SO}_{2(g)})$$
@@ -126,7 +126,7 @@ Identify the possible combination reactions between the metals and non-metals gi
 
 In this case, a compound reacts with an element to form a new compound. For instance, phosphorous trichloride reacts with chlorine gas and forms phosphorous pentachloride.
 
-   $$
+$$
 (\text{PCl}_{3(l)} + \text{Cl}_{2(g)} \rightarrow \text{PCl}_{5(s)})
 $$
 
@@ -134,7 +134,7 @@ $$
 
 It is a reaction between two compounds to form a new compound. In the following reaction, silicon dioxide reacts with calcium oxide to form calcium silicate.
 
-  $$
+$$
 (\text{SiO}_{2(s)} + \text{CaO}_{(s)} \rightarrow \text{CaSiO}_{3(s)})
 $$
 
@@ -164,13 +164,13 @@ There are three main classes of decomposition reactions. They are:
 
 In this type of reaction, the reactant is decomposed by applying heat. For example, on heating mercury (II) oxide is decomposed into mercury metal and oxygen gas. As the molecule is dissociated by the absorption of heat, it is otherwise called 'Thermolysis'. It is a class of compound to element/element decomposition. i.e. a compound (HgO) is decomposed into two elements (Hg and Oxygen).
 
-   $$
+$$
 (2\text{HgO}_{(s)} \xrightarrow{\text{Heat}} 2\text{Hg}_{(l)} + \text{O}_{2(g)})
 $$
 
 Similarly, when calcium carbonate is heated, it breaks down into calcium oxide and carbon dioxide. It is a type of compound to compound/compound decomposition.
 
-  $$
+$$
 (\text{CaCO}_{3(s)} \xrightarrow{\text{Heat}} \text{CaO}_{(s)} + \text{CO}_{2(g)})
 $$
 
@@ -191,7 +191,7 @@ Here, a compound (NaCl) is converted into elements (Na and chlorine). So it is a
 
 Light is an another form of energy, which facilitates some of the decomposition reactions. For example, when silver bromide is exposed to light, it breaks down into silver metal and bromine gas. As the decomposition is caused by light, this kind of reaction is also called 'Photolysis'.
 
-   $$
+$$
 (2\text{AgBr}_{(s)} \xrightarrow{\text{Light}} 2\text{Ag}_{(s)} + \text{Br}_{2(g)})
 $$
 
@@ -273,7 +273,7 @@ Which of the metals displaces hydrogen gas from hydrochloric acid? Silver or Zin
 
 When two compounds react, if their ions are interchanged, then the reaction is called double displacement reaction. The ion of one compound is replaced by the ion of the another compound. Ions of identical charges are only interchanged, i.e., a cation can be replaced by other cations. This reaction is also called 'Metathesis Reaction'. The schematic representation of a double displacement reaction is given below:
 
-   ![](1.5.png)
+![](1.5.png)
 
 In a double displacement reaction either one of the products must be either a precipitate or water. By this way, there are major classes of double displacement reactions. They are:
 (i) Precipitation Reactions
@@ -693,11 +693,11 @@ Thus, [H⁺] = 1 × 10⁻³ mol litre⁻¹
 
 $$\mathrm{pH} = -\log_{10}[\mathrm{H^+}]
 
-  = -\log_{10}10^{-3}
- 
-  = -(-3 \times \log_{10}10)
-  
-  = -(3 \times 1) = 3$$
+= -\log_{10}10^{-3}
+
+= -(-3 \times \log_{10}10)
+
+= -(3 \times 1) = 3$$
 
 Thus, pH = 3
 
@@ -721,9 +721,9 @@ $$\mathrm{pH} = -\log_{10}[\mathrm{H^+}] =
 
 -\log_{10}10^{-4}
 
- = -(-4 \times \log_{10}10) 
- 
- = -(-4 \times 1) = 4$$
+= -(-4 \times \log_{10}10) 
+
+= -(-4 \times 1) = 4$$
 
 **Example 3:** Calculate the pH of 1 × 10⁻⁴ molar solution of NaOH.
 
@@ -745,9 +745,9 @@ One mole of NaOH would give one mole of OH⁻ ions. Therefore,
 
 $$\mathrm{pOH} = -\log_{10}[\mathrm{OH^-}]
 
- = -\log_{10}[10^{-4}] =
+= -\log_{10}[10^{-4}] =
 
-  -(-4) = 4$$
+-(-4) = 4$$
 
 Since, pH + pOH = 14
 
@@ -829,7 +829,7 @@ can be classified?
 Reaction
 
 (iv) Irreversible Reaction
- 
+
 a. i and ii  b. i and iv
 
 c. i, ii and iii  d. i, ii and iv

@@ -4,6 +4,66 @@ weight: 17
 references:
     videos:
         - youtube:l509vxiFJcQ?si=MSr8ySa_tc1KzEBM
+        - custom:
+            title: "Gregar Johann Mendel"
+            desc: "Gregar johann mendel"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65746a-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Monohybrid Cross"
+            desc: "Monohybrid cross"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b01-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Mendel's Interpretation on Monohybrid Cross"
+            desc: "Mendel's interpretation on monohybrid cross"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b04-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Dihybrid Cross"
+            desc: "Dihybrid cross"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b0a-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Laws of Heredity"
+            desc: "Laws of heredity"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b07-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Structure of Chromosome and Its Types"
+            desc: "Structure of chromosome and its types"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/032ba742ee9841e999138fae6f9ca64f.mp4"
+        - custom:
+            title: "Structure of Dna"
+            desc: "Structure of dna"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fffe9eb1c5cc41ea81f6edd22f446af0.mp4"
+        - custom:
+            title: "Dna Replication"
+            desc: "Dna replication"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bd9c652088e945cb8623b63821a82878.mp4"
+        - custom:
+            title: "Sex Determination in Humans"
+            desc: "Sex determination in humans"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e6e53bd270694ccfb38c8ba5b894aa73.mp4"
+        - custom:
+            title: "What Is a Chromosome?"
+            desc: "What is a chromosome?"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/84e80c80-d22f-11ee-9e10-b7324c1931a9.mp4"
+        - custom:
+            title: "Structure of Dna"
+            desc: "Structure of dna"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e01ba6c0-e2c4-11ee-824f-7d36cd44e879.mp4"
+        - custom:
+            title: "The Great Blueprint Adventure"
+            desc: "The great blueprint adventure"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7d847276-87c5-40d8-ad81-917db0f72e5d.mp4"
+        - custom:
+            title: "Marabanu Aaraithal"
+            desc: "Marabanu aaraithal"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b220f783-a5d5-4a5d-88cb-0670ddfe0e57.mp4"
+        - custom:
+            title: "Uyirin Mozhi"
+            desc: "Uyirin mozhi"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6121e0d-9158-4b82-bff9-0e0ae118ea0f.mp4"
+        - custom:
+            title: "Sex Determination in Human"
+            desc: "Sex determination in human"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d03-0a3c-11f0-b0e0-e5021b5adc02.mp4"
     links:
         -  http://www.importantindia.com/10606/population-explosion-in-India/
         - http://www.yourarticlelibrary.com/population/3-important...control-overpopulation/26950
@@ -308,7 +368,7 @@ The spermatozoan consists of **head**, a **middle piece** and **tail**. The sper
 
 **Figure:17.15** Structure of sperm
 
- like structure called **acrosome**. It contains **hyaluronidase** an enzyme that helps the sperm to enter the ovum during fertilization. A short neck connects the head and middle piece which comprises the centrioles. The middle piece contains the **mitochondria** which provides energy for the movement of tail. It brings about sperm motility which is essential for fertilization.
+like structure called **acrosome**. It contains **hyaluronidase** an enzyme that helps the sperm to enter the ovum during fertilization. A short neck connects the head and middle piece which comprises the centrioles. The middle piece contains the **mitochondria** which provides energy for the movement of tail. It brings about sperm motility which is essential for fertilization.
 
 ### Structure of Human Ovum
 

@@ -4,6 +4,30 @@ weight: 7
 references:
     videos:
         - youtube:Hzo6DboPNGI?si=MBnCEoXxRIVkdH6Q
+        - custom:
+            title: "Atoms and Molecules Part 1"
+            desc: "Introduces atoms and molecules, their basic characteristics, and their role in describing matter."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/25f4bd50-2ed6-11ef-ad4e-db2a8a7aea10.mp4"
+        - custom:
+            title: "Atom and Atomic Mass ,relative Atomic Mass, Average Atomic Mass"
+            desc: "Explains atomic mass, relative atomic mass, and average atomic mass, including how these quantities describe atoms."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8afd850-ccaf-11ee-9606-1bb228769c07.mp4"
+        - custom:
+            title: "Atoms and Molecules Part 2"
+            desc: "Continues the study of atoms and molecules and the basic concepts used to represent them in chemistry."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bcff8470-2d3a-11ef-8d3c-a11e366ddc29.mp4"
+        - custom:
+            title: "Atoms and Molecules Part 3"
+            desc: "Further explores atoms and molecules, building on their definitions and their use in chemical descriptions."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/914d16f0-2d65-11ef-91a6-536be812f6f1.mp4"
+        - custom:
+            title: "Atoms and Molecules Part 4"
+            desc: "Continues the atoms-and-molecules lesson with additional foundational chemistry concepts."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d1c7dab0-26fa-11ef-bc3e-e1eb9ff06498.mp4"
+        - custom:
+            title: "Atoms and Molecules Part 5"
+            desc: "Concludes this part of the atoms-and-molecules series with further explanation of the topic’s key concepts."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/44c73550-2e1d-11ef-b41b-a3d3b303e1f9.mp4"
     links:
         - https://www2.estrellamountain.edu/faculty/farabee/biobk/BioBookCHEM1.html
         - https://www.toppr.com/guides/chemistry/atoms-and-molecules/
@@ -313,17 +337,17 @@ One mole of any gas occupies **22.4 litre** or **22400 ml** at S.T.P. This volum
 
 $$
 \text{Number of moles} 
-   = \frac{\text{Mass}}{\text{Atomic Mass}}
+= \frac{\text{Mass}}{\text{Atomic Mass}}
 $$
 $$
-   = \frac{\text{Mass}}{\text{Molecular mass}}
+= \frac{\text{Mass}}{\text{Molecular mass}}
 $$
 $$
- 
+
 = \frac{\text{Number of Atoms}}{6.023 \times 10^{23}} 
 $$
 $$
- = \frac{\text{Number of Molecules}}{6.023 \times 10^{23}}
+= \frac{\text{Number of Molecules}}{6.023 \times 10^{23}}
 $$
 
 ![](img1.png)

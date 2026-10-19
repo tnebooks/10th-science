@@ -4,7 +4,43 @@ weight: 8
 references:
     videos:
         - youtube:UsxMnISGnps?si=XHKlErC_OUb3TCtw
-        
+        - custom:
+            title: "Laws of Motion Part 1"
+            desc: "Introduction to motion and newton’s laws, including the basic concepts used to describe how forces affect an object’s motion."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cd0ca330-0b88-11ef-84e6-a5cd778494e6.mp4"
+        - custom:
+            title: "Periodic Classifications of Elements Part 1"
+            desc: "An introduction to how chemical elements are classified and how the periodic table organizes elements by their properties."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/dc930e70-3dd8-11ef-ac0c-19c628a1d5d0.mp4"
+        - custom:
+            title: "Periodic Classifications of Elements Part 3"
+            desc: "Continues the study of periodic classification, focusing on patterns and trends in the properties of elements."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/816b3140-3ddc-11ef-b65c-5b0700c39a6e.mp4"
+        - custom:
+            title: "Periodic Classifications of Elements Part 4"
+            desc: "Explores further periodic-table trends and how the positions of elements relate to their chemical properties."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bd5fba20-3e83-11ef-b62c-ed0821e1d50f.mp4"
+        - custom:
+            title: "Periodic Classifications of Elements Part 5"
+            desc: "Continues periodic classification of elements and reviews important relationships between periodic position and properties."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3b6c1940-3e84-11ef-8a64-810d1fd901f7.mp4"
+        - custom:
+            title: "Metallurgy of Aluminium - Extraction"
+            desc: "Explains the extraction of aluminium from its ore and the main steps involved in the metallurgical process."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3048d200-a28a-11ef-b59b-c3c01af8171d.mp4"
+        - custom:
+            title: "Metallurgy of Aluminium - Physical and Chemical Properties"
+            desc: "Covers the physical and chemical properties of aluminium and how these properties relate to its uses."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42956e10-b7ce-11ef-a453-ffc34e7f049b.mp4"
+        - custom:
+            title: "Extraction of Copper from Copper Pyrite"
+            desc: "Explains the main stages used to extract copper from copper pyrite ore."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9045ab80-b15b-11ef-a781-db79eeeb20e4.mp4"
+        - custom:
+            title: "Properties and Uses of Copper"
+            desc: "Reviews the physical and chemical properties of copper and its common applications."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ab370450-bbbc-11ef-9ca9-ff9ef692fe6d.mp4"
+
     links:
         - https://www.webelements.com
         - www.rsc.org/periodic-table
@@ -192,9 +228,9 @@ Along the period, from left to right in the periodic table, the electronegativit
 > **Test yourself**
 > Predict the nature of the bond in the following molecules.
 
- (i) NaCl
+(i) NaCl
 
- (ii) NaBr
+(ii) NaBr
 
 (iii) NaI 
 
@@ -219,14 +255,14 @@ A metallurgical process involve three main steps as follows:
 
 - **Minerals**: A mineral may be a single compound or a complex mixture of various compounds of metals found in the Earth.
 - **Ore**: The mineral from which a metal can be readily and economically extracted on a large scale is said to be an ore.
-  
-  > For example: Clay (Al₂O₃·2SiO₂·2H₂O) and bauxite (Al₂O₃·2H₂O) are the two minerals of aluminium, but aluminium can be profitably extracted only from bauxite. Hence, bauxite is an ore of aluminium and clay is its mineral.
+
+> For example: Clay (Al₂O₃·2SiO₂·2H₂O) and bauxite (Al₂O₃·2H₂O) are the two minerals of aluminium, but aluminium can be profitably extracted only from bauxite. Hence, bauxite is an ore of aluminium and clay is its mineral.
 
 - **Mining**: The process of extracting the ores from the Earth's crust is called mining.
 - **Gangue or Matrix**: The rocky impurity associated with an ore is called gangue or matrix.
 - **Flux**: It is the substance added to the ore to reduce the fusion temperature and to remove the impurities. E.g. Calcium oxide (basic), Silica (acidic). If the gangue is acidic, then basic flux is added and vice versa.
 - **Slag**: It is the fusible product formed when a flux reacts with a gangue during the extraction of metals.
-  > Flux + Gangue → Slag
+> Flux + Gangue → Slag
 - **Smelting**: Smelting is the process of reducing the roasted metallic oxide from the metal in its molten condition. In this process, impurities are removed as slag by the addition of flux.
 
 ![](img5.png)
@@ -247,9 +283,9 @@ The ore is treated with a suitable reagent such that the ore is soluble in it bu
 
 **E.g.** Bauxite Al₂O₃·2H₂O (the ore of aluminium).
 
- ![](img6.png)
+![](img6.png)
 
- ![](img7.png)
+![](img7.png)
 
 
 ---

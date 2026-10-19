@@ -3,7 +3,59 @@ title: "ஒளியியல்"
 weight: 2
 references:
     videos:
-        - youtube:PdmVeFwYCqs?si=o70ZlFWhBQOWw7NK
+        # - youtube:PdmVeFwYCqs?si=o70ZlFWhBQOWw7NK
+        - custom:
+            title: "ஒளியியல் பகுதி 1"
+            desc: "ஒளியியல் மற்றும் ஒளியின் பண்புகள் பற்றிய அறிமுகம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0ba52760-0b8a-11ef-be1f-e773ae16e07f.mp4"
+        - custom:
+            title: "ஒளிவிலகல் விதிகள்"
+            desc: "ஒளிவிலகலை நிர்வகிக்கும் விதிகள் பற்றிய ஆய்வு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b37-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "ஒளியியல் பகுதி 2"
+            desc: "ஒளியியல் கோட்பாடுகள் மற்றும் நிகழ்வுகளின் தொடர்ச்சி."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/686262a0-2706-11ef-96b7-c78c6565deb4.mp4"
+        - custom:
+            title: "ஒளியின் சிதறல் பகுதி 1"
+            desc: "ஒளி சிதறல் மற்றும் அதனுடன் தொடர்புடைய ஒளியியல் விளைவுகள் பற்றிய விரிவான விளக்கம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a775baf0-b969-11ef-9145-f9be9a15a99f.mp4"
+        - custom:
+            title: "ஒளியின் சிதறல்"
+            desc: "பல்வேறு ஊடகங்களில் ஒளியின் சிதறல் நிகழ்வைப் புரிந்துகொள்ளுதல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b34-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "ஒளியியல் பகுதி 3"
+            desc: "ஒளியியல் மற்றும் லென்ஸ் அமைப்புகளில் உள்ள மேம்பட்ட கருத்துக்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ad244610-0b8b-11ef-86ad-830dc693444b.mp4"
+        - custom:
+            title: "குவி லென்ஸால் உருவாக்கப்படும் பல்வேறு வகையான பிம்பங்கள்"
+            desc: "குவி லென்ஸைப் பயன்படுத்தி பல்வேறு பொருள் நிலைகளுக்கான பிம்ப உருவாக்கத்தின் பகுப்பாய்வு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cc09aa35-e99c-47a7-adda-6457b657e4dc.mp4"
+        - custom:
+            title: "குழ லென்ஸ் வழியே ஒளிவிலகல் மற்றும் குழ லென்ஸின் பயன்பாடுகள்"
+            desc: "குழ லென்ஸ்கள் வழியே ஒளிவிலகல் மற்றும் அவைகளின் நடைமுறைப் பயன்பாடுகளை ஆராய்தல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b5d07f50-0ca6-11f0-a5a5-3159eef3c7bb.mp4"
+        - custom:
+            title: "லென்ஸ் தயாரிப்பாளர் சூத்திரம்"
+            desc: "ஒளியியலில் லென்ஸ் தயாரிப்பாளர் சூத்திரத்தின் வருவிப்பு மற்றும் பயன்பாடு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ebda6230-9df9-11ef-9361-9b543d51d2e5.mp4"
+        - custom:
+            title: "லென்ஸின் திறன்"
+            desc: "லென்ஸ்களுக்கான குவியத் தூரம் மற்றும் திறன் கணக்கீடுகளைப் புரிந்துகொள்ளுதல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b3d-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மனித கண்"
+            desc: "மனிதக் கண்ணின் கட்டமைப்பு மற்றும் செயல்பாடு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/64a69770-5b2d-11ef-bb7e-2b239ddf91e4.mp4"
+        - custom:
+            title: "கண்ணின் குறைபாடுகள் - கிட்டப்பார்வை மற்றும் தூரப்பார்வை"
+            desc: "கிட்டப்பார்வை மற்றும் தூரப்பார்வை போன்ற பொதுவான பார்வை குறைபாடுகள் மற்றும் அவற்றுக்கான திருத்தங்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f36564c0-5e14-11ef-9264-d97f40edd7c2.mp4"
+        - custom:
+            title: "நுண்ணோக்கி மற்றும் தொலைநோக்கி"
+            desc: "நுண்ணோக்கிகள் மற்றும் தொலைநோக்கிகளின் வேலை செய்யும் தத்துவங்கள் மற்றும் உருப்பெருக்கத் திறன்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1ae8d640-0288-11f0-8f77-49458468945f.mp4"
     links:
         - "[குவிதலன்சினால் உருவாகும் பல்வேறு வகையான பிம்பங்களின் நிலை](https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html)"
     books:

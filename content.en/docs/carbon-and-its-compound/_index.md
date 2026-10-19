@@ -250,8 +250,8 @@ Let us try to name, systematically, some of the linear and substituted hydrocarb
 
 **Example 2:**
 ```
-    CH₃
-    |
+CH₃
+|
 CH₃-CH-CH₂-CH₂-CH₃
 ```
 
@@ -264,10 +264,10 @@ CH₃-CH-CH₂-CH₂-CH₃
 **Example 3:**
 ```
 CH₃-CH-CH₂-CH₂-CH₂-CH₃
-      |
-      CH₂
-      |
-      CH₃
+|
+CH₂
+|
+CH₃
 ```
 
 - **Step 1:** The longest chain contains seven carbon atoms and hence the root word is 'Hept'.
@@ -389,7 +389,7 @@ Ethanol reacts with sodium metal to form sodium ethoxide and hydrogen gas.
 
 ```
 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑
-              (Sodium ethoxide)
+(Sodium ethoxide)
 ```
 
 #### (iii) Oxidation:
@@ -498,7 +498,7 @@ When a sodium salt of ethanoic acid is heated with soda lime (solid mixture of 3
 
 ```
 CH₃COONa → CH₄↑ + Na₂CO₃
-            NaOH/CaO
+NaOH/CaO
 ```
 
 ---

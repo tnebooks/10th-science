@@ -4,6 +4,26 @@ weight: 3
 references:
     videos:
         - youtube:mdSeg8XDoKw?si=dxoCSwNpT-a2umVf
+        - custom:
+            title: "Temperature, Absolute Scale of Temperature and Thermal Equilibrium"
+            desc: "Concepts of temperature, absolute temperature scales, and thermal equilibrium."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c13845a0-d72f-11ef-b16f-63a37bb24111.mp4"
+        - custom:
+            title: "Thermal Physics Part 3"
+            desc: "Advanced topics in thermal physics."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/98a2a470-8a2a-11ef-9d39-4bcac897e65b.mp4"
+        - custom:
+            title: "Boyle’s Law"
+            desc: "Study of boyle's law relating pressure and volume of gases."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/57544397-9dbb-475f-b527-58eb04c30c6a.mp4"
+        - custom:
+            title: "Charles’ Law"
+            desc: "Understanding charles' law and the relationship between temperature and volume."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7e3cac4-7dd8-4d0c-816b-5a6b602a73ad.mp4"
+        - custom:
+            title: "Gas Exerts Pressure"
+            desc: "Explanation of how gases exert pressure molecularly."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e5b5feda-e337-46eb-830d-3eec7959a567.mp4"
     links:
         - "[Boyle's Law Simulator](https://mechsimulator.com/tools/boyles-law/)"
     books:
@@ -37,7 +57,7 @@ The temperature measured in relation to absolute zero using the kelvin scale is 
 - **Celsius and Kelvin:** K = C + 273
 - **Fahrenheit and Kelvin:** K = (F + 460) × 5/9
 
-  0K=-273°C
+0K=-273°C
 
 ### Thermal equilibrium
 
@@ -71,8 +91,8 @@ During the process of transferring heat energy, the body at lower temperature is
 1. Heat always flows from a system at higher temperature to a system at lower temperature.
 2. The mass of a system is not altered when it is heated or cooled.
 3. For any exchange of heat, the heat gained by the cold system is equal to heat lost by the hot system.
-   
-   **Heat gained = Heat lost**
+
+**Heat gained = Heat lost**
 
 ### Other units of Heat energy
 
@@ -332,9 +352,9 @@ Ideal gas equation is also called as **equation of state** because it gives the 
 - Heat always flows from a system at higher temperature to a system at lower temperature.
 - Temperature is defined as the degree of hotness of a body. The SI unit of temperature is kelvin (K).
 - All the substances will undergo one or more of the following changes when heated:
-  - Temperature of the substance rises.
-  - The substance may change state from solid to liquid or gas.
-  - The substance will expand when heated.
+- Temperature of the substance rises.
+- The substance may change state from solid to liquid or gas.
+- The substance will expand when heated.
 - All forms of matter (solid, liquid and gas) undergo expansion on heating.
 - For a given rise in temperature, a liquid will have more expansion than a solid and a gaseous substance has the highest expansion than the other two.
 - If a liquid is heated directly without using any container, then the expansion that you observe is termed as real expansion of the liquid.

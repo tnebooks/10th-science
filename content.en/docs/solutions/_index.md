@@ -525,4 +525,4 @@ $$
 - In exothermic process, solubility of solid solute decreases with increase in temperature.
 
 ---
- 
+

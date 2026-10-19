@@ -3,7 +3,55 @@ title: 'மரபியல்'
 weight: 18
 references:
     videos:
-        - youtube:jWcqZiGuoAM?si=cVYUpplrd0XQetaB
+         - youtube:jWcqZiGuoAM?si=cVYUpplrd0XQetaB
+         - custom:
+            title: "மரபணு சடுதி மாற்றம்"
+            desc: "மரபணுக்களில் ஏற்படும் திடீர் மாற்றங்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654cf4-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "உயிர் தோற்றம் பற்றிய கோட்பாடுகள்"
+               desc: "பூமியில் உயிர் தோன்றிய விதம் குறித்த அறிவியல் கோட்பாடுகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d09-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "பரிணாமத்திற்கான சான்றுகள் I - புறவமைப்பியல் மற்றும் உள்ளமைப்பியல் சான்றுகள்"
+               desc: "உயிரினங்களின் உடலமைப்பின் மூலமான பரிணாம சான்றுகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcd6-feeb-11ef-80fb-29a65bc2a44b.mp4"
+         - custom:   
+               title: "பரிணாமத்திற்கான சான்றுகள் II - கருவளர்ச்சியியல் மற்றும் தொல்லுயிரியியல்"
+               desc: "கரு வளர்ச்சி மற்றும் தொல்லுயிர்ப் படிவங்கள் மூலம் அறியப்படும் பரிணாமம்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcd9-feeb-11ef-80fb-29a65bc2a44b.mp4"
+         - custom:
+               title: "டார்வினியம்"
+               desc: "இயற்கைத் தேர்வு மூலம் உயிரினங்கள் பரிணாமம் அடைதல்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96cd150-08b3-11f0-8a95-9539aab9ccbc.mp4"
+         - custom:
+               title: "லாமார்க்கியம்"
+               desc: "லாமார்க்கின் தேتى பெற்ற பண்புகள் குறித்த கோட்பாடு."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d09bfa50-0ee8-11f0-80bc-eb81adb8d136.mp4"
+         - custom:
+               title: "லாமார்க் கோட்பாடு"
+               desc: "உயிரினங்களில் பயன்பாடு மற்றும் பயன்பாடின்மை கோட்பாடு."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654ceb-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "டார்வினின் இயற்கைத் தேர்வு கோட்பாடு"
+               desc: "வாழ்விற்கான போராட்டம் மற்றும் இயற்கை தேர்வு முறை."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcc7-feeb-11ef-80fb-29a65bc2a44b.mp4"
+         - custom:
+               title: "வேறுபாடுகள்"
+               desc: "உயிரினங்களுக்கு இடையே காணப்படும் மரபியல் வேறுபாடுகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d15-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "புதைபடிவமாதலும் அதன் வயதை நிர்ணயித்தலும்"
+               desc: "தொல்லுயிர்ப் படிவங்களின் உருவாக்கம் மற்றும் வயது கணக்கிடும் முறை."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bce2-feeb-11ef-80fb-29a65bc2a44b.mp4"
+         - custom:
+               title: "இன தாவரவியல் (எத்னோபோட்டனி)"
+               desc: "மனிதனுக்கும் தாவரங்களுக்கும் இடையேயான பாரம்பரிய உறவு."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/969bef00-c037-11ee-a064-67fe454859f9.mp4"
+         - custom:
+               title: "விண்வெளி உயிரியல் / வெளிமண்டல உயிரியல்"
+               desc: "பிரபஞ்சத்தில் உயிரினங்கள் தோன்றுவது பற்றிய ஆய்வு."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcbe-feeb-11ef-80fb-29a65bc2a44b.mp4"
     links:
         -  https://www.genome.gov
         - https://www.genetics.edu.au
