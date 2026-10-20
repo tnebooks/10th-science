@@ -515,3 +515,199 @@ http://aplusphysics.com/courses/honors/thermo/thermal_physics.html
 - உங்கள் உலாவியில் flash player இல்லையென்றால் அதனை நிறுவவும்.
 
 **உரலி:** http://www.physics-chemistry-interactive-flash-animation.com/matter_change_state_measurement_mass_volume/pressure_volume_boyle_mariotte_law_ideal_gas_closed_system_MCQ.htm
+
+---
+
+## அரசு பொதுத்தேர்வு வினாக்கள் (Board Examination Questions)
+
+### 2 மதிப்பெண் வினாக்கள் (2 Marks)
+
+#### வினா Q15 (2023 • 2 மதிப்பெண்கள்)
+
+ஒரு கலோரி – வரையறுக்கவும்.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**ஒரு கலோரி வரையறை**
+**1 கிராம் நிறையுள்ள நீரின்** வெப்பநிலையை **$1^\circ\text{C}$ உயர்த்தத்** தேவைப்படும் வெப்ப ஆற்றலின் அளவு **ஒரு கலோரி** என வரையறுக்கப்படுகிறது.
+
+$$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
+
+</div>
+
+</details>
+
+---
+
+#### வினா Q13 (2024 • 2 மதிப்பெண்கள்)
+
+தோற்ற வெப்ப விரிவு குணகம் என்றால் என்ன?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**தோற்ற வெப்ப விரிவு குணகம்**
+ஓரலகு வெப்பநிலை உயர்வினால் ($1\text{ K}$ அல்லது $1^\circ\text{C}$) ஒரு திரவத்தில் ஏற்படும் தோற்ற பருமன் அதிகரிப்பிற்கும் அத்திரவத்தின் தொடக்க பருமனுக்கும் உள்ள தகவு **தோற்ற வெப்ப விரிவு குணகம்** எனப்படும் (கொள்கலனின் விரிவைக் கணக்கில் கொள்ளாமல்).
+
+அலகு: $\text{K}^{-1}$ அல்லது $^\circ\text{C}^{-1}$.
+
+</div>
+
+</details>
+
+---
+
+#### வினா Q13 (2025 • 2 மதிப்பெண்கள்)
+
+ஒரு கலோரி – வரையறு.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**ஒரு கலோரி வரையறை**
+**1 கிராம் நிறையுள்ள நீரின்** வெப்பநிலையை **$1^\circ\text{C}$ உயர்த்தத்** தேவைப்படும் வெப்ப ஆற்றலின் அளவு **ஒரு கலோரி** எனப்படும்.
+
+$$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
+
+</div>
+
+</details>
+
+---
+
+#### வினா Q13 (2026 • 2 மதிப்பெண்கள்)
+
+பாயில் விதியைக் கூறுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**பாயில் விதி**
+மாறா வெப்பநிலையில், குறிப்பிட்ட நிறையுடைய வாயுவின் அழுத்தமானது அதன் பருமனுக்கு எதிர்த்தகவில் அமையும்.
+
+$$P \propto \frac{1}{V}$$
+$$P \cdot V = \text{மாறிலி}$$
+
+</div>
+
+</details>
+
+---
+
+### 4 மதிப்பெண் வினாக்கள் (4 Marks)
+
+#### வினா Q23 (2025 • 4 மதிப்பெண்கள்)
+
+நல்லியல்பு வாயு சமன்பாட்டினைத் தருவி.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**நல்லியல்பு வாயு சமன்பாடு தருவித்தல்**
+வாயு விதிகளான பாயில் விதி, சார்லஸ் விதி மற்றும் அவகாட்ரோ விதியினை இணைத்து இச்சமன்பாடு பெறப்படுகிறது.
+
+1. **பாயில் விதிப்படி:**
+   $$V \propto \frac{1}{P} \quad (T, n \text{ மாறிலிகள்})$$
+2. **சார்லஸ் விதிப்படி:**
+   $$V \propto T \quad (P, n \text{ மாறிலிகள்})$$
+3. **அவகாட்ரோ விதிப்படி:**
+   $$V \propto n \quad (P, T \text{ மாறிலிகள்})$$
+
+மூன்று விதிகளையும் இணைக்க:
+$$V \propto \frac{n T}{P}$$
+$$P V \propto n T$$
+
+$$\mathbf{P V = n R T}$$
+
+இங்கு $R$ என்பது பொது வாயு மாறிலி ஆகும்.
+
+</div>
+
+</details>
+
+---
+
+#### வினா Q24 (2026 • 4 மதிப்பெண்கள்)
+
+பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+
+(அ) நீள் வெப்ப விரிவு மற்றும் பரப்பு வெப்ப விரிவு – வேறுபடுத்துக.
+
+(ஆ) உண்மை வெப்ப விரிவு குணகம் என்றால் என்ன?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**(அ) நீள் vs பரப்பு வெப்ப விரிவு**
+- **நீள் வெப்ப விரிவு:** வெப்பத்தினால் திடப்பொருளின் நீளத்தில் ஏற்படும் அதிகரிப்பு.
+- **பரப்பு வெப்ப விரிவு:** வெப்பத்தினால் திடப்பொருளின் பரப்பளவில் ஏற்படும் அதிகரிப்பு.
+
+**(ஆ) உண்மை வெப்ப விரிவு குணகம்**
+கொள்கலனின் விரிவைக் கணக்கில் கொண்டு, ஓரலகு வெப்பநிலை உயர்வினால் திரவத்தில் ஏற்படும் உண்மை பருமன் அதிகரிப்பிற்கும் அத்திரவத்தின் தொடக்க பருமனுக்கும் உள்ள தகவு **உண்மை வெப்ப விரிவு குணகம்** எனப்படும்.
+
+</div>
+
+</details>
+
+---
+
+#### வினா Q32 (2026 • 4 மதிப்பெண்கள்)
+
+70 மி.லி கொள்ளளவு உள்ள கொள்கலனில் 50 மி.லி திரவம் நிரப்பப்பட்டுள்ளது. திரவம் அடங்கிய கொள்கலனை வெப்பப்படுத்தும் போது திரவத்தின் நிலை முதலில் குறைந்து பின் உயர்கிறது. உண்மை மற்றும் தோற்ற விரிவு அடிப்படையில் விளக்குக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**உண்மை மற்றும் தோற்ற விரிவு விளக்கம்**
+1. கொள்கலனை வெப்பப்படுத்தும் போது முதலில் பாத்திரம் வெப்பமடைந்து விரிவடைகிறது; எனவே திரவத்தின் மட்டம் $L_1$-லிருந்து $L_2$-க்குக் குறைகிறது.
+2. பின்னர் திரவம் வெப்பமடையும் போது, பாத்திரத்தை விட திரவம் அதிகமாக விரிவடைந்து மட்டம் $L_2$-லிருந்து $L_3$-க்கு உயர்கிறது.
+
+- **தோற்ற விரிவு:** $L_3 - L_1$
+- **உண்மை விரிவு:** $L_3 - L_2$
+$$\mathbf{\text{உண்மை விரிவு} = \text{தோற்ற விரிவு} + \text{கொள்கலன் விரிவு}}$$
+
+</div>
+
+</details>
+
+---
+
+### 7 மதிப்பெண் வினாக்கள் (7 Marks)
+
+#### வினா Q33 [தெரிவு ஆ(i)] (2024 • 7 மதிப்பெண்கள்)
+
+பாயில் விதி மற்றும் சார்லஸ் விதியைக் கூறுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**(i) வாயு விதிகள்**
+- **பாயில் விதி:** மாறா வெப்பநிலையில், குறிப்பிட்ட நிறையுள்ள வாயுவின் அழுத்தம் அதன் பருமனுக்கு எதிர்த்தகவில் அமையும் ($P \propto 1/V$).
+- **சார்லஸ் விதி:** மாறா அழுத்தத்தில், குறிப்பிட்ட நிறையுள்ள வாயுவின் பருமன் அதன் கெல்வின் வெப்பநிலைக்கு நேர்த்தகவில் அமையும் ($V \propto T$).
+
+**(ii) நிறை vs எடை**
+- **நிறை:** பொருளில் உள்ள பருப்பொருளின் அளவு; ஸ்கேலார் அளவு; அலகு கி.கி; எங்கும் மாறாது.
+- **எடை:** பொருளின் மீது செயல்படும் ஈர்ப்பு விசை ($W = mg$); வெக்டர் அளவு; அலகு நியூட்டன்; இடத்திற்கு இடம் மாறும்.
+
+</div>
+
+</details>
+
+---

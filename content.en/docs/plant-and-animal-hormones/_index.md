@@ -659,3 +659,137 @@ d. Both A and R are false
 
 *10th Standard Science - Plant and Animal Hormones*
 ```
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q18 (2025 • 2-marks)
+
+What is Bolting ? How can it be induced artificially ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Bolting**
+**Bolting** is the sudden elongation of internodes followed by flowering in rosette plants (like cabbage and beet) just prior to reproduction.
+
+**Artificial Induction:**
+Bolting can be induced artificially by treatment with **Gibberellins** under non-inductive conditions.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q18 (2026 • 2-marks)
+
+Write the differences between endocrine and exocrine glands.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Differences between Endocrine and Exocrine Glands**
+
+| Feature | Exocrine Glands | Endocrine Glands |
+|---|---|---|
+| **Ducts** | Possess ducts to discharge secretions. | Ductless glands; secrete directly into bloodstream. |
+| **Secretions** | Enzymes, sweat, saliva, mucus. | Hormones (chemical messengers). |
+| **Site of Action** | Local site (near the gland). | Target organs located far from the gland. |
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q35 [Option a(i, ii)] (2023 • 7-marks)
+
+(i) Which hormone induces parthenocarpy in tomatoes ?
+(ii) Why is thyroid hormone called 'personality hormone' ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Parthenocarpy in Tomatoes**
+**Gibberellins** (and Auxins) induce the development of seedless fruit (parthenocarpy) in tomatoes.
+
+**(ii) Thyroid Hormone as Personality Hormone**
+Thyroid hormone (Thyroxine) regulates basal metabolic rate (BMR), body temperature, physical, mental, and sexual development. Since it directly influences physical and mental personality development, it is termed the **'personality hormone'**.
+
+**(iii) Lamarck's Principles of Evolution**
+1. **Internal vital force:** All living organisms have an innate tendency to increase in size and complexity.
+2. **Appetency / Environmental influence:** Changing environment creates new needs, prompting organisms to develop new structures.
+3. **Use and Disuse theory:** Organs used continuously develop and strengthen (e.g., long neck of giraffe), while unused organs degenerate (e.g., vestigial wings of kiwi).
+4. **Inheritance of Acquired Characters:** Favourable modifications acquired during an individual's lifetime are transmitted to subsequent generations.
+
+---
+
+</div>
+
+</details>
+
+---
+
+#### Question Q35 [Option a(i)] (2024 • 7-marks)
+
+What are synthetic auxins ? Give example.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Synthetic Auxins**
+Artificially synthesised chemical compounds that exhibit physiological actions similar to natural auxins are called **synthetic auxins**.
+- *Example:* 2,4-D (2,4-Dichlorophenoxyacetic acid), NAA (Naphthalene acetic acid), IBA.
+
+**(ii) Structure of an Angiosperm Ovule**
+1. **Funiculus:** The stalk attaching the ovule to the placenta.
+2. **Hilum:** Point of attachment of the funicle with the body of the ovule.
+3. **Integuments:** One or two outer protective coats enveloping the nucellus.
+4. **Micropyle:** Small pore at the apex where integuments do not fuse, allowing pollen tube entry.
+5. **Nucellus:** Central nutritive parenchymatous tissue.
+6. **Embryo Sac (Female gametophyte):** Contains 7 cells and 8 nuclei:
+   - 3 antipodal cells at chalazal end
+   - 2 synergids and 1 egg cell (egg apparatus) at micropylar end
+   - 1 large central cell with 2 polar nuclei.
+
+---
+
+</div>
+
+</details>
+
+---
+
+#### Question Q35 [Option b(ii)] (2025 • 7-marks)
+
+Write the structure and functions of thyroid gland.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) Thyroid Gland**
+- Bilobed endocrine gland situated on either side of the trachea in the neck.
+- Secretes **Thyroxine ($T_4$)** and **Triiodothyronine ($T_3$)**.
+- Functions: Regulates basal metabolic rate (BMR), body temperature, mental and physical development.
+
+</div>
+
+</details>
+
+---

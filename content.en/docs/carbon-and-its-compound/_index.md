@@ -669,3 +669,226 @@ They have highly branched hydrocarbon chains, which cannot be degraded by micro-
 - Detergents are sodium salts of sulphonic acids. Thus instead of –COOH group in soaps, detergents contain –SO₃H group.
 
 ---
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q16 (2025 • 2-marks)
+
+Match the following :
+
+1. Functional group -OH - (i) Benzene
+2. Heterocyclic compounds - (ii) Potassium stearate
+3. Unsaturated compounds - (iii) Alcohol
+4. Soap - (iv) Furan
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Correct Matching**
+1. **Functional group -OH:** Alcohol (iii)
+2. **Heterocyclic compounds:** Furan (iv)
+3. **Unsaturated compounds:** Benzene (i) (or Ethene)
+4. **Soap:** Potassium stearate (ii)
+
+**Matches:** 1-(iii), 2-(iv), 3-(i), 4-(ii).
+
+</div>
+
+</details>
+
+---
+
+#### Question Q16 (2026 • 2-marks)
+
+Name the simplest Ketone and give its structural formula.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Simplest Ketone**
+- **Name:** Propanone (commonly known as **Acetone**).
+- **Molecular Formula:** $\text{CH}_3\text{COCH}_3$
+- **Structural Formula:**
+  ```
+        O
+        ||
+  CH3 - C - CH3
+  ```
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q27 (2023 • 4-marks)
+
+Explain the mechanism of cleansing action of soap.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Cleansing Action of Soap**
+A soap molecule has two chemically distinct ends:
+1. **Hydrophilic end (Polar head):** Water-loving ionic carboxylate group (e.g., $-\text{COO}^- \text{Na}^+$).
+2. **Hydrophobic end (Non-polar tail):** Water-hating long hydrocarbon chain that dissolves in oil and grease.
+
+**Mechanism (Micelle Formation):**
+- When soap is added to water containing oily dirt on cloth, the hydrophobic tails attach themselves to the oil/grease droplet, while the hydrophilic polar heads point outwards into the surrounding water.
+- This forms spherical structures called **micelles**.
+- The negatively charged heads on the surface of micelles repel each other, preventing them from coming together and precipitating.
+- On rinsing with water, the trapped oily dirt within the micelles is washed away, leaving the fabric clean.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q28 (2025 • 4-marks)
+
+Explain the mechanism of cleansing action of soap.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Mechanism of Cleansing Action of Soap**
+Soap molecules consist of two chemically distinct parts:
+1. **Ionic Hydrophilic Head ($-\text{COO}^- \text{Na}^+$):** Attracted to water molecules.
+2. **Hydrocarbon Hydrophobic Tail:** Repelled by water, dissolves in grease and oil.
+
+**Micelle Formation & Cleansing:**
+- In water, soap molecules arrange themselves radially into spherical clusters called **micelles**.
+- The hydrophobic tails dissolve into the center of the oily dirt droplet, while the ionic heads project outward into water.
+- Mutual repulsion among like charges of the heads keeps the micelles suspended as an emulsion.
+- Agitation and rinsing with water lifts the trapped dirt micelles from fabric, leaving it clean.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q28 (2026 • 4-marks)
+
+How is ethanoic acid prepared from ethanol ? Write the chemical equation.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Preparation of Ethanoic Acid from Ethanol**
+Ethanoic acid is prepared by the **oxidation of ethanol** using alkaline potassium permanganate ($\text{KMnO}_4$) or acidified potassium dichromate ($\text{K}_2\text{Cr}_2\text{O}_7$) as oxidising agents.
+
+**Chemical Equation:**
+$$\text{CH}_3\text{CH}_2\text{OH} + 2[\text{O}] \xrightarrow{\text{alkaline } \text{KMnO}_4 / \Delta} \text{CH}_3\text{COOH} + \text{H}_2\text{O}$$
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q34 [Option b(iii)] (2023 • 7-marks)
+
+Give any three characteristics of homologous series.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(iii) Characteristics of Homologous Series**
+1. Successive members differ by a $-\text{CH}_2-$ unit and a molecular mass of $14\text{ amu}$.
+2. All members can be represented by a common general molecular formula.
+3. Members possess identical chemical properties and exhibit a regular gradation in physical properties.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q34 [Option b(ii)] (2024 • 7-marks)
+
+What is homologous series ? Write its characteristics.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) Homologous Series**
+A series of structurally related organic compounds containing the same functional group:
+1. Successive members differ by $-\text{CH}_2-$ unit and $14\text{ amu}$ molecular mass.
+2. Share identical chemical properties.
+3. Display gradation in physical properties (melting point, boiling point).
+
+</div>
+
+</details>
+
+---
+
+#### Question Q34 [Option b(ii)] (2025 • 7-marks)
+
+What is homologous series ? Give any two characteristics.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) Homologous Series**
+A family of organic compounds with same functional group:
+1. Successive members differ by $-\text{CH}_2-$ unit and molecular mass of $14\text{ amu}$.
+2. Possess same chemical properties.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q34 [Option b] (2026 • 7-marks)
+
+(b) (i) Write the rules for IUPAC nomenclature of organic compounds with examples.
+(ii) What is a functional group ? Give two examples.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (b)**
+**(i) IUPAC Nomenclature Rules**
+1. Select the longest continuous carbon chain (root word).
+2. Number the carbon chain from the end closest to the functional group / substituent.
+3. Add primary and secondary prefixes for substituents and suffixes for principal functional groups.
+
+**(ii) Functional Group**
+An atom or group of atoms in an organic molecule that determines its characteristic chemical properties.
+- Examples: Hydroxyl group ($-\text{OH}$ in alcohols), Aldehyde group ($-\text{CHO}$).
+
+</div>
+
+</details>
+
+---

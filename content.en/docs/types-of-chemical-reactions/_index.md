@@ -979,3 +979,115 @@ d. high temperature
 3. What is the pH of 1.0 × 10⁻⁵ molar solution of KOH?
 4. The hydroxide ion concentration of a solution is 1 × 10⁻¹¹ M. What is the pH of the solution?
 
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q22 (2024 • 2-marks)
+
+If the pH of a solution is 4.5, find the value of its pOH.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Solution**
+The relationship between $\text{pH}$ and $\text{pOH}$ at $25^\circ\text{C}$ is:
+$$\text{pH} + \text{pOH} = 14$$
+
+Given:
+$$\text{pH} = 4.5$$
+
+$$\text{pOH} = 14 - \text{pH} = 14 - 4.5 = \mathbf{9.5}$$
+
+**Answer:** The $\text{pOH}$ of the solution is **$9.5$**.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q32 (a) (2023 • 4-marks)
+
+Find the pH of 0.01 M $\text{HNO}_3$ solution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) pH of 0.01 M $\text{HNO}_3$ Solution**
+$\text{HNO}_3$ is a strong acid and dissociates completely:
+$$\text{HNO}_3 \rightarrow \text{H}^+ + \text{NO}_3^-$$
+$$[\text{H}^+] = 0.01\text{ M} = 10^{-2}\text{ M}$$
+
+$$\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-2}) = -(-2) = \mathbf{2}$$
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q34 [Option b(i, ii)] (2023 • 7-marks)
+
+(i) Differentiate reversible and irreversible reaction.
+(ii) What is neutralization reaction ? Give an example.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Reversible vs Irreversible Reaction**
+- **Reversible reaction:** Can proceed in both forward and backward directions; equilibrium is attained; represented by $\rightleftharpoons$.
+- **Irreversible reaction:** Proceeds in only one (forward) direction; proceeds to completion; represented by $\rightarrow$.
+
+**(ii) Neutralization Reaction**
+A reaction in which an acid reacts with a base to form salt and water is called a neutralization reaction.
+$$\text{HCl} + \text{NaOH} \rightarrow \text{NaCl} + \text{H}_2\text{O}$$
+
+**(iii) Characteristics of Homologous Series**
+1. Successive members differ by a $-\text{CH}_2-$ unit and a molecular mass of $14\text{ amu}$.
+2. All members can be represented by a common general molecular formula.
+3. Members possess identical chemical properties and exhibit a regular gradation in physical properties.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q34 [Option b(i)] (2025 • 7-marks)
+
+Explain combination and decomposition chemical reactions with suitable examples.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Combination and Decomposition Reactions**
+- **Combination Reaction:** Two or more reactants combine to form a single product.
+  $$\text{C} + \text{O}_2 \rightarrow \text{CO}_2$$
+- **Decomposition Reaction:** A single compound breaks down into two or more simpler substances.
+  $$2\text{Pb(NO}_3)_2 \xrightarrow{\Delta} 2\text{PbO} + 4\text{NO}_2 + \text{O}_2$$
+
+**(ii) Homologous Series**
+A family of organic compounds with same functional group:
+1. Successive members differ by $-\text{CH}_2-$ unit and molecular mass of $14\text{ amu}$.
+2. Possess same chemical properties.
+
+</div>
+
+</details>
+
+---

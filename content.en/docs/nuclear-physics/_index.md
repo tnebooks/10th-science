@@ -523,5 +523,141 @@ disintegrations in one second.
 1. Physics concepts and connections – by Art Hobson Edition: Pearson education
 2. Modern Physics – by Dr. R Murugesan & Er. Kiruthiga Sivaprasath – S. Chand publications
 
+---
 
+## Board Examination Questions
 
+### 2 Marks
+
+#### Question Q22 (2023 • 2-marks)
+
+Calculate the amount of energy released when a radioactive substance undergoes fusion and results in a mass defect of 2 kg.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Solution**
+According to Einstein's mass-energy equivalence equation:
+
+$$E = \Delta m \cdot c^2$$
+
+Given:
+- Mass defect ($\Delta m$) = $2\text{ kg}$
+- Velocity of light ($c$) = $3 \times 10^8\text{ m s}^{-1}$
+
+Calculation:
+$$E = 2 \times (3 \times 10^8)^2$$
+$$E = 2 \times (9 \times 10^{16})$$
+$$E = 1.8 \times 10^{17}\text{ Joules}$$
+
+**Answer:** The amount of energy released is **$1.8 \times 10^{17}\text{ J}$**.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q24 (a) (2024 • 4-marks)
+
+Write any three properties of natural and artificial radioactivity.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Differences between Natural and Artificial Radioactivity**
+
+| Feature | Natural Radioactivity | Artificial Radioactivity |
+|---|---|---|
+| **Origin** | Spontaneous emission from heavy nuclei ($Z > 83$). | Induced emission produced by bombarding light nuclei. |
+| **Emissions** | Emits $\alpha$, $\beta$, and $\gamma$ rays. | Mostly emits neutrons, positrons, etc. |
+| **Control** | Cannot be controlled. | Can be controlled. |
+
+</div>
+
+</details>
+
+---
+
+#### Question Q25 (2025 • 4-marks)
+
+Compare the properties of alpha, beta and gamma radiation.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Comparison of $\alpha$, $\beta$ and $\gamma$ Radiations**
+
+| Property | $\alpha$ rays | $\beta$ rays | $\gamma$ rays |
+|---|---|---|---|
+| **Nature** | Helium nuclei ($_{2}^{4}\text{He}^{2+}$) | Fast moving electrons ($_{-1}^{0}e$) | High energy electromagnetic photons |
+| **Charge** | $+2e$ | $-e$ | Neutral (Zero) |
+| **Ionising Power** | Very high (100 times of $\beta$, 10,000 times of $\gamma$) | Moderate | Very low |
+| **Penetrating Power** | Very low (stopped by thin paper) | Moderate (penetrates thin sheet of aluminium) | Very high (penetrates thick lead blocks) |
+| **Speed** | $\approx 1/10$ to $1/20$ speed of light | Up to $90\%$ speed of light | Travels at speed of light ($c$) |
+
+</div>
+
+</details>
+
+---
+
+#### Question Q26 (2026 • 4-marks)
+
+Answer the following questions:
+
+(i) Why do some children born in Japan after World War II suffer from congenital defects ?
+
+(ii) Mention any two applications of radioisotopes in agriculture.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Congenital Defects in Japan Post-WWII**
+During World War II, atomic bombs dropped on Hiroshima and Nagasaki released enormous amounts of penetrating nuclear radiation (gamma rays and neutrons). This ionising radiation induced genetic mutations in the germ cells (gametes) of exposed survivors, which were inherited by their offspring, resulting in severe congenital deformities.
+
+**(ii) Radioisotopes in Agriculture**
+1. **Phosphorus-32 ($^{32}\text{P}$):** Used to trace nutrient uptake and optimal fertilizer utilization in crops.
+2. **Cobalt-60 ($^{60}\text{Co}$):** Radiation used for grain preservation and preventing sprouting in onions and potatoes.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q33 [Option b(ii)] (2023 • 7-marks)
+
+What is a nuclear reactor ? Explain its essential parts with their functions.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) Nuclear Reactor & Essential Parts**
+A nuclear reactor is a device in which a self-sustaining controlled nuclear fission chain reaction is initiated and maintained to generate energy.
+
+- **Fuel:** Fissile material such as Uranium-235 ($^{235}\text{U}$) or Plutonium-239 ($^{239}\text{Pu}$).
+- **Moderator:** Slows down fast neutrons to thermal neutrons (e.g., Heavy water $\text{D}_2\text{O}$, graphite).
+- **Control Rods:** Absorbs excess neutrons to control reaction rate (e.g., Cadmium or Boron rods).
+- **Coolant:** Absorbs heat generated in the core and transfers it to the steam generator (e.g., Water, liquid sodium).
+- **Shielding:** Thick lead and concrete walls protect the environment from radioactive radiation.
+
+</div>
+
+</details>
+
+---

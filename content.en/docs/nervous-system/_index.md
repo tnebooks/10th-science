@@ -280,3 +280,143 @@ HUMAN NERVOUS SYSTEM
 └── Autonomic Nervous System
     ├── Parasympathetic Nerves
     └── Sympathetic Nerves
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q18 (2023 • 2-marks)
+
+What are the structures involved in the protection of brain ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Structures Involved in the Protection of the Brain**
+1. **Cranium (Skull):** A hard, rigid bony box that protects the brain from external mechanical injuries.
+2. **Meninges (Three connective tissue membranes):**
+   - **Duramater** (outer thick membrane)
+   - **Arachnoid membrane** (middle web-like membrane)
+   - **Piamater** (inner thin, highly vascular membrane)
+3. **Cerebrospinal Fluid (CSF):** Acts as a shock-absorbing fluid cushioning the brain against sudden mechanical shocks.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q19 (2023 • 2-marks)
+
+Identify the parts A, B, C and D in the given figure of a Neuron.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Identification of Parts of a Neuron**
+- **A:** Dendrite (Dendron)
+- **B:** Cyton (Cell Body / Soma)
+- **C:** Axon
+- **D:** Node of Ranvier / Axon terminal
+
+</div>
+
+</details>
+
+---
+
+#### Question Q18 (2024 • 2-marks)
+
+What are the parts of the hind brain ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Parts of the Hindbrain (Rhombencephalon)**
+The hindbrain consists of three main regions:
+1. **Cerebellum:** Coordinates voluntary muscular movements and maintains body posture and balance.
+2. **Pons:** Acts as a bridge connecting different parts of the brain and regulates sleep-wake cycles and respiration.
+3. **Medulla Oblongata:** Connects the brain to the spinal cord and houses vital reflex centers (cardiovascular, respiratory, swallowing, vomiting).
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q28 (b) (2024 • 4-marks)
+
+How are neurons classified based on structure ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(b) Structural Classification of Neurons**
+1. **Unipolar neurons:** Single process acts as both axon and dendrite (found in early embryos).
+2. **Bipolar neurons:** Two processes, one axon and one dendrite (found in retina and olfactory epithelium).
+3. **Multipolar neurons:** One axon and many dendrites (found in cerebral cortex).
+
+</div>
+
+</details>
+
+---
+
+#### Question Q30 (2025 • 4-marks)
+
+With a neat labelled diagram, explain the structure of a neuron.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Structure of a Neuron**
+A neuron (nerve cell) is the structural and functional unit of the nervous system, consisting of three main parts:
+
+1. **Cyton (Cell body / Soma):**
+   - Contains central nucleus, granular cytoplasm, neurofibrils, and Nissl's granules.
+2. **Dendrites:**
+   - Multiple branched projections transmitting impulses **towards the cyton**.
+3. **Axon:**
+   - Single elongated cylindrical process covered by myelin sheath and Schwann cells, transmitting impulses **away from the cyton**.
+   - Gaps in the myelin sheath are known as **Nodes of Ranvier**.
+   - Terminates in synaptic knobs containing neurotransmitters (acetylcholine).
+
+</div>
+
+</details>
+
+---
+
+#### Question Q30 (2026 • 4-marks)
+
+Classify Neurons based on its structure.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Structural Classification of Neurons**
+1. **Unipolar Neurons:** Single nerve process arises from cyton which acts as both axon and dendrite (found in early embryonic stages).
+2. **Bipolar Neurons:** Cyton gives rise to two processes: one axon and one dendrite (found in retina of eye and olfactory epithelium).
+3. **Multipolar Neurons:** Cyton gives rise to many dendrites and one long axon (found in the cerebral cortex of brain).
+
+</div>
+
+</details>
+
+---

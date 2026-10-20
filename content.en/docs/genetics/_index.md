@@ -301,3 +301,104 @@ Gene mutation is the changes occurring in nucleotide sequence of a gene. It invo
 
 ---
 
+---
+
+## Board Examination Questions
+
+### 4 Marks
+
+#### Question Q31 (2023 • 4-marks)
+
+Answer the following questions:
+
+(a) What do you understand by the term phenotype and genotype ?
+
+(b) What are allosomes ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Phenotype and Genotype**
+- **Phenotype:** The observable physical expression of a genetic trait in an organism (e.g., Tall or Dwarf).
+- **Genotype:** The genetic constitution or gene complement of an organism for a particular trait (e.g., $TT$, $Tt$, or $tt$).
+
+**(b) Allosomes**
+**Allosomes** (sex chromosomes) are chromosomes that are primarily involved in determining the biological sex of an organism. In humans, the $23^{\text{rd}}$ pair of chromosomes ($X$ and $Y$) are allosomes ($XX$ in females and $XY$ in males).
+
+</div>
+
+</details>
+
+---
+
+#### Question Q28 (a) (2024 • 4-marks)
+
+Why is Euploidy considered advantageous in plants and animals ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Advantages of Euploidy**
+1. Polyploid plants frequently exhibit gigas characteristics: larger flowers, larger fruits, and increased biomass.
+2. Polyploidy induces seedlessness in commercially valuable fruits (e.g., triploid bananas, watermelons).
+3. Polyploids often exhibit superior disease resistance and climatic adaptability.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q35 [Option b(i)] (2025 • 7-marks)
+
+Describe Mendel's monohybrid cross with a checker board.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Mendel's Monohybrid Cross**
+- Cross between pure breeding Tall ($TT$) and Dwarf ($tt$) pea plants.
+- $F_1$ Generation: All Tall plants ($Tt$).
+- $F_2$ Generation (Selfing $Tt \times Tt$):
+  - Phenotypic ratio: **3 Tall : 1 Dwarf**
+  - Genotypic ratio: **1 $TT$ : 2 $Tt$ : 1 $tt$**
+
+**(ii) Thyroid Gland**
+- Bilobed endocrine gland situated on either side of the trachea in the neck.
+- Secretes **Thyroxine ($T_4$)** and **Triiodothyronine ($T_3$)**.
+- Functions: Regulates basal metabolic rate (BMR), body temperature, mental and physical development.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q35 [Option b(ii)] (2026 • 7-marks)
+
+Explain the salient features of the Watson and Crick DNA double helix model.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) Watson-Crick DNA Double Helix Model**
+1. Double-stranded right-handed helical ladder structure.
+2. Strands are anti-parallel ($5' \rightarrow 3'$ and $3' \rightarrow 5'$).
+3. Complementary base pairing: Adenine pairs with Thymine ($A=T$, 2 hydrogen bonds), Guanine pairs with Cytosine ($G \equiv C$, 3 hydrogen bonds).
+4. Pitch of helix is $3.4\text{ nm}$ ($34\text{ Å}$), with approximately 10 base pairs per helical turn.
+
+</div>
+
+</details>
+
+---

@@ -389,3 +389,107 @@ The concept map shows comparative organization of Leech and Rabbit:
   - Excretion: Metanephric Kidney
   - Reproduction: Sexual Dimorphism (Testis in Male and Ovary in Female)
 ```
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q17 (2023 • 2-marks)
+
+List out the parasitic adaptations in leech.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Parasitic Adaptations in Leech**
+1. **Suckers:** Anterior and posterior suckers help in attachment and feeding.
+2. **Triradiate jaws:** The mouth contains three chitinous teeth in the muscular pharynx to produce a painless Y-shaped incision.
+3. **Hirudin:** Salivary glands secrete hirudin, an anticoagulant that prevents blood from clotting.
+4. **Crop:** The presence of crop and crop caeca allows the storage of large amounts of ingested blood for months.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q27 (2024 • 4-marks)
+
+Write the dental formula of rabbit.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Dental Formula of Rabbit**
+The dentition of rabbit is heterodont with incisors ($I$), canines ($C$ - absent, forming diastema), premolars ($PM$), and molars ($M$):
+
+$$\text{Dental Formula of Rabbit} = \frac{I: 2/1,\ C: 0/0,\ PM: 3/2,\ M: 3/3}{I: 2/1,\ C: 0/0,\ PM: 3/2,\ M: 3/3}$$
+Or simply:
+$$\mathbf{\frac{2033}{1023}}$$
+
+Total number of teeth in adult rabbit = $(2 + 0 + 3 + 3) \times 2 + (1 + 0 + 2 + 3) \times 2 = 16 + 12 = \mathbf{28}$.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q29 (2025 • 4-marks)
+
+How does locomotion take place in leech ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Locomotion in Leech**
+Leeches exhibit two distinct types of movement:
+
+1. **Looping or Crawling Movement (on substratum):**
+   - Brought about by the alternating contraction and relaxation of circular and longitudinal muscles together with anterior and posterior suckers.
+   - Leech fixes its posterior sucker, stretches forward by contracting circular muscles, attaches anterior sucker, releases posterior sucker, contracts longitudinal muscles, and brings posterior sucker forward forming a loop.
+
+2. **Swimming Movement (in water):**
+   - Leeches swim actively in water by executing undulating dorso-ventral wave movements of the flattened body.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q29 (2026 • 4-marks)
+
+Answer the following questions:
+
+(i) Why are cartilaginous rings present in the trachea of rabbit ?
+
+(ii) List any two parasitic adaptations in leech.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Cartilaginous Rings in Trachea**
+The wall of the trachea is supported by incomplete C-shaped cartilaginous rings to keep the airway open and prevent the tracheal tube from collapsing during expiration when air pressure inside drops.
+
+**(ii) Parasitic Adaptations in Leech**
+1. **Hirudin:** Anticoagulant secreted by salivary glands preventing blood from clotting.
+2. **Triradiate jaws with suckers:** Help in painless attachment and suckling of host blood.
+
+</div>
+
+</details>
+
+---

@@ -510,3 +510,134 @@ The parents and teachers are to create awareness among the school girls about th
 > **Info bits:** The menstrual hygiene scheme to provide subsidized sanitary napkins was launched by the Health ministry in 2011. In Tamil Nadu, UNICEF has developed an affordable incinerator that uses firewood to handle sanitary napkin waste at schools and special wells are equipped where sanitary napkins are disposed.
 
 ---
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q20 (2024 • 2-marks)
+
+What is colostrum ? How is milk production hormonally regulated ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Colostrum and Hormonal Regulation of Lactation**
+1. **Colostrum:** The yellowish mammary secretion produced in the initial 2-3 days following childbirth. It is rich in proteins, minerals, and maternal antibodies (specifically $\text{IgA}$) providing passive immunity to the newborn.
+2. **Hormonal Regulation:**
+   - **Prolactin:** Secreted by anterior pituitary, stimulates **milk synthesis and secretion**.
+   - **Oxytocin:** Secreted by posterior pituitary, stimulates **milk ejection / let-down reflex**.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q19 (2026 • 2-marks)
+
+How can menstrual hygiene be maintained during menstruation ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Menstrual Hygiene Maintenance**
+1. Change sanitary pads regularly every 4 to 6 hours to prevent bacterial infection.
+2. Wash external genitalia with warm clean water.
+3. Dispose of used sanitary pads hygienically wrapped in paper, never dumping into open drains.
+4. Wear clean, loose cotton undergarments.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q35 [Option b(i)] (2023 • 7-marks)
+
+Explain the structure of a flower with a neat diagram.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Structure of a Flower**
+A typical flower consists of four concentric whorls:
+1. **Calyx:** Outermost whorl of green sepals that protect the flower in bud stage.
+2. **Corolla:** Second whorl of brightly coloured petals that attract pollinators.
+3. **Androecium:** Male reproductive organ consisting of stamens (filament and pollen-producing anther).
+4. **Gynoecium (Pistil):** Female reproductive organ consisting of stigma, style, and ovary containing ovules.
+
+**(ii) AIDS - Symptoms and Prevention**
+- **Symptoms:** Prolonged fever, chronic diarrhoea, severe weight loss, swollen lymph nodes, opportunistic infections.
+- **Prevention:** Screening donor blood, using disposable syringes, practicing safe sex, avoiding drug abuse, educating public on transmission modes.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q35 [Option a(ii)] (2024 • 7-marks)
+
+Explain the structure of an ovule in angiosperms with a neat labelled diagram.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) Structure of an Angiosperm Ovule**
+1. **Funiculus:** The stalk attaching the ovule to the placenta.
+2. **Hilum:** Point of attachment of the funicle with the body of the ovule.
+3. **Integuments:** One or two outer protective coats enveloping the nucellus.
+4. **Micropyle:** Small pore at the apex where integuments do not fuse, allowing pollen tube entry.
+5. **Nucellus:** Central nutritive parenchymatous tissue.
+6. **Embryo Sac (Female gametophyte):** Contains 7 cells and 8 nuclei:
+   - 3 antipodal cells at chalazal end
+   - 2 synergids and 1 egg cell (egg apparatus) at micropylar end
+   - 1 large central cell with 2 polar nuclei.
+
+---
+
+</div>
+
+</details>
+
+---
+
+#### Question Q35 [Option b(i)] (2026 • 7-marks)
+
+Describe the structure of a human sperm with a neat labelled diagram.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Structure of Human Sperm**
+- **Head:** Contains haploid nucleus and cap-like acrosome containing hyaluronidase enzyme for ovum penetration.
+- **Neck:** Connects head and middle piece, containing proximal and distal centrioles.
+- **Middle Piece:** Contains spiral mitochondria (nebenkern) supplying ATP energy for motility.
+- **Tail:** Long flagellum executing lashing movements for propulsion.
+
+**(ii) Watson-Crick DNA Double Helix Model**
+1. Double-stranded right-handed helical ladder structure.
+2. Strands are anti-parallel ($5' \rightarrow 3'$ and $3' \rightarrow 5'$).
+3. Complementary base pairing: Adenine pairs with Thymine ($A=T$, 2 hydrogen bonds), Guanine pairs with Cytosine ($G \equiv C$, 3 hydrogen bonds).
+4. Pitch of helix is $3.4\text{ nm}$ ($34\text{ Å}$), with approximately 10 base pairs per helical turn.
+
+</div>
+
+</details>
+
+---

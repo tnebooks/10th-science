@@ -585,3 +585,203 @@ From the centre of the Earth, the object is placed at twice the radius of the ea
 
 ---
 
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q13 (2023 • 2-marks)
+
+Define inertia. Give its classification.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition of Inertia**
+The inherent property of a body to resist any change in its state of rest or the state of uniform motion along a straight line, unless it is acted upon by an external unbalanced force, is known as **inertia**.
+
+**Classification of Inertia**
+1. **Inertia of rest:** The resistance of a body to change its state of rest.
+2. **Inertia of motion:** The resistance of a body to change its state of motion.
+3. **Inertia of direction:** The resistance of a body to change its direction of motion.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q23 (2023 • 4-marks)
+
+Deduce the equation of force using Newton's Second Law of Motion.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Deduction of Force Equation**
+Let an object of mass $m$ be moving along a straight line with an initial velocity $u$. After a time interval $t$, an unbalanced external force $F$ changes its velocity to $v$.
+
+1. **Initial momentum of the body:**
+   $$p_i = m u$$
+2. **Final momentum of the body:**
+   $$p_f = m v$$
+3. **Change in momentum:**
+   $$\Delta p = p_f - p_i = m v - m u = m(v - u)$$
+4. **Rate of change of momentum:**
+   $$\frac{\Delta p}{t} = \frac{m(v - u)}{t}$$
+
+By **Newton's Second Law of Motion**, the applied force is directly proportional to the rate of change of momentum:
+$$F \propto \frac{m(v - u)}{t}$$
+
+Since acceleration $a = \frac{v - u}{t}$:
+$$F \propto m a$$
+$$F = k \cdot m a$$
+
+In SI units, the unit of force is chosen such that the proportionality constant $k = 1$.
+
+$$\mathbf{F = m \cdot a}$$
+
+Hence, $\text{Force} = \text{mass} \times \text{acceleration}$.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q23 (2024 • 4-marks)
+
+Explain the various types of inertia with examples.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Types of Inertia with Examples**
+
+1. **Inertia of Rest:** The resistance of an object to change its state of rest.
+   - *Example:* When a bus starts suddenly from rest, standing passengers lean backwards.
+
+2. **Inertia of Motion:** The resistance of an object to change its state of uniform motion.
+   - *Example:* An athlete runs some distance before taking a long jump to gain inertia of motion.
+
+3. **Inertia of Direction:** The resistance of an object to change its direction of motion.
+   - *Example:* When a car takes a sharp turn, passengers lean outwards away from the center of turning.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q33 [Option b(ii)] (2024 • 7-marks)
+
+Distinguish between mass and weight.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) Mass vs Weight**
+- **Mass:** Fundamental quantity; amount of matter in a body; scalar quantity; SI unit is kilogram ($\text{kg}$); remains constant everywhere.
+- **Weight:** Derived quantity; gravitational force acting on a body ($W = mg$); vector quantity; SI unit is Newton ($\text{N}$); varies from place to place.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q33 (2025 • 7-marks)
+
+Answer the following question (Internal Choice):
+
+(a) (i) State and prove the Law of Conservation of Linear Momentum.
+(ii) State the Principle of Moments.
+
+**OR**
+
+(b) (i) State Newton's Second Law of Motion and deduce the equation of force.
+(ii) Differentiate between mass and weight.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (a)**
+**(i) Law of Conservation of Linear Momentum**
+**Statement:** In the absence of an external unbalanced force, the total linear momentum of an interacting system of bodies remains constant.
+
+**Proof:**
+- Let two bodies $A$ and $B$ have masses $m_1, m_2$ and initial velocities $u_1, u_2$ ($u_1 > u_2$).
+- They collide for time $t$, exerting force $F_{BA}$ on $A$ and reaction force $F_{AB}$ on $B$.
+- After collision, velocities become $v_1$ and $v_2$.
+- Force on $B$ due to $A$: $F_{AB} = m_2 \frac{v_2 - u_2}{t}$.
+- Force on $A$ due to $B$: $F_{BA} = m_1 \frac{v_1 - u_1}{t}$.
+- By Newton's Third Law: $F_{AB} = -F_{BA}$.
+$$m_2 \frac{v_2 - u_2}{t} = -m_1 \frac{v_1 - u_1}{t}$$
+$$m_2 v_2 - m_2 u_2 = -m_1 v_1 + m_1 u_1$$
+$$\mathbf{m_1 u_1 + m_2 u_2 = m_1 v_1 + m_2 v_2}$$
+*Total initial momentum = Total final momentum. Hence proved.*
+
+**(ii) Principle of Moments**
+When a body is in rotational equilibrium, the sum of clockwise moments about any pivot point is equal to the sum of anticlockwise moments about the same pivot.
+$$\text{Moment of force} = \text{Force} \times \text{Perpendicular distance}$$
+$$\text{Clockwise moment} = \text{Anticlockwise moment}$$
+
+---
+
+**Option (b)**
+**(i) Newton's Second Law & Force Equation**
+Rate of change of momentum is directly proportional to applied force ($F \propto m(v-u)/t \Rightarrow F = k ma$, $k=1 \Rightarrow \mathbf{F = ma}$).
+
+**(ii) Mass vs Weight**
+- **Mass:** Scalar; quantity of matter in body; measured using physical balance; unit $\text{kg}$; constant everywhere.
+- **Weight:** Vector; gravitational force ($W=mg$); measured using spring balance; unit $\text{N}$; varies with acceleration due to gravity.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q33 [Option a] (2026 • 7-marks)
+
+Answer the following question (Internal Choice):
+
+(a) (i) Explain the various types of inertia with examples.
+(ii) While catching a ball, a cricket fielder pulls his hands backward. Why ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (a)**
+**(i) Types of Inertia**
+1. **Inertia of rest:** Inability of a body to change its state of rest by itself (e.g., leaves detach when tree branches are shaken vigorously).
+2. **Inertia of motion:** Inability to stop moving on its own (e.g., luggage tied on roof of car slips forward when brakes are applied).
+3. **Inertia of direction:** Inability to change direction on its own (e.g., mud flies off tangentially from rotating wheels).
+
+**(ii) Why Cricket Fielder Pulls Hands Backward**
+According to the impulse-momentum theorem ($F = \frac{\Delta p}{\Delta t}$), pulling hands backward increases the time of contact ($\Delta t$) over which the momentum is reduced to zero. Increasing time decreases the impact force ($F$), preventing hand injury.
+
+---
+
+</div>
+
+</details>
+
+---

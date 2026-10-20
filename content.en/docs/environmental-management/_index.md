@@ -470,3 +470,177 @@ Environmental management
             ├── Water Energy
             └── Tidal Energy
 ```
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q21 (2025 • 2-marks)
+
+What will happen if trees are cut down ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Consequences of Cutting Down Trees (Deforestation)**
+1. **Soil Erosion:** Tree roots hold soil together; without trees, topsoil is washed away by rain and wind.
+2. **Rainfall Decline & Drought:** Transpiration is reduced, disrupting rainfall patterns.
+3. **Global Warming:** Atmospheric $\text{CO}_2$ increases, contributing to global warming.
+4. **Loss of Habitat:** Wildlife species lose their shelter, threatening extinction.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q21 (2026 • 2-marks)
+
+Match the following :
+
+(1) Biogas - (i) Energy saving
+(2) Natural gas - (ii) CO2
+(3) Greenhouse gas - (iii) Renewable energy
+(4) CFL bulb - (iv) Methane
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Correct Matches**
+- (1) Biogas: (iii) Renewable energy
+- (2) Natural gas: (iv) Methane
+- (3) Greenhouse gas: (ii) $\text{CO}_2$
+- (4) CFL bulb: (i) Energy saving
+
+Matches: (1)-(iii), (2)-(iv), (3)-(ii), (4)-(i).
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q30 (2023 • 4-marks)
+
+How do rainwater harvesting structures recharge ground water ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Groundwater Recharge through Rainwater Harvesting**
+Rainwater harvesting directly collects and directs runoff rainwater into underground aquifers through specialised structures:
+
+1. **Recharge Pits and Trenches:** Rainwater collected from rooftops is filtered and diverted into porous recharge pits filled with boulders, gravel, and sand, allowing water to percolate smoothly into the water table.
+2. **Percolation Pits:** Water is allowed to seep through the subsoil layers without evaporating or draining away as urban surface runoff.
+3. **Recharge Wells (Borewells and Dug wells):** Filtered roof-runoff is diverted directly into dry or existing wells to immediately elevate the surrounding water table.
+4. **Check Dams and Ooranis:** Traditional water retaining structures trap surface flow across streams, decreasing flow velocity and allowing water to soak deep into the soil over time.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q31 (a) (2024 • 4-marks)
+
+What are the consequences of deforestation ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Consequences of Deforestation**
+1. Severe soil erosion and desertification.
+2. Disruption of water cycle leading to droughts and flash floods.
+3. Loss of natural habitat causing wildlife extinction.
+4. Accumulation of $\text{CO}_2$ resulting in global warming.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q31 (2025 • 4-marks)
+
+Answer the following questions:
+
+(i) What are the consequences of soil erosion ?
+
+(ii) How will you prevent soil erosion ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Consequences of Soil Erosion**
+1. Loss of fertile topsoil containing vital organic humus and mineral nutrients.
+2. Drastic reduction in agricultural productivity.
+3. Siltation of river beds, dams, and water reservoirs causing recurrent floods.
+4. Desertification of fertile lands.
+
+**(ii) Prevention of Soil Erosion**
+1. **Afforestation:** Planting vast tree belts.
+2. **Terrace Farming & Contour Ploughing:** Reducing surface water runoff speed on hill slopes.
+3. **Cover Cropping:** Maintaining grass and legume cover over bare soil.
+4. **Shelter Belts / Windbreaks:** Planting dense tree rows along field borders to break strong wind force.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q31 (2026 • 4-marks)
+
+Enumerate the importance of Forest.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Importance of Forests**
+1. **Ecological Balance:** Forests regulate rainfall, balance oxygen-carbon dioxide levels, and mitigate global warming.
+2. **Soil and Water Conservation:** Tree root systems prevent soil erosion, reduce flood runoff, and recharge groundwater aquifers.
+3. **Biodiversity Habitat:** Provide natural sanctuary for diverse flora and fauna.
+4. **Economic Resources:** Supply valuable timber, firewood, medicinal plants, rubber, resin, and lac.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q35 [Option b(ii)] (2024 • 7-marks)
+
+What are the causes and preventive measures of soil erosion ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) Causes and Prevention of Soil Erosion**
+- **Causes:** Deforestation, overgrazing by cattle, shifting cultivation, intensive faulty agricultural practices.
+- **Prevention:** Afforestation and reforestation, contour ploughing, terrace farming, shelter belts / windbreaks.
+
+</div>
+
+</details>
+
+---

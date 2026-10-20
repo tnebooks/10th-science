@@ -285,3 +285,99 @@ NASA is developing the Mars 2020 astrobiology to investigate an astrobiologicall
 
 ---
 
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q20 (2025 • 2-marks)
+
+The degenerated wings of kiwi bird is an acquired character. Why is it called an acquired character ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Degenerated Wings of Kiwi as an Acquired Character**
+According to Lamarck's **Theory of Use and Disuse**, continuous disuse of an organ over generations causes it to gradually degenerate.
+Because the flightless kiwi bird inhabited an environment without predators and abundant ground food, it stopped using its wings for flying. Consequently, the wings degenerated as an acquired adaptive trait over time.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q20 (2026 • 2-marks)
+
+Why is Archaeopteryx considered to be a connecting link ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Archaeopteryx as a Connecting Link**
+*Archaeopteryx* is a fossil bird that possesses intermediate anatomical characteristics between reptiles and birds:
+- **Reptilian characters:** Teeth in jaws, long boney tail, claws on digits.
+- **Avian (Bird) characters:** Feathers on body, wings, beak/bill.
+Hence, it serves as conclusive paleontological evidence that birds evolved from reptile ancestors.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q30 (2024 • 4-marks)
+
+Define Ethnobotany and write its importance.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Ethnobotany and Its Importance**
+**Ethnobotany** is the study of how people of a particular culture and region make use of indigenous plants for food, shelter, medicine, clothing, and religious customs.
+
+**Importance of Ethnobotany**
+1. It preserves traditional indigenous knowledge of medicinal plants.
+2. It aids pharmacologists in discovering novel plant-derived drugs.
+3. It promotes conservation of biodiversity and endangered plant species.
+4. It supports sustainable livelihood for tribal and rural communities.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q35 [Option a(iii)] (2023 • 7-marks)
+
+Explain Lamarck's principles of evolution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(iii) Lamarck's Principles of Evolution**
+1. **Internal vital force:** All living organisms have an innate tendency to increase in size and complexity.
+2. **Appetency / Environmental influence:** Changing environment creates new needs, prompting organisms to develop new structures.
+3. **Use and Disuse theory:** Organs used continuously develop and strengthen (e.g., long neck of giraffe), while unused organs degenerate (e.g., vestigial wings of kiwi).
+4. **Inheritance of Acquired Characters:** Favourable modifications acquired during an individual's lifetime are transmitted to subsequent generations.
+
+---
+
+</div>
+
+</details>
+
+---

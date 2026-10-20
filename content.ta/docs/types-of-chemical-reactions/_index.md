@@ -1171,3 +1171,113 @@ Na_2CO_3 + CaCl_2 \rightarrow CaCO_3 + 2NaCl
 \]
 
 ![கருத்து வரைபடம் — பாடநூல் பக்கம் 151](textbook-concept-map-151.png)
+
+---
+
+## அரசு பொதுத்தேர்வு வினாக்கள் (Board Examination Questions)
+
+### 2 மதிப்பெண் வினாக்கள் (2 Marks)
+
+#### வினா Q22 (2024 • 2 மதிப்பெண்கள்)
+
+ஒரு கரைசலின் pH மதிப்பு 4.5 எனில், அதன் pOH மதிப்பைக் காண்க.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**தீர்வு**
+$\text{pH}$ மற்றும் $\text{pOH}$-க்கு இடையேயான தொடர்பு:
+$$\text{pH} + \text{pOH} = 14$$
+
+கொடுக்கப்பட்டவை:
+$$\text{pH} = 4.5$$
+
+$$\text{pOH} = 14 - 4.5 = \mathbf{9.5}$$
+
+**விடை:** கரைசலின் $\text{pOH}$ மதிப்பு **$9.5$** ஆகும்.
+
+</div>
+
+</details>
+
+---
+
+### 4 மதிப்பெண் வினாக்கள் (4 Marks)
+
+#### வினா Q32 (அ) (2023 • 4 மதிப்பெண்கள்)
+
+0.01 M $\text{HNO}_3$ கரைசலின் pH மதிப்பைக் காண்க.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**(அ) 0.01 M $\text{HNO}_3$ கரைசலின் pH மதிப்பு**
+$\text{HNO}_3$ ஒரு வலிமைமிகு அமிலம் என்பதால் முழுமையாக அயனியுறுகிறது:
+$$[\text{H}^+] = 0.01\text{ M} = 10^{-2}\text{ M}$$
+
+$$\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-2}) = \mathbf{2}$$
+
+</div>
+
+</details>
+
+---
+
+### 7 மதிப்பெண் வினாக்கள் (7 Marks)
+
+#### வினா Q34 [தெரிவு ஆ(i, ii)] (2023 • 7 மதிப்பெண்கள்)
+
+(i) மீள் மற்றும் மீளா வினைகளை வேறுபடுத்துக.
+(ii) நடுநிலையாக்கல் வினை என்றால் என்ன? எடுத்துக்காட்டு தருக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**(i) மீள் மற்றும் மீளா வினைகள்**
+- **மீள் வினை:** முன்னோக்கு மற்றும் பின்னோக்கு ஆகிய இரு திசைகளிலும் நிகழும்; சமநிலையை அடையும்; ($\rightleftharpoons$).
+- **மீளா வினை:** ஒரே திசையில் (முன்னோக்கு) மட்டுமே நிகழும்; முழுமை அடையும்; ($\rightarrow$).
+
+**(ii) நடுநிலையாக்கல் வினை**
+அமிலமும் காரமும் ஒன்றுடன் ஒன்று வினைபுரிந்து உப்பையும் நீரையும் தரும் வினை **நடுநிலையாக்கல் வினை** எனப்படும்.
+$$\text{HCl} + \text{NaOH} \rightarrow \text{NaCl} + \text{H}_2\text{O}$$
+
+**(iii) படிவரிசைச் சேர்மங்களின் பண்புகள்**
+1. அடுத்தடுத்த உறுப்பினர்கள் $-\text{CH}_2-$ தொகுதியாலும், 14 amu மூலக்கூறு நிறையாலும் வேறுபடுகின்றன.
+2. ஒரே பொதுவான மூலக்கூறு வாய்பாட்டால் குறிக்க முடியும்.
+3. ஒரே மாதிரியான வேதிப்பண்புகளையும், படிப்படியான இயற்பியல் பண்பு மாற்றத்தையும் கொண்டிருக்கும்.
+
+</div>
+
+</details>
+
+---
+
+#### வினா Q34 [தெரிவு ஆ(i)] (2025 • 7 மதிப்பெண்கள்)
+
+சேர்க்கை மற்றும் சிதைவு வினைகளை தகுந்த எடுத்துக்காட்டுகளுடன் விளக்குக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**(i) வேதி வினைகள்**
+- **கூடுகை வினை:** இரண்டு அல்லது அதற்கு மேற்பட்ட வினைகலவைகள் இணைந்து ஒரே சேர்மத்தைத் தருகிறது (எ.கா: $\text{C} + \text{O}_2 \rightarrow \text{CO}_2$).
+- **சிதைவு வினை:** ஒரு சேர்மம் பிரிந்து இரண்டு அல்லது அதற்கு மேற்பட்ட எளிய பொருட்களாக மாறுகிறது (எ.கா: $2\text{KClO}_3 \rightarrow 2\text{KCl} + 3\text{O}_2$).
+
+**(ii) படிவரிசை**
+ஒரே பொதுவான வாய்பாட்டையும் வினைசெயல் தொகுதியையும் கொண்ட கரிமச் சேர்மங்களின் தொகுதி படிவரிசை ஆகும்:
+1. அடுத்தடுத்த உறுப்பினர்கள் $-\text{CH}_2-$ அலகால் வேறுபடுகின்றன.
+2. ஒரே மாதிரியான வேதிப்பண்புகளைப் பெற்றிருக்கின்றன.
+
+</div>
+
+</details>
+
+---

@@ -705,3 +705,117 @@ Since the resistors are connected in parallel, the same potential difference exi
 
 ---
 
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q14 (2024 • 2-marks)
+
+Why is tungsten metal used in bulbs but not used as fuse wire ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Why Tungsten is Used in Bulbs but Not in Fuse Wire**
+1. **In Bulbs:** Tungsten has an extremely high melting point ($3422^\circ\text{C}$) and high resistivity. It can be heated to incandescence without melting, thereby emitting bright light.
+2. **Not as Fuse Wire:** A fuse wire must have a **low melting point** so that it melts immediately when excess current flows to break the circuit. Because tungsten has an extremely high melting point, it would not melt during an overcurrent surge and would fail to protect appliances.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q24 (b) (2024 • 4-marks)
+
+Mention two electrical appliances based on heating effect of current.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(b) Electrical Appliances Based on Heating Effect of Current**
+1. Electric iron
+2. Electric heater (or Electric toaster / Geyser)
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q33 [Option a] (2023 • 7-marks)
+
+Answer the following question (Internal Choice):
+
+(a) (i) State Joule's Law of Heating.
+(ii) An alloy of nickel and chromium is used as the heating element. Why ?
+(iii) How does a fuse wire protect electrical appliances ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (a)**
+**(i) Joule's Law of Heating**
+It states that the heat produced ($H$) in a resistor of resistance $R$ carrying a current $I$ for a time $t$ is directly proportional to:
+1. The square of the current ($I^2$)
+2. The resistance ($R$)
+3. The time for which the current flows ($t$)
+
+$$\mathbf{H = I^2 R t}$$
+
+**(ii) Why Nichrome is used as heating element**
+Nichrome (an alloy of nickel and chromium) is chosen because:
+1. It has very high resistivity.
+2. It has a high melting point.
+3. It does not get oxidised (burn) easily even at very high temperatures.
+
+**(iii) Role of Fuse Wire**
+A fuse wire has low melting point and relatively high resistance. When excessive current flows due to short-circuit or overload, the fuse wire melts due to Joule heating, breaking the circuit and saving costly appliances from damage.
+
+---
+
+</div>
+
+</details>
+
+---
+
+#### Question Q33 [Option b] (2026 • 7-marks)
+
+(b) (i) State Joule's Law of Heating.
+(ii) An alloy of nickel and chromium is used as the heating element. Why ?
+(iii) How does an electric fuse wire protect household appliances ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (b)**
+**(i) Joule's Law of Heating**
+$$H = I^2 R t$$
+Heat produced is directly proportional to square of current, resistance, and time.
+
+**(ii) Why Nichrome is Used as Heating Element**
+High resistivity, high melting point, and resistance to oxidation.
+
+**(iii) Electric Fuse Wire Protection**
+Low melting point wire melts and breaks the circuit when excessive current flows during overload or short circuit.
+
+</div>
+
+</details>
+
+---

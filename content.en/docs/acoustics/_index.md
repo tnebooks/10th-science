@@ -441,4 +441,165 @@ In SONAR, by measuring the change in the frequency between the sent signal and r
 
 ---
 
+---
 
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q14 (2025 • 2-marks)
+
+What is a longitudinal wave ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Longitudinal Wave**
+A wave in which the particles of the medium vibrate back and forth **parallel to the direction of propagation of the wave** is called a **longitudinal wave**.
+- It travels through alternating compressions and rarefactions.
+- *Example:* Sound waves in air.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q22 (2026 • 2-marks)
+
+A sound source of frequency 500 Hz moves towards a listener with a velocity of $30\text{ m s}^{-1}$. If velocity of sound in air is $330\text{ m s}^{-1}$, calculate the frequency heard by the listener.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Solution (Doppler Effect)**
+When source moves towards stationary listener:
+$$n' = \left( \frac{v}{v - v_s} \right) n$$
+
+Given:
+- $n = 500\text{ Hz}$
+- $v = 330\text{ m s}^{-1}$
+- $v_s = 30\text{ m s}^{-1}$
+
+Calculation:
+$$n' = \left( \frac{330}{330 - 30} \right) \times 500 = \left( \frac{330}{300} \right) \times 500 = 1.1 \times 500 = \mathbf{550\text{ Hz}}$$
+
+**Answer:** The apparent frequency heard by the listener is **$550\text{ Hz}$**.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q25 (2023 • 4-marks)
+
+Answer the following questions:
+
+(a) What do you understand by the term Ultrasonic Vibration ?
+
+(b) What is meant by reflection of sound ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Ultrasonic Vibration**
+Ultrasonic vibrations are sound waves with frequencies **greater than $20,000\text{ Hz}$ ($20\text{ kHz}$)**. These high-frequency sound waves cannot be heard by the human ear, but animals like bats, dolphins, and dogs can perceive them.
+
+**(b) Reflection of Sound**
+When a sound wave travelling in a medium hits the boundary of another medium, it bounces back into the first medium obeying the laws of reflection. This bouncing back of sound waves is known as **reflection of sound**.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q32 (2025 • 4-marks)
+
+A source of sound of frequency 90 Hz is moving towards a stationary listener with a velocity equal to 1/10th of the velocity of sound. Find the apparent frequency heard by the listener.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Solution (Doppler Effect)**
+When a source moves towards a stationary listener ($v_L = 0$):
+$$n' = \left( \frac{v}{v - v_s} \right) n$$
+
+Given:
+- Actual frequency ($n$) = $90\text{ Hz}$
+- Velocity of listener ($v_L$) = $0$
+- Velocity of source ($v_s$) = $\frac{v}{10}$
+
+Calculation:
+$$n' = \left( \frac{v}{v - \frac{v}{10}} \right) \times 90$$
+$$n' = \left( \frac{v}{\frac{9v}{10}} \right) \times 90$$
+$$n' = \left( \frac{10}{9} \right) \times 90 = \mathbf{100\text{ Hz}}$$
+
+**Answer:** The apparent frequency heard by the listener is **$100\text{ Hz}$**.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q25 (2026 • 4-marks)
+
+What are the factors that affect the velocity of sound in gases ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Factors Affecting Velocity of Sound in Gases**
+1. **Effect of Density:** Velocity of sound is inversely proportional to the square root of density of the gas ($v \propto \frac{1}{\sqrt{\rho}}$). Less dense gas transmits sound faster.
+2. **Effect of Temperature:** Velocity of sound is directly proportional to the square root of absolute temperature ($v \propto \sqrt{T}$). It increases by $0.61\text{ m s}^{-1}$ for every $1^\circ\text{C}$ rise.
+3. **Effect of Humidity:** Humid air is less dense than dry air; hence velocity of sound increases with increase in humidity.
+4. **Pressure:** Pressure change has no effect on velocity of sound provided temperature remains constant.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q33 [Option b(i)] (2023 • 7-marks)
+
+What is a longitudinal wave ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Longitudinal Wave**
+A wave in which the particles of the medium vibrate parallel to the direction of propagation of the wave is called a **longitudinal wave** (e.g., sound waves in air).
+
+**(ii) Nuclear Reactor & Essential Parts**
+A nuclear reactor is a device in which a self-sustaining controlled nuclear fission chain reaction is initiated and maintained to generate energy.
+
+- **Fuel:** Fissile material such as Uranium-235 ($^{235}\text{U}$) or Plutonium-239 ($^{239}\text{Pu}$).
+- **Moderator:** Slows down fast neutrons to thermal neutrons (e.g., Heavy water $\text{D}_2\text{O}$, graphite).
+- **Control Rods:** Absorbs excess neutrons to control reaction rate (e.g., Cadmium or Boron rods).
+- **Coolant:** Absorbs heat generated in the core and transfers it to the steam generator (e.g., Water, liquid sodium).
+- **Shielding:** Thick lead and concrete walls protect the environment from radioactive radiation.
+
+</div>
+
+</details>
+
+---

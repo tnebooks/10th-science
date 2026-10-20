@@ -672,6 +672,177 @@ $$).
 2. Raymond Chang. (2010). Chemistry. New York, NY: The Tata McGraw Hill Companies. Inc.
 3. Julia Burdge. (2011). Chemistry. New York, NY: The Tata McGraw Hill Companies. Inc.
 
+---
 
+## Board Examination Questions
 
+### 2 Marks
 
+#### Question Q16 (2023 • 2-marks)
+
+Mention any two applications of Avogadro's Law.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Applications of Avogadro's Law**
+1. It helps in determining the **atomicity** of elementary gases.
+2. It explains **Gay-Lussac's law of combining volumes**.
+3. It derives the relation between **vapour density and molecular mass** ($M = 2 \times VD$).
+4. It helps to calculate the **gram molar volume** of all gases at STP ($22.4\text{ litres}$).
+
+</div>
+
+</details>
+
+---
+
+#### Question Q22 (2025 • 2-marks)
+
+Find the mass percentage composition of methane ($\text{CH}_4$).
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Solution**
+Molar mass of methane ($\text{CH}_4$):
+$$M = (1 \times 12) + (4 \times 1) = 12 + 4 = 16\text{ g/mol}$$
+
+1. **Mass percentage of Carbon ($C$):**
+   $$\% C = \frac{12}{16} \times 100 = \mathbf{75\%}$$
+
+2. **Mass percentage of Hydrogen ($H$):**
+   $$\% H = \frac{4}{16} \times 100 = \mathbf{25\%}$$
+
+**Answer:** Methane consists of **75% Carbon** and **25% Hydrogen** by mass.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q14 (2026 • 2-marks)
+
+Define : Relative atomic mass.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Relative Atomic Mass ($A_r$)**
+The **relative atomic mass** of an element is defined as the ratio between the average mass of its isotopes to $\frac{1}{12}^{\text{th}}$ part of the mass of a Carbon-12 ($^{12}\text{C}$) atom.
+
+$$A_r = \frac{\text{Average mass of isotopes of the element}}{\frac{1}{12} \times \text{mass of one } ^{12}\text{C atom}}$$
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q32 (b) (2024 • 4-marks)
+
+Calculate the number of moles in $1.51 \times 10^{23}$ molecules of $\text{NH}_4\text{Cl}$.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(b) Calculation of Number of Moles**
+$$\text{Number of moles} = \frac{\text{Number of molecules}}{\text{Avogadro number } (N_A)}$$
+$$\text{Number of moles} = \frac{1.51 \times 10^{23}}{6.023 \times 10^{23}} = \frac{1.51}{6.023} \approx \mathbf{0.25\text{ moles}}$$
+
+</div>
+
+</details>
+
+---
+
+#### Question Q26 (2025 • 4-marks)
+
+Write the applications of Avogadro's Law.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Applications of Avogadro's Law**
+1. It explains **Gay-Lussac's law of combining volumes**.
+2. It determines the **atomicity** of elementary gases.
+3. It establishes the mathematical relationship between **molecular mass and vapour density** ($M = 2 \times VD$).
+4. It allows the calculation of the **gram molar volume** of any gas at STP ($22.4\text{ L}$ or $22,400\text{ mL}$).
+5. It helps to deduce the molecular formulae of gases.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q34 [Option a(i, ii)] (2023 • 7-marks)
+
+(i) Define : Atomicity.
+(ii) Calculate the percentage of sulphur in $\text{H}_2\text{SO}_4$.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Atomicity**
+The number of atoms present in one molecule of an element or compound is called its **atomicity** (e.g., Atomicity of $\text{O}_2 = 2$, $\text{O}_3 = 3$).
+
+**(ii) Percentage of Sulphur in $\text{H}_2\text{SO}_4$**
+Molar mass of $\text{H}_2\text{SO}_4$ = $(2 \times 1) + (1 \times 32) + (4 \times 16) = 2 + 32 + 64 = 98\text{ g/mol}$.
+Mass of Sulphur = $32\text{ g}$.
+$$\%\text{ of S} = \frac{32}{98} \times 100 = \mathbf{32.65\%}$$
+
+**(iii) Hygroscopic vs Deliquescent Substances**
+- **Hygroscopic Substances:** Absorb moisture from atmosphere without changing their physical state (e.g., conc. $\text{H}_2\text{SO}_4$, $\text{CaO}$).
+- **Deliquescent Substances:** Absorb sufficient moisture from atmosphere and completely dissolve in it to form a solution (e.g., $\text{NaOH}$, $\text{KOH}$, $\text{FeCl}_3$).
+
+---
+
+</div>
+
+</details>
+
+---
+
+#### Question Q34 [Option a(i)] (2024 • 7-marks)
+
+At same temperature and pressure, 3 L of $\text{O}_2$, 5 L of $\text{Cl}_2$ and 6 L of $\text{H}_2$ gases are taken. (A) Which contains maximum molecules ? (B) Which contains minimum molecules ? Explain using Avogadro's law.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Application of Avogadro's Law**
+**Avogadro's law** states that equal volumes of all gases under similar conditions of temperature and pressure contain an equal number of molecules ($V \propto n$).
+- **(A) Maximum molecules:** $6\text{ L}$ of $\text{H}_2$ gas contains the maximum number of molecules because it occupies the largest volume.
+- **(B) Minimum molecules:** $3\text{ L}$ of $\text{O}_2$ gas contains the minimum number of molecules because it occupies the smallest volume.
+
+**(ii) Hygroscopic vs Deliquescent Substances**
+- **Hygroscopic:** Absorb moisture without dissolving into liquid (e.g., anhydrous calcium chloride, conc. $\text{H}_2\text{SO}_4$).
+- **Deliquescent:** Absorb sufficient moisture to dissolve completely into solution (e.g., sodium hydroxide, potassium hydroxide).
+
+---
+
+</div>
+
+</details>
+
+---
