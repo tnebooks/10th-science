@@ -857,6 +857,104 @@ $$S \propto \frac{1}{\lambda^4}$$
 
 ---
 
+#### கணக்கீடு
+
+ஒரு லென்சின் திறன் -2 டையாப்ப்டர் எனில், அதன் குவியத் தொலைவை காண்க.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+லென்சின் திறன் மற்றும் குவியத் தொலைவு தொடர்பு:
+$P = \frac{1}{f}$
+
+கொடுக்கப்பட்டது:
+$P = -2 \text{ D}$
+
+மாற்றினால்:
+$f = \frac{1}{P}$
+
+$f = \frac{1}{-2}$
+
+$f = -0.5 \text{ மீ}$
+
+ஆகவே:
+லென்சின் குவியத் தொலைவு, $f = -0.5 \text{ மீ}$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+தூரப்பார்க்கைக் குறைபாட்டால் பாதிக்கப்பட்ட ஒருவரின் அண்மைப் புள்ளி 1.5 மீ தொலைவில் உள்ளது. அவரது குறைபாட்டை சரிசெய்ய பயன்படுத்த வேண்டிய குவி லென்சின் குவியத் தொலைவு என்ன?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+லென்சின் குவியத் தொலைவு பெறும் சமன்பாடு:
+$f = \frac{dD}{d - D}$
+
+கொடுக்கப்பட்டது:
+$d = 1.5 \text{ மீ}$
+$D = 25 \text{ செ.மீ} = 0.25 \text{ மீ}$
+
+மாற்றினால்:
+$f = \frac{1.5 \times 0.25}{1.5 - 0.25}$
+
+$f = \frac{0.375}{1.25}$
+
+$f = 0.3 \text{ மீ}$
+
+ஆகவே:
+லென்சின் குவியத் தொலைவு, $f = 0.3 \text{ மீ}$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+கிட்டபார்வைக் குறைபாடு உடைய ஒருவரால் 4 மீ தொலைவில் உள்ள பொருள்களை மட்டுமே காண முடியும். அவர் 20 மீ தொலைவில் உள்ள பொருளைக் காண வேண்டுமெனில் பயன்படுத்த வேண்டிய லென்சின் குவியத் தொலைவு என்ன?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+லென்சின் குவியத் தொலைவு பெறும் சமன்பாடு:
+$f = \frac{xy}{x - y}$
+
+கொடுக்கப்பட்டது:
+$x = 4 \text{ மீ}$
+$y = 20 \text{ மீ}$
+
+மாற்றினால்:
+$f = \frac{4 \times 20}{4 - 20}$
+
+$f = \frac{80}{-16}$
+
+$f = -5 \text{ மீ}$
+
+லென்சின் திறன்:
+$P = \frac{1}{f} = \frac{1}{-5} = -0.2 \text{ D}$
+
+ஆகவே:
+லென்சின் குவியத் தொலைவு, $f = -5 \text{ மீ}$
+
+</div>
+
+</details>
+
+---
+
 ### 4 மதிப்பெண் வினாக்கள் (4 Marks)
 
 #### 2023, 2025

@@ -1022,6 +1022,76 @@ B = நீரற்ற காப்பர் சல்பேட் \( (CuSO_4) \
 
 ## அரசு பொதுத்தேர்வு வினாக்கள் (Board Examination Questions)
 
+### 2 மதிப்பெண் வினாக்கள் (2 Marks)
+
+#### கணக்கீடு
+
+180 கி நீரில் 45 கி சோடியம் குளோரைடு கரைக்கப்படுகிறது. கரைபொருளின் நிறை சதவீதத்தை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+கரைபொருளின் நிறை சதவீதம்:
+$\% = \frac{\text{கரைபொருளின் நிறை}}{\text{மொத்த நிறை}} \times 100$
+
+கொடுக்கப்பட்டது:
+கரைபொருளின் நிறை = $45 \text{ கி}$  
+கரைப்பானின் நிறை = $180 \text{ கி}$  
+
+மொத்த நிறை:
+= $45 + 180$  
+= $225 \text{ கி}$
+
+மாற்றினால்:
+$\% = \frac{45}{225} \times 100$
+
+$\% = 20\%$
+
+ஆகவே:
+கரைபொருளின் நிறை சதவீதம் = 20\%
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+35 மிலி மெத்தனால் 65 மிலி நீருடன் கலக்கப்படுகிறது. கரைசலின் கனஅளவு சதவீதத்தை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+கனஅளவு சதவீதம்:
+$\% = \frac{\text{கரைபொருளின் கனஅளவு}}{\text{மொத்த கனஅளவு}} \times 100$
+
+கொடுக்கப்பட்டது:
+கரைபொருள் (மெத்தனால்) = $35 \text{ மிலி}$  
+கரைப்பான் (நீர்) = $65 \text{ மிலி}$  
+
+மொத்த கனஅளவு:
+= $35 + 65$  
+= $100 \text{ மிலி}$
+
+மாற்றினால்:
+$\% = \frac{35}{100} \times 100$
+
+$\% = 35\%$
+
+ஆகவே:
+கனஅளவு சதவீதம் = 35\%
+
+</div>
+
+</details>
+
+---
+
 ### 4 மதிப்பெண் வினாக்கள் (4 Marks)
 
 #### 2023

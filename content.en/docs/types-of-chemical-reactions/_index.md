@@ -1015,6 +1015,217 @@ $$\text{pOH} = 14 - \text{pH} = 14 - 4.5 = \mathbf{9.5}$$
 
 ---
 
+#### Numerical Problem
+
+Calculate the pH of a 0.001 M hydrochloric acid (HCl) solution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+HCl is a strong acid, so:
+$[H^+] = 1.0 \times 10^{-3}$
+
+pH formula:
+$pH = -\log_{10}[H^+]$
+
+Substituting:
+$pH = -\log_{10}(1.0 \times 10^{-3})$
+
+$\log_{10}(10^{-3}) = -3$
+
+$pH = -(-3)$
+
+$pH = 3$
+
+Therefore:
+pH value = 3
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+Calculate the pH of a $1.0 \times 10^{-4}$ M $HNO_3$ solution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+pH formula:
+$pH = -\log_{10}[H^+]$
+
+Given:
+$[H^+] = 1.0 \times 10^{-4}$
+
+Substituting:
+$pH = -\log_{10}(1.0 \times 10^{-4})$
+
+$\log_{10}(10^{-4}) = -4$
+
+$pH = -(-4)$
+
+$pH = 4$
+
+Therefore:
+pH value = 4
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+Calculate the pH of a $1.0 \times 10^{-4}$ M $NaOH$ solution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+pOH formula:
+$pOH = -\log_{10}[OH^-]$
+
+Given:
+$[OH^-] = 1.0 \times 10^{-4}$
+
+Substituting:
+$pOH = -\log_{10}(1.0 \times 10^{-4})$
+
+$pOH = 4$
+
+Relation between pH and pOH:
+$pH + pOH = 14$
+
+$pH = 14 - pOH$
+
+$pH = 14 - 4$
+
+$pH = 10$
+
+Therefore:
+pH value = 10
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+Calculate the pH of a $1.0 \times 10^{-5}$ M $KOH$ solution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+pOH formula:
+$pOH = -\log_{10}[OH^-]$
+
+Given:
+$[OH^-] = 1.0 \times 10^{-5}$
+
+Substituting:
+$pOH = -\log_{10}(1.0 \times 10^{-5})$
+
+$pOH = 5$
+
+Relation between pH and pOH:
+$pH + pOH = 14$
+
+$pH = 14 - pOH$
+
+$pH = 14 - 5$
+
+$pH = 9$
+
+Therefore:
+pH value = 9
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+If the hydroxide ion concentration in a solution is $1.0 \times 10^{-11}$ mole, find its pH value.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+pOH formula:
+$pOH = -\log_{10}[OH^-]$
+
+Given:
+$[OH^-] = 1.0 \times 10^{-11}$
+
+Substituting:
+$pOH = -\log_{10}(1.0 \times 10^{-11})$
+
+$pOH = 11$
+
+Relation between pH and pOH:
+$pH + pOH = 14$
+
+$pH = 14 - pOH$
+
+$pH = 14 - 11$
+
+$pH = 3$
+
+Therefore:
+pH value = 3
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+If the hydroxide ion concentration in a solution is $1.0 \times 10^{-9}$ mole, what is its pOH value?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+pOH is the negative logarithm of the hydroxide ion concentration.
+
+Given:
+$[OH^-] = 1.0 \times 10^{-9}$
+
+Formula:
+$pOH = -\log_{10}[OH^-]$
+
+Substituting:
+$pOH = -\log_{10}(1 \times 10^{-9})$
+
+$\log_{10}(10^{-9}) = -9$
+
+Therefore:
+$pOH = -(-9) = 9$
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
 #### 2023

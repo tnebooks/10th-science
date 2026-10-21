@@ -1455,6 +1455,150 @@ $$= (1 \times 12) + (4 \times 1) = 16\text{ கி/மோல்}$$
 
 ---
 
+#### கணக்கீடு
+
+கீழ்கண்டவற்றின் மூலக்கூறு நிறையை கணக்கிடுக:
+
+(i) $H_2O$  
+(ii) $CO_2$  
+(iii) $Ca_3(PO_4)_2$
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+மூலக்கூறு நிறை = அணு நிறைகளின் கூட்டுத்தொகை
+
+(i) $H_2O$:
+$H = 1$, $O = 16$
+
+மூலக்கூறு நிறை:
+$= (1 \times 2) + (16 \times 1)$
+$= 2 + 16$
+$= 18 \text{ கிராம்}$
+
+(ii) $CO_2$:
+$C = 12$, $O = 16$
+
+மூலக்கூறு நிறை:
+$= (12 \times 1) + (16 \times 2)$
+$= 12 + 32$
+$= 44 \text{ கிராம்}$
+
+(iii) $Ca_3(PO_4)_2$:
+$Ca = 40$, $P = 30$, $O = 16$
+
+மூலக்கூறு நிறை:
+$= (40 \times 3) + [(30 + (16 \times 4)) \times 2]$
+
+$= 120 + (94 \times 2)$
+
+$= 120 + 188$
+
+$= 308 \text{ கிராம்}$
+
+ஆகவே:
+(i) 18 கிராம்  
+(ii) 44 கிராம்  
+(iii) 308 கிராம்
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+46 கி சோடியத்தின் மோல்களின் எண்ணிக்கையை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+மோல்களின் எண்ணிக்கை பெறும் சமன்பாடு:
+$\text{மோல்} = \frac{\text{நிறை}}{\text{அணு நிறை}}$
+
+கொடுக்கப்பட்டது:
+நிறை = 46 g  
+சோடியத்தின் அணு நிறை = 23  
+
+மாற்றினால்:
+$\text{மோல்} = \frac{46}{23}$
+
+$\text{மோல்} = 2$
+
+ஆகவே:
+மோல்களின் எண்ணிக்கை = 2 மோல்
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+$12.046 \times 10^{23}$ இரும்பு அணுக்களின் மோல்களின் எண்ணிக்கையை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+மோல்களின் எண்ணிக்கை பெறும் சமன்பாடு:
+$\text{மோல்} = \frac{\text{அணுக்களின் எண்ணிக்கை}}{\text{அவகாட்ரோ எண்}}$
+
+கொடுக்கப்பட்டது:
+அணுக்களின் எண்ணிக்கை = $12.046 \times 10^{23}$  
+அவகாட்ரோ எண் = $6.023 \times 10^{23}$  
+
+மாற்றினால்:
+$\text{மோல்} = \frac{12.046 \times 10^{23}}{6.023 \times 10^{23}}$
+
+$\text{மோல்} = 2$
+
+ஆகவே:
+மோல்களின் எண்ணிக்கை = 2 மோல்
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+S.T.P இல் 5.6 லிட்டர் ஆக்சிஜனின் மோல்களின் எண்ணிக்கையை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+மோல்களின் எண்ணிக்கை பெறும் சமன்பாடு:
+$\text{மோல்} = \frac{\text{பருமன்}}{\text{மோலார் பருமன்}}$
+
+கொடுக்கப்பட்டது:
+பருமன் = $5.6 \text{ லிட்டர்}$  
+மோலார் பருமன் (STP) = $22.4 \text{ லிட்டர்}$
+
+மாற்றினால்:
+$\text{மோல்} = \frac{5.6}{22.4}$
+
+$\text{மோல்} = 0.25$
+
+ஆகவே:
+மோல்களின் எண்ணிக்கை = 0.25 மோல்
+
+</div>
+
+</details>
+
+---
+
 ### 4 மதிப்பெண் வினாக்கள் (4 Marks)
 
 #### 2024

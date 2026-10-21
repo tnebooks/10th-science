@@ -775,6 +775,150 @@ $$A_r = \frac{\text{Average mass of isotopes of the element}}{\frac{1}{12} \time
 
 ---
 
+#### Numerical Problem
+
+Calculate the molecular mass of the following:
+
+(i) $H_2O$  
+(ii) $CO_2$  
+(iii) $Ca_3(PO_4)_2$
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Molecular mass = Sum of atomic masses
+
+(i) $H_2O$:
+$H = 1$, $O = 16$
+
+Molecular mass:
+$= (1 \times 2) + (16 \times 1)$
+$= 2 + 16$
+$= 18 \text{ g}$
+
+(ii) $CO_2$:
+$C = 12$, $O = 16$
+
+Molecular mass:
+$= (12 \times 1) + (16 \times 2)$
+$= 12 + 32$
+$= 44 \text{ g}$
+
+(iii) $Ca_3(PO_4)_2$:
+$Ca = 40$, $P = 30$, $O = 16$
+
+Molecular mass:
+$= (40 \times 3) + [(30 + (16 \times 4)) \times 2]$
+
+$= 120 + (94 \times 2)$
+
+$= 120 + 188$
+
+$= 308 \text{ g}$
+
+Therefore:
+(i) 18 g  
+(ii) 44 g  
+(iii) 308 g
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+Calculate the number of moles in 46 g of sodium.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Formula for number of moles:
+$\text{Moles} = \frac{\text{Mass}}{\text{Atomic mass}}$
+
+Given:
+Mass = 46 g  
+Atomic mass of sodium = 23  
+
+Substituting:
+$\text{Moles} = \frac{46}{23}$
+
+$\text{Moles} = 2$
+
+Therefore:
+Number of moles = 2 moles
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+Calculate the number of moles in $12.046 \times 10^{23}$ atoms of iron.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Formula for number of moles:
+$\text{Moles} = \frac{\text{Number of atoms}}{\text{Avogadro number}}$
+
+Given:
+Number of atoms = $12.046 \times 10^{23}$  
+Avogadro number = $6.023 \times 10^{23}$  
+
+Substituting:
+$\text{Moles} = \frac{12.046 \times 10^{23}}{6.023 \times 10^{23}}$
+
+$\text{Moles} = 2$
+
+Therefore:
+Number of moles = 2 moles
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+Calculate the number of moles in 5.6 litres of oxygen at STP.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Formula for number of moles:
+$\text{Moles} = \frac{\text{Volume}}{\text{Molar volume}}$
+
+Given:
+Volume = 5.6 L  
+Molar volume at STP = 22.4 L  
+
+Substituting:
+$\text{Moles} = \frac{5.6}{22.4}$
+
+$\text{Moles} = 0.25$
+
+Therefore:
+Number of moles = 0.25 moles
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
 #### 2024

@@ -535,6 +535,76 @@ $$
 
 ## Board Examination Questions
 
+### 2 Marks
+
+#### Numerical Problem
+
+A solution is prepared by dissolving 45 kg of sodium chloride in 180 kg of water. Calculate the mass percentage of the solute.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Mass percentage of solute:
+$\% = \frac{\text{Mass of solute}}{\text{Total mass}} \times 100$
+
+Given:
+Mass of solute = $45 \text{ kg}$  
+Mass of solvent = $180 \text{ kg}$  
+
+Total mass:
+= $45 + 180$  
+= $225 \text{ kg}$
+
+Substituting:
+$\% = \frac{45}{225} \times 100$
+
+$\% = 20\%$
+
+Therefore:
+Mass percentage of solute = 20\%
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+A solution is prepared by mixing 35 ml of methanol with 65 ml of water. Calculate the volume percentage of the solution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Volume percentage:
+$\% = \frac{\text{Volume of solute}}{\text{Total volume}} \times 100$
+
+Given:
+Volume of solute (methanol) = $35 \text{ ml}$  
+Volume of solvent (water) = $65 \text{ ml}$  
+
+Total volume:
+= $35 + 65$  
+= $100 \text{ ml}$
+
+Substituting:
+$\% = \frac{35}{100} \times 100$
+
+$\% = 35\%$
+
+Therefore:
+Volume percentage = 35\%
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
 #### 2023

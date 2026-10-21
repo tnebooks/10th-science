@@ -665,6 +665,70 @@ $$n' = \left( \frac{330}{330 - 30} \right) \times 500 = \frac{330}{300} \times 5
 
 ---
 
+#### கணக்கீடு
+
+ஒரு ஊடகத்தில் 200 Hz அதிர்வெண் உடைய ஒலி 400 மீவி$^{-1}$ வேகத்தில் பரவுகிறது. அதன் அலைநீளத்தை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+ஒலியின் வேக சமன்பாடு:
+$v = n \lambda$
+
+கொடுக்கப்பட்டது:
+$n = 200 \text{ Hz}$
+$v = 400 \text{ மீவி}^{-1}$
+
+மாற்றினால்:
+$\lambda = \frac{v}{n}$
+
+$\lambda = \frac{400}{200}$
+
+$\lambda = 2 \text{ மீ}$
+
+ஆகவே:
+அலைநீளம், $\lambda = 2 \text{ மீ}$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+வானத்தில் மின்னல் ஏற்பட்ட 9.8 வினாடிகளுக்குப் பிறகு இடியோசை கேட்கிறது. காற்றில் ஒலியின் வேகம் 300 மீவி$^{-1}$ எனில், மேகங்களின் உயரத்தை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+வேகம் சமன்பாடு:
+$v = \frac{d}{t}$
+
+கொடுக்கப்பட்டது:
+$t = 9.8 \text{ வினாடி}$
+$v = 300 \text{ மீவி}^{-1}$
+
+மாற்றினால்:
+$d = v \times t$
+
+$d = 300 \times 9.8$
+
+$d = 2940 \text{ மீ}$
+
+ஆகவே:
+மேகத்தின் உயரம், $d = 2940 \text{ மீ}$
+
+</div>
+
+</details>
+
+---
+
 ### 4 மதிப்பெண் வினாக்கள் (4 Marks)
 
 #### 2023

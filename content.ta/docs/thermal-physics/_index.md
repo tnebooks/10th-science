@@ -608,6 +608,75 @@ $$P \cdot V = \text{மாறிலி}$$
 
 ---
 
+#### கணக்கீடு
+
+மாறாத வெப்பநிலையில் உள்ள வாயுவின் அழுத்தத்தை நான்கு மடங்கு அதிகரிக்கும்போது, அதன் பருமன் 20 cc இலிருந்து $V_2$ ஆக மாறுகிறது. $V_2$-ஐ கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+பாயில் விதி:
+$P_1 V_1 = P_2 V_2$
+
+கொடுக்கப்பட்டது:
+$P_1 = P$
+$P_2 = 4P$
+$V_1 = 20 \text{ cm}^3$
+
+மாற்றினால்:
+$V_2 = \frac{P_1}{P_2} \times V_1$
+
+$V_2 = \frac{P}{4P} \times 20$
+
+$V_2 = \frac{1}{4} \times 20$
+
+$V_2 = 5 \text{ cm}^3$
+
+ஆகவே:
+இறுதி பருமன், $V_2 = 5 \text{ cm}^3$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+70 மிலி கொள்ளளவு கொண்ட கொள்கலனில் 50 மிலி திரவம் நிரப்பப்பட்டுள்ளது. வெப்பப்படுத்தும் போது திரவத்தின் நிலை 50 மிலி-இல் இருந்து 48.5 மிலி ஆக குறைந்து, பின்னர் 51.2 மிலி ஆக உயர்கிறது. திரவத்தின் தோற்ற மற்றும் உண்மை வெப்ப விரிவை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+கொடுக்கப்பட்டது:
+ஆரம்ப நிலை, $L_1 = 50 \text{ மிலி}$
+கொள்கலன் விரிவால் குறைந்த நிலை, $L_2 = 48.5 \text{ மிலி}$
+இறுதி நிலை, $L_3 = 51.2 \text{ மிலி}$
+
+தோற்ற வெப்ப விரிவு:
+$= L_3 - L_1$
+$= 51.2 - 50$
+$= 1.2 \text{ மிலி}$
+
+உண்மை வெப்ப விரிவு:
+$= L_3 - L_2$
+$= 51.2 - 48.5$
+$= 2.7 \text{ மிலி}$
+
+ஆகவே:
+தோற்ற வெப்ப விரிவு = $1.2 \text{ மிலி}$
+உண்மை வெப்ப விரிவு = $2.7 \text{ மிலி}$
+
+</div>
+
+</details>
+
+---
+
 ### 4 மதிப்பெண் வினாக்கள் (4 Marks)
 
 #### 2025

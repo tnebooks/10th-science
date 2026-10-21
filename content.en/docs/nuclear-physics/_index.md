@@ -573,6 +573,39 @@ $$E = 1.8 \times 10^{17}\text{ Joules}$$
 
 ---
 
+#### Numerical Problem
+
+${}^{235}_{92}U$ undergoes one alpha decay and one beta decay. Find the number of neutrons in the final nucleus formed.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Alpha decay:
+${}^{235}_{92}U \rightarrow {}^{231}_{90}X + {}^{4}_{2}He$
+
+Beta decay:
+${}^{231}_{90}X \rightarrow {}^{231}_{91}Y + {}^{0}_{-1}e$
+
+Final nucleus:
+Mass number = 231
+Atomic number = 91
+
+Number of neutrons:
+= Mass number - Atomic number
+= 231 - 91
+= 140
+
+Therefore:
+Number of neutrons = 140
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
 #### 2024

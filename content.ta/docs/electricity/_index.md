@@ -1590,6 +1590,209 @@ R' = 9 \times 10 = 90 \ \Omega
 
 ---
 
+#### கணக்கீடு
+
+12 கூலும் மின்னேற்றம் 5 வினாடி நேரத்தில் ஒரு மின்விளக்கின் வழியாக பாய்கிறது எனில், அதன் மின்னோட்டத்தை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+மின்னோட்டம் பெறும் சமன்பாடு:
+$I = \frac{Q}{t}$
+
+கொடுக்கப்பட்டது:
+$Q = 12 \text{ கூலும்}$
+$t = 5 \text{ வினாடி}$
+
+மாற்றினால்:
+$I = \frac{12}{5}$
+
+$I = 2.4 \text{ A}$
+
+ஆகவே:
+மின்னோட்டம், $I = 2.4 \text{ A}$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+10 கூலும் மின்னேற்றத்தை ஒரு மின்சுற்றிலுள்ள இரண்டு புள்ளிகளுக்கிடையே நகர்த்த 100 ஜூல் வேலை செய்யப்படுகிறது எனில், அந்த இரண்டு புள்ளிகளுக்கிடையே உள்ள மின்னழுத்த வேறுபாட்டை காண்க.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+மின்னழுத்த வேறுபாடு பெறும் சமன்பாடு:
+$V = \frac{W}{Q}$
+
+கொடுக்கப்பட்டது:
+$Q = 10 \text{ கூலும்}$
+$W = 100 \text{ ஜூல்}$
+
+மாற்றினால்:
+$V = \frac{100}{10}$
+
+$V = 10 \text{ வோல்ட்}$
+
+ஆகவே:
+மின்னழுத்த வேறுபாடு, $V = 10 \text{ வோல்ட்}$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+30 வோல்ட் மின்னழுத்த வேறுபாடு கொண்ட ஒரு கடத்தியின் முனைகளுக்கு இடையில் 2 ஆம்பியர் மின்னோட்டம் செல்கிறது எனில், அதன் மின்தடையை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+ஓம் விதி:
+$R = \frac{V}{I}$
+
+கொடுக்கப்பட்டது:
+$V = 30 \text{ வோல்ட்}$
+$I = 2 \text{ ஆம்பியர்}$
+
+மாற்றினால்:
+$R = \frac{30}{2}$
+
+$R = 15 \ \Omega$
+
+ஆகவே:
+மின்தடை, $R = 15 \ \Omega$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+$5\ \Omega$, $3\ \Omega$, மற்றும் $2\ \Omega$ மின்தடை கொண்ட மூன்று மின்தடையாக்கிகள் 10 வோல்ட் மின்கலத்துடன் தொடரிணைப்பில் இணைக்கப்பட்டுள்ளன. தொகுப்பின் மொத்த மின்தடை மற்றும் மின்னோட்டத்தை காண்க.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+தொடரிணைப்பில் மொத்த மின்தடை:
+$R_s = R_1 + R_2 + R_3$
+
+கொடுக்கப்பட்டது:
+$R_1 = 5\ \Omega$
+$R_2 = 3\ \Omega$
+$R_3 = 2\ \Omega$
+$V = 10 \text{ வோல்ட்}$
+
+மாற்றினால்:
+$R_s = 5 + 3 + 2$
+
+$R_s = 10\ \Omega$
+
+மின்னோட்டம்:
+$I = \frac{V}{R_s}$
+
+$I = \frac{10}{10}$
+
+$I = 1 \text{ A}$
+
+ஆகவே:
+மொத்த மின்தடை = $10\ \Omega$
+மின்னோட்டம் = $1 \text{ A}$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+$5\ \Omega$ மின்தடை கொண்ட ஒரு மின்குடற்றி வழியாக 6 A மின்னோட்டம் பாய்கிறது. 5 நிமிடங்களில் உருவாகும் வெப்பத்தின் அளவை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+ஜூல் விதி:
+$H = I^2 R t$
+
+கொடுக்கப்பட்டது:
+$R = 5\ \Omega$
+$I = 6 \text{ A}$
+$t = 5 \text{ நிமிடம்} = 300 \text{ வினாடி}$
+
+மாற்றினால்:
+$H = 6^2 \times 5 \times 300$
+
+$H = 36 \times 5 \times 300$
+
+$H = 54000 \text{ J}$
+
+ஆகவே:
+உருவாகும் வெப்பம், $H = 54000 \text{ J}$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+ஒரு மின்சுற்றில் பொருத்தப்பட்டுள்ள 100 W, 200 V மின்விளக்கில் பாயும் மின்னோட்டமும் மின்தடையும் காண்க.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+சக்தி சமன்பாடு:
+$P = VI$
+
+கொடுக்கப்பட்டது:
+$P = 100 \text{ W}$
+$V = 200 \text{ V}$
+
+மின்னோட்டம்:
+$I = \frac{P}{V}$
+
+$I = \frac{100}{200}$
+
+$I = 0.5 \text{ A}$
+
+மின்தடை:
+$R = \frac{V}{I}$
+
+$R = \frac{200}{0.5}$
+
+$R = 400\ \Omega$
+
+ஆகவே:
+மின்னோட்டம் = $0.5 \text{ A}$
+மின்தடை = $400\ \Omega$
+
+</div>
+
+</details>
+
+---
+
 ### 4 மதிப்பெண் வினாக்கள் (4 Marks)
 
 #### 2024

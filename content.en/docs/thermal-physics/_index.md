@@ -493,6 +493,75 @@ Where $P$ is pressure and $V$ is volume.
 
 ---
 
+#### Numerical Problem
+
+At constant temperature, when the pressure of a gas is increased four times, its volume changes from 20 cc to $V_2$. Calculate $V_2$.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Boyle's law:
+$P_1 V_1 = P_2 V_2$
+
+Given:
+$P_1 = P$
+$P_2 = 4P$
+$V_1 = 20 \text{ cm}^3$
+
+Substituting:
+$V_2 = \frac{P_1}{P_2} \times V_1$
+
+$V_2 = \frac{P}{4P} \times 20$
+
+$V_2 = \frac{1}{4} \times 20$
+
+$V_2 = 5 \text{ cm}^3$
+
+Therefore:
+Final volume, $V_2 = 5 \text{ cm}^3$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+A container of capacity 70 ml contains 50 ml of a liquid. On heating, the level first falls to 48.5 ml and then rises to 51.2 ml. Calculate the apparent and real expansion of the liquid.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Given:
+Initial level, $L_1 = 50 \text{ ml}$
+Reduced level due to container expansion, $L_2 = 48.5 \text{ ml}$
+Final level, $L_3 = 51.2 \text{ ml}$
+
+Apparent expansion:
+$= L_3 - L_1$
+$= 51.2 - 50$
+$= 1.2 \text{ ml}$
+
+Real expansion:
+$= L_3 - L_2$
+$= 51.2 - 48.5$
+$= 2.7 \text{ ml}$
+
+Therefore:
+Apparent expansion = $1.2 \text{ ml}$
+Real expansion = $2.7 \text{ ml}$
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
 #### 2025

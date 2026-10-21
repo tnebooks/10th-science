@@ -1596,6 +1596,98 @@ v_2 = 2v_1
 
 ---
 
+#### கணக்கீடு
+
+5 கிகி நிறையுள்ள பொருளொன்றின் நேர்க்கோட்டு உந்தம் 2.5 கிகிமீவி$^{-1}$ எனில் அதன் திசைவேகத்தை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+நேர்க்கோட்டு உந்தம் (Linear Momentum) பெறும் சமன்பாடு:
+$P = mv$
+
+கொடுக்கப்பட்டது:
+நிறை, $m = 5 \text{ கிகி}$
+நேர்க்கோட்டு உந்தம், $P = 2.5 \text{ கிகிமீவி}^{-1}$
+
+சமன்பாடு:
+$v = \frac{P}{m}$
+
+மாற்றினால்:
+$v = \frac{2.5}{5}$
+
+ஆகவே:
+திசைவேகம், $v = 0.5 \text{ மீவி}^{-1}$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+கீல் முனையில் இருந்து 90 செ.மீ தூரத்தில் கைப்பிடி கொண்ட கதவொன்று 40 N விசை கொண்டு திறக்கப்படுகிறது. கதவின் கீல் முனைப்பகுதியில் ஏற்படும் திருப்புத்திறன் மதிப்பை கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+திருப்புத்திறன் (Torque) பெறும் சமன்பாடு:
+$\tau = F \times d$
+
+கொடுக்கப்பட்டது:
+விசை, $F = 40 \text{ நியூட்டன்}$
+தொலைவு, $d = 90 \text{ செ.மீ} = 90 \times 10^{-2} \text{ மீ}$
+
+மாற்றினால்:
+$\tau = 40 \times 90 \times 10^{-2}$
+
+$\tau = 3600 \times 10^{-2} \text{ நியூட்டன் மீட்டர்}$
+
+ஆகவே:
+திருப்புத்திறன், $\tau = 36 \text{ நியூட்டன் மீட்டர்}$
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+மின்தாக்கி ஒன்று $1.8 \text{ மீவி}^{-2}$ முடுக்கத்துடன் கீழே நகர்கிறது எனில் 50 கிகி நிறை கொண்ட மனிதர் எவ்வளவு தொற்ற எடை உணர்வார்?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+தொற்ற எடை (Apparent Weight) பெறும் சமன்பாடு:
+$R = m(g - a)$
+
+கொடுக்கப்பட்டது:
+முடுக்கம், $a = 1.8 \text{ மீவி}^{-2}$
+நிறை, $m = 50 \text{ கிகி}$
+புவியீர்ப்பு முடுக்கம், $g = 9.8 \text{ மீவி}^{-2}$
+
+மாற்றினால்:
+$R = 50(9.8 - 1.8)$
+
+$R = 50 \times 8$
+
+ஆகவே:
+தொற்ற எடை, $R = 400 \text{ N}$
+
+</div>
+
+</details>
+
+---
+
 ### 4 மதிப்பெண் வினாக்கள் (4 Marks)
 
 #### 2023
