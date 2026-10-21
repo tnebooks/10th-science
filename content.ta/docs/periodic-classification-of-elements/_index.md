@@ -44,6 +44,11 @@ references:
         - https://www.webelements.com
         - www.rsc.org/periodic-table
         - https://www.tcyonline.com
+        - "[Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom)"
+        - "[Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulations/isotopes-and-atomic-mass)"
+        - "[Rutherford Scattering](https://phet.colorado.edu/en/simulations/rutherford-scattering)"
+        - "[Models of the Hydrogen Atom](https://phet.colorado.edu/en/simulations/models-of-the-hydrogen-atom)"
+        - "[Atomic Interactions](https://phet.colorado.edu/en/simulations/atomic-interactions)"
     books:
         - b1:
             title: Oxford Inorganic chemistry

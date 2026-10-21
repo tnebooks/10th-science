@@ -22,6 +22,11 @@ references:
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d9e026c0-0486-11f0-8a2e-9bc63eeeb434.mp4"
     links:
         - "[Ohm's Law Simulation](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html)"
+        - "[Ohm's Law](https://phet.colorado.edu/en/simulations/ohms-law)"
+        - "[Circuit Construction Kit: DC](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc)"
+        - "[Circuit Construction Kit: DC - Virtual Lab](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc-virtual-lab)"
+        - "[Resistance in a Wire](https://phet.colorado.edu/en/simulations/resistance-in-a-wire)"
+        - "[Capacitor Lab: Basics](https://phet.colorado.edu/en/simulations/capacitor-lab-basics)"
     books:
         - b1:
             title: Fundamentals of Electric Circuits by Charles Alexander

@@ -75,6 +75,8 @@ references:
     links:
         - www.sciencedaily.com
         - www.britannica.com
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
+        - "[Diffusion](https://phet.colorado.edu/en/simulations/diffusion)"
     books:
         - b1:
             title: Pandey B.P. Plant Anatomy, S. Chand and Company Ltd, New Delhi

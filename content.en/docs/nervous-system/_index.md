@@ -51,6 +51,8 @@ references:
     links:
         - http://www.britannica.com/science/nervous-system
         - http://www.sumanasine.com/webcontent/animations/neurobiology.html
+        - "[Neuron](https://phet.colorado.edu/en/simulations/neuron)"
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
     books:
         - b1:
             title: Guyton and Hall, 2003, Textbook of Medical Physiology; Harcourt Indian Private Limited.

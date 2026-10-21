@@ -42,6 +42,11 @@ references:
         - "[விசைகளும் இயக்கத்தின் அடிப்படைகளும் - மாதிரி உருவகப்படுத்துதல்](https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html)"
         - "[திருப்புத்திறன் மற்றும் திருப்புத்திறன்களின் தத்துவ மாதிரி உருவகப்படுத்துதல்](https://www.walter-fendt.de/html5/phen/lever_en.htm)"
         - "[விசை மற்றும் இயக்கம் சார்ந்த ஊடாடும் கற்றல் தளம்](https://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Force)"
+        - "[Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics)"
+        - "[Collision Lab](https://phet.colorado.edu/en/simulations/collision-lab)"
+        - "[Friction](https://phet.colorado.edu/en/simulations/friction)"
+        - "[Projectile Motion](https://phet.colorado.edu/en/simulations/projectile-motion)"
+        - "[Vector Addition](https://phet.colorado.edu/en/simulations/vector-addition)"
     books:
         - b1:
             title:  Concept of physics - HC verma

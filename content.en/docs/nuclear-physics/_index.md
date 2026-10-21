@@ -18,6 +18,10 @@ references:
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7ef51a50-1155-11f0-8811-8725ea47ca72.mp4"
     links:
         - "[Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom)"
+        - "[Alpha Decay](https://phet.colorado.edu/en/simulations/alpha-decay)"
+        - "[Beta Decay](https://phet.colorado.edu/en/simulations/beta-decay)"
+        - "[Nuclear Fission](https://phet.colorado.edu/en/simulations/nuclear-fission)"
+        - "[Build a Nucleus](https://phet.colorado.edu/en/simulations/build-a-nucleus)"
     books:
         - b1:
             title: Physics concepts and connections – by Art Hobson Edition Pearson education

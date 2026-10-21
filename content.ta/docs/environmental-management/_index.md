@@ -7,6 +7,8 @@ references:
     links:
         - http://envfor.nic.in
         - https://www.ovoenergy.com/guides/energy-guides/120-ways-to-save-energy.html
+        - "[Greenhouse Effect](https://phet.colorado.edu/en/simulations/greenhouse-effect)"
+        - "[Energy Forms and Changes](https://phet.colorado.edu/en/simulations/energy-forms-and-changes)"
     books:
         - b1:
             title: P.D. Sharma, 2013. Ecology and Environment, Rastogi Publications, Meerut.

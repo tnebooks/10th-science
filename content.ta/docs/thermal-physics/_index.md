@@ -26,6 +26,11 @@ references:
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e5b5feda-e337-46eb-830d-3eec7959a567.mp4"
     links:
         - "[Boyle's Law Simulator](https://mechsimulator.com/tools/boyles-law/)"
+        - "[States of Matter](https://phet.colorado.edu/en/simulations/states-of-matter)"
+        - "[Gas Properties](https://phet.colorado.edu/en/simulations/gas-properties)"
+        - "[Gases Intro](https://phet.colorado.edu/en/simulations/gases-intro)"
+        - "[Blackbody Spectrum](https://phet.colorado.edu/en/simulations/blackbody-spectrum)"
+        - "[Energy Forms and Changes](https://phet.colorado.edu/en/simulations/energy-forms-and-changes)"
     books:
         - b1:
             title: Thermodynamics and an introduction to thermo statistics by Herbert Hallen

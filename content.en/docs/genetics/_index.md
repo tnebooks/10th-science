@@ -57,6 +57,8 @@ references:
         - https://www.genetics.edu.au
         - https://www.bioexplorer.net/chromosomal-mutation.html/
         - https://www.ndss.org/about-down-syndrome/down-syndrome/
+        - "[Gene Expression Essentials](https://phet.colorado.edu/en/simulations/gene-expression-essentials)"
+        - "[Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection)"
     books:
         - b1:
             title: P. S. Verma and V.K. Agarwal, Genetics, S. Chand and Company, New Delhi

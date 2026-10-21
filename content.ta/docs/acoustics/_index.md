@@ -14,6 +14,11 @@ references:
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/62c1dbaf-958f-4e47-84a1-3bfc48e7bbe3.mp4"
     links:
         - "[Doppler effect](https://ophysics.com/w11.html)"
+        - "[Sound Waves](https://phet.colorado.edu/en/simulations/sound-waves)"
+        - "[Wave on a String](https://phet.colorado.edu/en/simulations/wave-on-a-string)"
+        - "[Waves Intro](https://phet.colorado.edu/en/simulations/waves-intro)"
+        - "[Wave Interference](https://phet.colorado.edu/en/simulations/wave-interference)"
+        - "[Fourier: Making Waves](https://phet.colorado.edu/en/simulations/fourier-making-waves)"
     books:
         - b1:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson

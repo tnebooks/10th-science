@@ -58,6 +58,11 @@ references:
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1ae8d640-0288-11f0-8f77-49458468945f.mp4"
     links:
         - "[Geometric Optics](https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html)"
+        - "[Geometric Optics](https://phet.colorado.edu/en/simulations/geometric-optics)"
+        - "[Geometric Optics: Basics](https://phet.colorado.edu/en/simulations/geometric-optics-basics)"
+        - "[Bending Light](https://phet.colorado.edu/en/simulations/bending-light)"
+        - "[Color Vision](https://phet.colorado.edu/en/simulations/color-vision)"
+        - "[Molecules and Light](https://phet.colorado.edu/en/simulations/molecules-and-light)"
     books:
         - b1:
             title:  Fundamentals of optics by D.R. Khanna and H.R. Gulati, R. Chand & Co.

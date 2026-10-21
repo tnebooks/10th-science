@@ -48,6 +48,9 @@ references:
         - https://www.embibe.com/study/transgenic-cow-rosie-concept
         - https://en.wikipedia.org/wiki/DNA_profiling
         - https://www.krishijagran.com/news/tomato-at-shoots-potato-in-roots
+        - "[Gene Expression Essentials](https://phet.colorado.edu/en/simulations/gene-expression-essentials)"
+        - "[Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection)"
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
     books:
         - b1:
             title: Chaudhari, H.K., Elementary Principles of Plant Breeding, 2nd Edition.

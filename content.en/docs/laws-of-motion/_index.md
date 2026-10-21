@@ -42,6 +42,11 @@ references:
         - "[Forces and Motion Basics Simulation](https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html)"
         - "[Torque and the Principle of Moments Simulator](https://www.walter-fendt.de/html5/phen/lever_en.htm)"
         - "[The Force and Motion Interactive Sandbox](https://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Force)"
+        - "[Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics)"
+        - "[Collision Lab](https://phet.colorado.edu/en/simulations/collision-lab)"
+        - "[Friction](https://phet.colorado.edu/en/simulations/friction)"
+        - "[Projectile Motion](https://phet.colorado.edu/en/simulations/projectile-motion)"
+        - "[Vector Addition](https://phet.colorado.edu/en/simulations/vector-addition)"
     books:
         - b1:
             title:  Concept of physics - HC verma

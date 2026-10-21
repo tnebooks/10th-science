@@ -98,6 +98,9 @@ references:
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eaba-1405-11f0-abbe-93d158bec7a9.mp4"
     links:
         - https://www.ross and wilson.com/lecturers
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
+        - "[Neuron](https://phet.colorado.edu/en/simulations/neuron)"
+        - "[pH Scale](https://phet.colorado.edu/en/simulations/ph-scale)"
     books:
         - b1:
             title: Srilakshmi, B. Dietetics, 2014, 7th Multicolor Edition, New Age International Publishers, New Delhi.

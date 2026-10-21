@@ -31,6 +31,11 @@ references:
     links:
         - https://www2.estrellamountain.edu/faculty/farabee/biobk/BioBookCHEM1.html
         - https://www.toppr.com/guides/chemistry/atoms-and-molecules/
+        - "[Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom)"
+        - "[Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulations/isotopes-and-atomic-mass)"
+        - "[Build a Molecule](https://phet.colorado.edu/en/simulations/build-a-molecule)"
+        - "[Molecule Shapes](https://phet.colorado.edu/en/simulations/molecule-shapes)"
+        - "[Molecule Polarity](https://phet.colorado.edu/en/simulations/molecule-polarity)"
     books:
         - b1:
             title: Petrucci, Ralph H et.al. General Chemistry Principles & Modern Applications (9thEdition). Upper Saddle River, NJ PearsonPrentice Hall, 2007. Print.

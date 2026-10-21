@@ -38,6 +38,7 @@ references:
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fada7fa0-670e-11ed-b7b5-f724a7f15f2d.mp4"
     links:
         -  "[Human Evolution Clicker](https://play.google.com/store/apps/details?id=com.banana4apps.evolution)"
+        - "[Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection)"
     books:
         - b1:
             title: B.S. Tomar and S.P. Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications

@@ -6,6 +6,11 @@ references:
         - youtube:hpw0ot17TOc?si=AVYs7xHvJ4rMqQLc
     links:
         - "[Organic Compound Simulation](https://organic-sim.pages.dev/)"
+        - "[Build a Molecule](https://phet.colorado.edu/en/simulations/build-a-molecule)"
+        - "[Molecule Shapes](https://phet.colorado.edu/en/simulations/molecule-shapes)"
+        - "[Molecule Shapes: Basics](https://phet.colorado.edu/en/simulations/molecule-shapes-basics)"
+        - "[Molecule Polarity](https://phet.colorado.edu/en/simulations/molecule-polarity)"
+        - "[Molecules and Light](https://phet.colorado.edu/en/simulations/molecules-and-light)"
     books:
         - b1:
             title: Organic chemistry - B.S.Bahl & Arun Bahl S.Chand publishers, New delhi.
