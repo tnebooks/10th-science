@@ -357,7 +357,7 @@ Gene mutation is the changes occurring in nucleotide sequence of a gene. It invo
 
 ### 4 Marks
 
-#### Question Q31 (2023 • 4-marks)
+#### 2023
 
 Answer the following questions:
 
@@ -383,7 +383,7 @@ Answer the following questions:
 
 ---
 
-#### Question Q28 (a) (2024 • 4-marks)
+#### 2024
 
 Why is Euploidy considered advantageous in plants and animals ?
 
@@ -405,7 +405,7 @@ Why is Euploidy considered advantageous in plants and animals ?
 
 ### 7 Marks
 
-#### Question Q35 [Option b(i)] (2025 • 7-marks)
+#### 2025
 
 Describe Mendel's monohybrid cross with a checker board.
 
@@ -432,7 +432,7 @@ Describe Mendel's monohybrid cross with a checker board.
 
 ---
 
-#### Question Q35 [Option b(ii)] (2026 • 7-marks)
+#### 2026
 
 Explain the salient features of the Watson and Crick DNA double helix model.
 

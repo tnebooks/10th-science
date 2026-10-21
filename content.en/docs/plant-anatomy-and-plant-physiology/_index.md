@@ -484,7 +484,7 @@ RQ = Volume of CO₂ liberated / Volume of O₂ consumed
 
 ### 2 Marks
 
-#### Question Q19 (2025 • 2-marks)
+#### 2025
 
 Identify the parts A, B, C, D in the given figure of a Chloroplast.
 
@@ -507,7 +507,7 @@ Identify the parts A, B, C, D in the given figure of a Chloroplast.
 
 ### 4 Marks
 
-#### Question Q28 (2023 • 4-marks)
+#### 2023
 
 Answer the following questions:
 
@@ -535,7 +535,7 @@ Answer the following questions:
 
 ---
 
-#### Question Q26 (2024 • 4-marks)
+#### 2024
 
 Answer the following questions:
 
@@ -563,7 +563,7 @@ The light reaction produces energy-rich assimilatory power in the form of **$\te
 
 ### 7 Marks
 
-#### Question Q35 [Option a] (2025 • 7-marks)
+#### 2025
 
 Answer the following question (Internal Choice):
 
@@ -601,7 +601,7 @@ Answer the following question (Internal Choice):
 
 ---
 
-#### Question Q35 [Option a] (2026 • 7-marks)
+#### 2026
 
 Answer the following question (Internal Choice):
 

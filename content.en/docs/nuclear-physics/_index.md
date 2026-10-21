@@ -542,7 +542,7 @@ disintegrations in one second.
 
 ### 2 Marks
 
-#### Question Q22 (2023 • 2-marks)
+#### 2023
 
 Calculate the amount of energy released when a radioactive substance undergoes fusion and results in a mass defect of 2 kg.
 
@@ -575,7 +575,7 @@ $$E = 1.8 \times 10^{17}\text{ Joules}$$
 
 ### 4 Marks
 
-#### Question Q24 (a) (2024 • 4-marks)
+#### 2024
 
 Write any three properties of natural and artificial radioactivity.
 
@@ -598,7 +598,7 @@ Write any three properties of natural and artificial radioactivity.
 
 ---
 
-#### Question Q25 (2025 • 4-marks)
+#### 2025
 
 Compare the properties of alpha, beta and gamma radiation.
 
@@ -623,7 +623,7 @@ Compare the properties of alpha, beta and gamma radiation.
 
 ---
 
-#### Question Q26 (2026 • 4-marks)
+#### 2026
 
 Answer the following questions:
 
@@ -651,7 +651,7 @@ During World War II, atomic bombs dropped on Hiroshima and Nagasaki released eno
 
 ### 7 Marks
 
-#### Question Q33 [Option b(ii)] (2023 • 7-marks)
+#### 2023
 
 What is a nuclear reactor ? Explain its essential parts with their functions.
 

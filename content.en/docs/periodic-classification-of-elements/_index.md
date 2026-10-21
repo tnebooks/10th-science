@@ -813,7 +813,7 @@ It is a railway bridge which connects the town of Rameshwaram on Pamban Island t
 
 ### 2 Marks
 
-#### Question Q15 (2024 • 2-marks)
+#### 2024, 2026
 
 What is rust ? Give the equation for the formation of rust.
 
@@ -834,7 +834,7 @@ $$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{
 
 ---
 
-#### Question Q15 (2025 • 2-marks)
+#### 2025
 
 State two conditions necessary for rusting of iron.
 
@@ -851,32 +851,9 @@ State two conditions necessary for rusting of iron.
 
 </details>
 
----
-
-#### Question Q15 (2026 • 2-marks)
-
-What is rust ? Give the equation for formation of rust.
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**Definition and Equation of Rust**
-When iron is exposed to moisture and oxygen, it undergoes slow oxidation to form a reddish-brown coating of hydrated ferric oxide called **rust**.
-
-**Equation:**
-$$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{O}_3 \cdot x\text{H}_2\text{O}$$
-
-</div>
-
-</details>
-
----
-
 ### 4 Marks
 
-#### Question Q26 (2023 • 4-marks)
+#### 2023
 
 Answer the following questions:
 
@@ -903,7 +880,7 @@ An **amalgam** is an alloy of mercury with one or more other metals.
 
 ---
 
-#### Question Q32 (a) (2024 • 4-marks)
+#### 2024
 
 Which acid renders aluminium metal passive ? Why ?
 
@@ -921,7 +898,7 @@ Which acid renders aluminium metal passive ? Why ?
 
 ---
 
-#### Question Q27 (2025 • 4-marks)
+#### 2025
 
 Answer the following questions:
 
@@ -949,7 +926,7 @@ An **alloy** is a homogeneous mixture of two or more metals, or of one or more m
 
 ---
 
-#### Question Q27 (2026 • 4-marks)
+#### 2026
 
 Answer the following questions:
 

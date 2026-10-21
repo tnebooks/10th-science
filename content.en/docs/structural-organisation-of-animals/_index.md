@@ -396,7 +396,7 @@ The concept map shows comparative organization of Leech and Rabbit:
 
 ### 2 Marks
 
-#### Question Q17 (2023 • 2-marks)
+#### 2023
 
 List out the parasitic adaptations in leech.
 
@@ -419,7 +419,7 @@ List out the parasitic adaptations in leech.
 
 ### 4 Marks
 
-#### Question Q27 (2024 • 4-marks)
+#### 2024
 
 Write the dental formula of rabbit.
 
@@ -443,7 +443,7 @@ Total number of teeth in adult rabbit = $(2 + 0 + 3 + 3) \times 2 + (1 + 0 + 2 +
 
 ---
 
-#### Question Q29 (2025 • 4-marks)
+#### 2025
 
 How does locomotion take place in leech ?
 
@@ -468,7 +468,7 @@ Leeches exhibit two distinct types of movement:
 
 ---
 
-#### Question Q29 (2026 • 4-marks)
+#### 2026
 
 Answer the following questions:
 

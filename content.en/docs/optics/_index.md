@@ -750,7 +750,7 @@ $$
 
 ### 2 Marks
 
-#### Question Q14 (2023 • 2-marks)
+#### 2023
 
 Why does the sky appear blue in colour ?
 
@@ -774,7 +774,7 @@ When sunlight passes through the atmosphere, violet and blue colours have shorte
 
 ### 4 Marks
 
-#### Question Q24 (2023 • 4-marks)
+#### 2023, 2025
 
 Differentiate the eye defects : Myopia and Hypermetropia.
 
@@ -798,31 +798,7 @@ Differentiate the eye defects : Myopia and Hypermetropia.
 
 ---
 
-#### Question Q24 (2025 • 4-marks)
-
-Differentiate the eye defects : Myopia and Hypermetropia.
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**Differences between Myopia and Hypermetropia**
-
-| Feature | Myopia (Short-sightedness) | Hypermetropia (Long-sightedness) |
-|---|---|---|
-| **Definition** | Person can see nearby objects clearly, but cannot see distant objects. | Person can see distant objects clearly, but cannot see nearby objects. |
-| **Causes** | Lengthening of eye ball or shortening of focal length of eye lens. | Shortening of eye ball or increase in focal length of eye lens. |
-| **Focus Point** | Image of distant object forms in front of the retina. | Image of nearby object forms behind the retina. |
-| **Corrective Lens** | Concave lens of suitable focal length. | Convex lens of suitable focal length. |
-
-</div>
-
-</details>
-
----
-
-#### Question Q23 (2026 • 4-marks)
+#### 2026
 
 Answer the following questions:
 
@@ -852,7 +828,7 @@ Answer the following questions:
 
 ### 7 Marks
 
-#### Question Q33 [Option a] (2024 • 7-marks)
+#### 2024
 
 Answer the following question (Internal Choice):
 

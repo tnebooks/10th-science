@@ -681,7 +681,7 @@ They have highly branched hydrocarbon chains, which cannot be degraded by micro-
 
 ### 2 Marks
 
-#### Question Q16 (2025 • 2-marks)
+#### 2025
 
 Match the following :
 
@@ -709,7 +709,7 @@ Match the following :
 
 ---
 
-#### Question Q16 (2026 • 2-marks)
+#### 2026
 
 Name the simplest Ketone and give its structural formula.
 
@@ -736,7 +736,7 @@ Name the simplest Ketone and give its structural formula.
 
 ### 4 Marks
 
-#### Question Q27 (2023 • 4-marks)
+#### 2023, 2025
 
 Explain the mechanism of cleansing action of soap.
 
@@ -762,33 +762,7 @@ A soap molecule has two chemically distinct ends:
 
 ---
 
-#### Question Q28 (2025 • 4-marks)
-
-Explain the mechanism of cleansing action of soap.
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**Mechanism of Cleansing Action of Soap**
-Soap molecules consist of two chemically distinct parts:
-1. **Ionic Hydrophilic Head ($-\text{COO}^- \text{Na}^+$):** Attracted to water molecules.
-2. **Hydrocarbon Hydrophobic Tail:** Repelled by water, dissolves in grease and oil.
-
-**Micelle Formation & Cleansing:**
-- In water, soap molecules arrange themselves radially into spherical clusters called **micelles**.
-- The hydrophobic tails dissolve into the center of the oily dirt droplet, while the ionic heads project outward into water.
-- Mutual repulsion among like charges of the heads keeps the micelles suspended as an emulsion.
-- Agitation and rinsing with water lifts the trapped dirt micelles from fabric, leaving it clean.
-
-</div>
-
-</details>
-
----
-
-#### Question Q28 (2026 • 4-marks)
+#### 2026
 
 How is ethanoic acid prepared from ethanol ? Write the chemical equation.
 
@@ -811,27 +785,7 @@ $$\text{CH}_3\text{CH}_2\text{OH} + 2[\text{O}] \xrightarrow{\text{alkaline } \t
 
 ### 7 Marks
 
-#### Question Q34 [Option b(iii)] (2023 • 7-marks)
-
-Give any three characteristics of homologous series.
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**(iii) Characteristics of Homologous Series**
-1. Successive members differ by a $-\text{CH}_2-$ unit and a molecular mass of $14\text{ amu}$.
-2. All members can be represented by a common general molecular formula.
-3. Members possess identical chemical properties and exhibit a regular gradation in physical properties.
-
-</div>
-
-</details>
-
----
-
-#### Question Q34 [Option b(ii)] (2024 • 7-marks)
+#### 2023, 2024, 2025
 
 What is homologous series ? Write its characteristics.
 
@@ -852,27 +806,7 @@ A series of structurally related organic compounds containing the same functiona
 
 ---
 
-#### Question Q34 [Option b(ii)] (2025 • 7-marks)
-
-What is homologous series ? Give any two characteristics.
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**(ii) Homologous Series**
-A family of organic compounds with same functional group:
-1. Successive members differ by $-\text{CH}_2-$ unit and molecular mass of $14\text{ amu}$.
-2. Possess same chemical properties.
-
-</div>
-
-</details>
-
----
-
-#### Question Q34 [Option b] (2026 • 7-marks)
+#### 2026
 
 (b) (i) Write the rules for IUPAC nomenclature of organic compounds with examples.
 (ii) What is a functional group ? Give two examples.

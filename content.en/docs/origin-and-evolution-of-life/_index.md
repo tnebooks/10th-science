@@ -324,7 +324,7 @@ NASA is developing the Mars 2020 astrobiology to investigate an astrobiologicall
 
 ### 2 Marks
 
-#### Question Q20 (2025 • 2-marks)
+#### 2025
 
 The degenerated wings of kiwi bird is an acquired character. Why is it called an acquired character ?
 
@@ -343,7 +343,7 @@ Because the flightless kiwi bird inhabited an environment without predators and 
 
 ---
 
-#### Question Q20 (2026 • 2-marks)
+#### 2026
 
 Why is Archaeopteryx considered to be a connecting link ?
 
@@ -366,7 +366,7 @@ Hence, it serves as conclusive paleontological evidence that birds evolved from 
 
 ### 4 Marks
 
-#### Question Q30 (2024 • 4-marks)
+#### 2024
 
 Define Ethnobotany and write its importance.
 
@@ -392,7 +392,7 @@ Define Ethnobotany and write its importance.
 
 ### 7 Marks
 
-#### Question Q35 [Option a(iii)] (2023 • 7-marks)
+#### 2023
 
 Explain Lamarck's principles of evolution.
 

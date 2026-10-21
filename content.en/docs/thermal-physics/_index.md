@@ -429,7 +429,7 @@ $$
 
 ### 2 Marks
 
-#### Question Q15 (2023 • 2-marks)
+#### 2023, 2025
 
 Define one Calorie.
 
@@ -449,7 +449,7 @@ $$1\text{ calorie} = 4.186\text{ J}$$
 
 ---
 
-#### Question Q13 (2024 • 2-marks)
+#### 2024
 
 What is coefficient of apparent expansion ?
 
@@ -470,27 +470,7 @@ Unit: $\text{K}^{-1}$ or $^\circ\text{C}^{-1}$.
 
 ---
 
-#### Question Q13 (2025 • 2-marks)
-
-Define one Calorie.
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**Definition of One Calorie**
-**One calorie** is the quantity of heat energy required to raise the temperature of **1 gram of water by $1^\circ\text{C}$** (specifically from $14.5^\circ\text{C}$ to $15.5^\circ\text{C}$).
-
-$$1\text{ cal} = 4.186\text{ J}$$
-
-</div>
-
-</details>
-
----
-
-#### Question Q13 (2026 • 2-marks)
+#### 2026
 
 State Boyle's Law.
 
@@ -515,7 +495,7 @@ Where $P$ is pressure and $V$ is volume.
 
 ### 4 Marks
 
-#### Question Q23 (2025 • 4-marks)
+#### 2025
 
 Derive the ideal gas equation.
 
@@ -554,7 +534,7 @@ Where:
 
 ---
 
-#### Question Q24 (2026 • 4-marks)
+#### 2026
 
 Answer the following questions:
 
@@ -580,7 +560,7 @@ The **coefficient of real expansion** of a liquid is defined as the ratio of the
 
 ---
 
-#### Question Q32 (2026 • 4-marks)
+#### 2026
 
 A container of 70 mL capacity is filled with 50 mL of liquid. When heated, the level of liquid initially falls and then rises. Explain this observation with reference to real and apparent expansion.
 
@@ -606,7 +586,7 @@ $$\mathbf{\text{Real Expansion} = \text{Apparent Expansion} + \text{Vessel Expan
 
 ### 7 Marks
 
-#### Question Q33 [Option b(i)] (2024 • 7-marks)
+#### 2024
 
 State Boyle's Law and Charles's Law.
 

@@ -732,7 +732,7 @@ Since the resistors are connected in parallel, the same potential difference exi
 
 ### 2 Marks
 
-#### Question Q14 (2024 • 2-marks)
+#### 2024
 
 Why is tungsten metal used in bulbs but not used as fuse wire ?
 
@@ -753,7 +753,7 @@ Why is tungsten metal used in bulbs but not used as fuse wire ?
 
 ### 4 Marks
 
-#### Question Q24 (b) (2024 • 4-marks)
+#### 2024
 
 Mention two electrical appliances based on heating effect of current.
 
@@ -774,7 +774,7 @@ Mention two electrical appliances based on heating effect of current.
 
 ### 7 Marks
 
-#### Question Q33 [Option a] (2023 • 7-marks)
+#### 2023, 2026
 
 Answer the following question (Internal Choice):
 
@@ -810,33 +810,3 @@ A fuse wire has low melting point and relatively high resistance. When excessive
 </div>
 
 </details>
-
----
-
-#### Question Q33 [Option b] (2026 • 7-marks)
-
-(b) (i) State Joule's Law of Heating.
-(ii) An alloy of nickel and chromium is used as the heating element. Why ?
-(iii) How does an electric fuse wire protect household appliances ?
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**Option (b)**
-**(i) Joule's Law of Heating**
-$$H = I^2 R t$$
-Heat produced is directly proportional to square of current, resistance, and time.
-
-**(ii) Why Nichrome is Used as Heating Element**
-High resistivity, high melting point, and resistance to oxidation.
-
-**(iii) Electric Fuse Wire Protection**
-Low melting point wire melts and breaks the circuit when excessive current flows during overload or short circuit.
-
-</div>
-
-</details>
-
----

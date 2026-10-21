@@ -460,7 +460,7 @@ In SONAR, by measuring the change in the frequency between the sent signal and r
 
 ### 2 Marks
 
-#### Question Q14 (2025 • 2-marks)
+#### 2025
 
 What is a longitudinal wave ?
 
@@ -480,7 +480,7 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 ---
 
-#### Question Q22 (2026 • 2-marks)
+#### 2026
 
 A sound source of frequency 500 Hz moves towards a listener with a velocity of $30\text{ m s}^{-1}$. If velocity of sound in air is $330\text{ m s}^{-1}$, calculate the frequency heard by the listener.
 
@@ -511,7 +511,7 @@ $$n' = \left( \frac{330}{330 - 30} \right) \times 500 = \left( \frac{330}{300} \
 
 ### 4 Marks
 
-#### Question Q25 (2023 • 4-marks)
+#### 2023
 
 Answer the following questions:
 
@@ -536,7 +536,7 @@ When a sound wave travelling in a medium hits the boundary of another medium, it
 
 ---
 
-#### Question Q32 (2025 • 4-marks)
+#### 2025
 
 A source of sound of frequency 90 Hz is moving towards a stationary listener with a velocity equal to 1/10th of the velocity of sound. Find the apparent frequency heard by the listener.
 
@@ -567,7 +567,7 @@ $$n' = \left( \frac{10}{9} \right) \times 90 = \mathbf{100\text{ Hz}}$$
 
 ---
 
-#### Question Q25 (2026 • 4-marks)
+#### 2026
 
 What are the factors that affect the velocity of sound in gases ?
 
@@ -590,7 +590,7 @@ What are the factors that affect the velocity of sound in gases ?
 
 ### 7 Marks
 
-#### Question Q33 [Option b(i)] (2023 • 7-marks)
+#### 2023
 
 What is a longitudinal wave ?
 

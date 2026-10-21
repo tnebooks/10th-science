@@ -989,7 +989,7 @@ d. high temperature
 
 ### 2 Marks
 
-#### Question Q22 (2024 • 2-marks)
+#### 2024
 
 If the pH of a solution is 4.5, find the value of its pOH.
 
@@ -1017,7 +1017,7 @@ $$\text{pOH} = 14 - \text{pH} = 14 - 4.5 = \mathbf{9.5}$$
 
 ### 4 Marks
 
-#### Question Q32 (a) (2023 • 4-marks)
+#### 2023
 
 Find the pH of 0.01 M $\text{HNO}_3$ solution.
 
@@ -1041,7 +1041,7 @@ $$\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-2}) = -(-2) = \mathbf{2}$
 
 ### 7 Marks
 
-#### Question Q34 [Option b(i, ii)] (2023 • 7-marks)
+#### 2023
 
 (i) Differentiate reversible and irreversible reaction.
 (ii) What is neutralization reaction ? Give an example.
@@ -1070,7 +1070,7 @@ $$\text{HCl} + \text{NaOH} \rightarrow \text{NaCl} + \text{H}_2\text{O}$$
 
 ---
 
-#### Question Q34 [Option b(i)] (2025 • 7-marks)
+#### 2025
 
 Explain combination and decomposition chemical reactions with suitable examples.
 

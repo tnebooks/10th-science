@@ -660,7 +660,7 @@ Lymph from the intercellular spaces drains into lymphatic capillaries. Lymph is 
 
 ### 2 Marks
 
-#### Question Q17 (2024 • 2-marks)
+#### 2024
 
 Why is sinoatrial node called as pacemaker of heart ?
 
@@ -678,7 +678,7 @@ The **Sinoatrial (SA) node** spontaneously initiates rhythmic electrical impulse
 
 ---
 
-#### Question Q19 (2024 • 2-marks)
+#### 2024
 
 Identify the parts A, B, C and D in the given figure of Stoma.
 
@@ -699,7 +699,7 @@ Identify the parts A, B, C and D in the given figure of Stoma.
 
 ---
 
-#### Question Q17 (2025 • 2-marks)
+#### 2025
 
 What is the importance of valves in the heart ?
 
@@ -718,7 +718,7 @@ What is the importance of valves in the heart ?
 
 ---
 
-#### Question Q17 (2026 • 2-marks)
+#### 2026
 
 Why is the circulation in man referred to as double circulation ?
 
@@ -741,7 +741,7 @@ Because these two separate circuits occur simultaneously without mixing, it is c
 
 ### 4 Marks
 
-#### Question Q29 (2023 • 4-marks)
+#### 2023
 
 Enumerate the functions of blood.
 
@@ -764,7 +764,7 @@ Enumerate the functions of blood.
 
 ---
 
-#### Question Q29 (2024 • 4-marks)
+#### 2024
 
 How are Arteries and Veins structurally different from one another ?
 
@@ -791,7 +791,7 @@ How are Arteries and Veins structurally different from one another ?
 
 ### 7 Marks
 
-#### Question Q35 [Option b(i)] (2024 • 7-marks)
+#### 2024
 
 Explain the structure of the human heart with a neat labelled diagram.
 

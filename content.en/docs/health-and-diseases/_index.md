@@ -588,7 +588,7 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 
 ### 2 Marks
 
-#### Question Q21 (2024 • 2-marks)
+#### 2024
 
 What is metastasis ?
 
@@ -608,7 +608,7 @@ What is metastasis ?
 
 ### 7 Marks
 
-#### Question Q35 [Option b(ii)] (2023 • 7-marks)
+#### 2023
 
 Describe the symptoms and preventive measures of AIDS.
 

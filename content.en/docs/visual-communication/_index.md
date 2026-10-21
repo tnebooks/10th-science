@@ -193,7 +193,7 @@ Click the green flag at the top right corner of the stage to run your program.
 
 ### 2 Marks
 
-#### Question Q21 (2023 • 2-marks)
+#### 2023
 
 What is Sprite ?
 
@@ -211,7 +211,7 @@ In visual programming environments such as Scratch, a **Sprite** is an on-screen
 
 ---
 
-#### Question Q16 (2024 • 2-marks)
+#### 2024
 
 What is stage ?
 

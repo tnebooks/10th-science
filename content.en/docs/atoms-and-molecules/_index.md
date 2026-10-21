@@ -707,7 +707,7 @@ $$).
 
 ### 2 Marks
 
-#### Question Q16 (2023 • 2-marks)
+#### 2023
 
 Mention any two applications of Avogadro's Law.
 
@@ -728,7 +728,7 @@ Mention any two applications of Avogadro's Law.
 
 ---
 
-#### Question Q22 (2025 • 2-marks)
+#### 2025
 
 Find the mass percentage composition of methane ($\text{CH}_4$).
 
@@ -755,7 +755,7 @@ $$M = (1 \times 12) + (4 \times 1) = 12 + 4 = 16\text{ g/mol}$$
 
 ---
 
-#### Question Q14 (2026 • 2-marks)
+#### 2026
 
 Define : Relative atomic mass.
 
@@ -777,7 +777,7 @@ $$A_r = \frac{\text{Average mass of isotopes of the element}}{\frac{1}{12} \time
 
 ### 4 Marks
 
-#### Question Q32 (b) (2024 • 4-marks)
+#### 2024
 
 Calculate the number of moles in $1.51 \times 10^{23}$ molecules of $\text{NH}_4\text{Cl}$.
 
@@ -796,7 +796,7 @@ $$\text{Number of moles} = \frac{1.51 \times 10^{23}}{6.023 \times 10^{23}} = \f
 
 ---
 
-#### Question Q26 (2025 • 4-marks)
+#### 2025
 
 Write the applications of Avogadro's Law.
 
@@ -820,7 +820,7 @@ Write the applications of Avogadro's Law.
 
 ### 7 Marks
 
-#### Question Q34 [Option a(i, ii)] (2023 • 7-marks)
+#### 2023
 
 (i) Define : Atomicity.
 (ii) Calculate the percentage of sulphur in $\text{H}_2\text{SO}_4$.
@@ -850,7 +850,7 @@ $$\%\text{ of S} = \frac{32}{98} \times 100 = \mathbf{32.65\%}$$
 
 ---
 
-#### Question Q34 [Option a(i)] (2024 • 7-marks)
+#### 2024
 
 At same temperature and pressure, 3 L of $\text{O}_2$, 5 L of $\text{Cl}_2$ and 6 L of $\text{H}_2$ gases are taken. (A) Which contains maximum molecules ? (B) Which contains minimum molecules ? Explain using Avogadro's law.
 

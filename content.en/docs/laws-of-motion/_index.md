@@ -628,7 +628,7 @@ From the centre of the Earth, the object is placed at twice the radius of the ea
 
 ### 2 Marks
 
-#### Question Q13 (2023 • 2-marks)
+#### 2023
 
 Define inertia. Give its classification.
 
@@ -653,7 +653,7 @@ The inherent property of a body to resist any change in its state of rest or the
 
 ### 4 Marks
 
-#### Question Q23 (2023 • 4-marks)
+#### 2023
 
 Deduce the equation of force using Newton's Second Law of Motion.
 
@@ -693,7 +693,7 @@ Hence, $\text{Force} = \text{mass} \times \text{acceleration}$.
 
 ---
 
-#### Question Q23 (2024 • 4-marks)
+#### 2024
 
 Explain the various types of inertia with examples.
 
@@ -721,7 +721,7 @@ Explain the various types of inertia with examples.
 
 ### 7 Marks
 
-#### Question Q33 [Option b(ii)] (2024 • 7-marks)
+#### 2024
 
 Distinguish between mass and weight.
 
@@ -740,7 +740,7 @@ Distinguish between mass and weight.
 
 ---
 
-#### Question Q33 (2025 • 7-marks)
+#### 2025
 
 Answer the following question (Internal Choice):
 
@@ -794,7 +794,7 @@ Rate of change of momentum is directly proportional to applied force ($F \propto
 
 ---
 
-#### Question Q33 [Option a] (2026 • 7-marks)
+#### 2026
 
 Answer the following question (Internal Choice):
 
