@@ -479,7 +479,7 @@ Environmental management
 
 ### 2 Marks
 
-#### Question Q21 (2025 • 2-marks)
+#### 2025
 
 What will happen if trees are cut down ?
 
@@ -500,7 +500,7 @@ What will happen if trees are cut down ?
 
 ---
 
-#### Question Q21 (2026 • 2-marks)
+#### 2026
 
 Match the following :
 
@@ -530,7 +530,7 @@ Matches: (1)-(iii), (2)-(iv), (3)-(ii), (4)-(i).
 
 ### 4 Marks
 
-#### Question Q30 (2023 • 4-marks)
+#### 2023
 
 How do rainwater harvesting structures recharge ground water ?
 
@@ -553,7 +553,7 @@ Rainwater harvesting directly collects and directs runoff rainwater into undergr
 
 ---
 
-#### Question Q31 (a) (2024 • 4-marks)
+#### 2024
 
 What are the consequences of deforestation ?
 
@@ -574,7 +574,7 @@ What are the consequences of deforestation ?
 
 ---
 
-#### Question Q31 (2025 • 4-marks)
+#### 2025
 
 Answer the following questions:
 
@@ -605,7 +605,7 @@ Answer the following questions:
 
 ---
 
-#### Question Q31 (2026 • 4-marks)
+#### 2026
 
 Enumerate the importance of Forest.
 
@@ -628,7 +628,7 @@ Enumerate the importance of Forest.
 
 ### 7 Marks
 
-#### Question Q35 [Option b(ii)] (2024 • 7-marks)
+#### 2024
 
 What are the causes and preventive measures of soil erosion ?
 

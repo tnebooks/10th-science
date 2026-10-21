@@ -460,7 +460,7 @@ In SONAR, by measuring the change in the frequency between the sent signal and r
 
 ### 2 Marks
 
-#### Question Q14 (2025 • 2-marks)
+#### 2025
 
 What is a longitudinal wave ?
 
@@ -480,7 +480,7 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 ---
 
-#### Question Q22 (2026 • 2-marks)
+#### 2026
 
 A sound source of frequency 500 Hz moves towards a listener with a velocity of $30\text{ m s}^{-1}$. If velocity of sound in air is $330\text{ m s}^{-1}$, calculate the frequency heard by the listener.
 
@@ -509,9 +509,73 @@ $$n' = \left( \frac{330}{330 - 30} \right) \times 500 = \left( \frac{330}{300} \
 
 ---
 
+#### Numerical Problem
+
+A sound wave of frequency 200 Hz travels with a velocity of 400 m s$^{-1}$ in a medium. Find its wavelength.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Wave velocity relation:
+$v = n \lambda$
+
+Given:
+$n = 200 \text{ Hz}$
+$v = 400 \text{ m s}^{-1}$
+
+Substituting:
+$\lambda = \frac{v}{n}$
+
+$\lambda = \frac{400}{200}$
+
+$\lambda = 2 \text{ m}$
+
+Therefore:
+Wavelength, $\lambda = 2 \text{ m}$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+Lightning is seen and thunder is heard after 9.8 seconds. If the speed of sound in air is 300 m s$^{-1}$, find the height of the clouds.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Velocity relation:
+$v = \frac{d}{t}$
+
+Given:
+$t = 9.8 \text{ s}$
+$v = 300 \text{ m s}^{-1}$
+
+Substituting:
+$d = v \times t$
+
+$d = 300 \times 9.8$
+
+$d = 2940 \text{ m}$
+
+Therefore:
+Height of the clouds, $d = 2940 \text{ m}$
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
-#### Question Q25 (2023 • 4-marks)
+#### 2023
 
 Answer the following questions:
 
@@ -536,7 +600,7 @@ When a sound wave travelling in a medium hits the boundary of another medium, it
 
 ---
 
-#### Question Q32 (2025 • 4-marks)
+#### 2025
 
 A source of sound of frequency 90 Hz is moving towards a stationary listener with a velocity equal to 1/10th of the velocity of sound. Find the apparent frequency heard by the listener.
 
@@ -567,7 +631,7 @@ $$n' = \left( \frac{10}{9} \right) \times 90 = \mathbf{100\text{ Hz}}$$
 
 ---
 
-#### Question Q25 (2026 • 4-marks)
+#### 2026
 
 What are the factors that affect the velocity of sound in gases ?
 
@@ -590,7 +654,7 @@ What are the factors that affect the velocity of sound in gases ?
 
 ### 7 Marks
 
-#### Question Q33 [Option b(i)] (2023 • 7-marks)
+#### 2023
 
 What is a longitudinal wave ?
 

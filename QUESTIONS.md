@@ -29,13 +29,11 @@ Comprehensive bilingual question bank compiled from Tamil Nadu SSLC Science Boar
 <a id="2023-2-marks"></a>
 ## 2023 - 2 Marks Questions (Short Answer / குறு வினாக்கள் - Part II)
 
-### Question Q13 (2023 • 2-marks)
+### Define inertia. Give its classification (2023)
 
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q13
+**Exam Year**: 2023 | **ID**: q13
 
 #### 🇬🇧 English
-
-## Define inertia. Give its classification.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -52,7 +50,8 @@ The inherent property of a body to resist any change in its state of rest or the
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## நிலைமம் – வரையறுக்கவும். அதன் வகைகள் யாவை?
+**நிலைமம் – வரையறுக்கவும். அதன் வகைகள் யாவை?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -67,15 +66,11 @@ The inherent property of a body to resist any change in its state of rest or the
 
 </details>
 
----
+### Why does the sky appear blue in colour ? (2023)
 
-### Question Q14 (2023 • 2-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q14
+**Exam Year**: 2023 | **ID**: q14
 
 #### 🇬🇧 English
-
-## Why does the sky appear blue in colour ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -91,7 +86,8 @@ When sunlight passes through the atmosphere, violet and blue colours have shorte
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## வானம் ஏன் நீல நிறமாகத் தோன்றுகிறது?
+**வானம் ஏன் நீல நிறமாகத் தோன்றுகிறது?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -105,15 +101,11 @@ $$S \propto \frac{1}{\lambda^4}$$
 
 </details>
 
----
+### Define one Calorie (2023, 2025)
 
-### Question Q15 (2023 • 2-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q15
+**Exam Year**: 2023 | **ID**: q15
 
 #### 🇬🇧 English
-
-## Define one Calorie.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -127,7 +119,8 @@ $$1\text{ calorie} = 4.186\text{ J}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## ஒரு கலோரி – வரையறுக்கவும்.
+**ஒரு கலோரி – வரையறுக்கவும்.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -139,15 +132,11 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 </details>
 
----
+### Mention any two applications of Avogadro's Law (2023)
 
-### Question Q16 (2023 • 2-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q16
+**Exam Year**: 2023 | **ID**: q16
 
 #### 🇬🇧 English
-
-## Mention any two applications of Avogadro's Law.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -162,7 +151,8 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## அவகாட்ரோ விதியின் பயன்பாடுகளில் ஏதேனும் இரண்டினைத் கூறுக.
+**அவகாட்ரோ விதியின் பயன்பாடுகளில் ஏதேனும் இரண்டினைத் கூறுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -175,15 +165,11 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 </details>
 
----
+### List out the parasitic adaptations in leech (2023)
 
-### Question Q17 (2023 • 2-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q17
+**Exam Year**: 2023 | **ID**: q17
 
 #### 🇬🇧 English
-
-## List out the parasitic adaptations in leech.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -198,7 +184,8 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## அட்டையில் காணப்படும் ஒட்டுண்ணி தகவமைப்புகளை எழுதுக.
+**அட்டையில் காணப்படும் ஒட்டுண்ணி தகவமைப்புகளை எழுதுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -211,15 +198,11 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 </details>
 
----
+### What are the structures involved in the protection of brain ? (2023)
 
-### Question Q18 (2023 • 2-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q18
+**Exam Year**: 2023 | **ID**: q18
 
 #### 🇬🇧 English
-
-## What are the structures involved in the protection of brain ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -236,7 +219,8 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மூளையைப் பாதுகாப்பாக வைத்திருக்க உதவும் உறுப்புகள் யாவை?
+**மூளையைப் பாதுகாப்பாக வைத்திருக்க உதவும் உறுப்புகள் யாவை?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -251,15 +235,11 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 </details>
 
----
+### Identify the parts A, B, C and D in the given figure of a Neuron (2023)
 
-### Question Q19 (2023 • 2-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q19
+**Exam Year**: 2023 | **ID**: q19
 
 #### 🇬🇧 English
-
-## Identify the parts A, B, C and D in the given figure of a Neuron.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -274,7 +254,8 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## கொடுக்கப்பட்டுள்ள நியூரான் படத்தில் A, B, C மற்றும் D ஆகிய பாகங்களை அடையாளம் காணவும்.
+**கொடுக்கப்பட்டுள்ள நியூரான் படத்தில் A, B, C மற்றும் D ஆகிய பாகங்களை அடையாளம் காணவும்.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -287,15 +268,11 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 </details>
 
----
+### Define genetic engineering (2023)
 
-### Question Q20 (2023 • 2-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q20
+**Exam Year**: 2023 | **ID**: q20
 
 #### 🇬🇧 English
-
-## Define genetic engineering.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -307,7 +284,8 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மரபுப் பொறியியல் – வரையறுக்கவும்.
+**மரபுப் பொறியியல் – வரையறுக்கவும்.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -317,15 +295,11 @@ $$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
 
 </details>
 
----
+### What is Sprite ? (2023)
 
-### Question Q21 (2023 • 2-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q21
+**Exam Year**: 2023 | **ID**: q21
 
 #### 🇬🇧 English
-
-## What is Sprite ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -337,7 +311,8 @@ In visual programming environments such as Scratch, a **Sprite** is an on-screen
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## ஸ்ப்ரைட் (SPRITE) என்றால் என்ன?
+**ஸ்ப்ரைட் (SPRITE) என்றால் என்ன?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -347,15 +322,11 @@ In visual programming environments such as Scratch, a **Sprite** is an on-screen
 
 </details>
 
----
+### Calculate the amount of energy released when a radioactive substance undergoes fusion and results in a mass defect of 2 kg (2023)
 
-### Question Q22 (2023 • 2-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 2-marks | **ID**: q22
+**Exam Year**: 2023 | **ID**: q22
 
 #### 🇬🇧 English
-
-## Calculate the amount of energy released when a radioactive substance undergoes fusion and results in a mass defect of 2 kg.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -380,7 +351,8 @@ $$E = 1.8 \times 10^{17}\text{ Joules}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## 2 கி.கி நிறைவழுவுடைய ஒரு கதிரியக்கப் பொருளானது அணுக்கரு இணைவின்போது வெளிவிடும் மொத்த ஆற்றலைக் கணக்கிடுக.
+**2 கி.கி நிறைவழுவுடைய ஒரு கதிரியக்கப் பொருளானது அணுக்கரு இணைவின்போது வெளிவிடும் மொத்த ஆற்றலைக் கணக்கிடுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -406,15 +378,14 @@ $$E = 1.8 \times 10^{17}\text{ ஜூல்}$$
 ---
 
 <a id="2023-4-marks"></a>
+
 ## 2023 - 4 Marks Questions (Brief Answer / சிறு வினாக்கள் - Part III)
 
-### Question Q23 (2023 • 4-marks)
+### Deduce the equation of force using Newton's Second Law of Motion (2023)
 
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q23
+**Exam Year**: 2023 | **ID**: q23
 
 #### 🇬🇧 English
-
-## Deduce the equation of force using Newton's Second Law of Motion.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -448,7 +419,8 @@ Hence, $\text{Force} = \text{mass} \times \text{acceleration}$.
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## விசையின் சமன்பாட்டை நியூட்டனின் இரண்டாம் விதி மூலம் தருவி.
+**விசையின் சமன்பாட்டை நியூட்டனின் இரண்டாம் விதி மூலம் தருவி.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -480,15 +452,11 @@ $$\mathbf{F = m \cdot a}$$
 
 </details>
 
----
+### Differentiate the eye defects : Myopia and Hypermetropia (2023, 2025)
 
-### Question Q24 (2023 • 4-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q24
+**Exam Year**: 2023 | **ID**: q24
 
 #### 🇬🇧 English
-
-## Differentiate the eye defects : Myopia and Hypermetropia.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -506,7 +474,8 @@ $$\mathbf{F = m \cdot a}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## கிட்டப்பார்வை மற்றும் தூரப்பார்வை குறைபாடுகளை வேறுபடுத்துக.
+**கிட்டப்பார்வை மற்றும் தூரப்பார்வை குறைபாடுகளை வேறுபடுத்துக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -522,15 +491,14 @@ $$\mathbf{F = m \cdot a}$$
 
 </details>
 
----
+### Ultrasonic Vibration & Reflection of Sound (2023)
 
-### Question Q25 (2023 • 4-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q25
+**Exam Year**: 2023 | **ID**: q25
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) What do you understand by the term Ultrasonic Vibration ?
 
@@ -549,7 +517,8 @@ When a sound wave travelling in a medium hits the boundary of another medium, it
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) மீயொலி அதிர்வுறுதல் என்றால் என்ன?
 
@@ -566,15 +535,14 @@ When a sound wave travelling in a medium hits the boundary of another medium, it
 
 </details>
 
----
+### Amalgam & Uses of Copper (2023)
 
-### Question Q26 (2023 • 4-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q26
+**Exam Year**: 2023 | **ID**: q26
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) What is an amalgam ? Give an example.
 
@@ -595,7 +563,8 @@ An **amalgam** is an alloy of mercury with one or more other metals.
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) இரசக்கலவை என்றால் என்ன? எடுத்துக்காட்டு தருக.
 
@@ -614,15 +583,11 @@ An **amalgam** is an alloy of mercury with one or more other metals.
 
 </details>
 
----
+### Explain the mechanism of cleansing action of soap (2023, 2025)
 
-### Question Q27 (2023 • 4-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q27
+**Exam Year**: 2023 | **ID**: q27
 
 #### 🇬🇧 English
-
-## Explain the mechanism of cleansing action of soap.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -642,7 +607,8 @@ A soap molecule has two chemically distinct ends:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## சோப்பின் தூய்மையாக்கல் முறையை விளக்குக.
+**சோப்பின் தூய்மையாக்கல் முறையை விளக்குக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -660,15 +626,14 @@ A soap molecule has two chemically distinct ends:
 
 </details>
 
----
+### Tissue Systems in Plants & Photosynthesis Factors (2023)
 
-### Question Q28 (2023 • 4-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q28
+**Exam Year**: 2023 | **ID**: q28
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) Name the three basic tissue systems in a flowering plant.
 
@@ -690,7 +655,8 @@ A soap molecule has two chemically distinct ends:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) மலரும் தாவரங்களில் காணப்படும் மூன்று வகையான திசுத் தொகுப்புகளைக் குறிப்பிடுக.
 
@@ -710,15 +676,11 @@ A soap molecule has two chemically distinct ends:
 
 </details>
 
----
+### Enumerate the functions of blood (2023)
 
-### Question Q29 (2023 • 4-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q29
+**Exam Year**: 2023 | **ID**: q29
 
 #### 🇬🇧 English
-
-## Enumerate the functions of blood.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -735,7 +697,8 @@ A soap molecule has two chemically distinct ends:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## இரத்தத்தின் பணிகளைப் பட்டியலிடுக.
+**இரத்தத்தின் பணிகளைப் பட்டியலிடுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -750,15 +713,11 @@ A soap molecule has two chemically distinct ends:
 
 </details>
 
----
+### How do rainwater harvesting structures recharge ground water ? (2023)
 
-### Question Q30 (2023 • 4-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q30
+**Exam Year**: 2023 | **ID**: q30
 
 #### 🇬🇧 English
-
-## How do rainwater harvesting structures recharge ground water ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -775,7 +734,8 @@ Rainwater harvesting directly collects and directs runoff rainwater into undergr
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மழைநீர் சேமிப்பு அமைப்புகள் எவ்வாறு நிலத்தடி நீர் மட்டத்தை அதிகரிக்கச் செய்கின்றன?
+**மழைநீர் சேமிப்பு அமைப்புகள் எவ்வாறு நிலத்தடி நீர் மட்டத்தை அதிகரிக்கச் செய்கின்றன?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -788,15 +748,14 @@ Rainwater harvesting directly collects and directs runoff rainwater into undergr
 
 </details>
 
----
+### Phenotype, Genotype & Allosomes (2023)
 
-### Question Q31 (2023 • 4-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q31
+**Exam Year**: 2023 | **ID**: q31
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) What do you understand by the term phenotype and genotype ?
 
@@ -816,7 +775,8 @@ Rainwater harvesting directly collects and directs runoff rainwater into undergr
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) பீனோடைப், ஜீனோடைப் பற்றி நீர் அறிவது என்ன?
 
@@ -834,15 +794,14 @@ Rainwater harvesting directly collects and directs runoff rainwater into undergr
 
 </details>
 
----
+### pH Calculation of HNO3 & Sugar Solution Concentration (2023)
 
-### Question Q32 (2023 • 4-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 4-marks | **ID**: q32
+**Exam Year**: 2023 | **ID**: q32
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) Find the pH of 0.01 M $\text{HNO}_3$ solution.
 
@@ -870,7 +829,8 @@ $$\text{Mass percentage} = \frac{25}{125} \times 100 = \frac{1}{5} \times 100 = 
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) 0.01 M $\text{HNO}_3$ கரைசலின் pH மதிப்பைக் காண்க.
 
@@ -898,15 +858,17 @@ $$\text{நிறை சதவீதம்} = \frac{25}{125} \times 100 = \mathb
 ---
 
 <a id="2023-7-marks"></a>
+
 ## 2023 - 7 Marks Questions (Detailed Answer / பெரு வினாக்கள் - Part IV)
 
-### Question Q33 (2023 • 7-marks)
+### Joule's Law of Heating & Nuclear Reactor (2023)
 
-**Exam Year**: 2023 | **Marks Tier**: 7-marks | **ID**: q33
+**Exam Year**: 2023 | **ID**: q33
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) State Joule's Law of Heating.
 (ii) An alloy of nickel and chromium is used as the heating element. Why ?
@@ -938,8 +900,6 @@ Nichrome (an alloy of nickel and chromium) is chosen because:
 #### (iii) Role of Fuse Wire
 A fuse wire has low melting point and relatively high resistance. When excessive current flows due to short-circuit or overload, the fuse wire melts due to Joule heating, breaking the circuit and saving costly appliances from damage.
 
----
-
 ### Option (b)
 #### (i) Longitudinal Wave
 A wave in which the particles of the medium vibrate parallel to the direction of propagation of the wave is called a **longitudinal wave** (e.g., sound waves in air).
@@ -957,7 +917,8 @@ A nuclear reactor is a device in which a self-sustaining controlled nuclear fiss
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) ஜூல் வெப்ப விதி – வரையறுக்கவும்.
 (ii) நிக்கல் மற்றும் குரோமியம் கலந்த உலோகக்கலவை மின்சார வெப்பமேற்றும் சாதனமாகப் பயன்படுத்தப்படுவது ஏன்?
@@ -988,8 +949,6 @@ $$H = I^2 R t$$
 #### (iii) மின் உருகு இழையின் பாதுகாப்பு செயல்பாடு
 குறைந்த உருகுநிலை கொண்ட மின் உருகு இழையானது, அதிகப்படியான மின்னோட்டம் பாயும்போது ஜூல் வெப்ப விளைவினால் உருகி மின்சுற்றைத் துண்டித்து, வீட்டு உபயோக சாதனங்களைப் பாதுகாக்கிறது.
 
----
-
 ### தெரிவு (ஆ)
 #### (i) நெட்டலை
 ஊடகத்தின் துகள்கள் அலை பரவும் திசைக்கு இணையாக அதிர்வுறும் அலை **நெட்டலை** எனப்படும் (எ.கா: காற்றில் பரவும் ஒலி அலை).
@@ -1005,15 +964,14 @@ $$H = I^2 R t$$
 
 </details>
 
----
+### Atomicity, Mass Percentage & Hygroscopic vs Deliquescent Substances (2023)
 
-### Question Q34 (2023 • 7-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 7-marks | **ID**: q34
+**Exam Year**: 2023 | **ID**: q34
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) Define : Atomicity.
 (ii) Calculate the percentage of sulphur in $\text{H}_2\text{SO}_4$.
@@ -1041,8 +999,6 @@ $$\%\text{ of S} = \frac{32}{98} \times 100 = \mathbf{32.65\%}$$
 - **Hygroscopic Substances:** Absorb moisture from atmosphere without changing their physical state (e.g., conc. $\text{H}_2\text{SO}_4$, $\text{CaO}$).
 - **Deliquescent Substances:** Absorb sufficient moisture from atmosphere and completely dissolve in it to form a solution (e.g., $\text{NaOH}$, $\text{KOH}$, $\text{FeCl}_3$).
 
----
-
 ### Option (b)
 #### (i) Reversible vs Irreversible Reaction
 - **Reversible reaction:** Can proceed in both forward and backward directions; equilibrium is attained; represented by $\rightleftharpoons$.
@@ -1061,7 +1017,8 @@ $$\text{HCl} + \text{NaOH} \rightarrow \text{NaCl} + \text{H}_2\text{O}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) அணுக் கட்டு எண் – வரையறுக்கவும்.
 (ii) $\text{H}_2\text{SO}_4$-ல் உள்ள சல்பரின் சதவீத இயைபினைக் காண்க.
@@ -1088,8 +1045,6 @@ $$\text{சல்பரின் சதவீதம்} = \frac{32}{98} \times 1
 - **ஈரம் உறிஞ்சும் சேர்மங்கள்:** வளிமண்டலக் காற்றிலிருந்து ஈரப்பதத்தை உறிஞ்சி தனது இயற்பியல் நிலையை மாற்றுவதில்லை (எ.கா: அடர் $\text{H}_2\text{SO}_4$, $\text{CaO}$).
 - **ஈரம் உறிஞ்சிக் கரையும் சேர்மங்கள்:** வளிமண்டலக் காற்றிலுள்ள ஈரப்பதத்தை உறிஞ்சி தன்னையே கரைத்துக் கொண்டு கரைசலாக மாறுகின்றன (எ.கா: $\text{NaOH}$, $\text{KOH}$).
 
----
-
 ### தெரிவு (ஆ)
 #### (i) மீள் மற்றும் மீளா வினைகள்
 - **மீள் வினை:** முன்னோக்கு மற்றும் பின்னோக்கு ஆகிய இரு திசைகளிலும் நிகழும்; சமநிலையை அடையும்; ($\rightleftharpoons$).
@@ -1106,15 +1061,14 @@ $$\text{HCl} + \text{NaOH} \rightarrow \text{NaCl} + \text{H}_2\text{O}$$
 
 </details>
 
----
+### Plant Hormones, Flower Structure & Evolution (2023)
 
-### Question Q35 (2023 • 7-marks)
-
-**Exam Year**: 2023 | **Marks Tier**: 7-marks | **ID**: q35
+**Exam Year**: 2023 | **ID**: q35
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) Which hormone induces parthenocarpy in tomatoes ?
 (ii) Why is thyroid hormone called 'personality hormone' ?
@@ -1141,8 +1095,6 @@ Thyroid hormone (Thyroxine) regulates basal metabolic rate (BMR), body temperatu
 3. **Use and Disuse theory:** Organs used continuously develop and strengthen (e.g., long neck of giraffe), while unused organs degenerate (e.g., vestigial wings of kiwi).
 4. **Inheritance of Acquired Characters:** Favourable modifications acquired during an individual's lifetime are transmitted to subsequent generations.
 
----
-
 ### Option (b)
 #### (i) Structure of a Flower
 A typical flower consists of four concentric whorls:
@@ -1159,7 +1111,8 @@ A typical flower consists of four concentric whorls:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) தக்காளியில் கருவுறாக் கனியைத் தூண்டும் ஹார்மோன் எது?
 (ii) தைராய்டு ஹார்மோன் ஏன் ஆளுமை ஹார்மோன் என்று அழைக்கப்படுகிறது?
@@ -1186,8 +1139,6 @@ A typical flower consists of four concentric whorls:
 3. **பயன்பாடு மற்றும் பயன்படாமை விதி:** தொடர்ச்சியாகப் பயன்படுத்தப்படும் உறுப்புகள் வளர்ச்சியடைகின்றன (எ.கா: ஒட்டகச்சிவிங்கியின் நீண்ட கழுத்து); பயன்படாத உறுப்புகள் சிதைவடைகின்றன (எ.கா: கிவி பறவையின் இறக்கைகள்).
 4. **மரபுவழி பெறப்பட்ட பண்புகள்:** ஓர் உயிரி தன் வாழ்நாளில் பெற்ற மாற்றங்கள் அடுத்த தலைமுறைக்குக் கடத்தப்படுகின்றன.
 
----
-
 ### தெரிவு (ஆ)
 #### (i) மலரின் பாகங்கள்
 1. **புல்லிவட்டம்:** மலரின் வெளிப்புற அடுக்கு; மொட்டுப் பருவத்தில் மலரைப் பாதுகாக்கிறது.
@@ -1205,18 +1156,17 @@ A typical flower consists of four concentric whorls:
 
 
 <a id="year-2024"></a>
+
 # Year 2024
 
 <a id="2024-2-marks"></a>
 ## 2024 - 2 Marks Questions (Short Answer / குறு வினாக்கள் - Part II)
 
-### Question Q13 (2024 • 2-marks)
+### What is coefficient of apparent expansion ? (2024)
 
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q13
+**Exam Year**: 2024 | **ID**: q13
 
 #### 🇬🇧 English
-
-## What is coefficient of apparent expansion ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1231,7 +1181,8 @@ Unit: $\text{K}^{-1}$ or $^\circ\text{C}^{-1}$.
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## தோற்ற வெப்ப விரிவு குணகம் என்றால் என்ன?
+**தோற்ற வெப்ப விரிவு குணகம் என்றால் என்ன?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1243,15 +1194,11 @@ Unit: $\text{K}^{-1}$ or $^\circ\text{C}^{-1}$.
 
 </details>
 
----
+### Why is tungsten metal used in bulbs but not used as fuse wire ? (2024)
 
-### Question Q14 (2024 • 2-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q14
+**Exam Year**: 2024 | **ID**: q14
 
 #### 🇬🇧 English
-
-## Why is tungsten metal used in bulbs but not used as fuse wire ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1264,7 +1211,8 @@ Unit: $\text{K}^{-1}$ or $^\circ\text{C}^{-1}$.
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மின்னிழை விளக்குகளில் டங்ஸ்டன் உலோகம் பயன்படுத்தப்படுகிறது. ஆனால் மின் உருகி இழையாக அதனைப் பயன்படுத்துவதில்லை. ஏன்?
+**மின்னிழை விளக்குகளில் டங்ஸ்டன் உலோகம் பயன்படுத்தப்படுகிறது. ஆனால் மின் உருகி இழையாக அதனைப் பயன்படுத்துவதில்லை. ஏன்?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1275,15 +1223,11 @@ Unit: $\text{K}^{-1}$ or $^\circ\text{C}^{-1}$.
 
 </details>
 
----
+### What is rust ? Give the equation for the formation of rust (2024, 2026)
 
-### Question Q15 (2024 • 2-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q15
+**Exam Year**: 2024 | **ID**: q15
 
 #### 🇬🇧 English
-
-## What is rust ? Give the equation for the formation of rust.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1298,7 +1242,8 @@ $$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## துரு என்பது என்ன? துரு உருவாவதன் சமன்பாட்டைத் தருக.
+**துரு என்பது என்ன? துரு உருவாவதன் சமன்பாட்டைத் தருக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1311,15 +1256,11 @@ $$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{
 
 </details>
 
----
+### What is stage ? (2024)
 
-### Question Q16 (2024 • 2-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q16
+**Exam Year**: 2024 | **ID**: q16
 
 #### 🇬🇧 English
-
-## What is stage ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1331,7 +1272,8 @@ In Scratch, the **Stage** is the main display background area where sprites move
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மேடை (Stage) என்றால் என்ன?
+**மேடை (Stage) என்றால் என்ன?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1341,15 +1283,11 @@ In Scratch, the **Stage** is the main display background area where sprites move
 
 </details>
 
----
+### Why is sinoatrial node called as pacemaker of heart ? (2024)
 
-### Question Q17 (2024 • 2-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q17
+**Exam Year**: 2024 | **ID**: q17
 
 #### 🇬🇧 English
-
-## Why is sinoatrial node called as pacemaker of heart ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1361,7 +1299,8 @@ The **Sinoatrial (SA) node** spontaneously initiates rhythmic electrical impulse
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## சைனோ ஏட்ரியல் கணு "இதயத்தின் பேஸ்மேக்கர்" என்று ஏன் அழைக்கப்படுகிறது?
+**சைனோ ஏட்ரியல் கணு "இதயத்தின் பேஸ்மேக்கர்" என்று ஏன் அழைக்கப்படுகிறது?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1371,15 +1310,11 @@ The **Sinoatrial (SA) node** spontaneously initiates rhythmic electrical impulse
 
 </details>
 
----
+### What are the parts of the hind brain ? (2024)
 
-### Question Q18 (2024 • 2-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q18
+**Exam Year**: 2024 | **ID**: q18
 
 #### 🇬🇧 English
-
-## What are the parts of the hind brain ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1394,7 +1329,8 @@ The hindbrain consists of three main regions:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின் மூளையின் பாகங்கள் யாவை?
+**பின் மூளையின் பாகங்கள் யாவை?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1407,15 +1343,11 @@ The hindbrain consists of three main regions:
 
 </details>
 
----
+### Identify the parts A, B, C and D in the given figure of Stoma (2024)
 
-### Question Q19 (2024 • 2-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q19
+**Exam Year**: 2024 | **ID**: q19
 
 #### 🇬🇧 English
-
-## Identify the parts A, B, C and D in the given figure of Stoma.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1430,7 +1362,8 @@ The hindbrain consists of three main regions:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## கொடுக்கப்பட்டுள்ள இலைத்துளை படத்தில் A, B, C மற்றும் D ஆகிய பாகங்களை அடையாளம் காணவும்.
+**கொடுக்கப்பட்டுள்ள இலைத்துளை படத்தில் A, B, C மற்றும் D ஆகிய பாகங்களை அடையாளம் காணவும்.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1443,15 +1376,11 @@ The hindbrain consists of three main regions:
 
 </details>
 
----
+### What is colostrum ? How is milk production hormonally regulated ? (2024)
 
-### Question Q20 (2024 • 2-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q20
+**Exam Year**: 2024 | **ID**: q20
 
 #### 🇬🇧 English
-
-## What is colostrum ? How is milk production hormonally regulated ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1466,7 +1395,8 @@ The hindbrain consists of three main regions:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## கொலஸ்ட்ரம் (சீம்பால்) என்றால் என்ன? பால் உற்பத்தியானது ஹார்மோன்களால் எவ்வாறு ஒழுங்குபடுத்தப்படுகிறது?
+**கொலஸ்ட்ரம் (சீம்பால்) என்றால் என்ன? பால் உற்பத்தியானது ஹார்மோன்களால் எவ்வாறு ஒழுங்குபடுத்தப்படுகிறது?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1479,15 +1409,11 @@ The hindbrain consists of three main regions:
 
 </details>
 
----
+### What is metastasis ? (2024)
 
-### Question Q21 (2024 • 2-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q21
+**Exam Year**: 2024 | **ID**: q21
 
 #### 🇬🇧 English
-
-## What is metastasis ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1499,7 +1425,8 @@ The hindbrain consists of three main regions:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மெட்டாஸ்டாசிஸ் என்றால் என்ன?
+**மெட்டாஸ்டாசிஸ் என்றால் என்ன?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1509,15 +1436,11 @@ The hindbrain consists of three main regions:
 
 </details>
 
----
+### If the pH of a solution is 4.5, find the value of its pOH (2024)
 
-### Question Q22 (2024 • 2-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 2-marks | **ID**: q22
+**Exam Year**: 2024 | **ID**: q22
 
 #### 🇬🇧 English
-
-## If the pH of a solution is 4.5, find the value of its pOH.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1537,7 +1460,8 @@ $$\text{pOH} = 14 - \text{pH} = 14 - 4.5 = \mathbf{9.5}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## ஒரு கரைசலின் pH மதிப்பு 4.5 எனில், அதன் pOH மதிப்பைக் காண்க.
+**ஒரு கரைசலின் pH மதிப்பு 4.5 எனில், அதன் pOH மதிப்பைக் காண்க.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1558,15 +1482,14 @@ $$\text{pOH} = 14 - 4.5 = \mathbf{9.5}$$
 ---
 
 <a id="2024-4-marks"></a>
+
 ## 2024 - 4 Marks Questions (Brief Answer / சிறு வினாக்கள் - Part III)
 
-### Question Q23 (2024 • 4-marks)
+### Explain the various types of inertia with examples (2024)
 
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q23
+**Exam Year**: 2024 | **ID**: q23
 
 #### 🇬🇧 English
-
-## Explain the various types of inertia with examples.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1586,7 +1509,8 @@ $$\text{pOH} = 14 - 4.5 = \mathbf{9.5}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## நிலைமத்தின் பல்வேறு வகைகளை எடுத்துக்காட்டுகளுடன் விளக்குக.
+**நிலைமத்தின் பல்வேறு வகைகளை எடுத்துக்காட்டுகளுடன் விளக்குக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1604,15 +1528,14 @@ $$\text{pOH} = 14 - 4.5 = \mathbf{9.5}$$
 
 </details>
 
----
+### Radioactivity Properties & Heating Appliances (2024)
 
-### Question Q24 (2024 • 4-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q24
+**Exam Year**: 2024 | **ID**: q24
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) Write any three properties of natural and artificial radioactivity.
 
@@ -1637,7 +1560,8 @@ $$\text{pOH} = 14 - 4.5 = \mathbf{9.5}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) இயற்கை மற்றும் செயற்கை கதிரியக்கத்தின் ஏதேனும் மூன்று பண்புகளை எழுதுக.
 
@@ -1660,15 +1584,14 @@ $$\text{pOH} = 14 - 4.5 = \mathbf{9.5}$$
 
 </details>
 
----
+### Heating of Epsom Salt & Solubility (2024)
 
-### Question Q25 (2024 • 4-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q25
+**Exam Year**: 2024 | **ID**: q25
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) What happens when $\text{MgSO}_4 \cdot 7\text{H}_2\text{O}$ is heated ? Write the equation.
 
@@ -1688,7 +1611,8 @@ $$\text{MgSO}_4 \cdot 7\text{H}_2\text{O} \xrightarrow{\Delta} \text{MgSO}_4 + 7
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) $\text{MgSO}_4 \cdot 7\text{H}_2\text{O}$ உப்பினை வெப்பப்படுத்தும் போது என்ன நிகழ்கிறது? வேதிச் சமன்பாட்டை எழுதுக.
 
@@ -1706,15 +1630,14 @@ $$\text{MgSO}_4 \cdot 7\text{H}_2\text{O} \xrightarrow{\Delta} \text{MgSO}_4 + 7
 
 </details>
 
----
+### Respiratory Quotient & Light Reaction (2024)
 
-### Question Q26 (2024 • 4-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q26
+**Exam Year**: 2024 | **ID**: q26
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) What is Respiratory Quotient ?
 
@@ -1734,7 +1657,8 @@ The light reaction produces energy-rich assimilatory power in the form of **$\te
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) சுவாச ஈவு என்றால் என்ன?
 
@@ -1752,15 +1676,11 @@ $$\text{சுவாச ஈவு} = \frac{\text{வெளிவிடப்ப�
 
 </details>
 
----
+### Write the dental formula of rabbit (2024)
 
-### Question Q27 (2024 • 4-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q27
+**Exam Year**: 2024 | **ID**: q27
 
 #### 🇬🇧 English
-
-## Write the dental formula of rabbit.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1778,7 +1698,8 @@ Total number of teeth in adult rabbit = $(2 + 0 + 3 + 3) \times 2 + (1 + 0 + 2 +
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## முயலின் பல் வாய்பாட்டினை எழுதுக.
+**முயலின் பல் வாய்பாட்டினை எழுதுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1793,15 +1714,14 @@ $$\mathbf{\frac{2033}{1023}}$$
 
 </details>
 
----
+### Advantages of Euploidy & Classification of Neurons (2024, 2026)
 
-### Question Q28 (2024 • 4-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q28
+**Exam Year**: 2024 | **ID**: q28
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) Why is Euploidy considered advantageous in plants and animals ?
 
@@ -1824,7 +1744,8 @@ $$\mathbf{\frac{2033}{1023}}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) தாவரங்கள் மற்றும் விலங்குகளில் யூப்ளாய்டி நிலை சாதகமானதாக ஏன் கருதப்படுகிறது?
 
@@ -1845,15 +1766,11 @@ $$\mathbf{\frac{2033}{1023}}$$
 
 </details>
 
----
+### How are Arteries and Veins structurally different from one another ? (2024)
 
-### Question Q29 (2024 • 4-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q29
+**Exam Year**: 2024 | **ID**: q29
 
 #### 🇬🇧 English
-
-## How are Arteries and Veins structurally different from one another ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1872,7 +1789,8 @@ $$\mathbf{\frac{2033}{1023}}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## தமனிகளும், சிறைகளும் அமைப்பின் அடிப்படையில் எவ்வாறு வேறுபடுகின்றன?
+**தமனிகளும், சிறைகளும் அமைப்பின் அடிப்படையில் எவ்வாறு வேறுபடுகின்றன?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1889,15 +1807,11 @@ $$\mathbf{\frac{2033}{1023}}$$
 
 </details>
 
----
+### Define Ethnobotany and write its importance (2024)
 
-### Question Q30 (2024 • 4-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q30
+**Exam Year**: 2024 | **ID**: q30
 
 #### 🇬🇧 English
-
-## Define Ethnobotany and write its importance.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -1915,7 +1829,8 @@ $$\mathbf{\frac{2033}{1023}}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## வட்டார இன தாவரவியல் என்பதனை வரையறுத்து, அதன் முக்கியத்துவத்தை எழுதுக.
+**வட்டார இன தாவரவியல் என்பதனை வரையறுத்து, அதன் முக்கியத்துவத்தை எழுதுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -1931,15 +1846,14 @@ $$\mathbf{\frac{2033}{1023}}$$
 
 </details>
 
----
+### Consequences of Deforestation & DNA Fingerprinting (2024)
 
-### Question Q31 (2024 • 4-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q31
+**Exam Year**: 2024 | **ID**: q31
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) What are the consequences of deforestation ?
 
@@ -1963,7 +1877,8 @@ $$\mathbf{\frac{2033}{1023}}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) காடழிப்பினால் ஏற்படக்கூடிய விளைவுகள் யாவை?
 
@@ -1985,15 +1900,14 @@ $$\mathbf{\frac{2033}{1023}}$$
 
 </details>
 
----
+### Passivity of Aluminium & Mole Calculation (2024)
 
-### Question Q32 (2024 • 4-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 4-marks | **ID**: q32
+**Exam Year**: 2024 | **ID**: q32
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) Which acid renders aluminium metal passive ? Why ?
 
@@ -2013,7 +1927,8 @@ $$\text{Number of moles} = \frac{1.51 \times 10^{23}}{6.023 \times 10^{23}} = \f
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) எந்த அமிலம் அலுமினிய உலோகத்தை செயல்படா நிலைக்கு உட்படுத்தும்? ஏன்?
 
@@ -2034,15 +1949,17 @@ $$\text{மோல்கள்} = \frac{1.51 \times 10^{23}}{6.023 \times 10^{23}
 ---
 
 <a id="2024-7-marks"></a>
+
 ## 2024 - 7 Marks Questions (Detailed Answer / பெரு வினாக்கள் - Part IV)
 
-### Question Q33 (2024 • 7-marks)
+### Convex Lens Uses, Dispersion & Gas Laws (2024)
 
-**Exam Year**: 2024 | **Marks Tier**: 7-marks | **ID**: q33
+**Exam Year**: 2024 | **ID**: q33
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) What are the uses of convex lens ?
 (ii) Define dispersion of light.
@@ -2072,8 +1989,6 @@ Red colour has the longest wavelength among visible spectral colours. According 
 #### (iv) Least Distance of Distinct Vision
 For a normal human eye, the least distance of distinct vision is **$25\text{ cm}$**.
 
----
-
 ### Option (b)
 #### (i) Gas Laws
 - **Boyle's Law:** At constant temperature, the volume of a given mass of gas is inversely proportional to its pressure ($P \propto 1/V$ or $PV = \text{constant}$).
@@ -2087,7 +2002,8 @@ For a normal human eye, the least distance of distinct vision is **$25\text{ cm}
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) குவி லென்சின் பயன்கள் யாவை?
 (ii) நிறப்பிரிகை – வரையறுக்கவும்.
@@ -2117,8 +2033,6 @@ For a normal human eye, the least distance of distinct vision is **$25\text{ cm}
 #### (iv) தெளிவுறு பார்வையின் மீச்சிறு தொலைவு
 சாதாரண மனிதக் கண்ணின் தெளிவுறு பார்வையின் மீச்சிறு தொலைவு **25 செ.மீ** ஆகும்.
 
----
-
 ### தெரிவு (ஆ)
 #### (i) வாயு விதிகள்
 - **பாயில் விதி:** மாறா வெப்பநிலையில், குறிப்பிட்ட நிறையுள்ள வாயுவின் அழுத்தம் அதன் பருமனுக்கு எதிர்த்தகவில் அமையும் ($P \propto 1/V$).
@@ -2130,15 +2044,14 @@ For a normal human eye, the least distance of distinct vision is **$25\text{ cm}
 
 </details>
 
----
+### Avogadro's Law & Classification of Solutions (2024)
 
-### Question Q34 (2024 • 7-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 7-marks | **ID**: q34
+**Exam Year**: 2024 | **ID**: q34
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) At same temperature and pressure, 3 L of $\text{O}_2$, 5 L of $\text{Cl}_2$ and 6 L of $\text{H}_2$ gases are taken. (A) Which contains maximum molecules ? (B) Which contains minimum molecules ? Explain using Avogadro's law.
 (ii) How do hygroscopic substances differ from deliquescent substances ?
@@ -2161,8 +2074,6 @@ For a normal human eye, the least distance of distinct vision is **$25\text{ cm}
 - **Hygroscopic:** Absorb moisture without dissolving into liquid (e.g., anhydrous calcium chloride, conc. $\text{H}_2\text{SO}_4$).
 - **Deliquescent:** Absorb sufficient moisture to dissolve completely into solution (e.g., sodium hydroxide, potassium hydroxide).
 
----
-
 ### Option (b)
 #### (i) Classification of Solutions Based on Physical State
 - **Solid in Liquid:** Salt in water, Sugar in water.
@@ -2180,7 +2091,8 @@ A series of structurally related organic compounds containing the same functiona
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) ஒரே வெப்ப அழுத்த நிலையில் 3 லி $\text{O}_2$, 5 லி $\text{Cl}_2$ மற்றும் 6 லி $\text{H}_2$ வாயுக்கள் எடுக்கப்பட்டால்:
 (1) எது அதிக மூலக்கூறுகளைக் கொண்டிருக்கும்?
@@ -2206,8 +2118,6 @@ A series of structurally related organic compounds containing the same functiona
 - **ஈரம் உறிஞ்சுபவை:** ஈரப்பதத்தை உறிஞ்சினாலும் திரவமாக மாறுவதில்லை (எ.கா: அடர் $\text{H}_2\text{SO}_4$, $\text{CaO}$).
 - **ஈரம் உறிஞ்சிக் கரைபவை:** ஈரப்பதத்தை உறிஞ்சி முழுமையாக கரைந்து கரைசலாக மாறும் (எ.கா: $\text{NaOH}, \text{KOH}$).
 
----
-
 ### தெரிவு (ஆ)
 #### (i) கரைசல்களின் இயற்பியல் வகைப்பாடு
 - **திண்மம் திரவத்தில்:** சர்க்கரை கரைசல், உப்பு கரைசல்.
@@ -2223,15 +2133,14 @@ A series of structurally related organic compounds containing the same functiona
 
 </details>
 
----
+### Synthetic Auxins, Ovule Structure & Human Heart (2024)
 
-### Question Q35 (2024 • 7-marks)
-
-**Exam Year**: 2024 | **Marks Tier**: 7-marks | **ID**: q35
+**Exam Year**: 2024 | **ID**: q35
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) What are synthetic auxins ? Give example.
 (ii) Explain the structure of an ovule in angiosperms with a neat labelled diagram.
@@ -2260,8 +2169,6 @@ Artificially synthesised chemical compounds that exhibit physiological actions s
    - 2 synergids and 1 egg cell (egg apparatus) at micropylar end
    - 1 large central cell with 2 polar nuclei.
 
----
-
 ### Option (b)
 #### (i) Structure of Human Heart
 - Hollow muscular organ enclosed by pericardium.
@@ -2277,7 +2184,8 @@ Artificially synthesised chemical compounds that exhibit physiological actions s
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) செயற்கை ஆக்சின்கள் என்றால் என்ன? எடுத்துக்காட்டு தருக.
 (ii) பூக்கும் தாவரத்தின் சூலக அமைப்பை விவரித்து படம் வரைக.
@@ -2305,8 +2213,6 @@ Artificially synthesised chemical compounds that exhibit physiological actions s
    - அண்ட சாதனம் (1 அண்டம் + 2 சினர்ஜிடுகள் - சூல்துளை முனை)
    - மையத்தில் 2 துருவ உட்கருக்கள்.
 
----
-
 ### தெரிவு (ஆ)
 #### (i) மனித இதய அமைப்பு
 - பெரிகார்டியம் என்ற இரட்டைச் சவ்வினால் சூழப்பட்ட தசை உறுப்பு.
@@ -2323,52 +2229,23 @@ Artificially synthesised chemical compounds that exhibit physiological actions s
 
 
 <a id="year-2025"></a>
+
 # Year 2025
 
 <a id="2025-2-marks"></a>
 ## 2025 - 2 Marks Questions (Short Answer / குறு வினாக்கள் - Part II)
 
-### Question Q13 (2025 • 2-marks)
+### Define one Calorie (2023, 2025)
 
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q13
+**Exam Year**: 2025 | **ID**: q13
 
-#### 🇬🇧 English
+*Note: This question also appeared in 2023 (as Q15). See [Define one Calorie (2023, 2025)](#define-one-calorie-2023-2025) for the complete bilingual model answer & solution.*
 
-## Define one Calorie.
+### What is a longitudinal wave ? (2025)
 
-<details>
-<summary><b>View Model Answer & Solution (English)</b></summary>
-
-### Definition of One Calorie
-**One calorie** is the quantity of heat energy required to raise the temperature of **1 gram of water by $1^\circ\text{C}$** (specifically from $14.5^\circ\text{C}$ to $15.5^\circ\text{C}$).
-
-$$1\text{ cal} = 4.186\text{ J}$$
-
-</details>
-
-#### 🇮🇳 தமிழ் (Tamil)
-
-## ஒரு கலோரி – வரையறு.
-
-<details>
-<summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
-
-### ஒரு கலோரி வரையறை
-**1 கிராம் நிறையுள்ள நீரின்** வெப்பநிலையை **$1^\circ\text{C}$ உயர்த்தத்** தேவைப்படும் வெப்ப ஆற்றலின் அளவு **ஒரு கலோரி** எனப்படும்.
-
-$$1\text{ கலோரி} = 4.186\text{ ஜூல்}$$
-
-</details>
-
----
-
-### Question Q14 (2025 • 2-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q14
+**Exam Year**: 2025 | **ID**: q14
 
 #### 🇬🇧 English
-
-## What is a longitudinal wave ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2382,7 +2259,8 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## நெட்டலை என்றால் என்ன?
+**நெட்டலை என்றால் என்ன?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2394,15 +2272,11 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 </details>
 
----
+### State two conditions necessary for rusting of iron (2025)
 
-### Question Q15 (2025 • 2-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q15
+**Exam Year**: 2025 | **ID**: q15
 
 #### 🇬🇧 English
-
-## State two conditions necessary for rusting of iron.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2415,7 +2289,8 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## இரும்பு துருப்பிடித்தலுக்கான இரு காரணங்களைத் தருக.
+**இரும்பு துருப்பிடித்தலுக்கான இரு காரணங்களைத் தருக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2426,15 +2301,14 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 </details>
 
----
+### Match the following: Organic Compounds (2025)
 
-### Question Q16 (2025 • 2-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q16
+**Exam Year**: 2025 | **ID**: q16
 
 #### 🇬🇧 English
 
-## Match the following :
+**Match the following :**
+
 
 1. Functional group -OH - (i) Benzene
 2. Heterocyclic compounds - (ii) Potassium stearate
@@ -2456,7 +2330,8 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பொருத்துக :
+**பொருத்துக :**
+
 
 1. வினைசெயல் தொகுதி -OH - (i) பென்சீன்
 2. பல்லின வளைய சேர்மங்கள் - (ii) பொட்டாசியம் ஸ்டீயரேட்
@@ -2476,15 +2351,11 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 </details>
 
----
+### What is the importance of valves in the heart ? (2025)
 
-### Question Q17 (2025 • 2-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q17
+**Exam Year**: 2025 | **ID**: q17
 
 #### 🇬🇧 English
-
-## What is the importance of valves in the heart ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2497,7 +2368,8 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## இதய வால்வுகளின் முக்கியத்துவம் என்ன?
+**இதய வால்வுகளின் முக்கியத்துவம் என்ன?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2508,15 +2380,11 @@ A wave in which the particles of the medium vibrate back and forth **parallel to
 
 </details>
 
----
+### What is Bolting ? How can it be induced artificially ? (2025)
 
-### Question Q18 (2025 • 2-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q18
+**Exam Year**: 2025 | **ID**: q18
 
 #### 🇬🇧 English
-
-## What is Bolting ? How can it be induced artificially ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2531,7 +2399,8 @@ Bolting can be induced artificially by treatment with **Gibberellins** under non
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## "போல்டிங்" என்றால் என்ன? அதை எப்படி செயற்கையாக ஊக்குவிக்கலாம்?
+**"போல்டிங்" என்றால் என்ன? அதை எப்படி செயற்கையாக ஊக்குவிக்கலாம்?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2544,15 +2413,11 @@ Bolting can be induced artificially by treatment with **Gibberellins** under non
 
 </details>
 
----
+### Identify the parts A, B, C, D in the given figure of a Chloroplast (2025)
 
-### Question Q19 (2025 • 2-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q19
+**Exam Year**: 2025 | **ID**: q19
 
 #### 🇬🇧 English
-
-## Identify the parts A, B, C, D in the given figure of a Chloroplast.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2567,7 +2432,8 @@ Bolting can be induced artificially by treatment with **Gibberellins** under non
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## கொடுக்கப்பட்டுள்ள பசுங்கணிகப் படத்தில் A, B, C, D ஆகிய பாகங்களை அடையாளம் காணவும்.
+**கொடுக்கப்பட்டுள்ள பசுங்கணிகப் படத்தில் A, B, C, D ஆகிய பாகங்களை அடையாளம் காணவும்.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2580,15 +2446,11 @@ Bolting can be induced artificially by treatment with **Gibberellins** under non
 
 </details>
 
----
+### The degenerated wings of kiwi bird is an acquired character. Why is it called an acquired character ? (2025)
 
-### Question Q20 (2025 • 2-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q20
+**Exam Year**: 2025 | **ID**: q20
 
 #### 🇬🇧 English
-
-## The degenerated wings of kiwi bird is an acquired character. Why is it called an acquired character ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2601,7 +2463,8 @@ Because the flightless kiwi bird inhabited an environment without predators and 
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## கிவி பறவையின் சிதைவடைந்த இறக்கைகள், ஒரு பெறப்பட்ட பண்பு. ஏன் அது பெறப்பட்ட பண்பு என அழைக்கப்படுகிறது?
+**கிவி பறவையின் சிதைவடைந்த இறக்கைகள், ஒரு பெறப்பட்ட பண்பு. ஏன் அது பெறப்பட்ட பண்பு என அழைக்கப்படுகிறது?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2612,15 +2475,11 @@ Because the flightless kiwi bird inhabited an environment without predators and 
 
 </details>
 
----
+### What will happen if trees are cut down ? (2025)
 
-### Question Q21 (2025 • 2-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q21
+**Exam Year**: 2025 | **ID**: q21
 
 #### 🇬🇧 English
-
-## What will happen if trees are cut down ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2635,7 +2494,8 @@ Because the flightless kiwi bird inhabited an environment without predators and 
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மரங்கள் வெட்டப்படுவதால் உண்டாகும் விளைவுகள் யாவை?
+**மரங்கள் வெட்டப்படுவதால் உண்டாகும் விளைவுகள் யாவை?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2648,15 +2508,11 @@ Because the flightless kiwi bird inhabited an environment without predators and 
 
 </details>
 
----
+### Find the mass percentage composition of methane ($\text{CH}_4$) (2025)
 
-### Question Q22 (2025 • 2-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 2-marks | **ID**: q22
+**Exam Year**: 2025 | **ID**: q22
 
 #### 🇬🇧 English
-
-## Find the mass percentage composition of methane ($\text{CH}_4$).
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2677,7 +2533,8 @@ $$M = (1 \times 12) + (4 \times 1) = 12 + 4 = 16\text{ g/mol}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மீத்தேனில் உள்ள தனிமங்களின் சதவீத இயைபைக் காண்க ($\text{CH}_4$).
+**மீத்தேனில் உள்ள தனிமங்களின் சதவீத இயைபைக் காண்க ($\text{CH}_4$).**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2699,15 +2556,14 @@ $$= (1 \times 12) + (4 \times 1) = 16\text{ கி/மோல்}$$
 ---
 
 <a id="2025-4-marks"></a>
+
 ## 2025 - 4 Marks Questions (Brief Answer / சிறு வினாக்கள் - Part III)
 
-### Question Q23 (2025 • 4-marks)
+### Derive the ideal gas equation (2025)
 
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q23
+**Exam Year**: 2025 | **ID**: q23
 
 #### 🇬🇧 English
-
-## Derive the ideal gas equation.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2740,7 +2596,8 @@ Where:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## நல்லியல்பு வாயு சமன்பாட்டினைத் தருவி.
+**நல்லியல்பு வாயு சமன்பாட்டினைத் தருவி.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2765,57 +2622,17 @@ $$\mathbf{P V = n R T}$$
 
 </details>
 
----
+### Differentiate the eye defects : Myopia and Hypermetropia (2023, 2025)
 
-### Question Q24 (2025 • 4-marks)
+**Exam Year**: 2025 | **ID**: q24
 
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q24
+*Note: This question also appeared in 2023 (as Q24). See [Differentiate the eye defects : Myopia and Hypermetropia (2023, 2025)](#differentiate-the-eye-defects--myopia-and-hypermetropia-2023-2025) for the complete bilingual model answer & solution.*
 
-#### 🇬🇧 English
+### Compare the properties of alpha, beta and gamma radiation (2025)
 
-## Differentiate the eye defects : Myopia and Hypermetropia.
-
-<details>
-<summary><b>View Model Answer & Solution (English)</b></summary>
-
-### Differences between Myopia and Hypermetropia
-
-| Feature | Myopia (Short-sightedness) | Hypermetropia (Long-sightedness) |
-|---|---|---|
-| **Definition** | Person can see nearby objects clearly, but cannot see distant objects. | Person can see distant objects clearly, but cannot see nearby objects. |
-| **Causes** | Lengthening of eye ball or shortening of focal length of eye lens. | Shortening of eye ball or increase in focal length of eye lens. |
-| **Focus Point** | Image of distant object forms in front of the retina. | Image of nearby object forms behind the retina. |
-| **Corrective Lens** | Concave lens of suitable focal length. | Convex lens of suitable focal length. |
-
-</details>
-
-#### 🇮🇳 தமிழ் (Tamil)
-
-## கிட்டப்பார்வை மற்றும் தூரப்பார்வை குறைபாடுகளை வேறுபடுத்துக.
-
-<details>
-<summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
-
-### கிட்டப்பார்வை மற்றும் தூரப்பார்வை வேறுபாடுகள்
-
-| பண்பு | கிட்டப்பார்வை | தூரப்பார்வை |
-|---|---|---|
-| **பார்வைத் திறன்** | அண்மைப் பொருட்களைக் காண முடியும்; தொலைவுப் பொருட்களைக் காண முடியாது. | தொலைவுப் பொருட்களைக் காண முடியும்; அண்மைப் பொருட்களைக் காண முடியாது. |
-| **காரணம்** | விழிப்பந்து நீள்வது அல்லது குவியத் தூரம் குறைவது. | விழிப்பந்து சுருங்குவது அல்லது குவியத் தூரம் அதிகரிப்பது. |
-| **பிம்பம் தோன்றும் இடம்** | விழித்திரைக்கு முன்பாக பிம்பம் குவிகிறது. | விழித்திரைக்குப் பின்னால் பிம்பம் குவிகிறது. |
-| **சரிசெய்யும் லென்ஸ்** | தகுந்த குழி லென்ஸ். | தகுந்த குவி லென்ஸ். |
-
-</details>
-
----
-
-### Question Q25 (2025 • 4-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q25
+**Exam Year**: 2025 | **ID**: q25
 
 #### 🇬🇧 English
-
-## Compare the properties of alpha, beta and gamma radiation.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2834,7 +2651,8 @@ $$\mathbf{P V = n R T}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## ஆல்ஃபா, பீட்டா மற்றும் காமா கதிர்களின் பண்புகளை ஒப்பிடுக.
+**ஆல்ஃபா, பீட்டா மற்றும் காமா கதிர்களின் பண்புகளை ஒப்பிடுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2851,15 +2669,11 @@ $$\mathbf{P V = n R T}$$
 
 </details>
 
----
+### Write the applications of Avogadro's Law (2025)
 
-### Question Q26 (2025 • 4-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q26
+**Exam Year**: 2025 | **ID**: q26
 
 #### 🇬🇧 English
-
-## Write the applications of Avogadro's Law.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -2875,7 +2689,8 @@ $$\mathbf{P V = n R T}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## அவகாட்ரோ விதியின் பயன்பாடுகளை எழுதுக.
+**அவகாட்ரோ விதியின் பயன்பாடுகளை எழுதுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -2889,15 +2704,14 @@ $$\mathbf{P V = n R T}$$
 
 </details>
 
----
+### Alloys and Reasons for Creating Alloys (2025)
 
-### Question Q27 (2025 • 4-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q27
+**Exam Year**: 2025 | **ID**: q27
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (i) What is an alloy ?
 
@@ -2919,7 +2733,8 @@ An **alloy** is a homogeneous mixture of two or more metals, or of one or more m
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (i) உலோகக் கலவை என்றால் என்ன?
 
@@ -2939,60 +2754,17 @@ An **alloy** is a homogeneous mixture of two or more metals, or of one or more m
 
 </details>
 
----
+### Explain the mechanism of cleansing action of soap (2023, 2025)
 
-### Question Q28 (2025 • 4-marks)
+**Exam Year**: 2025 | **ID**: q28
 
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q28
+*Note: This question also appeared in 2023 (as Q27). See [Explain the mechanism of cleansing action of soap (2023, 2025)](#explain-the-mechanism-of-cleansing-action-of-soap-2023-2025) for the complete bilingual model answer & solution.*
 
-#### 🇬🇧 English
+### How does locomotion take place in leech ? (2025)
 
-## Explain the mechanism of cleansing action of soap.
-
-<details>
-<summary><b>View Model Answer & Solution (English)</b></summary>
-
-### Mechanism of Cleansing Action of Soap
-Soap molecules consist of two chemically distinct parts:
-1. **Ionic Hydrophilic Head ($-\text{COO}^- \text{Na}^+$):** Attracted to water molecules.
-2. **Hydrocarbon Hydrophobic Tail:** Repelled by water, dissolves in grease and oil.
-
-### Micelle Formation & Cleansing:
-- In water, soap molecules arrange themselves radially into spherical clusters called **micelles**.
-- The hydrophobic tails dissolve into the center of the oily dirt droplet, while the ionic heads project outward into water.
-- Mutual repulsion among like charges of the heads keeps the micelles suspended as an emulsion.
-- Agitation and rinsing with water lifts the trapped dirt micelles from fabric, leaving it clean.
-
-</details>
-
-#### 🇮🇳 தமிழ் (Tamil)
-
-## சோப்பின் தூய்மையாக்கல் முறையை விளக்குக.
-
-<details>
-<summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
-
-### சோப்பின் தூய்மையாக்கல் செயல்முறை
-சோப்பு மூலக்கூறுகள் இரண்டு முனைகளைக் கொண்டுள்ளன:
-1. **நீரை விரும்பும் முனை (ஹைட்ரோஃபிலிக்):** அயனி முனை ($-\text{COO}^-\text{Na}^+$).
-2. **நீரை வெறுக்கும் முனை (ஹைட்ரோஃபோபிக்):** நீண்ட ஹைட்ரோகார்பன் சங்கிலி.
-
-### மிசெல்லி உருவாக்கம்:
-- நீரில் சோப்பைக் கரைக்கும் போது, நீரை வெறுக்கும் முனைகள் அழுக்குத் துளியை நோக்கியும், நீரை விரும்பும் முனைகள் நீரை நோக்கியும் அமைந்து கோள வடிவ **மிசெல்லியை** உருவாக்குகின்றன.
-- ஒரே வகையான மின்சுமை காரணமாக மிசெல்லிகள் ஒன்றோடொன்று மோதி வீழ்படிவாவதில்லை.
-- துணியை நீரில் அலசும் போது, மிசெல்லியில் சிக்கிய அழுக்குத் துகள்கள் நீரினால் அடித்துச் செல்லப்பட்டு துணி தூய்மையாகிறது.
-
-</details>
-
----
-
-### Question Q29 (2025 • 4-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q29
+**Exam Year**: 2025 | **ID**: q29
 
 #### 🇬🇧 English
-
-## How does locomotion take place in leech ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3011,7 +2783,8 @@ Leeches exhibit two distinct types of movement:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## அட்டையில் நடைபெறும் இடப்பெயர்ச்சி நிகழ்ச்சியின் படிநிலைகளை எழுதுக.
+**அட்டையில் நடைபெறும் இடப்பெயர்ச்சி நிகழ்ச்சியின் படிநிலைகளை எழுதுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3028,15 +2801,11 @@ Leeches exhibit two distinct types of movement:
 
 </details>
 
----
+### With a neat labelled diagram, explain the structure of a neuron (2025)
 
-### Question Q30 (2025 • 4-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q30
+**Exam Year**: 2025 | **ID**: q30
 
 #### 🇬🇧 English
-
-## With a neat labelled diagram, explain the structure of a neuron.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3057,7 +2826,8 @@ A neuron (nerve cell) is the structural and functional unit of the nervous syste
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## நியூரானின் அமைப்பை படத்துடன் விவரிக்கவும்.
+**நியூரானின் அமைப்பை படத்துடன் விவரிக்கவும்.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3076,15 +2846,14 @@ A neuron (nerve cell) is the structural and functional unit of the nervous syste
 
 </details>
 
----
+### Consequences of Soil Erosion & Prevention (2025)
 
-### Question Q31 (2025 • 4-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q31
+**Exam Year**: 2025 | **ID**: q31
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (i) What are the consequences of soil erosion ?
 
@@ -3109,7 +2878,8 @@ A neuron (nerve cell) is the structural and functional unit of the nervous syste
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (i) மண் அரிப்பினால் உண்டாகக்கூடிய விளைவுகள் யாவை?
 
@@ -3132,15 +2902,11 @@ A neuron (nerve cell) is the structural and functional unit of the nervous syste
 
 </details>
 
----
+### A source of sound of frequency 90 Hz is moving towards a stationary listener with a velocity equal to 1/10th of the velocity of sound. Find the apparent frequency heard by the listener (2025)
 
-### Question Q32 (2025 • 4-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 4-marks | **ID**: q32
+**Exam Year**: 2025 | **ID**: q32
 
 #### 🇬🇧 English
-
-## A source of sound of frequency 90 Hz is moving towards a stationary listener with a velocity equal to 1/10th of the velocity of sound. Find the apparent frequency heard by the listener.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3165,7 +2931,8 @@ $$n' = \left( \frac{10}{9} \right) \times 90 = \mathbf{100\text{ Hz}}$$
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## 90 Hz அதிர்வெண்ணை உடைய ஒலி மூலமானது ஒலியின் திசைவேகத்தில் (1/10) மடங்கு வேகத்தில் ஓய்வு நிலையில் உள்ள கேட்புநரை அடைகிறது. கேட்புநரால் உணரப்படும் தோற்ற அதிர்வெண் என்ன?
+**90 Hz அதிர்வெண்ணை உடைய ஒலி மூலமானது ஒலியின் திசைவேகத்தில் (1/10) மடங்கு வேகத்தில் ஓய்வு நிலையில் உள்ள கேட்புநரை அடைகிறது. கேட்புநரால் உணரப்படும் தோற்ற அதிர்வெண் என்ன?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3190,15 +2957,17 @@ $$n' = \left( \frac{10}{9} \right) \times 90 = \mathbf{100\text{ Hz}}$$
 ---
 
 <a id="2025-7-marks"></a>
+
 ## 2025 - 7 Marks Questions (Detailed Answer / பெரு வினாக்கள் - Part IV)
 
-### Question Q33 (2025 • 7-marks)
+### Conservation of Momentum, Newton's Laws & Mass vs Weight (2025)
 
-**Exam Year**: 2025 | **Marks Tier**: 7-marks | **ID**: q33
+**Exam Year**: 2025 | **ID**: q33
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) State and prove the Law of Conservation of Linear Momentum.
 (ii) State the Principle of Moments.
@@ -3232,8 +3001,6 @@ When a body is in rotational equilibrium, the sum of clockwise moments about any
 $$\text{Moment of force} = \text{Force} \times \text{Perpendicular distance}$$
 $$\text{Clockwise moment} = \text{Anticlockwise moment}$$
 
----
-
 ### Option (b)
 #### (i) Newton's Second Law & Force Equation
 Rate of change of momentum is directly proportional to applied force ($F \propto m(v-u)/t \Rightarrow F = k ma$, $k=1 \Rightarrow \mathbf{F = ma}$).
@@ -3246,7 +3013,8 @@ Rate of change of momentum is directly proportional to applied force ($F \propto
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) உந்த மாறாக் கோட்பாட்டைக் கூறி அதனை மெய்ப்பிக்க.
 (ii) திருப்புத்திறன் தத்துவம் – வரையறு.
@@ -3276,8 +3044,6 @@ $$\mathbf{m_1 u_1 + m_2 u_2 = m_1 v_1 + m_2 v_2}$$
 #### (ii) திருப்புத்திறன் தத்துவம்
 சமநிலையில் உள்ள ஒரு பொருளின் மீது செயல்படும் இடஞ்சுழி திருப்புத்திறன்களின் கூட்டுத்தொகையானது, வலஞ்சுழி திருப்புத்திறன்களின் கூட்டுத்தொகைக்கு சமமாகும்.
 
----
-
 ### தெரிவு (ஆ)
 #### (i) நியூட்டன் இரண்டாம் விதி
 விசை உந்த மாறுபாட்டு வீதத்திற்கு நேர்விகிதத்தில் இருக்கும்: $\mathbf{F = ma}$.
@@ -3288,15 +3054,14 @@ $$\mathbf{m_1 u_1 + m_2 u_2 = m_1 v_1 + m_2 v_2}$$
 
 </details>
 
----
+### Hygroscopic vs Deliquescent Substances & Mass Percentage (2025)
 
-### Question Q34 (2025 • 7-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 7-marks | **ID**: q34
+**Exam Year**: 2025 | **ID**: q34
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) What are the differences between hygroscopic and deliquescent substances ?
 (ii) Why is common salt spread on icy roads in cold countries ?
@@ -3322,8 +3087,6 @@ Spreading common salt on ice lowers the freezing point of water (**depression in
 Mass percentage is defined as the percentage by mass of solute present in the total mass of the solution:
 $$\text{Mass percentage} = \frac{\text{Mass of solute}}{\text{Mass of solution}} \times 100$$
 
----
-
 ### Option (b)
 #### (i) Combination and Decomposition Reactions
 - **Combination Reaction:** Two or more reactants combine to form a single product.
@@ -3340,7 +3103,8 @@ A family of organic compounds with same functional group:
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) ஈரம் உறிஞ்சும் சேர்மங்களுக்கும், ஈரம் உறிஞ்சிக் கரையும் சேர்மங்களுக்கும் இடையேயான வேறுபாடுகள் யாவை?
 (ii) குளிர் பிரதேசங்களில் பனி படர்ந்த சாலைகளில் சாதாரண உப்பு தெளிக்கப்படுவது ஏன்?
@@ -3366,8 +3130,6 @@ A family of organic compounds with same functional group:
 கரைசலின் மொத்த நிறையில் கரைந்துள்ள கரைபொருளின் நிறை சதவீதம் ஆகும்:
 $$\text{நிறை சதவீதம்} = \frac{\text{கரைபொருளின் நிறை}}{\text{கரைசலின் நிறை}} \times 100$$
 
----
-
 ### தெரிவு (ஆ)
 #### (i) வேதி வினைகள்
 - **கூடுகை வினை:** இரண்டு அல்லது அதற்கு மேற்பட்ட வினைகலவைகள் இணைந்து ஒரே சேர்மத்தைத் தருகிறது (எ.கா: $\text{C} + \text{O}_2 \rightarrow \text{CO}_2$).
@@ -3380,15 +3142,14 @@ $$\text{நிறை சதவீதம்} = \frac{\text{கரைபொரு�
 
 </details>
 
----
+### Monocot vs Dicot Root, Respiration & Genetics Monohybrid Cross (2025)
 
-### Question Q35 (2025 • 7-marks)
-
-**Exam Year**: 2025 | **Marks Tier**: 7-marks | **ID**: q35
+**Exam Year**: 2025 | **ID**: q35
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) Differentiate :
 (i) Monocot root and Dicot root.
@@ -3419,8 +3180,6 @@ $$\text{நிறை சதவீதம்} = \frac{\text{கரைபொரு�
 | **Breakdown** | Complete breakdown of glucose into $\text{CO}_2$ and $\text{H}_2\text{O}$. | Incomplete breakdown into ethyl alcohol or lactic acid. |
 | **Energy Yield** | High (38 ATP molecules per glucose). | Low (2 ATP molecules per glucose). |
 
----
-
 ### Option (b)
 #### (i) Mendel's Monohybrid Cross
 - Cross between pure breeding Tall ($TT$) and Dwarf ($tt$) pea plants.
@@ -3438,7 +3197,8 @@ $$\text{நிறை சதவீதம்} = \frac{\text{கரைபொரு�
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) வேறுபடுத்துக :
 (i) ஒரு வித்திலை தாவர வேர் மற்றும் இரு வித்திலை தாவர வேர்.
@@ -3469,8 +3229,6 @@ $$\text{நிறை சதவீதம்} = \frac{\text{கரைபொரு�
 | **விளைபொருள்** | $\text{CO}_2$ மற்றும் நீர். | எத்தனால் அல்லது லாக்டிக் அமிலம். |
 | **ஆற்றல்** | அதிகம் (38 ATP மூலக்கூறுகள்). | குறைவு (2 ATP மூலக்கூறுகள்). |
 
----
-
 ### தெரிவு (ஆ)
 #### (i) ஒரு பண்புக் கலப்பு
 - தூய நெட்டை ($TT$) மற்றும் குட்டை ($tt$) தாவரங்களின் கலப்பு.
@@ -3490,18 +3248,17 @@ $$\text{நிறை சதவீதம்} = \frac{\text{கரைபொரு�
 
 
 <a id="year-2026"></a>
+
 # Year 2026
 
 <a id="2026-2-marks"></a>
 ## 2026 - 2 Marks Questions (Short Answer / குறு வினாக்கள் - Part II)
 
-### Question Q13 (2026 • 2-marks)
+### State Boyle's Law (2026)
 
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q13
+**Exam Year**: 2026 | **ID**: q13
 
 #### 🇬🇧 English
-
-## State Boyle's Law.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3518,7 +3275,8 @@ Where $P$ is pressure and $V$ is volume.
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பாயில் விதியைக் கூறுக.
+**பாயில் விதியைக் கூறுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3531,15 +3289,11 @@ $$P \cdot V = \text{மாறிலி}$$
 
 </details>
 
----
+### Define : Relative atomic mass (2026)
 
-### Question Q14 (2026 • 2-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q14
+**Exam Year**: 2026 | **ID**: q14
 
 #### 🇬🇧 English
-
-## Define : Relative atomic mass.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3553,7 +3307,8 @@ $$A_r = \frac{\text{Average mass of isotopes of the element}}{\frac{1}{12} \time
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## ஒப்பு அணுநிறை – வரையறுக்கவும்.
+**ஒப்பு அணுநிறை – வரையறுக்கவும்.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3563,50 +3318,17 @@ $$A_r = \frac{\text{Average mass of isotopes of the element}}{\frac{1}{12} \time
 
 </details>
 
----
+### What is rust ? Give the equation for formation of rust (2024, 2026)
 
-### Question Q15 (2026 • 2-marks)
+**Exam Year**: 2026 | **ID**: q15
 
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q15
+*Note: This question also appeared in 2024 (as Q15). See [What is rust ? Give the equation for formation of rust (2024, 2026)](#what-is-rust--give-the-equation-for-the-formation-of-rust-2024-2026) for the complete bilingual model answer & solution.*
 
-#### 🇬🇧 English
+### Name the simplest Ketone and give its structural formula (2026)
 
-## What is rust ? Give the equation for formation of rust.
-
-<details>
-<summary><b>View Model Answer & Solution (English)</b></summary>
-
-### Definition and Equation of Rust
-When iron is exposed to moisture and oxygen, it undergoes slow oxidation to form a reddish-brown coating of hydrated ferric oxide called **rust**.
-
-### Equation:
-$$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{O}_3 \cdot x\text{H}_2\text{O}$$
-
-</details>
-
-#### 🇮🇳 தமிழ் (Tamil)
-
-## துரு என்பது என்ன? துரு உருவாவதன் சமன்பாட்டைத் தருக.
-
-<details>
-<summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
-
-### துரு மற்றும் சமன்பாடு
-இரும்பு ஈரப்பதம் மற்றும் காற்றுடன் வினைபுரிந்து அதன் மீது செம்பழுப்பு நிற நீரேறிய ஃபெர்ரிக் ஆக்சைடு படலம் உருவாகிறது. இதுவே **துரு** எனப்படும்.
-
-$$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{O}_3 \cdot x\text{H}_2\text{O}$$
-
-</details>
-
----
-
-### Question Q16 (2026 • 2-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q16
+**Exam Year**: 2026 | **ID**: q16
 
 #### 🇬🇧 English
-
-## Name the simplest Ketone and give its structural formula.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3625,7 +3347,8 @@ $$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## எளிய கீட்டோனின் பெயரையும், மூலக்கூறு வாய்பாட்டையும் எழுதுக.
+**எளிய கீட்டோனின் பெயரையும், மூலக்கூறு வாய்பாட்டையும் எழுதுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3637,15 +3360,11 @@ $$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{
 
 </details>
 
----
+### Why is the circulation in man referred to as double circulation ? (2026)
 
-### Question Q17 (2026 • 2-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q17
+**Exam Year**: 2026 | **ID**: q17
 
 #### 🇬🇧 English
-
-## Why is the circulation in man referred to as double circulation ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3660,7 +3379,8 @@ Because these two separate circuits occur simultaneously without mixing, it is c
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மனிதர்களின் சுற்றோட்டமானது இரட்டைச் சுற்றோட்டம் என அழைக்கப்படுகிறது. ஏன்?
+**மனிதர்களின் சுற்றோட்டமானது இரட்டைச் சுற்றோட்டம் என அழைக்கப்படுகிறது. ஏன்?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3673,15 +3393,11 @@ Because these two separate circuits occur simultaneously without mixing, it is c
 
 </details>
 
----
+### Write the differences between endocrine and exocrine glands (2026)
 
-### Question Q18 (2026 • 2-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q18
+**Exam Year**: 2026 | **ID**: q18
 
 #### 🇬🇧 English
-
-## Write the differences between endocrine and exocrine glands.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3698,7 +3414,8 @@ Because these two separate circuits occur simultaneously without mixing, it is c
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## நாளமுள்ள சுரப்பிக்கும், நாளமில்லா சுரப்பிக்கும் உள்ள வேறுபாடுகளை எழுதுக.
+**நாளமுள்ள சுரப்பிக்கும், நாளமில்லா சுரப்பிக்கும் உள்ள வேறுபாடுகளை எழுதுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3713,15 +3430,11 @@ Because these two separate circuits occur simultaneously without mixing, it is c
 
 </details>
 
----
+### How can menstrual hygiene be maintained during menstruation ? (2026)
 
-### Question Q19 (2026 • 2-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q19
+**Exam Year**: 2026 | **ID**: q19
 
 #### 🇬🇧 English
-
-## How can menstrual hygiene be maintained during menstruation ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3736,7 +3449,8 @@ Because these two separate circuits occur simultaneously without mixing, it is c
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## மாதவிடாயின் போது மாதவிடாய் சுகாதாரம் எவ்வாறு பராமரிக்கப்படுகிறது?
+**மாதவிடாயின் போது மாதவிடாய் சுகாதாரம் எவ்வாறு பராமரிக்கப்படுகிறது?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3749,15 +3463,11 @@ Because these two separate circuits occur simultaneously without mixing, it is c
 
 </details>
 
----
+### Why is Archaeopteryx considered to be a connecting link ? (2026)
 
-### Question Q20 (2026 • 2-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q20
+**Exam Year**: 2026 | **ID**: q20
 
 #### 🇬🇧 English
-
-## Why is Archaeopteryx considered to be a connecting link ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3772,7 +3482,8 @@ Hence, it serves as conclusive paleontological evidence that birds evolved from 
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## ஆர்க்கியாப்டெரிக்ஸ் இணைப்பு உயிரியாக ஏன் கருதப்படுகிறது?
+**ஆர்க்கியாப்டெரிக்ஸ் இணைப்பு உயிரியாக ஏன் கருதப்படுகிறது?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3785,15 +3496,14 @@ Hence, it serves as conclusive paleontological evidence that birds evolved from 
 
 </details>
 
----
+### Match the following: Energy Sources & Greenhouse Gas (2026)
 
-### Question Q21 (2026 • 2-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q21
+**Exam Year**: 2026 | **ID**: q21
 
 #### 🇬🇧 English
 
-## Match the following :
+**Match the following :**
+
 
 (1) Biogas - (i) Energy saving
 (2) Natural gas - (ii) CO2
@@ -3815,7 +3525,8 @@ Matches: (1)-(iii), (2)-(iv), (3)-(ii), (4)-(i).
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பொருத்துக :
+**பொருத்துக :**
+
 
 (1) உயிரி வாயு - (i) ஆற்றல் சேமிப்பு
 (2) இயற்கை வாயு - (ii) CO2
@@ -3835,15 +3546,11 @@ Matches: (1)-(iii), (2)-(iv), (3)-(ii), (4)-(i).
 
 </details>
 
----
+### A sound source of frequency 500 Hz moves towards a listener with a velocity of $30\text{ m s}^{-1}$. If velocity of sound in air is $330\text{ m s}^{-1}$, calculate the frequency heard by the listener (2026)
 
-### Question Q22 (2026 • 2-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 2-marks | **ID**: q22
+**Exam Year**: 2026 | **ID**: q22
 
 #### 🇬🇧 English
-
-## A sound source of frequency 500 Hz moves towards a listener with a velocity of $30\text{ m s}^{-1}$. If velocity of sound in air is $330\text{ m s}^{-1}$, calculate the frequency heard by the listener.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -3866,7 +3573,8 @@ $$n' = \left( \frac{330}{330 - 30} \right) \times 500 = \left( \frac{330}{300} \
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## 500 Hz அதிர்வெண்ணை உடைய ஒலிமூலமானது, $30\text{ மீ வி}^{-1}$ வேகத்தில் கேட்குநரை நோக்கி நகர்கிறது. காற்றில் ஒலியின் வேகம் $330\text{ மீ வி}^{-1}$ எனில், கேட்குநரால் உணரப்படும் அதிர்வெண்ணைக் கணக்கிடுக.
+**500 Hz அதிர்வெண்ணை உடைய ஒலிமூலமானது, $30\text{ மீ வி}^{-1}$ வேகத்தில் கேட்குநரை நோக்கி நகர்கிறது. காற்றில் ஒலியின் வேகம் $330\text{ மீ வி}^{-1}$ எனில், கேட்குநரால் உணரப்படும் அதிர்வெண்ணைக் கணக்கிடுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -3889,15 +3597,17 @@ $$n' = \left( \frac{330}{330 - 30} \right) \times 500 = \frac{330}{300} \times 5
 ---
 
 <a id="2026-4-marks"></a>
+
 ## 2026 - 4 Marks Questions (Brief Answer / சிறு வினாக்கள் - Part III)
 
-### Question Q23 (2026 • 4-marks)
+### Properties of Light & Convex Lens Imaging (2026)
 
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q23
+**Exam Year**: 2026 | **ID**: q23
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) State any two properties of light.
 
@@ -3919,7 +3629,8 @@ $$n' = \left( \frac{330}{330 - 30} \right) \times 500 = \frac{330}{300} \times 5
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) ஒளியின் ஏதேனும் இரண்டு பண்புகளைக் கூறுக.
 
@@ -3939,15 +3650,14 @@ $$n' = \left( \frac{330}{330 - 30} \right) \times 500 = \frac{330}{300} \times 5
 
 </details>
 
----
+### Thermal Expansion in Solids and Liquids (2026)
 
-### Question Q24 (2026 • 4-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q24
+**Exam Year**: 2026 | **ID**: q24
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) Distinguish between linear expansion and superficial expansion.
 
@@ -3967,7 +3677,8 @@ The **coefficient of real expansion** of a liquid is defined as the ratio of the
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) நீள் வெப்ப விரிவு மற்றும் பரப்பு வெப்ப விரிவு – வேறுபடுத்துக.
 
@@ -3985,15 +3696,11 @@ The **coefficient of real expansion** of a liquid is defined as the ratio of the
 
 </details>
 
----
+### What are the factors that affect the velocity of sound in gases ? (2026)
 
-### Question Q25 (2026 • 4-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q25
+**Exam Year**: 2026 | **ID**: q25
 
 #### 🇬🇧 English
-
-## What are the factors that affect the velocity of sound in gases ?
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -4008,7 +3715,8 @@ The **coefficient of real expansion** of a liquid is defined as the ratio of the
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## வாயுக்களில் ஒலியின் திசைவேகத்தைப் பாதிக்கும் காரணிகள் எவை?
+**வாயுக்களில் ஒலியின் திசைவேகத்தைப் பாதிக்கும் காரணிகள் எவை?**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -4021,15 +3729,14 @@ The **coefficient of real expansion** of a liquid is defined as the ratio of the
 
 </details>
 
----
+### Radiation Effects Post-WWII & Radioisotopes in Agriculture (2026)
 
-### Question Q26 (2026 • 4-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q26
+**Exam Year**: 2026 | **ID**: q26
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (i) Why do some children born in Japan after World War II suffer from congenital defects ?
 
@@ -4049,7 +3756,8 @@ During World War II, atomic bombs dropped on Hiroshima and Nagasaki released eno
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (i) ஜப்பானில் இரண்டாம் உலகப் போருக்குப் பிறகு புதிதாகப் பிறக்கும் சில குழந்தைகளுக்குப் பிறவிக் குறைபாடுகள் காணப்படுவது ஏன்?
 
@@ -4067,15 +3775,14 @@ During World War II, atomic bombs dropped on Hiroshima and Nagasaki released eno
 
 </details>
 
----
+### Chemical Bonding in HF Molecule & Electronegativity (2026)
 
-### Question Q27 (2026 • 4-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q27
+**Exam Year**: 2026 | **ID**: q27
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (a) What type of bond is formed between H and F in HF molecule ?
 
@@ -4099,7 +3806,8 @@ Along a period from left to right, electronegativity **increases** because nucle
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (அ) HF மூலக்கூறில் உள்ள H மற்றும் F-க்கு இடையில் உள்ள பிணைப்பு எது?
 
@@ -4121,15 +3829,11 @@ Along a period from left to right, electronegativity **increases** because nucle
 
 </details>
 
----
+### How is ethanoic acid prepared from ethanol ? Write the chemical equation (2026)
 
-### Question Q28 (2026 • 4-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q28
+**Exam Year**: 2026 | **ID**: q28
 
 #### 🇬🇧 English
-
-## How is ethanoic acid prepared from ethanol ? Write the chemical equation.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -4144,7 +3848,8 @@ $$\text{CH}_3\text{CH}_2\text{OH} + 2[\text{O}] \xrightarrow{\text{alkaline } \t
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## எத்தனாயிக் அமிலம் எத்தனாலில் இருந்து எவ்வாறு தயாரிக்கப்படுகிறது? வேதிச் சமன்பாட்டை எழுதுக.
+**எத்தனாயிக் அமிலம் எத்தனாலில் இருந்து எவ்வாறு தயாரிக்கப்படுகிறது? வேதிச் சமன்பாட்டை எழுதுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -4157,15 +3862,14 @@ $$\text{CH}_3\text{CH}_2\text{OH} + 2[\text{O}] \xrightarrow{\text{KMnO}_4 / \te
 
 </details>
 
----
+### Cartilaginous Rings in Trachea & Leech Parasitic Adaptations (2026)
 
-### Question Q29 (2026 • 4-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q29
+**Exam Year**: 2026 | **ID**: q29
 
 #### 🇬🇧 English
 
-## Answer the following questions:
+**Answer the following questions:**
+
 
 (i) Why are cartilaginous rings present in the trachea of rabbit ?
 
@@ -4185,7 +3889,8 @@ The wall of the trachea is supported by incomplete C-shaped cartilaginous rings 
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும்:**
+
 
 (i) முயலின் சுவாசக் குழாயில் குருத்தெலும்பு வளையங்கள் காணப்படுவது ஏன்?
 
@@ -4203,49 +3908,17 @@ The wall of the trachea is supported by incomplete C-shaped cartilaginous rings 
 
 </details>
 
----
+### Classify Neurons based on its structure (2024, 2026)
 
-### Question Q30 (2026 • 4-marks)
+**Exam Year**: 2026 | **ID**: q30
 
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q30
+*Note: This question also appeared in 2024 (as Q28(b)). See [Classify Neurons based on its structure (2024, 2026)](#advantages-of-euploidy--classification-of-neurons-2024-2026) for the complete bilingual model answer & solution.*
 
-#### 🇬🇧 English
+### Enumerate the importance of Forest (2026)
 
-## Classify Neurons based on its structure.
-
-<details>
-<summary><b>View Model Answer & Solution (English)</b></summary>
-
-### Structural Classification of Neurons
-1. **Unipolar Neurons:** Single nerve process arises from cyton which acts as both axon and dendrite (found in early embryonic stages).
-2. **Bipolar Neurons:** Cyton gives rise to two processes: one axon and one dendrite (found in retina of eye and olfactory epithelium).
-3. **Multipolar Neurons:** Cyton gives rise to many dendrites and one long axon (found in the cerebral cortex of brain).
-
-</details>
-
-#### 🇮🇳 தமிழ் (Tamil)
-
-## நியூரான்கள், அவற்றின் அமைப்பின் அடிப்படையில் எவ்வாறு வகைப்படுத்தப்பட்டுள்ளன?
-
-<details>
-<summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
-
-### அமைப்பின் அடிப்படையில் நியூரான்கள்
-1. **ஒரு முனை நியூரான்கள்:** செல் உடலத்திலிருந்து ஒரே ஒரு முனை மட்டும் புறப்பட்டு ஆக்சான் மற்றும் டென்ட்ரானாகச் செயல்படுகிறது (வளர்கருவில் மட்டும் காணப்படுகிறது).
-2. **இரு முனை நியூரான்கள்:** ஒரு ஆக்சான் மற்றும் ஒரு டென்ட்ரான் கொண்டது (கண் விழித்திரை மற்றும் நாசிப் பகுதியில் காணப்படுகிறது).
-3. **பல முனை நியூரான்கள்:** ஒரு ஆக்சான் மற்றும் பல டென்ட்ரான்களைக் கொண்டது (பெருமூளைப் புறணியில் காணப்படுகிறது).
-
-</details>
-
----
-
-### Question Q31 (2026 • 4-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q31
+**Exam Year**: 2026 | **ID**: q31
 
 #### 🇬🇧 English
-
-## Enumerate the importance of Forest.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -4260,7 +3933,8 @@ The wall of the trachea is supported by incomplete C-shaped cartilaginous rings 
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## காடுகளின் முக்கியத்துவம் பற்றி கூறுக.
+**காடுகளின் முக்கியத்துவம் பற்றி கூறுக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -4273,15 +3947,11 @@ The wall of the trachea is supported by incomplete C-shaped cartilaginous rings 
 
 </details>
 
----
+### A container of 70 mL capacity is filled with 50 mL of liquid. When heated, the level of liquid initially falls and then rises. Explain this observation with reference to real and apparent expansion (2026)
 
-### Question Q32 (2026 • 4-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 4-marks | **ID**: q32
+**Exam Year**: 2026 | **ID**: q32
 
 #### 🇬🇧 English
-
-## A container of 70 mL capacity is filled with 50 mL of liquid. When heated, the level of liquid initially falls and then rises. Explain this observation with reference to real and apparent expansion.
 
 <details>
 <summary><b>View Model Answer & Solution (English)</b></summary>
@@ -4299,7 +3969,8 @@ $$\mathbf{\text{Real Expansion} = \text{Apparent Expansion} + \text{Vessel Expan
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## 70 மி.லி கொள்ளளவு உள்ள கொள்கலனில் 50 மி.லி திரவம் நிரப்பப்பட்டுள்ளது. திரவம் அடங்கிய கொள்கலனை வெப்பப்படுத்தும் போது திரவத்தின் நிலை முதலில் குறைந்து பின் உயர்கிறது. உண்மை மற்றும் தோற்ற விரிவு அடிப்படையில் விளக்குக.
+**70 மி.லி கொள்ளளவு உள்ள கொள்கலனில் 50 மி.லி திரவம் நிரப்பப்பட்டுள்ளது. திரவம் அடங்கிய கொள்கலனை வெப்பப்படுத்தும் போது திரவத்தின் நிலை முதலில் குறைந்து பின் உயர்கிறது. உண்மை மற்றும் தோற்ற விரிவு அடிப்படையில் விளக்குக.**
+
 
 <details>
 <summary><b>மாதிரி விடை மற்றும் தீர்வு (தமிழ்)</b></summary>
@@ -4317,15 +3988,17 @@ $$\mathbf{\text{உண்மை விரிவு} = \text{தோற்ற வ�
 ---
 
 <a id="2026-7-marks"></a>
+
 ## 2026 - 7 Marks Questions (Detailed Answer / பெரு வினாக்கள் - Part IV)
 
-### Question Q33 (2026 • 7-marks)
+### Types of Inertia & Joule's Law of Heating (2026)
 
-**Exam Year**: 2026 | **Marks Tier**: 7-marks | **ID**: q33
+**Exam Year**: 2026 | **ID**: q33
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) Explain the various types of inertia with examples.
 (ii) While catching a ball, a cricket fielder pulls his hands backward. Why ?
@@ -4348,8 +4021,6 @@ $$\mathbf{\text{உண்மை விரிவு} = \text{தோற்ற வ�
 #### (ii) Why Cricket Fielder Pulls Hands Backward
 According to the impulse-momentum theorem ($F = \frac{\Delta p}{\Delta t}$), pulling hands backward increases the time of contact ($\Delta t$) over which the momentum is reduced to zero. Increasing time decreases the impact force ($F$), preventing hand injury.
 
----
-
 ### Option (b)
 #### (i) Joule's Law of Heating
 $$H = I^2 R t$$
@@ -4365,7 +4036,8 @@ Low melting point wire melts and breaks the circuit when excessive current flows
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) நிலைமத்தின் பல்வேறு வகைகளை எடுத்துக்காட்டுகளுடன் விளக்குக.
 (ii) கிரிக்கெட் விளையாட்டில் மேலிருந்து விழும் பந்தினை பிடிக்கும் போது, பீல்டர் தனது கைகளை பின்னோக்கி இழுப்பது ஏன்?
@@ -4388,8 +4060,6 @@ Low melting point wire melts and breaks the circuit when excessive current flows
 #### (ii) கைகளை பின்னோக்கி இழுப்பதற்கான காரணம்
 கணத்தாக்கு தத்துவத்தின்படி ($F = \frac{\Delta p}{\Delta t}$), கைகளை பின்னோக்கி இழுக்கும் போது மோதல் காலம் ($\Delta t$) அதிகரிக்கிறது. இதனால் பந்து கையின் மீது செலுத்தும் விசை குறைந்து காயம் ஏற்படுவது தவிர்க்கப்படுகிறது.
 
----
-
 ### தெரிவு (ஆ)
 #### (i) ஜூல் வெப்ப விதி
 $$H = I^2 R t$$
@@ -4402,15 +4072,14 @@ $$H = I^2 R t$$
 
 </details>
 
----
+### Binary Solutions & IUPAC Nomenclature (2026)
 
-### Question Q34 (2026 • 7-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 7-marks | **ID**: q34
+**Exam Year**: 2026 | **ID**: q34
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) What is a binary solution ?
 (ii) Give an example each for: (1) Gas in liquid, (2) Solid in liquid.
@@ -4436,8 +4105,6 @@ A solution consisting of exactly two components (one solute and one solvent) is 
 - **Saturated Solution:** A solution in which no more solute can be dissolved at that given temperature (e.g., $36\text{ g}$ of $\text{NaCl}$ in $100\text{ g}$ of water at $25^\circ\text{C}$).
 - **Unsaturated Solution:** A solution containing less solute than the saturation limit, capable of dissolving more solute (e.g., $10\text{ g}$ of $\text{NaCl}$ in $100\text{ g}$ of water at $25^\circ\text{C}$).
 
----
-
 ### Option (b)
 #### (i) IUPAC Nomenclature Rules
 1. Select the longest continuous carbon chain (root word).
@@ -4452,7 +4119,8 @@ An atom or group of atoms in an organic molecule that determines its characteris
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) இருமடி கரைசல் என்றால் என்ன?
 (ii) கீழ்கண்டவற்றிற்கு தலா ஒரு எடுத்துக்காட்டு தருக: (1) திரவத்தில் வாயு, (2) திரவத்தில் திண்மம்.
@@ -4478,8 +4146,6 @@ An atom or group of atoms in an organic molecule that determines its characteris
 - **தெவிட்டிய கரைசல்:** குறிப்பிட்ட வெப்பநிலையில் மேலும் கரைபொருளைக் கரைக்க முடியாத கரைசல் (100 கி நீரில் 36 கி NaCl).
 - **தெவிட்டாத கரைசல்:** தெவிட்டிய நிலையை விட குறைவான கரைபொருளைக் கொண்டு மேலும் கரைக்கும் திறன் கொண்ட கரைசல் (100 கி நீரில் 10 கி NaCl).
 
----
-
 ### தெரிவு (ஆ)
 #### (i) IUPAC விதிகள்
 1. மிக நீண்ட தொடர் கார்பன் சங்கிலியைத் தேர்ந்தெடுத்தல் (அடிச்சொல்).
@@ -4491,15 +4157,14 @@ An atom or group of atoms in an organic molecule that determines its characteris
 
 </details>
 
----
+### Tissue Systems in Plants, Photosynthesis & Human Sperm Structure (2026)
 
-### Question Q35 (2026 • 7-marks)
-
-**Exam Year**: 2026 | **Marks Tier**: 7-marks | **ID**: q35
+**Exam Year**: 2026 | **ID**: q35
 
 #### 🇬🇧 English
 
-## Answer the following question (Internal Choice):
+**Answer the following question (Internal Choice):**
+
 
 (a) (i) Name the three tissue systems in flowering plants.
 (ii) What is photosynthesis ? Where does it take place in a plant cell ?
@@ -4525,8 +4190,6 @@ Photosynthesis is the photochemical process by which green plants synthesize car
 #### (iii) Balanced Equation of Photosynthesis
 $$6\text{CO}_2 + 12\text{H}_2\text{O} \xrightarrow[\text{Chlorophyll}]{\text{Sunlight}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{H}_2\text{O} + 6\text{O}_2 \uparrow$$
 
----
-
 ### Option (b)
 #### (i) Structure of Human Sperm
 - **Head:** Contains haploid nucleus and cap-like acrosome containing hyaluronidase enzyme for ovum penetration.
@@ -4544,7 +4207,8 @@ $$6\text{CO}_2 + 12\text{H}_2\text{O} \xrightarrow[\text{Chlorophyll}]{\text{Sun
 
 #### 🇮🇳 தமிழ் (Tamil)
 
-## பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):
+**பின்வரும் வினாக்களுக்கு விடையளிக்கவும் (அல்லது வினா):**
+
 
 (அ) (i) மலரும் தாவரங்களில் காணப்படும் மூன்று வகையான திசுத் தொகுப்புகளைக் குறிப்பிடுக.
 (ii) ஒளிச்சேர்க்கை என்றால் என்ன? இது செல்லில் எங்கு நடைபெறுகிறது?
@@ -4570,8 +4234,6 @@ $$6\text{CO}_2 + 12\text{H}_2\text{O} \xrightarrow[\text{Chlorophyll}]{\text{Sun
 #### (iii) ஒளிச்சேர்க்கை சமன்பாடு
 $$6\text{CO}_2 + 12\text{H}_2\text{O} \xrightarrow[\text{பச்சையம்}]{\text{சூரிய ஒளி}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{H}_2\text{O} + 6\text{O}_2 \uparrow$$
 
----
-
 ### தெரிவு (ஆ)
 #### (i) மனித விந்தணு அமைப்பு
 - **தலை:** ஒற்றைமய உட்கரு மற்றும் அக்ரோசோம் (அண்டத்தினுள் நுழைய உதவும் என்சைம்) கொண்டது.
@@ -4590,3 +4252,6 @@ $$6\text{CO}_2 + 12\text{H}_2\text{O} \xrightarrow[\text{பச்சையம�
 ---
 
 You classify the questions and add them at the end of the respected chapter.
+
+---
+

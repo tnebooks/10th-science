@@ -750,7 +750,7 @@ $$
 
 ### 2 Marks
 
-#### Question Q14 (2023 • 2-marks)
+#### 2023
 
 Why does the sky appear blue in colour ?
 
@@ -772,9 +772,107 @@ When sunlight passes through the atmosphere, violet and blue colours have shorte
 
 ---
 
+#### Numerical Problem
+
+If the power of a lens is -2 dioptre, find its focal length.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+The relation between power and focal length is:
+$P = \frac{1}{f}$
+
+Given:
+$P = -2 \text{ D}$
+
+Substituting:
+$f = \frac{1}{P}$
+
+$f = \frac{1}{-2}$
+
+$f = -0.5 \text{ m}$
+
+Therefore:
+Focal length of the lens, $f = -0.5 \text{ m}$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+A person suffering from hypermetropia has a near point at 1.5 m. Find the focal length of the convex lens required to correct the defect.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+The focal length of the lens is given by:
+$f = \frac{dD}{d - D}$
+
+Given:
+$d = 1.5 \text{ m}$
+$D = 25 \text{ cm} = 0.25 \text{ m}$
+
+Substituting:
+$f = \frac{1.5 \times 0.25}{1.5 - 0.25}$
+
+$f = \frac{0.375}{1.25}$
+
+$f = 0.3 \text{ m}$
+
+Therefore:
+Focal length of the lens, $f = 0.3 \text{ m}$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+A person with myopia can see objects clearly only up to 4 m. What should be the focal length of the lens required to see an object at 20 m?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+The focal length of the lens is given by:
+$f = \frac{xy}{x - y}$
+
+Given:
+$x = 4 \text{ m}$
+$y = 20 \text{ m}$
+
+Substituting:
+$f = \frac{4 \times 20}{4 - 20}$
+
+$f = \frac{80}{-16}$
+
+$f = -5 \text{ m}$
+
+Power of the lens:
+$P = \frac{1}{f} = \frac{1}{-5} = -0.2 \text{ D}$
+
+Therefore:
+Focal length of the lens, $f = -5 \text{ m}$
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
-#### Question Q24 (2023 • 4-marks)
+#### 2023, 2025
 
 Differentiate the eye defects : Myopia and Hypermetropia.
 
@@ -798,31 +896,7 @@ Differentiate the eye defects : Myopia and Hypermetropia.
 
 ---
 
-#### Question Q24 (2025 • 4-marks)
-
-Differentiate the eye defects : Myopia and Hypermetropia.
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**Differences between Myopia and Hypermetropia**
-
-| Feature | Myopia (Short-sightedness) | Hypermetropia (Long-sightedness) |
-|---|---|---|
-| **Definition** | Person can see nearby objects clearly, but cannot see distant objects. | Person can see distant objects clearly, but cannot see nearby objects. |
-| **Causes** | Lengthening of eye ball or shortening of focal length of eye lens. | Shortening of eye ball or increase in focal length of eye lens. |
-| **Focus Point** | Image of distant object forms in front of the retina. | Image of nearby object forms behind the retina. |
-| **Corrective Lens** | Concave lens of suitable focal length. | Convex lens of suitable focal length. |
-
-</div>
-
-</details>
-
----
-
-#### Question Q23 (2026 • 4-marks)
+#### 2026
 
 Answer the following questions:
 
@@ -852,7 +926,7 @@ Answer the following questions:
 
 ### 7 Marks
 
-#### Question Q33 [Option a] (2024 • 7-marks)
+#### 2024
 
 Answer the following question (Internal Choice):
 

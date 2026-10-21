@@ -1182,7 +1182,7 @@ Na_2CO_3 + CaCl_2 \rightarrow CaCO_3 + 2NaCl
 
 ### 2 மதிப்பெண் வினாக்கள் (2 Marks)
 
-#### வினா Q22 (2024 • 2 மதிப்பெண்கள்)
+#### 2024
 
 ஒரு கரைசலின் pH மதிப்பு 4.5 எனில், அதன் pOH மதிப்பைக் காண்க.
 
@@ -1208,9 +1208,220 @@ $$\text{pOH} = 14 - 4.5 = \mathbf{9.5}$$
 
 ---
 
+#### கணக்கீடு
+
+0.001 M செறிவுள்ள ஹைட்ரோகுளோரிக் அமில (HCl) கரைசலின் pH மதிப்பைக் கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+HCl ஒரு வலிமையான அமிலம் ஆகும், ஆகவே:
+$[H^+] = 1.0 \times 10^{-3}$
+
+pH சமன்பாடு:
+$pH = -\log_{10}[H^+]$
+
+மாற்றினால்:
+$pH = -\log_{10}(1.0 \times 10^{-3})$
+
+$\log_{10}(10^{-3}) = -3$
+
+$pH = -(-3)$
+
+$pH = 3$
+
+ஆகவே:
+pH மதிப்பு = 3
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+$1.0 \times 10^{-4}$ மோலார் செறிவுள்ள $HNO_3$ கரைசலின் pH மதிப்பைக் கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+pH சமன்பாடு:
+$pH = -\log_{10}[H^+]$
+
+கொடுக்கப்பட்டது:
+$[H^+] = 1.0 \times 10^{-4}$
+
+மாற்றினால்:
+$pH = -\log_{10}(1.0 \times 10^{-4})$
+
+$\log_{10}(10^{-4}) = -4$
+
+$pH = -(-4)$
+
+$pH = 4$
+
+ஆகவே:
+pH மதிப்பு = 4
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+$1.0 \times 10^{-4}$ மோலார் செறிவுள்ள $NaOH$ கரைசலின் pH மதிப்பைக் கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+pOH சமன்பாடு:
+$pOH = -\log_{10}[OH^-]$
+
+கொடுக்கப்பட்டது:
+$[OH^-] = 1.0 \times 10^{-4}$
+
+மாற்றினால்:
+$pOH = -\log_{10}(1.0 \times 10^{-4})$
+
+$pOH = 4$
+
+pH மற்றும் pOH தொடர்பு:
+$pH + pOH = 14$
+
+$pH = 14 - pOH$
+
+$pH = 14 - 4$
+
+$pH = 10$
+
+ஆகவே:
+pH மதிப்பு = 10
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+$1.0 \times 10^{-5}$ மோலார் செறிவுள்ள $KOH$ கரைசலின் pH மதிப்பைக் கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+pOH சமன்பாடு:
+$pOH = -\log_{10}[OH^-]$
+
+கொடுக்கப்பட்டது:
+$[OH^-] = 1.0 \times 10^{-5}$
+
+மாற்றினால்:
+$pOH = -\log_{10}(1.0 \times 10^{-5})$
+
+$pOH = 5$
+
+pH மற்றும் pOH தொடர்பு:
+$pH + pOH = 14$
+
+$pH = 14 - pOH$
+
+$pH = 14 - 5$
+
+$pH = 9$
+
+ஆகவே:
+pH மதிப்பு = 9
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+ஒரு கரைசலில் ஹைட்ராக்சைடு அயனிச் செறிவு $1.0 \times 10^{-11}$ மோல் எனில் அதன் pH மதிப்பைக் கணக்கிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+pOH சமன்பாடு:
+$pOH = -\log_{10}[OH^-]$
+
+கொடுக்கப்பட்டது:
+$[OH^-] = 1.0 \times 10^{-11}$
+
+மாற்றினால்:
+$pOH = -\log_{10}(1.0 \times 10^{-11})$
+
+$pOH = 11$
+
+pH மற்றும் pOH தொடர்பு:
+$pH + pOH = 14$
+
+$pH = 14 - pOH$
+
+$pH = 14 - 11$
+
+$pH = 3$
+
+ஆகவே:
+pH மதிப்பு = 3
+
+</div>
+
+</details>
+
+---
+
+#### கணக்கீடு
+
+ஒரு கரைசலில் ஹைட்ராக்சைடு அயனிச் செறிவு $1.0 \times 10^{-9}$ மோல் எனில் அதன் pOH மதிப்பு என்ன?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+pOH என்பது ஹைட்ராக்சைடு அயன் செறிவின் லோகாரிதம் மதிப்பாகும்.
+
+கொடுக்கப்பட்டது:
+$[OH^-] = 1.0 \times 10^{-9}$
+
+சமன்பாடு:
+$pOH = -\log_{10}[OH^-]$
+
+மாற்றினால்:
+$pOH = -\log_{10}(1 \times 10^{-9})$
+
+$\log_{10}(10^{-9}) = -9$
+
+ஆகவே:
+$pOH = -(-9) = 9$
+
+</div>
+
+</details>
+
+---
+
 ### 4 மதிப்பெண் வினாக்கள் (4 Marks)
 
-#### வினா Q32 (அ) (2023 • 4 மதிப்பெண்கள்)
+#### 2023
 
 0.01 M $\text{HNO}_3$ கரைசலின் pH மதிப்பைக் காண்க.
 
@@ -1233,7 +1444,7 @@ $$\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-2}) = \mathbf{2}$$
 
 ### 7 மதிப்பெண் வினாக்கள் (7 Marks)
 
-#### வினா Q34 [தெரிவு ஆ(i, ii)] (2023 • 7 மதிப்பெண்கள்)
+#### 2023
 
 (i) மீள் மற்றும் மீளா வினைகளை வேறுபடுத்துக.
 (ii) நடுநிலையாக்கல் வினை என்றால் என்ன? எடுத்துக்காட்டு தருக.
@@ -1262,7 +1473,7 @@ $$\text{HCl} + \text{NaOH} \rightarrow \text{NaCl} + \text{H}_2\text{O}$$
 
 ---
 
-#### வினா Q34 [தெரிவு ஆ(i)] (2025 • 7 மதிப்பெண்கள்)
+#### 2025
 
 சேர்க்கை மற்றும் சிதைவு வினைகளை தகுந்த எடுத்துக்காட்டுகளுடன் விளக்குக.
 

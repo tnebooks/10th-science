@@ -732,7 +732,7 @@ Since the resistors are connected in parallel, the same potential difference exi
 
 ### 2 Marks
 
-#### Question Q14 (2024 • 2-marks)
+#### 2024
 
 Why is tungsten metal used in bulbs but not used as fuse wire ?
 
@@ -751,9 +751,212 @@ Why is tungsten metal used in bulbs but not used as fuse wire ?
 
 ---
 
+#### Numerical Problem
+
+If 12 coulombs of charge flows through an electric bulb in 5 seconds, find the electric current.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Electric current is given by:
+$I = \frac{Q}{t}$
+
+Given:
+$Q = 12 \text{ C}$
+$t = 5 \text{ s}$
+
+Substituting:
+$I = \frac{12}{5}$
+
+$I = 2.4 \text{ A}$
+
+Therefore:
+Electric current, $I = 2.4 \text{ A}$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+If 100 J of work is done to move 10 coulombs of charge between two points in an electric circuit, find the potential difference between those points.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Potential difference is given by:
+$V = \frac{W}{Q}$
+
+Given:
+$Q = 10 \text{ C}$
+$W = 100 \text{ J}$
+
+Substituting:
+$V = \frac{100}{10}$
+
+$V = 10 \text{ V}$
+
+Therefore:
+Potential difference, $V = 10 \text{ V}$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+If a current of 2 A flows through a conductor with a potential difference of 30 V, find its resistance.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Ohm's law:
+$R = \frac{V}{I}$
+
+Given:
+$V = 30 \text{ V}$
+$I = 2 \text{ A}$
+
+Substituting:
+$R = \frac{30}{2}$
+
+$R = 15 \ \Omega$
+
+Therefore:
+Resistance, $R = 15 \ \Omega$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+Three resistors of $5\ \Omega$, $3\ \Omega$, and $2\ \Omega$ are connected in series to a 10 V battery. Find the total resistance and the current in the circuit.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Total resistance in series:
+$R_s = R_1 + R_2 + R_3$
+
+Given:
+$R_1 = 5\ \Omega$
+$R_2 = 3\ \Omega$
+$R_3 = 2\ \Omega$
+$V = 10 \text{ V}$
+
+Substituting:
+$R_s = 5 + 3 + 2$
+
+$R_s = 10\ \Omega$
+
+Current:
+$I = \frac{V}{R_s}$
+
+$I = \frac{10}{10}$
+
+$I = 1 \text{ A}$
+
+Therefore:
+Total resistance = $10\ \Omega$
+Current = $1 \text{ A}$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+A resistor of $5\ \Omega$ carries a current of 6 A. Calculate the heat produced in 5 minutes.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Joule's law:
+$H = I^2 R t$
+
+Given:
+$R = 5\ \Omega$
+$I = 6 \text{ A}$
+$t = 5 \text{ min} = 300 \text{ s}$
+
+Substituting:
+$H = 6^2 \times 5 \times 300$
+
+$H = 36 \times 5 \times 300$
+
+$H = 54000 \text{ J}$
+
+Therefore:
+Heat produced, $H = 54000 \text{ J}$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+A 100 W, 200 V electric bulb is connected in a circuit. Find the current flowing through it and its resistance.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Power relation:
+$P = VI$
+
+Given:
+$P = 100 \text{ W}$
+$V = 200 \text{ V}$
+
+Current:
+$I = \frac{P}{V}$
+
+$I = \frac{100}{200}$
+
+$I = 0.5 \text{ A}$
+
+Resistance:
+$R = \frac{V}{I}$
+
+$R = \frac{200}{0.5}$
+
+$R = 400\ \Omega$
+
+Therefore:
+Current = $0.5 \text{ A}$
+Resistance = $400\ \Omega$
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
-#### Question Q24 (b) (2024 • 4-marks)
+#### 2024
 
 Mention two electrical appliances based on heating effect of current.
 
@@ -774,7 +977,7 @@ Mention two electrical appliances based on heating effect of current.
 
 ### 7 Marks
 
-#### Question Q33 [Option a] (2023 • 7-marks)
+#### 2023, 2026
 
 Answer the following question (Internal Choice):
 
@@ -810,33 +1013,3 @@ A fuse wire has low melting point and relatively high resistance. When excessive
 </div>
 
 </details>
-
----
-
-#### Question Q33 [Option b] (2026 • 7-marks)
-
-(b) (i) State Joule's Law of Heating.
-(ii) An alloy of nickel and chromium is used as the heating element. Why ?
-(iii) How does an electric fuse wire protect household appliances ?
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**Option (b)**
-**(i) Joule's Law of Heating**
-$$H = I^2 R t$$
-Heat produced is directly proportional to square of current, resistance, and time.
-
-**(ii) Why Nichrome is Used as Heating Element**
-High resistivity, high melting point, and resistance to oxidation.
-
-**(iii) Electric Fuse Wire Protection**
-Low melting point wire melts and breaks the circuit when excessive current flows during overload or short circuit.
-
-</div>
-
-</details>
-
----

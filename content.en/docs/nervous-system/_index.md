@@ -335,7 +335,7 @@ HUMAN NERVOUS SYSTEM
 
 ### 2 Marks
 
-#### Question Q18 (2023 • 2-marks)
+#### 2023
 
 What are the structures involved in the protection of brain ?
 
@@ -358,7 +358,7 @@ What are the structures involved in the protection of brain ?
 
 ---
 
-#### Question Q19 (2023 • 2-marks)
+#### 2023
 
 Identify the parts A, B, C and D in the given figure of a Neuron.
 
@@ -379,7 +379,7 @@ Identify the parts A, B, C and D in the given figure of a Neuron.
 
 ---
 
-#### Question Q18 (2024 • 2-marks)
+#### 2024
 
 What are the parts of the hind brain ?
 
@@ -402,7 +402,7 @@ The hindbrain consists of three main regions:
 
 ### 4 Marks
 
-#### Question Q28 (b) (2024 • 4-marks)
+#### 2024, 2026
 
 How are neurons classified based on structure ?
 
@@ -422,7 +422,7 @@ How are neurons classified based on structure ?
 
 ---
 
-#### Question Q30 (2025 • 4-marks)
+#### 2025
 
 With a neat labelled diagram, explain the structure of a neuron.
 
@@ -446,25 +446,3 @@ A neuron (nerve cell) is the structural and functional unit of the nervous syste
 </div>
 
 </details>
-
----
-
-#### Question Q30 (2026 • 4-marks)
-
-Classify Neurons based on its structure.
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**Structural Classification of Neurons**
-1. **Unipolar Neurons:** Single nerve process arises from cyton which acts as both axon and dendrite (found in early embryonic stages).
-2. **Bipolar Neurons:** Cyton gives rise to two processes: one axon and one dendrite (found in retina of eye and olfactory epithelium).
-3. **Multipolar Neurons:** Cyton gives rise to many dendrites and one long axon (found in the cerebral cortex of brain).
-
-</div>
-
-</details>
-
----

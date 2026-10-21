@@ -439,7 +439,7 @@ Some examples of genetically modified plants and animals are given in the table 
 
 ### 2 Marks
 
-#### Question Q20 (2023 • 2-marks)
+#### 2023
 
 Define genetic engineering.
 
@@ -459,7 +459,7 @@ Define genetic engineering.
 
 ### 4 Marks
 
-#### Question Q31 (b) (2024 • 4-marks)
+#### 2024
 
 Mention the applications of DNA fingerprinting technique.
 

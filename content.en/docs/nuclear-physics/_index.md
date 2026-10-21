@@ -542,7 +542,7 @@ disintegrations in one second.
 
 ### 2 Marks
 
-#### Question Q22 (2023 • 2-marks)
+#### 2023
 
 Calculate the amount of energy released when a radioactive substance undergoes fusion and results in a mass defect of 2 kg.
 
@@ -573,9 +573,42 @@ $$E = 1.8 \times 10^{17}\text{ Joules}$$
 
 ---
 
+#### Numerical Problem
+
+${}^{235}_{92}U$ undergoes one alpha decay and one beta decay. Find the number of neutrons in the final nucleus formed.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Alpha decay:
+${}^{235}_{92}U \rightarrow {}^{231}_{90}X + {}^{4}_{2}He$
+
+Beta decay:
+${}^{231}_{90}X \rightarrow {}^{231}_{91}Y + {}^{0}_{-1}e$
+
+Final nucleus:
+Mass number = 231
+Atomic number = 91
+
+Number of neutrons:
+= Mass number - Atomic number
+= 231 - 91
+= 140
+
+Therefore:
+Number of neutrons = 140
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
-#### Question Q24 (a) (2024 • 4-marks)
+#### 2024
 
 Write any three properties of natural and artificial radioactivity.
 
@@ -598,7 +631,7 @@ Write any three properties of natural and artificial radioactivity.
 
 ---
 
-#### Question Q25 (2025 • 4-marks)
+#### 2025
 
 Compare the properties of alpha, beta and gamma radiation.
 
@@ -623,7 +656,7 @@ Compare the properties of alpha, beta and gamma radiation.
 
 ---
 
-#### Question Q26 (2026 • 4-marks)
+#### 2026
 
 Answer the following questions:
 
@@ -651,7 +684,7 @@ During World War II, atomic bombs dropped on Hiroshima and Nagasaki released eno
 
 ### 7 Marks
 
-#### Question Q33 [Option b(ii)] (2023 • 7-marks)
+#### 2023
 
 What is a nuclear reactor ? Explain its essential parts with their functions.
 

@@ -698,7 +698,7 @@ c. Give two functions of this hormone.
 
 ### 2 Marks
 
-#### Question Q18 (2025 • 2-marks)
+#### 2025
 
 What is Bolting ? How can it be induced artificially ?
 
@@ -719,7 +719,7 @@ Bolting can be induced artificially by treatment with **Gibberellins** under non
 
 ---
 
-#### Question Q18 (2026 • 2-marks)
+#### 2026
 
 Write the differences between endocrine and exocrine glands.
 
@@ -744,7 +744,7 @@ Write the differences between endocrine and exocrine glands.
 
 ### 7 Marks
 
-#### Question Q35 [Option a(i, ii)] (2023 • 7-marks)
+#### 2023
 
 (i) Which hormone induces parthenocarpy in tomatoes ?
 (ii) Why is thyroid hormone called 'personality hormone' ?
@@ -774,7 +774,7 @@ Thyroid hormone (Thyroxine) regulates basal metabolic rate (BMR), body temperatu
 
 ---
 
-#### Question Q35 [Option a(i)] (2024 • 7-marks)
+#### 2024
 
 What are synthetic auxins ? Give example.
 
@@ -806,7 +806,7 @@ Artificially synthesised chemical compounds that exhibit physiological actions s
 
 ---
 
-#### Question Q35 [Option b(ii)] (2025 • 7-marks)
+#### 2025
 
 Write the structure and functions of thyroid gland.
 

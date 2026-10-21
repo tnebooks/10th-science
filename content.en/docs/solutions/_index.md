@@ -535,9 +535,79 @@ $$
 
 ## Board Examination Questions
 
+### 2 Marks
+
+#### Numerical Problem
+
+A solution is prepared by dissolving 45 kg of sodium chloride in 180 kg of water. Calculate the mass percentage of the solute.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Mass percentage of solute:
+$\% = \frac{\text{Mass of solute}}{\text{Total mass}} \times 100$
+
+Given:
+Mass of solute = $45 \text{ kg}$  
+Mass of solvent = $180 \text{ kg}$  
+
+Total mass:
+= $45 + 180$  
+= $225 \text{ kg}$
+
+Substituting:
+$\% = \frac{45}{225} \times 100$
+
+$\% = 20\%$
+
+Therefore:
+Mass percentage of solute = 20\%
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+A solution is prepared by mixing 35 ml of methanol with 65 ml of water. Calculate the volume percentage of the solution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Volume percentage:
+$\% = \frac{\text{Volume of solute}}{\text{Total volume}} \times 100$
+
+Given:
+Volume of solute (methanol) = $35 \text{ ml}$  
+Volume of solvent (water) = $65 \text{ ml}$  
+
+Total volume:
+= $35 + 65$  
+= $100 \text{ ml}$
+
+Substituting:
+$\% = \frac{35}{100} \times 100$
+
+$\% = 35\%$
+
+Therefore:
+Volume percentage = 35\%
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
-#### Question Q32 (b) (2023 • 4-marks)
+#### 2023
 
 25 g of sugar is dissolved in 100 g of water. Calculate the mass percentage of the solution.
 
@@ -560,7 +630,7 @@ $$\text{Mass percentage} = \frac{25}{125} \times 100 = \frac{1}{5} \times 100 = 
 
 ---
 
-#### Question Q25 (2024 • 4-marks)
+#### 2024
 
 Answer the following questions:
 
@@ -588,7 +658,7 @@ $$\text{MgSO}_4 \cdot 7\text{H}_2\text{O} \xrightarrow{\Delta} \text{MgSO}_4 + 7
 
 ### 7 Marks
 
-#### Question Q34 [Option a(iii)] (2023 • 7-marks)
+#### 2023, 2024
 
 In what way hygroscopic substances differ from deliquescent substances ?
 
@@ -609,28 +679,7 @@ In what way hygroscopic substances differ from deliquescent substances ?
 
 ---
 
-#### Question Q34 [Option a(ii)] (2024 • 7-marks)
-
-How do hygroscopic substances differ from deliquescent substances ?
-
-<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
-<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
-
-<div class="pt-3">
-
-**(ii) Hygroscopic vs Deliquescent Substances**
-- **Hygroscopic:** Absorb moisture without dissolving into liquid (e.g., anhydrous calcium chloride, conc. $\text{H}_2\text{SO}_4$).
-- **Deliquescent:** Absorb sufficient moisture to dissolve completely into solution (e.g., sodium hydroxide, potassium hydroxide).
-
----
-
-</div>
-
-</details>
-
----
-
-#### Question Q34 [Option b(i)] (2024 • 7-marks)
+#### 2024
 
 Classify solutions based on the physical state of solute and solvent with examples.
 
@@ -657,7 +706,7 @@ A series of structurally related organic compounds containing the same functiona
 
 ---
 
-#### Question Q34 [Option a] (2025 • 7-marks)
+#### 2025
 
 Answer the following question (Internal Choice):
 
@@ -690,7 +739,7 @@ $$\text{Mass percentage} = \frac{\text{Mass of solute}}{\text{Mass of solution}}
 
 ---
 
-#### Question Q34 [Option a] (2026 • 7-marks)
+#### 2026
 
 Answer the following question (Internal Choice):
 

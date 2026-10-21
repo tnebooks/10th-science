@@ -628,7 +628,7 @@ From the centre of the Earth, the object is placed at twice the radius of the ea
 
 ### 2 Marks
 
-#### Question Q13 (2023 • 2-marks)
+#### 2023
 
 Define inertia. Give its classification.
 
@@ -651,9 +651,101 @@ The inherent property of a body to resist any change in its state of rest or the
 
 ---
 
+#### Numerical Problem
+
+A body of mass 5 kg has a linear momentum of 2.5 kg m s$^{-1}$. Calculate its velocity.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Linear momentum is given by the formula:
+$P = mv$
+
+Given:
+Mass, $m = 5 \text{ kg}$
+Linear momentum, $P = 2.5 \text{ kg m s}^{-1}$
+
+Formula:
+$v = \frac{P}{m}$
+
+Substituting:
+$v = \frac{2.5}{5}$
+
+Therefore:
+Velocity, $v = 0.5 \text{ m s}^{-1}$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+A door with a handle located 90 cm from the hinge is opened by applying a force of 40 N. Calculate the torque about the hinge.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Torque is given by the formula:
+$\tau = F \times d$
+
+Given:
+Force, $F = 40 \text{ N}$
+Distance, $d = 90 \text{ cm} = 90 \times 10^{-2} \text{ m}$
+
+Substituting:
+$\tau = 40 \times 90 \times 10^{-2}$
+
+$\tau = 3600 \times 10^{-2} \text{ Nm}$
+
+Therefore:
+Torque, $\tau = 36 \text{ Nm}$
+
+</div>
+
+</details>
+
+---
+
+#### Numerical Problem
+
+A lift moves downward with an acceleration of $1.8 \text{ m s}^{-2}$. What apparent weight will a man of mass 50 kg feel?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+Apparent weight is given by the formula:
+$R = m(g - a)$
+
+Given:
+Acceleration, $a = 1.8 \text{ m s}^{-2}$
+Mass, $m = 50 \text{ kg}$
+Acceleration due to gravity, $g = 9.8 \text{ m s}^{-2}$
+
+Substituting:
+$R = 50(9.8 - 1.8)$
+
+$R = 50 \times 8$
+
+Therefore:
+Apparent weight, $R = 400 \text{ N}$
+
+</div>
+
+</details>
+
+---
+
 ### 4 Marks
 
-#### Question Q23 (2023 • 4-marks)
+#### 2023
 
 Deduce the equation of force using Newton's Second Law of Motion.
 
@@ -693,7 +785,7 @@ Hence, $\text{Force} = \text{mass} \times \text{acceleration}$.
 
 ---
 
-#### Question Q23 (2024 • 4-marks)
+#### 2024
 
 Explain the various types of inertia with examples.
 
@@ -721,7 +813,7 @@ Explain the various types of inertia with examples.
 
 ### 7 Marks
 
-#### Question Q33 [Option b(ii)] (2024 • 7-marks)
+#### 2024
 
 Distinguish between mass and weight.
 
@@ -740,7 +832,7 @@ Distinguish between mass and weight.
 
 ---
 
-#### Question Q33 (2025 • 7-marks)
+#### 2025
 
 Answer the following question (Internal Choice):
 
@@ -794,7 +886,7 @@ Rate of change of momentum is directly proportional to applied force ($F \propto
 
 ---
 
-#### Question Q33 [Option a] (2026 • 7-marks)
+#### 2026
 
 Answer the following question (Internal Choice):
 

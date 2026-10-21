@@ -577,7 +577,7 @@ The parents and teachers are to create awareness among the school girls about th
 
 ### 2 Marks
 
-#### Question Q20 (2024 • 2-marks)
+#### 2024
 
 What is colostrum ? How is milk production hormonally regulated ?
 
@@ -598,7 +598,7 @@ What is colostrum ? How is milk production hormonally regulated ?
 
 ---
 
-#### Question Q19 (2026 • 2-marks)
+#### 2026
 
 How can menstrual hygiene be maintained during menstruation ?
 
@@ -621,7 +621,7 @@ How can menstrual hygiene be maintained during menstruation ?
 
 ### 7 Marks
 
-#### Question Q35 [Option b(i)] (2023 • 7-marks)
+#### 2023
 
 Explain the structure of a flower with a neat diagram.
 
@@ -647,7 +647,7 @@ A typical flower consists of four concentric whorls:
 
 ---
 
-#### Question Q35 [Option a(ii)] (2024 • 7-marks)
+#### 2024
 
 Explain the structure of an ovule in angiosperms with a neat labelled diagram.
 
@@ -675,7 +675,7 @@ Explain the structure of an ovule in angiosperms with a neat labelled diagram.
 
 ---
 
-#### Question Q35 [Option b(i)] (2026 • 7-marks)
+#### 2026
 
 Describe the structure of a human sperm with a neat labelled diagram.
 
