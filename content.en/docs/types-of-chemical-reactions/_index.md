@@ -1015,8 +1015,6 @@ $$\text{pOH} = 14 - \text{pH} = 14 - 4.5 = \mathbf{9.5}$$
 
 ---
 
-#### Numerical Problem
-
 Calculate the pH of a 0.001 M hydrochloric acid (HCl) solution.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -1048,8 +1046,6 @@ pH value = 3
 
 ---
 
-#### Numerical Problem
-
 Calculate the pH of a $1.0 \times 10^{-4}$ M $HNO_3$ solution.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -1080,8 +1076,6 @@ pH value = 4
 </details>
 
 ---
-
-#### Numerical Problem
 
 Calculate the pH of a $1.0 \times 10^{-4}$ M $NaOH$ solution.
 
@@ -1119,8 +1113,6 @@ pH value = 10
 
 ---
 
-#### Numerical Problem
-
 Calculate the pH of a $1.0 \times 10^{-5}$ M $KOH$ solution.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -1157,8 +1149,6 @@ pH value = 9
 
 ---
 
-#### Numerical Problem
-
 If the hydroxide ion concentration in a solution is $1.0 \times 10^{-11}$ mole, find its pH value.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -1194,8 +1184,6 @@ pH value = 3
 </details>
 
 ---
-
-#### Numerical Problem
 
 If the hydroxide ion concentration in a solution is $1.0 \times 10^{-9}$ mole, what is its pOH value?
 

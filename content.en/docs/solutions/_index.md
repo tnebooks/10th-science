@@ -537,8 +537,6 @@ $$
 
 ### 2 Marks
 
-#### Numerical Problem
-
 A solution is prepared by dissolving 45 kg of sodium chloride in 180 kg of water. Calculate the mass percentage of the solute.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -570,8 +568,6 @@ Mass percentage of solute = 20\%
 </details>
 
 ---
-
-#### Numerical Problem
 
 A solution is prepared by mixing 35 ml of methanol with 65 ml of water. Calculate the volume percentage of the solution.
 

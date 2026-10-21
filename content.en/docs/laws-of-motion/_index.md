@@ -651,8 +651,6 @@ The inherent property of a body to resist any change in its state of rest or the
 
 ---
 
-#### Numerical Problem
-
 A body of mass 5 kg has a linear momentum of 2.5 kg m s$^{-1}$. Calculate its velocity.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -682,8 +680,6 @@ Velocity, $v = 0.5 \text{ m s}^{-1}$
 
 ---
 
-#### Numerical Problem
-
 A door with a handle located 90 cm from the hinge is opened by applying a force of 40 N. Calculate the torque about the hinge.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -711,8 +707,6 @@ Torque, $\tau = 36 \text{ Nm}$
 </details>
 
 ---
-
-#### Numerical Problem
 
 A lift moves downward with an acceleration of $1.8 \text{ m s}^{-2}$. What apparent weight will a man of mass 50 kg feel?
 

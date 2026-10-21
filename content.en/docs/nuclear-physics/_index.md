@@ -573,8 +573,6 @@ $$E = 1.8 \times 10^{17}\text{ Joules}$$
 
 ---
 
-#### Numerical Problem
-
 ${}^{235}_{92}U$ undergoes one alpha decay and one beta decay. Find the number of neutrons in the final nucleus formed.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">

@@ -509,8 +509,6 @@ $$n' = \left( \frac{330}{330 - 30} \right) \times 500 = \left( \frac{330}{300} \
 
 ---
 
-#### Numerical Problem
-
 A sound wave of frequency 200 Hz travels with a velocity of 400 m s$^{-1}$ in a medium. Find its wavelength.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -540,8 +538,6 @@ Wavelength, $\lambda = 2 \text{ m}$
 </details>
 
 ---
-
-#### Numerical Problem
 
 Lightning is seen and thunder is heard after 9.8 seconds. If the speed of sound in air is 300 m s$^{-1}$, find the height of the clouds.
 

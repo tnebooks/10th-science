@@ -751,8 +751,6 @@ Why is tungsten metal used in bulbs but not used as fuse wire ?
 
 ---
 
-#### Numerical Problem
-
 If 12 coulombs of charge flows through an electric bulb in 5 seconds, find the electric current.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -780,8 +778,6 @@ Electric current, $I = 2.4 \text{ A}$
 </details>
 
 ---
-
-#### Numerical Problem
 
 If 100 J of work is done to move 10 coulombs of charge between two points in an electric circuit, find the potential difference between those points.
 
@@ -811,8 +807,6 @@ Potential difference, $V = 10 \text{ V}$
 
 ---
 
-#### Numerical Problem
-
 If a current of 2 A flows through a conductor with a potential difference of 30 V, find its resistance.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -840,8 +834,6 @@ Resistance, $R = 15 \ \Omega$
 </details>
 
 ---
-
-#### Numerical Problem
 
 Three resistors of $5\ \Omega$, $3\ \Omega$, and $2\ \Omega$ are connected in series to a 10 V battery. Find the total resistance and the current in the circuit.
 
@@ -881,8 +873,6 @@ Current = $1 \text{ A}$
 
 ---
 
-#### Numerical Problem
-
 A resistor of $5\ \Omega$ carries a current of 6 A. Calculate the heat produced in 5 minutes.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -913,8 +903,6 @@ Heat produced, $H = 54000 \text{ J}$
 </details>
 
 ---
-
-#### Numerical Problem
 
 A 100 W, 200 V electric bulb is connected in a circuit. Find the current flowing through it and its resistance.
 

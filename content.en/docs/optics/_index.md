@@ -772,8 +772,6 @@ When sunlight passes through the atmosphere, violet and blue colours have shorte
 
 ---
 
-#### Numerical Problem
-
 If the power of a lens is -2 dioptre, find its focal length.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -802,8 +800,6 @@ Focal length of the lens, $f = -0.5 \text{ m}$
 </details>
 
 ---
-
-#### Numerical Problem
 
 A person suffering from hypermetropia has a near point at 1.5 m. Find the focal length of the convex lens required to correct the defect.
 
@@ -834,8 +830,6 @@ Focal length of the lens, $f = 0.3 \text{ m}$
 </details>
 
 ---
-
-#### Numerical Problem
 
 A person with myopia can see objects clearly only up to 4 m. What should be the focal length of the lens required to see an object at 20 m?
 

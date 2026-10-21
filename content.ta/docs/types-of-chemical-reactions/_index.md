@@ -1208,8 +1208,6 @@ $$\text{pOH} = 14 - 4.5 = \mathbf{9.5}$$
 
 ---
 
-#### கணக்கீடு
-
 0.001 M செறிவுள்ள ஹைட்ரோகுளோரிக் அமில (HCl) கரைசலின் pH மதிப்பைக் கணக்கிடுக.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -1241,8 +1239,6 @@ pH மதிப்பு = 3
 
 ---
 
-#### கணக்கீடு
-
 $1.0 \times 10^{-4}$ மோலார் செறிவுள்ள $HNO_3$ கரைசலின் pH மதிப்பைக் கணக்கிடுக.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -1273,8 +1269,6 @@ pH மதிப்பு = 4
 </details>
 
 ---
-
-#### கணக்கீடு
 
 $1.0 \times 10^{-4}$ மோலார் செறிவுள்ள $NaOH$ கரைசலின் pH மதிப்பைக் கணக்கிடுக.
 
@@ -1312,8 +1306,6 @@ pH மதிப்பு = 10
 
 ---
 
-#### கணக்கீடு
-
 $1.0 \times 10^{-5}$ மோலார் செறிவுள்ள $KOH$ கரைசலின் pH மதிப்பைக் கணக்கிடுக.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -1350,8 +1342,6 @@ pH மதிப்பு = 9
 
 ---
 
-#### கணக்கீடு
-
 ஒரு கரைசலில் ஹைட்ராக்சைடு அயனிச் செறிவு $1.0 \times 10^{-11}$ மோல் எனில் அதன் pH மதிப்பைக் கணக்கிடுக.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -1387,8 +1377,6 @@ pH மதிப்பு = 3
 </details>
 
 ---
-
-#### கணக்கீடு
 
 ஒரு கரைசலில் ஹைட்ராக்சைடு அயனிச் செறிவு $1.0 \times 10^{-9}$ மோல் எனில் அதன் pOH மதிப்பு என்ன?
 

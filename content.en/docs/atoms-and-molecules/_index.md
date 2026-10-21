@@ -775,8 +775,6 @@ $$A_r = \frac{\text{Average mass of isotopes of the element}}{\frac{1}{12} \time
 
 ---
 
-#### Numerical Problem
-
 Calculate the molecular mass of the following:
 
 (i) $H_2O$  
@@ -829,8 +827,6 @@ Therefore:
 
 ---
 
-#### Numerical Problem
-
 Calculate the number of moles in 46 g of sodium.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -859,8 +855,6 @@ Number of moles = 2 moles
 
 ---
 
-#### Numerical Problem
-
 Calculate the number of moles in $12.046 \times 10^{23}$ atoms of iron.
 
 <details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
@@ -888,8 +882,6 @@ Number of moles = 2 moles
 </details>
 
 ---
-
-#### Numerical Problem
 
 Calculate the number of moles in 5.6 litres of oxygen at STP.
 
