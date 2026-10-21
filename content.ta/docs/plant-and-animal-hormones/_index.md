@@ -4,6 +4,38 @@ weight: 16
 references:
     videos:
         - youtube:HNZtYa_hDhQ?si=BkkrGD9sSu9dOYoa
+        - custom:
+            title: "வென்ட்ஸின் சோதனை"
+            desc: "தாவர ஹார்மோன்களான ஆக்ஸின்களைக் கண்டறியப் பயன்பட்ட சோதனை."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b97-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "நாளமில்லா மற்றும் நாளமுள்ள சுரப்பிகள்"
+            desc: "உடலில் உள்ள பல்வேறு சுரப்பிகளின் செயல்பாடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4e333a20-9cd2-11ef-a2b0-d9f8f3ddb8ba.mp4"
+        - custom:
+            title: "மனித நாளமில்லா சுரப்பிகள் - பிட்யூட்டரி சுரப்பி"
+            desc: "தலைமைச் சுரப்பியான பிட்யூட்டரியின் அமைப்பும் அதன் ஹார்மோன்களும்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8b147410-e000-11ef-a176-f3ff0a5174dc.mp4"
+        - custom:
+            title: "பிட்யூட்டரி சுரப்பி - 1"
+            desc: "பிட்யூட்டரி சுரப்பி மற்றும் அதன் மூலம் சுரக்கும் ஹார்மோன்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9d6fce18-16a4-4128-a583-ce113c01c090.mp4"
+        - custom:
+            title: "பிட்யூட்டரி சுரப்பி - 2"
+            desc: "பிட்யூட்டரி சுரப்பி ஹார்மோன்களின் பணிகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6b404fb0-9d0c-4a0c-b3fd-3f00e36c1ccf.mp4"
+        - custom:
+            title: "பிட்யூட்டரி சுரப்பி - 3"
+            desc: "பிட்யூட்டரி சுரப்பி குறைபாடுகளும் அதன் விளைவுகளும்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/db7eb803-b8c4-43c9-ac87-c169ec4292d3.mp4"
+        - custom:
+            title: "கணையம், அட்ரினல், இனப்பெருக்க மற்றும் தைமஸ் சுரப்பிகள்"
+            desc: "உடலில் உள்ள மற்ற முக்கிய ஹார்மோன் சுரப்பிகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e9ddda00-0011-11f0-a525-e511cf6553d7.mp4"
+        - custom:
+            title: "தாவர மற்றும் விலங்கு ஹார்மோன்கள் பகுதி 2"
+            desc: "ஹார்மோன்களின் ஒருங்கிணைப்பு மற்றும் செயல்பாடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6184fc20-6a83-11ef-8144-372076d8ceb0.mp4"
     links:
         - https://www.biologydiscussion.com > auxins-his
         - https://www.mcdaniel.edu/biology/Bot.(dia)

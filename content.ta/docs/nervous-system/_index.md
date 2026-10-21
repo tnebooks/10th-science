@@ -4,9 +4,55 @@ weight: 15
 references:
     videos:
         - youtube:XSMBeTyGTPY?si=m0nxoh0OWIy7w1yi
+        - custom:
+            title: "நரம்பு மண்டலம்"
+            desc: "மனித நரம்பு மண்டலத்தின் அமைப்பு மற்றும் ஒருங்கிணைப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654cf7-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "நரம்புக்கல்லின் (நியூரான்) அமைப்பு"
+            desc: "நரம்பு மண்டலத்தின் அடிப்படை அலகான நியூரான் அமைப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/016294e0-459b-11ef-bc01-5b82f60e49ce.mp4"
+        - custom:
+            title: "நரம்புக்கல்லின் வகைகள் பகுதி 1"
+            desc: "செயல்பாட்டின் அடிப்படையில் நரம்புக்கல்லின் வகைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f7ca8d0a-a21f-4422-8f4a-16491dc4b794.mp4"
+        - custom:
+            title: "நரம்புக்கல்லின் வகைகள் பகுதி 2"
+            desc: "நியூரான்களின் கட்டமைப்பு மற்றும் பல்வேறு வகைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/620a78ee-d557-43f1-90f7-7ef737216e1b.mp4"
+        - custom:
+            title: "நரம்புத் தூண்டல் கடத்துதல்"
+            desc: "நரம்பு வழியே செய்திகள் மின்வேதி அலைகளாகக் கடத்தப்படுதல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d0c-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "நரம்புத் தூண்டல் மற்றும் நரம்புக்கடத்திகள்"
+            desc: "நரம்பு இணைப்புகளில் (சினேப்சு) கடத்திகள் செயல்படும் விதம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/08348943-383b-44bb-a240-e23977ade5e0.mp4"
+        - custom:
+            title: "மனித நரம்பு மண்டலம்"
+            desc: "மைய மற்றும் பரிவார நரம்பு மண்டலங்களின் ஒருங்கிணைப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b6525d0-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மூளை தண்டுவட திரவம்"
+            desc: "மூளை மற்றும் தண்டுவடத்தைப் பாதுகாக்கும் திரவத்தின் பங்கு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcc4-feeb-11ef-80fb-29a65bc2a44b.mp4"
+        - custom:
+            title: "மனிதனின் துலங்கல் செயல் (ரெப்ளெக்ஸ் ஆக்சன்)"
+            desc: "தன்னியக்கமான விரைவான தற்காப்புச் செயல்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/45425960-e001-11ef-a176-f3ff0a5174dc.mp4"
+        - custom:
+            title: "மனிதனின் துலங்கல் செயல்"
+            desc: "தண்டுவட வளைவு மற்றும் அதன் செயல்பாடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d00-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "பரிவார நரம்பு மண்டலம் மற்றும் தன்னியக்க நரம்பு மண்டலம்"
+            desc: "உடலின் உள் உறுப்புகளைக் கட்டுப்படுத்தும் நரம்புப் பகுதிகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654cfd-0a3c-11f0-b0e0-e5021b5adc02.mp4"
     links:
         - http://www.britannica.com/science/nervous-system
         - http://www.sumanasine.com/webcontent/animations/neurobiology.html
+        - "[Neuron](https://phet.colorado.edu/en/simulations/neuron)"
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
     books:
         - b1:
             title: Guyton and Hall, 2003, Textbook of Medical Physiology; Harcourt Indian Private Limited.

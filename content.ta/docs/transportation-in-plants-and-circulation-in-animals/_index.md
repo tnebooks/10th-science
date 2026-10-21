@@ -3,9 +3,124 @@ title: 'தாவரங்களின் கடத்துதல் மற்�
 weight: 14
 references:
     videos:
-        - youtube:ZsAzoYqsaQ0?si=4rtVJY75JYDepV-D
+         - youtube:ZsAzoYqsaQ0?si=4rtVJY75JYDepV-D
+         - custom:
+            title: "வேர்த்தூவி - நீர் உறிஞ்சும் அலகு"
+            desc: "தாவரங்களில் வேர்த்தூவிகளின் மூலம் நீர் உறிஞ்சப்படுதல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3de-1405-11f0-abbe-93d158bec7a9.mp4"
+         - custom:
+               title: "வேரினால் உறிஞ்சப்படும் நீரின் பாதை"
+               desc: "வேரிலிருந்து தண்டு வழியாக நீர் செல்லும் வழிப்பாதை."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3cf-1405-11f0-abbe-93d158bec7a9.mp4"
+         - custom:
+               title: "வேர் செல்களுக்குள் நீர் நகரும் முறைகள்"
+               desc: "வேர் செல்களில் நீர் ஊடுருவும் பல்வேறு வழிமுறைகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d27-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "நீராவிப்போக்கு, அதன் முக்கியத்துவம் மற்றும் காரணிகள்"
+               desc: "தாவரங்களில் நீராவிப்போக்கு நடைபெறும் விதம் மற்றும் அதன் தாக்கம்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3e14bcf0-c694-11ee-a861-6d35fc1c2c1f.mp4"
+         - custom:
+               title: "வேரழுத்தம்"
+               desc: "வேரின் மூலம் உருவாகும் மேல்நோக்கிய அழுத்த விசை."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d1e-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "கனிம உப்புகள் உறிஞ்சப்படுதல்"
+               desc: "தாவரங்கள் மண்ணிலிருந்து கனிமங்களை உறிஞ்சும் விதம்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d2d-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "கனிம அயனிகள் இடப்பெயர்ச்சி"
+               desc: "தாவரப் பகுதிகளில் கனிம அயனிகள் பரவுதல்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b88-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "புளோயம் கடத்தல்"
+               desc: "உணவுப் பொருட்கள் புளோயம் திசு மூலம் கடத்தப்படுதல்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b6a-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "சர்க்கரை இடப்பெயர்ச்சி"
+               desc: "தாவரங்களில் தயாரிக்கப்பட்ட சர்க்கரை மூலக்கூறுகள் நகர்தல்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b8b-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "சாறு மேல்நோக்கி ஏறுதல் - ஒரு கண்ணோட்டம்"
+               desc: "தாவரங்களில் நீர் உச்சிவரை செல்வதற்கான காரணிகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b4f-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "தாவரங்களில் கடத்துதல் மற்றும் விலங்குகளில் சுற்றோட்டம் பகுதி 1"
+               desc: "உயிரினங்களில் சுற்றோட்ட மண்டலத்தின் அறிமுகம்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1c985290-44ec-11ef-b0de-97e03681057c.mp4"
+         - custom:
+               title: "இரத்தக் கூறுகள் - I"
+               desc: "இரத்தத்தின் முக்கியக் கூறுகளும் அவற்றின் பணிகளும்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d51-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "இரத்தக் கூறுகள் - II"
+               desc: "வெள்ளையணுக்கள் மற்றும் இரத்தத் தட்டுகளின் பணிகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d54-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "இரத்த நாளங்கள் - தமனிகள் மற்றும் சிரைகள்"
+               desc: "இரத்த நாளங்களின் அமைப்பும் அவற்றுக்கு இடையேயான வேறுபாடுகளும்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e8d78640-a984-11ee-8c4f-d1fbb0187fc0.mp4"
+         - custom:
+               title: "இரத்த நாளங்கள்"
+               desc: "பல்வேறு வகையான இரத்த நாளங்களின் கட்டமைப்பு."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d3f-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "தாவரங்களில் கடத்துதல் மற்றும் விலங்குகளில் சுற்றோட்டம் பகுதி 5"
+               desc: "சுற்றோட்ட மண்டலத்தின் மேம்பட்ட விளக்கங்கள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f7721f50-6a89-11ef-909c-41bb43141e5c.mp4"
+         - custom:
+               title: "சுற்றோட்ட மண்டலத்தின் வகைகள்"
+               desc: "திறந்த மற்றும் மூடிய சுற்றோட்ட மண்டலங்கள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657425-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "தாவரங்களில் கடத்துதல் மற்றும் விலங்குகளில் சுற்றோட்டம் பகுதி 3"
+               desc: "உயிரினங்களின் சுற்றோட்ட முறைகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2d22df40-595f-11ef-acf3-3bca5db1ee16.mp4"
+         - custom:
+               title: "இரத்த சுற்றோட்டத்தின் வகைகள்"
+               desc: "ஒன்றுபட்ட மற்றும் இருமடங்கு இரத்த சுற்றோட்டம்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657422-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "இதய துடிப்பு சுழற்சி (கார்டியாக் சைக்கிள்)"
+               desc: "இதயம் சுருங்கி விரியும் ஒரு முழுமையான சுழற்சி."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0984fbcb-30b1-46e1-863c-3393836f32e7.mp4"
+         - custom:
+               title: "இரத்த அழுத்தமும் அளவிடும் கருவிகளும்"
+               desc: "இரத்த அழுத்த அளவீடு மற்றும் பயன்படுத்தும் கருவிகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1e335e90-fbff-11ef-914a-8b21877556da.mp4"
+         - custom:
+               title: "இரத்த அழுத்தம்"
+               desc: "இரத்த அழுத்தத்தின் வகைகளும் அதன் அளவீடுகளும்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d3c-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "ஸ்பைக்மோமனோமீட்டர்"
+               desc: "இரத்த அழுத்தத்தை அளவிடும் கருவியின் செயல்பாடு."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657419-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "ஸ்டெதாஸ்கோப்"
+               desc: "இதயத் துடிப்பைக் கேட்கும் கருவியின் அமைப்பு."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65741c-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "இரத்தப் பிரிவுகள்"
+               desc: "மனித இரத்த வகைகளின் அடிப்படைகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1910256336_V1_1080.mp4"
+         - custom:
+               title: "இரத்தப் பிரிவுகள் மற்றும் ஆர்.எச் காரணி"
+               desc: "இரத்தக் குழுக்களின் வகைப்பாடு மற்றும் இரத்தம் வழங்குதல்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d39-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+         - custom:
+               title: "நிணநீர் மண்டலம்"
+               desc: "உடல் பாதுகாப்பில் நிணநீர் மண்டலத்தின் பங்கு."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42c05af0-a741-11ef-829f-b5b040ea3833.mp4"
+         - custom:
+               title: "நிணநீரின் கட்டமைப்பு"
+               desc: "நிணநீரின் இயைபு மற்றும் அதன் முக்கியப் பணிகள்."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b6573f2-0a3c-11f0-b0e0-e5021b5adc02.mp4"
     links:
        - "[Cardiovascular System](https://www.msdmanuals.com/home/multimedia/3dmodel/cardiovascular-system)"
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
+        - "[Diffusion](https://phet.colorado.edu/en/simulations/diffusion)"
+        - "[Under Pressure](https://phet.colorado.edu/en/simulations/under-pressure)"
     books:
         - b1:
             title: V.K. Jain, Fundamentals of Plant physiology, S.Chand and Company, New Delhi

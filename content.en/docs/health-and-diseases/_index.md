@@ -4,8 +4,103 @@ weight: 21
 references:
     videos:
         - youtube:XmyoYVcRjOI?si=7pNSXEn8hApiL6es
+        - custom:
+            title: "Forest and Its Importance"
+            desc: "The vital role of forests in maintaining ecological balance and environmental health."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657443-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Forest Conservation"
+            desc: "Methods and importance of protecting and preserving forest ecosystems."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657440-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Electrical Energy Management"
+            desc: "Electrical energy management"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3b7-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Wildlife and Its Conservation"
+            desc: "Strategies and significance of conserving diverse wildlife species."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d18-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Soil Erosion"
+            desc: "Causes of soil erosion and effective prevention techniques."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d21-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Shale Gas"
+            desc: "Exploration and utilization of shale gas as an energy source."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65744f-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Wind Energy"
+            desc: "Harvesting wind power as a renewable energy alternative."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657452-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Alternative Energy Resources- Biogas"
+            desc: "Production and benefits of biogas as an alternative energy resource."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657431-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Water Energy and Tidal Energy"
+            desc: "Generating power from water currents and tidal movements."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b94-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Rainwater Harvesting"
+            desc: "Techniques and benefits of collecting and storing rainwater."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b82-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Rainwater Harvesting"
+            desc: "Methods of rain water harvesting and its advanteges"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3b1-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Electrical Energy Management"
+            desc: "Methods for efficient use and management of electrical energy."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b5b-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "E-wastes and Its Management"
+            desc: "Understanding electronic waste and proper disposal methods."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b58-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "E-wastes and Its Management"
+            desc: "Sources of e-waste ,management and its environmental impacts"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3a5-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Sources of Sewage"
+            desc: "Identifying origins and sources of domestic and industrial sewage."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da539c82-1405-11f0-abbe-93d159bec7a9.mp4"
+        - custom:
+            title: "Sewage Treatment Methods"
+            desc: "Processes involved in treating and purifying wastewater."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eabd-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Solid Waste Management"
+            desc: "Effective techniques for collecting, processing, and disposing of solid waste."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da539c7f-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Active Transport"
+            desc: "Cellular transport mechanisms requiring energy against concentration gradients."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53ea9f-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Diffusion"
+            desc: "The movement of molecules from high to low concentration regions."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eaab-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Imbibition"
+            desc: "Absorption of water by hydrophilic colloids in plants."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eab1-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Osmosis and Plasmolysis - 1"
+            desc: "Fundamental principles of osmosis and cellular plasmolysis."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eab4-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Osmosis and Plasmolysis - 2"
+            desc: "Advanced concepts and examples of osmosis and plasmolysis."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eab7-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Recycling of Waste 4rs"
+            desc: "The 4r approach (reduce, reuse, recycle, recover) in waste management."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eaba-1405-11f0-abbe-93d158bec7a9.mp4"
     links:
         - https://www.ross and wilson.com/lecturers
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
+        - "[Neuron](https://phet.colorado.edu/en/simulations/neuron)"
+        - "[pH Scale](https://phet.colorado.edu/en/simulations/ph-scale)"
     books:
         - b1:
             title: Srilakshmi, B. Dietetics, 2014, 7th Multicolor Edition, New Age International Publishers, New Delhi.
@@ -13,7 +108,7 @@ references:
 categories:
     - health-and-diseases
 tags:
-   - mid-term-2
+    - mid-term-2
 summary: "Health and Diseases is the study of physical, mental, and social well-being, along with the causes, transmission, prevention, and treatment of various diseases, where diseases are broadly classified into infectious (caused by pathogens like bacteria, viruses, fungi, and parasites) and non-infectious (caused by genetic factors, lifestyle, or environmental conditions, e.g., diabetes, cancer, and heart disease); it covers the immune system and how it defends the body, the role of vaccines and antibiotics, common diseases like malaria, typhoid, AIDS, and COVID-19, along with preventive measures such as hygiene, balanced diet, and awareness programs for maintaining good health."    
 ---
 
@@ -53,9 +148,9 @@ Sexual harassment is a form of power and dominance of one person over another, w
 **Objectives of the POCSO Act, 2012**
 
 - To protect children from the offences of:
-  - Sexual assault
-  - Sexual harassment
-  - Pornography
+- Sexual assault
+- Sexual harassment
+- Pornography
 - To establish Special Courts for speedy trial of such offences.
 
 ### Child Sexual Abuse

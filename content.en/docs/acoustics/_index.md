@@ -4,8 +4,21 @@ weight: 5
 references:
     videos:
         - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+        - custom:
+            title: "Velocity of Sound Waves and Factors Affecting Velocity of Sound"
+            desc: "Explains the speed of sound waves and the factors that influence how fast sound travels."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/60852990-2044-11f0-b769-07e01a425648.mp4"
+        - custom:
+            title: "Reflection of Sound and Application of Reflection of Sound"
+            desc: "Explains how sound reflects from surfaces and describes practical applications of sound reflection."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/62c1dbaf-958f-4e47-84a1-3bfc48e7bbe3.mp4"
     links:
         - "[Doppler effect](https://ophysics.com/w11.html)"
+        - "[Sound Waves](https://phet.colorado.edu/en/simulations/sound-waves)"
+        - "[Wave on a String](https://phet.colorado.edu/en/simulations/wave-on-a-string)"
+        - "[Waves Intro](https://phet.colorado.edu/en/simulations/waves-intro)"
+        - "[Wave Interference](https://phet.colorado.edu/en/simulations/wave-interference)"
+        - "[Fourier: Making Waves](https://phet.colorado.edu/en/simulations/fourier-making-waves)"
     books:
         - b1:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson
@@ -13,7 +26,7 @@ references:
 categories:
     - acoustics  
 tags:
-   - mid-term-2
+    - mid-term-2
 summary: "Acoustics is the branch of physics that studies the production, transmission, reception, and effects of sound waves, covering concepts like frequency, wavelength, amplitude, and speed of sound in different media; it includes the study of reflection (echo), refraction, diffraction, and interference of sound, as well as the Doppler effect, resonance, and the human perception of pitch and loudness, with applications in music, architecture, and medical imaging like ultrasound."
 
 ---

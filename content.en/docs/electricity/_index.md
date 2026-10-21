@@ -4,8 +4,29 @@ Weight: 4
 references:
     videos:
         - youtube:1l2zgjfRhDI?si=WbJ7aLCVF2JTsVHb
+        - custom:
+            title: "Electrical Resistivity, Conductance and Conductivity"
+            desc: "Explains electrical resistivity, conductance, and conductivity and how they describe the behaviour of materials in electric circuits."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1a8832e0-a835-11ed-a133-95332066739c.mp4"
+        - custom:
+            title: "System of Resistors"
+            desc: "Covers resistor combinations in electrical circuits and how to determine their equivalent resistance."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f11f1899-7af5-470e-a469-f9308079209b.mp4"
+        - custom:
+            title: "Led Bulb and Seven Segment Display"
+            desc: "Introduces led bulbs and seven-segment displays, explaining their basic operation and uses."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d11f0910-f5e6-11ef-b2d1-a9c604108134.mp4"
+        - custom:
+            title: "Led Television"
+            desc: "Explains the basic technology and working principles behind led televisions."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d9e026c0-0486-11f0-8a2e-9bc63eeeb434.mp4"
     links:
         - "[Ohm's Law Simulation](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html)"
+        - "[Ohm's Law](https://phet.colorado.edu/en/simulations/ohms-law)"
+        - "[Circuit Construction Kit: DC](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc)"
+        - "[Circuit Construction Kit: DC - Virtual Lab](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc-virtual-lab)"
+        - "[Resistance in a Wire](https://phet.colorado.edu/en/simulations/resistance-in-a-wire)"
+        - "[Capacitor Lab: Basics](https://phet.colorado.edu/en/simulations/capacitor-lab-basics)"
     books:
         - b1:
             title: Fundamentals of Electric Circuits by Charles Alexander

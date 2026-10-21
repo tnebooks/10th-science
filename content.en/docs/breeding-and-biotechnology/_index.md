@@ -4,10 +4,53 @@ weight: 20
 references:
     videos:
         - youtube:uAihuHaFocA?si=cPjfwZPdA8OR3fmX
+        - custom:
+            title: "Child Abuse"
+            desc: "Dna fingerprinting technology"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eac6-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Tobacco Abuse"
+            desc: "Child abuse,sexual abuse ,child sexual abuse and approaches for protection"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eae4-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Drug Abuse"
+            desc: "Child abuse,sexual abuse ,child sexual abuse and approaches for protection"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53ead2-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Alcohol Abuse"
+            desc: "Child abuse,sexual abuse ,child sexual abuse and approaches for protection"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eac0-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Diabetes Mellitus - 1"
+            desc: "Child abuse,sexual abuse ,child sexual abuse and approaches for protection"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f1f176d7-8b42-49c4-af98-b300d6b055b7.mp4"
+        - custom:
+            title: "Diabetes Mellitus - 2"
+            desc: "Diabetes mellitus,its types,prevention and control"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/82a2fa46-072e-441a-a34d-86bb0b45af49.mp4"
+        - custom:
+            title: "Obesity"
+            desc: "Child abuse,sexual abuse ,child sexual abuse and approaches for protection"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1553f79c-81c1-407a-8d6d-577a9ea73019.mp4"
+        - custom:
+            title: "Heart Diseases"
+            desc: "Diabetes mellitus,its types,prevention and control"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/25faa0e0-502c-11ef-abca-2ffd442336ba.mp4"
+        - custom:
+            title: "Cancer"
+            desc: "Diabetes mellitus,its types,prevention and control"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3a2-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Aids"
+            desc: "Diabetes mellitus,its types,prevention and control"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1ad13780-9bb8-11ed-9bc3-e79344c518f0.mp4"
     links:
         - https://www.embibe.com/study/transgenic-cow-rosie-concept
         - https://en.wikipedia.org/wiki/DNA_profiling
         - https://www.krishijagran.com/news/tomato-at-shoots-potato-in-roots
+        - "[Gene Expression Essentials](https://phet.colorado.edu/en/simulations/gene-expression-essentials)"
+        - "[Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection)"
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
     books:
         - b1:
             title: Chaudhari, H.K., Elementary Principles of Plant Breeding, 2nd Edition.
@@ -15,7 +58,7 @@ references:
 categories:
     - breeding-and-biotechnology
 tags:
-   - mid-term-2 
+    - mid-term-2 
 summary: "Breeding and Biotechnology is the branch of biology that deals with the improvement of plants and animals through selective breeding techniques and modern biotechnological tools, where breeding includes methods like inbreeding, outbreeding, hybridization, and mutation breeding to develop desirable traits such as high yield, disease resistance, and better quality; biotechnology covers the use of living organisms or their enzymes to produce useful products, including genetic engineering, recombinant DNA technology, gene cloning, tissue culture, and the production of vaccines, antibiotics, hormones, and genetically modified crops, along with ethical and safety issues related to biotechnological applications."    
 ---
 

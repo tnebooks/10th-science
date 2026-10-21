@@ -4,8 +4,65 @@ weight: 2
 references:
     videos:
         - youtube:PdmVeFwYCqs?si=o70ZlFWhBQOWw7NK
+        - custom:
+            title: "Optics Part 1"
+            desc: "Introduction to basic optics and the behavior of light."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0ba52760-0b8a-11ef-be1f-e773ae16e07f.mp4"
+        - custom:
+            title: "Laws of Refraction"
+            desc: "Study of the laws governing the refraction of light."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b37-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Optics Part 2"
+            desc: "Continuation of optical principles and phenomena."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/686262a0-2706-11ef-96b7-c78c6565deb4.mp4"
+        - custom:
+            title: "Scattering of Light Part 1"
+            desc: "Detailed explanation of light scattering and related optical effects."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a775baf0-b969-11ef-9145-f9be9a15a99f.mp4"
+        - custom:
+            title: "Scatering of Light"
+            desc: "Understanding the scattering phenomenon of light in various mediums."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b34-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Optics Part 3"
+            desc: "Advanced concepts in optics and lens systems."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ad244610-0b8b-11ef-86ad-830dc693444b.mp4"
+        - custom:
+            title: "Formation of Different Types of Images by a Convex Lens"
+            desc: "Analysis of image formation for various object positions using a convex lens."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cc09aa35-e99c-47a7-adda-6457b657e4dc.mp4"
+        - custom:
+            title: "Refraction Through Concave Lens and Applications of Concave Lens"
+            desc: "Exploring refraction through concave lenses and their practical applications."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b5d07f50-0ca6-11f0-a5a5-3159eef3c7bb.mp4"
+        - custom:
+            title: "Lens Maker’s Formula"
+            desc: "Derivation and application of the lens maker's formula in optics."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ebda6230-9df9-11ef-9361-9b543d51d2e5.mp4"
+        - custom:
+            title: "Power of the Lens"
+            desc: "Understanding the focal length and power calculations for lenses."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b3d-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Human Eye"
+            desc: "Anatomy and functioning of the human eye."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/64a69770-5b2d-11ef-bb7e-2b239ddf91e4.mp4"
+        - custom:
+            title: "Defects in Eye - Myopia and Hypermetropia"
+            desc: "Common vision defects like myopia and hypermetropia and their corrections."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f36564c0-5e14-11ef-9264-d97f40edd7c2.mp4"
+        - custom:
+            title: "Microscope and Telescope"
+            desc: "Working principles and magnifying powers of microscopes and telescopes."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1ae8d640-0288-11f0-8f77-49458468945f.mp4"
     links:
         - "[Geometric Optics](https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html)"
+        - "[Geometric Optics](https://phet.colorado.edu/en/simulations/geometric-optics)"
+        - "[Geometric Optics: Basics](https://phet.colorado.edu/en/simulations/geometric-optics-basics)"
+        - "[Bending Light](https://phet.colorado.edu/en/simulations/bending-light)"
+        - "[Color Vision](https://phet.colorado.edu/en/simulations/color-vision)"
+        - "[Molecules and Light](https://phet.colorado.edu/en/simulations/molecules-and-light)"
     books:
         - b1:
             title:  Fundamentals of optics by D.R. Khanna and H.R. Gulati, R. Chand & Co.
@@ -580,14 +637,14 @@ The image in an astronomical telescope is inverted. So, it is not suitable for v
 - The deviation in the path of light ray is called refraction.
 - The ratio of speed of light in vacuum to the speed of light in a medium is defined as refractive index 'μ' of that medium.
 - Lens formula: $$
-  \frac{1}{f} = \frac{1}{v} - \frac{1}{u}
-  $$
+\frac{1}{f} = \frac{1}{v} - \frac{1}{u}
+$$
 - Magnification (m) = $$
-  \frac{h'}{h} = \frac{v}{u}
-  $$
+\frac{h'}{h} = \frac{v}{u}
+$$
 - Power of lens $$
-  P = \frac{1}{f}
-  $$
+P = \frac{1}{f}
+$$
 - The ability of the eye lens to focus nearby as well as the distant objects is called power of accommodation of the eye.
 - A microscope is an optical instrument which helps us to see the objects which are very small in dimension.
 - Telescope is an optical instrument used to see the distant objects clearly.

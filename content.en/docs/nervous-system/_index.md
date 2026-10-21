@@ -4,14 +4,60 @@ weight: 15
 references:
     videos:
         - youtube:XSMBeTyGTPY?si=m0nxoh0OWIy7w1yi
+        - custom:
+            title: "Nervous System"
+            desc: "Description and harmones secreted by pituitary gland"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654cf7-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Structure of Neuron"
+            desc: "Description and harmones secreted by pituitary gland"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/016294e0-459b-11ef-bc01-5b82f60e49ce.mp4"
+        - custom:
+            title: "Types of Neuron Part 1"
+            desc: "Description and harmones secreted by pituitary gland"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f7ca8d0a-a21f-4422-8f4a-16491dc4b794.mp4"
+        - custom:
+            title: "Types of Neuron Part 2"
+            desc: "Types of neuron"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/620a78ee-d557-43f1-90f7-7ef737216e1b.mp4"
+        - custom:
+            title: "Transmission of Nerve Impulse"
+            desc: "Types of neuron"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d0c-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Transmission of Nerve Impulse and Neuro Transmitters"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/08348943-383b-44bb-a240-e23977ade5e0.mp4"
+        - custom:
+            title: "Human Nervous System"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b6525d0-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Cerebrospinal Fluid"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bcc4-feeb-11ef-80fb-29a65bc2a44b.mp4"
+        - custom:
+            title: "Reflex Action of Human"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/45425960-e001-11ef-a176-f3ff0a5174dc.mp4"
+        - custom:
+            title: "Reflex Action of Human"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d00-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Peripheral Nervous System of Human & Autonomic Nervous Sytem"
+            desc: "Transmission of nerve impulse"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654cfd-0a3c-11f0-b0e0-e5021b5adc02.mp4"   
     links:
         - http://www.britannica.com/science/nervous-system
         - http://www.sumanasine.com/webcontent/animations/neurobiology.html
+        - "[Neuron](https://phet.colorado.edu/en/simulations/neuron)"
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
     books:
         - b1:
             title: Guyton and Hall, 2003, Textbook of Medical Physiology; Harcourt Indian Private Limited.
             url: https://faculty.ksu.edu.sa/sites/default/files/hall_textbook_of_medical_physiology.pdf
-       
+
 categories:
     - nervous-system
 tags:
@@ -278,6 +324,8 @@ HUMAN NERVOUS SYSTEM
 │   ├── Cranial Nerves
 │   └── Spinal Nerves
 └── Autonomic Nervous System
+├── Parasympathetic Nerves
+└── Sympathetic Nerves
     ├── Parasympathetic Nerves
     └── Sympathetic Nerves
 

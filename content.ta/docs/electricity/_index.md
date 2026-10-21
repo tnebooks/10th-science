@@ -4,8 +4,29 @@ weight: 4
 references:
     videos:
         - youtube:DJYGwZrkdaA?si=mTprxGHbNXUVgI4w
+        - custom:
+            title: "மின்தடை எண், கடத்துத்திறன் மற்றும் கடத்துகை"
+            desc: "பொருட்களின் மின்தடை எண், கடத்துகை மற்றும் கடத்துத்திறன் பற்றிய ஆய்வு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1a8832e0-a835-11ed-a133-95332066739c.mp4"
+        - custom:
+            title: "மின்தடைகளின் அமைப்பு"
+            desc: "மின்தடைகளின் தொடரிணைப்பு மற்றும் பக்கவாட்டு இணைப்புகளைப் புரிந்துகொள்ளுதல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f11f1899-7af5-470e-a469-f9308079209b.mp4"
+        - custom:
+            title: "எல்.இ.டி விளக்கு மற்றும் ஏழு துண்டு காட்சி"
+            desc: "எல்.இ.டி விளக்குகள் மற்றும் ஏழு துண்டு காட்சிகளின் வேலை செய்யும் கோட்பாடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d11f0910-f5e6-11ef-b2d1-a9c604108134.mp4"
+        - custom:
+            title: "எல்.இ.டி தொலைக்காட்சி"
+            desc: "எல்.இ.டி தொலைக்காட்சி தொழில்நுட்பம் மற்றும் காட்சிப்படுத்தும் வழிமுறைகளின் கண்ணோட்டம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d9e026c0-0486-11f0-8a2e-9bc63eeeb434.mp4"
     links:
         - "[Ohm's Law Simulation](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html)"
+        - "[Ohm's Law](https://phet.colorado.edu/en/simulations/ohms-law)"
+        - "[Circuit Construction Kit: DC](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc)"
+        - "[Circuit Construction Kit: DC - Virtual Lab](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc-virtual-lab)"
+        - "[Resistance in a Wire](https://phet.colorado.edu/en/simulations/resistance-in-a-wire)"
+        - "[Capacitor Lab: Basics](https://phet.colorado.edu/en/simulations/capacitor-lab-basics)"
     books:
         - b1:
             title: Fundamentals of Electric Circuits by Charles Alexander

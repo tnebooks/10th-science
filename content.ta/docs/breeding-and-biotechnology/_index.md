@@ -4,10 +4,53 @@ weight: 20
 references:
     videos:
         - youtube:uAihuHaFocA?si=cPjfwZPdA8OR3fmX
+        - custom:
+            title: "குழந்தை துஷ்பிரயோகம்"
+            desc: "குழந்தைகளுக்கு எதிரான வன்முறைகள் பற்றிய விழிப்புணர்வு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eac6-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "புகையிலை துஷ்பிரயோகம்"
+            desc: "புகையிலை பயன்பாட்டால் ஏற்படும் தீமைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eae4-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "போதைப்பொருள் துஷ்பிரயோகம்"
+            desc: "போதைப்பொருட்களுக்கு அடிமையாதல் மற்றும் அதன் தடுப்பு முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53ead2-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "மது அருந்துதல் தீமைகள்"
+            desc: "மது பழக்கத்தினால் ஏற்படும் உடல்நலக் கேடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53eac0-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "நீரிழிவு நோய் - 1"
+            desc: "நீரிழிவு நோய் குறித்த ஆரம்ப நிலை விளக்கங்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f1f176d7-8b42-49c4-af98-b300d6b055b7.mp4"
+        - custom:
+            title: "நீரிழிவு நோய் - 2"
+            desc: "நீரிழிவு நோயின் வகைகள் மற்றும் அதன் கட்டுப்பாட்டு முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/82a2fa46-072e-441a-a34d-86bb0b45af49.mp4"
+        - custom:
+            title: "உடல்பருமன்"
+            desc: "உடல்பருமனுக்கான காரணங்களும் அதன் தீங்குகளும்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1553f79c-81c1-407a-8d6d-577a9ea73019.mp4"
+        - custom:
+            title: "இதய நோய்கள்"
+            desc: "இதய நோய் ஏற்படுவதற்கான காரணங்கள் மற்றும் தடுப்பு முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/25faa0e0-502c-11ef-abca-2ffd442336ba.mp4"
+        - custom:
+            title: "புற்றுநோய்"
+            desc: "புற்றுநோய் உருவாக்கம் மற்றும் அதன் வகைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3a2-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "எய்ட்ஸ் நோய்"
+            desc: "எய்ட்ஸ் நோய் பரவும் விதமும் விழிப்புணர்வும்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1ad13780-9bb8-11ed-9bc3-e79344c518f0.mp4"
     links:
         - https://www.embibe.com/study/transgenic-cow-rosie-concept
         - https://en.wikipedia.org/wiki/DNA_profiling
         - https://www.krishijagran.com/news/tomato-at-shoots-potato-in-roots
+        - "[Gene Expression Essentials](https://phet.colorado.edu/en/simulations/gene-expression-essentials)"
+        - "[Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection)"
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
     books:
         - b1:
             title: Chaudhari, H.K., Elementary Principles of Plant Breeding, 2nd Edition.

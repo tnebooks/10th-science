@@ -4,8 +4,24 @@ weight: 6
 references:
     videos:
         - youtube:zd1mVA5kl_Q?si=2MsGzzLt6Hc4y0zH
+        - custom:
+            title: "Radioactivity and Units of Radioactivity"
+            desc: "Introduces radioactivity and explains the units used to measure radioactive activity."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/13dc69ac-cb6a-4234-836d-55823ba5017b.mp4"
+        - custom:
+            title: "Radioactive Displacement Law - Properties of Alpha, Beta and Gamma Rays"
+            desc: "Explains the radioactive displacement law and compares the properties of alpha, beta, and gamma radiation."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fc7ae090-db2c-11ef-9d3e-635aff381b6a.mp4"
+        - custom:
+            title: "Uses of Radioactivity and Safety Measures"
+            desc: "Describes applications of radioactivity and the safety precautions used when working with radioactive materials."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7ef51a50-1155-11f0-8811-8725ea47ca72.mp4"
     links:
         - "[Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom)"
+        - "[Alpha Decay](https://phet.colorado.edu/en/simulations/alpha-decay)"
+        - "[Beta Decay](https://phet.colorado.edu/en/simulations/beta-decay)"
+        - "[Nuclear Fission](https://phet.colorado.edu/en/simulations/nuclear-fission)"
+        - "[Build a Nucleus](https://phet.colorado.edu/en/simulations/build-a-nucleus)"
     books:
         - b1:
             title: Physics concepts and connections – by Art Hobson Edition Pearson education
@@ -13,12 +29,9 @@ references:
 categories:
     - nuclear-physics
 tags:
-   - mid-term-2
+    - mid-term-2
 summary: "Nuclear physics is the branch of physics that studies the structure, properties, and interactions of atomic nuclei, covering concepts like radioactivity, nuclear fission, and nuclear fusion; it includes the study of alpha, beta, and gamma decay, half-life, binding energy, and mass-energy equivalence (E = mc²), with important applications in nuclear power generation, medical treatments like radiation therapy, and nuclear weapons."    
 ---
-
-
-
 
 Humans are very much interested in knowing about atoms. Things around us are made up of atoms. A Greek Philosopher 'Democritus' in 400 BC (BCE) believed that matter is made up of tiny indestructible units called atoms. Later, in 1803, John Dalton considered that elements consist of atoms, which are identical in nature. J J Thomson discovered cathode rays, known as electrons, experimentally and Goldstein discovered positive rays, which were named as protons by Rutherford. In 1932, James Chadwick discovered the chargeless particles called neutrons. Presently, a large number of elementary particles like photon, meson, positron and nutrino have been discovered. In 1911, the British scientist, Ernest Rutherford explained that the mass of an atom is concentrated in its central part called Nucleus.
 
@@ -230,8 +243,8 @@ During this explosion tremendous amount of energy in the form of heat, light and
 
 > **DO YOU KNOW?**
 > **Electron Volt (eV)** is the unit used in nuclear physics to measure the energy of small particles. It is nothing but the energy of one electron when it is accelerated using an electric potential of one volt.$$
- 1 \text{ eV} = 1.602 \times 10^{-19} \text{ joule}.
- $$ $$
+1 \text{ eV} = 1.602 \times 10^{-19} \text{ joule}.
+$$ $$
 1 \text{ million electron volt} = 1 \text{ MeV}
 = 10^{6} \text{ eV (mega electron volt)}
 $$ The energy released in a nuclear fission process is about 200 MeV.
@@ -500,7 +513,7 @@ So E = 2 \times (3 \times 10^{8})^{2} = 1.8 \times 10^{17} J$$
 - **Curie** is defined as the quantity of a radioactive substance, which undergoes $$3.7 \times 10^{10} $$disintegrations in one second. This is actually close to the activity of 1g of radium-226.
 - **Rutherford (Rd)** is defined as the quantity of a radioactive substance which produces$$ 10^{6}$$
 disintegrations in one second.
-  - $$1 \text{ Rd} = 10^{6} $$disintegrations per second.
+- $$1 \text{ Rd} = 10^{6} $$disintegrations per second.
 - The SI unit of radioactivity is **becquerel**. It is defined as the quantity of one disintegration per second.
 - Helium nucleus $$(_{2}\mathrm{He}^{4})$$ consisting of two protons and two neutrons is known as **alpha particle**.
 - **Beta particles** are electrons $$(_{-1}\mathrm{e}^{0}\)$$, which are the basic elementary particles present in all atoms.

@@ -7,6 +7,10 @@ references:
     links:
         - 1. www.chem4kids.com
         -   http://aravindguptatoys.com/filims.html
+        - "[Balancing Chemical Equations](https://phet.colorado.edu/en/simulations/balancing-chemical-equations)"
+        - "[Reactants, Products and Leftovers](https://phet.colorado.edu/en/simulations/reactants-products-and-leftovers)"
+        - "[Acid-Base Solutions](https://phet.colorado.edu/en/simulations/acid-base-solutions)"
+        - "[pH Scale](https://phet.colorado.edu/en/simulations/ph-scale)"
     books:
         - b1:
             title: Text book of inorganic chemistry-P.L.Soni-S.Chand & sons publishers, New Delhi

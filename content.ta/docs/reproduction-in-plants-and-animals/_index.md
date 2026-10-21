@@ -4,6 +4,66 @@ weight: 17
 references:
     videos:
         - youtube:l509vxiFJcQ?si=MSr8ySa_tc1KzEBM
+        - custom:
+            title: "கிரிகோர் ஜோகான் மெண்டல்"
+            desc: "மரபியலின் தந்தை மெண்டலின் வாழ்க்கை வரலாறு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65746a-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "ஒரு பண்புக் கலப்பு"
+            desc: "ஒரே ஒரு பண்பை அடிப்படையாகக் கொண்ட மரபியல் கலப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b01-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "ஒரு பண்புக் கலப்பு குறித்த மெண்டலின் விளக்கம்"
+            desc: "மெண்டல் விதிகள் மற்றும் ஒரு பண்புக் கலப்பு முடிவுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b04-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "இரு பண்புக் கலப்பு"
+            desc: "இரண்டு வெவ்வேறு பண்புகளைக் கொண்டு செய்யப்படும் கலப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b0a-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "பரம்பரை விதிகள்"
+            desc: "மெண்டல் கண்டறிந்த மரபுவழி விதிகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b07-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "குரோமோசோமின் அமைப்பும் அதன் வகைகளும்"
+            desc: "குரோமோசோம்களின் உள்ளமைப்பு மற்றும் செயல்பாடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/032ba742ee9841e999138fae6f9ca64f.mp4"
+        - custom:
+            title: "டிஎன்ஏ அமைப்பு"
+            desc: "டிஎன்ஏ மூலக்கூறின் இரட்டைச் சுருள் அமைப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fffe9eb1c5cc41ea81f6edd22f446af0.mp4"
+        - custom:
+            title: "டிஎன்ஏ நகலாக்கம்"
+            desc: "டிஎன்ஏ தன்னைத் தானே நகலெடுக்கும் உயிரியல் நிகழ்வு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bd9c652088e945cb8623b63821a82878.mp4"
+        - custom:
+            title: "மனிதனில் பால் நிர்ணயம்"
+            desc: "மனிதனில் ஆண் அல்லது பெண் குழந்தை பிறப்பதற்கான மரபியல் காரணம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e6e53bd270694ccfb38c8ba5b894aa73.mp4"
+        - custom:
+            title: "குரோமோசோம் என்றால் என்ன?"
+            desc: "மரபணுக்களைத் தாங்கும் குரோமோசோம்களின் அடிப்படை விளக்கம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/84e80c80-d22f-11ee-9e10-b7324c1931a9.mp4"
+        - custom:
+            title: "டிஎன்ஏ அமைப்புமுறை"
+            desc: "மரபணுத் தகவல்களைத் தாங்கும் டிஎன்ஏ கட்டமைப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e01ba6c0-e2c4-11ee-824f-7d36cd44e879.mp4"
+        - custom:
+            title: "பெருவடிவமைப்பு சாகசம்"
+            desc: "மரபியல் மற்றும் டிஎன்ஏ பற்றிய விளக்கக் காணொளி."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7d847276-87c5-40d8-ad81-917db0f72e5d.mp4"
+        - custom:
+            title: "மரபணு ஆராய்தல்"
+            desc: "மரபியல் கூறுகளை ஆய்வு செய்தல்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b220f783-a5d5-4a5d-88cb-0670ddfe0e57.mp4"
+        - custom:
+            title: "உயிரின் மொழி"
+            desc: "மரபணுக்கள் வெளிப்படுத்தும் உயிரியல் கட்டளைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6121e0d-9158-4b82-bff9-0e0ae118ea0f.mp4"
+        - custom:
+            title: "மனிதனில் பால் நிர்ணயம்"
+            desc: "பாலின நிர்ணய முறைகளின் மரபியல் விளக்கம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d03-0a3c-11f0-b0e0-e5021b5adc02.mp4"
     links:
         -  http://www.importantindia.com/10606/population-explosion-in-India/
         - http://www.yourarticlelibrary.com/population/3-important...control-overpopulation/26950

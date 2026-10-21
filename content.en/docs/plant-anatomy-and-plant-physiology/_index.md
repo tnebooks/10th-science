@@ -4,9 +4,79 @@ weight: 12
 references:
     videos:
         - youtube:Es2HGVDDnRA?si=ADLU6urr80esYCUv
+        - custom:
+            title: "Tissues"
+            desc: "Lymphatic system ,lymph and its functions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/31950c81-f784-11ef-8c9f-ff239a235b97.mp4"
+        - custom:
+            title: "Dermal Tissue System"
+            desc: "Lymphatic system ,lymph and its functions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657458-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Vascular Tissue System"
+            desc: "Lymphatic system ,lymph and its functions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42b8af20-c5bb-11ee-bd8d-b1723abac1d6.mp4"
+        - custom:
+            title: "Internal Structure of Dicot Root"
+            desc: "Lymphatic system ,lymph and its functions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3c6-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Difference Between Ts of Dicot Root and Monocot Root"
+            desc: "Lymphatic system ,lymph and its functions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3c3-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Internal Structure of Monocot Root"
+            desc: "Internal structure of monocot root"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3c9-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "T. S. of Dicot Stem"
+            desc: "Internal structure of monocot root"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65745b-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "T. S. of Monocot Stem"
+            desc: "Internal structure of monocot root"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657461-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Differences Between Dicot and Monocot Stem"
+            desc: "Internal structure of monocot stem"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65745e-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "T.s. of Dicot Leaf"
+            desc: "Internal structure of monocot stem"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657464-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "T S. of Monocot Leaf"
+            desc: "Internal structure of monocot stem"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657467-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Plastids"
+            desc: "Internal structure of monocot stem"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3d2-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Structure of Chloroplast"
+            desc: "Structure and function of chloroplast"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3e1-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "Role of Sunlight in Photosynthesis- Light and Dark Reaction"
+            desc: "Structure and function of chloroplast"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8f710f80-bf7e-11ee-b934-e95df8bbea39.mp4"
+        - custom:
+            title: "Structure and Function of Mitochondria"
+            desc: "Structure and function of chloroplast"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/739739f0-fa6b-11ef-8ae7-3527fae07f8c.mp4"
+        - custom:
+            title: "Structure of Mitochondria"
+            desc: "Structure and function of mitichondria"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d24-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Types of Respiration"
+            desc: "Structure and function of mitichondria"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d2a-0a3c-11f0-b0e0-e5021b5adc02.mp4"
     links:
         - www.sciencedaily.com
         - www.britannica.com
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
+        - "[Diffusion](https://phet.colorado.edu/en/simulations/diffusion)"
     books:
         - b1:
             title: Pandey B.P. Plant Anatomy, S. Chand and Company Ltd, New Delhi
@@ -17,7 +87,7 @@ tags:
     - mid-term-1
     - quarterly
 summary: "Plant Anatomy and Plant Physiology is the study of the internal structure and functioning of plants, where anatomy covers tissues (meristematic and permanent), tissue systems (epidermal, ground, and vascular), and the anatomy of root, stem, and leaf; physiology covers life processes like photosynthesis, respiration, transpiration, mineral nutrition, and plant growth hormones, along with transport mechanisms such as diffusion, osmosis, and translocation of water and food through xylem and phloem."
-    
+
 ---
 
 
@@ -165,23 +235,23 @@ The transverse section of a dicot stem reveals the following structures.
 
 2. **Cortex**: It is divided into three regions:
 
-   (i) **Hypodermis**: It consists of 3-6 layers of collenchyma cells. It gives mechanical support.
+(i) **Hypodermis**: It consists of 3-6 layers of collenchyma cells. It gives mechanical support.
 
-   (ii) **Middle cortex**: It is made up of few layers of chlorenchyma cells. It is involved in photosynthesis due to the presence of chloroplast.
+(ii) **Middle cortex**: It is made up of few layers of chlorenchyma cells. It is involved in photosynthesis due to the presence of chloroplast.
 
-   (iii) **Inner cortex**: It is made up of few layers of parenchyma cells. It helps in gaseous exchange and stores food materials.
+(iii) **Inner cortex**: It is made up of few layers of parenchyma cells. It helps in gaseous exchange and stores food materials.
 
-   Endodermis is the inner most layer of cortex it consists of a single layer of barrel shaped cells, these cells contain starch grains. So it is also called starch sheath.
+Endodermis is the inner most layer of cortex it consists of a single layer of barrel shaped cells, these cells contain starch grains. So it is also called starch sheath.
 
 3. **Stele**: The central part of the stem inner to endodermis is known as stele. It consists of pericycle, vascular bundle and pith.
 
-   (i) **Pericycle**: It occurs between vascular bundle and endodermis. It is multilayered, parenchymatous with alternating patches of sclerenchyma.
+(i) **Pericycle**: It occurs between vascular bundle and endodermis. It is multilayered, parenchymatous with alternating patches of sclerenchyma.
 
-   (ii) **Bundle Cap**: There is a patch of hard sclerenchyma tissue outside to the phloem of vascular bundle is called Bundle Cap.
+(ii) **Bundle Cap**: There is a patch of hard sclerenchyma tissue outside to the phloem of vascular bundle is called Bundle Cap.
 
-   (iii) **Vascular bundle**: Vascular bundles are conjoint, collateral, endarch and open. They are arranged in the form of a ring around the pith.
+(iii) **Vascular bundle**: Vascular bundles are conjoint, collateral, endarch and open. They are arranged in the form of a ring around the pith.
 
-   (iv) **Pith**: The large central parenchymatous zone with intercellular spaces is called pith. It helps in the storage of food materials.
+(iv) **Pith**: The large central parenchymatous zone with intercellular spaces is called pith. It helps in the storage of food materials.
 
 
 ![Figure 12.4:  ](Dicot.png)Transverse section of Dicot stem
@@ -198,9 +268,9 @@ A transverse section of monocot stem reveals the following structures.
 
 4. **Vascular Bundle**: Vascular bundles are skull shaped and scattered in the ground tissue. Vascular bundles are conjoint, collateral, endarch and closed. Each vascular bundle is surrounded by few layer of sclerenchyma cells called bundle sheath.
 
-   (a) **Xylem**: It consists of metaxylem and protoxylem. Xylem vessels are arranged in V or Y shape. In mature vascular bundle, the lower most protoxylem disintegrates and form a cavity. This is called protoxylem lacuna.
+(a) **Xylem**: It consists of metaxylem and protoxylem. Xylem vessels are arranged in V or Y shape. In mature vascular bundle, the lower most protoxylem disintegrates and form a cavity. This is called protoxylem lacuna.
 
-   (b) **Phloem**: It consists of sieve tube elements and companion cells. Phloem parenchyma, and phloem fibers are absent.
+(b) **Phloem**: It consists of sieve tube elements and companion cells. Phloem parenchyma, and phloem fibers are absent.
 
 5. **Pith**: Pith is not differentiated in monocot stems.
 
@@ -227,9 +297,9 @@ The transverse section of leaf shows the following structures.
 
 (iii) **Mesophyll**: The tissue present between the upper and lower epidermis is called mesophyll. It is differentiated into Palisade parenchyma and Spongy
 
-   a) **Palisade parenchyma**: It is found just below the upper epidermis. The cells are elongated. These cells have more number of chloroplasts. The cells do not have intercellular spaces and they take part in
+a) **Palisade parenchyma**: It is found just below the upper epidermis. The cells are elongated. These cells have more number of chloroplasts. The cells do not have intercellular spaces and they take part in
 
-   b) **Spongy parenchyma**: It is found below the palisade parenchyma tissue. Cells are almost spherical or oval and are irregularly arranged. Cells have intercellular spaces. It helps in gaseous
+b) **Spongy parenchyma**: It is found below the palisade parenchyma tissue. Cells are almost spherical or oval and are irregularly arranged. Cells have intercellular spaces. It helps in gaseous
 
 (iv) **Vascular bundles**: Vascular bundle are present in mid-rib and lateral veins. Vascular bundles are conjoint, collateral and closed. Each vascular bundle is surrounded by a sheath of parenchymatous cells called bundle sheath. Each vascular bundle consists of xylem lying towards the upper epidermis and phloem towards the lower.
 

@@ -3,9 +3,25 @@ title: 'அணுக்கரு இயற்பியல்'
 weight: 6
 references:
     videos:
-        - youtube:zd1mVA5kl_Q?si=2MsGzzLt6Hc4y0zH
+         - youtube:zd1mVA5kl_Q?si=2MsGzzLt6Hc4y0zH
+         - custom:
+            title: "கதிரியக்கம் மற்றும் கதிரியக்கத்தின் அலகுகள்"
+            desc: "கதிரியக்கத்தை அறிமுகப்படுத்தி, கதிரியக்கச் செயல்பாட்டை அளவிடப் பயன்படும் அலகுகளை விளக்குகிறது."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/13dc69ac-cb6a-4234-836d-55823ba5017b.mp4"
+         - custom:
+               title: "கதிரியக்க இடப்பெயர்வு விதி – ஆல்பா, பீட்டா மற்றும் காமா கதிர்களின் பண்புகள்"
+               desc: "கதிரியக்க இடப்பெயர்வு விதியையும் ஆல்பா, பீட்டா, காமா கதிர்களின் பண்புகளையும் ஒப்பிட்டு விளக்குகிறது."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fc7ae090-db2c-11ef-9d3e-635aff381b6a.mp4"
+         - custom:
+               title: "கதிரியக்கத்தின் பயன்பாடுகளும் பாதுகாப்பு நடவடிக்கைகளும்"
+               desc: "கதிரியக்கத்தின் பயன்பாடுகளையும் கதிரியக்கப் பொருட்களைக் கையாளும்போது பின்பற்ற வேண்டிய பாதுகாப்பு முன்னெச்சரிக்கைகளையும் விளக்குகிறது."
+               url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7ef51a50-1155-11f0-8811-8725ea47ca72.mp4"
     links:
         - "[Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom)"
+        - "[Alpha Decay](https://phet.colorado.edu/en/simulations/alpha-decay)"
+        - "[Beta Decay](https://phet.colorado.edu/en/simulations/beta-decay)"
+        - "[Nuclear Fission](https://phet.colorado.edu/en/simulations/nuclear-fission)"
+        - "[Build a Nucleus](https://phet.colorado.edu/en/simulations/build-a-nucleus)"
     books:
         - b1:
             title: Physics concepts and connections – by Art Hobson Edition Pearson education

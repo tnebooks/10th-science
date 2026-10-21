@@ -4,6 +4,38 @@ weight: 16
 references:
     videos:
         - youtube:HNZtYa_hDhQ?si=BkkrGD9sSu9dOYoa
+        - custom:
+            title: "Wents Experiment"
+            desc: "Wents experiment"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b97-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Exocrine and Endocrine Glands"
+            desc: "Exocrine and endocrine glands"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4e333a20-9cd2-11ef-a2b0-d9f8f3ddb8ba.mp4"
+        - custom:
+            title: "Human Endocrine Glands - Pituitary Gland"
+            desc: "Human endocrine glands - pituitary gland"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8b147410-e000-11ef-a176-f3ff0a5174dc.mp4"
+        - custom:
+            title: "Pituitary Gland - 1"
+            desc: "Description and harmones secreted by pituitary gland"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9d6fce18-16a4-4128-a583-ce113c01c090.mp4"
+        - custom:
+            title: "Pituitary Gland - 2"
+            desc: "Description and harmones secreted by pituitary gland"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6b404fb0-9d0c-4a0c-b3fd-3f00e36c1ccf.mp4"
+        - custom:
+            title: "Pituitary Gland - 3"
+            desc: "Description and harmones secreted by pituitary gland"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/db7eb803-b8c4-43c9-ac87-c169ec4292d3.mp4"
+        - custom:
+            title: "Pancreas,adrenal Gland ,reproductive Glands ,thymus Gland"
+            desc: "Pancreas,adrenal gland ,reproductive glands ,thymus gland"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e9ddda00-0011-11f0-a525-e511cf6553d7.mp4"
+        - custom:
+            title: "Plant and Animal Hormones Part 2"
+            desc: "Plant and animal hormones part 2"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6184fc20-6a83-11ef-8144-372076d8ceb0.mp4"
     links:
         - https://www.biologydiscussion.com > auxins-his
         - https://www.mcdaniel.edu/biology/Bot.(dia)
@@ -12,7 +44,7 @@ references:
         - b1:
             title: Helgi Opik and Stephen Rolfe, The Physiology of Flowering Plants, Cambridge University Press.
             url: https://www.biologydiscussion.com/
-       
+
 categories:
     - plant-and-animal-hormones
 tags:
@@ -68,10 +100,10 @@ From his experiments Went concluded that a chemical diffusing from the tip of co
 Auxins are classified into two types, namely natural auxins and synthetic auxins.
 
 1. **Natural Auxins**: Auxins produced by the plants are called natural auxins.
-   - Example: IAA (Indole-3-Acetic Acid)
+- Example: IAA (Indole-3-Acetic Acid)
 
 2. **Synthetic Auxins**: Artificially synthesized auxins that have properties like auxins are called as synthetic auxins.
-   - Example: 2,4-D (2,4-Dichlorophenoxy Acetic Acid)
+- Example: 2,4-D (2,4-Dichlorophenoxy Acetic Acid)
 
 ### Physiological effects of auxins
 
@@ -494,52 +526,52 @@ Thymus is partly an endocrine gland and partly a lymphoid gland. It is located i
 ## I Choose the correct answer
 
 1. Gibberellins cause:
-   a) Shortening of genetically tall plants
-   b) Elongation of dwarf plants
-   c) Promotion of rooting
-   d) Yellowing of young leaves
+a) Shortening of genetically tall plants
+b) Elongation of dwarf plants
+c) Promotion of rooting
+d) Yellowing of young leaves
 
 2. The hormone which has positive effect on apical dominance is:
-   a) Cytokinin
-   b) Auxin
-   c) Gibberellin
-   d) Ethylene
+a) Cytokinin
+b) Auxin
+c) Gibberellin
+d) Ethylene
 
 3. Which one of the following hormones is naturally not found in plants:
-   a) 2,4-D
-   b) GA3
-   c) Gibberellin
-   d) IAA
+a) 2,4-D
+b) GA3
+c) Gibberellin
+d) IAA
 
 4. Avena coleoptile test was conducted by
-   a) Darwin
-   b) N. Smit
-   c) Paal
-   d) F.W. Went
+a) Darwin
+b) N. Smit
+c) Paal
+d) F.W. Went
 
 5. LH is secreted by
-   a) Adrenal gland
-   b) Thyroid gland
-   c) Anterior pituitary
-   d) Hypothalamus
+a) Adrenal gland
+b) Thyroid gland
+c) Anterior pituitary
+d) Hypothalamus
 
 6. Identify the exocrine gland
-   a) Pituitary gland
-   b) Adrenal gland
-   c) Salivary gland
-   d) Thyroid gland
+a) Pituitary gland
+b) Adrenal gland
+c) Salivary gland
+d) Thyroid gland
 
 7. Which organ acts as both exocrine gland as well as endocrine gland
-   a) Pancreas
-   b) Kidney
-   c) Liver
-   d) Lungs
+a) Pancreas
+b) Kidney
+c) Liver
+d) Lungs
 
 8. Which one is referred as "Master Gland"?
-   a) Pineal gland
-   b) Pituitary gland
-   c) Thyroid gland
-   d) Adrenal gland
+a) Pineal gland
+b) Pituitary gland
+c) Thyroid gland
+d) Adrenal gland
 
 ## II Fill in the blanks
 
@@ -592,13 +624,13 @@ c. A is true but R is false
 d. Both A and R are false
 
 1. **Assertion:** Application of cytokinin to marketed vegetables can keep them fresh for several days.
-   **Reason:** Cytokinins delay senescence of leaves and other organs by mobilisation of nutrients.
+**Reason:** Cytokinins delay senescence of leaves and other organs by mobilisation of nutrients.
 
 2. **Assertion (A):** Pituitary gland is referred as "Master gland".
-   **Reason (R):** It controls the functioning of other endocrine glands.
+**Reason (R):** It controls the functioning of other endocrine glands.
 
 3. **Assertion (A):** Diabetes mellitus increases the blood sugar levels.
-   **Reason (R):** Insulin decreases the blood sugar levels.
+**Reason (R):** Insulin decreases the blood sugar levels.
 
 ## VI Answer in a word or sentence
 
@@ -627,7 +659,7 @@ d. Both A and R are false
 ## VIII Long answer questions
 
 1. (a) Name the gaseous plant hormone. Describe its three different actions in plants.
-   (b) Which hormone is known as stress hormone in plants? Why?
+(b) Which hormone is known as stress hormone in plants? Why?
 
 2. Describe an experiment which demonstrates that growth stimulating hormone is produced at the tip of coleoptile.
 
@@ -640,14 +672,14 @@ d. Both A and R are false
 ## IX Higher Order Thinking Skills (HOTS)
 
 1. What would be expected to happen if
-   a. Gibberellin is applied to rice seedlings.
-   b. A rotten fruit gets mixed with unripe fruits.
-   c. When cytokinin is not added to culture medium
+a. Gibberellin is applied to rice seedlings.
+b. A rotten fruit gets mixed with unripe fruits.
+c. When cytokinin is not added to culture medium
 
 2. A plant hormone was first discovered in Japan when rice plants were suffering from Bakanae disease caused by *Gibberella fujikoroi*. Based on this information answer the following questions:
-   a. Identify the hormone involved in this process.
-   b. Which property of this hormone causes the disease?
-   c. Give two functions of this hormone.
+a. Identify the hormone involved in this process.
+b. Which property of this hormone causes the disease?
+c. Give two functions of this hormone.
 
 3. Senthil has high blood pressure, protruded eyeball and an increased body temperature. Name the endocrine gland involved and hormone secretion responsible for this condition.
 

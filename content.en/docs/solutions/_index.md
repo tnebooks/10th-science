@@ -6,6 +6,11 @@ references:
         - youtube:Ksttr4FpCL4?si=fqAcXFrYma61rZVz
     links:
         - "[Unreal Chemist - Chemistry Lab](https://play.google.com/store/apps/details?id=com.PixelMiller.UnrealChemist)"
+        - "[Concentration](https://phet.colorado.edu/en/simulations/concentration)"
+        - "[Molarity](https://phet.colorado.edu/en/simulations/molarity)"
+        - "[pH Scale](https://phet.colorado.edu/en/simulations/ph-scale)"
+        - "[Acid-Base Solutions](https://phet.colorado.edu/en/simulations/acid-base-solutions)"
+        - "[Beer's Law Lab](https://phet.colorado.edu/en/simulations/beers-law-lab)"
     books:
         - b1:
             title: Properties Liquids Solutions John Murrell 2nd Edition.

@@ -4,8 +4,41 @@ weight: 19
 references:
     videos:
         - youtube:RM6LMxufYdU?si=GKBnUP6O03G_4fKc
+        - custom:
+            title: "அதிக விளைச்சலுக்கான பயிர் பெருக்கம்"
+            desc: "சிறந்த தரமான பயிர்களை உருவாக்கும் முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b55-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "புதிய தாவர வகைகளை அறிமுகப்படுத்துதல் - தேர்வு முறை"
+            desc: "பயனுள்ள புதிய தாவர இரகங்களைத் தேர்ந்தெடுக்கும் வழிகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b5e-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மரபணு பொறியியல் மற்றும் மரபணு நகலாக்கம்"
+            desc: "மரபணு மாற்ற தொழில்நுட்பத்தின் அடிப்படைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b3938835c9346c2899929defe5348d1.mp4"
+        - custom:
+            title: "மருத்துவத்தில் உயிரி தொழில்நுட்பவியல்"
+            desc: "மருத்துவத்துறையில் உயிரி தொழில்நுட்பத்தின் பயன்பாடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659ba6-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மூலக்கலங்கள் (ஸ்டெம் செல்கள்)"
+            desc: "மூலக்கலங்களின் வகைகள் மற்றும் மருத்துவ முக்கியத்துவம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659bd9-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "டிஎன்ஏ கைரேகை தொழில்நுட்பம்"
+            desc: "தடயவியல் துறையில் டிஎன்ஏ கைரேகையின் பயன்பாடு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a9990240-e94f-11ef-af8b-e30ad8e2bfd9.mp4"
+        - custom:
+            title: "டிஎன்ஏ கைரேகை"
+            desc: "டிஎன்ஏ கைரேகை தொழில்நுட்ப முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bccd-feeb-11ef-80fb-29a65bc2a44b.mp4"
+        - custom:
+            title: "மரபணு மாற்றப்பட்ட உயிரினங்கள்"
+            desc: "மரபணு மாற்றப்பட்ட பயிர்கள் மற்றும் விலங்குகளின் உருவாக்கம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fada7fa0-670e-11ed-b7b5-f724a7f15f2d.mp4"
     links:
         -  "[Human Evolution Clicker](https://play.google.com/store/apps/details?id=com.banana4apps.evolution)"
+        - "[Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection)"
     books:
         - b1:
             title: B.S. Tomar and S.P. Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications

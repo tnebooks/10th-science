@@ -4,9 +4,79 @@ weight: 12
 references:
     videos:
         - youtube:Es2HGVDDnRA?si=ADLU6urr80esYCUv
+        - custom:
+            title: "திசுக்கள்"
+            desc: "தாவர மற்றும் விலங்கு திசுக்களின் அறிமுகம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/31950c81-f784-11ef-8c9f-ff239a235b97.mp4"
+        - custom:
+            title: "புறத்தோல் திசு மண்டலம்"
+            desc: "தாவரங்களின் வெளிப்புறப் பாதுகாப்பை வழங்கும் திசுக்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657458-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "வாஸ்குலார் திசு மண்டலம்"
+            desc: "சைலம் மற்றும் புளோயம் கொண்ட கடத்துத் திசு அமைப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42b8af20-c5bb-11ee-bd8d-b1723abac1d6.mp4"
+        - custom:
+            title: "இருவித்திலைத் தாவர வேரின் உள்ளமைப்பு"
+            desc: "இருவித்திலைத் தாவர வேரின் குறுக்கு வெட்டுத் தோற்றம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3c6-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "இருவித்திலைத் தாவர வேர் மற்றும் ஒருவித்திலைத் தாவர வேர் வேறுபாடுகள்"
+            desc: "இரு வகை வேர்களின் உள்ளமைப்பு ஒப்பீடு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3c3-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "ஒருவித்திலைத் தாவர வேரின் உள்ளமைப்பு"
+            desc: "ஒருவித்திலைத் தாவர வேரின் குறுக்கு வெட்டு விளக்கம்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3c9-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "இருவித்திலைத் தாவரத் தண்டின் குறுக்கு வெட்டுத் தோற்றம்"
+            desc: "இருவித்திலைத் தாவரத் தண்டின் நரம்பமைப்பு மற்றும் செல்கள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65745b-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "ஒருவித்திலைத் தாவரத் தண்டின் குறுக்கு வெட்டுத் தோற்றம்"
+            desc: "ஒருவித்திலைத் தாவரத் தண்டின் உள்ளமைப்பு ஆய்வு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657461-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "இருவித்திலை மற்றும் ஒருவித்திலைத் தாவரத் தண்டுகளின் வேறுபாடுகள்"
+            desc: "தாவரத் தண்டுகளின் அமைப்பியல் ஒப்பீடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b65745e-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "இருவித்திலைத் தாவர இலையின் குறுக்கு வெட்டுத் தோற்றம்"
+            desc: "இருவித்திலை இலையின் உட்புறக் கட்டமைப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657464-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "ஒருவித்திலைத் தாவர இலையின் குறுக்கு வெட்டுத் தோற்றம்"
+            desc: "ஒருவித்திலை இலையின் உள்ளமைப்புப் பண்புகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b657467-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "மடலாலங்கள் (பிளாஸ்டிட்கள்)"
+            desc: "தாவரக் செல்களில் காணப்படும் பிளாஸ்டிட்களின் வகைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3d2-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "பச்சையத்தின் (குளோரோபிளாஸ்ட்) அமைப்பு"
+            desc: "ஒளிச்சேர்க்கை நடைபெறும் பச்சையத்தின் கட்டமைப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/da53c3e1-1405-11f0-abbe-93d158bec7a9.mp4"
+        - custom:
+            title: "ஒளிச்சேர்க்கையில் சூரிய ஒளியின் பங்கு - ஒளி மற்றும் இருண்ட வினைகள்"
+            desc: "சூரிய ஒளியைக் கொண்டு உணவு தயாரிக்கும் ஒளிச்சேர்க்கைப் படிகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8f710f80-bf7e-11ee-b934-e95df8bbea39.mp4"
+        - custom:
+            title: "மைட்டோகாண்ட்ரியாவின் அமைப்பும் பணியும்"
+            desc: "செல்லின் ஆற்றல் மையமான மைட்டோகாண்ட்ரியாவின் இயல்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net கேப்டன் இல்லாவிட்டாலும் /video/739739f0-fa6b-11ef-8ae7-3527fae07f8c.mp4"
+        - custom:
+            title: "மைட்டோகாண்ட்ரியாவின் அமைப்பு"
+            desc: "ஆற்றல் உற்பத்தியில் மைட்டோகாண்ட்ரியாவின் உட்புற அமைப்பு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d24-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "சுவாசத்தின் வகைகள்"
+            desc: "காற்றோட்ட மற்றும் காற்றோட்டமில்லா சுவாச முறைகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b654d2a-0a3c-11f0-b0e0-e5021b5adc02.mp4"
     links:
         - www.sciencedaily.com
         - www.britannica.com
+        - "[Membrane Transport](https://phet.colorado.edu/en/simulations/membrane-transport)"
+        - "[Diffusion](https://phet.colorado.edu/en/simulations/diffusion)"
     books:
         - b1:
             title: Pandey B.P. Plant Anatomy, S. Chand and Company Ltd, New Delhi

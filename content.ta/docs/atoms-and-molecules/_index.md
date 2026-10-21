@@ -4,9 +4,38 @@ weight: 7
 references:
     videos:
         - youtube:Hzo6DboPNGI?si=MBnCEoXxRIVkdH6Q
+        - custom:
+            title: "அணுக்களும் மூலக்கூறுகளும் – பகுதி 1"
+            desc: "அணுக்கள் மற்றும் மூலக்கூறுகளின் அடிப்படைப் பண்புகளையும் பொருளை விவரிப்பதில் அவற்றின் பங்கையும் அறிமுகப்படுத்துகிறது."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/25f4bd50-2ed6-11ef-ad4e-db2a8a7aea10.mp4"
+        - custom:
+            title: "அணு, அணுநிறை, சார்பு அணுநிறை மற்றும் சராசரி அணுநிறை"
+            desc: "அணுநிறை, சார்பு அணுநிறை மற்றும் சராசரி அணுநிறை ஆகியவற்றை விளக்கி, அணுக்களை விவரிப்பதில் இவற்றின் பயன்பாட்டை எடுத்துரைக்கிறது."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8afd850-ccaf-11ee-9606-1bb228769c07.mp4"
+        - custom:
+            title: "அணுக்களும் மூலக்கூறுகளும் – பகுதி 2"
+            desc: "அணுக்கள் மற்றும் மூலக்கூறுகள் பற்றிய பாடத்தைத் தொடர்ந்து, வேதியியலில் அவற்றைக் குறிப்பிடுவதற்கான அடிப்படைக் கருத்துகளை விளக்குகிறது."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bcff8470-2d3a-11ef-8d3c-a11e366ddc29.mp4"
+        - custom:
+            title: "அணுக்களும் மூலக்கூறுகளும் – பகுதி 3"
+            desc: "அணுக்கள் மற்றும் மூலக்கூறுகளின் வரையறைகளையும் வேதியியல் விளக்கங்களில் அவற்றின் பயன்பாட்டையும் மேலும் எடுத்துரைக்கிறது."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/914d16f0-2d65-11ef-91a6-536be812f6f1.mp4"
+        - custom:
+            title: "அணுக்களும் மூலக்கூறுகளும் – பகுதி 4"
+            desc: "அணுக்கள் மற்றும் மூலக்கூறுகள் பற்றிய பாடத்தைத் தொடர்ந்து, வேதியியலின் கூடுதல் அடிப்படைக் கருத்துகளை விளக்குகிறது."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d1c7dab0-26fa-11ef-bc3e-e1eb9ff06498.mp4"
+        - custom:
+            title: "அணுக்களும் மூலக்கூறுகளும் – பகுதி 5"
+            desc: "அணுக்கள் மற்றும் மூலக்கூறுகள் தொடர்பான முக்கிய கருத்துகளை மேலும் விளக்கி இந்தப் பாடத்தொடரின் பகுதியை நிறைவு செய்கிறது."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/44c73550-2e1d-11ef-b41b-a3d3b303e1f9.mp4"
     links:
         - https://www.estimate.com/biology/farabee/biobk/BioBookCHEM1.html
         - https://www.toppr.com/guides/chemistry/atomsand-molecules/
+        - "[Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom)"
+        - "[Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulations/isotopes-and-atomic-mass)"
+        - "[Build a Molecule](https://phet.colorado.edu/en/simulations/build-a-molecule)"
+        - "[Molecule Shapes](https://phet.colorado.edu/en/simulations/molecule-shapes)"
+        - "[Molecule Polarity](https://phet.colorado.edu/en/simulations/molecule-polarity)"
     books:
         - b1:
             title: Petrucci, Ralph H et.al. General Chemistry Principles & Modern Applications (9thEdition). Upper Saddle River, NJ PearsonPrentice Hall, 2007. Print.

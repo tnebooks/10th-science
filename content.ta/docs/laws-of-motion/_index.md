@@ -5,11 +5,48 @@ references:
     videos:
         - youtube:-HSDnFOhws0
         - youtube:wL9XopHoevU
+        - custom:
+            title: "Laws of Motion - Part 1"
+            desc: "An introduction to the fundamental laws of motion."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cd0ca330-0b88-11ef-84e6-a5cd778494e6.mp4"
+        - custom:
+            title: "Force, Types of Forces, and Resultant Force"
+            desc: "A comprehensive study of forces, various types of forces, and resultant force calculations."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d50dca40-c795-11ef-8aa1-494ad69e9615.mp4"
+        - custom:
+            title: "Rotating Effect of Force, Moment of Force, and Application of Torque"
+            desc: "Understanding the turning effect of force, moment of force, and practical applications of torque."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1b822070-e3c5-11ef-abbe-bf07babb78ae.mp4"
+        - custom:
+            title: "Newton's Second Law of Motion"
+            desc: "A detailed explanation of Newton's second law of motion and its mathematical formulation."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/40515360-abfa-11ef-b1fe-d9824653315a.mp4"
+        - custom:
+            title: "Impulse"
+            desc: "The concept of impulse, its relation to momentum, and real-world examples."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3209cd90-fd7c-11ef-910c-e967fb557a96.mp4"
+        - custom:
+            title: "Newton's Third Law of Motion"
+            desc: "Action and reaction forces explained through Newton's third law of motion."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/96c3a4d0-0287-11f0-8f77-49458468945f.mp4"
+        - custom:
+            title: "Principle of Conservation of Linear Momentum"
+            desc: "Study of linear momentum conservation principles and related physics problems."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/369757f0-066f-11f0-89db-b7a368f6ef8b.mp4"
+        - custom:
+            title: "Rocket Propulsion"
+            desc: "Application of momentum conservation and the laws of motion in rocket propulsion."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b1ba80d0-8dcf-11ed-9c69-03a9e91fc6db.mp4"    
     links:
         - "[நியூட்டனின் இரண்டாம் இயக்க விதி சோதனை](https://www.walter-fendt.de/html5/phen/newtonlaw2_en.htm)"
         - "[விசைகளும் இயக்கத்தின் அடிப்படைகளும் - மாதிரி உருவகப்படுத்துதல்](https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html)"
         - "[திருப்புத்திறன் மற்றும் திருப்புத்திறன்களின் தத்துவ மாதிரி உருவகப்படுத்துதல்](https://www.walter-fendt.de/html5/phen/lever_en.htm)"
         - "[விசை மற்றும் இயக்கம் சார்ந்த ஊடாடும் கற்றல் தளம்](https://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Force)"
+        - "[Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics)"
+        - "[Collision Lab](https://phet.colorado.edu/en/simulations/collision-lab)"
+        - "[Friction](https://phet.colorado.edu/en/simulations/friction)"
+        - "[Projectile Motion](https://phet.colorado.edu/en/simulations/projectile-motion)"
+        - "[Vector Addition](https://phet.colorado.edu/en/simulations/vector-addition)"
     books:
         - b1:
             title:  Concept of physics - HC verma

@@ -5,10 +5,10 @@ references:
     videos:
         - youtube:8XJphulYSwo?si=A6ebk00Vo9B8nqaB
     links:
-       - http://leeches-medicinalis.com/
-       - http://www.biologydiscussion.com/zoology
-       - http://animaldiversity.org/accounts/Hirudo_medicinalis/
-       - http://www.notesonzoology.com/rabbit/external-morphology/external-morphology-of-rabbit-with-diagram-chordata-zoology/7642
+        - http://leeches-medicinalis.com/
+        - http://www.biologydiscussion.com/zoology
+        - http://animaldiversity.org/accounts/Hirudo_medicinalis/
+        - http://www.notesonzoology.com/rabbit/external-morphology/external-morphology-of-rabbit-with-diagram-chordata-zoology/7642
     books:
         - b1:
             title: Kotpal R.L, 2014 Modern Text Book of Zoology -Invertebrates,Rastogi Publications, Meerut.
@@ -372,22 +372,22 @@ The concept map shows comparative organization of Leech and Rabbit:
 **LEECH**
 - External Morphology: Moist slimy skin, Metameres, Annular/Segmental Receptors, Anterior/Posterior Sucker
 - Organ Systems:
-  - Digestion: Crop, Stomach, Intestine
-  - Respiration: Cutaneous (Skin)
-  - Circulation: Haemocoelomic channels
-  - Brain: Supra and Sub pharyngeal ganglion
-  - Excretion: Nephridia
-  - Reproduction: Hermaphrodite (Testis and Ovary)
+- Digestion: Crop, Stomach, Intestine
+- Respiration: Cutaneous (Skin)
+- Circulation: Haemocoelomic channels
+- Brain: Supra and Sub pharyngeal ganglion
+- Excretion: Nephridia
+- Reproduction: Hermaphrodite (Testis and Ovary)
 
 **RABBIT**
 - External Morphology: Skin, Hairs, Claws and Nails, Head/Trunk/Tail, External Ear, Sweat/Sebaceous/Mammary Glands
 - Organ Systems:
-  - Digestion: Buccal cavity, Stomach, Intestine, Liver, Pancreas
-  - Respiration: Pulmonary (Lungs)
-  - Circulation: Heart
-  - Brain: Fore, Mid and Hind Brain
-  - Excretion: Metanephric Kidney
-  - Reproduction: Sexual Dimorphism (Testis in Male and Ovary in Female)
+- Digestion: Buccal cavity, Stomach, Intestine, Liver, Pancreas
+- Respiration: Pulmonary (Lungs)
+- Circulation: Heart
+- Brain: Fore, Mid and Hind Brain
+- Excretion: Metanephric Kidney
+- Reproduction: Sexual Dimorphism (Testis in Male and Ovary in Female)
 ```
 
 ---

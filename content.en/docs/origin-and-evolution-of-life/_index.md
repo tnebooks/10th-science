@@ -4,8 +4,41 @@ weight: 19
 references:
     videos:
         - youtube:RM6LMxufYdU?si=GKBnUP6O03G_4fKc
+        - custom:
+            title: "Breeding for High Yield and Better Quality"
+            desc: "Plant and animal breeding techniques for high yield and superior quality."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b55-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Introduction of New Varieties of Plants Selection"
+            desc: "Selection procedures used in introducing new plant varieties."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659b5e-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Genetic Engineering and Gene Cloning"
+            desc: "Principles and applications of genetic engineering and gene cloning."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b3938835c9346c2899929defe5348d1.mp4"
+        - custom:
+            title: "Biotechnology in Medicine"
+            desc: "Applications of biotechnology in medical treatments and diagnostics."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659ba6-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Stem Cells"
+            desc: "Understanding stem cells, their types, and medical significance."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b659bd9-0a3c-11f0-b0e0-e5021b5adc02.mp4"
+        - custom:
+            title: "Dna Fingerprinting Technology"
+            desc: "Methods and forensic applications of dna fingerprinting."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a9990240-e94f-11ef-af8b-e30ad8e2bfd9.mp4"
+        - custom:
+            title: "Dna Fingerprinting"
+            desc: "Dna fingerprinting technology"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf65bccd-feeb-11ef-80fb-29a65bc2a44b.mp4"
+        - custom:
+            title: "Genetically Modified Organisms"
+            desc: "Creation and impact of genetically modified organisms (gmos)."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fada7fa0-670e-11ed-b7b5-f724a7f15f2d.mp4"
     links:
         -  "[Human Evolution Clicker](https://play.google.com/store/apps/details?id=com.banana4apps.evolution)"
+        - "[Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection)"
     books:
         - b1:
             title: B.S. Tomar and S.P. Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications
@@ -13,7 +46,7 @@ references:
 categories:
     - origin-and-evolution-of-life
 tags:
-   - mid-term-2 
+    - mid-term-2 
 summary: "Origin and Evolution of Life deals with the theories and evidence regarding how life began on Earth and how it has changed over millions of years, covering the origin of the universe, the Miller-Urey experiment on chemical evolution, and the gradual emergence of simple life forms from non-living matter; it also includes Darwin's theory of natural selection, mechanisms of evolution like mutation, genetic drift, and gene flow, evidence from fossils, comparative anatomy, and molecular biology, leading to the formation of new species and the incredible diversity of life we see today."    
 ---
 

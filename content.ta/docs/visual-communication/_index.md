@@ -4,7 +4,11 @@ weight: 23
 references:
     videos:
         - youtube:q1uwuJxNvoA?si=yDEaKtSEfpwaB0FY
-    links: []
+    links:
+        - "[Color Vision](https://phet.colorado.edu/en/simulations/color-vision)"
+        - "[Geometric Optics](https://phet.colorado.edu/en/simulations/geometric-optics)"
+        - "[Geometric Optics: Basics](https://phet.colorado.edu/en/simulations/geometric-optics-basics)"
+        - "[Bending Light](https://phet.colorado.edu/en/simulations/bending-light)"
     books: []
    
 categories:

@@ -3,9 +3,22 @@ title: 'ஒலியியல்'
 weight: 5
 references:
     videos:
-        - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+         - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+         - custom:
+            title: "ஒலி அலைகளின் திசைவேகம் மற்றும் திசைவேகத்தைப் பாதிக்கும் காரணிகள்"
+            desc: "ஒலி அலைகளின் திசைவேகம் மற்றும் அதைப் பாதிக்கும் பல்வேறு காரணிகள் பற்றிய ஆய்வு."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/60852990-2044-11f0-b769-07e01a425648.mp4"
+         - custom:
+            title: "ஒலியின் எதிரொழிப்பு மற்றும் ஒலியின் எதிரொழிப்பின் பயன்பாடு"
+            desc: "ஒலியின் எதிரொழிப்பு கோட்பாடுகள் மற்றும் அதன் நடைமுறைப் பயன்பாடுகள்."
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/62c1dbaf-958f-4e47-84a1-3bfc48e7bbe3.mp4"
     links:
         - "[Doppler effect](https://ophysics.com/w11.html)"
+        - "[Sound Waves](https://phet.colorado.edu/en/simulations/sound-waves)"
+        - "[Wave on a String](https://phet.colorado.edu/en/simulations/wave-on-a-string)"
+        - "[Waves Intro](https://phet.colorado.edu/en/simulations/waves-intro)"
+        - "[Wave Interference](https://phet.colorado.edu/en/simulations/wave-interference)"
+        - "[Fourier: Making Waves](https://phet.colorado.edu/en/simulations/fourier-making-waves)"
     books:
         - b1:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson
