@@ -432,3 +432,49 @@ Some examples of genetically modified plants and animals are given in the table 
 ---
 
 ```
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q20 (2023 • 2-marks)
+
+Define genetic engineering.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition of Genetic Engineering**
+**Genetic engineering** (recombinant DNA technology) is the manipulation and transfer of genetic material (genes) from one organism to another using molecular tools to improve or modify the genetic makeup and produce desired traits.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q31 (b) (2024 • 4-marks)
+
+Mention the applications of DNA fingerprinting technique.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(b) Applications of DNA Fingerprinting**
+1. **Forensic investigations:** Identifying criminals in murder, assault, and rape cases.
+2. **Paternity and Maternity disputes:** Resolving parentage conflicts.
+3. **Pedigree analysis:** Tracing hereditary genetic disorders.
+
+</div>
+
+</details>
+
+---

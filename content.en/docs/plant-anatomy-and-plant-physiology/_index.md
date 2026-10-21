@@ -477,3 +477,159 @@ RQ = Volume of CO₂ liberated / Volume of O₂ consumed
 ---
 
 ```
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q19 (2025 • 2-marks)
+
+Identify the parts A, B, C, D in the given figure of a Chloroplast.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Parts of Chloroplast**
+- **A:** Outer membrane
+- **B:** Inner membrane
+- **C:** Granum (Thylakoids)
+- **D:** Stroma
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q28 (2023 • 4-marks)
+
+Answer the following questions:
+
+(a) Name the three basic tissue systems in a flowering plant.
+
+(b) What are the factors affecting photosynthesis ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Basic Tissue Systems in Flowering Plants**
+1. **Dermal or Epidermal tissue system:** Protects internal tissues and regulates transpiration.
+2. **Ground tissue system:** Comprises cortex, endodermis, pericycle, and pith for storage and support.
+3. **Vascular tissue system:** Consists of xylem (water transport) and phloem (food transport).
+
+**(b) Factors Affecting Photosynthesis**
+- **Internal factors:** Chlorophyll content, leaf anatomy, age of leaf, and internal carbon dioxide concentration.
+- **External factors:** Sunlight intensity and quality, carbon dioxide concentration, temperature, and water availability.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q26 (2024 • 4-marks)
+
+Answer the following questions:
+
+(a) What is Respiratory Quotient ?
+
+(b) Why should the light reaction take place before dark reaction in photosynthesis ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Respiratory Quotient (RQ)**
+**Respiratory Quotient** is the ratio of the volume of carbon dioxide released to the volume of oxygen consumed during respiration in a given time.
+$$\text{RQ} = \frac{\text{Volume of } \text{CO}_2 \text{ evolved}}{\text{Volume of } \text{O}_2 \text{ consumed}}$$
+
+**(b) Why Light Reaction Precedes Dark Reaction**
+The light reaction produces energy-rich assimilatory power in the form of **$\text{ATP}$ and $\text{NADPH}_2$** through photophosphorylation. These energy carriers are essential to fix and reduce $\text{CO}_2$ into carbohydrates during the dark reaction (Calvin cycle). Hence, the light reaction must occur first.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q35 [Option a] (2025 • 7-marks)
+
+Answer the following question (Internal Choice):
+
+(a) Differentiate :
+(i) Monocot root and Dicot root.
+(ii) Aerobic respiration and Anaerobic respiration.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (a)**
+**(i) Monocot Root vs Dicot Root**
+
+| Feature | Dicot Root (Bean) | Monocot Root (Maize) |
+|---|---|---|
+| **Xylem vessels** | Tetrarch (usually 4 xylem bundles). | Polyarch (many xylem bundles). |
+| **Cambium** | Present (secondary growth occurs). | Absent (no secondary growth). |
+| **Pith** | Pith is absent or very small. | Large and well-developed pith. |
+
+**(ii) Aerobic vs Anaerobic Respiration**
+
+| Feature | Aerobic Respiration | Anaerobic Respiration |
+|---|---|---|
+| **Oxygen requirement** | Requires oxygen ($O_2$). | Occurs in the absence of oxygen. |
+| **Breakdown** | Complete breakdown of glucose into $\text{CO}_2$ and $\text{H}_2\text{O}$. | Incomplete breakdown into ethyl alcohol or lactic acid. |
+| **Energy Yield** | High (38 ATP molecules per glucose). | Low (2 ATP molecules per glucose). |
+
+---
+
+</div>
+
+</details>
+
+---
+
+#### Question Q35 [Option a] (2026 • 7-marks)
+
+Answer the following question (Internal Choice):
+
+(a) (i) Name the three tissue systems in flowering plants.
+(ii) What is photosynthesis ? Where does it take place in a plant cell ?
+(iii) Write the overall balanced equation for photosynthesis.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (a)**
+**(i) Tissue Systems in Plants**
+1. Dermal / Epidermal tissue system
+2. Ground tissue system
+3. Vascular tissue system
+
+**(ii) Photosynthesis & Site**
+Photosynthesis is the photochemical process by which green plants synthesize carbohydrates (glucose) from carbon dioxide and water in the presence of sunlight and chlorophyll. It takes place in the **chloroplasts** of plant cells.
+
+**(iii) Balanced Equation of Photosynthesis**
+$$6\text{CO}_2 + 12\text{H}_2\text{O} \xrightarrow[\text{Chlorophyll}]{\text{Sunlight}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{H}_2\text{O} + 6\text{O}_2 \uparrow$$
+
+---
+
+</div>
+
+</details>
+
+---

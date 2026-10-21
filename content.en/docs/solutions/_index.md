@@ -531,3 +531,194 @@ $$
 
 ---
 
+---
+
+## Board Examination Questions
+
+### 4 Marks
+
+#### Question Q32 (b) (2023 • 4-marks)
+
+25 g of sugar is dissolved in 100 g of water. Calculate the mass percentage of the solution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(b) Mass Percentage Calculation**
+- Mass of solute (sugar) = $25\text{ g}$
+- Mass of solvent (water) = $100\text{ g}$
+- Mass of solution = $\text{Mass of solute} + \text{Mass of solvent} = 25 + 100 = 125\text{ g}$
+
+$$\text{Mass percentage} = \frac{\text{Mass of solute}}{\text{Mass of solution}} \times 100$$
+$$\text{Mass percentage} = \frac{25}{125} \times 100 = \frac{1}{5} \times 100 = \mathbf{20\%}$$
+
+</div>
+
+</details>
+
+---
+
+#### Question Q25 (2024 • 4-marks)
+
+Answer the following questions:
+
+(a) What happens when $\text{MgSO}_4 \cdot 7\text{H}_2\text{O}$ is heated ? Write the equation.
+
+(b) Define solubility.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Heating of Epsom Salt ($\text{MgSO}_4 \cdot 7\text{H}_2\text{O}$)**
+When hydrated magnesium sulphate (Epsom salt) is heated, it loses its seven molecules of water of crystallisation and turns into white anhydrous magnesium sulphate.
+$$\text{MgSO}_4 \cdot 7\text{H}_2\text{O} \xrightarrow{\Delta} \text{MgSO}_4 + 7\text{H}_2\text{O}$$
+
+**(b) Definition of Solubility**
+**Solubility** is defined as the number of grams of a solute that can be dissolved in **$100\text{ g}$ of a solvent** to form its saturated solution at a specified temperature and pressure.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q34 [Option a(iii)] (2023 • 7-marks)
+
+In what way hygroscopic substances differ from deliquescent substances ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(iii) Hygroscopic vs Deliquescent Substances**
+- **Hygroscopic Substances:** Absorb moisture from atmosphere without changing their physical state (e.g., conc. $\text{H}_2\text{SO}_4$, $\text{CaO}$).
+- **Deliquescent Substances:** Absorb sufficient moisture from atmosphere and completely dissolve in it to form a solution (e.g., $\text{NaOH}$, $\text{KOH}$, $\text{FeCl}_3$).
+
+---
+
+</div>
+
+</details>
+
+---
+
+#### Question Q34 [Option a(ii)] (2024 • 7-marks)
+
+How do hygroscopic substances differ from deliquescent substances ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) Hygroscopic vs Deliquescent Substances**
+- **Hygroscopic:** Absorb moisture without dissolving into liquid (e.g., anhydrous calcium chloride, conc. $\text{H}_2\text{SO}_4$).
+- **Deliquescent:** Absorb sufficient moisture to dissolve completely into solution (e.g., sodium hydroxide, potassium hydroxide).
+
+---
+
+</div>
+
+</details>
+
+---
+
+#### Question Q34 [Option b(i)] (2024 • 7-marks)
+
+Classify solutions based on the physical state of solute and solvent with examples.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Classification of Solutions Based on Physical State**
+- **Solid in Liquid:** Salt in water, Sugar in water.
+- **Liquid in Liquid:** Ethanol in water.
+- **Gas in Liquid:** Soda water ($\text{CO}_2$ in water).
+- **Solid in Solid:** Alloys like brass (zinc in copper).
+
+**(ii) Homologous Series**
+A series of structurally related organic compounds containing the same functional group:
+1. Successive members differ by $-\text{CH}_2-$ unit and $14\text{ amu}$ molecular mass.
+2. Share identical chemical properties.
+3. Display gradation in physical properties (melting point, boiling point).
+
+</div>
+
+</details>
+
+---
+
+#### Question Q34 [Option a] (2025 • 7-marks)
+
+Answer the following question (Internal Choice):
+
+(a) (i) What are the differences between hygroscopic and deliquescent substances ?
+(ii) Why is common salt spread on icy roads in cold countries ?
+(iii) Define mass percentage.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (a)**
+**(i) Hygroscopic vs Deliquescent Substances**
+- **Hygroscopic:** Absorb moisture from atmosphere without dissolving into liquid state (e.g., Quicklime $\text{CaO}$, conc. $\text{H}_2\text{SO}_4$).
+- **Deliquescent:** Absorb moisture and dissolve completely in the absorbed water to form solution (e.g., Caustic soda $\text{NaOH}$, $\text{FeCl}_3$).
+
+**(ii) Why Salt is Spread on Icy Roads**
+Spreading common salt on ice lowers the freezing point of water (**depression in freezing point**). As a result, ice melts even at temperatures below $0^\circ\text{C}$, clearing roads for safe driving.
+
+**(iii) Mass Percentage**
+Mass percentage is defined as the percentage by mass of solute present in the total mass of the solution:
+$$\text{Mass percentage} = \frac{\text{Mass of solute}}{\text{Mass of solution}} \times 100$$
+
+---
+
+</div>
+
+</details>
+
+---
+
+#### Question Q34 [Option a] (2026 • 7-marks)
+
+Answer the following question (Internal Choice):
+
+(a) (i) What is a binary solution ?
+(ii) Give an example each for: (1) Gas in liquid, (2) Solid in liquid.
+(iii) Differentiate between saturated and unsaturated solution.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (a)**
+**(i) Binary Solution**
+A solution consisting of exactly two components (one solute and one solvent) is called a **binary solution** (e.g., salt in water).
+
+**(ii) Examples**
+1. **Gas in liquid:** Soda water ($\text{CO}_2$ gas dissolved in water).
+2. **Solid in liquid:** Common salt dissolved in water.
+
+**(iii) Saturated vs Unsaturated Solution**
+- **Saturated Solution:** A solution in which no more solute can be dissolved at that given temperature (e.g., $36\text{ g}$ of $\text{NaCl}$ in $100\text{ g}$ of water at $25^\circ\text{C}$).
+- **Unsaturated Solution:** A solution containing less solute than the saturation limit, capable of dissolving more solute (e.g., $10\text{ g}$ of $\text{NaCl}$ in $100\text{ g}$ of water at $25^\circ\text{C}$).
+
+---
+
+</div>
+
+</details>
+
+---

@@ -654,3 +654,164 @@ Lymph from the intercellular spaces drains into lymphatic capillaries. Lymph is 
 
 ---
 
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q17 (2024 • 2-marks)
+
+Why is sinoatrial node called as pacemaker of heart ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Pacemaker of the Heart**
+The **Sinoatrial (SA) node** spontaneously initiates rhythmic electrical impulses that stimulate heart muscles to contract at regular intervals. Because it sets the pace and rate of the heartbeat, it is called the **pacemaker of the heart**.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q19 (2024 • 2-marks)
+
+Identify the parts A, B, C and D in the given figure of Stoma.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Parts of Stomatal Apparatus**
+- **A:** Guard cells
+- **B:** Stomatal pore
+- **C:** Chloroplast
+- **D:** Subsidiary (Epidermal) cells
+
+</div>
+
+</details>
+
+---
+
+#### Question Q17 (2025 • 2-marks)
+
+What is the importance of valves in the heart ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Importance of Valves in the Heart**
+1. **Unidirectional Flow:** Heart valves (tricuspid, bicuspid, and semilunar valves) ensure that blood flows in only one direction through the heart.
+2. **Prevention of Backflow:** They close tightly during ventricular contraction (systole) or relaxation (diastole) to prevent blood from flowing backward into atria or ventricles.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q17 (2026 • 2-marks)
+
+Why is the circulation in man referred to as double circulation ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Double Circulation in Humans**
+In humans, blood passes through the heart twice in one complete circuit around the body:
+1. **Pulmonary Circulation:** Deoxygenated blood travels from right ventricle to lungs and returns oxygenated to left atrium.
+2. **Systemic Circulation:** Oxygenated blood travels from left ventricle to all body tissues and returns deoxygenated to right atrium.
+Because these two separate circuits occur simultaneously without mixing, it is called **double circulation**.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q29 (2023 • 4-marks)
+
+Enumerate the functions of blood.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Functions of Blood**
+1. **Transport of Respiratory Gases:** Transports oxygen from lungs to tissues and carbon dioxide from tissues to lungs.
+2. **Transport of Nutrients:** Carries digested nutrients to all cells of the body.
+3. **Transport of Waste Products:** Carries nitrogenous excretory wastes (urea, uric acid) to kidneys for elimination.
+4. **Transport of Hormones:** Carries endocrine secretions (hormones) directly to target organs.
+5. **Immune Defence:** White blood cells (WBCs) and antibodies defend the body against invading pathogens.
+6. **Regulation of Body Temperature:** Distributes heat uniformly throughout the body to maintain homeostasis.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q29 (2024 • 4-marks)
+
+How are Arteries and Veins structurally different from one another ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Differences between Arteries and Veins**
+
+| Feature | Arteries | Veins |
+|---|---|---|
+| **Direction of flow** | Carry oxygenated blood away from heart to body organs (except pulmonary artery). | Carry deoxygenated blood from body organs towards the heart (except pulmonary vein). |
+| **Vessel Wall** | Thick, muscular, and elastic walls. | Thin, less muscular, and non-elastic walls. |
+| **Lumen** | Narrow lumen. | Wide lumen. |
+| **Valves** | Internal valves are absent. | Semilunar valves are present to prevent backflow. |
+| **Blood Pressure** | Blood flows under high pressure and rapid jerks. | Blood flows smoothly under low pressure. |
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q35 [Option b(i)] (2024 • 7-marks)
+
+Explain the structure of the human heart with a neat labelled diagram.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Structure of Human Heart**
+- Hollow muscular organ enclosed by pericardium.
+- Four chambers: two thin-walled superior atria (auricles) and two thick-walled inferior ventricles.
+- Tricuspid valve between right atrium and right ventricle; Bicuspid (mitral) valve between left atrium and left ventricle.
+- Pulmonary artery originates from right ventricle; Aorta originates from left ventricle.
+
+**(ii) Causes and Prevention of Soil Erosion**
+- **Causes:** Deforestation, overgrazing by cattle, shifting cultivation, intensive faulty agricultural practices.
+- **Prevention:** Afforestation and reforestation, contour ploughing, terrace farming, shelter belts / windbreaks.
+
+</div>
+
+</details>
+
+---

@@ -423,3 +423,208 @@ $$
 
 ---
 
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q15 (2023 • 2-marks)
+
+Define one Calorie.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition of One Calorie**
+**One calorie** is defined as the amount of heat energy required to raise the temperature of **1 gram of water through $1^\circ\text{C}$** (specifically from $14.5^\circ\text{C}$ to $15.5^\circ\text{C}$ at standard atmospheric pressure).
+
+$$1\text{ calorie} = 4.186\text{ J}$$
+
+</div>
+
+</details>
+
+---
+
+#### Question Q13 (2024 • 2-marks)
+
+What is coefficient of apparent expansion ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Coefficient of Apparent Expansion**
+The **coefficient of apparent expansion** of a liquid is defined as the ratio of the apparent increase in volume of the liquid to its original volume for each degree Celsius (or Kelvin) rise in temperature, without considering the expansion of the container.
+
+$$\alpha_a = \frac{\Delta V_a}{V_0 \cdot \Delta T}$$
+Unit: $\text{K}^{-1}$ or $^\circ\text{C}^{-1}$.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q13 (2025 • 2-marks)
+
+Define one Calorie.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition of One Calorie**
+**One calorie** is the quantity of heat energy required to raise the temperature of **1 gram of water by $1^\circ\text{C}$** (specifically from $14.5^\circ\text{C}$ to $15.5^\circ\text{C}$).
+
+$$1\text{ cal} = 4.186\text{ J}$$
+
+</div>
+
+</details>
+
+---
+
+#### Question Q13 (2026 • 2-marks)
+
+State Boyle's Law.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Boyle's Law**
+**Boyle's Law** states that when the temperature of a gas is kept constant, the volume of a fixed mass of gas is inversely proportional to its pressure.
+
+$$P \propto \frac{1}{V}$$
+$$P \cdot V = \text{constant}$$
+
+Where $P$ is pressure and $V$ is volume.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q23 (2025 • 4-marks)
+
+Derive the ideal gas equation.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Derivation of Ideal Gas Equation**
+The ideal gas equation is derived by combining Boyle's Law, Charles's Law, and Avogadro's Law.
+
+1. **According to Boyle's Law:**
+   $$V \propto \frac{1}{P} \quad (\text{at constant } T, n)$$
+2. **According to Charles's Law:**
+   $$V \propto T \quad (\text{at constant } P, n)$$
+3. **According to Avogadro's Law:**
+   $$V \propto n \quad (\text{at constant } P, T)$$
+
+Combining the above three laws:
+$$V \propto \frac{n T}{P}$$
+$$P V \propto n T$$
+$$P V = R \cdot n T$$
+
+$$\mathbf{P V = n R T}$$
+
+Where:
+- $P$ = Pressure of the gas
+- $V$ = Volume of the gas
+- $n$ = Number of moles
+- $R$ = Universal Gas Constant ($8.31\text{ J mol}^{-1}\text{ K}^{-1}$)
+- $T$ = Absolute temperature in Kelvin.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q24 (2026 • 4-marks)
+
+Answer the following questions:
+
+(a) Distinguish between linear expansion and superficial expansion.
+
+(b) What is coefficient of real expansion ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Linear vs Superficial Expansion**
+- **Linear Expansion:** Expansion in the length of a solid rod due to heating. The coefficient is $\alpha_L = \frac{\Delta L}{L_0 \Delta T}$.
+- **Superficial Expansion:** Expansion in the surface area of a solid sheet due to heating. The coefficient is $\alpha_A = \frac{\Delta A}{A_0 \Delta T}$.
+
+**(b) Coefficient of Real Expansion**
+The **coefficient of real expansion** of a liquid is defined as the ratio of the real increase in volume of the liquid to its original volume for each degree rise in temperature, taking into account the expansion of the container ($K^{-1}$).
+
+</div>
+
+</details>
+
+---
+
+#### Question Q32 (2026 • 4-marks)
+
+A container of 70 mL capacity is filled with 50 mL of liquid. When heated, the level of liquid initially falls and then rises. Explain this observation with reference to real and apparent expansion.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Explanation of Apparent and Real Expansion**
+When a liquid in a container is heated:
+1. **Initial Fall in Level:** Heat is first absorbed by the glass container. The container expands before the heat reaches the liquid, causing the liquid level to drop initially from $L_1$ to $L_2$.
+2. **Subsequent Rise in Level:** As heat reaches the liquid, the liquid expands much more rapidly than the glass container, rising from $L_2$ to $L_3$.
+
+- **Apparent Expansion:** Difference between initial level and final level ($L_3 - L_1$).
+- **Real Expansion:** Actual expansion of the liquid without vessel expansion ($L_3 - L_2$).
+$$\mathbf{\text{Real Expansion} = \text{Apparent Expansion} + \text{Vessel Expansion}}$$
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q33 [Option b(i)] (2024 • 7-marks)
+
+State Boyle's Law and Charles's Law.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Gas Laws**
+- **Boyle's Law:** At constant temperature, the volume of a given mass of gas is inversely proportional to its pressure ($P \propto 1/V$ or $PV = \text{constant}$).
+- **Charles's Law:** At constant pressure, the volume of a given mass of gas is directly proportional to its absolute temperature ($V \propto T$ or $V/T = \text{constant}$).
+
+**(ii) Mass vs Weight**
+- **Mass:** Fundamental quantity; amount of matter in a body; scalar quantity; SI unit is kilogram ($\text{kg}$); remains constant everywhere.
+- **Weight:** Derived quantity; gravitational force acting on a body ($W = mg$); vector quantity; SI unit is Newton ($\text{N}$); varies from place to place.
+
+</div>
+
+</details>
+
+---

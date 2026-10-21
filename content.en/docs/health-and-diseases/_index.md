@@ -582,4 +582,47 @@ The following steps may help in controlling and prevent the spreading of HIV inf
 
 ---
 
+---
 
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q21 (2024 • 2-marks)
+
+What is metastasis ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Metastasis**
+**Metastasis** is the spread of cancerous cells from the primary tumour site to other distant organs and tissues of the body through blood or lymph circulation, where they establish secondary malignant tumours.
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q35 [Option b(ii)] (2023 • 7-marks)
+
+Describe the symptoms and preventive measures of AIDS.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(ii) AIDS - Symptoms and Prevention**
+- **Symptoms:** Prolonged fever, chronic diarrhoea, severe weight loss, swollen lymph nodes, opportunistic infections.
+- **Prevention:** Screening donor blood, using disposable syringes, practicing safe sex, avoiding drug abuse, educating public on transmission modes.
+
+</div>
+
+</details>
+
+---

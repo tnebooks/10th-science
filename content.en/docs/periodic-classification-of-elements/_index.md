@@ -806,3 +806,175 @@ It is a railway bridge which connects the town of Rameshwaram on Pamban Island t
 - The chemical name of rust is hydrated ferric oxide and its formula is Fe₂O₃·xH₂O.
 
 ---
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q15 (2024 • 2-marks)
+
+What is rust ? Give the equation for the formation of rust.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition and Equation of Rust**
+When iron is exposed to moist air (oxygen and water), it slowly oxidises to form a reddish-brown hydrated ferric oxide coating called **rust**.
+
+**Chemical Equation:**
+$$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{O}_3 \cdot x\text{H}_2\text{O}\text{ (Hydrated Ferric Oxide)}$$
+
+</div>
+
+</details>
+
+---
+
+#### Question Q15 (2025 • 2-marks)
+
+State two conditions necessary for rusting of iron.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Conditions Necessary for Rusting of Iron**
+1. **Presence of Oxygen ($O_2$):** Direct contact with atmospheric air/oxygen is required.
+2. **Presence of Moisture / Water ($H_2O$):** Water or water vapour is necessary to act as the electrolyte for electrochemical oxidation.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q15 (2026 • 2-marks)
+
+What is rust ? Give the equation for formation of rust.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition and Equation of Rust**
+When iron is exposed to moisture and oxygen, it undergoes slow oxidation to form a reddish-brown coating of hydrated ferric oxide called **rust**.
+
+**Equation:**
+$$4\text{Fe} + 3\text{O}_2 + 2x\text{H}_2\text{O} \rightarrow 2\text{Fe}_2\text{O}_3 \cdot x\text{H}_2\text{O}$$
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q26 (2023 • 4-marks)
+
+Answer the following questions:
+
+(a) What is an amalgam ? Give an example.
+
+(b) Mention any two uses of copper.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Amalgam**
+An **amalgam** is an alloy of mercury with one or more other metals.
+- **Example:** Silver-tin amalgam (used in dental filling) or Sodium amalgam ($\text{Na-Hg}$).
+
+**(b) Uses of Copper**
+1. It is extensively used in making electrical cables and wires due to its high electrical conductivity.
+2. It is used in making household utensils, coins, and electrotyping plates.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q32 (a) (2024 • 4-marks)
+
+Which acid renders aluminium metal passive ? Why ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Passivity of Aluminium**
+**Concentrated nitric acid ($\text{HNO}_3$)** renders aluminium passive. This is because concentrated nitric acid is a strong oxidising agent; it rapidly forms a tough, non-porous protective oxide layer of aluminium oxide ($\text{Al}_2\text{O}_3$) on the metal surface, which prevents further chemical reaction.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q27 (2025 • 4-marks)
+
+Answer the following questions:
+
+(i) What is an alloy ?
+
+(ii) State reasons for creating alloys.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(i) Definition of Alloy**
+An **alloy** is a homogeneous mixture of two or more metals, or of one or more metals with certain non-metallic elements, fused together in a molten state.
+
+**(ii) Reasons for Creating Alloys**
+1. **To enhance mechanical strength and hardness:** (e.g., Adding carbon to iron to make steel).
+2. **To resist corrosion and rusting:** (e.g., Stainless steel does not rust like pure iron).
+3. **To lower the melting point:** (e.g., Solder wire).
+4. **To improve appearance and lustre:** (e.g., Brass and bronze used for decorative objects).
+
+</div>
+
+</details>
+
+---
+
+#### Question Q27 (2026 • 4-marks)
+
+Answer the following questions:
+
+(a) What type of bond is formed between H and F in HF molecule ?
+
+(b) Which periodic property helps to explain this bond ?
+
+(c) How does this property vary along a period ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Bond in $\text{HF}$ Molecule**
+**Polar covalent bond** (due to large electronegativity difference between Hydrogen and Fluorine).
+
+**(b) Periodic Property**
+**Electronegativity**.
+
+**(c) Periodic Variation**
+Along a period from left to right, electronegativity **increases** because nuclear charge increases and atomic size decreases, drawing bonding electrons more strongly.
+
+</div>
+
+</details>
+
+---

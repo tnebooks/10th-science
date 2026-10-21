@@ -213,3 +213,45 @@ summary: "கோப்பு மற்றும் கோப்புத்த�
 3.  மேடை (STAGE) என்றால் என்ன?
 
 4.  ஸ்பிரைட் (SPRITE) என்றால் என்ன?
+
+---
+
+## அரசு பொதுத்தேர்வு வினாக்கள் (Board Examination Questions)
+
+### 2 மதிப்பெண் வினாக்கள் (2 Marks)
+
+#### வினா Q21 (2023 • 2 மதிப்பெண்கள்)
+
+ஸ்ப்ரைட் (SPRITE) என்றால் என்ன?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**ஸ்ப்ரைட் (SPRITE)**
+ஸ்கிராட்ச் (Scratch) போன்ற வரைகலை நிரலாக்க மென்பொருளில், திரையில் நகர்த்தக்கூடிய, செயல்களைச் செய்யக்கூடிய மற்றும் நிரல் கட்டளைகளின் மூலம் இயக்கப்படும் கதாபாத்திரம் அல்லது பொருள் **ஸ்ப்ரைட்** எனப்படும்.
+
+</div>
+
+</details>
+
+---
+
+#### வினா Q16 (2024 • 2 மதிப்பெண்கள்)
+
+மேடை (Stage) என்றால் என்ன?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**மேடை (Stage)**
+ஸ்கிராட்ச் (Scratch) நிரலாக்க மென்பொருளில், ஸ்ப்ரைட்கள் (Sprites) இயங்கும், வரையும், உரையாடும் மற்றும் நிரல் செயல்பாடுகளை நிகழ்த்திக் காட்டும் முதன்மை பின்னணித் திரை **மேடை (Stage)** எனப்படும்.
+
+</div>
+
+</details>
+
+---

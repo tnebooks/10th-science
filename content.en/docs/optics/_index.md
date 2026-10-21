@@ -744,3 +744,147 @@ $$
 
 ---
 
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q14 (2023 • 2-marks)
+
+Why does the sky appear blue in colour ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Reason for Blue Colour of the Sky**
+According to **Rayleigh's scattering law**, the amount of scattering of light ($S$) is inversely proportional to the fourth power of its wavelength ($\lambda$):
+
+$$S \propto \frac{1}{\lambda^4}$$
+
+When sunlight passes through the atmosphere, violet and blue colours have shorter wavelengths compared to red colour. Therefore, blue light is scattered much more strongly by the gas molecules in the atmosphere in all directions, causing the sky to appear blue.
+
+</div>
+
+</details>
+
+---
+
+### 4 Marks
+
+#### Question Q24 (2023 • 4-marks)
+
+Differentiate the eye defects : Myopia and Hypermetropia.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Difference between Myopia and Hypermetropia**
+
+| Feature | Myopia (Short-sightedness) | Hypermetropia (Long-sightedness) |
+|---|---|---|
+| **Vision** | Nearby objects are seen clearly, but distant objects cannot be seen clearly. | Distant objects are seen clearly, but nearby objects cannot be seen clearly. |
+| **Cause** | Lengthening of eyeball or shortening of focal length of eye lens. | Shortening of eyeball or increase in focal length of eye lens. |
+| **Image Formation** | Image is formed **in front of the retina**. | Image is formed **behind the retina**. |
+| **Correction** | Corrected using a **concave lens** of suitable focal length. | Corrected using a **convex lens** of suitable focal length. |
+
+</div>
+
+</details>
+
+---
+
+#### Question Q24 (2025 • 4-marks)
+
+Differentiate the eye defects : Myopia and Hypermetropia.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Differences between Myopia and Hypermetropia**
+
+| Feature | Myopia (Short-sightedness) | Hypermetropia (Long-sightedness) |
+|---|---|---|
+| **Definition** | Person can see nearby objects clearly, but cannot see distant objects. | Person can see distant objects clearly, but cannot see nearby objects. |
+| **Causes** | Lengthening of eye ball or shortening of focal length of eye lens. | Shortening of eye ball or increase in focal length of eye lens. |
+| **Focus Point** | Image of distant object forms in front of the retina. | Image of nearby object forms behind the retina. |
+| **Corrective Lens** | Concave lens of suitable focal length. | Convex lens of suitable focal length. |
+
+</div>
+
+</details>
+
+---
+
+#### Question Q23 (2026 • 4-marks)
+
+Answer the following questions:
+
+(a) State any two properties of light.
+
+(b) Mention the characteristics of the image formed by a convex lens when an object is placed between F and 2F.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**(a) Properties of Light**
+1. Light travels along a straight line path (rectilinear propagation).
+2. Light does not require a material medium for its propagation; it travels through vacuum with speed $c = 3 \times 10^8\text{ m s}^{-1}$.
+
+**(b) Characteristics of Image (Object between F and 2F of Convex Lens)**
+1. **Position:** Beyond $2F$ on the other side of the lens.
+2. **Nature:** Real and inverted.
+3. **Size:** Magnified (larger than the object).
+
+</div>
+
+</details>
+
+---
+
+### 7 Marks
+
+#### Question Q33 [Option a] (2024 • 7-marks)
+
+Answer the following question (Internal Choice):
+
+(a) (i) What are the uses of convex lens ?
+(ii) Define dispersion of light.
+(iii) Why are traffic signals red in colour ?
+(iv) State the least distance of distinct vision.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Option (a)**
+**(i) Uses of Convex Lens**
+1. Used as camera lenses.
+2. Used in magnifying glasses, microscopes, and telescopes.
+3. Used to correct hypermetropia (long-sightedness).
+
+**(ii) Dispersion of Light**
+The splitting of a beam of white light into its seven constituent spectral colours (VIBGYOR) when passing through a transparent prism is called **dispersion of light**.
+
+**(iii) Why Traffic Signals are Red**
+Red colour has the longest wavelength among visible spectral colours. According to Rayleigh's law, it is scattered least by fog and air molecules and is clearly visible from great distances.
+
+**(iv) Least Distance of Distinct Vision**
+For a normal human eye, the least distance of distinct vision is **$25\text{ cm}$**.
+
+---
+
+</div>
+
+</details>
+
+---

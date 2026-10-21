@@ -186,3 +186,45 @@ Click the green flag at the top right corner of the stage to run your program.
 (Hello text displayed by sprite)
 
 ---
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### Question Q21 (2023 • 2-marks)
+
+What is Sprite ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Sprite**
+In visual programming environments such as Scratch, a **Sprite** is an on-screen character or object that can be programmed to move, perform actions, and interact using script blocks on the stage.
+
+</div>
+
+</details>
+
+---
+
+#### Question Q16 (2024 • 2-marks)
+
+What is stage ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Stage (in Scratch)**
+In Scratch, the **Stage** is the main display background area where sprites move, draw, interact, and execute scripts. It functions as the canvas or screen on which the created project, animation, or game runs.
+
+</div>
+
+</details>
+
+---
