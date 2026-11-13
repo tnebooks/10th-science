@@ -56,6 +56,8 @@ references:
             title: Chaudhari, H.K., Elementary Principles of Plant Breeding, 2nd Edition.
             url: https://books.google.co.in/books/about/Elementry_Prin_Of_Plant_Breeding.html?id=zJs_AAAAYAAJ&redir_esc=y
 categories:
+  - biology
+  - zoology
     - breeding-and-biotechnology
 tags:
     - mid-term-2 

@@ -14,6 +14,8 @@ references:
             title: Kotpal R.L, 2014 Modern Text Book of Zoology -Invertebrates,Rastogi Publications, Meerut.
             url: https://www.biologydiscussion.com/zoology
 categories:
+  - biology
+  - zoology
     - structural-organisation-of-animals
 tags:
     - mid-term-1

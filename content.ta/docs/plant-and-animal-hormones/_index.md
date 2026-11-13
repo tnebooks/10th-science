@@ -45,6 +45,8 @@ references:
             title: Helgi Opik and Stephen Rolfe, The Physiology of Flowering Plants, Cambridge University Press.
             url: https://www.biologydiscussion.com/
 categories:
+  - biology
+  - zoology
     - plant-and-animal-hormones
 tags:
     - quarterly

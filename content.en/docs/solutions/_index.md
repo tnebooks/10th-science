@@ -16,6 +16,7 @@ references:
             title: Properties Liquids Solutions John Murrell 2nd Edition.
             url: https://www.wiley.com/en-us/Properties+of+Liquids+and+Solutions%2C+2nd+Edition-p-9780471944195
 categories:
+  - chemistry
     - solutions
 tags:
     - quarterly 

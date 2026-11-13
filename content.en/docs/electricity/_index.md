@@ -33,6 +33,7 @@ references:
             url: https://ggnindia.dronacharya.info/Downloads/Sub-info/RelatedBook/Electric-Circuit-Analysis-Book-4.pdf
 
 categories:
+  - physics
     - electricity
 tags:
     - quarterly

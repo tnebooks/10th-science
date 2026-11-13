@@ -27,6 +27,7 @@ references:
             title: Physics concepts and connections – by Art Hobson Edition Pearson education
             url: https://www.physics.columbia.edu/research/nu-clear-physics
 categories:
+  - physics
     - nuclear-physics
 tags:
     - mid-term-2

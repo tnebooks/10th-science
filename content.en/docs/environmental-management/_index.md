@@ -14,6 +14,8 @@ references:
             title: P.D. Sharma, 2013. Ecology and Environment, Rastogi Publications, Meerut.
             url: https://www.scribd.com/document/439522041/P-D-Sharma
 categories:
+  - biology
+  - zoology
     - environmental-management
 summary: "Environmental Management is the systematic approach to understanding and solving environmental problems, focusing on the sustainable use of natural resources, conservation of biodiversity, and control of pollution (air, water, and soil); it covers topics like ecosystem structure and function, biogeochemical cycles (carbon, nitrogen, and water cycles), climate change, global warming, ozone layer depletion, waste management (reduce, reuse, recycle), and environmental laws and policies, along with the importance of public awareness and community participation in protecting the environment for future generations."      
 ---

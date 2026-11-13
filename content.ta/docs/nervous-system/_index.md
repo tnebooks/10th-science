@@ -58,6 +58,8 @@ references:
             title: Guyton and Hall, 2003, Textbook of Medical Physiology; Harcourt Indian Private Limited.
             url: https://faculty.ksu.edu.sa/sites/default/files/hall_textbook_of_medical_physiology.pdf
 categories:
+  - biology
+  - zoology
     - nervous-system
 tags:
     - quarterly

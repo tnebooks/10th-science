@@ -46,6 +46,8 @@ references:
             url: https://www.biologydiscussion.com/
 
 categories:
+  - biology
+  - zoology
     - plant-and-animal-hormones
 tags:
     - quarterly

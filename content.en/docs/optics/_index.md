@@ -68,6 +68,7 @@ references:
             title:  Fundamentals of optics by D.R. Khanna and H.R. Gulati, R. Chand & Co.
             url: https://www.urbanbae.com/fundamentals-of-optics-paperback-p
 categories:
+  - physics
     - optics
 tags:
     - mid-term-1

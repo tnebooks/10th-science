@@ -75,6 +75,8 @@ references:
             title: Verma P.S and Agarwal, V.K. and Tyagi B.S, Animal Physiology, S.Chand and Company, New Delhi
             url: https://books.google.co.in/books/about/Animal_Physiology.html?id=eqQMpHgnIFAC&redir_esc=y
 categories:
+  - biology
+  - botony
     - reproduction-in-plants-and-animals
 tags:
     - quarterly

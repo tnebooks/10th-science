@@ -55,6 +55,7 @@ references:
             title: Oxford Inorganic chemistry
             url: https://www.webelements.com/
 categories:
+  - chemistry
     - periodic-classification-of-elements
 tags:
     - mid-term-1

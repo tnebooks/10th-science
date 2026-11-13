@@ -108,6 +108,8 @@ references:
             title: Srilakshmi, B. Dietetics, 2014, 7th Multicolor Edition, New Age International Publishers, New Delhi.
             url: https://books.google.com.et/books?id=f_i7j4_cMLIC&printsec=copyright#v=onepage&q&f=false
 categories:
+  - biology
+  - zoology
       - health-and-diseases
 tags:
    - mid-term-2

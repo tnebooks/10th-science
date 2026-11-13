@@ -64,6 +64,8 @@ references:
             title: P. S. Verma and V.K. Agarwal, Genetics, S. Chand and Company, New Delhi
             url: https://dpbck.ac.in/wp-content/uploads/2022/09/Cell-Biology-Verma-and-Agarwal.pdf
 categories:
+  - biology
+  - zoology
     - genetics
 tags:
     - quarterly

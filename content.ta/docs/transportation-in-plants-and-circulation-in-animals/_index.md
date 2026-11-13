@@ -126,6 +126,8 @@ references:
             title: V.K. Jain, Fundamentals of Plant physiology, S.Chand and Company, New Delhi
             url: https://www.britannica.com/science/human-circulatory-system
 categories:
+  - biology
+  - botony
     - transportation-in-plants-and-circulation-in-animals
 tags:
     - mid-term-1

@@ -14,6 +14,8 @@ references:
             title: P.D. Sharma, 2013. Ecology and Environment, Rastogi Publications, Meerut.
             url: https://www.scribd.com/document/439522041/P-D-Sharma
 categories:
+  - biology
+  - zoology
       - environmental-management
 summary: "இயற்கை வளங்களைப் பாதுகாத்தல், காடுகள் மற்றும் வன உயிரினங்களின் பாதுகாப்பு, மண்ணரிப்பைத் தடுத்தல் ஆகியவற்றை விளக்குகிறது. புதைபடிவ எரிபொருள்கள் மற்றும் மாற்று ஆற்றல் வளங்கள், மழைநீர் சேகரிப்பு, மின்னாற்றல் சேமிப்பு, மின்னணுக் கழிவுகள், கழிவுநீர் மற்றும் திடக்கழிவு மேலாண்மை, 4R முறை ஆகியவற்றையும் எடுத்துரைக்கிறது."
    

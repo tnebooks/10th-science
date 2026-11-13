@@ -36,6 +36,7 @@ references:
             title: Thermodynamics and an introduction to thermo statistics by Herbert Hallen
             url: https://cdn1.byjus.com/wp-content/uploads/2019/04/Tamilnadu-Board-Class-10-Science-Textbook-Chapter-3.pdf
 categories:
+  - physics
     - thermal-physics
 tags:
     - quarterly

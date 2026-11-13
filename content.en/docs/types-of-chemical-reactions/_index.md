@@ -16,6 +16,7 @@ references:
             title: Text book of inorganic chemistry-P.L.Soni-S.Chand & sons publishers, New Delhi
             url: https://www.chem4kids.com/
 categories:
+  - chemistry
     - types-of-chemical-reactions
 tags:
     - mid-term-2

@@ -52,6 +52,7 @@ references:
             title:  Concept of physics - HC verma
             url: https://readyourflow.com/book-author/h-c-verma-2/
 categories:
+  - physics
     - laws-of-motion
 tags:
     - mid-term-1

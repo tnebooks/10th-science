@@ -24,6 +24,7 @@ references:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson
             url: http://people.bath.ac.uk/ensmjc/Notes/acoustics.pdf
 categories:
+  - physics
     - acoustics
 tags:
    - mid-term-2

@@ -44,6 +44,8 @@ references:
             title: B.S. Tomar and S.P. Singh, An Introduction to General Biology, 9th Edition, Rastogi Publications
             url: http://rastogipublications.com/index.php?route=product/product&product_id=87
 categories:
+  - biology
+  - zoology
     - origin-and-evolution-of-life
 tags:
     - mid-term-2 

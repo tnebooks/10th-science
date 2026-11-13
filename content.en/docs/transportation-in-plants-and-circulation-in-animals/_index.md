@@ -127,6 +127,8 @@ references:
             url: https://www.britannica.com/science/human-circulatory-system
 
 categories:
+  - biology
+  - botony
     - transportation-in-plants-and-circulation-in-animals
 tags:
     - mid-term-1

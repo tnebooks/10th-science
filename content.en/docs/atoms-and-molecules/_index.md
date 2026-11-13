@@ -41,6 +41,7 @@ references:
             title: Petrucci, Ralph H et.al. General Chemistry Principles & Modern Applications (9thEdition). Upper Saddle River, NJ PearsonPrentice Hall, 2007. Print.
             url: https://www.toppr.com/guides/chemistry/atoms-and-molecules/
 categories:
+  - chemistry
     - atoms-and-molecules
 tags:
     - mid-term-1
